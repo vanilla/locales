@@ -711,6 +711,7 @@ $Definition['Edit My Account'] = 'تعديل حسابي';
 $Definition['Edit My Profile'] = 'تعديل ملفي الشخصي';
 $Definition['Edit My Thumbnail'] = 'تعديل صورتي المصغرة';
 $Definition['editor.BBCodeHelpText'] = 'يمكنك استعمال <a href="http://en.wikipedia.org/wiki/BBCode"; target="_new">BBCode</a> في مداخلتك.';
+$Definition['editor.fileErrorAlreadyExists'] = 'تم تحميل الملف بالفعل.';
 $Definition['editor.fileErrorFormat'] = 'تنسيق الملف غير مسموح به.
 ';
 $Definition['editor.fileErrorSize'] = 'حجم الملف كبير جداً.';
@@ -1187,6 +1188,7 @@ $Definition['Leave Conversation'] = 'مغادرة المحادثة';
 $Definition['Leave Group'] = 'غادر المجموعة';
 $Definition['Leaving'] = 'مغادرة';
 $Definition['Left Headers'] = 'العناوين اليسرى';
+$Definition['Legacy'] = 'إرث';
 $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';

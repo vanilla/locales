@@ -1,1534 +1,2265 @@
 <?php
 
-$Definition['"Accept Answer" if a suggestion answers your question.'] = '„Приемам отговор“, ако дадено предложение отговаря на въпроса ви.';
-
-$Definition['# Reports'] = '# Доклади';
-
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" не е намерено.';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Версия %2$s';
-$Definition['%1$s version %2$s is available.'] = 'Налична е %2$s версия на %1$s.';
-$Definition['%d slides on display initial slide %d of %d'] = '%d слайдове на дисплея начален слайд %d от %d';
-$Definition['%s ago'] = 'преди %s';
-$Definition['%s in the following categories will require moderator approval.'] = '%s в следните категории ще изискват одобрение от модератор.';
-$Definition['%s is not a valid email address'] = '%s не е валиден email адрес';
-$Definition['%s is required'] = '%s се изисква';
-$Definition['%s item in queue'] = '%s елемент на опашка';
-$Definition['%s level'] = '%s ниво';
-$Definition['%s levels'] = '%s нива';
-$Definition['%s must be numeric'] = '%s трябва да е числово';
-$Definition['%s site(s) found.'] = 'намерен (и) сайт (и) %s';
-$Definition['%s sources(s) found.'] = '%s намерени източници.';
-$Definition['%s times'] = '%s пъти';
-$Definition['%s unavailable'] = '%s не е наличен';
-$Definition['%s user(s) found.'] = '%s намерени потребители (и).';
-$Definition['%s user(s) will be affected by this action.'] = '%s потребител (и) ще бъдат засегнати от това действие.';
-$Definition['%s user found.'] = '%s намерен потребител.';
-$Definition['%s users found.'] = 'Намерени са %s потребители.';
+$Definition['%1$s version %2$s is available.'] =
+    'Налична е %2$s версия на %1$s.';
+$Definition["%s is not a valid email address"] =
+    "%s не е валиден email адрес";
+$Definition["%s is required"] = "%s се изисква";
+$Definition["%s item in queue"] = "%s елемент на опашка";
+$Definition["%s level"] = "%s ниво";
+$Definition["%s levels"] = "%s нива";
+$Definition["%s must be numeric"] = "%s трябва да е числово";
+$Definition["%s site(s) found."] = "намерен (и) сайт (и) %s";
+$Definition["%s sources(s) found."] = "%s намерени източници.";
+$Definition["%s times"] = "%s пъти";
+$Definition["%s unavailable"] = "%s не е наличен";
+$Definition["%s user found."] = "%s намерен потребител.";
+$Definition["%s users found."] = "Намерени са %s потребители.";
+$Definition["%s user(s) found."] = "%s намерени потребители (и).";
+$Definition["%s user(s) will be affected by this action."] =
+    "%s потребител (и) ще бъдат засегнати от това действие.";
 
-$Definition['(less)'] = '(по-малко)';
-$Definition['(more)'] = '(Повече ▼)';
-$Definition['(YYYY-mm-dd)'] = '(ГГГГ-MM-DD)';
+$Definition["<0/> will suggest answers on Q&A posts"] =
+    "<0/> ще предложи отговори на публикации с въпроси и отговори";
+$Definition["<0 /> will not suggest answers on Q&A posts"] =
+    "<0 /> няма да предлага отговори на публикации с въпроси и отговори";
 
-$Definition['1 day'] = '1 ден';
-$Definition['1 hour'] = 'Един час';
-$Definition['1 in 5 is recommended for most communities.'] = '1 на 5 се препоръчва за повечето общности.';
-$Definition['1 in 20 is recommended for most communities.'] = '1 на 20 се препоръчва за повечето общности.';
-$Definition['1 month'] = '1 месец';
-$Definition['1 month after being sent'] = '1 месец след изпращане';
-$Definition['1 week'] = '1 седмица';
-$Definition['1 week after being sent'] = '1 седмица след изпращане';
-$Definition['2 weeks after being sent'] = '2 седмици след изпращане';
-$Definition['4 hours'] = '4 часа';
-$Definition['5 minutes'] = '5 минути';
-$Definition['15 minutes'] = '15 минути';
+$Definition["(less)"] = "(по-малко)";
+$Definition["(more)"] = "(Повече ▼)";
+$Definition["(YYYY-mm-dd)"] = "(ГГГГ-MM-DD)";
 
-$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> няма да предлага отговори на публикации с въпроси и отговори';
-$Definition['<0/> <1/> more comments'] = '<0/> <1/> още коментара';
-$Definition['<0/> has been <1/>'] = '<0/> беше <1/>';
-$Definition['<0/> new'] = '<0/> ново';
-$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> ще предложи отговори на публикации с въпроси и отговори';
+$Definition["1 day"] = "1 ден";
+$Definition["1 hour"] = "Един час";
+$Definition["1 in 5 is recommended for most communities."] =
+    "1 на 5 се препоръчва за повечето общности.";
+$Definition["1 in 20 is recommended for most communities."] =
+    "1 на 20 се препоръчва за повечето общности.";
+$Definition["1 month"] = "1 месец";
+$Definition["1 month after being sent"] = "1 месец след изпращане";
+$Definition["1 week"] = "1 седмица";
+$Definition["1 week after being sent"] = "1 седмица след изпращане";
+$Definition["2 weeks after being sent"] = "2 седмици след изпращане";
+$Definition["4 hours"] = "4 часа";
+$Definition["5 minutes"] = "5 минути";
+$Definition["15 minutes"] = "15 минути";
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Потвърдете своя имейл адрес';
-$Definition['[%s] Invitation'] = '[%s] Покана';
-$Definition['[%s] Password Reset'] = '[%s] Нулиране на паролата';
-$Definition['[%s] Password Reset Request'] = '[%s] Заявка за нулиране на парола';
+$Definition["[%s] Confirm Your Email Address"] =
+    "[%s] Потвърдете своя имейл адрес";
+$Definition["[%s] Invitation"] = "[%s] Покана";
+$Definition["[%s] Password Reset"] = "[%s] Нулиране на паролата";
+$Definition["[%s] Password Reset Request"] = "[%s] Заявка за нулиране на парола";
+$Definition[
+    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
+] = 'Достигнахте максималния брой опити за влизане. Моля, изчакайте %s и опитайте отново.';
 
-$Definition['a Badge'] = 'значка';
-$Definition['Abilites'] = 'способности';
-$Definition['Abilities'] = 'способности';
-$Definition['About %s'] = 'Относно %s';
-$Definition['About Email Digest'] = 'Относно имейл дайджеста';
-$Definition['About External Search'] = 'Относно външното търсене';
-$Definition['About Theme Preview'] = 'За прегледа на темата';
-$Definition['Above Main Content'] = 'Над основното съдържание';
-$Definition['Accept Answer'] = 'Приеми отговор';
-$Definition['Accepted answer pageview ratio representing a deflected case'] = 'Коефициентът на преглед на страницата с приет отговор, представляващ отклонен случай';
-$Definition['Accepted Answers'] = 'Приети отговори';
-$Definition['Account Sync Failed'] = 'Синхронизирането на акаунта не бе успешно';
-$Definition['A concise name for the report reason.'] = 'Кратко име за причината за доклада.';
-$Definition['Action'] = 'действие';
-$Definition['Actions and Permissions'] = 'Действия и разрешения';
-$Definition['Actions Based on Votes'] = 'Действия въз основа на гласовете';
-$Definition['Activate Icon Pack'] = 'Активирайте пакета с икони';
-$Definition['Active Icon'] = 'Активна икона';
-$Definition['Activity & Registration'] = 'Дейност и регистрация';
+$Definition["a Badge"] = "значка";
+$Definition["A unique display name."] = "Уникално екранно име.";
+$Definition["A unique label name that cannot be changed once saved."] =
+    "Уникално име на етикет, което не може да се променя, след като бъде запазено.";
+$Definition["Abilites"] = "способности";
+$Definition["Abilities"] = "способности";
+$Definition["About %s"] = "Относно %s";
+$Definition["About Email Digest"] = "Относно имейл дайджеста";
+$Definition["About External Search"] = "Относно външното търсене";
+$Definition["About Theme Preview"] = "За прегледа на темата";
+$Definition["Above Main Content"] = "Над основното съдържание";
+$Definition["Accept Answer"] = "Приеми отговор";
+$Definition['"Accept Answer" if a suggestion answers your question.'] =
+    '„Приемам отговор“, ако дадено предложение отговаря на въпроса ви.';
+$Definition["Account Sync Failed"] = "Синхронизирането на акаунта не бе успешно";
+$Definition["Accepted answer pageview ratio representing a deflected case"] =
+    "Коефициентът на преглед на страницата с приет отговор, представляващ отклонен случай";
+$Definition["Accepted Answers"] = "Приети отговори";
+$Definition["Action"] = "действие";
+$Definition["Actions and Permissions"] = "Действия и разрешения";
+$Definition["Actions Based on Votes"] = "Действия въз основа на гласовете";
+$Definition["activity(ies)"] = "активност (ите)";
 $Definition['activity\'s comment(s)'] = 'коментар / и на дейност';
-$Definition['activity(ies)'] = 'активност (ите)';
-$Definition['Activity Item'] = 'Елемент за активност';
-$Definition['Activity item not found.'] = 'Елемент от активността не е намерен.';
-$Definition['Add a comment'] = 'Добавяне на коментар';
-$Definition['Add a new Pocket to your site.'] = 'Добавете нов джоб към вашия сайт.';
-$Definition['Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event.'] = 'Добавете връзка към Zoom или идентификатор на среща, за да свържете това събитие към Zoom и активирайте бутоните за регистрация и присъединяване с едно щракване. Обърнете внимание, че ако вашето събитие изисква регистрация, не можете да актуализирате идентификационния номер на срещата или връзката си, след като създадете събитието.';
-$Definition['Add Ban Rule'] = 'Добавете правило за забрана';
-$Definition['Add Category'] = 'Добавяне на категория';
-$Definition['Add Columns'] = 'Добавяне на колони';
-$Definition['Add Comments'] = 'Добавяне на коментари';
-$Definition['Add Connection'] = 'Добавяне на връзка';
-$Definition['Add Custom Layout'] = 'Добавете персонализирано оформление';
-$Definition['Added By'] = 'Добавено от';
-$Definition['Add Field'] = 'Добавяне на поле';
-$Definition['Add Filter'] = 'Добавяне на филтър';
-$Definition['Add Info &amp; Create Account'] = 'Добавяне на информация & Създаване на акаунт';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Добавете информация в полето от в имейл адресите, за да помогнете с отговорите (препоръчително).';
-$Definition['Adding & Editing Categories'] = 'Добавяне и редактиране на категории';
-$Definition['Add Interest'] = 'Добавете интерес';
-$Definition['Add Item'] = 'Добавете артикул';
-$Definition['Additional classes'] = 'Допълнителни класове';
-$Definition['Addons'] = 'добавки';
-$Definition['Addons Overview'] = 'Преглед на Addons';
-$Definition['Add Reason'] = 'Добавяне на причина';
-$Definition['Add Report Reason'] = 'Добавете причина за докладване';
-$Definition['Address Bar Color'] = 'Цвят на адресната лента';
-$Definition['Add Role'] = 'Добавете роля';
-$Definition['Add rule'] = 'Добавете правило';
-$Definition['Add Tag'] = 'Добавяне на маркер';
-$Definition['Add tag'] = 'Добавете етикет';
-$Definition['Add tags:'] = 'Добавете тагове:';
-$Definition['Add Theme'] = 'Добавете темата';
-$Definition['Add to collection:'] = 'Добави към колекцията:';
-$Definition['Add Token'] = 'Добавете жетон';
-$Definition['Add User'] = 'Добавяне на потребител';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'Добавете вашия персонализиран(и) домейн(и) на Kaltura, за да трансформирате връзките във вградени видеоклипове в дискусии, коментари или статии.';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'Добавете вашия персонализиран домейн(ове) на Kaltura, за да трансформирате връзките във вградени видеоклипове в публикации, коментари или статии.';
-$Definition['Add your site to trusted domains.'] = 'Уверете се, че вашият сайт е добавен към %s, когато вграждането е активирано.';
-$Definition['administrator'] = 'администратор';
-$Definition['Advanced'] = 'Разширени';
-$Definition['Advanced Category Settings'] = 'Разширени настройки на категорията';
-$Definition['Advanced Editor Settings'] = 'Разширени настройки на редактора';
-$Definition['Advanced Embed Settings'] = 'Разширени настройки за вграждане';
-$Definition['Advanced Forum Settings'] = 'Разширени настройки на форума';
-$Definition['AdvancedNotifications'] = 'Разширени известия';
-$Definition['Advanced Options'] = 'Разширени опции';
-$Definition['Advanced Settings'] = 'Разширени настройки';
-$Definition['Advanced settings for embedded community elements'] = 'Разширени настройки за вградените елементи на общността';
-$Definition['After'] = 'След';
-$Definition['AI Settings'] = 'AI настройки';
-$Definition['AI Suggested Answers'] = 'AI Предложени отговори';
-$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'AI Suggested Answers предоставя предложения за отговори въз основа на публикации в общността и свързани бази от знания. Можете да включите или изключите това по всяко време, като посетите предпочитанията на вашия профил.';
-$Definition['AI Suggestions are not enabled'] = 'AI предложенията не са активирани';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'Уведомете потребителите, ако кликнат върху връзка в публикация, която ще ги отведе далеч от форума.';
-$Definition['A list of reports associated with this post will appear here.'] = 'Тук ще се появи списък с отчети, свързани с тази публикация.';
-$Definition['Alive'] = 'жив';
+$Definition["Activity Item"] = "Елемент за активност";
+$Definition["Activity item not found."] = "Елемент от активността не е намерен.";
+$Definition["Add a new Pocket to your site."] =
+    "Добавете нов джоб към вашия сайт.";
+$Definition[
+    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
+] =
+    "Добавете връзка към Zoom или идентификатор на среща, за да свържете това събитие към Zoom и активирайте бутоните за регистрация и присъединяване с едно щракване. Обърнете внимание, че ако вашето събитие изисква регистрация, не можете да актуализирате идентификационния номер на срещата или връзката си, след като създадете събитието.";
+$Definition["Add Ban Rule"] = "Добавете правило за забрана";
+$Definition["Add Category"] = "Добавяне на категория";
+$Definition["Add Columns"] = "Добавяне на колони";
+$Definition["Add Comments"] = "Добавяне на коментари";
+$Definition["Add Connection"] = "Добавяне на връзка";
+$Definition["Added By"] = "Добавено от";
+$Definition["Add Field"] = "Добавяне на поле";
+$Definition["Add Info &amp; Create Account"] = "Добавяне на информация & Създаване на акаунт";
+$Definition[
+    "Add information into the from field in email addresses to help with replies (recommended)."
+] =
+    "Добавете информация в полето от в имейл адресите, за да помогнете с отговорите (препоръчително).";
+$Definition["Add Interest"] = "Добавете интерес";
+$Definition["Adding & Editing Categories"] = "Добавяне и редактиране на категории";
+$Definition["Add Item"] = "Добавете артикул";
+$Definition["Addons"] = "добавки";
+$Definition["Addons Overview"] = "Преглед на Addons";
+$Definition["Add Role"] = "Добавете роля";
+$Definition["Add rule"] = "Добавете правило";
+$Definition["Add Tag"] = "Добавяне на маркер";
+$Definition["Add Theme"] = "Добавете темата";
+$Definition["Add Token"] = "Добавете жетон";
+$Definition["Add User"] = "Добавяне на потребител";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
+] =
+    "Добавете вашия персонализиран(и) домейн(и) на Kaltura, за да трансформирате връзките във вградени видеоклипове в дискусии, коментари или статии.";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
+] =
+    "Добавете вашия персонализиран домейн(ове) на Kaltura, за да трансформирате връзките във вградени видеоклипове в публикации, коментари или статии.";
+$Definition["administrator"] = "администратор";
+$Definition["Advanced"] = "Разширени";
+$Definition["Advanced Category Settings"] = "Разширени настройки на категорията";
+$Definition["Advanced Editor Settings"] = "Разширени настройки на редактора";
+$Definition["Advanced Embed Settings"] = "Разширени настройки за вграждане";
+$Definition["Advanced Forum Settings"] = "Разширени настройки на форума";
+$Definition["AdvancedNotifications"] = "Разширени известия";
+$Definition["Advanced Options"] = "Разширени опции";
+$Definition["Advanced Settings"] = "Разширени настройки";
+$Definition["Advanced settings for embedded community elements"] =
+    "Разширени настройки за вградените елементи на общността";
+$Definition["After"] = "След";
+$Definition["AI Suggested Answers"] = "AI Предложени отговори";
+$Definition["AI Suggestions are not enabled"] =
+    "AI предложенията не са активирани";
+$Definition[
+    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
+] =
+    "AI Suggested Answers предоставя предложения за отговори въз основа на публикации в общността и свързани бази от знания. Можете да включите или изключите това по всяко време, като посетите предпочитанията на вашия профил.";
+$Definition[
+    "Alert users if they click a link in a post that will lead them away from the forum. "
+] =
+    "Уведомете потребителите, ако кликнат върху връзка в публикация, която ще ги отведе далеч от форума.";
+$Definition["Alive"] = "жив";
 $Definition['All %1$s'] = 'Всички %1$s';
-$Definition['All comments on this post will appear here'] = 'Всички коментари за тази публикация ще се показват тук';
-$Definition['All Dashboard Pages'] = 'Всички страници на таблото за управление';
-$Definition['All discussions in this category will be permanently deleted.'] = 'Всички дискусии в тази категория ще бъдат изтрити за постоянно.';
-$Definition['All Forum Pages'] = 'Всички страници на форума';
-$Definition['All icons in this icon pack are currently active.'] = 'Всички икони в този пакет икони са активни в момента.';
-$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Цялото потребителско съдържание ще бъде заменено със съобщение, че потребителят е изтрит.';
-$Definition['Allow embedded content'] = 'Разрешаване на вградено съдържание';
-$Definition['Allow images'] = 'Разрешаване на изображения';
-$Definition['Allow new users to be registered through email.'] = 'Позволете на новите потребители да се регистрират чрез имейл.';
-$Definition['Allow Third-Party Script Execution'] = 'Разрешаване на изпълнение на скрипт на трета страна';
-$Definition['Allow this connection to issue API access tokens.'] = 'Разрешете на тази връзка да издаде маркери за достъп до API.';
-$Definition['Allow users to change their own avatars'] = 'Позволете на потребителите да променят собствените си аватари';
-$Definition['Allow users to dismiss this message'] = 'Позволете на потребителите да отхвърлят това съобщение.';
-$Definition['All Pages'] = 'Всички страници';
-$Definition['All Replies'] = 'Всички отговори';
-$Definition['All Time'] = 'Всички времена';
-$Definition['All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories.'] = 'Всички потребители с разрешение на персонала ще могат да виждат и маркират дискусиите като разрешени или неразрешени. Тези потребители също ще имат достъп до таблото за управление на триажа, за да модерират своите категории.';
-$Definition['a month'] = 'един месец';
-$Definition['An answer in this the community thread was marked as accepted'] = 'Отговор в тази нишка на общността беше маркиран като приет';
-$Definition['and'] = 'и';
-$Definition['and assign to'] = 'и възложете на';
-$Definition['and remove from community'] = 'и премахване от общността';
-$Definition['and remove role'] = 'и премахнете ролята';
-$Definition['An enabled message will be visible on the site.'] = 'Активирано съобщение ще се вижда на сайта.';
-$Definition['An error occurred updating your privacy setting'] = 'Възникна грешка при актуализирането на вашата настройка за поверителност';
-$Definition['An explanation of the report reason to better reporters make the correct selection when reporting a post.'] = 'Обяснение на причината за доклада, за да могат по-добрите репортери да направят правилния избор при докладване на публикация.';
-$Definition['An idea has received'] = 'Идея е получена';
-$Definition['Anonymize Analytics Data by Default'] = 'Анонимизиране на данните от анализите по подразбиране';
-$Definition['Answers is not available if you have not accepted cookies.'] = 'Отговорите не са налични, ако не сте приели бисквитки.';
-$Definition['API Label is required'] = 'Изисква се API етикет';
-$Definition['API Name'] = 'Име на API';
-$Definition['API SSO Expand Permission'] = 'Разрешение за разширяване на API SSO';
-$Definition['API Status'] = 'Състояние на API';
-$Definition['A post'] = 'Публикация';
-$Definition['A post has been added to a collection'] = 'Публикация е добавена към колекция';
-$Definition['A post has not had any activity'] = 'Публикация не е имала никаква активност';
-$Definition['A post has received'] = 'Пост е получен';
-$Definition['Appearance'] = 'Външен вид';
-$Definition['Applicant'] = 'Кандидат';
-$Definition['applicant'] = 'кандидат';
-$Definition['Applicant Role'] = 'Изберете ролята, която трябва да се прилага за новите кандидати. Това важи само ако имате метод за регистрация на <b>одобрение</b> .';
-$Definition['Application'] = 'Приложение';
-$Definition['Application ID'] = 'Идентификационен номер на приложението';
-$Definition['Applications'] = 'Приложения';
-$Definition['Application Secret'] = 'Приложение Тайно';
-$Definition['Applied'] = 'Приложено';
-$Definition['Applied as default'] = 'Прилага се по подразбиране';
-$Definition['Applied by Administrator'] = 'Прилага се от администратор';
-$Definition['Applied Manually'] = 'Прилага се ръчно';
-$Definition['Apply additional classes on catalogue image.'] = 'Приложете допълнителни класове върху изображението от каталога. Използвайте място, за да разделите всеки клас.';
-$Definition['Apply Layout to Site Home Page'] = 'Прилагане на оформлението към началната страница на сайта';
-$Definition['Apply to specific categories.'] = 'Приложете към конкретни категории.';
-$Definition['Apply to specific subcommunities.'] = 'Приложете към конкретни подобщности.';
-$Definition['Apply to subcategories'] = 'Прилагане към подкатегории';
-$Definition['Approval'] = 'Одобрение';
-$Definition['A question'] = 'Един въпрос';
-$Definition['Archive Discussions'] = 'Архивни дискусии';
-$Definition['Are you sure you want to delete %s items forever?'] = 'Сигурни ли сте, че искате да изтриете %s елементи завинаги?';
-$Definition['Are you sure you want to delete 1 item forever?'] = 'Сигурни ли сте, че искате да изтриете 1 елемент завинаги?';
-$Definition['Are you sure you want to delete?'] = 'Сигурни ли сте, че искате да изтриете?';
-$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Наистина ли искате да изтриете тази значка? Това е необратимо и ще оттегли значката от всички потребители, които я имат.';
-$Definition['Are you sure you want to delete this category?'] = 'Сигурни ли сте, че искате да изтриете тази категория?';
-$Definition['Are you sure you want to delete this reason?'] = 'Сигурни ли сте, че искате да изтриете тази причина?';
-$Definition['Are you sure you want to delete your %s?'] = 'Сигурни ли сте, че искате да изтриете своя %s?';
-$Definition['Are you sure you want to exit without saving?'] = 'Сигурни ли сте, че искате да излезете без запазване?';
-$Definition['Are you sure you want to restore %s items?'] = 'Сигурни ли сте, че искате да възстановите %s елементи?';
-$Definition['Are you sure you want to restore 1 item?'] = 'Сигурни ли сте, че искате да възстановите 1 елемент?';
-$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'Сигурни ли сте, че искате да изключите всички предложени отговори от AI? Можете да отмените това в настройките на вашия профил по всяко време.';
-$Definition['Are you sure you want to use %s?'] = 'Сигурни ли сте, че искате да използвате %s?';
-$Definition['Article Count'] = 'Брой статии';
-$Definition['Assign/Remove role'] = 'Присвояване/премахване на роля';
-$Definition['Assignee'] = 'Цесионер';
-$Definition['Assign role:'] = 'Задайте роля:';
-$Definition['Assign to'] = 'Възлага на';
-$Definition['Assistant Icon'] = 'Икона на асистент';
-$Definition['Assistant Name'] = 'Име на асистента';
-$Definition['Assistant Tone of Voice'] = 'Тон на гласа на асистента';
-$Definition['At least one visible column is required. Show or add a visible column.'] = 'Изисква се поне една видима колона. Показване или добавяне на видима колона.';
-$Definition['Audit Log'] = 'Дневник за одит';
-$Definition['A unique display name.'] = 'Уникално екранно име.';
-$Definition['A unique label for the report reason. This label cannot be changed once saved.'] = 'Уникален етикет за причината за докладване. Този етикет не може да бъде променен, след като бъде запазен.';
-$Definition['A unique label name that cannot be changed once saved.'] = 'Уникално име на етикет, което не може да се променя, след като бъде запазено.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'Удобна за URL версия на името на категорията за по-добро SEO.';
-$Definition['A user has been registered'] = 'Регистриран е потребител';
-$Definition['A user registers or logs in with email domain:'] = 'Потребител се регистрира или влиза с имейл домейн:';
-$Definition['A user registers or updates a profile field:'] = 'Потребител регистрира или актуализира поле на профил:';
-$Definition['Authors may always edit'] = 'Авторите винаги могат да редактират';
-$Definition['Authors may edit for %s'] = 'Авторите могат да редактират за %s';
-$Definition['Authors may never edit'] = 'Авторите никога не могат да редактират';
-$Definition['Auto-Fetch New Comments'] = 'Автоматично извличане на нови коментари';
-$Definition['Auto-run disabled.'] = 'Автоматичното стартиране е деактивирано.';
-$Definition['Auto-run enabled.'] = 'Автоматичното стартиране е активирано.';
-$Definition['Automatically Save Drafts'] = 'Автоматично запазване на чернови';
-$Definition['Automation'] = 'Автоматизация';
-$Definition['Automation rule successfully created.'] = 'Правилото за автоматизация е създадено успешно.';
-$Definition['Automation rule successfully updated.'] = 'Правилото за автоматизация бе актуализирано успешно.';
-$Definition['Avatar Dimensions'] = 'Размери на аватара';
-$Definition['Avatars'] = 'Аватарите';
+$Definition["All Time"] = "Всички времена";
+$Definition["All Dashboard Pages"] = "Всички страници на таблото за управление";
+$Definition["All discussions in this category will be permanently deleted."] =
+    "Всички дискусии в тази категория ще бъдат изтрити за постоянно.";
+$Definition["All Forum Pages"] = "Всички страници на форума";
+$Definition[
+    "All of the user content will be replaced with a message stating the user has been deleted."
+] =
+    "Цялото потребителско съдържание ще бъде заменено със съобщение, че потребителят е изтрит.";
+$Definition["Allow embedded content"] = "Разрешаване на вградено съдържание";
+$Definition["Allow images"] = "Разрешаване на изображения";
+$Definition["Allow new users to be registered through email."] =
+    "Позволете на новите потребители да се регистрират чрез имейл.";
+$Definition["Allow this connection to issue API access tokens."] =
+    "Разрешете на тази връзка да издаде маркери за достъп до API.";
+$Definition["Allow Third-Party Script Execution"] =
+    "Разрешаване на изпълнение на скрипт на трета страна";
+$Definition["Allow users to change their own avatars"] =
+    "Позволете на потребителите да променят собствените си аватари";
+$Definition["Allow users to dismiss this message"] =
+    "Позволете на потребителите да отхвърлят това съобщение.";
+$Definition["All Pages"] = "Всички страници";
+$Definition["All Replies"] = "Всички отговори";
+$Definition["An enabled message will be visible on the site."] =
+    "Активирано съобщение ще се вижда на сайта.";
+$Definition["An answer in this the community thread was marked as accepted"] =
+    "Отговор в тази нишка на общността беше маркиран като приет";
+$Definition["An error occurred updating your privacy setting"] =
+    "Възникна грешка при актуализирането на вашата настройка за поверителност";
+$Definition["Anonymize Analytics Data by Default"] =
+    "Анонимизиране на данните от анализите по подразбиране";
+$Definition["Answers is not available if you have not accepted cookies."] =
+    "Отговорите не са налични, ако не сте приели бисквитки.";
+$Definition["API"] = "API";
+$Definition["API Label is required"] = "Изисква се API етикет";
+$Definition["API Name"] = "Име на API";
+$Definition["API SSO Expand Permission"] = "Разрешение за разширяване на API SSO";
+$Definition["API Status"] = "Състояние на API";
+$Definition["Appearance"] = "Външен вид";
+$Definition["Applicant"] = "Кандидат";
+$Definition["applicant"] = "кандидат";
+$Definition["Applicant Role"] =
+    "Изберете ролята, която трябва да се прилага за новите кандидати. Това важи само ако имате метод за регистрация на <b>одобрение</b> .";
+$Definition["Application"] = "Приложение";
+$Definition["Application ID"] = "Идентификационен номер на приложението";
+$Definition["Applications"] = "Приложения";
+$Definition["Application Secret"] = "Приложение Тайно";
+$Definition["Applied by Administrator"] = "Прилага се от администратор";
+$Definition["Applied Manually"] = "Прилага се ръчно";
+$Definition["Applied On"] = "Applied On";
+$Definition["Apply to subcategories"] = "Прилагане към подкатегории";
+$Definition["Approval"] = "Одобрение";
+$Definition["Archive Discussions"] = "Архивни дискусии";
+$Definition["Are you sure you want to delete %s items forever?"] =
+    "Сигурни ли сте, че искате да изтриете %s елементи завинаги?";
+$Definition["Are you sure you want to delete 1 item forever?"] =
+    "Сигурни ли сте, че искате да изтриете 1 елемент завинаги?";
+$Definition[
+    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
+] =
+    "Наистина ли искате да изтриете тази значка? Това е необратимо и ще оттегли значката от всички потребители, които я имат.";
+$Definition["Are you sure you want to delete this category?"] =
+    "Сигурни ли сте, че искате да изтриете тази категория?";
+$Definition["Are you sure you want to restore %s items?"] =
+    "Сигурни ли сте, че искате да възстановите %s елементи?";
+$Definition["Are you sure you want to restore 1 item?"] =
+    "Сигурни ли сте, че искате да възстановите 1 елемент?";
+$Definition[
+    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
+] =
+    "Сигурни ли сте, че искате да изключите всички предложени отговори от AI? Можете да отмените това в настройките на вашия профил по всяко време.";
+$Definition["Assistant Tone of Voice"] = "Тон на гласа на асистента";
+$Definition["Assistant Icon"] = "Икона на асистент";
+$Definition["Assistant Name"] = "Име на асистента";
+$Definition[
+    "At least one visible column is required. Show or add a visible column."
+] = "Изисква се поне една видима колона. Показване или добавяне на видима колона.";
+$Definition["A url-friendly version of the category name for better SEO."] =
+    "Удобна за URL версия на името на категорията за по-добро SEO.";
+$Definition["Automatically Save Drafts"] = "Автоматично запазване на чернови";
+$Definition["Authors may always edit"] = "Авторите винаги могат да редактират";
+$Definition["Authors may edit for %s"] = "Авторите могат да редактират за %s";
+$Definition["Authors may never edit"] = "Авторите никога не могат да редактират";
+$Definition["Auto-Fetch New Comments"] = "Автоматично извличане на нови коментари";
+$Definition["Avatar Dimensions"] = "Размери на аватара";
+$Definition["Avatars"] = "Аватарите";
 
-$Definition['Background Color'] = 'Цвят на фона';
-$Definition['Back to all users'] = 'Обратно към всички потребители';
-$Definition['Back to Mobile Site'] = 'Обратно към мобилен сайт';
-$Definition['Badge cannot be deleted.'] = 'Значката не може да бъде изтрита.';
-$Definition['Badge Class'] = 'Клас значка';
-$Definition['Badge Class Level'] = 'Ниво клас на значки';
-$Definition['Badge deleted.'] = 'Значката е изтрита.';
-$Definition['Badge Name'] = 'Име';
-$Definition['BadgeRecipientsHeading'] = 'Най-скорошни получатели';
-$Definition['BadgeRequestColumnLabel'] = 'поискване';
-$Definition['Badge Requests'] = 'Искания за значки';
-$Definition['Badge requests'] = 'Искания за значки';
-$Definition['Badges Limit'] = 'Лимит за значки';
-$Definition['Balanced'] = 'Балансиран';
-$Definition['Ban List'] = 'Списък за забрана';
-$Definition['Banner'] = 'Банер';
-$Definition['Banner Image'] = 'Изображение на банер';
-$Definition['Banner Logo'] = 'Лого на банера';
-$Definition['Banner Search Box'] = 'Поле за търсене на банер';
-$Definition['Banner Title'] = 'Съдържание на текстовия банер';
-$Definition['Banning'] = 'Забрана';
-$Definition['Banning Options'] = 'Опции за забрана';
-$Definition['Ban Rule'] = 'Правило за забрана';
-$Definition['Ban Rules'] = 'Правила за забрана';
-$Definition['Ban Type'] = 'Тип';
-$Definition['Basic Information'] = 'Основна информация';
-$Definition['Before'] = 'Преди';
-$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'Преди да активирате тази функция, имайте предвид следните потенциални последици:';
-$Definition['Begin At'] = 'Започнете от';
-$Definition['Below Sidebar'] = 'Под страничната лента';
-$Definition['Blocked'] = 'блокиран';
-$Definition['Blog Comments'] = 'Коментари в блога';
-$Definition['Bookmark a discussion using its star icon.'] = 'Маркирайте отметка за дискусия с помощта на звездата си.';
-$Definition['Branding & Assets'] = 'Брандиране и активи';
-$Definition['Browse Addons'] = 'Разгледайте Addons';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'Потърсете ново лого на банера, ако искате да го промените:';
-$Definition['Browser Compatibility:'] = 'Съвместимост на браузъра:';
-$Definition['Bump post'] = 'Подпорен стълб';
-$Definition['Button Background Color'] = 'Цвят на фона на бутона';
-$Definition['Button Text Color'] = 'Цвят на текста на бутона';
+$Definition["Background Color"] = "Цвят на фона";
+$Definition["Back to all users"] = "Обратно към всички потребители";
+$Definition["Back to Mobile Site"] = "Обратно към мобилен сайт";
+$Definition["Badge cannot be deleted."] = "Значката не може да бъде изтрита.";
+$Definition["Badge Class"] = "Клас значка";
+$Definition["Badge Class Level"] = "Ниво клас на значки";
+$Definition["Badge deleted."] = "Значката е изтрита.";
+$Definition["Badge Name"] = "Име";
+$Definition["BadgeRecipientsHeading"] = "Най-скорошни получатели";
+$Definition["BadgeRequestColumnLabel"] = "поискване";
+$Definition["Badge Requests"] = "Искания за значки";
+$Definition["Badge requests"] = "Искания за значки";
+$Definition["Balanced"] = "Балансиран";
+$Definition["Ban Item"] = "Ban Item";
+$Definition["Ban List"] = "Списък за забрана";
+$Definition["Banner"] = "Банер";
+$Definition["Banner Logo"] = "Лого на банера";
+$Definition["Banner Title"] = "Съдържание на текстовия банер";
+$Definition["Banner Search Box"] = "Поле за търсене на банер";
+$Definition["Banning"] = "Забрана";
+$Definition["Banning Options"] = "Опции за забрана";
+$Definition["Ban Rule"] = "Правило за забрана";
+$Definition["Ban Rules"] = "Правила за забрана";
+$Definition["Ban Type"] = "Тип";
+$Definition["Basic Information"] = "Основна информация";
+$Definition["Before"] = "Преди";
+$Definition[
+    "Before activating this feature, please be aware of the following potential implications:"
+] =
+    "Преди да активирате тази функция, имайте предвид следните потенциални последици:";
+$Definition["Begin At"] = "Започнете от";
+$Definition["Below Sidebar"] = "Под страничната лента";
+$Definition["Blocked"] = "блокиран";
+$Definition["Blog Comments"] = "Коментари в блога";
+$Definition["Bookmark a discussion using its star icon."] =
+    "Маркирайте отметка за дискусия с помощта на звездата си.";
+$Definition["Browse Addons"] = "Разгледайте Addons";
+$Definition["Browser Compatibility:"] = "Съвместимост на браузъра:";
+$Definition["Browse for a new banner logo if you would like to change it:"] =
+    "Потърсете ново лого на банера, ако искате да го промените:";
+$Definition["Button Background Color"] = "Цвят на фона на бутона";
+$Definition["Button Text Color"] = "Цвят на текста на бутона";
 
-$Definition['Cannot build profile information if user is not defined.'] = 'Не може да се изгради информация за потребителския профил, ако потребителят не е дефиниран.';
-$Definition['Categories &amp; Discussions'] = 'Категории и дискусии';
-$Definition['Categories allow you to organize your posts.'] = 'Категориите ви позволяват да организирате вашите публикации.';
-$Definition['Categories are used to organize discussions.'] = 'Категориите се използват, за да помогнат на потребителите да организират дискусиите си по начин, който е важен за вашата общност.';
-$Definition['Categories are used to organize posts.'] = 'Категориите се използват, за да помогнат на вашите потребители да организират своите публикации по начин, който е значим за вашата общност.';
-$Definition['Categories Layout'] = 'Разпределение на категории';
-$Definition['Categories to Exclude from AI Answers'] = 'Категории за изключване от отговорите на AI';
-$Definition['Category Following'] = 'Категория Следваща';
-$Definition['Category Layout Settings'] = 'Настройки за оформление на категория';
-$Definition['Category Layout Version'] = 'Версия на оформлението на категорията';
-$Definition['Category List Pages'] = 'Страници със списък на категории';
-$Definition['Category only'] = 'Само категория';
-$Definition['Category Page Layout'] = 'Оформление на страница с категории';
-$Definition['Category Pages'] = 'Страници с категории';
-$Definition['Category Url:'] = 'URL адрес на категорията:';
-$Definition['Censored Words'] = 'Цензурирани думи';
-$Definition['Challenge Cutoff Age'] = 'Възраст за прекъсване на предизвикателството';
-$Definition['Change %s'] = 'Промяна на %s';
-$Definition['Changed Icons'] = 'Променени икони';
-$Definition['Change layout versions for the <0/>.'] = 'Променете версиите на оформлението за <0/>.';
-$Definition['Change Log'] = 'Дневник на промените';
-$Definition['Change status'] = 'Промяна на статуса';
-$Definition['Change the look of All Categories'] = 'Можете да промените облика на страницата <b>Всички категории</b> <a href="%s">тук</a> .';
-$Definition['Change the status of the idea to'] = 'Променете състоянието на идеята на';
-$Definition['Change the way that new users register with the site.'] = 'Променете начина, по който новите потребители се регистрират в сайта.';
-$Definition['Change your banner'] = 'Променете банера си';
-$Definition['Changing the Discussions Menu Link'] = 'Промяна на връзката към менюто за дискусии';
-$Definition['Check all permissions that apply for each role'] = 'Проверете всички разрешения, които се прилагат за всяка роля';
-$Definition['Check all permissions that apply to this role:'] = 'Проверете всички разрешения, които се отнасят за тази роля:';
-$Definition['Check out my new community!'] = 'Вижте новата ми общност!';
-$Definition['Check out the full list of video tutorials here.'] = 'Вижте пълния списък с видео уроци тук.';
+$Definition["Cannot build profile information if user is not defined."] =
+    "Не може да се изгради информация за потребителския профил, ако потребителят не е дефиниран.";
+$Definition["Categories &amp; Discussions"] = "Категории и дискусии";
+$Definition["Categories to Exclude from AI Answers"] =
+    "Категории за изключване от отговорите на AI";
+$Definition["Categories are used to organize discussions."] =
+    "Категориите се използват, за да помогнат на потребителите да организират дискусиите си по начин, който е важен за вашата общност.";
+$Definition["Categories are used to organize posts."] =
+    "Категориите се използват, за да помогнат на вашите потребители да организират своите публикации по начин, който е значим за вашата общност.";
+$Definition["Categories allow you to organize your posts."] =
+    "Категориите ви позволяват да организирате вашите публикации.";
+$Definition["Categories Layout"] = "Разпределение на категории";
+$Definition["Category Following"] = "Категория Следваща";
+$Definition["Category Page Layout"] = "Оформление на страница с категории";
+$Definition["Category Url:"] = "URL адрес на категорията:";
+$Definition["Censored Words"] = "Цензурирани думи";
+$Definition["Change Log"] = "Дневник на промените";
+$Definition["Change the look of All Categories"] =
+    'Можете да промените облика на страницата <b>Всички категории</b> <a href="%s">тук</a> .';
+$Definition["Change the way that new users register with the site."] =
+    "Променете начина, по който новите потребители се регистрират в сайта.";
+$Definition["Change your banner"] = "Променете банера си";
+$Definition["Changing the Discussions Menu Link"] =
+    "Промяна на връзката към менюто за дискусии";
+$Definition["Check all permissions that apply for each role"] =
+    "Проверете всички разрешения, които се прилагат за всяка роля";
+$Definition["Check all permissions that apply to this role:"] =
+    "Проверете всички разрешения, които се отнасят за тази роля:";
+$Definition["Check out my new community!"] = "Вижте новата ми общност!";
+$Definition["Check out the full list of video tutorials here."] =
+    "Вижте пълния списък с видео уроци тук.";
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Здравей Пал! Вижте новия форум на общността, който току-що създадох. Това е чудесно място за нас да разговаряме един с друг онлайн.';
-$Definition['Choose a locale pack'] = 'Изберете локален пакет';
-$Definition['Choose Avatar'] = 'Изберете Аватар';
-$Definition['Choose how many records to display.'] = 'Изберете колко записи да се показват.';
-$Definition['Choose the order records are sorted by default.'] = 'Изберете записите за поръчка да се сортират по подразбиране.';
-$Definition['Choose the preferred layout for the categories page.'] = 'Изберете предпочитаното оформление за страницата с категории.';
-$Definition['Choose the preferred layout for the discussions page.'] = 'Изберете предпочитаното оформление за страницата за дискусии.';
-$Definition['Choose the preferred Legacy Category Layout.'] = 'Изберете предпочитаното оформление на наследени категории.';
-$Definition['Choose the preferred Legacy Create Post Layout.'] = 'Изберете предпочитаното Legacy Create Post Layout.';
-$Definition['Choose the preferred Legacy Event Layout.'] = 'Изберете предпочитаното наследено оформление на събитието.';
-$Definition['Choose the preferred Legacy Home Layout.'] = 'Изберете предпочитаното Legacy Home Layout.';
-$Definition['Choose the preferred Legacy Knowledge Base Layout.'] = 'Изберете предпочитаното оформление на наследената база знания.';
-$Definition['Choose the preferred Legacy Post Layout.'] = 'Изберете предпочитаното Legacy Post Layout.';
-$Definition['Choose the preferred Legacy Recent Posts Layout.'] = 'Изберете предпочитаното наследено оформление на последните публикации.';
-$Definition['Choose when to load records from.'] = 'Изберете кога да зареждате записи.';
-$Definition['Choose who can send out invitations to new members:'] = 'Изберете кой може да изпраща покани до нови членове:';
-$Definition['Class'] = 'клас';
-$Definition['Classic table layout used by traditional forums'] = 'Класическо оформление на масата, използвано от традиционните форуми';
-$Definition['Clean Spam'] = 'Чист спам';
-$Definition['Clear All'] = 'Изчисти всичко';
-$Definition['Click a tag name to edit. Click x to remove.'] = 'Кликнете върху име на маркер, за да редактирате. Кликнете върху x за премахване.';
-$Definition['Click here to apply it.'] = 'Кликнете тук, за да го приложите.';
-$Definition['Click here to carry on.'] = 'Кликнете тук, за да продължите.';
-$Definition['Click here to carry on to your dashboard'] = 'Кликнете тук, за да продължите към таблото си';
-$Definition['Client ID'] = 'Идент. № на клиента';
-$Definition['Close post'] = 'Затваряне на публикацията';
-$Definition['Colored'] = 'Цветни';
-$Definition['Column Display Settings'] = 'Настройки за показване на колони';
-$Definition['comment(s)'] = 'коментар (а)';
-$Definition['Comment  Body'] = 'Орган за коментар';
-$Definition['Comment Count'] = 'Брой коментари';
-$Definition['Comment Settings'] = 'Настройки за коментари';
-$Definition['Comments Matching Criteria Now: <0 />'] = 'Критерии за съвпадение на коментари сега: <0 />';
-$Definition['Comments Page'] = 'Страница с коментари';
-$Definition['Comments per Page'] = 'Коментари на страница';
-$Definition['Comment  Subject'] = 'Тема на коментара';
-$Definition['Community Discussion Categories'] = 'Категории за дискусии в общността';
-$Definition['Community Management'] = 'Управление на общността';
-$Definition['Community Member Content'] = 'Членско съдържание на общността';
-$Definition['Condition'] = 'състояние';
-$Definition['Condition Field'] = 'поле';
-$Definition['Conditions'] = 'условия';
-$Definition['Condition Type'] = 'Тип';
-$Definition['Configuration & Addons'] = 'Конфигурация и добавки';
-$Definition['Configuration settings for password fields in Vanilla'] = 'Конфигурационни настройки за полета за пароли във Vanilla';
-$Definition['Configure an Authenticator'] = 'Конфигурирайте Удостоверител';
-$Definition['Configure custom Kaltura domains'] = 'Конфигурирайте персонализирани домейни Kaltura';
-$Definition['Configure how nested categories are displayed to users.'] = 'Конфигурирайте как вложени вложени категории да се показват на потребителите.';
-$Definition['Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases.'] = 'Конфигурирайте настройките, използвани за автоматично модериране на общностно съдържание, преди дори да бъде създадено. Опциите включват автоматизирано откриване на спам, изискване на одобрение за публикуване в определени категории и изискване на одобрение за публикуване с използване на определени ключови думи или фрази.';
-$Definition['Configure where reports are sent and manage your community\'s report reasons.'] = 'Конфигурирайте къде да се изпращат отчетите и управлявайте причините за докладите на вашата общност.';
-$Definition['Configuring Vanilla\'s Homepage'] = 'Конфигуриране на началната страница на Vanilla';
-$Definition['Confirmation  Body'] = 'Орган за потвърждение';
-$Definition['Confirm email addresses'] = 'Изисквайте от потребителите да потвърждават своите имейл адреси (препоръчително)';
-$Definition['Connections'] = 'Връзки';
-$Definition['Consumer Key'] = 'Потребителски ключ';
-$Definition['Consumer Secret'] = 'Потребителска тайна';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'Свържете се с персонала на Vanilla, за да активирате конфигурацията на сайта с въпроси и отговори. След това активирайте добавката Въпроси и отговори в секцията <0/> на таблото за управление.';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'Свържете се с персонала на Vanilla, за да активирате конфигурацията на сайта с въпроси и отговори. След това активирайте добавката Въпроси и отговори в раздела Добавки на таблото за управление.';
-$Definition['Content Curation'] = 'Курация на съдържанието';
-$Definition['Content flagged as spam is stored here for moderator review.'] = 'Тук съдържанието, маркирано като спам, се съхранява тук за преглед на модератора.';
-$Definition['Content Flagging'] = 'Маркиране на съдържание';
-$Definition['Content Security Domains'] = 'Домейни за сигурност на съдържанието';
-$Definition['Content Settings'] = 'Настройки на съдържанието';
-$Definition['Content to Suggest'] = 'Съдържание за предлагане';
-$Definition['Contextual Description'] = 'Контекстуално описание';
-$Definition['Continue Replying'] = 'Продължете да отговаряте';
-$Definition['Conversation Messages'] = 'Съобщения за разговор';
-$Definition['Conversations'] = 'Разговори';
-$Definition['Conversations Setup'] = 'Настройка на разговори';
-$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'Може да въведе уязвимости като Cross-Site Scripting (XSS), ако първоначалните скриптове са компрометирани.';
-$Definition['Could not find a theme identified by \'%s\''] = 'Не може да се намери тема, идентифицирана от \'%s\'';
-$Definition['Could not instantiate mail function.'] = 'Функцията за поща не можа да бъде активирана.';
-$Definition['Could not link the addon.'] = 'Не може да се свърже добавката.';
-$Definition['Could not open %s.'] = '%s не можа да се отвори.';
-$Definition['Could not open addon file. Addons must be zip files.'] = 'Не можа да се отвори файл с добавки. Добавките трябва да са zip файлове.';
-$Definition['Create'] = 'създавам';
-$Definition['Create & organize discussion categories and manage your users.'] = 'Създавайте и организирайте категории за дискусии и управлявайте своите потребители.';
-$Definition['Create/Edit Automation Rule'] = 'Създаване/редактиране на правило за автоматизация';
-$Definition['Create and manage automations to easily manage posts and users.'] = 'Създавайте и управлявайте автоматизации за лесно управление на публикации и потребители.';
-$Definition['Created <0/> by <1/>.'] = 'Създадено <0/> от <1/>.';
-$Definition['created by'] = 'създаден от';
-$Definition['Created new badge'] = 'Създадена нова значка';
-$Definition['CreateFile'] = 'създавам';
-$Definition['Create Post Layout Settings'] = 'Създаване на настройки за оформление на публикация';
-$Definition['Create Post Layout Version'] = 'Създайте версия на оформлението на публикацията';
-$Definition['Create Post Pages'] = 'Създайте страници с публикации';
-$Definition['Create Zoom Meeting'] = 'Създаване на Zoom среща';
-$Definition['Criteria'] = 'Критерии';
-$Definition['CssClass'] = 'CSS клас';
-$Definition['Current Authenticator'] = 'Текущ Удостоверител';
-$Definition['Current File:'] = 'Текущ файл:';
-$Definition['Current Mobile Theme'] = 'Текуща мобилна тема';
-$Definition['Current Theme'] = 'Актуална тема';
-$Definition['Custom Category Layouts'] = 'Персонализирани оформления на категории';
-$Definition['Custom Create Post Layouts'] = 'Персонализирано създаване на оформления на публикации';
-$Definition['Customer Support'] = 'Поддръжка на клиенти';
-$Definition['Custom Event Layouts'] = 'Персонализирани оформления на събития';
-$Definition['Custom Home Layouts'] = 'Персонализирани оформления на дома';
-$Definition['Custom Icon'] = 'Персонализирана икона';
-$Definition['Customize AI Persona'] = 'Персонализирайте AI Persona';
-$Definition['Customize your community'] = 'Персонализирайте вашата общност';
-$Definition['Custom Knowledge Base Layouts'] = 'Персонализирани оформления на базата знания';
-$Definition['Custom Post Layouts'] = 'Персонализирани оформления на публикация';
-$Definition['Custom Recent Posts Layouts'] = 'Персонализирани оформления на последните публикации';
-$Definition['Custom Themes'] = 'Персонализирани теми';
 
-$Definition['Database Structure Upgrades'] = 'Надстройки на структурата на базата данни';
-$Definition['Date From'] = 'Дата от';
-$Definition['Date To'] = 'Дата на';
-$Definition['Debugger'] = 'Дебъгер';
-$Definition['Debug Information'] = 'Информация за отстраняване на грешки';
-$Definition['Decline'] = 'Откажи';
-$Definition['Default %s Permissions'] = 'По подразбиране %s Разрешения';
-$Definition['Default (%s)'] = 'По подразбиране (%s)';
-$Definition['Default <0/>'] = 'По подразбиране <0 />';
-$Definition['Default  Category'] = 'Категория по подразбиране';
-$Definition['Default Category Permissions'] = 'Разрешения по категория по подразбиране';
-$Definition['Default Followed Categories'] = 'Следени категории по подразбиране';
-$Definition['Default Interests Only'] = 'Само лихви по просрочие';
-$Definition['Default Locale'] = 'Locale по подразбиране';
-$Definition['Default placeholder'] = 'Заместител на място по подразбиране';
-$Definition['Default Roles'] = 'Роли по подразбиране';
-$Definition['Default Sort Order'] = 'Ред на сортиране по подразбиране';
-$Definition['Default Type'] = 'Тип по подразбиране';
-$Definition['default type'] = 'по подразбиране';
-$Definition['Define your forum homepage'] = 'Определете началната си страница на форума';
-$Definition['Delete?'] = 'Изтриване?';
-$Definition['Delete Badge'] = 'Изтриване на значка';
-$Definition['Delete Category'] = 'Изтриване на категория';
-$Definition['Delete Layout'] = 'Изтриване на оформлението';
-$Definition['Delete moderation information'] = 'Изтрийте информацията за модериране';
-$Definition['Delete Report Reason'] = 'Изтриване на причината за докладване';
-$Definition['Delete Role'] = 'Изтриване на роля';
-$Definition['Delete Rule'] = 'Изтриване на правило';
-$Definition['Delete Theme'] = 'Изтрийте темата';
-$Definition['Delete User'] = 'Изтриване на потребителя';
-$Definition['Delete User: %s'] = 'Изтриване на потребителя: %s';
-$Definition['Deleting category...'] = 'Изтриване на категория ...';
-$Definition['Deleting role...'] = 'Изтриване на роля ...';
-$Definition['Delivery Date'] = 'Дата на доставка';
-$Definition['Description'] = 'Описание';
-$Definition['Desktop Themes'] = 'Теми на работния плот';
-$Definition['Did You Know?'] = 'Знаеше ли?';
-$Definition['Disable'] = 'Забрани';
-$Definition['Disable Content Flagging'] = 'Деактивиране на маркирането на съдържанието';
-$Definition['Disabled'] = 'Забранено';
-$Definition['disabled'] = 'хора с увреждания';
+$Definition["Choose a locale pack"] = "Изберете локален пакет";
+$Definition["Choose Avatar"] = "Изберете Аватар";
+$Definition["Choose the preferred layout for the categories page."] =
+    "Изберете предпочитаното оформление за страницата с категории.";
+$Definition["Choose the preferred layout for the discussions page."] =
+    "Изберете предпочитаното оформление за страницата за дискусии.";
+$Definition["Choose who can send out invitations to new members:"] =
+    "Изберете кой може да изпраща покани до нови членове:";
+$Definition["Choose how many records to display."] =
+    "Изберете колко записи да се показват.";
+$Definition["Choose when to load records from."] =
+    "Изберете кога да зареждате записи.";
+$Definition["Class"] = "клас";
+$Definition["Clear All"] = "Изчисти всичко";
+$Definition["Classic table layout used by traditional forums"] =
+    "Класическо оформление на масата, използвано от традиционните форуми";
+$Definition["Clean Spam"] = "Чист спам";
+$Definition["Click a tag name to edit. Click x to remove."] =
+    "Кликнете върху име на маркер, за да редактирате. Кликнете върху x за премахване.";
+$Definition["Click here to apply it."] = "Кликнете тук, за да го приложите.";
+$Definition["Click here to carry on."] = "Кликнете тук, за да продължите.";
+$Definition["Click here to carry on to your dashboard"] =
+    "Кликнете тук, за да продължите към таблото си";
+$Definition["Client ID"] = "Идент. № на клиента";
+$Definition["Colored"] = "Цветни";
+$Definition["Column Display Settings"] = "Настройки за показване на колони";
+$Definition["comment(s)"] = "коментар (а)";
+$Definition["Comment  Body"] = "Орган за коментар";
+$Definition["Comment Count"] = "Брой коментари";
+$Definition["Comment Settings"] = "Настройки за коментари";
+$Definition["Comments Page"] = "Страница с коментари";
+$Definition["Comments per Page"] = "Коментари на страница";
+$Definition["Comment  Subject"] = "Тема на коментара";
+$Definition["Community Discussion Categories"] =
+    "Категории за дискусии в общността";
+$Definition["Community Member Content"] = "Членско съдържание на общността";
+$Definition["Condition"] = "състояние";
+$Definition["Condition Expression"] = "Condition Expression";
+$Definition["Condition Field"] = "поле";
+$Definition["Conditions"] = "условия";
+$Definition["Condition Type"] = "Тип";
+$Definition["Configure an Authenticator"] = "Конфигурирайте Удостоверител";
+$Definition["Configuration settings for password fields in Vanilla"] =
+    "Конфигурационни настройки за полета за пароли във Vanilla";
+$Definition["Configure custom Kaltura domains"] =
+    "Конфигурирайте персонализирани домейни Kaltura";
+$Definition["Configure how nested categories are displayed to users."] =
+    "Конфигурирайте как вложени вложени категории да се показват на потребителите.";
+$Definition['Configuring Vanilla\'s Homepage'] =
+    'Конфигуриране на началната страница на Vanilla';
+$Definition["Confirmation  Body"] = "Орган за потвърждение";
+$Definition["Confirm email addresses"] =
+    "Изисквайте от потребителите да потвърждават своите имейл адреси (препоръчително)";
+$Definition["Connections"] = "Връзки";
+$Definition["Consumer Key"] = "Потребителски ключ";
+$Definition["Consumer Secret"] = "Потребителска тайна";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
+] =
+    "Свържете се с персонала на Vanilla, за да активирате конфигурацията на сайта с въпроси и отговори. След това активирайте добавката Въпроси и отговори в раздела Добавки на таблото за управление.";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
+] =
+    "Свържете се с персонала на Vanilla, за да активирате конфигурацията на сайта с въпроси и отговори. След това активирайте добавката Въпроси и отговори в секцията <0/> на таблото за управление.";
+$Definition["Content Curation"] = "Курация на съдържанието";
+$Definition["Content flagged as spam is stored here for moderator review."] =
+    "Тук съдържанието, маркирано като спам, се съхранява тук за преглед на модератора.";
+$Definition["Content Flagging"] = "Маркиране на съдържание";
+$Definition["Content Security Domains"] = "Домейни за сигурност на съдържанието";
+$Definition["Content to Suggest"] = "Съдържание за предлагане";
+$Definition["Continue Replying"] = "Продължете да отговаряте";
+$Definition["Conversation Messages"] = "Съобщения за разговор";
+$Definition["Conversations"] = "Разговори";
+$Definition["Conversations Setup"] = "Настройка на разговори";
+$Definition[
+    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
+] =
+    "Може да въведе уязвимости като Cross-Site Scripting (XSS), ако първоначалните скриптове са компрометирани.";
+$Definition['Could not find a theme identified by \'%s\''] =
+    'Не може да се намери тема, идентифицирана от \'%s\'';
+$Definition["Could not instantiate mail function."] =
+    "Функцията за поща не можа да бъде активирана.";
+$Definition["Could not link the addon."] = "Не може да се свърже добавката.";
+$Definition["Could not open %s."] = "%s не можа да се отвори.";
+$Definition["Could not open addon file. Addons must be zip files."] =
+    "Не можа да се отвори файл с добавки. Добавките трябва да са zip файлове.";
+$Definition["Create & organize discussion categories and manage your users."] =
+    "Създавайте и организирайте категории за дискусии и управлявайте своите потребители.";
+$Definition["Created new badge"] = "Създадена нова значка";
+$Definition["Create Zoom Meeting"] = "Създаване на Zoom среща";
+$Definition["CreateFile"] = "създавам";
+$Definition["Criteria"] = "Критерии";
+$Definition["CSS"] = "CSS";
+$Definition["CssClass"] = "CSS клас";
+$Definition["Current Authenticator"] = "Текущ Удостоверител";
+$Definition["Current File:"] = "Текущ файл:";
+$Definition["Current Mobile Theme"] = "Текуща мобилна тема";
+$Definition["Current Theme"] = "Актуална тема";
+$Definition["Custom Themes"] = "Персонализирани теми";
+$Definition["Customize AI Persona"] = "Персонализирайте AI Persona";
+$Definition["Custom Recent Posts Layouts"] = "Персонализирани оформления на последните публикации";
+
+$Definition["Database Structure Upgrades"] = "Надстройки на структурата на базата данни";
+$Definition["Date From"] = "Дата от";
+$Definition["Date To"] = "Дата на";
+$Definition["Debugger"] = "Дебъгер";
+$Definition["Debug Information"] = "Информация за отстраняване на грешки";
+$Definition["Decline"] = "Откажи";
+$Definition["Default (%s)"] = "По подразбиране (%s)";
+$Definition["Default <0/>"] = "По подразбиране <0 />";
+$Definition["Default %s Permissions"] = "По подразбиране %s Разрешения";
+$Definition["Default  Category"] = "Категория по подразбиране";
+$Definition["Default Category Permissions"] = "Разрешения по категория по подразбиране";
+$Definition["Default Followed Categories"] = "Следени категории по подразбиране";
+$Definition["Default Interests Only"] = "Само лихви по просрочие";
+$Definition["Default Locale"] = "Locale по подразбиране";
+$Definition["Default Roles"] = "Роли по подразбиране";
+$Definition["default type"] = "по подразбиране";
+$Definition["Default Type"] = "Тип по подразбиране";
+$Definition["Define your forum homepage"] = "Определете началната си страница на форума";
+$Definition["Delete Badge"] = "Изтриване на значка";
+$Definition["Delete Category"] = "Изтриване на категория";
+$Definition["Delete moderation information"] = "Изтрийте информацията за модериране";
+$Definition["Delete Role"] = "Изтриване на роля";
+$Definition["Delete Theme"] = "Изтрийте темата";
+$Definition["Delete User"] = "Изтриване на потребителя";
+$Definition["Delete User: %s"] = "Изтриване на потребителя: %s";
+$Definition["Deleting category..."] = "Изтриване на категория ...";
+$Definition["Deleting role..."] = "Изтриване на роля ...";
+$Definition["Delivery Date"] = "Дата на доставка";
+$Definition["Description"] = "Описание";
+$Definition["Desktop Themes"] = "Теми на работния плот";
+$Definition["Did You Know?"] = "Знаеше ли?";
+$Definition["Disable"] = "Забрани";
+$Definition["Disable Content Flagging"] = "Деактивиране на маркирането на съдържанието";
+$Definition["Disabled"] = "Забранено";
 $Definition['Disabled %1$s'] = 'Деактивиран %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Изключено: джобът няма <b>да</b> бъде показан.';
-$Definition['Disable Forum Pages'] = 'Деактивирайте страниците на форума';
-$Definition['Disable Signatures'] = 'Деактивиране на подписите';
-$Definition['Disable Tagging'] = 'Деактивиране на маркирането';
-$Definition['Discard Changes?'] = 'Отхвърляне на промените?';
-$Definition['Discard Reply'] = 'Отхвърляне на отговора';
-$Definition['Discussion & Comment Editing'] = 'Дискусия и редактиране на коментари';
-$Definition['discussion(s)'] = 'дискусия (и)';
-$Definition['Discussion  Body'] = 'Дискусионно тяло';
-$Definition['Discussion Pages'] = 'Дискусионни страници';
-$Definition['Discussions'] = 'Дискусии';
-$Definition['Discussions Layout'] = 'Дизайн на дискусиите';
-$Definition['Discussions Matching Criteria Now: <0 />'] = 'Дискусии Съвпадащи критерии сега: <0 />';
-$Definition['Discussions per Page'] = 'Дискусии на страница';
-$Definition['Discussion  Subject'] = 'Тема на дискусията';
-$Definition['Dismissable'] = 'Може да се отхвърли';
-$Definition['Dismiss Answer'] = 'Отхвърляне на отговора';
-$Definition['Display a searchbox on top of the banner image.'] = 'Показване на поле за търсене отгоре на изображението на банера.';
-$Definition['Display content from followed categories'] = 'Показване на съдържание от следвани категории';
-$Definition['Display in dashboard. (not recommended)'] = 'Показване на таблото. (не се препоръчва)';
-$Definition['Display on category page only.'] = 'Показва се само на страница с категории. Списъкът с последните дискусии няма да бъде засегнат.';
-$Definition['Display Open Cases in Profile Page?'] = 'Показване на открити дела в страницата на профила?';
-$Definition['Display Options'] = 'Опции на дисплея';
-$Definition['Display records from this category.'] = 'Показване на записи от тази категория.';
-$Definition['Display records from this subcommunity'] = 'Показване на записи от тази подобщност';
-$Definition['Display records from this subcommunity.'] = 'Показване на записи от тази подобщност.';
-$Definition['Display root categories as headings.'] = 'Показвайте коренните категории като заглавия.';
-$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Показва изображението на банера от страницата за брандиране на видно място в цялата тема.';
-$Definition['documentation.'] = 'документация.';
-$Definition['Don\'t display for embedded comments.'] = 'Не се показва за вградени коментари.';
+$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
+    "Изключено: джобът няма <b>да</b> бъде показан.";
+$Definition["Disable Signatures"] = "Деактивиране на подписите";
+$Definition["Disable Tagging"] = "Деактивиране на маркирането";
+$Definition["Discard Reply"] = "Отхвърляне на отговора";
+$Definition["Discussion & Comment Editing"] = "Дискусия и редактиране на коментари";
+$Definition["Post & Comment Editing"] = "Редактиране на публикации и коментари";
+$Definition["Discussions"] = "Дискусии";
+$Definition["discussion(s)"] = "дискусия (и)";
+$Definition["Discussion  Body"] = "Дискусионно тяло";
+$Definition["Discussions Layout"] = "Дизайн на дискусиите";
+$Definition["Discussions per Page"] = "Дискусии на страница";
+$Definition["Posts per Page"] = "Публикации на страница";
+$Definition["Discussion  Subject"] = "Тема на дискусията";
+$Definition["Dismissable"] = "Може да се отхвърли";
+$Definition["Dismiss Answer"] = "Отхвърляне на отговора";
+$Definition["Display content from followed categories"] =
+    "Показване на съдържание от следвани категории";
+$Definition["Display in dashboard. (not recommended)"] =
+    "Показване на таблото. (не се препоръчва)";
+$Definition["Display Open Cases in Profile Page?"] =
+    "Показване на открити дела в страницата на профила?";
+$Definition["Display Options"] = "Опции на дисплея";
+$Definition["Display records from this subcommunity"] =
+    "Показване на записи от тази подобщност";
+$Definition["Display root categories as headings."] =
+    "Показвайте коренните категории като заглавия.";
+$Definition[
+    "Displays the banner image form the branding page prominently throughout the theme."
+] =
+    "Показва изображението на банера от страницата за брандиране на видно място в цялата тема.";
+$Definition["Display a searchbox on top of the banner image."] =
+    "Показване на поле за търсене отгоре на изображението на банера.";
+$Definition["Display records from this category."] =
+    "Показване на записи от тази категория.";
+$Definition["Display records from this subcommunity."] =
+    "Показване на записи от тази подобщност.";
+$Definition['Don\'t display for embedded comments.'] =
+    'Не се показва за вградени коментари.';
 $Definition['Don\'t Refresh'] = 'Не опреснявайте';
 $Definition['Don\'t use Categories'] = 'Не използвайте категории';
-$Definition['Done'] = 'Готово';
-$Definition['Do not display the categories in the side panel.'] = 'Не показвайте категориите в страничния панел.';
-$Definition['Download Active Icon Pack'] = 'Изтеглете Active Icon Pack';
-$Definition['Download Locale List'] = 'Изтеглете списъка с локали';
-$Definition['DownloadLocalePack'] = 'Изтегляне';
-$Definition['Download Locale Pack'] = 'Изтеглете локален пакет';
-$Definition['Download System Icon Pack'] = 'Изтеглете System Icon Pack';
+$Definition["Do not display the categories in the side panel."] =
+    "Не показвайте категориите в страничния панел.";
+$Definition["Download Locale List"] = "Изтеглете списъка с локали";
+$Definition["DownloadLocalePack"] = "Изтегляне";
+$Definition["Download Locale Pack"] = "Изтеглете локален пакет";
 
-$Definition['Edit/Delete Log'] = 'Редактиране / изтриване на дневника';
-$Definition['Edit Categories'] = 'Редактиране на категории';
-$Definition['Edit Category'] = 'Редактиране на категория';
-$Definition['Edit CSS'] = 'Редактиране на CSS';
-$Definition['Edit Default Categories'] = 'Редактиране на категориите по подразбиране';
-$Definition['Edited'] = 'Редактирано';
-$Definition['Edit HTML'] = 'Редактиране на HTML';
-$Definition['Edit Interest'] = 'Редактиране на интерес';
-$Definition['Edit Keywords'] = 'Редактиране на ключови думи';
-$Definition['Edit Message'] = 'Редактиране на съобщение';
-$Definition['Edit Report Reason'] = 'Редактиране на причината за докладване';
-$Definition['Edit Role'] = 'Редактиране на роля';
-$Definition['Edit Roles'] = 'Редактиране на роли';
-$Definition['Edit Rule'] = 'Редактиране на правило';
-$Definition['Edit User'] = 'Редактиране на потребителя';
-$Definition['Edit Variables'] = 'Редактиране на променливи';
-$Definition['Email Confirmation Role'] = 'Роля за потвърждение на имейл';
-$Definition['Email Digest'] = 'Обобщен имейл';
-$Definition['Email Digest Logo'] = 'Лого на обобщения имейл';
-$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'Приспособлението за подкана за обобщение на имейли ще бъде достъпно, когато обобщението на имейли е активирано.';
-$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'Извлеченията по имейл ще се изпращат в избрания ден всяка седмица. Промените в зададения ден ще влязат в сила следващата седмица.';
-$Definition['Email Footer'] = 'Долен колонтитул на имейл';
-$Definition['Email Styles'] = 'Стилове на имейл';
-$Definition['Embed Comments'] = 'Поставете коментари';
-$Definition['Embedding'] = 'Вграждане';
-$Definition['Embedding Documentation'] = 'Вграждане на документация';
-$Definition['Embedding is currently DISABLED.'] = 'Вграждането в момента е ЗАБРАНЕНО.';
-$Definition['Embedding is currently ENABLED.'] = 'Вграждането в момента е ВКЛЮЧЕНО.';
-$Definition['Embed Forum'] = 'Вграждане на форум';
-$Definition['Embed Modules'] = 'Вграждане на модули';
-$Definition['Embed modules from your Vanilla forum into your site'] = 'Вградете модули от вашия форум Vanilla във вашия сайт';
-$Definition['Embed My Forum'] = 'Вградете моя форум';
-$Definition['Embeds'] = 'Вгражда';
-$Definition['Embed Vanilla'] = 'Поставете ванилия';
-$Definition['Embed your entire Vanilla forum'] = 'Вградете целия си ванилов форум';
-$Definition['Embed your forum in your web site'] = 'Вградете вашия форум във вашия уеб сайт';
-$Definition['Enable'] = 'Разреши';
-$Definition['Enable/Disable'] = 'Включване / Изключване';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'Активирайте квадратчетата за администриране на дискусии и коментари.';
-$Definition['Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>'] = 'Разрешете на Akismet да филтрира спама във всички публикации от регистрации на кандидати и непроверени потребители. <0/>';
-$Definition['Enable checkboxes on discussions and comments'] = 'Активирайте отметките за дискусии и коментари';
-$Definition['enabled'] = 'активиран';
+$Definition["Edit/Delete Log"] = "Редактиране / изтриване на дневника";
+$Definition["Edit Category"] = "Редактиране на категория";
+$Definition["Edit CSS"] = "Редактиране на CSS";
+$Definition["Edit Default Categories"] = "Редактиране на категориите по подразбиране";
+$Definition["Edit HTML"] = "Редактиране на HTML";
+$Definition["Edit Interest"] = "Редактиране на интерес";
+$Definition["Edit Message"] = "Редактиране на съобщение";
+$Definition["Edit Role"] = "Редактиране на роля";
+$Definition["Edit User"] = "Редактиране на потребителя";
+$Definition["Email Confirmation Role"] = "Роля за потвърждение на имейл";
+$Definition["Email Digest"] = "Обобщен имейл";
+$Definition[
+    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
+] =
+    "Приспособлението за подкана за обобщение на имейли ще бъде достъпно, когато обобщението на имейли е активирано.";
+$Definition["Email Digest Logo"] = "Лого на обобщения имейл";
+$Definition[
+    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
+] =
+    "Извлеченията по имейл ще се изпращат в избрания ден всяка седмица. Промените в зададения ден ще влязат в сила следващата седмица.";
+$Definition["Email Footer"] = "Долен колонтитул на имейл";
+$Definition["Email Digest Logo"] = "Лого на обобщения имейл";
+$Definition["Email Styles"] = "Стилове на имейл";
+$Definition["Embed Comments"] = "Поставете коментари";
+$Definition["Embedding"] = "Вграждане";
+$Definition["Embedding Documentation"] = "Вграждане на документация";
+$Definition["Embedding is currently DISABLED."] =
+    "Вграждането в момента е ЗАБРАНЕНО.";
+$Definition["Embedding is currently ENABLED."] =
+    "Вграждането в момента е ВКЛЮЧЕНО.";
+$Definition["Embed Forum"] = "Вграждане на форум";
+$Definition["Embed My Forum"] = "Вградете моя форум";
+$Definition["Embed Modules"] = "Вграждане на модули";
+$Definition["Embed modules from your Vanilla forum into your site"] =
+    "Вградете модули от вашия форум Vanilla във вашия сайт";
+$Definition["Embeds"] = "Вгражда";
+$Definition["Embed Vanilla"] = "Поставете ванилия";
+$Definition["Embed your entire Vanilla forum"] =
+    "Вградете целия си ванилов форум";
+$Definition["Embed your forum in your web site"] =
+    "Вградете вашия форум във вашия уеб сайт";
+$Definition["Enable"] = "Разреши";
+$Definition["Enable/Disable"] = "Включване / Изключване";
+$Definition["Enable admin checkboxes on discussions and comments."] =
+    "Активирайте квадратчетата за администриране на дискусии и коментари.";
+$Definition["Enable checkboxes on discussions and comments"] =
+    "Активирайте отметките за дискусии и коментари";
 $Definition['Enabled %1$s'] = 'Активирано %1$s';
-$Definition['Enabled: The pocket will be displayed.'] = 'Активиран: джобът ще бъде показан.';
-$Definition['Enable embedding to use blog comments.'] = 'За да работи това, ще трябва да активирате вграждането.';
-$Definition['Enable Followup Notifications'] = 'Активиране на известията за последващи действия';
-$Definition['Enable HTML emails'] = 'Активиране на HTML имейли';
-$Definition['Enable Image Upload Limit'] = 'Активиране на лимита за качване на изображения';
-$Definition['Enable link embeds in discussions and comments'] = 'Активирайте вграждане на връзки в дискусии и коментари';
-$Definition['Enable link embeds in posts and comments'] = 'Разрешете вграждането на връзки в публикации и коментари';
-$Definition['Enable OpenID'] = 'Активиране на OpenID';
-$Definition['Enable Pocket Locations'] = 'Активиране на Pocket Locations';
-$Definition['Enable Private Communities'] = 'Активиране на частни общности';
-$Definition['Enable Product Integration'] = 'Активиране на интеграцията на продуктите';
-$Definition['Enable Rich Quotes'] = 'Активиране на богати котировки';
-$Definition['Enable sending notification emails'] = 'Разрешете изпращането на имейли с известия';
-$Definition['Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon\'s settings</0>. Learn more in the <1/>'] = 'Активирайте Stopforumspam, за да проверявате потребителите на общността спрямо списък с докладвани спамери и или докладвате публикацията като спам, или ги отхвърляте направо. Праговете за отчитане и отхвърляне се управляват в настройките на добавката <0></0> . Научете повече в <1/>';
-$Definition['Enable Tagging'] = 'Активиране на маркирането';
-$Definition['Enable this message'] = 'Активирайте това съобщение';
-$Definition['Enable this source'] = 'Активирайте този източник';
-$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'Активирайте, за да получите предварителен преглед на нашето ново табло за управление на потребители с подобрено търсене и нови опции за конфигурация.';
-$Definition['Enable to only show posts from categories a user follows.'] = 'Активирайте за показване само на публикации от категории, които потребителят следва.';
-$Definition['Enable Triage Dashboard'] = 'Активиране на таблото за управление на Triage';
-$Definition['Enabling a Locale Pack'] = 'Активиране на локален пакет';
-$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'Активирането на тази функция ще промени вашата политика за сигурност на съдържанието, за да се доверите на допълнителни скриптове, инжектирани като зависимости от вашите персонализирани скриптове.';
-$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = 'Активирането на тази функция ще промени правилата за сигурност на съдържанието (CSP) на вашия сайт, за да позволи на одобрените скриптове в текущия ви списък с доверени домейни да зареждат динамично други скриптове, ще добави директива „стриктно динамично“ към вашия CSP, предлагайки повече гъвкавост при включването на трети страни съдържание.';
-$Definition['Encourage your friends to join your new community!'] = 'Насърчете приятелите си да се присъединят към новата ви общност!';
-$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Въведете списък с индекси, ограничен със запетая, започвайки от 1.';
-$Definition['Enter a title for this escalation'] = 'Въведете заглавие за тази ескалация';
-$Definition['Enter numbers starting at 1.'] = 'Въведете числа, започващи от 1.';
-$Definition['Enter the email address of the person you would like to invite:'] = 'Въведете имейл адреса на човека, когото искате да поканите:';
-$Definition['Enter the url to the page you would like to use as your homepage'] = 'Въведете URL адреса на страницата, която искате да използвате като начална страница';
-$Definition['Enter the url to the page you would like to use as your homepage:'] = 'Въведете URL адреса на страницата, която искате да използвате като начална страница:';
-$Definition['Error sending email. Please review the addresses and try again.'] = 'Грешка при изпращане на имейл. Моля, прегледайте адресите и опитайте отново.';
-$Definition['Escalate'] = 'Ескалирайте';
-$Definition['Escalated'] = 'Ескалира';
-$Definition['Escalated by <0/>'] = 'Ескалирано от <0/>';
-$Definition['Escalate it'] = 'Ескалирайте го';
-$Definition['Escalate to GitHub'] = 'Ескалирайте до GitHub';
-$Definition['Escalate to Zendesk'] = 'Ескалирайте до Zendesk';
-$Definition['Escalation Name'] = 'Име на ескалация';
-$Definition['Escalation Rules'] = 'Правила за ескалация';
-$Definition['Escalations Dashboard'] = 'Табло за ескалации';
-$Definition['Even More Help?'] = 'Още повече помощ?';
-$Definition['event'] = 'събитие';
-$Definition['Event Layout Settings'] = 'Настройки на оформлението на събитието';
-$Definition['Event Layout Version'] = 'Версия на оформлението на събитието';
-$Definition['Event Log'] = 'Дневник на събитията';
-$Definition['Event Name'] = 'Име на събитието';
-$Definition['Event Pages'] = 'Страници със събития';
-$Definition['Every %s hour'] = 'Всеки час';
-$Definition['Every %s hours'] = 'На всеки %s часа';
-$Definition['Every %s minute'] = 'Всяка минута';
-$Definition['Every %s minutes'] = 'На всеки %s минути';
-$Definition['Every %s second'] = 'Всяка секунда';
-$Definition['Every %s seconds'] = 'На всеки %s секунди';
-$Definition['Every 1 minute'] = 'На всеки 1 минута';
-$Definition['Every Page'] = 'Всяка страница';
-$Definition['Everything is ok.'] = 'Всичко е наред.';
-$Definition['Excerpt Length'] = 'Дължина на откъса';
-$Definition['Exclude archived discussions from the discussions list'] = 'Изключете архивираните дискусии от списъка с дискусии';
-$Definition['Exclude Categories'] = 'Изключване на категории';
-$Definition['Exclude Default Interests'] = 'Изключете лихвите по подразбиране';
-$Definition['Exclude these from the source'] = 'Изключете ги от източника';
-$Definition['Existing members send invitations to new members.'] = 'Съществуващите членове изпращат покани до нови членове.';
-$Definition['Exit'] = 'изход';
-$Definition['Exit Preview'] = 'Излезте от прегледа';
-$Definition['Expand'] = 'Разширяване';
-$Definition['Export'] = 'Експортиране';
-$Definition['External Search'] = 'Външно търсене';
-$Definition['External search replaces Vanilla’s out of the box search with a third party search provider of your choice.'] = 'Външното търсене заменя първоначалното търсене на Vanilla с доставчик на търсене от трета страна по ваш избор.';
+$Definition["Enabled: The pocket will be displayed."] =
+    "Активиран: джобът ще бъде показан.";
+$Definition["Enable HTML emails"] = "Активиране на HTML имейли";
+$Definition["Enable embedding to use blog comments."] =
+    "За да работи това, ще трябва да активирате вграждането.";
+$Definition["Enable Image Upload Limit"] = "Активиране на лимита за качване на изображения";
+$Definition["Enable link embeds in discussions and comments"] =
+    "Активирайте вграждане на връзки в дискусии и коментари";
+$Definition["Enable link embeds in posts and comments"] =
+    "Разрешете вграждането на връзки в публикации и коментари";
+$Definition["Enable OpenID"] = "Активиране на OpenID";
+$Definition["Enable Pocket Locations"] = "Активиране на Pocket Locations";
+$Definition["Enable Private Communities"] = "Активиране на частни общности";
+$Definition["Enable Product Integration"] = "Активиране на интеграцията на продуктите";
+$Definition["Enable Followup Notifications"] = "Активиране на известията за последващи действия";
+$Definition["Enable sending notification emails"] =
+    "Разрешете изпращането на имейли с известия";
+$Definition["Enable Tagging"] = "Активиране на маркирането";
+$Definition["Enable this message"] = "Активирайте това съобщение";
+$Definition["Enable this source"] = "Активирайте този източник";
+$Definition["Enable to only show posts from categories a user follows."] =
+    "Активирайте за показване само на публикации от категории, които потребителят следва.";
+$Definition[
+    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
+] =
+    "Активирайте, за да получите предварителен преглед на нашето ново табло за управление на потребители с подобрено търсене и нови опции за конфигурация.";
+$Definition["Enabling a Locale Pack"] = "Активиране на локален пакет";
+$Definition[
+    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
+] =
+    "Активирането на тази функция ще промени вашата политика за сигурност на съдържанието, за да се доверите на допълнителни скриптове, инжектирани като зависимости от вашите персонализирани скриптове.";
+$Definition[
+    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
+] =
+    'Активирането на тази функция ще промени правилата за сигурност на съдържанието (CSP) на вашия сайт, за да позволи на одобрените скриптове в текущия ви списък с доверени домейни да зареждат динамично други скриптове, ще добави директива „стриктно динамично“ към вашия CSP, предлагайки повече гъвкавост при включването на трети страни съдържание.';
+$Definition["Encourage your friends to join your new community!"] =
+    "Насърчете приятелите си да се присъединят към новата ви общност!";
+$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
+    "Въведете списък с индекси, ограничен със запетая, започвайки от 1.";
+$Definition["Enter numbers starting at 1."] = "Въведете числа, започващи от 1.";
+$Definition["Enter the email address of the person you would like to invite:"] =
+    "Въведете имейл адреса на човека, когото искате да поканите:";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage"
+] = "Въведете URL адреса на страницата, която искате да използвате като начална страница";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage:"
+] = "Въведете URL адреса на страницата, която искате да използвате като начална страница:";
+$Definition["Error sending email. Please review the addresses and try again."] =
+    "Грешка при изпращане на имейл. Моля, прегледайте адресите и опитайте отново.";
+$Definition["Even More Help?"] = "Още повече помощ?";
+$Definition["Event Log"] = "Дневник на събитията";
+$Definition["Event Name"] = "Име на събитието";
+$Definition["Every %s hour"] = "Всеки час";
+$Definition["Every %s hours"] = "На всеки %s часа";
+$Definition["Every %s minute"] = "Всяка минута";
+$Definition["Every %s minutes"] = "На всеки %s минути";
+$Definition["Every %s second"] = "Всяка секунда";
+$Definition["Every %s seconds"] = "На всеки %s секунди";
+$Definition["Every 1 minute"] = "На всеки 1 минута";
+$Definition["Every Page"] = "Всяка страница";
+$Definition["Everything is ok."] = "Всичко е наред.";
+$Definition["Excerpt Length"] = "Дължина на откъса";
+$Definition["Exclude Categories"] = "Изключване на категории";
+$Definition["Exclude Default Interests"] = "Изключете лихвите по подразбиране";
+$Definition["Exclude these from the source"] = "Изключете ги от източника";
+$Definition["Exclude archived discussions from the discussions list"] =
+    "Изключете архивираните дискусии от списъка с дискусии";
+$Definition["Existing members send invitations to new members."] =
+    "Съществуващите членове изпращат покани до нови членове.";
+$Definition["Exit Preview"] = "Излезте от прегледа";
+$Definition["Exit"] = "изход";
+$Definition["External Search"] = "Външно търсене";
+$Definition[
+    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
+] =
+    "Външното търсене заменя първоначалното търсене на Vanilla с доставчик на търсене от трета страна по ваш избор.";
 
-$Definition['Facebook Connector'] = 'Фейсбук конектор';
-$Definition['Facebook Settings'] = 'Настройки на Facebook';
-$Definition['Failed to authenticate your password reset request. Try using the reset request form again.'] = 'Неуспешно удостоверяване на заявката ви за нулиране на паролата. Опитайте да използвате формуляра за заявка за нулиране отново.';
-$Definition['Failed to disable the rule'] = 'Неуспешно деактивиране на правилото';
-$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'Неуспешно зареждане на данните за визуализация. Моля, проверете стойностите на тригера и действието.';
-$Definition['Failure'] = 'неуспех';
-$Definition['Fallback Image'] = 'Резервно изображение';
-$Definition['False'] = 'Невярно';
-$Definition['FaviconBrowse'] = 'Потърсете нов фавикон, ако искате да го промените:';
-$Definition['FaviconDescription'] = 'Favicon на вашия сайт се появява в заглавната лента на вашия браузър. Ще бъде намален по подходящ начин.';
-$Definition['Featured'] = 'Представено';
-$Definition['Featured Image'] = 'Представено изображение';
-$Definition['Feature is not configured'] = 'Функцията не е конфигурирана';
-$Definition['FileUpload is currently OFF'] = 'FileUpload понастоящем е изключен';
-$Definition['FileUpload is currently ON'] = 'FileUpload в момента е включен';
-$Definition['Filter'] = 'Филтър';
-$Definition['Filter By'] = 'Филтриране по';
-$Definition['Filter Results'] = 'Филтриране на резултатите';
-$Definition['Fingerprint'] = 'Пръстов отпечатък';
-$Definition['Finished'] = 'завършен';
-$Definition['First Visit'] = 'Първо посещение';
-$Definition['Flagged By'] = 'Флаг от';
-$Definition['Flagged Content'] = 'Съдържание с флага';
-$Definition['Flood Control'] = 'Контрол на наводненията';
-$Definition['Follow categories:'] = 'Следвайте категориите:';
-$Definition['Follow category'] = 'Следвайте категорията';
-$Definition['Follow Up Delay'] = 'Проследяване на забавяне';
-$Definition['Footer'] = 'Долен колонтитул';
-$Definition['for'] = 'за';
-$Definition['Forbidden words'] = 'Забранени думи';
-$Definition['Force the forum to only be accessible through this url'] = 'Принудете форума да бъде достъпен само чрез този URL адрес';
-$Definition['Force your forum to be viewed through the Remote Url'] = 'Накарайте вашия форум да бъде гледан чрез отдалечения URL адрес';
-$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Например, за да разрешите yourdomain.com, www.yourdomain.com и help.yourdomain.com, трябва да добавите *.yourdomain.com';
-$Definition['Formats'] = 'Формати';
-$Definition['Formatting Posts'] = 'Форматиране на публикации';
-$Definition['Forum Data'] = 'Данни от форума';
-$Definition['Forum Settings'] = 'Настройки на форума';
-$Definition['Frequency'] = 'Честота';
-$Definition['Friendly and Personal'] = 'Приятелски и личен';
-$Definition['From Email Address'] = 'От имейл адрес';
-$Definition['From Name'] = 'От име';
-$Definition['Full post in email notifications'] = 'Пълна публикация в известия по имейл';
+$Definition["Facebook Connector"] = "Фейсбук конектор";
+$Definition["Facebook Settings"] = "Настройки на Facebook";
+$Definition["Failure"] = "неуспех";
+$Definition["Fallback Image"] = "Резервно изображение";
+$Definition["False"] = "Невярно";
+$Definition["Favicon"] = "Favicon";
+$Definition["FaviconBrowse"] =
+    "Потърсете нов фавикон, ако искате да го промените:";
+$Definition["FaviconDescription"] =
+    "Favicon на вашия сайт се появява в заглавната лента на вашия браузър. Ще бъде намален по подходящ начин.";
+$Definition["Feature is not configured"] = "Функцията не е конфигурирана";
+$Definition["Featured"] = "Представено";
+$Definition["Featured Image"] = "Представено изображение";
+$Definition["FileUpload is currently OFF"] = "FileUpload понастоящем е изключен";
+$Definition["FileUpload is currently ON"] = "FileUpload в момента е включен";
+$Definition["Filter"] = "Филтър";
+$Definition["Filter By"] = "Филтриране по";
+$Definition["Filter Results"] = "Филтриране на резултатите";
+$Definition["Finished"] = "завършен";
+$Definition["Fingerprint"] = "Пръстов отпечатък";
+$Definition["First Visit"] = "Първо посещение";
+$Definition["Flagged By"] = "Флаг от";
+$Definition["Flagged Content"] = "Съдържание с флага";
+$Definition["Flood Control"] = "Контрол на наводненията";
+$Definition["Forbidden words"] = "Забранени думи";
+$Definition["Follow Up Delay"] = "Проследяване на забавяне";
+$Definition[
+    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
+] =
+    "Например, за да разрешите yourdomain.com, www.yourdomain.com и help.yourdomain.com, трябва да добавите *.yourdomain.com";
+$Definition["Force the forum to only be accessible through this url"] =
+    "Принудете форума да бъде достъпен само чрез този URL адрес";
+$Definition["Force your forum to be viewed through the Remote Url"] =
+    "Накарайте вашия форум да бъде гледан чрез отдалечения URL адрес";
+$Definition["Formats"] = "Формати";
+$Definition["Footer"] = "Долен колонтитул";
+$Definition["Forum Data"] = "Данни от форума";
+$Definition["Forum Settings"] = "Настройки на форума";
+$Definition["Frequency"] = "Честота";
+$Definition["Friendly and Personal"] = "Приятелски и личен";
+$Definition["From Email Address"] = "От имейл адрес";
+$Definition["From Name"] = "От име";
+$Definition["Full post in email notifications"] =
+    "Пълна публикация в известия по имейл";
 
-$Definition['Garden'] = 'градина';
-$Definition['Garden.api.ssoIDPermission.description'] = 'Ролите с това разрешение ще могат да разширяват SSO идентификатори в API v2 повиквания.';
-$Definition['Gave badge to users.'] = 'Дай значка на потребителите.';
-$Definition['Generate'] = 'Генериране';
-$Definition['Generate Client ID and Secret'] = 'Генериране на идентификационен номер и секрет на клиента';
-$Definition['Generate import SQL only'] = 'Генерирайте само SQL импорт';
-$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'Генериране на предложения. Ще бъдете уведомени, когато са готови за преглед.';
-$Definition['Get More Applications'] = 'Вземете още приложения';
-$Definition['Get More Plugins'] = 'Вземете още приставки';
-$Definition['Get More Themes'] = 'Вземете още теми';
-$Definition['Getting Started'] = 'Приготвяме се да започнем';
-$Definition['Getting Started with Vanilla'] = 'Първи стъпки с ванилия';
-$Definition['give'] = 'давам';
-$Definition['Give a Badge'] = 'Дайте значка';
-$Definition['Given Indexes'] = 'Дадени индекси';
-$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'поздрави Аз съм вашият AI Suggestion Assistant, тук, за да ви помогна да намерите подходящи статии и публикации, за да отговорите на вашите запитвания. Моля, не се колебайте да задавате всякакви въпроси, които може да имате.';
-$Definition['guest'] = 'гост';
-$Definition['Guest roles'] = 'Проверете всички роли, които трябва да се прилагат към гостите.';
-$Definition['Guide Article Pages'] = 'Страници със статии за ръководство';
+$Definition["Garden"] = "градина";
+$Definition["Garden.api.ssoIDPermission.description"] =
+    "Ролите с това разрешение ще могат да разширяват SSO идентификатори в API v2 повиквания.";
+$Definition["Gave badge to users."] = "Дай значка на потребителите.";
+$Definition["Generate"] = "Генериране";
+$Definition["Generate Client ID and Secret"] = "Генериране на идентификационен номер и секрет на клиента";
+$Definition["Generate import SQL only"] = "Генерирайте само SQL импорт";
+$Definition[
+    "Generating Suggestions. You will be notified when they are ready for you to review."
+] =
+    "Генериране на предложения. Ще бъдете уведомени, когато са готови за преглед.";
+$Definition["Get More Applications"] = "Вземете още приложения";
+$Definition["Get More Plugins"] = "Вземете още приставки";
+$Definition["Get More Themes"] = "Вземете още теми";
+$Definition["Getting Started"] = "Приготвяме се да започнем";
+$Definition["Getting Started with Vanilla"] = "Първи стъпки с ванилия";
+$Definition["give"] = "давам";
+$Definition["Give a Badge"] = "Дайте значка";
+$Definition["Given Indexes"] = "Дадени индекси";
+$Definition[
+    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
+] =
+    "поздрави Аз съм вашият AI Suggestion Assistant, тук, за да ви помогна да намерите подходящи статии и публикации, за да отговорите на вашите запитвания. Моля, не се колебайте да задавате всякакви въпроси, които може да имате.";
+$Definition["guest"] = "гост";
+$Definition["Guest roles"] =
+    "Проверете всички роли, които трябва да се прилагат към гостите.";
 
-$Definition['has been unanswered'] = 'е без отговор';
-$Definition['Hash Algorithm'] = 'Алгоритъм на хеш';
-$Definition['has not received any comments'] = 'не е получил никакви коментари';
-$Definition['Header'] = 'удар с глава';
-$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID, user} добави акаунт за {RegardingUserID, user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID, You} променена {ActivityUserID, your} снимка на профила.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID, user} одобри приложенията за {RegardingUserID, user}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID, user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID, you} → {ActivityUserID, you}';
-$Definition['Heads Up!'] = 'Глави нагоре!';
-$Definition['Heads up!'] = 'Глави нагоре!';
-$Definition['Height'] = 'височина';
-$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = 'Здравейте! Аз съм вашият AI Suggestion Assistant, тук, за да ви помогна да намерите най-добрите статии и публикации, които да отговорят на вашите въпроси. Чувствайте се свободни да питате всичко, аз съм тук, за да направя вашето търсене забавно и информативно!';
-$Definition['Help &amp; Tutorials'] = 'Помощ и уроци';
-$Definition['Help Center Article Pages'] = 'Страници със статии в Помощния център';
-$Definition['Help Center Category Pages'] = 'Страници с категории в Помощния център';
-$Definition['Help Center Home Pages'] = 'Начални страници на Помощния център';
+$Definition["Hash Algorithm"] = "Алгоритъм на хеш";
+$Definition["HeadlineFormat.AddUser"] =
+    "{ActivityUserID, user} добави акаунт за {RegardingUserID, user}.";
+$Definition["HeadlineFormat.PictureChange"] =
+    "{RegardingUserID, You} променена {ActivityUserID, your} снимка на профила.";
+$Definition["HeadlineFormat.RegistrationApproval"] =
+    "{ActivityUserID, user} одобри приложенията за {RegardingUserID, user}.";
+$Definition["HeadlineFormat.Status"] = "{ActivityUserID, user}";
+$Definition["HeadlineFormat.WallPost"] =
+    "{RegardingUserID, you} → {ActivityUserID, you}";
+$Definition["Heads up!"] = "Глави нагоре!";
+$Definition["Heads Up!"] = "Глави нагоре!";
+$Definition["Header"] = "удар с глава";
+$Definition["Height"] = "височина";
+$Definition[
+    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
+] =
+    "Здравейте! Аз съм вашият AI Suggestion Assistant, тук, за да ви помогна да намерите най-добрите статии и публикации, които да отговорят на вашите въпроси. Чувствайте се свободни да питате всичко, аз съм тук, за да направя вашето търсене забавно и информативно!";
+$Definition["Help &amp; Tutorials"] = "Помощ и уроци";
 $Definition['Here\'s how to get started:'] = 'Ето как да започнете:';
-$Definition['Hidden for everything!'] = 'Скрито за всичко!';
-$Definition['Hidden for mobile'] = 'Скрити за мобилни устройства';
-$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'Скриване на дискусии от Скорошни дискусии и Widgets.';
-$Definition['Hide Pocket Locations'] = 'Скриване на джобни местоположения';
-$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'Скриване на публикации от страницата с последни публикации и джаджи.';
-$Definition['Hide signatures for guests'] = 'Скриване на подписи за гости';
-$Definition['Hide signatures on embedded comments'] = 'Скриване на подписи върху вградени коментари';
-$Definition['Hide Suggestions'] = 'Скриване на предложенията';
-$Definition['History'] = 'История';
-$Definition['Home Layout Settings'] = 'Настройки на оформлението на дома';
-$Definition['Home Layout Version'] = 'Версия на оформлението на дома';
-$Definition['Homepage'] = 'начална страница';
-$Definition['Home Pages'] = 'Начални страници';
-$Definition['Homepage Title'] = 'Заглавие на началната страница';
-$Definition['Homepage titles can only be between 1 and 500 characters'] = 'Заглавията на началната страница могат да бъдат само между 1 и 500 знака';
-$Definition['Hot (score + activity)'] = 'Горещо (оценка + активност)';
-$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'Това обаче идва с повишена отговорност за гарантиране на сигурността на вашия сайт.';
-$Definition['How the content is going to be filtered.'] = 'Как ще се филтрира съдържанието.';
-$Definition['How to use themes'] = 'Как да използвате теми';
-$Definition['Html'] = 'HTML';
-$Definition['HTML Emails'] = 'HTML имейли';
-$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'Настройки за HTTP строга транспортна сигурност (HSTS)';
+$Definition["Hidden for everything!"] = "Скрито за всичко!";
+$Definition["Hidden for mobile"] = "Скрити за мобилни устройства";
+$Definition["Hide discussions from Recent Discussions and Widgets."] =
+    "Скриване на дискусии от Скорошни дискусии и Widgets.";
+$Definition["Hide posts from Recent Posts Page and Widgets."] =
+    "Скриване на публикации от страницата с последни публикации и джаджи.";
+$Definition["Hide Pocket Locations"] = "Скриване на джобни местоположения";
+$Definition["Hide signatures for guests"] = "Скриване на подписи за гости";
+$Definition["Hide signatures on embedded comments"] =
+    "Скриване на подписи върху вградени коментари";
+$Definition["Hide Suggestions"] = "Скриване на предложенията";
+$Definition["History"] = "История";
+$Definition["Homepage"] = "начална страница";
+$Definition["Homepage Title"] = "Заглавие на началната страница";
+$Definition["How the content is going to be filtered."] =
+    "Как ще се филтрира съдържанието.";
+$Definition["How to use themes"] = "Как да използвате теми";
+$Definition[
+    "However, this comes with increased responsibility to ensure the security of your site."
+] =
+    "Това обаче идва с повишена отговорност за гарантиране на сигурността на вашия сайт.";
+$Definition["Html"] = "HTML";
+$Definition["HTML Emails"] = "HTML имейли";
+$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
+    "Настройки за HTTP строга транспортна сигурност (HSTS)";
+$Definition["Hot (score + activity)"] = "Горещо (оценка + активност)";
 
-$Definition['Icon Name'] = 'Име на иконата';
-$Definition['Icon Packs'] = 'Пакети с икони';
-$Definition['Icon Size'] = 'Размер на иконата';
-$Definition['Icon Type'] = 'Тип икона';
-$Definition['Idea Pages'] = 'Страници с идеи';
-$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Ако е активирана, пълното съдържание на публикации ще бъде изпратено в известия по имейл до потребителите.';
-$Definition['If left empty, Email Logo is used.'] = 'Ако се остави празно, се използва имейл лого.';
-$Definition['If this option is enabled, replies from the Original Poster will have an OP indicator.'] = 'Ако тази опция е активирана, отговорите от оригиналния автор ще имат индикатор OP.';
-$Definition['If you have a link to internal document in \'Link to Terms of Use\' above, \'Terms of Use Text\' will be ignored. Remove the link if you want to use this text.'] = 'Ако имате връзка към вътрешен документ в „Връзка към Условията за ползване“ по-горе, „Текстът на Условията за ползване“ ще бъде игнориран. Премахнете връзката, ако искате да използвате този текст.';
-$Definition['Inbox Page'] = 'Страница на входящата кутия';
-$Definition['Include Child Categories'] = 'Включете детски категории';
-$Definition['Include Featured Images'] = 'Включете избрани изображения';
-$Definition['Include featured images with posts in email digest'] = 'Включете представени изображения с публикации в обобщения имейл';
-$Definition['Include full post in email notifications'] = 'Включете пълната публикация в известията по имейл';
-$Definition['Include internal profile fields'] = 'Включете вътрешни полета на профила';
-$Definition['Include private profile fields'] = 'Включете полета за лични профили';
-$Definition['Include Subcategories'] = 'Включете подкатегории';
-$Definition['Include Subdomains'] = 'Включете поддомейни';
-$Definition['Increased Security Risks:'] = 'Повишени рискове за сигурността:';
-$Definition['Indexes'] = 'Индекси';
-$Definition['indicator navigation'] = 'индикаторна навигация';
-$Definition['Information'] = 'Информация';
-$Definition['In Jira'] = 'В Джира';
-$Definition['InputFormatter.Notes1'] = 'Изберете формата по подразбиране на редактора за публикации в общността.';
-$Definition['InputFormatter.Notes2'] = 'Редакторът автоматично ще открие формата на старите публикации при редактирането им и ще зареди техните оригинални правила за форматиране. Освен това изключение, избраният формат за публикация по-долу ще има предимство.';
-$Definition['Install Vanilla without a .htaccess file.'] = 'Инсталирайте Vanilla без .htaccess файл.';
-$Definition['Integrate Banner Image'] = 'Интегриране на изображението на банера';
-$Definition['Integrations'] = 'Интеграции';
-$Definition['Interest Name'] = 'Име на интереса';
-$Definition['Interests & Suggested Content'] = 'Интереси и предложено съдържание';
-$Definition['Intermediate'] = 'Междинен';
-$Definition['Internal Comment'] = 'Вътрешен коментар';
-$Definition['Internal Comments'] = 'Вътрешни коментари';
-$Definition['Internaltionalization & Localization'] = 'Интернационализация и локализация';
-$Definition['Introducing Vanilla Reactions and Badges'] = 'Представяне на ванилови реакции и значки';
-$Definition['Introduction'] = 'Въведение';
-$Definition['Invalid category for deletion.'] = 'Невалидна категория за изтриване.';
-$Definition['Invalid entry.'] = 'Невалиден запис.';
-$Definition['Invisibility Cloak Settings'] = 'Настройки на наметалото за невидимост';
-$Definition['Invitation Code'] = 'Кодекс за покана';
-$Definition['InvitationMessage'] = 'Здравей Пал! Вижте новия форум на общността, който току-що създадох. Това е чудесно място за нас да разговаряме един с друг онлайн. Следвайте връзката по-долу, за да влезете.';
-$Definition['Invitation not found.'] = 'Поканата не е намерена.';
-$Definition['Invitations per month'] = 'Покани на месец';
-$Definition['Invitations will expire'] = 'Поканите ще изтекат';
-$Definition['Invited by'] = 'Поканен от';
-$Definition['In Zendesk'] = 'В Zendesk';
-$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'Изглежда, че сте редактирали публикацията си. <0/> или <1/>.';
+$Definition[
+    "If enabled, the full content of posts will be sent in email notifications to users."
+] =
+    "Ако е активирана, пълното съдържание на публикации ще бъде изпратено в известия по имейл до потребителите.";
+$Definition["If left empty, Email Logo is used."] =
+    "Ако се остави празно, се използва имейл лого.";
+$Definition[
+    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
+] =
+    "Ако имате връзка към вътрешен документ в „Връзка към Условията за ползване“ по-горе, „Текстът на Условията за ползване“ ще бъде игнориран. Премахнете връзката, ако искате да използвате този текст.";
+$Definition["Inbox Page"] = "Страница на входящата кутия";
+$Definition["Include Child Categories"] = "Включете детски категории";
+$Definition["Include full post in email notifications"] =
+    "Включете пълната публикация в известията по имейл";
+$Definition["Include Featured Images"] = "Включете избрани изображения";
+$Definition["Include featured images with posts in email digest"] =
+    "Включете представени изображения с публикации в обобщения имейл";
+$Definition["Include internal profile fields"] =
+    "Включете вътрешни полета на профила";
+$Definition["Include private profile fields"] =
+    "Включете полета за лични профили";
+$Definition["Include Subcategories"] = "Включете подкатегории";
+$Definition["Include Subdomains"] = "Включете поддомейни";
+$Definition["Increased Security Risks:"] = "Повишени рискове за сигурността:";
+$Definition["Indexes"] = "Индекси";
+$Definition["Information"] = "Информация";
+$Definition["Install Vanilla without a .htaccess file."] =
+    "Инсталирайте Vanilla без .htaccess файл.";
+$Definition["Integrate Banner Image"] = "Интегриране на изображението на банера";
+$Definition["Interest Name"] = "Име на интереса";
+$Definition["Interests & Suggested Content"] = "Интереси и предложено съдържание";
+$Definition["Intermediate"] = "Междинен";
+$Definition["Internaltionalization & Localization"] =
+    "Интернационализация и локализация";
+$Definition["Introduction"] = "Въведение";
+$Definition["Introducing Vanilla Reactions and Badges"] =
+    "Представяне на ванилови реакции и значки";
+$Definition["Invalid category for deletion."] =
+    "Невалидна категория за изтриване.";
+$Definition["Invalid entry."] = "Невалиден запис.";
+$Definition["Invisibility Cloak Settings"] = "Настройки на наметалото за невидимост";
+$Definition["Invitation Code"] = "Кодекс за покана";
+$Definition["InvitationMessage"] = 'Здравей Пал! Вижте новия форум на общността, който току-що създадох. Това е чудесно място за нас да разговаряме един с друг онлайн. Следвайте връзката по-долу, за да влезете.';
+$Definition["Invitations per month"] = "Покани на месец";
+$Definition["Invitations will expire"] = "Поканите ще изтекат";
+$Definition["Invited by"] = "Поканен от";
+$Definition["It looks like you edited your post. <0/> or <1/>."] =
+    "Изглежда, че сте редактирали публикацията си. <0/> или <1/>.";
 
-$Definition['jsConnect Client Libraries'] = 'jsConnect клиентски библиотеки';
-$Definition['jsConnect Documentation'] = 'jsСвържете документацията';
+$Definition["JavaScript"] = "JavaScript";
+$Definition["jsConnect Client Libraries"] = "jsConnect клиентски библиотеки";
+$Definition["jsConnect Documentation"] = "jsСвържете документацията";
+$Definition["JS"] = "JS";
 
-$Definition['Key Type'] = 'Тип ключ';
-$Definition['Key Value'] = 'Ключова стойност';
-$Definition['Keyword Blocker'] = 'Блокиране на ключови думи';
-$Definition['Knowledge Base Home Pages'] = 'Начални страници на базата знания';
-$Definition['Knowledge Base Layout Settings'] = 'Настройки на оформлението на базата знания';
-$Definition['Knowledge Base Layout Version'] = 'Версия на оформлението на базата знания';
-$Definition['Knowledge Base Pages'] = 'Страници на базата знания';
+$Definition["Key Type"] = "Тип ключ";
+$Definition["Key Value"] = "Ключова стойност";
+$Definition["Keyword Blocker"] = "Блокиране на ключови думи";
 
-$Definition['Label'] = 'Етикет';
-$Definition['Label is required'] = 'Изисква се етикет';
-$Definition['Label this Revision'] = 'Маркирайте тази редакция';
-$Definition['Language Style'] = 'Езиков стил';
-$Definition['Large images will be scaled down.'] = 'Големите изображения ще бъдат намалени до максимум на %spx и максимална височина на %spx.';
-$Definition['Last Day'] = 'Последен ден';
-$Definition['Last Modified'] = 'Последна промяна';
-$Definition['Last Month'] = 'Миналия месец';
-$Definition['Last refreshed <0/> by <1/>.'] = 'Последно опресняване <0/> от <1/>.';
-$Definition['Last Reported'] = 'Последно докладвано';
-$Definition['Last reported'] = 'Последно докладвано';
-$Definition['Last Visit'] = 'Последно посещение';
-$Definition['Last Week'] = 'Миналата седмица';
+$Definition["Label"] = "Етикет";
+$Definition["Label is required"] = "Изисква се етикет";
+$Definition["Label this Revision"] = "Маркирайте тази редакция";
+$Definition["Language Style"] = "Езиков стил";
+$Definition["Large images will be scaled down."] =
+    "Големите изображения ще бъдат намалени до максимум на %spx и максимална височина на %spx.";
+$Definition["Last Visit"] = "Последно посещение";
+$Definition["Last Day"] = "Последен ден";
+$Definition["Last Week"] = "Миналата седмица";
+$Definition["Last Month"] = "Миналия месец";
 $Definition['Layman\'s Terms'] = 'Условия за лаик';
-$Definition['Layout'] = 'оформление';
-$Definition['Layout Options'] = 'Опции за оформление';
-$Definition['Layouts'] = 'Оформления';
-$Definition['Learn more'] = 'Научете повече';
-$Definition['Learn more.'] = 'Научете повече.';
-$Definition['Learn more about HSTS at %s.'] = 'Научете повече за HSTS на %s.';
-$Definition['Legacy Category Layout'] = 'Оформление на наследена категория';
-$Definition['Legacy Category Layouts'] = 'Наследени оформления на категории';
-$Definition['Legacy Create Post Layout'] = 'Наследено оформление за създаване на публикация';
-$Definition['Legacy Create Post Layouts'] = 'Наследени оформления за създаване на публикации';
-$Definition['Legacy Event Layout'] = 'Наследено оформление на събитието';
-$Definition['Legacy Event Layouts'] = 'Наследени оформления на събития';
-$Definition['Legacy Home Layouts'] = 'Наследени оформления на дома';
-$Definition['Legacy Knowledge Base Layout'] = 'Оформление на наследената база знания';
-$Definition['Legacy Knowledge Base Layouts'] = 'Наследени оформления на базата знания';
-$Definition['Legacy Layouts enabled'] = 'Наследените оформления са активирани';
-$Definition['Legacy Post Layout'] = 'Наследено оформление на публикацията';
-$Definition['Legacy Post Layouts'] = 'Наследени оформления на публикации';
-$Definition['Legacy Recent Posts Layout'] = 'Наследено оформление на последните публикации';
-$Definition['Legacy Recent Posts Layouts'] = 'Наследени оформления на последните публикации';
-$Definition['Level'] = 'ниво';
-$Definition['Level of Technical Language'] = 'Ниво на технически език';
-$Definition['Likes'] = 'Обича';
-$Definition['Limit'] = 'Лимит';
-$Definition['Limits: 60 characters, no breaks.'] = 'Ограничения: 60 знака, без прекъсвания.';
-$Definition['Limit the pocket to one or more roles or permissions.'] = 'Ограничете джоба до една или повече роли или разрешения.';
-$Definition['Link Color'] = 'Цвят на връзката';
-$Definition['List of discussion IDs to delete.'] = 'Списък с ID дискусии за изтриване.';
-$Definition['Live'] = 'На живо';
-$Definition['Live Post'] = 'Публикация на живо';
-$Definition['Loader'] = 'Товарач';
-$Definition['Locale Key (Folder)'] = 'Локален ключ (папка)';
-$Definition['Locale Name'] = 'Име на локала';
-$Definition['Locales'] = 'Локалите';
-$Definition['Location'] = 'местоположение';
-$Definition['Locations'] = 'Места';
-$Definition['Logo'] = 'Лого';
-$Definition['LogoBrowse'] = 'Потърсете ново лого на банера, ако искате да го промените:';
+$Definition["Layout"] = "оформление";
+$Definition["Learn more"] = "Научете повече";
+$Definition["Learn more about HSTS at %s."] = "Научете повече за HSTS на %s.";
+$Definition["Legacy Recent Posts Layout"] = "Наследено оформление на последните публикации";
 
-$Definition['Maintenance Mode'] = 'режим на поддръжка';
-$Definition['Make sure you select at least one item before continuing.'] = 'Уверете се, че сте избрали поне един елемент, преди да продължите.';
-$Definition['Manage'] = 'управлявам';
-$Definition['Manage Applicants'] = 'Управление на кандидатите';
-$Definition['Manage Applications'] = 'Управление на приложения';
-$Definition['Manage Badge Requests'] = 'Управление на заявките за значки';
-$Definition['Manage Badges'] = 'Управление на значки';
-$Definition['Manage Categories'] = 'Управление на категории';
-$Definition['Manage Groups'] = 'Управление на групи';
-$Definition['Manage Icon'] = 'Управление на иконата';
-$Definition['Manage Icon helptext'] = 'Тук можете да управлявате системни и исторически икони. Когато качвате, уверете се, че иконата е във формат SVG, включва атрибут на viewBox и използва цвят #000000, за да сте сигурни, че може да бъде оцветена динамично въз основа на настройките на темата и потребителските взаимодействия. Само една икона от всеки тип може да бъде активна в даден момент.';
-$Definition['Manage Icons'] = 'Управление на икони';
-$Definition['Manage Messages'] = 'Управление на съобщения';
-$Definition['Manage Plugins'] = 'Управление на приставки';
-$Definition['Manage Roles & Permissions'] = 'Управление на роли и разрешения';
-$Definition['Manage Spam'] = 'Управление на спама';
-$Definition['Manage Suggested Answer Sources'] = 'Управление на предложените източници на отговори';
-$Definition['Manage Themes'] = 'Управление на теми';
-$Definition['Manage Users'] = 'Управление на потребителите';
-$Definition['Managing Categories'] = 'Управление на категории';
-$Definition['Manual'] = 'наръчник';
-$Definition['Mark All Suggested Answers as Accepted'] = 'Маркирайте всички предложени отговори като приети';
-$Definition['Max %s length'] = 'Макс %s дължина';
-$Definition['Max Age'] = 'Макс възраст';
-$Definition['Max Avatar Height'] = 'Максимална височина на аватара';
-$Definition['Max Avatar Width'] = 'Максимална ширина на аватара';
-$Definition['Max Comment Length'] = 'Максимална дължина на коментарите';
-$Definition['Max height of %s'] = 'Максимална височина на %s';
-$Definition['Max height of %s in pixels'] = 'Максимална височина на %s в пиксели';
-$Definition['Maximum Category Display Depth'] = 'Максимална дълбочина на дисплея на категорията';
-$Definition['Maximum Limit Reached'] = 'Максималният лимит е достигнат';
-$Definition['Maximum number of posts to be included in the email digest.'] = 'Максимален брой публикации, които да бъдат включени в обобщения имейл.';
-$Definition['Max number of %s'] = 'Максимален брой %s';
-$Definition['Max number of images in signature'] = 'Максимален брой изображения в подпис';
-$Definition['Max Post Length'] = 'Максимална дължина на стойката';
-$Definition['Max signature length'] = 'Максимална дължина на подписа';
-$Definition['member'] = 'член';
-$Definition['Member roles'] = 'Проверете всички роли, които трябва да се прилагат към нови / одобрени потребители.';
-$Definition['Membership'] = 'членство';
-$Definition['Message'] = 'Съобщение';
-$Definition['Message ID'] = 'Идентификационен номер на съобщението';
-$Definition['Message Post Author'] = 'Автор на съобщението';
-$Definition['Messages'] = 'Съобщения';
-$Definition['Meta Options'] = 'Мета опции';
-$Definition['Meta Tags'] = 'Мета тагове';
-$Definition['Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line.'] = 'Мета таговете се използват за проверка на домейн за Google Search Console и други услуги. Копирайте необходимите мета тагове от вашия източник и ги поставете на нов ред.';
-$Definition['Method'] = 'метод';
-$Definition['Min Post Length'] = 'Минимална дължина на публикацията';
-$Definition['minute(s)'] = 'минути)';
-$Definition['Mixed Layout'] = 'Смесено оформление';
-$Definition['Mobile Address Bar Color'] = 'Цвят на мобилната адресна лента';
-$Definition['Mobile Banner Logo'] = 'Лого за мобилен банер';
-$Definition['Mobile Format'] = 'Мобилен формат';
-$Definition['MobileInputFormatter.Notes1'] = 'Укажете формат за редактиране за мобилни устройства.';
-$Definition['MobileInputFormatter.Notes2'] = 'Ако мобилните устройства трябва да имат същия опит, посочете същото като по-горе. Ако потребителите докладват за проблеми с редактирането на мобилни устройства, това е добра опция за промяна.';
-$Definition['Mobile Logo'] = 'Мобилно лого';
-$Definition['Mobile Themes'] = 'Мобилни теми';
-$Definition['Moderation Content'] = 'Модериране на съдържанието';
-$Definition['moderator'] = 'забавител';
-$Definition['Moderators have permission to edit most content.'] = 'Модераторите имат разрешение да редактират повечето съдържание.';
-$Definition['Modern Layout'] = 'Модерно оформление';
-$Definition['Modern non-table-based layout'] = 'Модерно оформление без таблица';
-$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'По-сложен език и може да въведе някои специфични за индустрията термини, но все пак разбираеми за повечето хора.';
-$Definition['More information'] = 'Повече информация';
-$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'Повече технически език и специфични за индустрията термини -- предполага по-високо ниво на технология на разбиране/запознаване с предмета.';
-$Definition['more than %s deep'] = 'повече от %s дълбоко';
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Повечето джобове не трябва да се показват на таблото за управление.';
-$Definition['Move discussions in this category to a replacement category.'] = 'Преместете дискусиите в тази категория в категория за заместване.';
-$Definition['Move post'] = 'Преместване на публикацията';
-$Definition['Move to category:'] = 'Преместване в категория:';
-$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'Полетата за множествен избор ще се активират, ако потребителят отговаря на КОЙТО и да е от критериите.';
-$Definition['My Invitations'] = 'Моите покани';
-$Definition['My Profile'] = 'Моят профил';
+$Definition["Level"] = "ниво";
+$Definition["Level of Technical Language"] = "Ниво на технически език";
+$Definition["Limits: 60 characters, no breaks."] =
+    "Ограничения: 60 знака, без прекъсвания.";
+$Definition["Link Color"] = "Цвят на връзката";
+$Definition["Likes"] = "Обича";
+$Definition["Limit the pocket to one or more roles or permissions."] =
+    "Ограничете джоба до една или повече роли или разрешения.";
+$Definition["Limit"] = "Лимит";
+$Definition["List of discussion IDs to delete."] =
+    "Списък с ID дискусии за изтриване.";
+$Definition["Locale Key (Folder)"] = "Локален ключ (папка)";
+$Definition["Locale Name"] = "Име на локала";
+$Definition["Locales"] = "Локалите";
+$Definition["Location"] = "местоположение";
+$Definition["Locations"] = "Места";
+$Definition["Logo"] = "Лого";
+$Definition["LogoBrowse"] =
+    "Потърсете ново лого на банера, ако искате да го промените:";
 
-$Definition['Name of Interest'] = 'Име на интереса';
-$Definition['Need More Help?'] = 'Нуждаете се от повече помощ?';
-$Definition['Nested Category Pages'] = 'Страници с вложени категории';
-$Definition['never'] = 'никога';
-$Definition['Never - Users Must Refresh Page'] = 'Никога - Потребителите трябва да опреснят страницата';
-$Definition['Never display on mobile browsers.'] = 'Никога не се показва в мобилни браузъри.';
-$Definition['New/Updated Email domain'] = 'Нов/актуализиран имейл домейн';
-$Definition['New/Updated Profile field'] = 'Поле за нов/актуализиран профил';
-$Definition['NewApplicantEmail'] = 'Нов кандидат:';
-$Definition['New comments in the last day'] = 'Нови коментари през последния ден';
-$Definition['New comments in the last week'] = 'Нови коментари през последната седмица';
-$Definition['New Community Management System'] = 'Нова система за управление на общността';
-$Definition['New conversations in the last day'] = 'Нови разговори в последния ден';
-$Definition['New conversations in the last week'] = 'Нови разговори през последната седмица';
-$Definition['New discussions in the last day'] = 'Нови дискусии в последния ден';
-$Definition['New discussions in the last week'] = 'Нови дискусии през последната седмица';
-$Definition['Newest Escalation'] = 'Най-новото ескалиране';
-$Definition['Newest Post'] = 'Най-нова публикация';
-$Definition['Newest Report'] = 'Най-нов доклад';
-$Definition['New Icon'] = 'Нова икона';
-$Definition['New messages in the last day'] = 'Нови съобщения през последния ден';
-$Definition['New messages in the last week'] = 'Нови съобщения през последната седмица';
-$Definition['New User Management'] = 'Управление на нови потребители';
-$Definition['New users are only registered through SSO plugins.'] = 'Новите потребители се регистрират само чрез SSO плъгини.';
-$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'Новите потребители се преглеждат и одобряват от администратор (това сте вие!).';
-$Definition['New users fill out a simple form and are granted access immediately.'] = 'Новите потребители попълват опростен формуляр и им се предоставя достъп веднага.';
-$Definition['New users in the last day'] = 'Нови потребители през последния ден';
-$Definition['New users in the last week'] = 'Нови потребители през последната седмица';
-$Definition['Next Slides'] = 'Следващи слайдове';
-$Definition['No Ban Rules Found'] = 'Не са намерени правила за забрана';
-$Definition['No categories are currently set to require premoderation.'] = 'Понастоящем няма категории, които да изискват предварително модериране.';
-$Definition['No Change'] = 'Няма промяна';
-$Definition['No drafts.'] = 'Без чернови.';
-$Definition['No further suggestions.'] = 'Няма повече предложения.';
-$Definition['No icons match those filters.'] = 'Няма икони, които отговарят на тези филтри.';
-$Definition['No item options are available for Link display type.'] = 'Няма налични опции за артикул за тип показване на връзка.';
-$Definition['No Items Selected'] = 'Няма избрани елементи';
-$Definition['No keywords are currently set to require premoderation.'] = 'Понастоящем няма зададени ключови думи, изискващи предварително модериране.';
-$Definition['No report notes were provided by <0/>'] = 'От <0/> не бяха предоставени бележки за доклада';
-$Definition['No results for %s.'] = 'Няма резултати за <b>%s</b> .';
-$Definition['No roles are currently set to require premoderation.'] = 'Понастоящем няма зададени роли, които да изискват предварително модериране.';
-$Definition['Not Dismissable'] = 'Не се изхвърлят';
-$Definition['Note:'] = 'Забележка:';
-$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'Забележка: Действията няма да засегнат <0 />, към които вече е приложено свързаното действие.';
-$Definition['Notes'] = 'Бележки';
-$Definition['Note this layout change will not be visible until you switch to custom layouts.'] = 'Имайте предвид, че тази промяна на оформлението няма да бъде видима, докато не преминете към персонализирани оформления.';
-$Definition['Notifications will appear here.'] = 'Известия ще се покажат тук.';
-$Definition['NotifyApplicant'] = 'Уведомете ме, когато някой кандидатства за членство.';
-$Definition['Notify me when my questions have AI Suggested Answers'] = 'Уведомете ме, когато въпросите ми имат предложени от AI отговори';
-$Definition['Notify me when people comment on a discussion.'] = 'Уведомете ме, когато хората коментират дискусия.';
-$Definition['Notify me when people start new discussions.'] = 'Уведомете ме, когато хората започнат нови дискусии.';
-$Definition['Not Spam'] = 'Не е спам';
-$Definition['Number input must be between'] = 'Въведеното число трябва да е между';
-$Definition['Number input must be between 1 and 100.'] = 'Въведеното число трябва да е между 1 и 100.';
-$Definition['Number of %s listed per page.'] = 'Брой изброени %s на страница.';
-$Definition['Number of blocked registrations'] = 'Брой блокирани регистрации';
-$Definition['Number of days before a follow-up email is automatically sent.'] = 'Брой дни преди автоматично изпращане на последващ имейл.';
-$Definition['Number of days since registration to bypass Cloudflare challenge'] = 'Брой дни след регистрацията за заобикаляне на предизвикателството на Cloudflare';
-$Definition['Number of posts'] = 'Брой публикации';
-$Definition['Number of posts from groups'] = 'Брой публикации от групи';
+$Definition["Maintenance Mode"] = "режим на поддръжка";
+$Definition["Make sure you select at least one item before continuing."] =
+    "Уверете се, че сте избрали поне един елемент, преди да продължите.";
+$Definition["Add your site to trusted domains."] =
+    "Уверете се, че вашият сайт е добавен към %s, когато вграждането е активирано.";
+$Definition["Manage"] = "управлявам";
+$Definition["Manage Applicants"] = "Управление на кандидатите";
+$Definition["Manage Applications"] = "Управление на приложения";
+$Definition["Manage Badges"] = "Управление на значки";
+$Definition["Manage Badge Requests"] = "Управление на заявките за значки";
+$Definition["Manage Categories"] = "Управление на категории";
+$Definition["Manage Groups"] = "Управление на групи";
+$Definition["Manage Messages"] = "Управление на съобщения";
+$Definition["Manage Plugins"] = "Управление на приставки";
+$Definition["Manage Roles & Permissions"] = "Управление на роли и разрешения";
+$Definition["Manage Suggested Answer Sources"] =
+    "Управление на предложените източници на отговори";
+$Definition["Manage Spam"] = "Управление на спама";
+$Definition["Manage Themes"] = "Управление на теми";
+$Definition["Manage Users"] = "Управление на потребителите";
+$Definition["Managing Categories"] = "Управление на категории";
+$Definition["Manual"] = "наръчник";
+$Definition["Mark All Suggested Answers as Accepted"] =
+    "Маркирайте всички предложени отговори като приети";
+$Definition["Max %s length"] = "Макс %s дължина";
+$Definition["Max Age"] = "Макс възраст";
+$Definition["Max Avatar Height"] = "Максимална височина на аватара";
+$Definition["Max Avatar Width"] = "Максимална ширина на аватара";
+$Definition["Max Comment Length"] = "Максимална дължина на коментарите";
+$Definition["Max height of %s"] = "Максимална височина на %s";
+$Definition["Max height of %s in pixels"] = "Максимална височина на %s в пиксели";
+$Definition["Maximum Category Display Depth"] =
+    "Максимална дълбочина на дисплея на категорията";
+$Definition["Max number of %s"] = "Максимален брой %s";
+$Definition["Max number of images in signature"] =
+    "Максимален брой изображения в подпис";
+$Definition["Maximum number of posts to be included in the email digest."] =
+    "Максимален брой публикации, които да бъдат включени в обобщения имейл.";
+$Definition["Max Post Length"] = "Максимална дължина на стойката";
+$Definition["Max signature length"] = "Максимална дължина на подписа";
+$Definition["member"] = "член";
+$Definition["Member roles"] =
+    "Проверете всички роли, които трябва да се прилагат към нови / одобрени потребители.";
+$Definition["Membership"] = "членство";
+$Definition["Message"] = "Съобщение";
+$Definition["Message ID"] = "Идентификационен номер на съобщението";
+$Definition["Messages"] = "Съобщения";
+$Definition["Meta Options"] = "Мета опции";
+$Definition["Method"] = "метод";
+$Definition["Min Post Length"] = "Минимална дължина на публикацията";
+$Definition["minute(s)"] = "минути)";
+$Definition["Mixed Layout"] = "Смесено оформление";
+$Definition["Mobile Address Bar Color"] = "Цвят на мобилната адресна лента";
+$Definition["Mobile Banner Logo"] = "Лого за мобилен банер";
+$Definition["Mobile Themes"] = "Мобилни теми";
+$Definition["moderator"] = "забавител";
+$Definition["Moderators have permission to edit most content."] =
+    "Модераторите имат разрешение да редактират повечето съдържание.";
+$Definition["Modern Layout"] = "Модерно оформление";
+$Definition["Modern non-table-based layout"] = "Модерно оформление без таблица";
+$Definition[
+    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
+] =
+    "По-сложен език и може да въведе някои специфични за индустрията термини, но все пак разбираеми за повечето хора.";
+$Definition["More information"] = "Повече информация";
+$Definition[
+    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
+] =
+    "Повече технически език и специфични за индустрията термини -- предполага по-високо ниво на технология на разбиране/запознаване с предмета.";
+$Definition["more than %s deep"] = "повече от %s дълбоко";
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
+    'Повечето джобове не трябва да се показват на таблото за управление.';
+$Definition["Move discussions in this category to a replacement category."] =
+    "Преместете дискусиите в тази категория в категория за заместване.";
+$Definition["My Invitations"] = "Моите покани";
 
-$Definition['Oldest Escalation'] = 'Най-старата ескалация';
-$Definition['Oldest Post'] = 'Най-старата публикация';
-$Definition['Oldest Report'] = 'Най-старият доклад';
-$Definition['On'] = 'Включено';
-$Definition['On Hold'] = 'На изчакване';
-$Definition['Only Allow Each User To Post'] = 'Разрешаване само на всеки потребител да публикува';
-$Definition['Only display on mobile browsers.'] = 'Показва се само в мобилни браузъри.';
-$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'Налични са само полета, които са едно квадратче за отметка, падащо меню с един избор, падащо меню с множество избори или числово падащо меню. След като полетата бъдат избрани, те ще се покажат по-долу, така че можете да изберете конкретни отговори за всяко поле на профила.';
-$Definition['Only Show Followed Categories'] = 'Показване само на следвани категории';
-$Definition['Only show icons that are default system icons.'] = 'Показвайте само икони, които са системни икони по подразбиране.';
-$Definition['Only show icons that have been overridden with custom icons.'] = 'Показвайте само икони, които са заменени с персонализирани икони.';
-$Definition['Only visible to users with roles with permission.'] = 'Вижда се само за потребители с роли с разрешение.';
-$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'Отворените случаи ще се показват само ако потребителят има валидна връзка Salesforce.';
-$Definition['Operation By'] = 'От';
-$Definition['Organization'] = 'организация';
-$Definition['Organize'] = 'Организиране';
-$Definition['Organize Categories'] = 'Организиране на категории';
-$Definition['Original Version'] = 'Оригинална версия';
-$Definition['Or select an image on your computer (2mb max)'] = 'Или изберете изображение на вашия компютър (макс. 2 МБ)';
-$Definition['Or Spamblock For'] = 'Или спамблок за';
-$Definition['Other Themes'] = 'Други теми';
-$Definition['Other Tutorials'] = 'Други уроци';
-$Definition['Outgoing Email'] = 'Изходящ имейл';
-$Definition['Outgoing Email Address'] = 'Изходящ имейл адрес';
-$Definition['Outgoing Emails'] = 'Изходящи имейли';
+$Definition["Name of Interest"] = "Име на интереса";
+$Definition["Need More Help?"] = "Нуждаете се от повече помощ?";
+$Definition["never"] = "никога";
+$Definition["Never - Users Must Refresh Page"] =
+    "Никога - Потребителите трябва да опреснят страницата";
+$Definition["Never display on mobile browsers."] =
+    "Никога не се показва в мобилни браузъри.";
+$Definition["NewApplicantEmail"] = "Нов кандидат:";
+$Definition["New comments in the last day"] = "Нови коментари през последния ден";
+$Definition["New comments in the last week"] = "Нови коментари през последната седмица";
+$Definition["New conversations in the last day"] =
+    "Нови разговори в последния ден";
+$Definition["New conversations in the last week"] =
+    "Нови разговори през последната седмица";
+$Definition["New discussions in the last day"] =
+    "Нови дискусии в последния ден";
+$Definition["New discussions in the last week"] =
+    "Нови дискусии през последната седмица";
+$Definition["New messages in the last day"] = "Нови съобщения през последния ден";
+$Definition["New messages in the last week"] = "Нови съобщения през последната седмица";
+$Definition["New User Management"] = "Управление на нови потребители";
+$Definition["New users are only registered through SSO plugins."] =
+    "Новите потребители се регистрират само чрез SSO плъгини.";
+$Definition[
+    'New users are reviewed and approved by an administrator (that\'s you!).'
+] = 'Новите потребители се преглеждат и одобряват от администратор (това сте вие!).';
+$Definition[
+    "New users fill out a simple form and are granted access immediately."
+] = "Новите потребители попълват опростен формуляр и им се предоставя достъп веднага.";
+$Definition["New users in the last day"] = "Нови потребители през последния ден";
+$Definition["New users in the last week"] = "Нови потребители през последната седмица";
+$Definition["No Ban Rules Found"] = "Не са намерени правила за забрана";
+$Definition["No Change"] = "Няма промяна";
+$Definition["No drafts."] = "Без чернови.";
+$Definition["No further suggestions."] = "Няма повече предложения.";
+$Definition["No item options are available for Link display type."] =
+    "Няма налични опции за артикул за тип показване на връзка.";
+$Definition["No Items Selected"] = "Няма избрани елементи";
+$Definition["No results for %s."] = "Няма резултати за <b>%s</b> .";
+$Definition["Not Dismissable"] = "Не се изхвърлят";
+$Definition["Notes"] = "Бележки";
+$Definition["Notifications will appear here."] =
+    "Известия ще се покажат тук.";
+$Definition["NotifyApplicant"] =
+    "Уведомете ме, когато някой кандидатства за членство.";
+$Definition["Notify me when people comment on a discussion."] =
+    "Уведомете ме, когато хората коментират дискусия.";
+$Definition["Notify me when my questions have AI Suggested Answers"] =
+    "Уведомете ме, когато въпросите ми имат предложени от AI отговори";
+$Definition["Notify me when people start new discussions."] =
+    "Уведомете ме, когато хората започнат нови дискусии.";
+$Definition["Not Spam"] = "Не е спам";
+$Definition["Number of %s listed per page."] = "Брой изброени %s на страница.";
+$Definition["Number of blocked registrations"] =
+    "Брой блокирани регистрации";
+$Definition["Number of days before a follow-up email is automatically sent."] =
+    "Брой дни преди автоматично изпращане на последващ имейл.";
+$Definition["Number input must be between"] = "Въведеното число трябва да е между";
+$Definition["Number input must be between 1 and 100."] =
+    "Въведеното число трябва да е между 1 и 100.";
+$Definition["Number of posts"] = "Брой публикации";
+$Definition["Number of posts from groups"] = "Брой публикации от групи";
 
-$Definition['Page Color'] = 'Цвят на страницата';
-$Definition['Pageview ratio representing a deflected case'] = 'Коефициентът на показване на страница, представляващ отклонен регистър';
-$Definition['Page Views'] = 'Показвания на страници';
-$Definition['Password Minimum Length'] = 'Минимална дължина на паролата';
-$Definition['Password Options'] = 'Опции за парола';
-$Definition['Passwords'] = 'Пароли';
-$Definition['Past Events'] = 'Минали събития';
-$Definition['Permission'] = 'разрешение';
-$Definition['Permission.Category'] = 'Категория';
-$Definition['Permissions'] = 'Разрешения';
-$Definition['permissions.admin'] = 'Администратор';
-$Definition['permissions.communityManager'] = 'Мениджър на общността';
-$Definition['permissions.everyone'] = 'Всеки';
-$Definition['permissions.member'] = 'Член';
-$Definition['permissions.moderator'] = 'Модератор';
-$Definition['Personal Info'] = 'Лична информация';
-$Definition['Please Confirm'] = 'Моля потвърди';
-$Definition['Please enter a unique API Label, this one has been used before'] = 'Моля, въведете уникален API етикет, този е бил използван преди';
-$Definition['Plugin'] = 'Plug-in';
-$Definition['Plugins'] = 'Плъгини';
-$Definition['Pocket'] = 'Джоб';
-$Definition['Pockets'] = 'Джобове';
-$Definition['Points'] = 'Точки';
-$Definition['Polls'] = 'Анкети ';
-$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'Възможни проблеми със съвместимостта с по-стари браузъри, засягащи потребителското изживяване.';
-$Definition['Post & Comment Editing'] = 'Редактиране на публикации и коментари';
-$Definition['Posted by <0/> in <1/>'] = 'Публикувано от <0/> в <1/>';
-$Definition['Post External Links'] = 'Публикуване на външни връзки';
-$Definition['Post Format'] = 'Формат на публикацията';
-$Definition['Posting'] = 'Публикуване';
-$Definition['Posting Category Pages'] = 'Публикуване на страници с категории';
-$Definition['Posting Settings'] = 'Настройки за публикуване';
-$Definition['Post Layout Settings'] = 'Настройки на оформлението на публикациите';
-$Definition['Post Layout Version'] = 'Версия на оформлението на публикацията';
-$Definition['Post Management'] = 'Управление на постове';
-$Definition['Post Pages'] = 'Страници с публикации';
-$Definition['Post Rejected'] = 'Публикацията е отхвърлена';
-$Definition['Post Revision'] = 'След ревизия';
-$Definition['Posts Matching Criteria Now: <0 />'] = 'Публикации, отговарящи на критерии сега: <0 />';
-$Definition['Posts per Page'] = 'Публикации на страница';
-$Definition['Posts with any of the following keywords or phrases will required moderator approval.'] = 'Публикации с някоя от следните ключови думи или фрази ще изискват одобрение от модератор.';
-$Definition['Preload'] = 'Предварително зареждане';
-$Definition['Premoderated Categories'] = 'Премодерирани категории';
-$Definition['Premoderated Keywords'] = 'Премодерирани ключови думи';
-$Definition['Premoderated Roles'] = 'Премодерирани роли';
-$Definition['Premoderation Settings'] = 'Настройки за предварително модериране';
-$Definition['Preview Color'] = 'Преглед на цвят';
-$Definition['Preview Colors'] = 'Визуализация Цветове';
-$Definition['Preview Icon Pack'] = 'Преглед на пакет с икони';
-$Definition['Previews'] = 'Визуализации';
-$Definition['Previous Icons'] = 'Предишни икони';
-$Definition['Previous Slides'] = 'Предишни слайдове';
-$Definition['Previous versions of your icons can be found here and restored at any time.'] = 'Предишните версии на вашите икони могат да бъдат намерени тук и възстановени по всяко време.';
-$Definition['Private Communities'] = 'Частни общности';
-$Definition['private conversation(s)'] = 'личен разговор (и)';
-$Definition['Private Key'] = 'Частен ключ';
-$Definition['Professional'] = 'Професионален';
-$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Протоколите (напр. https://) и пътеките (напр. yourdomain.com/some/path) трябва да бъдат пропуснати.';
-$Definition['Provider'] = 'доставчик';
-$Definition['Public Key'] = 'Публичен ключ';
+$Definition["On"] = "Включено";
+$Definition["Only Allow Each User To Post"] = "Разрешаване само на всеки потребител да публикува";
+$Definition["Only display on mobile browsers."] =
+    "Показва се само в мобилни браузъри.";
+$Definition[
+    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
+] =
+    'Налични са само полета, които са едно квадратче за отметка, падащо меню с един избор, падащо меню с множество избори или числово падащо меню. След като полетата бъдат избрани, те ще се покажат по-долу, така че можете да изберете конкретни отговори за всяко поле на профила.';
+$Definition["Only Show Followed Categories"] = "Показване само на следвани категории";
+$Definition["Only visible to users with roles with permission."] =
+    "Вижда се само за потребители с роли с разрешение.";
+$Definition[
+    "Open cases will only display if the user has a valid Salesforce connection."
+] =
+    "Отворените случаи ще се показват само ако потребителят има валидна връзка Salesforce.";
+$Definition["Operation By"] = "От";
+$Definition["Organization"] = "организация";
+$Definition["Organize"] = "Организиране";
+$Definition["Organize Categories"] = "Организиране на категории";
+$Definition["Original Version"] = "Оригинална версия";
+$Definition["Or select an image on your computer (2mb max)"] =
+    "Или изберете изображение на вашия компютър (макс. 2 МБ)";
+$Definition["Or Spamblock For"] = "Или спамблок за";
+$Definition["Other Themes"] = "Други теми";
+$Definition["Other Tutorials"] = "Други уроци";
+$Definition["Outgoing Email"] = "Изходящ имейл";
+$Definition["Outgoing Emails"] = "Изходящи имейли";
+$Definition["Outgoing Email Address"] = "Изходящ имейл адрес";
 
-$Definition['QnAFollowup.Feature.Enabled'] = 'Тази функция изпраща имейли до авторите на отговори на въпроси, които нямат приет отговор.';
-$Definition['Question Pages'] = 'Страници с въпроси';
+$Definition["Page Color"] = "Цвят на страницата";
+$Definition["Page Views"] = "Показвания на страници";
+$Definition["Pageview ratio representing a deflected case"] =
+    "Коефициентът на показване на страница, представляващ отклонен регистър";
+$Definition["Passwords"] = "Пароли";
+$Definition["Password Options"] = "Опции за парола";
+$Definition["Password Minimum Length"] = "Минимална дължина на паролата";
+$Definition["Past Events"] = "Минали събития";
+$Definition["Permission"] = "разрешение";
+$Definition["Permission.Category"] = "Категория";
+$Definition["Permissions"] = "Разрешения";
+$Definition["permissions.everyone"] = "Всеки";
+$Definition["permissions.member"] = "Член";
+$Definition["permissions.moderator"] = "Модератор";
+$Definition["permissions.communityManager"] = "Мениджър на общността";
+$Definition["permissions.admin"] = "Администратор";
+$Definition["Personal Info"] = "Лична информация";
+$Definition["Please Confirm"] = "Моля потвърди";
+$Definition["Please enter a unique API Label, this one has been used before"] =
+    "Моля, въведете уникален API етикет, този е бил използван преди";
+$Definition["Plugin"] = "Plug-in";
+$Definition["Plugins"] = "Плъгини";
+$Definition["Pocket"] = "Джоб";
+$Definition["Pockets"] = "Джобове";
+$Definition["Points"] = "Точки";
+$Definition["Polls"] = "Анкети ";
+$Definition[
+    "Possible compatibility problems with older browsers, affecting user experience."
+] =
+    "Възможни проблеми със съвместимостта с по-стари браузъри, засягащи потребителското изживяване.";
+$Definition["Post External Links"] = "Публикуване на външни връзки";
+$Definition["Posting Settings"] = "Настройки за публикуване";
+$Definition["Preload"] = "Предварително зареждане";
+$Definition["Preview Colors"] = "Визуализация Цветове";
+$Definition["Private Communities"] = "Частни общности";
+$Definition["private conversation(s)"] = "личен разговор (и)";
+$Definition["Private Key"] = "Частен ключ";
+$Definition["Professional"] = "Професионален";
+$Definition[
+    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
+] =
+    "Протоколите (напр. https://) и пътеките (напр. yourdomain.com/some/path) трябва да бъдат пропуснати.";
+$Definition["Provider"] = "доставчик";
+$Definition["Public Key"] = "Публичен ключ";
 
-$Definition['Rank Changes'] = 'Промени в ранга';
-$Definition['Ranks'] = 'звания';
-$Definition['Re-Register API Key'] = 'Пререгистрирайте API ключ';
-$Definition['Reaction Types'] = 'Видове реакции';
-$Definition['Read more in the documentation'] = 'Прочетете повече в документацията';
-$Definition['Recalculate Counts'] = 'Преизчисляване на броя';
-$Definition['Recently Active Users'] = 'Наскоро активни потребители';
-$Definition['Recently Added'] = 'Неотдавна добавени';
-$Definition['Recently Commented'] = 'Наскоро коментиран';
-$Definition['Recent News'] = 'Последните новини';
-$Definition['Recent Posts Layout Settings'] = 'Настройки за оформление на последните публикации';
-$Definition['Recent Posts Layout Version'] = 'Версия на оформлението на последните публикации';
-$Definition['Recent Posts Pages'] = 'Страници с последни публикации';
-$Definition['Recipient'] = 'Получател';
-$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'Препоръчителните размери са 400px на 300px или по-малки с подобно съотношение.';
-$Definition['Record Content'] = 'Съдържание';
-$Definition['Refresh Comments'] = 'Обновяване на коментарите';
-$Definition['Regenerate AI Suggestions'] = 'Регенериране на AI предложения';
-$Definition['Regenerate Suggestions'] = 'Повторно генериране на предложения';
-$Definition['Register for Membership'] = 'Регистрирайте се за членство';
-$Definition['Register IP'] = 'Регистрирайте IP';
-$Definition['Register Url'] = 'Регистрирайте URL адреса';
-$Definition['Registration'] = 'Регистрация';
-$Definition['Registration is currently closed.'] = 'В момента регистрацията е закрита.';
-$Definition['Reinterpret All Posts As %s'] = 'Интерпретирайте отново всички публикации като %s';
-$Definition['Reload the page to access recent updates.'] = 'Презаредете страницата за достъп до последните актуализации.';
-$Definition['Reload the page to see recent updates.'] = 'Презаредете страницата, за да видите последните актуализации.';
-$Definition['Remove Banner Logo'] = 'Премахване на лого на банера';
-$Definition['Remove Email Logo'] = 'Премахване на лого на имейл';
-$Definition['Remove Favicon'] = 'Премахнете Favicon';
-$Definition['Remove from collection'] = 'Премахване от колекцията';
-$Definition['Remove from collection:'] = 'Премахване от колекцията:';
-$Definition['Remove from default follow list'] = 'Премахване от списъка за следване по подразбиране';
-$Definition['Remove from trigger collection'] = 'Премахване от колекцията на задействания';
-$Definition['Remove Method'] = 'Премахване на метод';
-$Definition['Remove Post'] = 'Премахване на публикация';
-$Definition['Reorder'] = 'Пренареждане';
-$Definition['Reorder Columns'] = 'Пренареждане на колони';
-$Definition['Reorder Report Reasons'] = 'Причини за пренареждане на отчета';
-$Definition['Repeat'] = 'повторение';
-$Definition['Repeat Every'] = 'Повторете всеки';
-$Definition['Replace Image'] = 'Замяна на изображението';
-$Definition['Replacement Category'] = 'Категория на заместване';
-$Definition['Replacement Role'] = 'Роля за замяна';
-$Definition['Reply  To'] = 'Отговаряте на';
-$Definition['reply to private conversation(s)'] = 'отговор на личен разговор (и)';
-$Definition['report'] = 'отчет';
-$Definition['Report Dismissed'] = 'Докладът е отхвърлен';
-$Definition['Reported by <0/>'] = 'Докладвано от <0/>';
-$Definition['Report Reasons'] = 'Докладвайте причини';
-$Definition['reports'] = 'доклади';
-$Definition['Reports for <0/>'] = 'Доклади за <0/>';
-$Definition['Request'] = 'поискване';
-$Definition['Requests'] = 'Заявки';
-$Definition['Required field'] = 'Задължително поле';
-$Definition['Requires'] = 'Изисква';
-$Definition['Requires: '] = 'Изисква:';
-$Definition['Require Terms of Service'] = 'Изисквайте потребителите да приемат Общите условия (препоръчително)';
-$Definition['Require users to agree to the Terms of Service (recommended)'] = 'Изисквайте потребителите да приемат Общите условия (препоръчително)';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'Изисквайте от потребителите да потвърждават своите имейл адреси (препоръчително)';
-$Definition['Rescan'] = 'Повторно сканиране';
-$Definition['Reset'] = 'Нулиране';
-$Definition['Reset my password'] = 'Възстановяване на паролата ми';
-$Definition['Reset password and send email notification to user'] = 'Нулиране на парола и изпращане на имейл известие до потребителя';
-$Definition['Resetting the password for %s.'] = 'Възстановяване на паролата за %s.';
-$Definition['Reset to Default'] = 'Обновявам до първоначалното';
-$Definition['Resolve All'] = 'Разреши всички';
-$Definition['Resolve All Discussions'] = 'Разрешете всички дискусии';
-$Definition['Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics.'] = 'Разрешаване на всички публикации ще разреши всички съществуващи публикации в общността. Това групово действие няма да задейства уеб кукички или анализи.';
-$Definition['Resolve post'] = 'Разрешете публикацията';
-$Definition['Restart'] = 'Рестартирам';
-$Definition['Reveal Password'] = 'разкриват парола';
-$Definition['Revert'] = 'Връщане';
-$Definition['Revert to Original Version'] = 'Върнете се в оригиналната версия';
-$Definition['Revision Label:'] = 'Етикет за ревизия:';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Използвайте следната опция, за да активирате кавички за Rich Editor. Това ще се прилага само ако форматът по подразбиране е "Rich".';
-$Definition['ROI Calculation Documentation'] = 'Документация за изчисляване на ROI';
-$Definition['Role'] = 'роля';
-$Definition['Role Applicants'] = 'Кандидати за роли';
-$Definition['Role Name'] = 'Име на ролята';
-$Definition['Role Permissions'] = 'Разрешения за роли';
-$Definition['RolePersonalInfo'] = 'Тази роля е лична информация. Само потребителите с разрешение за преглед на лична информация ще я виждат.';
-$Definition['Role Request Status'] = 'Статус';
-$Definition['Roles & Permissions'] = 'Роли и права на достъп';
-$Definition['Roles determine user\'s permissions.'] = 'Всеки потребител на вашия сайт е назначен поне на една роля. Ролите се използват за определяне на това, което потребителите могат да правят.';
-$Definition['Role to Grant'] = 'Роля на Грант';
-$Definition['Route'] = 'маршрут';
-$Definition['Routes'] = 'Маршрути';
-$Definition['Rule Action'] = 'Правило Действие';
-$Definition['Rule may not be deleted while it is running'] = 'Правилото не може да бъде изтрито, докато се изпълнява';
-$Definition['Rule may not be edited while it is running'] = 'Правилото не може да се редактира, докато се изпълнява';
-$Definition['Rule Name'] = 'Име на правило';
-$Definition['Rules'] = 'правилник';
-$Definition['Rule status will apply once current run completes'] = 'Състоянието на правилото ще се приложи, след като текущото изпълнение завърши';
-$Definition['Rule Trigger'] = 'Задействане на правило';
-$Definition['Running'] = 'Бягане';
-$Definition['Run structure & data scripts'] = 'Изпълнете скриптове за структура и данни';
+$Definition["Rank Changes"] = "Промени в ранга";
+$Definition["Ranks"] = "звания";
+$Definition["Read more in the documentation"] =
+    "Прочетете повече в документацията";
+$Definition["Re-Register API Key"] = "Пререгистрирайте API ключ";
+$Definition["Register IP"] = "Регистрирайте IP";
+$Definition["Reaction Types"] = "Видове реакции";
+$Definition["Recalculate Counts"] = "Преизчисляване на броя";
+$Definition["Recently Active Users"] = "Наскоро активни потребители";
+$Definition["Recently Commented"] = "Наскоро коментиран";
+$Definition["Recently Added"] = "Неотдавна добавени";
+$Definition["Recent News"] = "Последните новини";
+$Definition["Recent Posts Layout Settings"] = "Настройки за оформление на последните публикации";
+$Definition["Recent Posts Pages"] = "Страници с последни публикации";
+$Definition["Recent Posts Layout Version"] = "Версия на оформлението на последните публикации";
 
-$Definition['Save Captured Definitions'] = 'Запазване на заснетите определения';
-$Definition['Save challenge cutoff age'] = 'Запазване на граничната възраст на предизвикателството';
-$Definition['Save Colors'] = 'Запазване на цветовете';
-$Definition['Score Count'] = 'Брой резултати';
-$Definition['Search by user or role.'] = 'Търсете потребители по име или имейл, като по желание използвате% като заместваща карта. Можете също така да търсите по потребителски идентификатор, името на роля или „забранен“.';
-$Definition['Search Query'] = 'Заявка за търсене';
-$Definition['Search Result In New Tab'] = 'Резултат от търсенето в нов раздел';
-$Definition['Search results of members'] = 'Резултати от търсенето на членове';
-$Definition['SearchScope.Everywhere'] = 'Навсякъде';
-$Definition['seconds'] = 'секунди';
-$Definition['Security'] = 'Сигурност';
-$Definition['See also'] = 'Вижте също';
-$Definition['See documentation for more information.'] = 'Вижте документацията за повече информация.';
-$Definition['See link'] = 'Вижте връзката';
-$Definition['Select'] = 'Изберете';
-$Definition['Select a category'] = 'Изберете категория';
-$Definition['Selection will affect the item options available.'] = 'Изборът ще повлияе на наличните опции за артикул.';
-$Definition['Select the action that will occur when this rule is triggered.'] = 'Изберете действието, което ще се извърши, когато това правило бъде задействано.';
-$Definition['Select the location of the pocket.'] = 'Изберете местоположението на джоба.';
-$Definition['Select the trigger that will cause this rule to run.'] = 'Изберете тригера, който ще предизвика изпълнението на това правило.';
-$Definition['Select which columns are displayed on the manage users page list.'] = 'Изберете кои колони да се показват в списъка на страницата за управление на потребители.';
-$Definition['Send %s a Message'] = 'Изпратете %s съобщение';
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Изпратете имейл за потвърждение, когато хората зададат въпрос или започнат дискусия по имейл.';
-$Definition['Send Again'] = 'Изпрати отново';
-$Definition['Send a Test Email'] = 'Изпратете пробен имейл';
-$Definition['Send Invitations!'] = 'Изпратете покани!';
-$Definition['Send Test Digest'] = 'Изпратете пробно резюме';
-$Definition['Send Test Email Digest'] = 'Изпратете тестов имейл обобщение';
-$Definition['Send users a welcome email.'] = 'Изпратете на потребителите имейл за добре дошли.';
-$Definition['sentiment'] = 'настроения';
-$Definition['Sent To'] = 'Изпратени на';
-$Definition['Separate each word with a semi-colon ";"'] = 'Отделете всяка дума с запетая ";"';
-$Definition['Set as Active'] = 'Задайте като активен';
-$Definition['Set as default layout for all <0 />.'] = 'Задайте като оформление по подразбиране за всички <0 />.';
-$Definition['Set as default layout for specific knowledge bases.'] = 'Задайте като оформление по подразбиране за конкретни бази знания.';
-$Definition['Set as default layout for specific subcommunities.'] = 'Задайте като оформление по подразбиране за конкретни подобщности.';
-$Definition['Set Post Visibility to Hidden'] = 'Задайте видимостта на публикацията на Скрита';
-$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'Задайте този интерес по подразбиране, за да предложите да следвате картографираните му категории и етикети на всички потребители.';
-$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'Задайте променлива за задействане и променлива за действие, за да генерирате обобщение на правилото.';
-$Definition['Share Image'] = 'Споделяне на изображението';
-$Definition['Show'] = 'Покажи';
-$Definition['Show all categories'] = 'Показване на всички категории';
-$Definition['Show an uploaded image on the Category page.'] = 'Всяка дискусия ще покаже качено изображение на страницата Категория. Това се отнася само за категории с „Дискусии“ като „Покажи като“.';
-$Definition['Show Badges'] = 'Показване на значки';
-$Definition['Show Dismissed Suggestions'] = 'Показване на отхвърлените предложения';
-$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'Покажете на всеки потребител персонализиран списък с идеи, които са създали или са гласували.';
-$Definition['Show OP Indicator'] = 'Показване на OP индикатор';
-$Definition['Show Original Suggestions'] = 'Показване на оригинални предложения';
-$Definition['Show Pocket Locations'] = 'Показване на джобни местоположения';
-$Definition['Show Suggestions'] = 'Показване на предложения';
-$Definition['Show users\' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking.'] = 'Показвайте значките на потребителите на всяка публикация. Могат да се показват до максимум 5 значки по ред на най-висок ранг.';
-$Definition['Signatures'] = 'Подписи';
-$Definition['SignedOut'] = 'Излизате.';
-$Definition['Sign In Url'] = 'Влезте в URL адреса';
-$Definition['since'] = 'тъй като';
-$Definition['Site Description'] = 'Описание на сайта';
-$Definition['Site Name'] = 'Име на сайта';
-$Definition['Skip to end of Carousel'] = 'Прескачане до края на въртележката';
-$Definition['Slug'] = 'плужек';
-$Definition['SMTP Host'] = 'SMTP домакин';
-$Definition['SMTP Password'] = 'SMTP парола';
-$Definition['SMTP Port'] = 'SMTP порт';
-$Definition['SMTP Security'] = 'SMTP сигурност';
-$Definition['SMTP User'] = 'SMTP потребител';
-$Definition['Social Connect'] = 'Социална медия';
-$Definition['Social Connect Addons'] = 'Добавки за социална връзка';
-$Definition['Sort Order'] = 'Подреди ред';
-$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Източниците, които са избрани тук, ще бъдат достъпни за AI Suggested Answers.';
-$Definition['Spam Detection'] = 'Откриване на спам';
-$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Посочете по един домейн на ред. Използвайте * за мачове с подсказки.';
-$Definition['Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.'] = 'Прекарайте малко време за размисъл как описвате сайта си тук. Предоставянето на вашия сайт съдържателно заглавие и кратко описание може да помогне за позицията ви в търсачките.';
-$Definition['Spoof'] = 'измислен';
-$Definition['SSO Role'] = 'SSO Роля';
-$Definition['SSO roles are always passed through SSO.'] = 'Ролите на SSO винаги се предават през SSO.';
-$Definition['Start Discussions'] = 'Започнете дискусии';
-$Definition['Start Private Conversations'] = 'Започнете частни разговори';
-$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'Започнете темата на дайджеста с [Заглавие на банера], зададено в Външен вид > Брандиране и SEO';
-$Definition['Start typing username'] = 'Започнете да въвеждате потребителско име';
-$Definition['State'] = 'състояние';
-$Definition['Statistics'] = 'Статистика';
-$Definition['Status on Creation'] = 'Състояние при създаване';
-$Definition['Strip Embeds'] = 'Вгражда се лента';
-$Definition['Style'] = 'стил';
-$Definition['Style Guides'] = 'Ръководства за стил';
-$Definition['Styles'] = 'Стилове';
-$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'Стиловете и общият визуален вид на всички имейли, включително резюмето на имейлите, се задават за целия сайт на страницата с настройки за имейл.';
-$Definition['Subcommunity'] = 'Подобщност';
-$Definition['Subject Line and Title'] = 'Тема и заглавие';
-$Definition['subscribers'] = 'абонати';
-$Definition['Suggested Answers Options'] = 'Предлагани опции за отговори';
-$Definition['Suggested Content'] = 'Предложено съдържание';
-$Definition['Suggested Discussion Title'] = 'Предложено заглавие на дискусията';
-$Definition['Suggested Follows'] = 'Предложени последователи';
-$Definition['Suggestions are only visible to you until you accept the answer'] = 'Предложенията са видими само за вас, докато не приемете отговора';
-$Definition['Suggestions may only be generated on questions'] = 'Предложения могат да се генерират само по въпроси';
-$Definition['Summary'] = 'Резюме';
-$Definition['System Icon'] = 'Икона на системата';
+$Definition[
+    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
+] =
+    "Препоръчителните размери са 400px на 300px или по-малки с подобно съотношение.";
+$Definition["Record Content"] = "Съдържание";
+$Definition["Recipient"] = "Получател";
+$Definition["Refresh Comments"] = "Обновяване на коментарите";
+$Definition["Regenerate AI Suggestions"] = "Регенериране на AI предложения";
+$Definition["Regenerate Suggestions"] = "Повторно генериране на предложения";
+$Definition["Register for Membership"] = "Регистрирайте се за членство";
+$Definition["Register Url"] = "Регистрирайте URL адреса";
+$Definition["Registration"] = "Регистрация";
+$Definition["Registration is currently closed."] =
+    "В момента регистрацията е закрита.";
+$Definition["Reload the page to see recent updates."] =
+    "Презаредете страницата, за да видите последните актуализации.";
+$Definition["Reload the page to access recent updates."] =
+    "Презаредете страницата за достъп до последните актуализации.";
+$Definition["Remove Banner Logo"] = "Премахване на лого на банера";
+$Definition["Remove Email Logo"] = "Премахване на лого на имейл";
+$Definition["Remove Favicon"] = "Премахнете Favicon";
+$Definition["Reorder Columns"] = "Пренареждане на колони";
+$Definition["Repeat"] = "повторение";
+$Definition["Repeat Every"] = "Повторете всеки";
+$Definition["Replace Image"] = "Замяна на изображението";
+$Definition["Replacement Category"] = "Категория на заместване";
+$Definition["Replacement Role"] = "Роля за замяна";
+$Definition["Reply  To"] = "Отговаряте на";
+$Definition["reply to private conversation(s)"] =
+    "отговор на личен разговор (и)";
+$Definition["Request"] = "поискване";
+$Definition["Requests"] = "Заявки";
+$Definition["Requires"] = "Изисква";
+$Definition["Requires: "] = "Изисква:";
+$Definition["Require Terms of Service"] =
+    "Изисквайте потребителите да приемат Общите условия (препоръчително)";
+$Definition["Require users to confirm their email addresses (recommended)"] =
+    "Изисквайте от потребителите да потвърждават своите имейл адреси (препоръчително)";
+$Definition["Require users to agree to the Terms of Service (recommended)"] =
+    "Изисквайте потребителите да приемат Общите условия (препоръчително)";
+$Definition["Rescan"] = "Повторно сканиране";
+$Definition["Reset"] = "Нулиране";
+$Definition["Reset my password"] = "Възстановяване на паролата ми";
+$Definition["Reset password and send email notification to user"] =
+    "Нулиране на парола и изпращане на имейл известие до потребителя";
+$Definition["Reset to Default"] = "Обновявам до първоначалното";
+$Definition["Resetting the password for %s."] =
+    "Възстановяване на паролата за %s.";
+$Definition["Restart"] = "Рестартирам";
+$Definition["Reveal Password"] = "разкриват парола";
+$Definition["Revert"] = "Връщане";
+$Definition["Revert to Original Version"] = "Върнете се в оригиналната версия";
+$Definition["Revision Label:"] = "Етикет за ревизия:";
+$Definition["ROI Calculation Documentation"] = "Документация за изчисляване на ROI";
+$Definition["Role"] = "роля";
+$Definition["Assign to"] = "Възлага на";
+$Definition["Role Applicants"] = "Кандидати за роли";
+$Definition["Role Name"] = "Име на ролята";
+$Definition["Role Permissions"] = "Разрешения за роли";
+$Definition["RolePersonalInfo"] =
+    "Тази роля е лична информация. Само потребителите с разрешение за преглед на лична информация ще я виждат.";
+$Definition["Roles & Permissions"] = "Роли и права на достъп";
+$Definition['Roles determine user\'s permissions.'] =
+    "Всеки потребител на вашия сайт е назначен поне на една роля. Ролите се използват за определяне на това, което потребителите могат да правят.";
+$Definition["Role Request Status"] = "Статус";
+$Definition["Role to Grant"] = "Роля на Грант";
+$Definition["Route"] = "маршрут";
+$Definition["Routes"] = "Маршрути";
+$Definition["Rules"] = "правилник";
+$Definition["Run structure & data scripts"] = "Изпълнете скриптове за структура и данни";
+$Definition["RSVP"] = "RSVP";
 
-$Definition['Table Layout'] = 'Оформление на таблицата';
-$Definition['take away'] = 'за вкъщи';
-$Definition['Target All Users'] = 'Насочване към всички потребители';
-$Definition['Target Users'] = 'Целеви потребители';
-$Definition['Technical'] = 'Технически';
-$Definition['Technical Jargon'] = 'Технически жаргон';
-$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'Кажете на редактора да интерпретира отново всички стари публикации като %s.';
-$Definition['Templates'] = 'Шаблони';
-$Definition['Temporary (302)'] = 'Временен (302)';
-$Definition['Test Email'] = 'Тест на имейл';
-$Definition['Test email from %s'] = 'Тествайте имейл от %s';
-$Definition['Test Email Message'] = '<p> Това е тестово имейл съобщение. </p><p> Можете да конфигурирате външния вид на имейлите на вашия форум, като отидете на страницата за електронна поща в таблото за управление. </p>';
-$Definition['Test Mode'] = 'Тестов режим: Джобът ще се показва само за джобни администратори.';
-$Definition['Test URL'] = 'Тестов URL адрес';
-$Definition['Text Color'] = 'Цвят на текста';
-$Definition['TextEnterEmails'] = 'Въведете тук имейл адреси, разделени със запетаи';
-$Definition['Thanks for sticking with us for %s years.'] = 'Благодаря, че се придържате към нас за %s години.';
-$Definition['Thanks for sticking with us for a full year.'] = 'Благодаря, че се придържате към нас цяла година.';
-$Definition['The %s badge has already been given to %s.'] = 'Значката %s вече е дадена на %s.';
-$Definition['The %s locale pack does not exist.'] = 'Локалният пакет %s не съществува.';
-$Definition['The %s table is not in the correct format.'] = 'Таблицата %s не е в правилния формат.';
-$Definition['The %s was already approved by %s on %s.'] = '%s вече беше одобрен от %s на %s.';
-$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'Действието ще се приложи към тях, когато правилото е активирано. В бъдеще други <0 />, които отговарят на критериите за задействане, също ще имат действие, приложено към тях.';
-$Definition['The action will be applied to only them if you proceed.'] = 'Действието ще се приложи само към тях, ако продължите.';
-$Definition['The Basics'] = 'Основите';
-$Definition['The client ID uniqely identifies the site.'] = 'Клиентският идентификатор uniqely идентифицира сайта. Можете да генерирате нов идентификационен номер с бутона в долната част на тази страница.';
-$Definition['The content you were looking for has been deleted.'] = 'Съдържанието, което търсите, е било изтрито.';
-$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'Банерното изображение по подразбиране в целия сайт. Това може да бъде отменено на база категория.';
-$Definition['The default role has not been configured.'] = 'Ролята по подразбиране не е конфигурирана.';
-$Definition['The email address this test will be sent to.'] = 'Имейл адресът, на който ще бъде изпратен този тест.';
-$Definition['The email has been sent.'] = 'Имейлът е изпратен.';
-$Definition['The first line of content in the email digest after the title.'] = 'Първият ред със съдържание в обобщения имейл след заглавието.';
-$Definition['The homepage title is displayed on your home page.'] = 'Заглавието на началната страница се показва на вашата начална страница. Изберете заглавие, което искате да видите в търсачките.';
-$Definition['The homepage was saved successfully.'] = 'Началната страница бе успешно запазена.';
-$Definition['The invitation was removed successfully.'] = 'Поканата бе премахната успешно.';
-$Definition['The invitation was sent successfully.'] = 'Поканата бе изпратена успешно.';
-$Definition['The Key in the XML payload to designate %s.'] = 'Ключът в полезния товар на XML за обозначаване на %s.';
-$Definition['Theme Editor'] = 'Тема редактор';
-$Definition['ThemeEditor.Copy'] = '<0 /> копие';
-$Definition['Theme Options'] = 'Опции за тема';
-$Definition['Themes'] = 'Теми';
-$Definition['Theming Documentation'] = 'Тематична документация';
-$Definition['Theming Overview'] = 'Преглед на темите';
-$Definition['The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>.'] = 'Новата система за управление на общността позволява персонализирани причини за докладване, ескалации, присвоявания и правила за автоматизация. Активирането на това променя отчитането на приема, за да използва новата система. <0>Прочетете повече</0> .';
-$Definition['The next three email digest delivery dates'] = 'Следващите три дати за доставка на обобщения имейл';
-$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'При качването на изображението възникна грешка. Вашето лого за имейл може да се качи в един от следните файлове: gif, jpg, png';
-$Definition['There are currently %s applicants.'] = 'В момента има кандидати %s.';
-$Definition['There are currently %s requests.'] = 'В момента има %s заявки.';
-$Definition['There are currently no applicants.'] = 'Понастоящем няма кандидати.';
-$Definition['There are currently no comments on this post'] = 'В момента няма коментари по тази публикация';
-$Definition['There are currently no reports for this post.'] = 'В момента няма доклади за тази публикация.';
-$Definition['There are currently no requests.'] = 'Понастоящем няма заявки.';
-$Definition['There are no items awaiting moderation at this time.'] = 'Понастоящем няма елементи, които чакат модериране.';
-$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'В този форум вече има акаунт, използващ имейл адреса ви. Моля, създайте нов акаунт или въведете идентификационните данни за съществуващия.';
-$Definition['There is currently %s applicant.'] = 'В момента има кандидат за %s.';
-$Definition['There is currently %s request.'] = 'Понастоящем има %s заявка.';
-$Definition['There was an error fetching the connection data.'] = 'Възникна грешка при извличането на данните за връзката.';
-$Definition['There was an error saving your changes. Please try again.'] = 'Възникна грешка при запазването на вашите промени. Моля, опитайте отново.';
-$Definition['The roles which can see this report reason.'] = 'Ролите, които могат да видят причината за този отчет.';
-$Definition['The secret secures the sign in process.'] = 'Тайната защитава процеса на влизане. <b>НЕ</b> раздавайте тайната на никого.';
-$Definition['The site description usually appears in search engines.'] = 'Описанието на сайта обикновено се появява в търсачките. Трябва да опитате да имате описание, което е дълго 100-150 знака.';
-$Definition['The site is currently undergoing scheduled maintenance.'] = 'В момента сайтът се подлага на планова поддръжка.';
-$Definition['The specified url code is already in use by another category.'] = 'Указаният код на URL адрес вече се използва от друга категория.';
-$Definition['The structure was successfully executed.'] = 'Структурата беше успешно изпълнена.';
-$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'Тестовият дайджест ще генерира съдържание, сякаш този потребител получава дайджеста.';
-$Definition['The update was not successful.'] = 'Актуализацията не бе успешна.';
-$Definition['The update was successful.'] = 'Актуализацията беше успешна.';
-$Definition['The url that users go to to register for a new account.'] = 'URL адресът, който потребителите отиват, за да се регистрират за нов акаунт.';
-$Definition['The url that users use to register for a new account.'] = 'URL адресът, който потребителите използват, за да се регистрират за нов акаунт.';
-$Definition['The url that users use to sign in.'] = 'URL адресът, който потребителите използват за вход.';
-$Definition['The URL where users can sign up for new accounts on your site'] = 'URL адресът, където потребителите могат да се регистрират за нови акаунти на вашия сайт';
-$Definition['The URL where users sign in on your site'] = 'URL адресът, където потребителите влизат във вашия сайт';
-$Definition['The URL where users sign out of your site'] = 'URL адресът, при който потребителите излизат от вашия сайт';
-$Definition['The user and all related content has been deleted.'] = 'Потребителят и цялото свързано съдържание е изтрито.';
-$Definition['The user content will be completely deleted.'] = 'Потребителското съдържание ще бъде напълно изтрито.';
-$Definition['The user content will remain untouched.'] = 'Потребителското съдържание ще остане недокоснато.';
-$Definition['The user has been created successfully'] = 'Потребителят е създаден успешно';
-$Definition['The user has been deleted.'] = 'Потребителят е изтрит.';
-$Definition['The username you entered has already been taken.'] = 'Въведеното от вас потребителско име вече е заето.';
-$Definition['This action cannot be undone.'] = 'Това действие не може да бъде отменено.';
-$Definition['This category has custom permissions.'] = 'Тази категория има персонализирани разрешения.';
-$Definition['This category is archived.'] = 'Тази категория е архивирана.';
-$Definition['This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.'] = 'Този цвят ще се използва за визуализация на цвета на иконата. Той ще замени всяко използване на #000000 в качените от вас икони. В действителното приложение цветовете ще бъдат динамични.';
-$Definition['This connection is in test-mode.'] = 'Тази връзка е в тестов режим.';
-$Definition['This controls how the responses are phrased and spelled.'] = 'Това контролира начина, по който отговорите са формулирани и изписани.';
-$Definition['This Database'] = 'Тази база данни';
-$Definition['This forum is currently set to invitation only mode.'] = 'В момента този форум е настроен само в режим на покани.';
-$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Това изображение ще се появи в банера на тази категория и в джаджи за категории, когато използвате опциите за стил „Изображение“ и/или „Фон“. Препоръчителните размери са около 1000px на 400px или подобно съотношение.';
-$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Това изображение ще се използва в списъци с категории и джаджи, когато се използва опцията за стил „Икона“.';
-$Definition['This information will only be shown to users with permission to view internal info'] = 'Тази информация ще се показва само на потребители с разрешение за преглед на вътрешна информация';
-$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'Това е резюме, генерирано от изкуствен интелект от цитираната дискусионна публикация, което може да отговори на въпроса. Резюмето е създадено така, че да се използва като приет отговор.';
-$Definition['This is a parent category that does not allow discussions.'] = 'Това е категория родител, която не позволява дискусии.';
-$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'Това не е необходимо на повечето сайтове, с изключение на тези, които използват функции като AdSense и Google Tag Manager.';
-$Definition['This is private information and will not be shared with other members.'] = 'Това е лична информация и няма да бъде споделяна с други членове.';
-$Definition['This is the actual size most icons render at.'] = 'Това е действителният размер на повечето икони.';
-$Definition['This is the first time you\'ve visited the discussion forums.'] = 'Това е първият път, когато сте посетили дискусионните форуми.';
-$Definition['This layout cannot be deleted because it is a layout template.'] = 'Това оформление не може да бъде изтрито, защото е шаблон за оформление.';
-$Definition['This layout cannot be deleted because it is currently applied.'] = 'Това оформление не може да бъде изтрито, защото в момента е приложено.';
-$Definition['This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.'] = 'Тази промяна на оформлението няма да бъде видима, докато не превключите общността си към потребителски <0/> в страницата <1/>.';
-$Definition['This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default.'] = 'Това оформление е шаблон и е зададено като стандартно за всички страници от този тип. За да го премахнете като стандартно или да го присвоите на конкретни страници, трябва да зададете различно оформление като стандартно.';
-$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'Това може да се използва за включване на съдържание като име и адрес на организация в обобщения имейл.';
-$Definition['This name will be shown in the community.'] = 'Това име ще се показва в общността.';
-$Definition['This option is to normalize the editor format'] = 'Тази опция е за нормализиране на формата на редактора, ако по-стари публикации, редактирани с друг формат, като markdown или BBCode, са заредени, тази опция ще принуди %s.';
-$Definition['This page requires Javascript.'] = 'Тази страница изисква Javascript.';
-$Definition['This pocket is an ad.'] = 'Този джоб е реклама.';
-$Definition['This setting must be enabled to use Custom Discussion Threads.'] = 'Тази настройка трябва да бъде активирана, за да използвате персонализирани дискусионни теми.';
-$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'Тази настройка ще влезе в сила само ако %s е избран като формат на публикацията по-горе.';
-$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Тази тема не може да бъде изтрита, тъй като тя е прилаганата в момента тема.';
-$Definition['This theme has additional options.'] = 'Тази тема има допълнителни опции на страницата %s.';
-$Definition['This theme has customizable text.'] = 'Тази тема има текст, който можете да персонализирате.';
-$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'Това ще създаде среща в Zoom от името на собственика на интеграцията на Zoom и ако сте регистриран потребител, ще ви добави като съдомакин. Ако не сте регистриран потребител на Zoom или не сте част от организацията, която е настроила интеграцията, това събитие може да има ограничена функционалност на Zoom без хост.';
-$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = 'Това ще насочи други потребители с подобни въпроси към правилните отговори по-бързо и ще покаже предложения от AI отговор и ще свърже референтния материал, за да го видят другите потребители. Предложенията са видими само за вас, докато не приемете отговора.';
-$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'Това няма да засегне <0 /> в момента. Това ще засегне тези, които отговарят на критериите в бъдеще.';
-$Definition['This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?'] = 'Това ще разреши всички съществуващи публикации в общността. Това групово действие няма да задейства уеб кукички или анализ на регистрационни файлове. Продължаване?';
-$Definition['Threshold'] = 'праг';
-$Definition['Thumbnails'] = 'Миниатюри';
-$Definition['Thumbnail Size'] = 'Размер на миниатюра';
-$Definition['Time'] = 'път';
-$Definition['Timeframe'] = 'Времеви обхват';
-$Definition['Time since added to collection'] = 'Време от добавянето към колекцията';
-$Definition['Time since post has had no activity'] = 'Време, откакто публикацията не е имала активност';
-$Definition['Time since post has had no comments'] = 'Времето след публикацията не е имало коментари';
-$Definition['Time since question has been unanswered'] = 'Време, откакто въпросът е без отговор';
-$Definition['Time since Registration'] = 'Време от регистрацията';
-$Definition['Title Color'] = 'Цвят на заглавието';
-$Definition['Title Color (Hover)'] = 'Цвят на заглавието (Задръжте курсора на мишката)';
-$Definition['Titles'] = 'Заглавия';
-$Definition['Token Name'] = 'Име на токен';
-$Definition['To learn more, <0>see the documentation</0>.'] = 'За да научите повече, <0>вижте документацията</0> .';
-$Definition['Touch Icon'] = 'Докоснете иконата';
-$Definition['Triage'] = 'Триаж';
-$Definition['Triage Dashboard'] = 'Табло за триаж';
-$Definition['Trigger'] = 'Тригер';
-$Definition['True'] = 'вярно';
-$Definition['Truncate the initial discussion text to this many words.'] = 'Съкратете първоначалния дискусионен текст към тези много думи.';
-$Definition['Trusted Domains'] = 'Доверени домейни';
-$Definition['trusted domains'] = 'надеждни домейни';
-$Definition['Turn OFF'] = 'Изключи';
-$Definition['Turn off AI Suggested Answers'] = 'Изключете предложените отговори от AI';
-$Definition['Turn off for now'] = 'Изключете за сега';
-$Definition['Twitter Connector'] = 'Конектор за Twitter';
+$Definition["Save Captured Definitions"] = "Запазване на заснетите определения";
+$Definition["Save Colors"] = "Запазване на цветовете";
+$Definition["Score Count"] = "Брой резултати";
+$Definition["Search by user or role."] =
+    "Търсете потребители по име или имейл, като по желание използвате% като заместваща карта. Можете също така да търсите по потребителски идентификатор, името на роля или „забранен“.";
+$Definition["Search Result In New Tab"] = "Резултат от търсенето в нов раздел";
+$Definition["Search results of members"] = "Резултати от търсенето на членове";
+$Definition["Search Query"] = "Заявка за търсене";
+$Definition["SearchScope.Everywhere"] = "Навсякъде";
+$Definition["seconds"] = "секунди";
+$Definition["Security"] = "Сигурност";
+$Definition["See also"] = "Вижте също";
+$Definition["See link"] = "Вижте връзката";
+$Definition["Select"] = "Изберете";
+$Definition["Select a category"] = "Изберете категория";
+$Definition["Select the location of the pocket."] =
+    "Изберете местоположението на джоба.";
+$Definition[
+    "Select which columns are displayed on the manage users page list."
+] = "Изберете кои колони да се показват в списъка на страницата за управление на потребители.";
+$Definition["Selection will affect the item options available."] =
+    "Изборът ще повлияе на наличните опции за артикул.";
+$Definition["Send %s a Message"] = "Изпратете %s съобщение";
+$Definition[
+    "Send a confirmation email when people ask a question or start a discussion over email."
+] =
+    "Изпратете имейл за потвърждение, когато хората зададат въпрос или започнат дискусия по имейл.";
+$Definition["Send Again"] = "Изпрати отново";
+$Definition["Send a Test Email"] = "Изпратете пробен имейл";
+$Definition["Send Test Digest"] = "Изпратете пробно резюме";
+$Definition["Send Test Email Digest"] = "Изпратете тестов имейл обобщение";
+$Definition["Send Invitations!"] = "Изпратете покани!";
+$Definition["Send users a welcome email."] = "Изпратете на потребителите имейл за добре дошли.";
+$Definition["Sent To"] = "Изпратени на";
+$Definition['Separate each word with a semi-colon ";"'] =
+    'Отделете всяка дума с запетая ";"';
+$Definition[
+    "Set this interest as default to suggest following its mapped categories and tags to all users."
+] =
+    "Задайте този интерес по подразбиране, за да предложите да следвате картографираните му категории и етикети на всички потребители.";
+$Definition["Share Image"] = "Споделяне на изображението";
+$Definition["Show all categories"] = "Показване на всички категории";
+$Definition["Show Dismissed Suggestions"] = "Показване на отхвърлените предложения";
+$Definition["Show Pocket Locations"] = "Показване на джобни местоположения";
+$Definition[
+    "Show each user a personalized list of ideas they’ve created or upvoted."
+] = "Покажете на всеки потребител персонализиран списък с идеи, които са създали или са гласували.";
+$Definition["Show Original Suggestions"] = "Показване на оригинални предложения";
+$Definition["Show Suggestions"] = "Показване на предложения";
+$Definition["Signatures"] = "Подписи";
+$Definition["SignedOut"] = "Излизате.";
+$Definition["Sign In Url"] = "Влезте в URL адреса";
+$Definition["Site Description"] = "Описание на сайта";
+$Definition["Site Name"] = "Име на сайта";
+$Definition["Slug"] = "плужек";
+$Definition["SMTP Host"] = "SMTP домакин";
+$Definition["SMTP Password"] = "SMTP парола";
+$Definition["SMTP Port"] = "SMTP порт";
+$Definition["SMTP Security"] = "SMTP сигурност";
+$Definition["SMTP User"] = "SMTP потребител";
+$Definition["Social Connect"] = "Социална медия";
+$Definition["Social Connect Addons"] = "Добавки за социална връзка";
+$Definition["Sort Order"] = "Подреди ред";
+$Definition[
+    "Sources that are selected here will be available to AI Suggested Answers."
+] = "Източниците, които са избрани тук, ще бъдат достъпни за AI Suggested Answers.";
+$Definition["Specify one domain per line. Use * for wildcard matches."] =
+    "Посочете по един домейн на ред. Използвайте * за мачове с подсказки.";
+$Definition["Spoof"] = "измислен";
+$Definition["SSO Role"] = "SSO Роля";
+$Definition["SSO roles are always passed through SSO."] =
+    "Ролите на SSO винаги се предават през SSO.";
+$Definition["Start Discussions"] = "Започнете дискусии";
+$Definition["Start Private Conversations"] = "Започнете частни разговори";
+$Definition[
+    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
+] =
+    "Започнете темата на дайджеста с [Заглавие на банера], зададено в Външен вид > Брандиране и SEO";
+$Definition["Start typing username"] = "Започнете да въвеждате потребителско име";
+$Definition["State"] = "състояние";
+$Definition["Statistics"] = "Статистика";
+$Definition["Strip Embeds"] = "Вгражда се лента";
+$Definition["Strip Embeds"] = "Вгражда се лента";
+$Definition["Style"] = "стил";
+$Definition["Styles"] = "Стилове";
+$Definition[
+    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
+] =
+    "Стиловете и общият визуален вид на всички имейли, включително резюмето на имейлите, се задават за целия сайт на страницата с настройки за имейл.";
+$Definition["Subcommunity"] = "Подобщност";
+$Definition["Subject Line and Title"] = "Тема и заглавие";
+$Definition["subscribers"] = "абонати";
+$Definition["Suggested Answers Options"] = "Предлагани опции за отговори";
+$Definition["Suggested Content"] = "Предложено съдържание";
+$Definition["Suggested Discussion Title"] = "Предложено заглавие на дискусията";
+$Definition["Suggested Follows"] = "Предложени последователи";
+$Definition["Suggestions are only visible to you until you accept the answer"] =
+    "Предложенията са видими само за вас, докато не приемете отговора";
+$Definition["Suggestions may only be generated on questions"] =
+    "Предложения могат да се генерират само по въпроси";
 
-$Definition['Unable to re-assign default template'] = 'Не може да се преназначи шаблон по подразбиране';
-$Definition['Unassigned'] = 'Неприсвоен';
-$Definition['unconfirmed'] = 'непотвърдена';
-$Definition['Undo Accept Answer'] = 'Отмяна на приемане на отговор';
-$Definition['Uninvite'] = 'Отмяна на поканата';
-$Definition['Universal Code'] = 'Универсален код';
-$Definition['Universal Forum Embed Code'] = 'Код за вграждане в универсален форум';
-$Definition['Unlimited'] = 'неограничен';
-$Definition['Unsaved Changes'] = 'Незапазени промени';
-$Definition['Untitled'] = 'неозаглавен';
-$Definition['Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>'] = 'Непроверените членове, които са били в общността за по-малко от посочения брой дни, ще бъдат подканени да изпълнят Cloudflare (Captcha или Checkbox) предизвикателство за предотвратяване на спам. <0/>';
-$Definition['Upcoming Events'] = 'Предстоящи събития';
-$Definition['Upload a placeholder image for catalogue post.'] = 'Качете изображение на заместител, което ще се показва, когато потребителите нямат изображение в публикацията си.';
-$Definition['Uploaded <0/> by <1/>'] = 'Качено <0/> от <1/>';
-$Definition['Upload Icon Pack'] = 'Качване на пакет с икони';
-$Definition['Upload New Email Logo'] = 'Качване на лого на нов имейл';
-$Definition['Upload New Icon'] = 'Добавяне на нова икона';
-$Definition['Upload Placeholder Image'] = 'Качване на изображение на заместител';
-$Definition['Up to <0 /> ago.'] = 'Преди <0 />.';
-$Definition['Up to a maximum of 100 items may be displayed.'] = 'Могат да бъдат показани максимум 100 елемента.';
-$Definition['upvote'] = 'гласуване за';
-$Definition['upvotes'] = 'гласове за';
-$Definition['Use AI Suggestions in Q&A'] = 'Използвайте AI предложения във Въпроси и отговори';
-$Definition['Use an SMTP server to send email'] = 'Използвайте SMTP сървър за изпращане на имейл';
-$Definition['Use asterisks for wildcards'] = 'Използвайте звездички за символи, напр.  "*@gmail.com"';
-$Definition['Use British English Spelling'] = 'Използвайте британски английски правопис';
-$Definition['Use Categories'] = 'Използвайте категории';
-$Definition['Use categories to organize discussions'] = 'Използвайте категории за организиране на дискусии';
-$Definition['Use Facebook names for usernames.'] = 'Използвайте имена на Facebook за потребителски имена.';
-$Definition['Use Masonry display'] = 'Използвайте дисплей на зидарията';
-$Definition['User Count'] = 'Потребители';
-$Definition['UserDelete'] = 'Премахване на потребителското съдържание';
-$Definition['User Deleted'] = 'Потребителят е изтрит';
-$Definition['UserDeleteMessage'] = 'Изтрийте потребителя и премахнете напълно цялото съдържание на потребителя. Това може да доведе до прекъсване на дискусиите. Най-добрият вариант за премахване на спам.';
-$Definition['UserDeletionPrompt'] = 'Изберете как да боравите с цялото съдържание, свързано с потребителския акаунт за %s (коментари, съобщения и т.н.).';
-$Definition['UserKeepMessage'] = 'Изтрийте потребителя, но запазете съдържанието на потребителя.';
-$Definition['User Management'] = 'Управление на потребителите';
-$Definition['Username or UserID to Spoof'] = 'Потребителско име или UserID за Spoof';
-$Definition['User Preferences'] = 'Потребителски предпочитания';
-$Definition['User Registration Settings'] = 'Настройки за регистрация на потребители';
-$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'Потребителите могат да следват категории, за да се абонират за известия за нови публикации. Изберете кои категории новите потребители да следват по подразбиране.';
-$Definition['Users marked as "Verified" will bypass this requirement. These are are the roles with "Approval.Require"'] = 'Потребителите, маркирани като „Проверени“, ще заобиколят това изискване. Това са ролите с "Одобрение. Изискване"';
-$Definition['Users Matching Criteria Now: <0 />'] = 'Потребители, отговарящи на критерии сега: <0 />';
-$Definition['Users that get this reaction get %+d point.'] = 'Потребителите, които получават тази реакция, получават %+d точка.';
-$Definition['Users that get this reaction get %+d points.'] = 'Потребителите, които получават тази реакция, получават %+d точки.';
-$Definition['User successfully added.'] = 'Потребителят е добавен успешно.';
-$Definition['User successfully updated.'] = 'Потребителят е актуализиран успешно.';
-$Definition['User Summary'] = 'Обобщение на потребителя';
-$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Потребителите ще бъдат назначени на тази роля, докато не потвърдят имейл адресите си.';
-$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Потребителите ще бъдат пренасочени към този URL адрес, след като приемат покана. Това може да бъде пълен URL адрес или път за пренасочване в сайта.';
-$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'Потребителите няма да бъдат предупредени, когато следват връзки, които съответстват на надежден домейн.';
-$Definition['Users with the "Approval.Require" permission will require moderator approval for all posts.'] = 'Потребителите с разрешение „Одобрение.Изискване“ ще изискват одобрение от модератор за всички публикации.';
-$Definition['Users with the no ads permission will not see this pocket.'] = 'Потребителите с разрешение без реклами няма да виждат този джоб.';
-$Definition['UserWipe'] = 'Празно потребителско съдържание';
-$Definition['UserWipeMessage'] = 'Изтрийте потребителя и заменете цялото съдържание на потребителя със съобщение, в което се посочва, че потребителят е изтрит. Това дава визуална сигнализация, че липсва информация.';
-$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'Използва силно технически език и специфични за индустрията термини, предназначени за хора с дълбоко разбиране на предмета.';
-$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'Използва специфични за индустрията термини, където е необходимо, но също така предоставя обяснения на дефинициите, за да гарантира яснота.';
-$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'Използва прост, ежедневен език, който всеки може да разбере, независимо от техния произход или опит.';
-$Definition['Use the content at this url as your homepage.'] = 'Изберете страницата, която хората трябва да виждат, когато посещават: <strong style="white-space: nowrap;">%s</strong>';
-$Definition['Use Vanilla as a commenting system in your site'] = 'Използвайте Vanilla като система за коментиране на вашия сайт';
-$Definition['Use weekly community email digest'] = 'Използвайте седмичен обобщен имейл на общността';
+$Definition["Table Layout"] = "Оформление на таблицата";
+$Definition["take away"] = "за вкъщи";
+$Definition["Target All Users"] = "Насочване към всички потребители";
+$Definition["Target Users"] = "Целеви потребители";
+$Definition["Technical"] = "Технически";
+$Definition["Technical Jargon"] = "Технически жаргон";
+$Definition["Templates"] = "Шаблони";
+$Definition["Temporary (302)"] = "Временен (302)";
+$Definition["Test Email"] = "Тест на имейл";
+$Definition["Test Digest"] = "Test Digest";
+$Definition["Test email from %s"] = "Тествайте имейл от %s";
+$Definition["Test Email Message"] = '<p> Това е тестово имейл съобщение. </p><p> Можете да конфигурирате външния вид на имейлите на вашия форум, като отидете на страницата за електронна поща в таблото за управление. </p>';
+$Definition["Test Mode"] =
+    "Тестов режим: Джобът ще се показва само за джобни администратори.";
+$Definition["Test URL"] = "Тестов URL адрес";
+$Definition["Text Color"] = "Цвят на текста";
+$Definition["TextEnterEmails"] =
+    "Въведете тук имейл адреси, разделени със запетаи";
+$Definition["The %s badge has already been given to %s."] =
+    "Значката %s вече е дадена на %s.";
+$Definition["The %s locale pack does not exist."] =
+    "Локалният пакет %s не съществува.";
+$Definition["The %s table is not in the correct format."] =
+    "Таблицата %s не е в правилния формат.";
+$Definition["The %s was already approved by %s on %s."] =
+    "%s вече беше одобрен от %s на %s.";
+$Definition["Thanks for sticking with us for a full year."] =
+    "Благодаря, че се придържате към нас цяла година.";
+$Definition["Thanks for sticking with us for %s years."] =
+    "Благодаря, че се придържате към нас за %s години.";
+$Definition["The Basics"] = "Основите";
+$Definition["The client ID uniqely identifies the site."] =
+    "Клиентският идентификатор uniqely идентифицира сайта. Можете да генерирате нов идентификационен номер с бутона в долната част на тази страница.";
+$Definition["The content you were looking for has been deleted."] =
+    "Съдържанието, което търсите, е било изтрито.";
+$Definition[
+    "The default banner image across the site. This can be overridden on a per category basis."
+] =
+    "Банерното изображение по подразбиране в целия сайт. Това може да бъде отменено на база категория.";
+$Definition["The default role has not been configured."] =
+    "Ролята по подразбиране не е конфигурирана.";
+$Definition["The email address this test will be sent to."] =
+    "Имейл адресът, на който ще бъде изпратен този тест.";
+$Definition["The email has been sent."] = "Имейлът е изпратен.";
+$Definition["The first line of content in the email digest after the title."] =
+    "Първият ред със съдържание в обобщения имейл след заглавието.";
+$Definition["The homepage title is displayed on your home page."] =
+    "Заглавието на началната страница се показва на вашата начална страница. Изберете заглавие, което искате да видите в търсачките.";
+$Definition["The homepage was saved successfully."] =
+    "Началната страница бе успешно запазена.";
+$Definition["The invitation was removed successfully."] =
+    "Поканата бе премахната успешно.";
+$Definition["The invitation was sent successfully."] =
+    "Поканата бе изпратена успешно.";
+$Definition["The Key in the XML payload to designate %s."] =
+    "Ключът в полезния товар на XML за обозначаване на %s.";
+$Definition[
+    "The test digest will generate content as if it were this user receiving the digest."
+] =
+    "Тестовият дайджест ще генерира съдържание, сякаш този потребител получава дайджеста.";
+$Definition["Theme Editor"] = "Тема редактор";
+$Definition["Theme Options"] = "Опции за тема";
+$Definition["Themes"] = "Теми";
+$Definition["ThemeEditor.Copy"] = "<0 /> копие";
+$Definition["Theming Documentation"] = "Тематична документация";
+$Definition["Theming Overview"] = "Преглед на темите";
+$Definition[
+    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
+] =
+    'При качването на изображението възникна грешка. Вашето лого за имейл може да се качи в един от следните файлове: gif, jpg, png';
+$Definition["There are currently no applicants."] =
+    "Понастоящем няма кандидати.";
+$Definition["There is currently %s applicant."] =
+    "В момента има кандидат за %s.";
+$Definition["There are currently %s applicants."] =
+    "В момента има кандидати %s.";
+$Definition["There are currently no requests."] =
+    "Понастоящем няма заявки.";
+$Definition["There is currently %s request."] =
+    "Понастоящем има %s заявка.";
+$Definition["There are currently %s requests."] =
+    "В момента има %s заявки.";
+$Definition["There are no items awaiting moderation at this time."] =
+    "Понастоящем няма елементи, които чакат модериране.";
+$Definition[
+    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
+] =
+    "В този форум вече има акаунт, използващ имейл адреса ви. Моля, създайте нов акаунт или въведете идентификационните данни за съществуващия.";
+$Definition["The next three email digest delivery dates"] =
+    "Следващите три дати за доставка на обобщения имейл";
+$Definition["The secret secures the sign in process."] =
+    "Тайната защитава процеса на влизане. <b>НЕ</b> раздавайте тайната на никого.";
+$Definition["The site description usually appears in search engines."] =
+    "Описанието на сайта обикновено се появява в търсачките. Трябва да опитате да имате описание, което е дълго 100-150 знака.";
+$Definition["The site is currently undergoing scheduled maintenance."] =
+    "В момента сайтът се подлага на планова поддръжка.";
+$Definition["The specified url code is already in use by another category."] =
+    "Указаният код на URL адрес вече се използва от друга категория.";
+$Definition["The structure was successfully executed."] =
+    "Структурата беше успешно изпълнена.";
+$Definition["The update was not successful."] =
+    "Актуализацията не бе успешна.";
+$Definition["The update was successful."] = "Актуализацията беше успешна.";
+$Definition["The url that users go to to register for a new account."] =
+    "URL адресът, който потребителите отиват, за да се регистрират за нов акаунт.";
+$Definition["The url that users use to register for a new account."] =
+    "URL адресът, който потребителите използват, за да се регистрират за нов акаунт.";
+$Definition["The url that users use to sign in."] =
+    "URL адресът, който потребителите използват за вход.";
+$Definition["The URL where users can sign up for new accounts on your site"] =
+    "URL адресът, където потребителите могат да се регистрират за нови акаунти на вашия сайт";
+$Definition["The URL where users sign in on your site"] =
+    "URL адресът, където потребителите влизат във вашия сайт";
+$Definition["The URL where users sign out of your site"] =
+    "URL адресът, при който потребителите излизат от вашия сайт";
+$Definition["The user and all related content has been deleted."] =
+    "Потребителят и цялото свързано съдържание е изтрито.";
+$Definition["The user content will be completely deleted."] =
+    "Потребителското съдържание ще бъде напълно изтрито.";
+$Definition["The user content will remain untouched."] =
+    "Потребителското съдържание ще остане недокоснато.";
+$Definition["The user has been created successfully"] =
+    "Потребителят е създаден успешно";
+$Definition["The user has been deleted."] = "Потребителят е изтрит.";
+$Definition["This action cannot be undone."] = "Това действие не може да бъде отменено.";
+$Definition[
+    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
+] =
+    "Това не е необходимо на повечето сайтове, с изключение на тези, които използват функции като AdSense и Google Tag Manager.";
+$Definition[
+    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
+] =
+    "Това е резюме, генерирано от изкуствен интелект от цитираната дискусионна публикация, което може да отговори на въпроса. Резюмето е създадено така, че да се използва като приет отговор.";
+$Definition["This category has custom permissions."] =
+    "Тази категория има персонализирани разрешения.";
+$Definition["This category is archived."] = "Тази категория е архивирана.";
+$Definition["This connection is in test-mode."] =
+    "Тази връзка е в тестов режим.";
+$Definition["This controls how the responses are phrased and spelled."] =
+    "Това контролира начина, по който отговорите са формулирани и изписани.";
+$Definition["This Database"] = "Тази база данни";
+$Definition["QnAFollowup.Feature.Enabled"] =
+    "Тази функция изпраща имейли до авторите на отговори на въпроси, които нямат приет отговор.";
+$Definition["This forum is currently set to invitation only mode."] =
+    "В момента този форум е настроен само в режим на покани.";
+$Definition[
+    'This image will be used in category lists and widgets when using the "Icon" style option.'
+] =
+    'Това изображение ще се използва в списъци с категории и джаджи, когато се използва опцията за стил „Икона“.';
+$Definition[
+    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
+] =
+    'Това изображение ще се появи в банера на тази категория и в джаджи за категории, когато използвате опциите за стил „Изображение“ и/или „Фон“. Препоръчителните размери са около 1000px на 400px или подобно съотношение.';
+$Definition["This is a parent category that does not allow discussions."] =
+    "Това е категория родител, която не позволява дискусии.";
+$Definition['This is the first time you\'ve visited the discussion forums.'] =
+    'Това е първият път, когато сте посетили дискусионните форуми.';
+$Definition[
+    "This may be used to include content such as organization name and address in the email digest."
+] =
+    "Това може да се използва за включване на съдържание като име и адрес на организация в обобщения имейл.";
+$Definition["This name will be shown in the community."] =
+    "Това име ще се показва в общността.";
+$Definition["This page requires Javascript."] =
+    "Тази страница изисква Javascript.";
+$Definition["This pocket is an ad."] = "Този джоб е реклама.";
+$Definition[
+    "This theme cannot be deleted because it is the currently applied theme"
+] = "Тази тема не може да бъде изтрита, тъй като тя е прилаганата в момента тема.";
+$Definition["This theme has additional options."] =
+    "Тази тема има допълнителни опции на страницата %s.";
+$Definition["This theme has customizable text."] =
+    "Тази тема има текст, който можете да персонализирате.";
+$Definition[
+    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
+] =
+    "Това ще насочи други потребители с подобни въпроси към правилните отговори по-бързо и ще покаже предложения от AI отговор и ще свърже референтния материал, за да го видят другите потребители. Предложенията са видими само за вас, докато не приемете отговора.";
+$Definition["Threshold"] = "праг";
+$Definition["Thumbnails"] = "Миниатюри";
+$Definition["Thumbnail Size"] = "Размер на миниатюра";
+$Definition["Time"] = "път";
+$Definition["Timeframe"] = "Времеви обхват";
+$Definition["Titles"] = "Заглавия";
+$Definition["Title Color"] = "Цвят на заглавието";
+$Definition["Title Color (Hover)"] = "Цвят на заглавието (Задръжте курсора на мишката)";
+$Definition["Token Name"] = "Име на токен";
+$Definition["Touch Icon"] = "Докоснете иконата";
+$Definition["True"] = "вярно";
+$Definition["Truncate the initial discussion text to this many words."] =
+    "Съкратете първоначалния дискусионен текст към тези много думи.";
+$Definition["trusted domains"] = "надеждни домейни";
+$Definition["Trusted Domains"] = "Доверени домейни";
+$Definition["Turn OFF"] = "Изключи";
+$Definition["Turn off AI Suggested Answers"] = "Изключете предложените отговори от AI";
+$Definition["Turn off for now"] = "Изключете за сега";
+$Definition["Twitter Connector"] = "Конектор за Twitter";
 
-$Definition['Value is not a valid integer.'] = 'Стойността не е валидно цяло число.';
-$Definition['Value or Pattern'] = 'Стойност или модел';
-$Definition['Vanilla.Archive.Description'] = 'Можете да изберете да архивирате дискусии на форуми, по-стари от определена дата. Архивираните дискусии са ефективно затворени, като не позволяват нови публикации.';
-$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Поставете вложени категории в списък, ограничен със запетая, когато те са %1$s';
-$Definition['Vanilla is installed!'] = 'Ванилията е инсталирана!';
-$Definition['Verified!'] = 'Потвърдено!';
-$Definition['Verify browsers of new members'] = 'Проверете браузърите на новите членове';
-$Definition['Version'] = 'версия';
-$Definition['Version %s'] = 'Версия %s';
-$Definition['version %s'] = 'версия %s';
-$Definition['Version %s Installer'] = 'Версия %s Инсталатор';
-$Definition['View browser compatibility chart'] = 'Вижте диаграмата за съвместимост на браузъра';
-$Definition['View Category'] = 'Преглед на категория';
-$Definition['View Count'] = 'Брой показвания';
-$Definition['View Details'] = 'Вижте подробности';
-$Definition['View Escalation'] = 'Преглед на ескалацията';
-$Definition['View History'] = 'Преглед на хронологията';
-$Definition['View in context '] = 'Преглед в контекст';
-$Definition['View Page'] = 'Преглед на страницата';
-$Definition['View post in community'] = 'Вижте публикацията в общността';
-$Definition['VIP Deploy'] = 'VIP разгръщане';
-$Definition['Visit Site'] = 'Посетете форума';
-$Definition['Visualize Your Community'] = 'Визуализирайте вашата общност';
-$Definition['Votes on an idea'] = 'Гласува за идея';
+$Definition["unconfirmed"] = "непотвърдена";
+$Definition["Undo Accept Answer"] = "Отмяна на приемане на отговор";
+$Definition["Uninvite"] = "Отмяна на поканата";
+$Definition["Universal Code"] = "Универсален код";
+$Definition["Universal Forum Embed Code"] = "Код за вграждане в универсален форум";
+$Definition["Unlimited"] = "неограничен";
+$Definition["Up to a maximum of 100 items may be displayed."] =
+    "Могат да бъдат показани максимум 100 елемента.";
+$Definition["Upload New Email Logo"] = "Качване на лого на нов имейл";
+$Definition["Upcoming Events"] = "Предстоящи събития";
+$Definition["Use an SMTP server to send email"] =
+    "Използвайте SMTP сървър за изпращане на имейл";
+$Definition["Use asterisks for wildcards"] =
+    'Използвайте звездички за символи, напр.  "*@gmail.com"';
+$Definition["Use British English Spelling"] = "Използвайте британски английски правопис";
+$Definition["Use Categories"] = "Използвайте категории";
+$Definition["Use categories to organize discussions"] =
+    "Използвайте категории за организиране на дискусии";
+$Definition["Use Facebook names for usernames."] =
+    "Използвайте имена на Facebook за потребителски имена.";
+$Definition["Use AI Suggestions in Q&A"] = "Използвайте AI предложения във Въпроси и отговори";
+$Definition["User Count"] = "Потребители";
+$Definition["UserDelete"] = "Премахване на потребителското съдържание";
+$Definition["User Deleted"] = "Потребителят е изтрит";
+$Definition["User Preferences"] = "Потребителски предпочитания";
+$Definition[
+    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
+] =
+    "Използва силно технически език и специфични за индустрията термини, предназначени за хора с дълбоко разбиране на предмета.";
+$Definition[
+    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
+] =
+    "Използва специфични за индустрията термини, където е необходимо, но също така предоставя обяснения на дефинициите, за да гарантира яснота.";
+$Definition[
+    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
+] =
+    "Използва прост, ежедневен език, който всеки може да разбере, независимо от техния произход или опит.";
+$Definition["UserDeleteMessage"] =
+    'Изтрийте потребителя и премахнете напълно цялото съдържание на потребителя. Това може да доведе до прекъсване на дискусиите. Най-добрият вариант за премахване на спам.';
+$Definition["UserDeletionPrompt"] =
+    "Изберете как да боравите с цялото съдържание, свързано с потребителския акаунт за %s (коментари, съобщения и т.н.).";
+$Definition["UserKeep"] = "UserKeep";
+$Definition["UserKeepMessage"] =
+    'Изтрийте потребителя, но запазете съдържанието на потребителя.';
+$Definition["Username or UserID to Spoof"] = "Потребителско име или UserID за Spoof";
+$Definition["User Registration Settings"] = "Настройки за регистрация на потребители";
+$Definition["User successfully added."] = "Потребителят е добавен успешно.";
+$Definition["User successfully updated."] = "Потребителят е актуализиран успешно.";
+$Definition[
+    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
+] =
+    "Потребителите могат да следват категории, за да се абонират за известия за нови публикации. Изберете кои категории новите потребители да следват по подразбиране.";
+$Definition["Users that get this reaction get %+d point."] =
+    "Потребителите, които получават тази реакция, получават %+d точка.";
+$Definition["Users that get this reaction get %+d points."] =
+    "Потребителите, които получават тази реакция, получават %+d точки.";
+$Definition[
+    "Users will not be warned when following links that match a Trusted Domain."
+] =
+    "Потребителите няма да бъдат предупредени, когато следват връзки, които съответстват на надежден домейн.";
+$Definition[
+    "Users will be redirected to this URL after accepting an invitation."
+] =
+    "Потребителите ще бъдат пренасочени към този URL адрес, след като приемат покана. Това може да бъде пълен URL адрес или път за пренасочване в сайта.";
+$Definition["User Summary"] = "Обобщение на потребителя";
+$Definition[
+    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
+] =
+    'Потребителите ще бъдат назначени на тази роля, докато не потвърдят имейл адресите си.';
+$Definition["Users with the no ads permission will not see this pocket."] =
+    "Потребителите с разрешение без реклами няма да виждат този джоб.";
+$Definition["UserWipe"] = "Празно потребителско съдържание";
+$Definition["UserWipeMessage"] =
+    'Изтрийте потребителя и заменете цялото съдържание на потребителя със съобщение, в което се посочва, че потребителят е изтрит. Това дава визуална сигнализация, че липсва информация.';
+$Definition["Use the content at this url as your homepage."] =
+    'Изберете страницата, която хората трябва да виждат, когато посещават: <strong style="white-space: nowrap;">%s</strong>';
+$Definition["Use Vanilla as a commenting system in your site"] =
+    "Използвайте Vanilla като система за коментиране на вашия сайт";
+$Definition["Use weekly community email digest"] =
+    "Използвайте седмичен обобщен имейл на общността";
+$Definition["Untitled"] = "неозаглавен";
 
-$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Предупреждение: Всичките ви данни ще бъдат загубени. След като изтриете, няма абсолютно никакво възстановяване от какъвто и да е вид.';
-$Definition['Warning: deleting is permanent'] = 'ВНИМАНИЕ: изтритите елементи се премахват от този списък и не могат да бъдат върнати обратно.';
-$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Предупреждавайте потребителите, ако линк в публикация ще ги накара да напуснат форума';
-$Definition['Weekly Email Digest '] = 'Седмичен обобщен имейл';
-$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'Добре дошли Аз съм вашият AI Suggestion Assistant, инструмент, базиран на машинно обучение, предназначен да намира и предлага подходящи статии и публикации в отговор на вашите запитвания. Моля, въведете вашите въпроси и аз ще предоставя най-подходящата информация.';
-$Definition['Welcome to Vanilla!'] = 'Добре дошли във Ванилия!';
-$Definition['Welcome to your Dashboard'] = 'Добре дошли в таблото за управление';
-$Definition['We only accept urls that begin with http:// or https://'] = 'Приемаме само URL адреси, които започват с http: // или https: //';
-$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Ще се опитаме да използваме локалния пощенски сървър за изпращане на имейл по подразбиране. Ако искате да използвате отделен SMTP сървър за поща, можете да го конфигурирате по-долу.';
+$Definition["Value or Pattern"] = "Стойност или модел";
+$Definition["Vanilla.Archive.Description"] =
+    "Можете да изберете да архивирате дискусии на форуми, по-стари от определена дата. Архивираните дискусии са ефективно затворени, като не позволяват нови публикации.";
+$Definition["Vanilla.Categories.MaxDisplayDepth"] =
+    'Поставете вложени категории в списък, ограничен със запетая, когато те са %1$s';
+$Definition["Vanilla is installed!"] = "Ванилията е инсталирана!";
+$Definition["Verified!"] = "Потвърдено!";
+$Definition["Version"] = "версия";
+$Definition["Version %s"] = "Версия %s";
+$Definition["version %s"] = "версия %s";
+$Definition["Version %s Installer"] = "Версия %s Инсталатор";
+$Definition["View browser compatibility chart"] =
+    "Вижте диаграмата за съвместимост на браузъра";
+$Definition["View Count"] = "Брой показвания";
+$Definition["View in context "] = "Преглед в контекст";
+$Definition["View Page"] = "Преглед на страницата";
+$Definition["Visit Site"] = "Посетете форума";
+$Definition[
+    "Warn users if a link in a post will cause them to leave the forum"
+] = "Предупреждавайте потребителите, ако линк в публикация ще ги накара да напуснат форума";
+$Definition[
+    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
+] =
+    "Предупреждение: Всичките ви данни ще бъдат загубени. След като изтриете, няма абсолютно никакво възстановяване от какъвто и да е вид.";
+$Definition["Warning: deleting is permanent"] =
+    "ВНИМАНИЕ: изтритите елементи се премахват от този списък и не могат да бъдат върнати обратно.";
+$Definition["Weekly Email Digest "] = "Седмичен обобщен имейл";
+$Definition["Welcome to Vanilla!"] = "Добре дошли във Ванилия!";
+$Definition["Welcome to your Dashboard"] = "Добре дошли в таблото за управление";
+$Definition["We only accept urls that begin with http:// or https://"] =
+    "Приемаме само URL адреси, които започват с http: // или https: //";
+$Definition[
+    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
+] =
+    "Ще се опитаме да използваме локалния пощенски сървър за изпращане на имейл по подразбиране. Ако искате да използвате отделен SMTP сървър за поща, можете да го конфигурирате по-долу.";
+$Definition[
+    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
+] =
+    "Добре дошли Аз съм вашият AI Suggestion Assistant, инструмент, базиран на машинно обучение, предназначен да намира и предлага подходящи статии и публикации в отговор на вашите запитвания. Моля, въведете вашите въпроси и аз ще предоставя най-подходящата информация.";
 $Definition['What\'s the Buzz?'] = 'Какво е Buzz?';
-$Definition['When enabled, search result will open in a new browser tab.'] = 'Когато е активиран, резултатът от търсенето ще се отвори в нов раздел на браузъра.';
-$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'Когато е активирано, вашата общност ще има AI предложения, показани във Въпроси и отговори. <0/>';
-$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'Когато тази настройка е активирана, потребителските данни в данните на Анализ ще бъдат анонимизирани по подразбиране, докато потребителят не даде съгласие за бисквитките на Анализ. <0>Научете повече</0>';
-$Definition['Where is your Community Forum?'] = 'Къде е вашият форум на общността?';
+$Definition["When enabled, search result will open in a new browser tab."] =
+    "Когато е активиран, резултатът от търсенето ще се отвори в нов раздел на браузъра.";
+$Definition[
+    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
+] = "Когато е активирано, вашата общност ще има AI предложения, показани във Въпроси и отговори. <0/>";
+$Definition[
+    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
+] =
+    "Когато тази настройка е активирана, потребителските данни в данните на Анализ ще бъдат анонимизирани по подразбиране, докато потребителят не даде съгласие за бисквитките на Анализ. <0>Научете повече</0>";
+$Definition["Where is your Community Forum?"] =
+    "Къде е вашият форум на общността?";
 $Definition['Who\'s Online Settings'] = 'Кой е онлайн настройките';
-$Definition['Why am I seeing AI Suggested Answers?'] = 'Защо виждам предложени отговори от AI?';
-$Definition['Why am I seeing this?'] = 'Защо виждам това?';
-$Definition['Why do you want to join?'] = 'Защо искате да се присъедините?';
-$Definition['Will you be attending?'] = 'Ще присъствате ли?';
-$Definition['Wipe'] = 'Избършете';
-$Definition['with'] = 'с';
-$Definition['Within'] = 'В рамките на';
-$Definition['with reason'] = 'с основание';
-$Definition['with tag'] = 'с етикет';
-$Definition['Word Count'] = 'Брой думи';
-$Definition['WordPress Plugin'] = 'WordPress плъгин';
+$Definition["Why am I seeing AI Suggested Answers?"] =
+    "Защо виждам предложени отговори от AI?";
+$Definition["Why am I seeing this?"] = "Защо виждам това?";
+$Definition["Why do you want to join?"] = "Защо искате да се присъедините?";
+$Definition["Within"] = "В рамките на";
+$Definition["Will you be attending?"] = "Ще присъствате ли?";
+$Definition["WordPress Plugin"] = "WordPress плъгин";
+$Definition["Word Count"] = "Брой думи";
 
-$Definition['Yes, the following information can be changed later.'] = 'Да, следната информация може да бъде променена по-късно.';
-$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Достигнахте максималния брой опити за влизане. Моля, изчакайте %s и опитайте отново.';
-$Definition['You are connected as %s.'] = 'Свързани сте като %s.';
-$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'Напускате страницата с имейл настройки, без да запазите промените си. Уверете се, че вашите актуализации са запазени, преди да излезете.';
-$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Излизате от редактора на теми, без да запазвате промените си. Уверете се, че вашите актуализации са запазени преди излизане.';
-$Definition['You are not allowed to use suggestions'] = 'Нямате право да използвате предложения';
-$Definition['You are previewing the %s theme.'] = 'Вие преглеждате темата %s.';
-$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Поставете отметка в квадратчето до потребителя, публикувал спама, за да ги забраните и да изтриете всичките им публикации. <b>Направете това само ако сте сигурни, че това са спамери.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Ако някога сте изключени от вашия форум, винаги можете да влезете, като използвате оригиналния си имейл и парола за ванилия на <a href="%1$s">%1$s</a>';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Можете да забраните IP адреси, имейл домейни и думи от потребителски имена с помощта на този инструмент.';
-$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Можете да персонализирате HTML и CSS за тази тема на страницата %s.';
-$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Можете или да създадете нов акаунт, или да въведете своите идентификационни данни, ако имате съществуващ акаунт.';
-$Definition['You can make the categories page your homepage.'] = 'Можете да превърнете страницата си с категории в начална страница <a href="%s">тук</a> .';
-$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'Не можете да добавите повече от 150 правила за автоматизация. Изтрийте някои правила и опитайте отново.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Не можете да деактивирате приставката %1$s, тъй като приставката %2$s се нуждае от нея, за да функционира.';
-$Definition['You cannot remove the only remaining category that allows discussions'] = 'Не можете да премахнете единствената останала категория, която позволява дискусии';
-$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'Не можете да актуализирате Zoom URL или ID на това събитие.';
-$Definition['You can protect your site with an HTTP username/password during development.'] = 'Можете да защитите вашия сайт с HTTP потребителско име / парола по време на разработване.';
-$Definition['You can search for users by username or email, wildcards are implied.'] = 'Можете да търсите потребители по потребителско име или имейл, подразбират се заместващи знаци.';
-$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Можете да изпращате имейли в обикновен текст, като деактивирате превключвателя по-долу.';
-$Definition['You can specify an allow list of trusted domains.'] = 'Можете да посочите списък с доверени домейни, които са безопасни за пренасочвания и вграждане.';
-$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Можете да посочите разрешен списък с доверени домейни (напр. yourdomain.com), от които е безопасно зареждане на JavaScript.';
-$Definition['You have %s invitations left for this month.'] = 'Имате %s покани за този месец.';
-$Definition['You have successfully saved interest: <0/>'] = 'Вие успешно запазихте интерес: <0/>';
-$Definition['You must be authenticated in order to use this form.'] = 'Трябва да сте удостоверени, за да използвате този формуляр.';
-$Definition['You must manually apply this rank.'] = 'Трябва ръчно да приложите този ранг.';
-$Definition['You must provide at least one recipient'] = 'Трябва да предоставите поне един получател';
-$Definition['You must specify an admin password.'] = 'Трябва да посочите администраторска парола.';
-$Definition['You must specify an admin username.'] = 'Трябва да посочите потребителско име за администратор.';
-$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Вашият конфигурационен файл няма правилните разрешения. PHP трябва да може да чете и записва в този файл: <code>%s</code>';
-$Definition['Your default locale won\'t display properly'] = 'Вашият локал по подразбиране не се показва правилно, докато не е активиран по-долу. Моля, активирайте следното: %s.';
-$Definition['Your Email'] = 'Твоят имейл';
-$Definition['Your inbox is empty.'] = 'Входящата ви поща е празна.';
-$Definition['Your invitations were sent successfully.'] = 'Поканите ви бяха изпратени успешно.';
-$Definition['Your Password'] = 'Твоята парола';
+$Definition["Yes, the following information can be changed later."] =
+    "Да, следната информация може да бъде променена по-късно.";
+$Definition["You are connected as %s."] = "Свързани сте като %s.";
+$Definition["You are not allowed to use suggestions"] =
+    "Нямате право да използвате предложения";
+$Definition["You are previewing the %s theme."] =
+    "Вие преглеждате темата %s.";
+$Definition[
+    "You can also ban the users that posted the spam and delete all of their posts."
+] =
+    "Поставете отметка в квадратчето до потребителя, публикувал спама, за да ги забраните и да изтриете всичките им публикации. <b>Направете това само ако сте сигурни, че това са спамери.</b>";
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
+    'Ако някога сте изключени от вашия форум, винаги можете да влезете, като използвате оригиналния си имейл и парола за ванилия на <a href="%1$s">%1$s</a>';
+$Definition[
+    "You can ban IP addresses, email domains, and words from usernames using this tool."
+] =
+    "Можете да забраните IP адреси, имейл домейни и думи от потребителски имена с помощта на този инструмент.";
+$Definition[
+    "You can customize the HTML and CSS for this theme on the %s page."
+] = "Можете да персонализирате HTML и CSS за тази тема на страницата %s.";
+$Definition[
+    "You can either create a new account, or enter your credentials if you have an existing account."
+] =
+    "Можете или да създадете нов акаунт, или да въведете своите идентификационни данни, ако имате съществуващ акаунт.";
+$Definition["You can make the categories page your homepage."] =
+    'Можете да превърнете страницата си с категории в начална страница <a href="%s">тук</a> .';
+$Definition[
+    "You can search for users by username or email, wildcards are implied."
+] = "Можете да търсите потребители по потребителско име или имейл, подразбират се заместващи знаци.";
+$Definition["You can specify an allow list of trusted domains."] =
+    "Можете да посочите списък с доверени домейни, които са безопасни за пренасочвания и вграждане.";
+$Definition["You can specify an allow list of trusted domains. (CSP)"] =
+    "Можете да посочите разрешен списък с доверени домейни (напр. yourdomain.com), от които е безопасно зареждане на JavaScript.";
+$Definition[
+    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
+] =
+    'Не можете да деактивирате приставката %1$s, тъй като приставката %2$s се нуждае от нея, за да функционира.';
+$Definition[
+    "You cannot remove the only remaining category that allows discussions"
+] = "Не можете да премахнете единствената останала категория, която позволява дискусии";
+$Definition[
+    "You can protect your site with an HTTP username/password during development."
+] =
+    "Можете да защитите вашия сайт с HTTP потребителско име / парола по време на разработване.";
+$Definition[
+    "You can send emails in plain text by disabling the toggle below."
+] = "Можете да изпращате имейли в обикновен текст, като деактивирате превключвателя по-долу.";
+$Definition["You have %s invitations left for this month."] =
+    "Имате %s покани за този месец.";
+$Definition["You have successfully saved interest: <0/>"] =
+    "Вие успешно запазихте интерес: <0/>";
+$Definition["You must be authenticated in order to use this form."] =
+    "Трябва да сте удостоверени, за да използвате този формуляр.";
+$Definition["You must manually apply this rank."] =
+    "Трябва ръчно да приложите този ранг.";
+$Definition["You must provide at least one recipient"] =
+    "Трябва да предоставите поне един получател";
+$Definition["You must specify an admin password."] =
+    "Трябва да посочите администраторска парола.";
+$Definition["You must specify an admin username."] =
+    "Трябва да посочите потребителско име за администратор.";
+$Definition[
+    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
+] =
+    "Вашият конфигурационен файл няма правилните разрешения. PHP трябва да може да чете и записва в този файл: <code>%s</code>";
+$Definition['Your default locale won\'t display properly'] =
+    'Вашият локал по подразбиране не се показва правилно, докато не е активиран по-долу. Моля, активирайте следното: %s.';
+$Definition["Your Email"] = "Твоят имейл";
+$Definition["Your inbox is empty."] = "Входящата ви поща е празна.";
+$Definition["Your invitations were sent successfully."] =
+    "Поканите ви бяха изпратени успешно.";
+$Definition["Your Password"] = "Твоята парола";
+$Definition[
+    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Излизате от редактора на теми, без да запазвате промените си. Уверете се, че вашите актуализации са запазени преди излизане.";
+$Definition[
+    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Напускате страницата с имейл настройки, без да запазите промените си. Уверете се, че вашите актуализации са запазени, преди да излезете.";
 
-$Definition['Zendesk Knowledge Bases'] = 'Бази знания на Zendesk';
-$Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID или URL';
+$Definition["Zendesk Knowledge Bases"] = "Бази знания на Zendesk";
+
+$Definition["Mobile Logo"] = "Мобилно лого";
+$Definition["Banner Image"] = "Изображение на банер";
+$Definition["Disable Forum Pages"] = "Деактивирайте страниците на форума";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Изберете формата по подразбиране на редактора за публикации в общността.";
+$Definition["InputFormatter.Notes2"] =
+    "Редакторът автоматично ще открие формата на старите публикации при редактирането им и ще зареди техните оригинални правила за форматиране. Освен това изключение, избраният формат за публикация по-долу ще има предимство.";
+$Definition["Formatting Posts"] = "Форматиране на публикации";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Укажете формат за редактиране за мобилни устройства.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Ако мобилните устройства трябва да имат същия опит, посочете същото като по-горе. Ако потребителите докладват за проблеми с редактирането на мобилни устройства, това е добра опция за промяна.";
+$Definition["Note:"] = "Забележка:";
+$Definition["Post Format"] = "Формат на публикацията";
+$Definition["Posting"] = "Публикуване";
+$Definition["Reinterpret All Posts As %s"] = "Интерпретирайте отново всички публикации като %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Кажете на редактора да интерпретира отново всички стари публикации като %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Тази настройка ще влезе в сила само ако %s е избран като формат на публикацията по-горе.";
+$Definition["This option is to normalize the editor format"] =
+    "Тази опция е за нормализиране на формата на редактора, ако по-стари публикации, редактирани с друг формат, като markdown или BBCode, са заредени, тази опция ще принуди %s.";
+
+$Definition["Mobile Format"] = "Мобилен формат";
+$Definition["Enable Rich Quotes"] = "Активиране на богати котировки";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Използвайте следната опция, за да активирате кавички за Rich Editor. Това ще се прилага само ако форматът по подразбиране е "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Заместител на място по подразбиране";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Качете изображение на заместител, което ще се показва, когато потребителите нямат изображение в публикацията си.";
+$Definition["Additional classes"] = "Допълнителни класове";
+$Definition["Apply additional classes on catalogue image."] =
+    "Приложете допълнителни класове върху изображението от каталога. Използвайте място, за да разделите всеки клас.";
+$Definition["Category only"] = "Само категория";
+$Definition["Display on category page only."] =
+    "Показва се само на страница с категории. Списъкът с последните дискусии няма да бъде засегнат.";
+$Definition["Use Masonry display"] = "Използвайте дисплей на зидарията";
+$Definition["Show an uploaded image on the Category page."] =
+    'Всяка дискусия ще покаже качено изображение на страницата Категория. Това се отнася само за категории с „Дискусии“ като „Покажи като“.';
+$Definition["Upload Placeholder Image"] = "Качване на изображение на заместител";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Възникна грешка при запазването на вашите промени. Моля, опитайте отново.";
+$Definition["<0/> has been <1/>"] = "<0/> беше <1/>";
+$Definition["enabled"] = "активиран";
+$Definition["disabled"] = "хора с увреждания";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Тази информация ще се показва само на потребители с разрешение за преглед на вътрешна информация";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Това е лична информация и няма да бъде споделяна с други членове.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Това ще създаде среща в Zoom от името на собственика на интеграцията на Zoom и ако сте регистриран потребител, ще ви добави като съдомакин. Ако не сте регистриран потребител на Zoom или не сте част от организацията, която е настроила интеграцията, това събитие може да има ограничена функционалност на Zoom без хост.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Не можете да актуализирате Zoom URL или ID на това събитие.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom Meeting ID или URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Добавете етикет";
+$Definition["A post"] = "Публикация";
+$Definition["A post has been added to a collection"] =
+    "Публикация е добавена към колекция";
+$Definition["A post has not had any activity"] =
+    "Публикация не е имала никаква активност";
+$Definition["A question"] = "Един въпрос";
+$Definition["A user has been registered"] = "Регистриран е потребител";
+$Definition["A post has received"] = "Пост е получен";
+$Definition["Date field reached"] = "Достигнато е полето за дата";
+$Definition["A user registers or logs in with email domain:"] =
+    "Потребител се регистрира или влиза с имейл домейн:";
+$Definition["A user registers or updates a profile field:"] =
+    "Потребител регистрира или актуализира поле на профил:";
+$Definition["Add tags:"] = "Добавете тагове:";
+$Definition["Add to collection:"] = "Добави към колекцията:";
+$Definition["An idea has received"] = "Идея е получена";
+$Definition["and"] = "и";
+$Definition["and assign to"] = "и възложете на";
+$Definition["and remove role"] = "и премахнете ролята";
+$Definition["and remove from community"] = "и премахване от общността";
+$Definition["Assign role:"] = "Задайте роля:";
+$Definition["Assign/Remove role"] = "Присвояване/премахване на роля";
+$Definition["Auto-run disabled."] = "Автоматичното стартиране е деактивирано.";
+$Definition["Auto-run enabled."] = "Автоматичното стартиране е активирано.";
+$Definition["Automation rule successfully created."] =
+    "Правилото за автоматизация е създадено успешно.";
+$Definition["Automation rule successfully updated."] =
+    "Правилото за автоматизация бе актуализирано успешно.";
+$Definition["Bump post"] = "Подпорен стълб";
+$Definition["Change the status of the idea to"] =
+    "Променете състоянието на идеята на";
+$Definition["Change status"] = "Промяна на статуса";
+$Definition["Close post"] = "Затваряне на публикацията";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Критерии за съвпадение на коментари сега: <0 />";
+$Definition["created by"] = "създаден от";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Създавайте и управлявайте автоматизации за лесно управление на публикации и потребители.";
+$Definition["Create/Edit Automation Rule"] = "Създаване/редактиране на правило за автоматизация";
+$Definition["Delete Rule"] = "Изтриване на правило";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Дискусии Съвпадащи критерии сега: <0 />";
+$Definition["Edit Rule"] = "Редактиране на правило";
+$Definition["Edit Variables"] = "Редактиране на променливи";
+$Definition["Escalate it"] = "Ескалирайте го";
+$Definition["Escalate to GitHub"] = "Ескалирайте до GitHub";
+$Definition["Escalate to Zendesk"] = "Ескалирайте до Zendesk";
+$Definition["Expand"] = "Разширяване";
+$Definition["Failed to disable the rule"] = "Неуспешно деактивиране на правилото";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Неуспешно зареждане на данните за визуализация. Моля, проверете стойностите на тригера и действието.";
+$Definition["Follow categories:"] = "Следвайте категориите:";
+$Definition["Follow category"] = "Следвайте категорията";
+$Definition["for"] = "за";
+$Definition["has been unanswered"] = "е без отговор";
+$Definition["has not received any comments"] = "не е получил никакви коментари";
+$Definition["Last reported"] = "Последно докладвано";
+$Definition["Maximum Limit Reached"] = "Максималният лимит е достигнат";
+$Definition["Move post"] = "Преместване на публикацията";
+$Definition["Move to category:"] = "Преместване в категория:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Полетата за множествен избор ще се активират, ако потребителят отговаря на КОЙТО и да е от критериите.";
+$Definition["New/Updated Email domain"] = "Нов/актуализиран имейл домейн";
+$Definition["New/Updated Profile field"] = "Поле за нов/актуализиран профил";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Забележка: Действията няма да засегнат <0 />, към които вече е приложено свързаното действие.";
+$Definition["Post Management"] = "Управление на постове";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Публикации, отговарящи на критерии сега: <0 />";
+$Definition["Remove from collection"] = "Премахване от колекцията";
+$Definition["Remove from collection:"] = "Премахване от колекцията:";
+$Definition["Remove from default follow list"] =
+    "Премахване от списъка за следване по подразбиране";
+$Definition["Remove from trigger collection"] =
+    "Премахване от колекцията на задействания";
+$Definition["report"] = "отчет";
+$Definition["reports"] = "доклади";
+$Definition["Rule Action"] = "Правило Действие";
+$Definition["Rule may not be deleted while it is running"] =
+    "Правилото не може да бъде изтрито, докато се изпълнява";
+$Definition["Rule may not be edited while it is running"] =
+    "Правилото не може да се редактира, докато се изпълнява";
+$Definition["Rule Name"] = "Име на правило";
+$Definition["Rule status will apply once current run completes"] =
+    "Състоянието на правилото ще се приложи, след като текущото изпълнение завърши";
+$Definition["Rule Trigger"] = "Задействане на правило";
+$Definition["Running"] = "Бягане";
+$Definition["See documentation for more information."] =
+    "Вижте документацията за повече информация.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Изберете действието, което ще се извърши, когато това правило бъде задействано.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Изберете тригера, който ще предизвика изпълнението на това правило.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Задайте променлива за задействане и променлива за действие, за да генерирате обобщение на правилото.";
+$Definition["sentiment"] = "настроения";
+$Definition["since"] = "тъй като";
+$Definition["Summary"] = "Резюме";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Действието ще се приложи само към тях, ако продължите.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Действието ще се приложи към тях, когато правилото е активирано. В бъдеще други <0 />, които отговарят на критериите за задействане, също ще имат действие, приложено към тях.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Това няма да засегне <0 /> в момента. Това ще засегне тези, които отговарят на критериите в бъдеще.";
+$Definition["Time since added to collection"] =
+    "Време от добавянето към колекцията";
+$Definition["Time since post has had no comments"] =
+    "Времето след публикацията не е имало коментари";
+$Definition["Time since Registration"] = "Време от регистрацията";
+$Definition["Time since post has had no activity"] =
+    "Време, откакто публикацията не е имала активност";
+$Definition["Time since question has been unanswered"] =
+    "Време, откакто въпросът е без отговор";
+$Definition["Trigger"] = "Тригер";
+$Definition["Unsaved Changes"] = "Незапазени промени";
+$Definition["Up to <0 /> ago."] = "Преди <0 />.";
+$Definition["upvote"] = "гласуване за";
+$Definition["upvotes"] = "гласове за";
+$Definition["User Management"] = "Управление на потребителите";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Потребители, отговарящи на критерии сега: <0 />";
+$Definition["Value is not a valid integer."] = "Стойността не е валидно цяло число.";
+$Definition["View History"] = "Преглед на хронологията";
+$Definition["Votes on an idea"] = "Гласува за идея";
+$Definition["with"] = "с";
+$Definition["with reason"] = "с основание";
+$Definition["with tag"] = "с етикет";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Не можете да добавите повече от 150 правила за автоматизация. Изтрийте някои правила и опитайте отново.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Няма икони, които отговарят на тези филтри.";
+$Definition["Manage Icon"] = "Управление на иконата";
+$Definition["Manage Icons"] = "Управление на икони";
+$Definition["Manage Icon helptext"] =
+    "Тук можете да управлявате системни и исторически икони. Когато качвате, уверете се, че иконата е във формат SVG, включва атрибут на viewBox и използва цвят #000000, за да сте сигурни, че може да бъде оцветена динамично въз основа на настройките на темата и потребителските взаимодействия. Само една икона от всеки тип може да бъде активна в даден момент.";
+$Definition["Upload New Icon"] = "Добавяне на нова икона";
+$Definition["Active Icon"] = "Активна икона";
+$Definition["New Icon"] = "Нова икона";
+$Definition["Icon Type"] = "Тип икона";
+$Definition["Previous Icons"] = "Предишни икони";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Предишните версии на вашите икони могат да бъдат намерени тук и възстановени по всяко време.";
+$Definition["Set as Active"] = "Задайте като активен";
+$Definition["Uploaded <0/> by <1/>"] = "Качено <0/> от <1/>";
+$Definition["Icon Packs"] = "Пакети с икони";
+$Definition["Download Active Icon Pack"] = "Изтеглете Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Изтеглете System Icon Pack";
+$Definition["Upload Icon Pack"] = "Качване на пакет с икони";
+$Definition["Preview Icon Pack"] = "Преглед на пакет с икони";
+$Definition["Changed Icons"] = "Променени икони";
+$Definition["Icon Name"] = "Име на иконата";
+$Definition["All icons in this icon pack are currently active."] =
+    "Всички икони в този пакет икони са активни в момента.";
+$Definition["Activate Icon Pack"] = "Активирайте пакета с икони";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Показвайте само икони, които са заменени с персонализирани икони.";
+$Definition["System Icon"] = "Икона на системата";
+$Definition["Custom Icon"] = "Персонализирана икона";
+$Definition["Only show icons that are default system icons."] =
+    "Показвайте само икони, които са системни икони по подразбиране.";
+$Definition["Previews"] = "Визуализации";
+$Definition["Icon Size"] = "Размер на иконата";
+$Definition["This is the actual size most icons render at."] =
+    "Това е действителният размер на повечето икони.";
+$Definition["Preview Color"] = "Преглед на цвят";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Този цвят ще се използва за визуализация на цвета на иконата. Той ще замени всяко използване на #000000 в качените от вас икони. В действителното приложение цветовете ще бъдат динамични.";
+$Definition["Escalation Name"] = "Име на ескалация";
+$Definition["Status on Creation"] = "Състояние при създаване";
+$Definition["Assignee"] = "Цесионер";
+$Definition["Internal Comment"] = "Вътрешен коментар";
+$Definition["Set Post Visibility to Hidden"] = "Задайте видимостта на публикацията на Скрита";
+$Definition["Remove Method"] = "Премахване на метод";
+$Definition["Wipe"] = "Избършете";
+$Definition["Newest Post"] = "Най-нова публикация";
+$Definition["Oldest Post"] = "Най-старата публикация";
+$Definition["Triage"] = "Триаж";
+$Definition["Triage Dashboard"] = "Табло за триаж";
+$Definition["Message Post Author"] = "Автор на съобщението";
+$Definition["Add Filter"] = "Добавяне на филтър";
+$Definition["Customer Support"] = "Поддръжка на клиенти";
+$Definition["My Profile"] = "Моят профил";
+$Definition["Resolve post"] = "Разрешете публикацията";
+$Definition["View post in community"] = "Вижте публикацията в общността";
+$Definition["View Details"] = "Вижте подробности";
+$Definition["Escalate"] = "Ескалирайте";
+$Definition["Posted by <0/> in <1/>"] = "Публикувано от <0/> в <1/>";
+$Definition["Show"] = "Покажи";
+$Definition["View Escalation"] = "Преглед на ескалацията";
+$Definition["# Reports"] = "# Доклади";
+$Definition["Last Reported"] = "Последно докладвано";
+$Definition["Report Reasons"] = "Докладвайте причини";
+$Definition["Last Modified"] = "Последна промяна";
+$Definition["Last refreshed <0/> by <1/>."] = "Последно опресняване <0/> от <1/>.";
+
+$Definition["Moderation Content"] = "Модериране на съдържанието";
+$Definition["AI Settings"] = "AI настройки";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP разгръщане";
+$Definition["Activity & Registration"] = "Дейност и регистрация";
+$Definition["Content Settings"] = "Настройки на съдържанието";
+$Definition["Premoderation Settings"] = "Настройки за предварително модериране";
+$Definition["Escalation Rules"] = "Правила за ескалация";
+$Definition["Automation"] = "Автоматизация";
+$Definition["Audit Log"] = "Дневник за одит";
+$Definition["Community Management"] = "Управление на общността";
+$Definition["Visualize Your Community"] = "Визуализирайте вашата общност";
+$Definition["Customize your community"] = "Персонализирайте вашата общност";
+$Definition["Configuration & Addons"] = "Конфигурация и добавки";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Сигурни ли сте, че искате да изтриете своя %s?";
+$Definition["Newest Report"] = "Най-нов доклад";
+$Definition["Oldest Report"] = "Най-старият доклад";
+$Definition["Report Dismissed"] = "Докладът е отхвърлен";
+$Definition["Post Rejected"] = "Публикацията е отхвърлена";
+$Definition["Escalated"] = "Ескалира";
+$Definition["Reported by <0/>"] = "Докладвано от <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "От <0/> не бяха предоставени бележки за доклада";
+$Definition["Create"] = "създавам";
+$Definition["Edited"] = "Редактирано";
+$Definition["Newest Escalation"] = "Най-новото ескалиране";
+$Definition["Oldest Escalation"] = "Най-старата ескалация";
+$Definition["Escalations Dashboard"] = "Табло за ескалации";
+$Definition["On Hold"] = "На изчакване";
+$Definition["Done"] = "Готово";
+$Definition["In Jira"] = "В Джира";
+$Definition["In Zendesk"] = "В Zendesk";
+$Definition["Integrations"] = "Интеграции";
+$Definition["Remove Post"] = "Премахване на публикация";
+$Definition["Escalated by <0/>"] = "Ескалирано от <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Въведете заглавие за тази ескалация";
+$Definition["Escalated by <0/>"] = "Ескалирано от <0/>";
+$Definition["Post Revision"] = "След ревизия";
+$Definition["Loader"] = "Товарач";
+$Definition["a month"] = "един месец";
+$Definition["%s ago"] = "преди %s";
+$Definition["Live"] = "На живо";
+$Definition["Live Post"] = "Публикация на живо";
+$Definition["Remove Post"] = "Премахване на публикация";
+$Definition["Internal Comments"] = "Вътрешни коментари";
+$Definition["Add a comment"] = "Добавяне на коментар";
+$Definition["Live"] = "На живо";
+$Definition["There are currently no comments on this post"] =
+    "В момента няма коментари по тази публикация";
+$Definition["All comments on this post will appear here"] =
+    "Всички коментари за тази публикация ще се показват тук";
+$Definition["Reports for <0/>"] = "Доклади за <0/>";
+$Definition["Live Post"] = "Публикация на живо";
+$Definition["There are currently no reports for this post."] =
+    "В момента няма доклади за тази публикация.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Тук ще се появи списък с отчети, свързани с тази публикация.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Конфигурирайте къде да се изпращат отчетите и управлявайте причините за докладите на вашата общност.";
+$Definition["New Community Management System"] =
+    "Нова система за управление на общността";
+$Definition["Enable Triage Dashboard"] = "Активиране на таблото за управление на Triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Всички потребители с разрешение на персонала ще могат да виждат и маркират дискусиите като разрешени или неразрешени. Тези потребители също ще имат достъп до таблото за управление на триажа, за да модерират своите категории.";
+$Definition["Resolve All Discussions"] = "Разрешете всички дискусии";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Разрешаване на всички публикации ще разреши всички съществуващи публикации в общността. Това групово действие няма да задейства уеб кукички или анализи.";
+$Definition["Resolve All"] = "Разреши всички";
+$Definition["Required field"] = "Задължително поле";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Новата система за управление на общността позволява персонализирани причини за докладване, ескалации, присвоявания и правила за автоматизация. Активирането на това променя отчитането на приема, за да използва новата система. <0>Прочетете повече</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Това ще разреши всички съществуващи публикации в общността. Това групово действие няма да задейства уеб кукички или анализ на регистрационни файлове. Продължаване?";
+$Definition["Reorder"] = "Пренареждане";
+$Definition["Add Reason"] = "Добавяне на причина";
+$Definition["Delete?"] = "Изтриване?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Сигурни ли сте, че искате да изтриете тази причина?";
+$Definition["A concise name for the report reason."] =
+    "Кратко име за причината за доклада.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Уникален етикет за причината за докладване. Този етикет не може да бъде променен, след като бъде запазен.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Обяснение на причината за доклада, за да могат по-добрите репортери да направят правилния избор при докладване на публикация.";
+$Definition["The roles which can see this report reason."] =
+    "Ролите, които могат да видят причината за този отчет.";
+$Definition["Add Report Reason"] = "Добавете причина за докладване";
+$Definition["Discard Changes?"] = "Отхвърляне на промените?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Сигурни ли сте, че искате да излезете без запазване?";
+$Definition["Reorder Report Reasons"] = "Причини за пренареждане на отчета";
+$Definition["Edit Report Reason"] = "Редактиране на причината за докладване";
+$Definition["Delete Report Reason"] = "Изтриване на причината за докладване";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Тази настройка трябва да бъде активирана, за да използвате персонализирани дискусионни теми.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Конфигурирайте настройките, използвани за автоматично модериране на общностно съдържание, преди дори да бъде създадено. Опциите включват автоматизирано откриване на спам, изискване на одобрение за публикуване в определени категории и изискване на одобрение за публикуване с използване на определени ключови думи или фрази.";
+$Definition["Spam Detection"] = "Откриване на спам";
+$Definition["Learn more."] = "Научете повече.";
+$Definition["documentation."] = "документация.";
+$Definition["Verify browsers of new members"] =
+    "Проверете браузърите на новите членове";
+$Definition["Challenge Cutoff Age"] = "Възраст за прекъсване на предизвикателството";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Брой дни след регистрацията за заобикаляне на предизвикателството на Cloudflare";
+$Definition["Save challenge cutoff age"] = "Запазване на граничната възраст на предизвикателството";
+$Definition["Premoderated Roles"] = "Премодерирани роли";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Потребителите с разрешение „Одобрение.Изискване“ ще изискват одобрение от модератор за всички публикации.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Потребителите, маркирани като „Проверени“, ще заобиколят това изискване. Това са ролите с \"Одобрение. Изискване\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Понастоящем няма зададени роли, които да изискват предварително модериране.";
+$Definition["Edit Roles"] = "Редактиране на роли";
+$Definition["Premoderated Categories"] = "Премодерирани категории";
+$Definition["No categories are currently set to require premoderation."] =
+    "Понастоящем няма категории, които да изискват предварително модериране.";
+$Definition["Edit Categories"] = "Редактиране на категории";
+$Definition["Premoderated Keywords"] = "Премодерирани ключови думи";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Публикации с някоя от следните ключови думи или фрази ще изискват одобрение от модератор.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Понастоящем няма зададени ключови думи, изискващи предварително модериране.";
+$Definition["Edit Keywords"] = "Редактиране на ключови думи";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Разрешете на Akismet да филтрира спама във всички публикации от регистрации на кандидати и непроверени потребители. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Активирайте Stopforumspam, за да проверявате потребителите на общността спрямо списък с докладвани спамери и или докладвате публикацията като спам, или ги отхвърляте направо. Праговете за отчитане и отхвърляне се управляват в настройките на добавката <0></0> . Научете повече в <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Непроверените членове, които са били в общността за по-малко от посочения брой дни, ще бъдат подканени да изпълнят Cloudflare (Captcha или Checkbox) предизвикателство за предотвратяване на спам. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s в следните категории ще изискват одобрение от модератор.";
+$Definition["Default Sort Order"] = "Ред на сортиране по подразбиране";
+$Definition["Choose the order records are sorted by default."] =
+    "Изберете записите за поръчка да се сортират по подразбиране.";
+$Definition["Show OP Indicator"] = "Показване на OP индикатор";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Ако тази опция е активирана, отговорите от оригиналния автор ще имат индикатор OP.";
+$Definition["Show Badges"] = "Показване на значки";
+$Definition["Badges Limit"] = "Лимит за значки";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Показвайте значките на потребителите на всяка публикация. Могат да се показват до максимум 5 значки по ред на най-висок ранг.";
+$Definition["event"] = "събитие";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> още коментара";
+$Definition["Export"] = "Експортиране";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Заглавията на началната страница могат да бъдат само между 1 и 500 знака";
+$Definition["Address Bar Color"] = "Цвят на адресната лента";
+$Definition["Meta Tags"] = "Мета тагове";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Мета таговете се използват за проверка на домейн за Google Search Console и други услуги. Копирайте необходимите мета тагове от вашия източник и ги поставете на нов ред.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Прекарайте малко време за размисъл как описвате сайта си тук. Предоставянето на вашия сайт съдържателно заглавие и кратко описание може да помогне за позицията ви в търсачките.";
+$Definition["Style Guides"] = "Ръководства за стил";
+$Definition["Branding & Assets"] = "Брандиране и активи";
+$Definition["Home Pages"] = "Начални страници";
+$Definition["Home Layout Settings"] = "Настройки на оформлението на дома";
+$Definition["Category Pages"] = "Страници с категории";
+$Definition["Category Layout Settings"] = "Настройки за оформление на категория";
+$Definition["Category List Pages"] = "Страници със списък на категории";
+$Definition["Posting Category Pages"] = "Публикуване на страници с категории";
+$Definition["Nested Category Pages"] = "Страници с вложени категории";
+$Definition["Discussion Pages"] = "Дискусионни страници";
+$Definition["Idea Pages"] = "Страници с идеи";
+$Definition["Question Pages"] = "Страници с въпроси";
+$Definition["Post Pages"] = "Страници с публикации";
+$Definition["Post Layout Settings"] = "Настройки на оформлението на публикациите";
+$Definition["Create Post Pages"] = "Създайте страници с публикации";
+$Definition["Create Post Layout Settings"] = "Създаване на настройки за оформление на публикация";
+$Definition["Event Pages"] = "Страници със събития";
+$Definition["Event Layout Settings"] = "Настройки на оформлението на събитието";
+$Definition["Knowledge Base Pages"] = "Страници на базата знания";
+$Definition["Knowledge Base Layout Settings"] =
+    "Настройки на оформлението на базата знания";
+$Definition["Knowledge Base Home Pages"] = "Начални страници на базата знания";
+$Definition["Help Center Home Pages"] = "Начални страници на Помощния център";
+$Definition["Help Center Category Pages"] = "Страници с категории в Помощния център";
+$Definition["Help Center Article Pages"] = "Страници със статии в Помощния център";
+$Definition["Guide Article Pages"] = "Страници със статии за ръководство";
+$Definition["Layouts"] = "Оформления";
+$Definition["Add Custom Layout"] = "Добавете персонализирано оформление";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Изберете предпочитаното наследено оформление на последните публикации.";
+$Definition["Legacy Recent Posts Layouts"] = "Наследени оформления на последните публикации";
+$Definition["Change layout versions for the <0/>."] =
+    "Променете версиите на оформлението за <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "За да научите повече, <0>вижте документацията</0> .";
+$Definition["Change %s"] = "Промяна на %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Сигурни ли сте, че искате да използвате %s?";
+$Definition["Legacy Home Layouts"] = "Наследени оформления на дома";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Изберете предпочитаното Legacy Home Layout.";
+$Definition["Home Layout Version"] = "Версия на оформлението на дома";
+$Definition["Custom Home Layouts"] = "Персонализирани оформления на дома";
+$Definition["Legacy Category Layout"] = "Оформление на наследена категория";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Изберете предпочитаното оформление на наследени категории.";
+$Definition["Category Layout Version"] = "Версия на оформлението на категорията";
+$Definition["Legacy Category Layouts"] = "Наследени оформления на категории";
+$Definition["Custom Category Layouts"] = "Персонализирани оформления на категории";
+$Definition["Legacy Post Layout"] = "Наследено оформление на публикацията";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Изберете предпочитаното Legacy Post Layout.";
+$Definition["Post Layout Version"] = "Версия на оформлението на публикацията";
+$Definition["Legacy Post Layouts"] = "Наследени оформления на публикации";
+$Definition["Custom Post Layouts"] = "Персонализирани оформления на публикация";
+$Definition["Legacy Create Post Layout"] = "Наследено оформление за създаване на публикация";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Изберете предпочитаното Legacy Create Post Layout.";
+$Definition["Create Post Layout Version"] = "Създайте версия на оформлението на публикацията";
+$Definition["Legacy Create Post Layouts"] = "Наследени оформления за създаване на публикации";
+$Definition["Custom Create Post Layouts"] = "Персонализирано създаване на оформления на публикации";
+$Definition["Legacy Event Layout"] = "Наследено оформление на събитието";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Изберете предпочитаното наследено оформление на събитието.";
+$Definition["Event Layout Version"] = "Версия на оформлението на събитието";
+$Definition["Legacy Event Layouts"] = "Наследени оформления на събития";
+$Definition["Custom Event Layouts"] = "Персонализирани оформления на събития";
+$Definition["Created <0/> by <1/>."] = "Създадено <0/> от <1/>.";
+$Definition["Layout Options"] = "Опции за оформление";
+$Definition["Contextual Description"] = "Контекстуално описание";
+$Definition["Skip to end of Carousel"] = "Прескачане до края на въртележката";
+$Definition["Previous Slides"] = "Предишни слайдове";
+$Definition["Next Slides"] = "Следващи слайдове";
+$Definition["indicator navigation"] = "индикаторна навигация";
+$Definition["<0/> new"] = "<0/> ново";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d слайдове на дисплея начален слайд %d от %d";
+$Definition["Unassigned"] = "Неприсвоен";
+$Definition["Apply Layout to Site Home Page"] =
+    "Прилагане на оформлението към началната страница на сайта";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Задайте като оформление по подразбиране за конкретни подобщности.";
+$Definition["Apply to specific categories."] = "Приложете към конкретни категории.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Това оформление не може да бъде изтрито, защото е шаблон за оформление.";
+$Definition["Delete Layout"] = "Изтриване на оформлението";
+$Definition["Are you sure you want to delete?"] =
+    "Сигурни ли сте, че искате да изтриете?";
+$Definition["Applied"] = "Приложено";
+$Definition["Applied as default"] = "Прилага се по подразбиране";
+$Definition["View Category"] = "Преглед на категория";
+$Definition["Apply to specific subcommunities."] =
+    "Приложете към конкретни подобщности.";
+$Definition["Unable to re-assign default template"] =
+    "Не може да се преназначи шаблон по подразбиране";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Това оформление е шаблон и е зададено като стандартно за всички страници от този тип. За да го премахнете като стандартно или да го присвоите на конкретни страници, трябва да зададете различно оформление като стандартно.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Това оформление не може да бъде изтрито, защото в момента е приложено.";
+$Definition["Set as default layout for all <0 />."] =
+    "Задайте като оформление по подразбиране за всички <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Оформление на наследената база знания";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Изберете предпочитаното оформление на наследената база знания.";
+$Definition["Knowledge Base Layout Version"] = "Версия на оформлението на базата знания";
+$Definition["Legacy Knowledge Base Layouts"] = "Наследени оформления на базата знания";
+$Definition["Custom Knowledge Base Layouts"] = "Персонализирани оформления на базата знания";
+$Definition["Article Count"] = "Брой статии";
+$Definition["Legacy Layouts enabled"] = "Наследените оформления са активирани";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Имайте предвид, че тази промяна на оформлението няма да бъде видима, докато не преминете към персонализирани оформления.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Тази промяна на оформлението няма да бъде видима, докато не превключите общността си към потребителски <0/> в страницата <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Задайте като оформление по подразбиране за конкретни бази знания.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Сайтът не ви позволява да се свържете със съществуващ потребител.";
+$Definition["The username you entered has already been taken."] =
+    "Въведеното от вас потребителско име вече е заето.";
+$Definition["There was an error fetching the connection data."] =
+    "Възникна грешка при извличането на данните за връзката.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Неуспешно удостоверяване на заявката ви за нулиране на паролата. Опитайте да използвате формуляра за заявка за нулиране отново.";
+$Definition["Invitation not found."] = "Поканата не е намерена.";
