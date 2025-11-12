@@ -443,22 +443,22 @@ $Definition["Widget Builder"] = "Creatore Widget";
 $Definition["Custom Pages"] = "Pagine Personalizzate";
 $Definition["Site Home Pages"] = "Pagine Iniziali del Sito";
 $Definition["Subcommunity Home Pages"] = "Pagine Iniziali delle Sottocomunità";
-$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Scegli un tema per questa sottocomunità. <0>Scopri di più<0>";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Scegli un tema per questa sottocomunità. <0>Scopri di più</0>";
 $Definition["Vanilla Messages"] = "Vanilla Messages";
-$Definition["From <0/>"] = "Da <0>";
+$Definition["From <0/>"] = "Da <0/>";
 $Definition["Manage Products"] = "Gestisci Prodotti";
 $Definition["Pages"] = "Pagine";
 $Definition["Widget Builder"] = "Creatore Widget";
 $Definition["Custom Pages"] = "Pagine Personalizzate";
 $Definition["Site Home Pages"] = "Pagine Iniziali del Sito";
 $Definition["Subcommunity Home Pages"] = "Pagine Iniziali delle Sottocomunità";
-$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Scegli un tema per questa sottocomunità. <0>Scopri di più<0>";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Scegli un tema per questa sottocomunità. <0>Scopri di più</0>";
 $Definition["Search subcommunities."] = "Cerca sottocomunità";
 $Definition["The view you were looking for could not be found."] = "Non è stato possibile trovare la vista che stavi cercando.";
 $Definition["View Not Found"] = "Vista Non Trovata";
 $Definition["site"] = "sito";
 $Definition["Selected Home Page Type is a legacy layout."] = "La Pagina Iniziale selezionata è un layout Patrimonio";
-$Definition["The default home page type can be changed in <0/>."] = "La pagina iniziale predefinita può essere cambiata in <0>.";
+$Definition["The default home page type can be changed in <0/>."] = "La pagina iniziale predefinita può essere cambiata in <0/>.";
 
 // Sentiment
 
