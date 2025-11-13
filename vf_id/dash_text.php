@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Izinkan pengguna dengan izin %s untuk mengubah avatar mereka sendiri dari halaman profil mereka di Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimkan Alamat IP";
+$Definition['API Overview'] = "Ikhtisar API";
 $Definition['ApplicationHelp'] = 'Aplikasi memungkinkan anda untuk menambah grup yang lebih besar dari fungsionalitas pada situs anda.<br />Segera setelah aplikasi ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Apply Layout'] = 'Terapkan Tata Letak';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Anda yakin telah mengisi nama host basisdata dengan benar? Mungkin anda salah mengetiknya? Basisdata melaporkan: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Sebaiknya pertahankan jumlah karakter maksimum yang diperbolehkan dalam pos hingga ukuran yang wajar.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Genjot komunitas anda dan tingkatkan hubungan dengan pengguna.';
 $Definition['Labs'] = 'laboratorium';
 $Definition['Learn about custom routing.'] = 'Pelajari lebih lanjut tentang kostumasi route';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Anonimisasi Parsial</strong> menganonimkan hanya oktet terakhir dari alamat IP. Misalnya 254.230.05.153 akan menjadi 254.230.05.0. Ini memberikan beberapa anonimisasi sambil tetap mengizinkan aturan larangan IP berfungsi.";
 $Definition['Partial Anonymization'] = "Anonimisasi Sebagian";
 $Definition['Password.MinLength'] = 'Panjang karakter minimum yang diizinkan untuk kata sandi pengguna pada halaman pembuatan dan pengaturan ulang kata sandi.';
+$Definition['Personal Access Tokens'] = 'Token Akses Pribadi';
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket ditampilkan di antara setiap diskusinya pada daftar diskusi utama. Semenjak diskusi yang biasanya dalam tag <li>..</li> maka anda pun perlu untuk membungkus pocket bersamaan dengan tag tersebut.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Tautan langsung';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Cepat-Mulai untuk Membuat Tema Vanilla';
 
+$Definition['Rate Limits'] = 'Batas Kecepatan';
 $Definition['Reactions Documentation'] = 'Dokumentasi Reaksi';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Siap-sedia Komentar Vanilla untuk WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Siap-sedia Forum Vanilla untuk WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Membutuhkan izin 
 $Definition['Restoring your selection removes the items from this list.'] = 'Saat anda memulihkan, item-item akan dihilangkan dari daftar ini dan dikembalikan lagi ke situs.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Gunakan opsi berikut untuk mengaktifkan kutipan untuk Editor Kaya. Ini hanya akan berlaku jika formatter default adalah "Kaya".';
+$Definition['Role Tokens'] = 'Token Peran';
 $Definition['Route Expression'] = 'Ekspresi Route';
 $Definition['Routes are used to redirect users.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Pembatasan khusus: Hanya pengguna dengan izin Garden.Curation.Manage dapat menggunakan reaksi ini.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Tentukan kecocokan sebagian atau semuanya saat membuat larangan.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Luangkan waktu untuk berpikir bagaimana anda menggambarkan situs anda di sini. Berikan situs anda judul yang berarti dan deskripsi yang singkat akan membantu posisi anda di mesin pencari.';
+$Definition['Spoofing'] = 'Pemalsuan';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Rapikan email Anda dengan menambahkan logo dan menyesuaikan warna.';
 $Definition['Start Import'] = 'Mulai Impor';
 $Definition['Start the first discussion.'] = 'Meriahkan komunitas Anda dengan <a href="{/post/discussion,url}">memulai diskusi pertama</a> sekarang.';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini un
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Kami merekomendasikan untuk mengaktifkan 1–3 reaksi sekaligus untuk menghindari pengguna yang kewalahan.';
 $Definition['Webhooks'] = 'Webhook';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Jika diaktifkan, pengguna dapat memilih untuk menerima notifikasi dari komunitas';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Saat diaktifkan, Anda dapat mengelola produk, dan mengelompokkan subkomunitas oleh produk-produk tersebut.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Jika diaktifkan, Anda dapat <0>mengelola produk</0> , dan mengelompokkan subkomunitas berdasarkan produk tersebut.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Apakah bidang profil internal akan disertakan atau tidak dalam webhook ini.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Apakah bidang profil pribadi akan disertakan atau tidak dalam webhook ini.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Terkadang Anda i
 $Definition['Layout Editor'] = 'Editor Tata Letak';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Aktifkan Editor Tata Letak untuk menerapkan tata letak khusus untuk laman komunitas Anda. Gunakan editor baru kami untuk menampilkan konten menggunakan katalog widget yang tersedia.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Layout Editor baru akan mewarisi set tema di Panduan Gaya Anda (secara resmi editor tema). <1>Cari tahu lebih lanjut</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Halaman Daftar Postingan Terbaru";
+$Definition["Custom"] = "Kebiasaan";
+$Definition["Category List Page"] = "Halaman Daftar Kategori";
+$Definition["Home Page Type"] = "Jenis Halaman Beranda";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Pilih halaman untuk dijadikan beranda subkomunitas.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Jenis Halaman Beranda yang dipilih adalah tata letak khusus. Anda dapat mengelola tata letak untuk subkomunitas ini di <0/>.";
+$Definition["Default Subcommunity"] = "Subkomunitas Default";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Jadikan ini sebagai subkomunitas default. Pengunjung akan diarahkan ke sini terlebih dahulu saat mengakses komunitas.";
+$Definition["Post number must be between 3–20."] = "Nomor posting harus antara 3–20.";
+$Definition["Pages"] = "Halaman";
+$Definition["Widget Builder"] = "Pembuat Widget";
+$Definition["Custom Pages"] = "Halaman Kustom";
+$Definition["Site Home Pages"] = "Halaman Beranda Situs";
+$Definition["Subcommunity Home Pages"] = "Halaman Beranda Subkomunitas";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Pilih tema untuk subkomunitas ini. <0>Baca selengkapnya</0>";
+$Definition["Vanilla Messages"] = "Pesan Vanilla";
+$Definition["From <0/>"] = "Dari <0/>";
+$Definition["Manage Products"] = "Kelola Produk";
+$Definition["Pages"] = "Halaman";
+$Definition["Widget Builder"] = "Pembuat Widget";
+$Definition["Custom Pages"] = "Halaman Kustom";
+$Definition["Site Home Pages"] = "Halaman Beranda Situs";
+$Definition["Subcommunity Home Pages"] = "Halaman Beranda Subkomunitas";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Pilih tema untuk subkomunitas ini. <0>Baca selengkapnya</0>";
+$Definition["Search subcommunities."] = "Cari subkomunitas.";
+$Definition["The view you were looking for could not be found."] = "Pemandangan yang Anda cari tidak dapat ditemukan.";
+$Definition["View Not Found"] = "Tampilan Tidak Ditemukan";
+$Definition["site"] = "lokasi";
+$Definition["Selected Home Page Type is a legacy layout."] = "Jenis Beranda yang Dipilih adalah tata letak lama.";
+$Definition["The default home page type can be changed in <0/>."] = "Jenis beranda default dapat diubah di <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Pengaturan Kata Kunci";
+$Definition["Extremely Negative to Negative"] = "Sangat Negatif ke Negatif";
+$Definition["Negative to Balanced"] = "Negatif ke Seimbang";
+$Definition["Balanced to Positive"] = "Seimbang ke Positif";
+$Definition["Positive to Highly Positive"] = "Positif ke Sangat Positif";
+$Definition["Sentiment Keywords"] = "Kata Kunci Sentimen";
+$Definition["Sentiment Settings"] = "Pengaturan Sentimen";
+$Definition["Add Keyword"] = "Tambahkan Kata Kunci";
+$Definition["Keyword Limit Reached"] = "Batas Kata Kunci Tercapai";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Anda hanya dapat melacak hingga 100 kata kunci. Batalkan pelacakan beberapa kata kunci untuk menambahkan kata kunci baru.";
+$Definition["Calibrate Sentiment Levels"] = "Kalibrasi Tingkat Sentimen";
+$Definition["Sentiment Level Distribution Adjustment"] = "Penyesuaian Distribusi Tingkat Sentimen";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Keempat slider mewakili titik-titik di antara setiap tingkat sentimen. Geser slider untuk mengkalibrasi distribusi tingkat sentimen secara keseluruhan terhadap konten komunitas Anda.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Pratinjau Distribusi Sentimen Terkalibrasi";
+$Definition["(Read Only)"] = "(Hanya Baca)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Grafik ini memvisualisasikan bagaimana konten di komunitas Anda akan didistribusikan berdasarkan penyesuaian kalibrasi Anda.";
+$Definition["all time sentiment"] = "sentimen sepanjang masa";
+$Definition["keyword"] = "kata kunci";
+$Definition["number of uses"] = "jumlah penggunaan";
+$Definition["last use"] = "penggunaan terakhir";
+$Definition["tracking"] = "pelacakan";
+$Definition["Sentiment"] = "Sentimen";
+$Definition["Tracked Status"] = "Status Terlacak";
+$Definition["Tracked Only"] = "Hanya Dilacak";
+$Definition["Untracked Only"] = "Hanya Tidak Terlacak";
+$Definition["Strongly Negative"] = "Sangat Negatif";
+$Definition["Negative"] = "Negatif";
+$Definition["Positive"] = "Positif";
+$Definition["Highly Positive"] = "Sangat Positif";
+$Definition["Clear all filters"] = "Hapus semua filter";
+$Definition["Keyword is required."] = "Kata kunci diperlukan.";
+$Definition["Maximum length is 100 characters."] = "Panjang maksimum 100 karakter.";
+$Definition["Keyword"] = "Kata kunci";
+$Definition["Add a new tracked keyword"] = "Tambahkan kata kunci terlacak baru";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Kata kunci baru akan dilacak dalam analitik. Anda dapat memilih untuk menonaktifkan pelacakan setelah membuat kata kunci ini.";
+$Definition["Extremely Negative"] = "Sangat Negatif";
+$Definition["Extremely Positive"] = "Sangat Positif";
+$Definition["Filter by:"] = "Filter berdasarkan:";

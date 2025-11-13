@@ -3,1323 +3,1895 @@
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" не найдено.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Версия %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s версия %2$s теперь доступна.';
-$Definition['%s is not a valid email address'] = '%s не является действительным адресом электронной почты';
-$Definition['%s is required'] = '%s требуется';
-$Definition['%s item in queue'] = 'В очереди: %s';
-$Definition['%s level'] = '%s уровень';
-$Definition['%s levels'] = '%s уровни';
-$Definition['%s must be numeric'] = '%s должен быть цифрой';
-$Definition['%s site(s) found.'] = '%s сайтов найдено';
-$Definition['%s sources(s) found.'] = '%s источников найдено.';
-$Definition['%s times'] = '%s раз';
-$Definition['%s unavailable'] = '%s недоступно';
-$Definition['%s user found.'] = 'Найден %s пользователь.';
-$Definition['%s users found.'] = 'Найдено %s пользователей.';
-$Definition['%s user(s) found.'] = '%s пользователь(ей) найден(о).';
-$Definition['%s user(s) will be affected by this action.'] = 'к %s пользователю(-ям) будут применены данные действия.';
+$Definition['%1$s version %2$s is available.'] =
+    '%1$s версия %2$s теперь доступна.';
+$Definition["%s is not a valid email address"] =
+    "%s не является действительным адресом электронной почты";
+$Definition["%s is required"] = "%s требуется";
+$Definition["%s item in queue"] = "В очереди: %s";
+$Definition["%s level"] = "%s уровень";
+$Definition["%s levels"] = "%s уровни";
+$Definition["%s must be numeric"] = "%s должен быть цифрой";
+$Definition["%s site(s) found."] = "%s сайтов найдено";
+$Definition["%s sources(s) found."] = "%s источников найдено.";
+$Definition["%s times"] = "%s раз";
+$Definition["%s unavailable"] = "%s недоступно";
+$Definition["%s user found."] = "Найден %s пользователь.";
+$Definition["%s users found."] = "Найдено %s пользователей.";
+$Definition["%s user(s) found."] = "%s пользователь(ей) найден(о).";
+$Definition["%s user(s) will be affected by this action."] =
+    "к %s пользователю(-ям) будут применены данные действия.";
 
-$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> предложит ответы на вопросы и ответы';
-$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> не будет предлагать ответы на вопросы и ответы';
+$Definition["<0/> will suggest answers on Q&A posts"] =
+    "<0/> предложит ответы на вопросы и ответы";
+$Definition["<0 /> will not suggest answers on Q&A posts"] =
+    "<0 /> не будет предлагать ответы на вопросы и ответы";
 
-$Definition['(less)'] = '(меньше)';
-$Definition['(more)'] = '(больше)';
-$Definition['(YYYY-mm-dd)'] = '(ГГГГ-мес-дн)';
+$Definition["(less)"] = "(меньше)";
+$Definition["(more)"] = "(больше)";
+$Definition["(YYYY-mm-dd)"] = "(ГГГГ-мес-дн)";
 
-$Definition['1 day'] = '1 день';
-$Definition['1 hour'] = '1 час ';
-$Definition['1 in 5 is recommended for most communities.'] = 'Для большинства сообществ рекомендуется 1 из 5.';
-$Definition['1 in 20 is recommended for most communities.'] = 'Для большинства сообществ рекомендуется 1 из 20.';
-$Definition['1 month'] = '1 месяц';
-$Definition['1 month after being sent'] = 'Месяц после отправки';
-$Definition['1 week'] = '1 неделя';
-$Definition['1 week after being sent'] = '1 неделя после отправки';
-$Definition['2 weeks after being sent'] = 'Две недели после отправки';
-$Definition['4 hours'] = '4 часа';
-$Definition['5 minutes'] = '5 минут';
-$Definition['15 minutes'] = '15 минут';
+$Definition["1 day"] = "1 день";
+$Definition["1 hour"] = "1 час ";
+$Definition["1 in 5 is recommended for most communities."] =
+    "Для большинства сообществ рекомендуется 1 из 5.";
+$Definition["1 in 20 is recommended for most communities."] =
+    "Для большинства сообществ рекомендуется 1 из 20.";
+$Definition["1 month"] = "1 месяц";
+$Definition["1 month after being sent"] = "Месяц после отправки";
+$Definition["1 week"] = "1 неделя";
+$Definition["1 week after being sent"] = "1 неделя после отправки";
+$Definition["2 weeks after being sent"] = "Две недели после отправки";
+$Definition["4 hours"] = "4 часа";
+$Definition["5 minutes"] = "5 минут";
+$Definition["15 minutes"] = "15 минут";
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Подтвердите ваш адрес электронной почты';
-$Definition['[%s] Invitation'] = 'Приглашение [%s]';
-$Definition['[%s] Password Reset'] = '[%s] Сброс пароля';
-$Definition['[%s] Password Reset Request'] = '[%s] Запрос на сброс пароля';
-$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Вы достигли максимального количества попыток входа. Пожалуйста, подождите %s и повторите попытку.';
+$Definition["[%s] Confirm Your Email Address"] =
+    "[%s] Подтвердите ваш адрес электронной почты";
+$Definition["[%s] Invitation"] = "Приглашение [%s]";
+$Definition["[%s] Password Reset"] = "[%s] Сброс пароля";
+$Definition["[%s] Password Reset Request"] = "[%s] Запрос на сброс пароля";
+$Definition[
+    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
+] = 'Вы достигли максимального количества попыток входа. Пожалуйста, подождите %s и повторите попытку.';
 
-$Definition['a Badge'] = 'Значок';
-$Definition['A unique display name.'] = 'Уникальное отображаемое имя.';
-$Definition['A unique label name that cannot be changed once saved.'] = 'Уникальное имя метки, которое нельзя изменить после сохранения.';
-$Definition['Abilites'] = 'Возможности';
-$Definition['Abilities'] = 'Возможности';
-$Definition['About %s'] = 'О %s';
-$Definition['About Email Digest'] = 'О дайджесте электронной почты';
-$Definition['About External Search'] = 'О внешнем поиске';
-$Definition['About Theme Preview'] = 'О предпросмотре темы';
-$Definition['Above Main Content'] = 'Над основным контентом';
-$Definition['Accept Answer'] = 'Принять ответ';
-$Definition['"Accept Answer" if a suggestion answers your question.'] = '«Принять ответ», если предложение отвечает на ваш вопрос.';
-$Definition['Account Sync Failed'] = 'Синхронизация аккаунта не удалась';
-$Definition['Accepted answer pageview ratio representing a deflected case'] = 'Коэффициент просмотров страниц принятых ответов, представляющий отклоненный случай';
-$Definition['Accepted Answers'] = 'Принятые ответы';
-$Definition['Action'] = 'Действия';
-$Definition['Actions and Permissions'] = 'Действия и разрешения';
-$Definition['Actions Based on Votes'] = 'Активность, основанная на голосовании';
-$Definition['activity(ies)'] = 'действие(-й)';
+$Definition["a Badge"] = "Значок";
+$Definition["A unique display name."] = "Уникальное отображаемое имя.";
+$Definition["A unique label name that cannot be changed once saved."] =
+    "Уникальное имя метки, которое нельзя изменить после сохранения.";
+$Definition["Abilites"] = "Возможности";
+$Definition["Abilities"] = "Возможности";
+$Definition["About %s"] = "О %s";
+$Definition["About Email Digest"] = "О дайджесте электронной почты";
+$Definition["About External Search"] = "О внешнем поиске";
+$Definition["About Theme Preview"] = "О предпросмотре темы";
+$Definition["Above Main Content"] = "Над основным контентом";
+$Definition["Accept Answer"] = "Принять ответ";
+$Definition['"Accept Answer" if a suggestion answers your question.'] =
+    '«Принять ответ», если предложение отвечает на ваш вопрос.';
+$Definition["Account Sync Failed"] = "Синхронизация аккаунта не удалась";
+$Definition["Accepted answer pageview ratio representing a deflected case"] =
+    "Коэффициент просмотров страниц принятых ответов, представляющий отклоненный случай";
+$Definition["Accepted Answers"] = "Принятые ответы";
+$Definition["Action"] = "Действия";
+$Definition["Actions and Permissions"] = "Действия и разрешения";
+$Definition["Actions Based on Votes"] = "Активность, основанная на голосовании";
+$Definition["activity(ies)"] = "действие(-й)";
 $Definition['activity\'s comment(s)'] = 'комментарий(-и) о действии';
-$Definition['Activity Item'] = 'Элемент активности';
-$Definition['Activity item not found.'] = 'Элемент активности не найден';
-$Definition['Add a new Pocket to your site.'] = 'Создать новый карман на сайте.';
-$Definition["Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."] = "Добавьте ссылку Zoom или идентификатор встречи, чтобы подключить это событие к Zoom и включить кнопки регистрации и присоединения одним щелчком. Обратите внимание, что если для вашего события требуется регистрация, вы не сможете обновить идентификатор встречи или ссылку после создания события.";
-$Definition['Add Ban Rule'] = 'Добавить правило запрета';
-$Definition['Add Category'] = 'Добавить раздел';
-$Definition['Add Columns'] = 'Добавить столбцы';
-$Definition['Add Comments'] = 'Добавить комментарии';
-$Definition['Add Connection'] = 'Добавить соединение';
-$Definition['Added By'] = 'Добавил';
-$Definition['Add Field'] = 'Добавить поле';
-$Definition['Add Info &amp; Create Account'] = 'Добавить информацию & Создать аккаунт';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Добавить информацию в поле email формы чтобы помочь с ответами (рекомендуется). ';
-$Definition['Add Interest'] = 'Добавить интерес';
-$Definition['Adding & Editing Categories'] = 'Добавление и редактирование разделов';
-$Definition['Add Item'] = 'Добавить запись';
-$Definition['Addons'] = 'Дополнения';
-$Definition['Addons Overview'] = 'Обзор расширений';
-$Definition['Add Role'] = 'Добавить новую группу';
-$Definition['Add rule'] = 'Добавить правило';
-$Definition['Add Tag'] = 'Добавить тег';
-$Definition['Add Theme'] = 'Добавить тему';
-$Definition['Add Token'] = 'Добавить токен';
-$Definition['Add User'] = 'Добавить пользователя';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'Добавьте свои собственные домены Kaltura, чтобы преобразовывать ссылки во встроенные видео в обсуждениях, комментариях или статьях.';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'Добавьте свой собственный домен(ы) Kaltura, чтобы преобразовать ссылки во встроенные видео в сообщениях, комментариях или статьях.';
-$Definition['administrator'] = 'администратор';
-$Definition['Advanced'] = 'Дополнительно';
-$Definition['Advanced Category Settings'] = 'расширенные настройки раздела';
-$Definition['Advanced Editor Settings'] = 'Дополнительные настройки редактора';
-$Definition['Advanced Embed Settings'] = 'Дополнительные настройки встраивания';
-$Definition['Advanced Forum Settings'] = 'Дополнительные настройки форума';
-$Definition['AdvancedNotifications'] = 'ДополнительныеУведомления';
-$Definition['Advanced Options'] = 'Дополнительные опции';
-$Definition['Advanced Settings'] = 'Дополнительные настройки';
-$Definition['Advanced settings for embedded community elements'] = 'Дополнительные настройки встраивания элементов сообщества';
-$Definition['After'] = 'После';
-$Definition['AI Suggested Answers'] = 'Ответы, предложенные ИИ';
-$Definition['AI Suggestions are not enabled'] = 'Предложения ИИ не включены';
-$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'AI Suggested Answers предлагает предлагаемые ответы на основе сообщений сообщества и связанных баз знаний. Вы можете включить или выключить это в любое время, посетив настройки своего профиля.';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'Предупреждать пользователей, если они нажмут ссылку в сообщении, которое уведет их с форума.';
-$Definition['Alive'] = 'В живых';
+$Definition["Activity Item"] = "Элемент активности";
+$Definition["Activity item not found."] = "Элемент активности не найден";
+$Definition["Add a new Pocket to your site."] =
+    "Создать новый карман на сайте.";
+$Definition[
+    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
+] =
+    "Добавьте ссылку Zoom или идентификатор встречи, чтобы подключить это событие к Zoom и включить кнопки регистрации и присоединения одним щелчком. Обратите внимание, что если для вашего события требуется регистрация, вы не сможете обновить идентификатор встречи или ссылку после создания события.";
+$Definition["Add Ban Rule"] = "Добавить правило запрета";
+$Definition["Add Category"] = "Добавить раздел";
+$Definition["Add Columns"] = "Добавить столбцы";
+$Definition["Add Comments"] = "Добавить комментарии";
+$Definition["Add Connection"] = "Добавить соединение";
+$Definition["Added By"] = "Добавил";
+$Definition["Add Field"] = "Добавить поле";
+$Definition["Add Info &amp; Create Account"] = "Добавить информацию & Создать аккаунт";
+$Definition[
+    "Add information into the from field in email addresses to help with replies (recommended)."
+] =
+    "Добавить информацию в поле email формы чтобы помочь с ответами (рекомендуется). ";
+$Definition["Add Interest"] = "Добавить интерес";
+$Definition["Adding & Editing Categories"] = "Добавление и редактирование разделов";
+$Definition["Add Item"] = "Добавить запись";
+$Definition["Addons"] = "Дополнения";
+$Definition["Addons Overview"] = "Обзор расширений";
+$Definition["Add Role"] = "Добавить новую группу";
+$Definition["Add rule"] = "Добавить правило";
+$Definition["Add Tag"] = "Добавить тег";
+$Definition["Add Theme"] = "Добавить тему";
+$Definition["Add Token"] = "Добавить токен";
+$Definition["Add User"] = "Добавить пользователя";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
+] =
+    "Добавьте свои собственные домены Kaltura, чтобы преобразовывать ссылки во встроенные видео в обсуждениях, комментариях или статьях.";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
+] =
+    "Добавьте свой собственный домен(ы) Kaltura, чтобы преобразовать ссылки во встроенные видео в сообщениях, комментариях или статьях.";
+$Definition["administrator"] = "администратор";
+$Definition["Advanced"] = "Дополнительно";
+$Definition["Advanced Category Settings"] = "расширенные настройки раздела";
+$Definition["Advanced Editor Settings"] = "Дополнительные настройки редактора";
+$Definition["Advanced Embed Settings"] = "Дополнительные настройки встраивания";
+$Definition["Advanced Forum Settings"] = "Дополнительные настройки форума";
+$Definition["AdvancedNotifications"] = "ДополнительныеУведомления";
+$Definition["Advanced Options"] = "Дополнительные опции";
+$Definition["Advanced Settings"] = "Дополнительные настройки";
+$Definition["Advanced settings for embedded community elements"] =
+    "Дополнительные настройки встраивания элементов сообщества";
+$Definition["After"] = "После";
+$Definition["AI Suggested Answers"] = "Ответы, предложенные ИИ";
+$Definition["AI Suggestions are not enabled"] =
+    "Предложения ИИ не включены";
+$Definition[
+    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
+] =
+    "AI Suggested Answers предлагает предлагаемые ответы на основе сообщений сообщества и связанных баз знаний. Вы можете включить или выключить это в любое время, посетив настройки своего профиля.";
+$Definition[
+    "Alert users if they click a link in a post that will lead them away from the forum. "
+] =
+    "Предупреждать пользователей, если они нажмут ссылку в сообщении, которое уведет их с форума.";
+$Definition["Alive"] = "В живых";
 $Definition['All %1$s'] = 'Все %1$s';
-$Definition['All Time'] = 'Все время';
-$Definition['All Dashboard Pages'] = 'Все страницы консоли';
-$Definition['All discussions in this category will be permanently deleted.'] = 'Все темы в этого раздела будут удалены.';
-$Definition['All Forum Pages'] = 'На всех страницах форума';
-$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Все сообщения пользователя будут заменены сообщением о том, что пользователь удален.';
-$Definition['Allow embedded content'] = 'Разрешить встраиваемый контент';
-$Definition['Allow images'] = 'Разрешить изображения';
-$Definition['Allow new users to be registered through email.'] = 'Разрешить новым пользователям регистрироваться через email.';
-$Definition['Allow this connection to issue API access tokens.'] = 'Разрешить это подключение для выдачи маркеров доступа к API.';
-$Definition['Allow Third-Party Script Execution'] = 'Разрешить выполнение сторонних скриптов';
-$Definition['Allow users to change their own avatars'] = 'Разрешить пользователям изменять свои собственные аватары';
-$Definition['Allow users to dismiss this message'] = 'Разрешить пользователям отклонять это сообщение.';
-$Definition['All Pages'] = 'Все страницы';
-$Definition['All Replies'] = 'Все ответы';
-$Definition['An enabled message will be visible on the site.'] = 'Включенное сообщение будет отображаться на сайте.';
-$Definition['An answer in this the community thread was marked as accepted'] = 'Ответ в этой теме сообщества был отмечен как принятый';
-$Definition['An error occurred updating your privacy setting'] = 'Произошла ошибка при обновлении настроек конфиденциальности';
-$Definition['Anonymize Analytics Data by Default'] = 'Анонимизировать данные Analytics по умолчанию';
-$Definition['Answers is not available if you have not accepted cookies.'] = 'Ответы недоступны, если вы не приняли файлы cookie.';
-$Definition['API'] = 'API';
-$Definition['API Label is required'] = 'Требуется метка API.';
-$Definition['API Name'] = 'Имя API';
-$Definition['API SSO Expand Permission'] = 'Разрешение на расширение API SSO';
-$Definition['API Status'] = 'API статус';
-$Definition['Appearance'] = 'Внешний вид';
-$Definition['Applicant'] = 'Кандидат';
-$Definition['applicant'] = 'заявитель ';
-$Definition['Applicant Role'] = 'Выберите группу для новых кандидатов';
-$Definition['Application'] = 'Приложение';
-$Definition['Application ID'] = 'ID Приложения';
-$Definition['Applications'] = 'Приложения';
-$Definition['Application Secret'] = 'Скрытое приложение';
-$Definition['Applied by Administrator'] = 'Применено администратором ';
-$Definition['Applied Manually'] = 'Применено вручную ';
-$Definition['Applied On'] = 'Дата';
-$Definition['Apply to subcategories'] = 'Применить к подкатегориям';
-$Definition['Approval'] = 'После проверки';
-$Definition['Archive Discussions'] = 'Архив сообщений';
-$Definition['Are you sure you want to delete %s items forever?'] = 'Вы уверены, что хотите навсегда удалить %s сообщений?';
-$Definition['Are you sure you want to delete 1 item forever?'] = 'Вы уверены, что хотите навсегда удалить 1 сообщение?';
-$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Вы уверены, что хотите удалить этот значок? Это необратимо и отзовет значок ото всех пользователей, которые его имеют.';
-$Definition['Are you sure you want to delete this category?'] = 'Вы уверены, что хотите удалить этот раздел?';
-$Definition['Are you sure you want to restore %s items?'] = 'Вы уверены, что хотите восстановить элементы (%s)?';
-$Definition['Are you sure you want to restore 1 item?'] = 'Вы уверены, что хотите восстановить 1 элемент?';
-$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'Вы уверены, что хотите отключить все предлагаемые ответы ИИ? Вы можете отменить это в настройках своего профиля в любое время.';
-$Definition['Assistant Tone of Voice'] = 'Помощник Тона Голоса';
-$Definition['Assistant Icon'] = 'Значок помощника';
-$Definition['Assistant Name'] = 'Имя помощника';
-$Definition['At least one visible column is required. Show or add a visible column.'] = 'Требуется хотя бы один видимый столбец. Показать или добавить видимый столбец.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'URL\'бельные названия разделов для улучшения SEO.';
-$Definition['Automatically Save Drafts'] = 'Автоматически сохранять черновики';
-$Definition['Authors may always edit'] = 'Авторы всегда могут редактировать';
-$Definition['Authors may edit for %s'] = 'Авторы могут редактировать %s';
-$Definition['Authors may never edit'] = 'Авторы не могут редактировать';
-$Definition['Auto-Fetch New Comments'] = 'Автополучение новых комментариев';
-$Definition['Avatar Dimensions'] = 'Размеры аватара';
-$Definition['Avatars'] = 'Аватарки';
+$Definition["All Time"] = "Все время";
+$Definition["All Dashboard Pages"] = "Все страницы консоли";
+$Definition["All discussions in this category will be permanently deleted."] =
+    "Все темы в этого раздела будут удалены.";
+$Definition["All Forum Pages"] = "На всех страницах форума";
+$Definition[
+    "All of the user content will be replaced with a message stating the user has been deleted."
+] =
+    "Все сообщения пользователя будут заменены сообщением о том, что пользователь удален.";
+$Definition["Allow embedded content"] = "Разрешить встраиваемый контент";
+$Definition["Allow images"] = "Разрешить изображения";
+$Definition["Allow new users to be registered through email."] =
+    "Разрешить новым пользователям регистрироваться через email.";
+$Definition["Allow this connection to issue API access tokens."] =
+    "Разрешить это подключение для выдачи маркеров доступа к API.";
+$Definition["Allow Third-Party Script Execution"] =
+    "Разрешить выполнение сторонних скриптов";
+$Definition["Allow users to change their own avatars"] =
+    "Разрешить пользователям изменять свои собственные аватары";
+$Definition["Allow users to dismiss this message"] =
+    "Разрешить пользователям отклонять это сообщение.";
+$Definition["All Pages"] = "Все страницы";
+$Definition["All Replies"] = "Все ответы";
+$Definition["An enabled message will be visible on the site."] =
+    "Включенное сообщение будет отображаться на сайте.";
+$Definition["An answer in this the community thread was marked as accepted"] =
+    "Ответ в этой теме сообщества был отмечен как принятый";
+$Definition["An error occurred updating your privacy setting"] =
+    "Произошла ошибка при обновлении настроек конфиденциальности";
+$Definition["Anonymize Analytics Data by Default"] =
+    "Анонимизировать данные Analytics по умолчанию";
+$Definition["Answers is not available if you have not accepted cookies."] =
+    "Ответы недоступны, если вы не приняли файлы cookie.";
+$Definition["API"] = "API";
+$Definition["API Label is required"] = "Требуется метка API.";
+$Definition["API Name"] = "Имя API";
+$Definition["API SSO Expand Permission"] = "Разрешение на расширение API SSO";
+$Definition["API Status"] = "API статус";
+$Definition["Appearance"] = "Внешний вид";
+$Definition["Applicant"] = "Кандидат";
+$Definition["applicant"] = "заявитель ";
+$Definition["Applicant Role"] =
+    "Выберите группу для новых кандидатов";
+$Definition["Application"] = "Приложение";
+$Definition["Application ID"] = "ID Приложения";
+$Definition["Applications"] = "Приложения";
+$Definition["Application Secret"] = "Скрытое приложение";
+$Definition["Applied by Administrator"] = "Применено администратором ";
+$Definition["Applied Manually"] = "Применено вручную ";
+$Definition["Applied On"] = "Дата";
+$Definition["Apply to subcategories"] = "Применить к подкатегориям";
+$Definition["Approval"] = "После проверки";
+$Definition["Archive Discussions"] = "Архив сообщений";
+$Definition["Are you sure you want to delete %s items forever?"] =
+    "Вы уверены, что хотите навсегда удалить %s сообщений?";
+$Definition["Are you sure you want to delete 1 item forever?"] =
+    "Вы уверены, что хотите навсегда удалить 1 сообщение?";
+$Definition[
+    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
+] =
+    "Вы уверены, что хотите удалить этот значок? Это необратимо и отзовет значок ото всех пользователей, которые его имеют.";
+$Definition["Are you sure you want to delete this category?"] =
+    "Вы уверены, что хотите удалить этот раздел?";
+$Definition["Are you sure you want to restore %s items?"] =
+    "Вы уверены, что хотите восстановить элементы (%s)?";
+$Definition["Are you sure you want to restore 1 item?"] =
+    "Вы уверены, что хотите восстановить 1 элемент?";
+$Definition[
+    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
+] =
+    "Вы уверены, что хотите отключить все предлагаемые ответы ИИ? Вы можете отменить это в настройках своего профиля в любое время.";
+$Definition["Assistant Tone of Voice"] = "Помощник Тона Голоса";
+$Definition["Assistant Icon"] = "Значок помощника";
+$Definition["Assistant Name"] = "Имя помощника";
+$Definition[
+    "At least one visible column is required. Show or add a visible column."
+] = "Требуется хотя бы один видимый столбец. Показать или добавить видимый столбец.";
+$Definition["A url-friendly version of the category name for better SEO."] =
+    "URL'бельные названия разделов для улучшения SEO.";
+$Definition["Automatically Save Drafts"] = "Автоматически сохранять черновики";
+$Definition["Authors may always edit"] = "Авторы всегда могут редактировать";
+$Definition["Authors may edit for %s"] = "Авторы могут редактировать %s";
+$Definition["Authors may never edit"] = "Авторы не могут редактировать";
+$Definition["Auto-Fetch New Comments"] = "Автополучение новых комментариев";
+$Definition["Avatar Dimensions"] = "Размеры аватара";
+$Definition["Avatars"] = "Аватарки";
 
-$Definition['Background Color'] = 'Цвет фона';
-$Definition['Back to all users'] = 'Назад к пользователям';
-$Definition['Back to Mobile Site'] = 'Назад на мобильную версию';
-$Definition['Badge cannot be deleted.'] = 'Значок не может быть удален.';
-$Definition['Badge Class'] = 'Класс значка';
-$Definition['Badge Class Level'] = 'Уровень класса значка';
-$Definition['Badge deleted.'] = 'Значок удалён.';
-$Definition['Badge Name'] = 'Имя';
-$Definition['BadgeRecipientsHeading'] = 'Последние получатели';
-$Definition['BadgeRequestColumnLabel'] = 'Запрос';
-$Definition['Badge Requests'] = 'Запросы на значки';
-$Definition['Badge requests'] = 'Запросы на значки';
-$Definition['Balanced'] = 'Сбалансированный';
-$Definition['Ban Item'] = 'Сообщение';
-$Definition['Ban List'] = 'Бан-лист';
-$Definition['Banner'] = 'Баннер';
-$Definition['Banner Logo'] = 'Лого баннера ';
-$Definition['Banner Title'] = 'Заголовок баннера';
-$Definition['Banner Search Box'] = 'Поле поиска баннера';
-$Definition['Banning'] = 'Баны';
-$Definition['Banning Options'] = 'Настройки бана';
-$Definition['Ban Rule'] = 'Правила запрета';
-$Definition['Ban Rules'] = 'Правила запрета';
-$Definition['Ban Type'] = 'Тип';
-$Definition['Basic Information'] = 'Основная информация';
-$Definition['Before'] = 'До';
-$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'Прежде чем активировать эту функцию, обратите внимание на следующие возможные последствия:';
-$Definition['Begin At'] = 'Начните в';
-$Definition['Below Sidebar'] = 'Под боковой панелью';
-$Definition['Blocked'] = 'Заблокированно';
-$Definition['Blog Comments'] = 'Комментарии блога';
-$Definition['Bookmark a discussion using its star icon.'] = 'Добавьте дискуссию в закладки, используя эту иконку звездочки.';
-$Definition['Browse Addons'] = 'Все дополнения';
-$Definition['Browser Compatibility:'] = 'Совместимость браузера:';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'Просто укажите новый баннер, если вы хотите сменить текущий:';
-$Definition['Button Background Color'] = 'Кнопка цвета фона';
-$Definition['Button Text Color'] = 'Кнопка цвета текста';
+$Definition["Background Color"] = "Цвет фона";
+$Definition["Back to all users"] = "Назад к пользователям";
+$Definition["Back to Mobile Site"] = "Назад на мобильную версию";
+$Definition["Badge cannot be deleted."] = "Значок не может быть удален.";
+$Definition["Badge Class"] = "Класс значка";
+$Definition["Badge Class Level"] = "Уровень класса значка";
+$Definition["Badge deleted."] = "Значок удалён.";
+$Definition["Badge Name"] = "Имя";
+$Definition["BadgeRecipientsHeading"] = "Последние получатели";
+$Definition["BadgeRequestColumnLabel"] = "Запрос";
+$Definition["Badge Requests"] = "Запросы на значки";
+$Definition["Badge requests"] = "Запросы на значки";
+$Definition["Balanced"] = "Сбалансированный";
+$Definition["Ban Item"] = "Сообщение";
+$Definition["Ban List"] = "Бан-лист";
+$Definition["Banner"] = "Баннер";
+$Definition["Banner Logo"] = "Лого баннера ";
+$Definition["Banner Title"] = "Заголовок баннера";
+$Definition["Banner Search Box"] = "Поле поиска баннера";
+$Definition["Banning"] = "Баны";
+$Definition["Banning Options"] = "Настройки бана";
+$Definition["Ban Rule"] = "Правила запрета";
+$Definition["Ban Rules"] = "Правила запрета";
+$Definition["Ban Type"] = "Тип";
+$Definition["Basic Information"] = "Основная информация";
+$Definition["Before"] = "До";
+$Definition[
+    "Before activating this feature, please be aware of the following potential implications:"
+] =
+    "Прежде чем активировать эту функцию, обратите внимание на следующие возможные последствия:";
+$Definition["Begin At"] = "Начните в";
+$Definition["Below Sidebar"] = "Под боковой панелью";
+$Definition["Blocked"] = "Заблокированно";
+$Definition["Blog Comments"] = "Комментарии блога";
+$Definition["Bookmark a discussion using its star icon."] =
+    "Добавьте дискуссию в закладки, используя эту иконку звездочки.";
+$Definition["Browse Addons"] = "Все дополнения";
+$Definition["Browser Compatibility:"] = "Совместимость браузера:";
+$Definition["Browse for a new banner logo if you would like to change it:"] =
+    "Просто укажите новый баннер, если вы хотите сменить текущий:";
+$Definition["Button Background Color"] = "Кнопка цвета фона";
+$Definition["Button Text Color"] = "Кнопка цвета текста";
 
-$Definition['Cannot build profile information if user is not defined.'] = 'Невозможно показать данные учетной записи, если пользователь не определен.';
-$Definition['Categories &amp; Discussions'] = 'Разделы и обсуждения';
-$Definition['Categories to Exclude from AI Answers'] = 'Категории, которые следует исключить из ответов ИИ';
-$Definition['Categories are used to organize discussions.'] = 'Разделы нужны, чтобы помочь вашим пользователям организовывать обсуждения эффективным для вашего сообщества образом.';
-$Definition['Categories are used to organize posts.'] = 'Категории используются для того, чтобы помочь вашим пользователям организовать свои сообщения таким образом, чтобы это было полезно для вашего сообщества.';
-$Definition['Categories allow you to organize your posts.'] = 'Категории позволяют вам организовывать ваши сообщения.';
-$Definition['Categories Layout'] = 'Вид разделов';
-$Definition['Category Following'] = 'Следование разделов';
-$Definition['Category Page Layout'] = 'Вид страницы разделов';
-$Definition['Category Url:'] = 'URL адрес:';
-$Definition['Censored Words'] = 'Нецензурные слова';
-$Definition['Change Log'] = 'Журнал изменений';
-$Definition['Change the look of All Categories'] = 'Вы можете изменить внешний вид <b>Всех разделов</b> <a href="%s">здесь</a>.';
-$Definition['Change the way that new users register with the site.'] = 'На этой странице вы можете изменить настройки регистрации новых пользователей.';
-$Definition['Change your banner'] = 'Измените ваш баннер';
-$Definition['Changing the Discussions Menu Link'] = 'Изменение ссылки меню дискуссий';
-$Definition['Check all permissions that apply for each role'] = 'Проверьте права доступа, которые применяются в каждой группе.';
-$Definition['Check all permissions that apply to this role:'] = 'Проверьте права доступа, которые относятся к этой группе:';
-$Definition['Check out my new community!'] = 'Оцените мое новое сообщество!';
-$Definition['Check out the full list of video tutorials here.'] = 'Посмотрите на полный список видео-уроков здесь.';
+$Definition["Cannot build profile information if user is not defined."] =
+    "Невозможно показать данные учетной записи, если пользователь не определен.";
+$Definition["Categories &amp; Discussions"] = "Разделы и обсуждения";
+$Definition["Categories to Exclude from AI Answers"] =
+    "Категории, которые следует исключить из ответов ИИ";
+$Definition["Categories are used to organize discussions."] =
+    "Разделы нужны, чтобы помочь вашим пользователям организовывать обсуждения эффективным для вашего сообщества образом.";
+$Definition["Categories are used to organize posts."] =
+    "Категории используются для того, чтобы помочь вашим пользователям организовать свои сообщения таким образом, чтобы это было полезно для вашего сообщества.";
+$Definition["Categories allow you to organize your posts."] =
+    "Категории позволяют вам организовывать ваши сообщения.";
+$Definition["Categories Layout"] = "Вид разделов";
+$Definition["Category Following"] = "Следование разделов";
+$Definition["Category Page Layout"] = "Вид страницы разделов";
+$Definition["Category Url:"] = "URL адрес:";
+$Definition["Censored Words"] = "Нецензурные слова";
+$Definition["Change Log"] = "Журнал изменений";
+$Definition["Change the look of All Categories"] =
+    'Вы можете изменить внешний вид <b>Всех разделов</b> <a href="%s">здесь</a>.';
+$Definition["Change the way that new users register with the site."] =
+    "На этой странице вы можете изменить настройки регистрации новых пользователей.";
+$Definition["Change your banner"] = "Измените ваш баннер";
+$Definition["Changing the Discussions Menu Link"] =
+    "Изменение ссылки меню дискуссий";
+$Definition["Check all permissions that apply for each role"] =
+    "Проверьте права доступа, которые применяются в каждой группе.";
+$Definition["Check all permissions that apply to this role:"] =
+    "Проверьте права доступа, которые относятся к этой группе:";
+$Definition["Check out my new community!"] = "Оцените мое новое сообщество!";
+$Definition["Check out the full list of video tutorials here."] =
+    "Посмотрите на полный список видео-уроков здесь.";
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Здравствуйте, Друг!
 
 Взгляните на только что созданный мной новый форум сообщества. Это замечательное место, где мы можем общаться друг с другом онлайн.';
 
-$Definition['Choose a locale pack'] = 'Выберите локализацию';
-$Definition['Choose Avatar'] = 'Выбрать изображение';
-$Definition['Choose the preferred layout for the categories page.'] = 'Выберите предпочтительный вид страницы разделов.';
-$Definition['Choose the preferred layout for the discussions page.'] = 'Выберите предпочтительный вид страницы дискуссий.';
-$Definition['Choose who can send out invitations to new members:'] = 'Укажите, кто может приглашать новых пользователей:';
-$Definition['Choose how many records to display.'] = 'Выберите, сколько записей нужно отображать.';
-$Definition['Choose when to load records from.'] = 'Выберите, когда загружать записи.';
-$Definition['Class'] = 'Класс';
-$Definition['Clear All'] = 'Очистить все';
-$Definition['Classic table layout used by traditional forums'] = 'Классический табличный вид, как в традиционных форумах';
-$Definition['Clean Spam'] = 'Удалить спам';
-$Definition['Click a tag name to edit. Click x to remove.'] = 'Нажмите на имя тэга для редактирования. Кликните на x для удаления.';
-$Definition['Click here to apply it.'] = 'Нажмите здесь для подтверждения';
-$Definition['Click here to carry on.'] = 'Нажмите здесь, чтобы продолжить.';
-$Definition['Click here to carry on to your dashboard'] = 'Нажмите для перехода к панели управления сайтом';
-$Definition['Client ID'] = 'ID клиента';
-$Definition['Colored'] = 'Цветной';
-$Definition['Column Display Settings'] = 'Настройки отображения столбца';
-$Definition['comment(s)'] = 'комментарий(и)';
-$Definition['Comment  Body'] = 'Основное поле комментария';
-$Definition['Comment Count'] = 'Количество комментариев';
-$Definition['Comment Settings'] = 'Настройки комментариев';
-$Definition['Comments Page'] = 'Страница комментариев';
-$Definition['Comments per Page'] = 'Комментариев на странице';
-$Definition['Comment  Subject'] = 'Заголовок комментария';
-$Definition['Community Discussion Categories'] = 'Категории обсуждения сообщества';
-$Definition['Community Member Content'] = 'Контент участника сообщества';
-$Definition['Condition'] = 'Состояние';
-$Definition['Condition Expression'] = 'Значение';
-$Definition['Condition Field'] = 'Поле';
-$Definition['Conditions'] = 'Условия';
-$Definition['Condition Type'] = 'Тип';
-$Definition['Configure an Authenticator'] = 'Настройки авторизации';
-$Definition['Configuration settings for password fields in Vanilla'] = 'Настройки конфигурации для полей пароля в Vanilla';
-$Definition['Configure custom Kaltura domains'] = 'Настроить собственные домены Kaltura';
-$Definition['Configure how nested categories are displayed to users.'] = 'Настройте количество вложенных разделов, видимых пользователям';
-$Definition['Configuring Vanilla\'s Homepage'] = 'Настройте домашнюю страницу сайта';
-$Definition['Confirmation  Body'] = 'Подтверждение основное поле сообщения';
-$Definition['Confirm email addresses'] = 'Запрашивать у пользователей подтверждение по email (рекомендуется)';
-$Definition['Connections'] = 'Подключения';
-$Definition['Consumer Key'] = 'Ключ пользователя';
-$Definition['Consumer Secret'] = 'Секретный ключ потребителя';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'Обратитесь в Vanilla Staff, чтобы включить конфигурацию сайта Q&A. Затем включите надстройку Q&A в разделе Addons на панели управления.';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'Обратитесь в Vanilla Staff, чтобы включить конфигурацию сайта Q&A. Затем включите надстройку Q&A в разделе <0/> панели управления.';
-$Definition['Content Curation'] = 'Курирование контента';
-$Definition['Content flagged as spam is stored here for moderator review.'] = 'Отмеченный как спам контент собран здесь для проверки модератором.';
-$Definition['Content Flagging'] = 'Отмеченный контент';
-$Definition['Content Security Domains'] = 'Домены безопасности контента';
-$Definition['Content to Suggest'] = 'Содержание для предложения';
-$Definition['Continue Replying'] = 'Продолжить отвечать';
-$Definition['Conversation Messages'] = 'Сообщения диалога';
-$Definition['Conversations'] = 'Сообщения';
-$Definition['Conversations Setup'] = 'Установки сообщений';
-$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'Могут возникнуть уязвимости, такие как межсайтовый скриптинг (XSS), если исходные скрипты будут скомпрометированы.';
-$Definition['Could not find a theme identified by \'%s\''] = 'Не удалось найти тему, определенную как \'%s\'';
-$Definition['Could not instantiate mail function.'] = 'Не удалось воспользоваться функцией почты.';
-$Definition['Could not link the addon.'] = 'Не удалось связать дополнение.';
-$Definition['Could not open %s.'] = 'Не удалось открыть %s.';
-$Definition['Could not open addon file. Addons must be zip files.'] = 'Не удалось открыть файл дополнения. Дополнения должны быть упакованы в zip-архив.';
-$Definition['Create & organize discussion categories and manage your users.'] = 'Создай и организуй разделы дискуссий и управляй своими пользователями. ';
-$Definition['Created new badge'] = 'Создать новый значок';
-$Definition['Create Zoom Meeting'] = 'Создать конференцию Zoom';
-$Definition['CreateFile'] = 'Создать';
-$Definition['Criteria'] = 'Критерии';
-$Definition['CSS'] = 'CSS';
-$Definition['CssClass'] = 'Класс CSS';
-$Definition['Current Authenticator'] = 'Активный метод авторизации';
-$Definition['Current File:'] = 'Текущий файл:';
-$Definition['Current Mobile Theme'] = 'Текущая мобильная тема';
-$Definition['Current Theme'] = 'Используемая тема';
-$Definition['Custom Themes'] = 'Пользовательские темы';
-$Definition['Customize AI Persona'] = 'Настройте личность ИИ';
-$Definition['Custom Recent Posts Layouts'] = 'Пользовательские макеты последних сообщений';
+$Definition["Choose a locale pack"] = "Выберите локализацию";
+$Definition["Choose Avatar"] = "Выбрать изображение";
+$Definition["Choose the preferred layout for the categories page."] =
+    "Выберите предпочтительный вид страницы разделов.";
+$Definition["Choose the preferred layout for the discussions page."] =
+    "Выберите предпочтительный вид страницы дискуссий.";
+$Definition["Choose who can send out invitations to new members:"] =
+    "Укажите, кто может приглашать новых пользователей:";
+$Definition["Choose how many records to display."] =
+    "Выберите, сколько записей нужно отображать.";
+$Definition["Choose when to load records from."] =
+    "Выберите, когда загружать записи.";
+$Definition["Class"] = "Класс";
+$Definition["Clear All"] = "Очистить все";
+$Definition["Classic table layout used by traditional forums"] =
+    "Классический табличный вид, как в традиционных форумах";
+$Definition["Clean Spam"] = "Удалить спам";
+$Definition["Click a tag name to edit. Click x to remove."] =
+    "Нажмите на имя тэга для редактирования. Кликните на x для удаления.";
+$Definition["Click here to apply it."] = "Нажмите здесь для подтверждения";
+$Definition["Click here to carry on."] = "Нажмите здесь, чтобы продолжить.";
+$Definition["Click here to carry on to your dashboard"] =
+    "Нажмите для перехода к панели управления сайтом";
+$Definition["Client ID"] = "ID клиента";
+$Definition["Colored"] = "Цветной";
+$Definition["Column Display Settings"] = "Настройки отображения столбца";
+$Definition["comment(s)"] = "комментарий(и)";
+$Definition["Comment  Body"] = "Основное поле комментария";
+$Definition["Comment Count"] = "Количество комментариев";
+$Definition["Comment Settings"] = "Настройки комментариев";
+$Definition["Comments Page"] = "Страница комментариев";
+$Definition["Comments per Page"] = "Комментариев на странице";
+$Definition["Comment  Subject"] = "Заголовок комментария";
+$Definition["Community Discussion Categories"] =
+    "Категории обсуждения сообщества";
+$Definition["Community Member Content"] = "Контент участника сообщества";
+$Definition["Condition"] = "Состояние";
+$Definition["Condition Expression"] = "Значение";
+$Definition["Condition Field"] = "Поле";
+$Definition["Conditions"] = "Условия";
+$Definition["Condition Type"] = "Тип";
+$Definition["Configure an Authenticator"] = "Настройки авторизации";
+$Definition["Configuration settings for password fields in Vanilla"] =
+    "Настройки конфигурации для полей пароля в Vanilla";
+$Definition["Configure custom Kaltura domains"] =
+    "Настроить собственные домены Kaltura";
+$Definition["Configure how nested categories are displayed to users."] =
+    "Настройте количество вложенных разделов, видимых пользователям";
+$Definition['Configuring Vanilla\'s Homepage'] =
+    'Настройте домашнюю страницу сайта';
+$Definition["Confirmation  Body"] = "Подтверждение основное поле сообщения";
+$Definition["Confirm email addresses"] =
+    "Запрашивать у пользователей подтверждение по email (рекомендуется)";
+$Definition["Connections"] = "Подключения";
+$Definition["Consumer Key"] = "Ключ пользователя";
+$Definition["Consumer Secret"] = "Секретный ключ потребителя";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
+] =
+    "Обратитесь в Vanilla Staff, чтобы включить конфигурацию сайта Q&A. Затем включите надстройку Q&A в разделе Addons на панели управления.";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
+] =
+    "Обратитесь в Vanilla Staff, чтобы включить конфигурацию сайта Q&A. Затем включите надстройку Q&A в разделе <0/> панели управления.";
+$Definition["Content Curation"] = "Курирование контента";
+$Definition["Content flagged as spam is stored here for moderator review."] =
+    "Отмеченный как спам контент собран здесь для проверки модератором.";
+$Definition["Content Flagging"] = "Отмеченный контент";
+$Definition["Content Security Domains"] = "Домены безопасности контента";
+$Definition["Content to Suggest"] = "Содержание для предложения";
+$Definition["Continue Replying"] = "Продолжить отвечать";
+$Definition["Conversation Messages"] = "Сообщения диалога";
+$Definition["Conversations"] = "Сообщения";
+$Definition["Conversations Setup"] = "Установки сообщений";
+$Definition[
+    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
+] =
+    "Могут возникнуть уязвимости, такие как межсайтовый скриптинг (XSS), если исходные скрипты будут скомпрометированы.";
+$Definition['Could not find a theme identified by \'%s\''] =
+    'Не удалось найти тему, определенную как \'%s\'';
+$Definition["Could not instantiate mail function."] =
+    "Не удалось воспользоваться функцией почты.";
+$Definition["Could not link the addon."] = "Не удалось связать дополнение.";
+$Definition["Could not open %s."] = "Не удалось открыть %s.";
+$Definition["Could not open addon file. Addons must be zip files."] =
+    "Не удалось открыть файл дополнения. Дополнения должны быть упакованы в zip-архив.";
+$Definition["Create & organize discussion categories and manage your users."] =
+    "Создай и организуй разделы дискуссий и управляй своими пользователями. ";
+$Definition["Created new badge"] = "Создать новый значок";
+$Definition["Create Zoom Meeting"] = "Создать конференцию Zoom";
+$Definition["CreateFile"] = "Создать";
+$Definition["Criteria"] = "Критерии";
+$Definition["CSS"] = "CSS";
+$Definition["CssClass"] = "Класс CSS";
+$Definition["Current Authenticator"] = "Активный метод авторизации";
+$Definition["Current File:"] = "Текущий файл:";
+$Definition["Current Mobile Theme"] = "Текущая мобильная тема";
+$Definition["Current Theme"] = "Используемая тема";
+$Definition["Custom Themes"] = "Пользовательские темы";
+$Definition["Customize AI Persona"] = "Настройте личность ИИ";
+$Definition["Custom Recent Posts Layouts"] = "Пользовательские макеты последних сообщений";
 
-$Definition['Database Structure Upgrades'] = 'Обновление структуры базы данных';
-$Definition['Date From'] = 'Дата от';
-$Definition['Date To'] = 'Дата до';
-$Definition['Debugger'] = 'Отладчик';
-$Definition['Debug Information'] = 'Отладочная информация';
-$Definition['Decline'] = 'Отклонить';
-$Definition['Default (%s)'] = 'По умолчанию (%s)';
-$Definition['Default <0/>'] = 'По умолчанию <0/>
-';
-$Definition['Default %s Permissions'] = '%s - права по умолчанию';
-$Definition['Default  Category'] = 'Раздел по умолчанию';
-$Definition['Default Category Permissions'] = 'Стардартные разрешения раздела';
-$Definition['Default Followed Categories'] = 'Отслеживаемые категории по умолчанию';
-$Definition['Default Interests Only'] = 'Только интересы по умолчанию';
-$Definition['Default Locale'] = 'Язык по-умолчанию';
-$Definition['Default Roles'] = 'Группа для новых пользователей по умолчанию';
-$Definition['default type'] = 'по умолчанию';
-$Definition['Default Type'] = 'Тип по умолчанию';
-$Definition['Define your forum homepage'] = 'Назначь главную страницу для форума';
-$Definition['Delete Badge'] = 'Удалить значок';
-$Definition['Delete Category'] = 'Удалить раздел';
-$Definition['Delete moderation information'] = 'Удалить информацию о модерации';
-$Definition['Delete Role'] = 'Удалить роль';
+$Definition["Database Structure Upgrades"] = "Обновление структуры базы данных";
+$Definition["Date From"] = "Дата от";
+$Definition["Date To"] = "Дата до";
+$Definition["Debugger"] = "Отладчик";
+$Definition["Debug Information"] = "Отладочная информация";
+$Definition["Decline"] = "Отклонить";
+$Definition["Default (%s)"] = "По умолчанию (%s)";
+$Definition["Default <0/>"] = "По умолчанию <0/>
+";
+$Definition["Default %s Permissions"] = "%s - права по умолчанию";
+$Definition["Default  Category"] = "Раздел по умолчанию";
+$Definition["Default Category Permissions"] = "Стардартные разрешения раздела";
+$Definition["Default Followed Categories"] = "Отслеживаемые категории по умолчанию";
+$Definition["Default Interests Only"] = "Только интересы по умолчанию";
+$Definition["Default Locale"] = "Язык по-умолчанию";
+$Definition["Default Roles"] = "Группа для новых пользователей по умолчанию";
+$Definition["default type"] = "по умолчанию";
+$Definition["Default Type"] = "Тип по умолчанию";
+$Definition["Define your forum homepage"] = "Назначь главную страницу для форума";
+$Definition["Delete Badge"] = "Удалить значок";
+$Definition["Delete Category"] = "Удалить раздел";
+$Definition["Delete moderation information"] = "Удалить информацию о модерации";
+$Definition["Delete Role"] = "Удалить роль";
 $Definition["Delete Theme"] = "Удалить тему";
-$Definition['Delete User'] = 'Удалить пользователя';
-$Definition['Delete User: %s'] = 'Удалить пользователя: %s';
-$Definition['Deleting category...'] = 'Удаление раздела...';
-$Definition['Deleting role...'] = 'Удаление роли ...';
-$Definition['Delivery Date'] = 'Дата доставки';
-$Definition['Description'] = 'Описание';
-$Definition['Desktop Themes'] = 'Темы рабочего стола';
-$Definition['Did You Know?'] = 'А вы знаете?';
-$Definition['Disable'] = 'Выключить';
-$Definition['Disable Content Flagging'] = 'Выключить упрёки контента';
-$Definition['Disabled'] = 'Выключено';
+$Definition["Delete User"] = "Удалить пользователя";
+$Definition["Delete User: %s"] = "Удалить пользователя: %s";
+$Definition["Deleting category..."] = "Удаление раздела...";
+$Definition["Deleting role..."] = "Удаление роли ...";
+$Definition["Delivery Date"] = "Дата доставки";
+$Definition["Description"] = "Описание";
+$Definition["Desktop Themes"] = "Темы рабочего стола";
+$Definition["Did You Know?"] = "А вы знаете?";
+$Definition["Disable"] = "Выключить";
+$Definition["Disable Content Flagging"] = "Выключить упрёки контента";
+$Definition["Disabled"] = "Выключено";
 $Definition['Disabled %1$s'] = 'Неактивные %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Отключено: Карман <b>не</b> будет отображаться.';
-$Definition['Disable Signatures'] = 'Отключить подписи';
-$Definition['Disable Tagging'] = 'Выключить теги';
-$Definition['Discard Reply'] = 'Отменить ответ';
-$Definition['Discussion & Comment Editing'] = 'Правка дискуссий и комментариев';
-$Definition['Post & Comment Editing'] = 'Редактирование постов и комментариев';
-$Definition['Discussions'] = 'Дискуссии';
-$Definition['discussion(s)'] = 'Дискуссия(и)';
-$Definition['Discussion  Body'] = 'Тело дискуссии';
-$Definition['Discussions Layout'] = 'Вид дискуссий';
-$Definition['Discussions per Page'] = 'Дискуссий на странице';
-$Definition['Posts per Page'] = 'Сообщений на страницу';
-$Definition['Discussion  Subject'] = 'Предмет дискуссии';
-$Definition['Dismissable'] = 'Отклоняемо';
-$Definition['Dismiss Answer'] = 'Отклонить ответ';
-$Definition['Display content from followed categories'] = 'Отображение контента из отслеживаемых категорий';
-$Definition['Display in dashboard. (not recommended)'] = 'Показывать в консоли (не рекомендуется).';
-$Definition['Display Open Cases in Profile Page?'] = 'Отображать открытые обращения на странице профиля?';
-$Definition['Display Options'] = 'Параметры отображения';
-$Definition['Display records from this subcommunity'] = 'Показать записи из этого подсообщества';
-$Definition['Display root categories as headings.'] = 'Показывать главные разделы как заголовки.';
-$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Отображает на видном месте баннерное изображение брендированной страницы во всей теме.';
-$Definition['Display a searchbox on top of the banner image.'] = 'Отображать поле поиска сверху от баннерного изображения.';
-$Definition['Display records from this category.'] = 'Показать записи из этой категории.';
-$Definition['Display records from this subcommunity.'] = 'Показать записи из этого подсообщества.';
-$Definition['Don\'t display for embedded comments.'] = 'Не отображать встраиваемые комментарии.';
+$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
+    "Отключено: Карман <b>не</b> будет отображаться.";
+$Definition["Disable Signatures"] = "Отключить подписи";
+$Definition["Disable Tagging"] = "Выключить теги";
+$Definition["Discard Reply"] = "Отменить ответ";
+$Definition["Discussion & Comment Editing"] = "Правка дискуссий и комментариев";
+$Definition["Post & Comment Editing"] = "Редактирование постов и комментариев";
+$Definition["Discussions"] = "Дискуссии";
+$Definition["discussion(s)"] = "Дискуссия(и)";
+$Definition["Discussion  Body"] = "Тело дискуссии";
+$Definition["Discussions Layout"] = "Вид дискуссий";
+$Definition["Discussions per Page"] = "Дискуссий на странице";
+$Definition["Posts per Page"] = "Сообщений на страницу";
+$Definition["Discussion  Subject"] = "Предмет дискуссии";
+$Definition["Dismissable"] = "Отклоняемо";
+$Definition["Dismiss Answer"] = "Отклонить ответ";
+$Definition["Display content from followed categories"] =
+    "Отображение контента из отслеживаемых категорий";
+$Definition["Display in dashboard. (not recommended)"] =
+    "Показывать в консоли (не рекомендуется).";
+$Definition["Display Open Cases in Profile Page?"] =
+    "Отображать открытые обращения на странице профиля?";
+$Definition["Display Options"] = "Параметры отображения";
+$Definition["Display records from this subcommunity"] =
+    "Показать записи из этого подсообщества";
+$Definition["Display root categories as headings."] =
+    "Показывать главные разделы как заголовки.";
+$Definition[
+    "Displays the banner image form the branding page prominently throughout the theme."
+] =
+    "Отображает на видном месте баннерное изображение брендированной страницы во всей теме.";
+$Definition["Display a searchbox on top of the banner image."] =
+    "Отображать поле поиска сверху от баннерного изображения.";
+$Definition["Display records from this category."] =
+    "Показать записи из этой категории.";
+$Definition["Display records from this subcommunity."] =
+    "Показать записи из этого подсообщества.";
+$Definition['Don\'t display for embedded comments.'] =
+    'Не отображать встраиваемые комментарии.';
 $Definition['Don\'t Refresh'] = 'Не обновлять';
 $Definition['Don\'t use Categories'] = 'Не использовать разделы';
-$Definition['Do not display the categories in the side panel.'] = 'Не показывать список разделов в сайдбаре.';
-$Definition['Download Locale List'] = 'Скачать список локалей';
-$Definition['DownloadLocalePack'] = 'Загрузить';
-$Definition['Download Locale Pack'] = 'Скачать пакет локализации';
+$Definition["Do not display the categories in the side panel."] =
+    "Не показывать список разделов в сайдбаре.";
+$Definition["Download Locale List"] = "Скачать список локалей";
+$Definition["DownloadLocalePack"] = "Загрузить";
+$Definition["Download Locale Pack"] = "Скачать пакет локализации";
 
-$Definition['Edit/Delete Log'] = 'Лог редактирования';
-$Definition['Edit Category'] = 'Редактировать раздел';
-$Definition['Edit CSS'] = 'Редактировать CSS';
-$Definition['Edit Default Categories'] = 'Изменить категории по умолчанию';
-$Definition['Edit HTML'] = 'Редактировать HTML';
-$Definition['Edit Interest'] = 'Редактировать интерес';
-$Definition['Edit Message'] = 'Редактировать сообщение';
-$Definition['Edit Role'] = 'Редактировать группу';
-$Definition['Edit User'] = 'Редактировать пользователя';
-$Definition['Email Confirmation Role'] = 'Подтверждение прав по email';
-$Definition['Email Digest'] = 'Дайджест электронной почты';
-$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'Виджет подсказки дайджеста электронной почты будет доступен, когда дайджест электронной почты включен.';
-$Definition['Email Digest Logo'] = 'Логотип дайджеста электронной почты';
-$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'Дайджесты по электронной почте будут отправляться в выбранный день каждую неделю. Изменения в установленный день вступят в силу на следующей неделе.';
-$Definition['Email Footer'] = 'Нижний колонтитул электронной почты';
-$Definition['Email Digest Logo'] = 'Логотип дайджеста электронной почты';
-$Definition['Email Styles'] = 'Стили электронной почты';
-$Definition['Embed Comments'] = 'Встраиваемые комментарии';
-$Definition['Embedding'] = 'Встраивание';
-$Definition['Embedding Documentation'] = 'Документы о встраивании';
-$Definition['Embedding is currently DISABLED.'] = 'Встраивание сейчас ОТКЛЮЧЕНО.';
-$Definition['Embedding is currently ENABLED.'] = 'Встраивание сейчас ВКЛЮЧЕНО.';
-$Definition['Embed Forum'] = 'Встраивание форума';
-$Definition['Embed My Forum'] = 'Встроить мой форум';
-$Definition['Embed Modules'] = 'Встаиваемые модули';
-$Definition['Embed modules from your Vanilla forum into your site'] = 'Встраиваемые на внешний сайт модули форума Vanilla';
-$Definition['Embeds'] = 'Встраивает';
-$Definition['Embed Vanilla'] = 'Встроенная Vanilla';
-$Definition['Embed your entire Vanilla forum'] = 'Встроить весь форум Vanilla';
-$Definition['Embed your forum in your web site'] = 'Встраивание форума на ваш сайт';
-$Definition['Enable'] = 'Включить';
-$Definition['Enable/Disable'] = 'Включить/Выключить';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'Включить флажки администратора в дискуссиях и комментариях.';
-$Definition['Enable checkboxes on discussions and comments'] = 'Включить флажки на обсуждениях и комментариях';
+$Definition["Edit/Delete Log"] = "Лог редактирования";
+$Definition["Edit Category"] = "Редактировать раздел";
+$Definition["Edit CSS"] = "Редактировать CSS";
+$Definition["Edit Default Categories"] = "Изменить категории по умолчанию";
+$Definition["Edit HTML"] = "Редактировать HTML";
+$Definition["Edit Interest"] = "Редактировать интерес";
+$Definition["Edit Message"] = "Редактировать сообщение";
+$Definition["Edit Role"] = "Редактировать группу";
+$Definition["Edit User"] = "Редактировать пользователя";
+$Definition["Email Confirmation Role"] = "Подтверждение прав по email";
+$Definition["Email Digest"] = "Дайджест электронной почты";
+$Definition[
+    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
+] =
+    "Виджет подсказки дайджеста электронной почты будет доступен, когда дайджест электронной почты включен.";
+$Definition["Email Digest Logo"] = "Логотип дайджеста электронной почты";
+$Definition[
+    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
+] =
+    "Дайджесты по электронной почте будут отправляться в выбранный день каждую неделю. Изменения в установленный день вступят в силу на следующей неделе.";
+$Definition["Email Footer"] = "Нижний колонтитул электронной почты";
+$Definition["Email Digest Logo"] = "Логотип дайджеста электронной почты";
+$Definition["Email Styles"] = "Стили электронной почты";
+$Definition["Embed Comments"] = "Встраиваемые комментарии";
+$Definition["Embedding"] = "Встраивание";
+$Definition["Embedding Documentation"] = "Документы о встраивании";
+$Definition["Embedding is currently DISABLED."] =
+    "Встраивание сейчас ОТКЛЮЧЕНО.";
+$Definition["Embedding is currently ENABLED."] =
+    "Встраивание сейчас ВКЛЮЧЕНО.";
+$Definition["Embed Forum"] = "Встраивание форума";
+$Definition["Embed My Forum"] = "Встроить мой форум";
+$Definition["Embed Modules"] = "Встаиваемые модули";
+$Definition["Embed modules from your Vanilla forum into your site"] =
+    "Встраиваемые на внешний сайт модули форума Vanilla";
+$Definition["Embeds"] = "Встраивает";
+$Definition["Embed Vanilla"] = "Встроенная Vanilla";
+$Definition["Embed your entire Vanilla forum"] =
+    "Встроить весь форум Vanilla";
+$Definition["Embed your forum in your web site"] =
+    "Встраивание форума на ваш сайт";
+$Definition["Enable"] = "Включить";
+$Definition["Enable/Disable"] = "Включить/Выключить";
+$Definition["Enable admin checkboxes on discussions and comments."] =
+    "Включить флажки администратора в дискуссиях и комментариях.";
+$Definition["Enable checkboxes on discussions and comments"] =
+    "Включить флажки на обсуждениях и комментариях";
 $Definition['Enabled %1$s'] = 'Активные %1$s';
-$Definition['Enabled: The pocket will be displayed.'] = 'Включено: Этот карман будет показан';
-$Definition['Enable HTML emails'] = 'Включить HTML-письма';
-$Definition['Enable embedding to use blog comments.'] = 'Для того чтобы это работало, вам необходимо включить встраивание.';
-$Definition['Enable Image Upload Limit'] = 'Включить лимит загрузки изображений';
-$Definition['Enable link embeds in discussions and comments'] = 'Включить встраивание сылки в обсуждения и комментарии';
-$Definition['Enable link embeds in posts and comments'] = 'Разрешить встраивать ссылки в сообщения и комментарии';
-$Definition['Enable OpenID'] = 'Включить OpenID';
-$Definition['Enable Pocket Locations'] = 'Включить карманные места';
-$Definition['Enable Private Communities'] = 'Включить приватные сообщества';
-$Definition['Enable Product Integration'] = 'Включить интеграцию продукта';
-$Definition['Enable Followup Notifications'] = 'Включить уведомления о последующих действиях';
-$Definition['Enable sending notification emails'] = 'Включить отправку уведомлений по электронной почте';
-$Definition['Enable Tagging'] = 'Включить пометку тегами';
-$Definition['Enable this message'] = 'Включить это сообщение';
-$Definition['Enable this source'] = 'Включить этот источник';
-$Definition['Enable to only show posts from categories a user follows.'] = 'Включите, чтобы отображать сообщения только из категорий, на которые подписан пользователь.';
-$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'Включите, чтобы получить предварительный просмотр нашей новой панели управления пользователями с улучшенным поиском и новыми параметрами конфигурации.';
-$Definition['Enabling a Locale Pack'] = 'Включение пакета локализации';
-$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'Включение этой функции приведет к изменению вашей Политики безопасности контента, чтобы доверять дополнительным сценариям, внедренным в качестве зависимостей вашими пользовательскими сценариями.';
-$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] =
+$Definition["Enabled: The pocket will be displayed."] =
+    "Включено: Этот карман будет показан";
+$Definition["Enable HTML emails"] = "Включить HTML-письма";
+$Definition["Enable embedding to use blog comments."] =
+    "Для того чтобы это работало, вам необходимо включить встраивание.";
+$Definition["Enable Image Upload Limit"] = "Включить лимит загрузки изображений";
+$Definition["Enable link embeds in discussions and comments"] =
+    "Включить встраивание сылки в обсуждения и комментарии";
+$Definition["Enable link embeds in posts and comments"] =
+    "Разрешить встраивать ссылки в сообщения и комментарии";
+$Definition["Enable OpenID"] = "Включить OpenID";
+$Definition["Enable Pocket Locations"] = "Включить карманные места";
+$Definition["Enable Private Communities"] = "Включить приватные сообщества";
+$Definition["Enable Product Integration"] = "Включить интеграцию продукта";
+$Definition["Enable Followup Notifications"] = "Включить уведомления о последующих действиях";
+$Definition["Enable sending notification emails"] =
+    "Включить отправку уведомлений по электронной почте";
+$Definition["Enable Tagging"] = "Включить пометку тегами";
+$Definition["Enable this message"] = "Включить это сообщение";
+$Definition["Enable this source"] = "Включить этот источник";
+$Definition["Enable to only show posts from categories a user follows."] =
+    "Включите, чтобы отображать сообщения только из категорий, на которые подписан пользователь.";
+$Definition[
+    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
+] =
+    "Включите, чтобы получить предварительный просмотр нашей новой панели управления пользователями с улучшенным поиском и новыми параметрами конфигурации.";
+$Definition["Enabling a Locale Pack"] = "Включение пакета локализации";
+$Definition[
+    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
+] =
+    "Включение этой функции приведет к изменению вашей Политики безопасности контента, чтобы доверять дополнительным сценариям, внедренным в качестве зависимостей вашими пользовательскими сценариями.";
+$Definition[
+    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
+] =
     'Включение этой функции приведет к изменению политики безопасности контента (CSP) вашего сайта, чтобы разрешить одобренным сценариям в вашем текущем списке доверенных доменов динамическую загрузку других сценариев. Это добавит директиву «строгого динамического» к вашему CSP, предлагая большую гибкость при включении сторонних содержание.';
-$Definition['Encourage your friends to join your new community!'] = 'Пригласи своих друзей участвовать в обсуждениях на форуме!';
-$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Введите разделенный запятыми список индексов, начиная с 1.';
-$Definition['Enter numbers starting at 1.'] = 'Введите номера, начиная с 1.';
-$Definition['Enter the email address of the person you would like to invite:'] = 'Введите адрес электронной почты человека, которого вы хотели бы пригласить:';
-$Definition['Enter the url to the page you would like to use as your homepage'] = 'Введите URL страницы, которую нужно использовать в качестве домашней страницы';
-$Definition['Enter the url to the page you would like to use as your homepage:'] = 'Введите URL на страницу, которую вы бы хотели использовать в качестве главной страницы:';
-$Definition['Error sending email. Please review the addresses and try again.'] = 'Ошибка отправки письма. Пожалуйста, проверьте адреса и попробуйте еще раз.';
-$Definition['Even More Help?'] = 'Еще больше помощи?';
-$Definition['Event Log'] = 'Журнал событий';
-$Definition['Event Name'] = 'Название события';
-$Definition['Every %s hour'] = 'Каждый час';
-$Definition['Every %s hours'] = 'Каждые %s часа(ов)';
-$Definition['Every %s minute'] = 'Каждую минуту';
-$Definition['Every %s minutes'] = 'Каждые  %s минут(ы)';
-$Definition['Every %s second'] = 'Каждую секунду';
-$Definition['Every %s seconds'] = 'Каждые  %s секунд(ы)';
-$Definition['Every 1 minute'] = 'Каждую минуту';
-$Definition['Every Page'] = 'Каждая страница';
-$Definition['Everything is ok.'] = 'Все в порядке.';
-$Definition['Excerpt Length'] = 'Длина отрывка';
-$Definition['Exclude Categories'] = 'Исключить категории';
-$Definition['Exclude Default Interests'] = 'Исключить проценты по умолчанию';
-$Definition['Exclude these from the source'] = 'Исключить их из источника';
-$Definition['Exclude archived discussions from the discussions list'] = 'Исключить архив дискуссий из списка обсуждений';
-$Definition['Existing members send invitations to new members.'] = 'Зарегистрированные пользователи посылают приглашения новым пользователям.';
-$Definition['Exit Preview'] = 'Покинуть предпросмотр';
-$Definition['Exit'] = 'Выход';
-$Definition['External Search'] = 'Внешний поиск';
-$Definition["External search replaces Vanilla’s out of the box search with a third party search provider of your choice."] = "Внешний поиск заменяет стандартный поиск Vanilla сторонним поисковым провайдером по вашему выбору.";
+$Definition["Encourage your friends to join your new community!"] =
+    "Пригласи своих друзей участвовать в обсуждениях на форуме!";
+$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
+    "Введите разделенный запятыми список индексов, начиная с 1.";
+$Definition["Enter numbers starting at 1."] = "Введите номера, начиная с 1.";
+$Definition["Enter the email address of the person you would like to invite:"] =
+    "Введите адрес электронной почты человека, которого вы хотели бы пригласить:";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage"
+] = "Введите URL страницы, которую нужно использовать в качестве домашней страницы";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage:"
+] = "Введите URL на страницу, которую вы бы хотели использовать в качестве главной страницы:";
+$Definition["Error sending email. Please review the addresses and try again."] =
+    "Ошибка отправки письма. Пожалуйста, проверьте адреса и попробуйте еще раз.";
+$Definition["Even More Help?"] = "Еще больше помощи?";
+$Definition["Event Log"] = "Журнал событий";
+$Definition["Event Name"] = "Название события";
+$Definition["Every %s hour"] = "Каждый час";
+$Definition["Every %s hours"] = "Каждые %s часа(ов)";
+$Definition["Every %s minute"] = "Каждую минуту";
+$Definition["Every %s minutes"] = "Каждые  %s минут(ы)";
+$Definition["Every %s second"] = "Каждую секунду";
+$Definition["Every %s seconds"] = "Каждые  %s секунд(ы)";
+$Definition["Every 1 minute"] = "Каждую минуту";
+$Definition["Every Page"] = "Каждая страница";
+$Definition["Everything is ok."] = "Все в порядке.";
+$Definition["Excerpt Length"] = "Длина отрывка";
+$Definition["Exclude Categories"] = "Исключить категории";
+$Definition["Exclude Default Interests"] = "Исключить проценты по умолчанию";
+$Definition["Exclude these from the source"] = "Исключить их из источника";
+$Definition["Exclude archived discussions from the discussions list"] =
+    "Исключить архив дискуссий из списка обсуждений";
+$Definition["Existing members send invitations to new members."] =
+    "Зарегистрированные пользователи посылают приглашения новым пользователям.";
+$Definition["Exit Preview"] = "Покинуть предпросмотр";
+$Definition["Exit"] = "Выход";
+$Definition["External Search"] = "Внешний поиск";
+$Definition[
+    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
+] =
+    "Внешний поиск заменяет стандартный поиск Vanilla сторонним поисковым провайдером по вашему выбору.";
 
-$Definition['Facebook Connector'] = 'Подключение к Facebook';
-$Definition['Facebook Settings'] = 'Настройки Facebook';
-$Definition['Failure'] = 'Неудача';
-$Definition['Fallback Image'] = 'Резервное изображение';
-$Definition['False'] = 'ЛОЖЬ';
-$Definition['Favicon'] = 'Иконка сайта';
-$Definition['FaviconBrowse'] = 'Укажите новую иконку, если хотите изменить её:';
-$Definition['FaviconDescription'] = "Значок favicon вашего сайта отображается на панели статуса вашего браузера. Он будет масштабирован соответственно. ";
-$Definition['Feature is not configured'] = 'Функция не настроена';
-$Definition['Featured'] = "Рекомендуемые";
-$Definition['Featured Image'] = 'Главное изображение';
-$Definition['FileUpload is currently OFF'] = 'Загрузка файлов в настоящее время ОТКЛЮЧЕНА';
-$Definition['FileUpload is currently ON'] = 'Загрузка файлов в настоящее время ВКЛЮЧЕНА';
-$Definition['Filter'] = 'Фильтр';
-$Definition['Filter By'] = 'Сортировать по';
-$Definition['Filter Results'] = 'Сортировать результаты';
-$Definition['Finished'] = 'Готово';
-$Definition['Fingerprint'] = 'Отпечаток пальца';
-$Definition['First Visit'] = 'Первый визит';
-$Definition['Flagged By'] = 'Отмечено';
-$Definition['Flagged Content'] = 'Помеченный контент';
-$Definition['Flood Control'] = 'Антиспам';
-$Definition['Forbidden words'] = 'Запрещенные слова';
-$Definition['Follow Up Delay'] = 'Отслеживание задержки';
-$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Например, чтобы разрешить yourdomain.com, www.yourdomain.com и help.yourdomain.com, вы должны добавить *.yourdomain.com';
-$Definition['Force the forum to only be accessible through this url'] = 'Принудительно сделать форум доступным через этот URL';
-$Definition['Force your forum to be viewed through the Remote Url'] = 'Принудительно сделать форум просматриваемым через этот URL';
-$Definition['Formats'] = 'Форматы';
-$Definition['Footer'] = 'Нижний колонтитул';
-$Definition['Forum Data'] = 'Данные форума';
-$Definition['Forum Settings'] = 'Настройки форума';
-$Definition['Frequency'] = 'Частота обновлений';
-$Definition['Friendly and Personal'] = 'Дружелюбный и индивидуальный';
-$Definition['From Email Address'] = 'С адреса электронной почты';
-$Definition['From Name'] = 'От имени';
-$Definition['Full post in email notifications'] = 'Полная запись в уведомлениях по электронной почте';
+$Definition["Facebook Connector"] = "Подключение к Facebook";
+$Definition["Facebook Settings"] = "Настройки Facebook";
+$Definition["Failure"] = "Неудача";
+$Definition["Fallback Image"] = "Резервное изображение";
+$Definition["False"] = "ЛОЖЬ";
+$Definition["Favicon"] = "Иконка сайта";
+$Definition["FaviconBrowse"] =
+    "Укажите новую иконку, если хотите изменить её:";
+$Definition["FaviconDescription"] =
+    "Значок favicon вашего сайта отображается на панели статуса вашего браузера. Он будет масштабирован соответственно. ";
+$Definition["Feature is not configured"] = "Функция не настроена";
+$Definition["Featured"] = "Рекомендуемые";
+$Definition["Featured Image"] = "Главное изображение";
+$Definition["FileUpload is currently OFF"] = "Загрузка файлов в настоящее время ОТКЛЮЧЕНА";
+$Definition["FileUpload is currently ON"] = "Загрузка файлов в настоящее время ВКЛЮЧЕНА";
+$Definition["Filter"] = "Фильтр";
+$Definition["Filter By"] = "Сортировать по";
+$Definition["Filter Results"] = "Сортировать результаты";
+$Definition["Finished"] = "Готово";
+$Definition["Fingerprint"] = "Отпечаток пальца";
+$Definition["First Visit"] = "Первый визит";
+$Definition["Flagged By"] = "Отмечено";
+$Definition["Flagged Content"] = "Помеченный контент";
+$Definition["Flood Control"] = "Антиспам";
+$Definition["Forbidden words"] = "Запрещенные слова";
+$Definition["Follow Up Delay"] = "Отслеживание задержки";
+$Definition[
+    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
+] =
+    "Например, чтобы разрешить yourdomain.com, www.yourdomain.com и help.yourdomain.com, вы должны добавить *.yourdomain.com";
+$Definition["Force the forum to only be accessible through this url"] =
+    "Принудительно сделать форум доступным через этот URL";
+$Definition["Force your forum to be viewed through the Remote Url"] =
+    "Принудительно сделать форум просматриваемым через этот URL";
+$Definition["Formats"] = "Форматы";
+$Definition["Footer"] = "Нижний колонтитул";
+$Definition["Forum Data"] = "Данные форума";
+$Definition["Forum Settings"] = "Настройки форума";
+$Definition["Frequency"] = "Частота обновлений";
+$Definition["Friendly and Personal"] = "Дружелюбный и индивидуальный";
+$Definition["From Email Address"] = "С адреса электронной почты";
+$Definition["From Name"] = "От имени";
+$Definition["Full post in email notifications"] =
+    "Полная запись в уведомлениях по электронной почте";
 
-$Definition['Garden'] = 'Garden';
-$Definition['Garden.api.ssoIDPermission.description'] = 'Роли с этим разрешением смогут расширять SSO ID в вызовах API v2.';
-$Definition['Gave badge to users.'] = 'Дал значок пользователям.';
-$Definition['Generate'] = 'Генерировать';
-$Definition['Generate Client ID and Secret'] = 'Создать код клиента и тайн -ую -ое';
-$Definition['Generate import SQL only'] = 'Генерировать только импортный SQL';
-$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'Формирование предложений. Вы получите уведомление, когда они будут готовы для просмотра.';
-$Definition['Get More Applications'] = 'Новые приложения';
-$Definition['Get More Plugins'] = 'Скачать еще плагины';
-$Definition['Get More Themes'] = 'Новые темы';
-$Definition['Getting Started'] = 'Обзорная информация';
-$Definition['Getting Started with Vanilla'] = 'Добро пожаловать в мир Vanilla!';
-$Definition['give'] = 'дать';
-$Definition['Give a Badge'] = 'Дать значок';
-$Definition['Given Indexes'] = 'Выданные индексы';
-$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'Приветствую. Я ваш помощник по предложениям ИИ, здесь, чтобы помочь вам найти соответствующие статьи и посты, чтобы ответить на ваши вопросы. Пожалуйста, не стесняйтесь задавать любые вопросы, которые у вас могут возникнуть.';
-$Definition['guest'] = 'гость';
-$Definition['Guest roles'] = 'Отметить все группы, которые относятся к гостям.';
+$Definition["Garden"] = "Garden";
+$Definition["Garden.api.ssoIDPermission.description"] =
+    "Роли с этим разрешением смогут расширять SSO ID в вызовах API v2.";
+$Definition["Gave badge to users."] = "Дал значок пользователям.";
+$Definition["Generate"] = "Генерировать";
+$Definition["Generate Client ID and Secret"] = "Создать код клиента и тайн -ую -ое";
+$Definition["Generate import SQL only"] = "Генерировать только импортный SQL";
+$Definition[
+    "Generating Suggestions. You will be notified when they are ready for you to review."
+] =
+    "Формирование предложений. Вы получите уведомление, когда они будут готовы для просмотра.";
+$Definition["Get More Applications"] = "Новые приложения";
+$Definition["Get More Plugins"] = "Скачать еще плагины";
+$Definition["Get More Themes"] = "Новые темы";
+$Definition["Getting Started"] = "Обзорная информация";
+$Definition["Getting Started with Vanilla"] = "Добро пожаловать в мир Vanilla!";
+$Definition["give"] = "дать";
+$Definition["Give a Badge"] = "Дать значок";
+$Definition["Given Indexes"] = "Выданные индексы";
+$Definition[
+    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
+] =
+    "Приветствую. Я ваш помощник по предложениям ИИ, здесь, чтобы помочь вам найти соответствующие статьи и посты, чтобы ответить на ваши вопросы. Пожалуйста, не стесняйтесь задавать любые вопросы, которые у вас могут возникнуть.";
+$Definition["guest"] = "гость";
+$Definition["Guest roles"] =
+    "Отметить все группы, которые относятся к гостям.";
 
-$Definition['Hash Algorithm'] = 'Алгоритм хеширования';
-$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} создал аккаунт для {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{ActivityUserID,user} изменил картинку профиля пользователя {RegardingUserID,user}.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} одобрил заявки пользователя {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
-$Definition['Heads up!'] = 'Внимание!';
-$Definition['Heads Up!'] = 'Внимание!';
-$Definition['Header'] = 'Верхний колонтитул';
+$Definition["Hash Algorithm"] = "Алгоритм хеширования";
+$Definition["HeadlineFormat.AddUser"] =
+    "{ActivityUserID,user} создал аккаунт для {RegardingUserID,user}.";
+$Definition["HeadlineFormat.PictureChange"] =
+    "{ActivityUserID,user} изменил картинку профиля пользователя {RegardingUserID,user}.";
+$Definition["HeadlineFormat.RegistrationApproval"] =
+    "{ActivityUserID,user} одобрил заявки пользователя {RegardingUserID,user}.";
+$Definition["HeadlineFormat.Status"] = "{ActivityUserID,user}";
+$Definition["HeadlineFormat.WallPost"] =
+    "{RegardingUserID,you} → {ActivityUserID,you}";
+$Definition["Heads up!"] = "Внимание!";
+$Definition["Heads Up!"] = "Внимание!";
+$Definition["Header"] = "Верхний колонтитул";
 $Definition["Height"] = "Высота";
-$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!']  = 'Привет! Я ваш помощник по предложениям AI, здесь, чтобы помочь вам найти лучшие статьи и посты, чтобы ответить на ваши вопросы. Не стесняйтесь спрашивать что угодно, я здесь, чтобы сделать ваш поиск интересным и информативным!';
-$Definition['Help &amp; Tutorials'] = 'Справка и уроки';
+$Definition[
+    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
+] =
+    "Привет! Я ваш помощник по предложениям AI, здесь, чтобы помочь вам найти лучшие статьи и посты, чтобы ответить на ваши вопросы. Не стесняйтесь спрашивать что угодно, я здесь, чтобы сделать ваш поиск интересным и информативным!";
+$Definition["Help &amp; Tutorials"] = "Справка и уроки";
 $Definition['Here\'s how to get started:'] = 'Приступая к работе:';
-$Definition['Hidden for everything!'] = 'Скрыто везде!';
-$Definition['Hidden for mobile'] = 'Скрыто для мобильных устройств';
-$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'Скрыть обсуждения из недавних обсуждений и виджетов.';
-$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'Скрыть сообщения со страницы последних сообщений и из виджетов.';
-$Definition['Hide Pocket Locations'] = 'Скрыть расположения карманов';
-$Definition['Hide signatures for guests'] = 'Скрыть от гостей подписи';
-$Definition['Hide signatures on embedded comments'] = 'Скрыть подписи во встроенных комментариях';
-$Definition['Hide Suggestions'] = 'Скрыть предложения';
-$Definition['History'] = 'История';
-$Definition['Homepage'] = 'Главная страница';
-$Definition['Homepage Title'] = 'Заголовок домашней страницы';
-$Definition['How the content is going to be filtered.'] = 'Как будет фильтроваться контент.';
-$Definition['How to use themes'] = 'Используй новые темы';
-$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'Однако это сопряжено с повышенной ответственностью за обеспечение безопасности вашего сайта.';
-$Definition['Html'] = 'HTML';
-$Definition['HTML Emails'] = 'HTML Письма';
-$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'Параметры строгой безопасности транспорта HTTP (HSTS) ';
-$Definition['Hot (score + activity)'] = 'Горячий (оценка + активность)';
+$Definition["Hidden for everything!"] = "Скрыто везде!";
+$Definition["Hidden for mobile"] = "Скрыто для мобильных устройств";
+$Definition["Hide discussions from Recent Discussions and Widgets."] =
+    "Скрыть обсуждения из недавних обсуждений и виджетов.";
+$Definition["Hide posts from Recent Posts Page and Widgets."] =
+    "Скрыть сообщения со страницы последних сообщений и из виджетов.";
+$Definition["Hide Pocket Locations"] = "Скрыть расположения карманов";
+$Definition["Hide signatures for guests"] = "Скрыть от гостей подписи";
+$Definition["Hide signatures on embedded comments"] =
+    "Скрыть подписи во встроенных комментариях";
+$Definition["Hide Suggestions"] = "Скрыть предложения";
+$Definition["History"] = "История";
+$Definition["Homepage"] = "Главная страница";
+$Definition["Homepage Title"] = "Заголовок домашней страницы";
+$Definition["How the content is going to be filtered."] =
+    "Как будет фильтроваться контент.";
+$Definition["How to use themes"] = "Используй новые темы";
+$Definition[
+    "However, this comes with increased responsibility to ensure the security of your site."
+] =
+    "Однако это сопряжено с повышенной ответственностью за обеспечение безопасности вашего сайта.";
+$Definition["Html"] = "HTML";
+$Definition["HTML Emails"] = "HTML Письма";
+$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
+    "Параметры строгой безопасности транспорта HTTP (HSTS) ";
+$Definition["Hot (score + activity)"] = "Горячий (оценка + активность)";
 
-$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Если этот параметр включен, полный контент постов будет отправляться пользователям по электронной почте.';
-$Definition['If left empty, Email Logo is used.'] = 'Если оставить пустым, используется логотип электронной почты.';
-$Definition["If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."] = "Если у вас есть ссылка на внутренний документ в 'Ссылке на Условия использования' выше, 'Текст условий использования' будет проигнорирован. Удалите ссылку, если вы хотите использовать этот текст.";
-$Definition['Inbox Page'] = 'Страница входящих сообщений';
-$Definition['Include Child Categories'] = 'Включить дочерние категории';
-$Definition['Include full post in email notifications'] = 'Включить полный пост в уведомления, отправляемые по электронной почте';
-$Definition['Include Featured Images'] = 'Включить избранные изображения';
-$Definition['Include featured images with posts in email digest'] = 'Включайте избранные изображения в публикации в дайджест электронной почты.';
-$Definition['Include internal profile fields'] = 'Включить внутренние поля профиля';
-$Definition['Include private profile fields'] = 'Включить поля личного профиля';
-$Definition['Include Subcategories'] = 'Включить подкатегории';
-$Definition['Include Subdomains'] = 'Включить поддомены';
-$Definition['Increased Security Risks:'] = 'Повышенные риски безопасности:';
-$Definition['Indexes'] = 'Индексы';
-$Definition['Information'] = 'Информация';
-$Definition['Install Vanilla without a .htaccess file.'] = 'Установите Vanilla без файла .htaccess';
-$Definition['Integrate Banner Image'] = 'Интегрировать баннерное изображение';
-$Definition['Interest Name'] = 'Название интереса';
-$Definition['Interests & Suggested Content'] = 'Интересы и предлагаемый контент';
-$Definition['Intermediate'] = 'Средний';
-$Definition['Internaltionalization & Localization'] = 'Интернационализация и локализация';
-$Definition['Introduction'] = 'Введение';
-$Definition['Introducing Vanilla Reactions and Badges'] = 'Введение в Реакции и Значки Vanilla';
-$Definition['Invalid category for deletion.'] = 'Неверный раздел для удаления.';
-$Definition['Invalid entry.'] = 'Неверный ввод.';
-$Definition['Invisibility Cloak Settings'] = 'Настройки плаща-невидимки';
-$Definition['Invitation Code'] = 'Код инвайта';
-$Definition['InvitationMessage'] = 'Привет, приятель!
+$Definition[
+    "If enabled, the full content of posts will be sent in email notifications to users."
+] =
+    "Если этот параметр включен, полный контент постов будет отправляться пользователям по электронной почте.";
+$Definition["If left empty, Email Logo is used."] =
+    "Если оставить пустым, используется логотип электронной почты.";
+$Definition[
+    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
+] =
+    "Если у вас есть ссылка на внутренний документ в 'Ссылке на Условия использования' выше, 'Текст условий использования' будет проигнорирован. Удалите ссылку, если вы хотите использовать этот текст.";
+$Definition["Inbox Page"] = "Страница входящих сообщений";
+$Definition["Include Child Categories"] = "Включить дочерние категории";
+$Definition["Include full post in email notifications"] =
+    "Включить полный пост в уведомления, отправляемые по электронной почте";
+$Definition["Include Featured Images"] = "Включить избранные изображения";
+$Definition["Include featured images with posts in email digest"] =
+    "Включайте избранные изображения в публикации в дайджест электронной почты.";
+$Definition["Include internal profile fields"] =
+    "Включить внутренние поля профиля";
+$Definition["Include private profile fields"] =
+    "Включить поля личного профиля";
+$Definition["Include Subcategories"] = "Включить подкатегории";
+$Definition["Include Subdomains"] = "Включить поддомены";
+$Definition["Increased Security Risks:"] = "Повышенные риски безопасности:";
+$Definition["Indexes"] = "Индексы";
+$Definition["Information"] = "Информация";
+$Definition["Install Vanilla without a .htaccess file."] =
+    "Установите Vanilla без файла .htaccess";
+$Definition["Integrate Banner Image"] = "Интегрировать баннерное изображение";
+$Definition["Interest Name"] = "Название интереса";
+$Definition["Interests & Suggested Content"] = "Интересы и предлагаемый контент";
+$Definition["Intermediate"] = "Средний";
+$Definition["Internaltionalization & Localization"] =
+    "Интернационализация и локализация";
+$Definition["Introduction"] = "Введение";
+$Definition["Introducing Vanilla Reactions and Badges"] =
+    "Введение в Реакции и Значки Vanilla";
+$Definition["Invalid category for deletion."] =
+    "Неверный раздел для удаления.";
+$Definition["Invalid entry."] = "Неверный ввод.";
+$Definition["Invisibility Cloak Settings"] = "Настройки плаща-невидимки";
+$Definition["Invitation Code"] = "Код инвайта";
+$Definition["InvitationMessage"] = 'Привет, приятель!
 
 Оцени новый форум, который я только что создал. Это прекрасное место для нас, чтобы общаться друг с другом онлайн.
 
 Перейди по ссылке ниже, чтобы войти.';
-$Definition['Invitations per month'] = 'Приглашений в месяц';
-$Definition['Invitations will expire'] = 'Приглашение истекает';
-$Definition['Invited by'] = 'Приглашён';
-$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'Похоже, вы отредактировали свой пост. <0/> или <1/>.';
+$Definition["Invitations per month"] = "Приглашений в месяц";
+$Definition["Invitations will expire"] = "Приглашение истекает";
+$Definition["Invited by"] = "Приглашён";
+$Definition["It looks like you edited your post. <0/> or <1/>."] =
+    "Похоже, вы отредактировали свой пост. <0/> или <1/>.";
 
 $Definition["JavaScript"] = "JavaScript";
-$Definition['jsConnect Client Libraries'] = 'Клиентские библиотеки jsConnect';
-$Definition['jsConnect Documentation'] = 'Документация jsConnect';
-$Definition['JS'] = 'JS';
+$Definition["jsConnect Client Libraries"] = "Клиентские библиотеки jsConnect";
+$Definition["jsConnect Documentation"] = "Документация jsConnect";
+$Definition["JS"] = "JS";
 
-$Definition['Key Type'] = 'Тип ключа';
-$Definition['Key Value'] = 'Значение ключа';
-$Definition['Keyword Blocker'] = 'Блокировщик клавиатуры';
+$Definition["Key Type"] = "Тип ключа";
+$Definition["Key Value"] = "Значение ключа";
+$Definition["Keyword Blocker"] = "Блокировщик клавиатуры";
 
-$Definition['Label'] = 'Ярлык';
-$Definition['Label is required'] = 'Требуется ярлык';
-$Definition['Label this Revision'] = 'Метка этой ревизии';
-$Definition['Language Style'] = 'Стиль языка';
-$Definition['Large images will be scaled down.'] = 'Большие изображения можно уменьшить до максимальной ширины %spx и максимальной высоты %spx.';
-$Definition['Last Visit'] = 'Последний визит';
-$Definition['Last Day'] = 'Последний день';
-$Definition['Last Week'] = 'Прошлая неделя';
-$Definition['Last Month'] = 'Прошлый месяц';
+$Definition["Label"] = "Ярлык";
+$Definition["Label is required"] = "Требуется ярлык";
+$Definition["Label this Revision"] = "Метка этой ревизии";
+$Definition["Language Style"] = "Стиль языка";
+$Definition["Large images will be scaled down."] =
+    "Большие изображения можно уменьшить до максимальной ширины %spx и максимальной высоты %spx.";
+$Definition["Last Visit"] = "Последний визит";
+$Definition["Last Day"] = "Последний день";
+$Definition["Last Week"] = "Прошлая неделя";
+$Definition["Last Month"] = "Прошлый месяц";
 $Definition['Layman\'s Terms'] = 'Термины для неспециалистов';
-$Definition['Layout'] = 'Разметка';
-$Definition['Learn more'] = 'Узнать больше';
-$Definition['Learn more about HSTS at %s.'] = 'Узнайте больше о HSTS по адресу %s.';
-$Definition['Legacy Recent Posts Layout'] = 'Устаревший макет последних сообщений';
+$Definition["Layout"] = "Разметка";
+$Definition["Learn more"] = "Узнать больше";
+$Definition["Learn more about HSTS at %s."] = "Узнайте больше о HSTS по адресу %s.";
+$Definition["Legacy Recent Posts Layout"] = "Устаревший макет последних сообщений";
 
-
-$Definition['Level'] = 'Уровень';
-$Definition['Level of Technical Language'] = 'Уровень технического языка';
-$Definition['Limits: 60 characters, no breaks.'] = 'Ограничения: 60 символов, без разрывов.';
-$Definition['Link Color'] = 'Цвет ссылки';
-$Definition['Likes'] = 'Лайки';
-$Definition['Limit the pocket to one or more roles or permissions.'] = 'Ограничение кармана для ролей или прав.';
-$Definition['Limit'] = 'Ограничение';
-$Definition['List of discussion IDs to delete.'] = 'Список идентификаторов обсуждений для удаления.';
-$Definition['Locale Key (Folder)'] = 'Ключ локализации (директория)';
-$Definition['Locale Name'] = 'Название локализации';
-$Definition['Locales'] = 'Локализации';
-$Definition['Location'] = 'Местоположение';
-$Definition['Locations'] = 'Местоположение';
+$Definition["Level"] = "Уровень";
+$Definition["Level of Technical Language"] = "Уровень технического языка";
+$Definition["Limits: 60 characters, no breaks."] =
+    "Ограничения: 60 символов, без разрывов.";
+$Definition["Link Color"] = "Цвет ссылки";
+$Definition["Likes"] = "Лайки";
+$Definition["Limit the pocket to one or more roles or permissions."] =
+    "Ограничение кармана для ролей или прав.";
+$Definition["Limit"] = "Ограничение";
+$Definition["List of discussion IDs to delete."] =
+    "Список идентификаторов обсуждений для удаления.";
+$Definition["Locale Key (Folder)"] = "Ключ локализации (директория)";
+$Definition["Locale Name"] = "Название локализации";
+$Definition["Locales"] = "Локализации";
+$Definition["Location"] = "Местоположение";
+$Definition["Locations"] = "Местоположение";
 $Definition["Logo"] = "Логотип";
-$Definition['LogoBrowse'] = 'Просто укажите новый баннер, если вы хотите сменить текущий:';
+$Definition["LogoBrowse"] =
+    "Просто укажите новый баннер, если вы хотите сменить текущий:";
 
-$Definition['Maintenance Mode'] = 'Режим тех. обслуживания';
-$Definition['Make sure you select at least one item before continuing.'] = 'Удостоверьтесь, что вы выбрали хотя бы один объект перед тем как продолжить.';
-$Definition['Add your site to trusted domains.'] = 'Проверьте, что ваш сайт добавлен в 1%s если включено встраивание.';
-$Definition['Manage'] = 'Управление';
-$Definition['Manage Applicants'] = 'Управление неактивными';
-$Definition['Manage Applications'] = 'Управление приложениями';
-$Definition['Manage Badges'] = 'Управлять значками';
-$Definition['Manage Badge Requests'] = 'Управление запросами значков';
-$Definition['Manage Categories'] = 'Управлять разделами';
-$Definition['Manage Groups'] = 'Управление группами';
-$Definition['Manage Messages'] = 'Управление сообщениями';
-$Definition['Manage Plugins'] = 'Управление плагинами';
-$Definition['Manage Roles & Permissions'] = 'Управление группами и правами доступа';
-$Definition['Manage Suggested Answer Sources'] = 'Управление предлагаемыми источниками ответов';
-$Definition['Manage Spam'] = 'Управление спамом';
-$Definition['Manage Themes'] = 'Управление темами';
-$Definition['Manage Users'] = 'Управление пользователями';
-$Definition['Managing Categories'] = 'Управление разделами';
-$Definition['Manual'] = 'Инструкция';
-$Definition['Mark All Suggested Answers as Accepted'] = 'Отметить все предложенные ответы как принятые';
-$Definition['Max %s length'] = 'Максимальная длина %s';
-$Definition['Max Age'] = 'Максимальный возраст';
-$Definition['Max Avatar Height'] = 'Макс. высота аватара';
-$Definition['Max Avatar Width'] = 'Макс. ширина аватара';
-$Definition['Max Comment Length'] = 'Максимальная длина комментария';
-$Definition['Max height of %s'] = 'Максимальная высота %s';
-$Definition['Max height of %s in pixels'] = 'Максимальная высота %s в пикселях';
-$Definition['Maximum Category Display Depth'] = 'Максимальная глубина отображения категории';
-$Definition['Max number of %s'] = 'Максимальное количество %s';
-$Definition['Max number of images in signature'] = 'Максимальное количество изображений в подписи';
-$Definition['Maximum number of posts to be included in the email digest.'] = 'Максимальное количество сообщений, которые будут включены в дайджест электронной почты.';
-$Definition['Max Post Length'] = 'Макс. длина поста';
-$Definition['Max signature length'] = 'Максимальная длина подписи';
-$Definition['member'] = 'участник';
-$Definition['Member roles'] = 'Отметьте все роли, которые должны применяться к новым/одобренным пользователям.';
-$Definition['Membership'] = 'Членство';
-$Definition['Message'] = 'Личное сообщение';
-$Definition['Message ID'] = 'ID сообщения';
-$Definition['Messages'] = 'Сообщения';
-$Definition['Meta Options'] = 'Мета-опции';
-$Definition['Method'] = 'Способ';
-$Definition['Min Post Length'] = 'Мин. длина поста';
-$Definition['minute(s)'] = 'мин.';
-$Definition['Mixed Layout'] = 'Смешанный вид';
-$Definition['Mobile Address Bar Color'] = 'Цвет адресной строки на мобильном устройстве';
-$Definition['Mobile Banner Logo'] = 'Логотип мобильного баннера';
-$Definition['Mobile Themes'] = 'Мобильные темы';
-$Definition['moderator'] = 'модератор';
-$Definition['Moderators have permission to edit most content.'] = 'Модераторы имеют полномочия редактировать большую часть контента.';
-$Definition['Modern Layout'] = 'Современный вид';
-$Definition['Modern non-table-based layout'] = 'Современный безтабличный вид';
-$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'Более сложный язык и, возможно, некоторые отраслевые термины, но все равно понятные большинству людей.';
-$Definition['More information'] = 'Подробнее';
-$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'Больше технического языка и отраслевых терминов — предполагает более высокий уровень понимания/знакомства с предметом.';
-$Definition['more than %s deep'] = 'глубина больше %s';
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Большинство карманов не должно отображаться в консоли.';
-$Definition['Move discussions in this category to a replacement category.'] = 'Переместите дискуссию в этот раздел для её замены.';
-$Definition['My Invitations'] = 'Мои инвайты';
+$Definition["Maintenance Mode"] = "Режим тех. обслуживания";
+$Definition["Make sure you select at least one item before continuing."] =
+    "Удостоверьтесь, что вы выбрали хотя бы один объект перед тем как продолжить.";
+$Definition["Add your site to trusted domains."] =
+    "Проверьте, что ваш сайт добавлен в 1%s если включено встраивание.";
+$Definition["Manage"] = "Управление";
+$Definition["Manage Applicants"] = "Управление неактивными";
+$Definition["Manage Applications"] = "Управление приложениями";
+$Definition["Manage Badges"] = "Управлять значками";
+$Definition["Manage Badge Requests"] = "Управление запросами значков";
+$Definition["Manage Categories"] = "Управлять разделами";
+$Definition["Manage Groups"] = "Управление группами";
+$Definition["Manage Messages"] = "Управление сообщениями";
+$Definition["Manage Plugins"] = "Управление плагинами";
+$Definition["Manage Roles & Permissions"] = "Управление группами и правами доступа";
+$Definition["Manage Suggested Answer Sources"] =
+    "Управление предлагаемыми источниками ответов";
+$Definition["Manage Spam"] = "Управление спамом";
+$Definition["Manage Themes"] = "Управление темами";
+$Definition["Manage Users"] = "Управление пользователями";
+$Definition["Managing Categories"] = "Управление разделами";
+$Definition["Manual"] = "Инструкция";
+$Definition["Mark All Suggested Answers as Accepted"] =
+    "Отметить все предложенные ответы как принятые";
+$Definition["Max %s length"] = "Максимальная длина %s";
+$Definition["Max Age"] = "Максимальный возраст";
+$Definition["Max Avatar Height"] = "Макс. высота аватара";
+$Definition["Max Avatar Width"] = "Макс. ширина аватара";
+$Definition["Max Comment Length"] = "Максимальная длина комментария";
+$Definition["Max height of %s"] = "Максимальная высота %s";
+$Definition["Max height of %s in pixels"] = "Максимальная высота %s в пикселях";
+$Definition["Maximum Category Display Depth"] =
+    "Максимальная глубина отображения категории";
+$Definition["Max number of %s"] = "Максимальное количество %s";
+$Definition["Max number of images in signature"] =
+    "Максимальное количество изображений в подписи";
+$Definition["Maximum number of posts to be included in the email digest."] =
+    "Максимальное количество сообщений, которые будут включены в дайджест электронной почты.";
+$Definition["Max Post Length"] = "Макс. длина поста";
+$Definition["Max signature length"] = "Максимальная длина подписи";
+$Definition["member"] = "участник";
+$Definition["Member roles"] =
+    "Отметьте все роли, которые должны применяться к новым/одобренным пользователям.";
+$Definition["Membership"] = "Членство";
+$Definition["Message"] = "Личное сообщение";
+$Definition["Message ID"] = "ID сообщения";
+$Definition["Messages"] = "Сообщения";
+$Definition["Meta Options"] = "Мета-опции";
+$Definition["Method"] = "Способ";
+$Definition["Min Post Length"] = "Мин. длина поста";
+$Definition["minute(s)"] = "мин.";
+$Definition["Mixed Layout"] = "Смешанный вид";
+$Definition["Mobile Address Bar Color"] = "Цвет адресной строки на мобильном устройстве";
+$Definition["Mobile Banner Logo"] = "Логотип мобильного баннера";
+$Definition["Mobile Themes"] = "Мобильные темы";
+$Definition["moderator"] = "модератор";
+$Definition["Moderators have permission to edit most content."] =
+    "Модераторы имеют полномочия редактировать большую часть контента.";
+$Definition["Modern Layout"] = "Современный вид";
+$Definition["Modern non-table-based layout"] = "Современный безтабличный вид";
+$Definition[
+    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
+] =
+    "Более сложный язык и, возможно, некоторые отраслевые термины, но все равно понятные большинству людей.";
+$Definition["More information"] = "Подробнее";
+$Definition[
+    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
+] =
+    "Больше технического языка и отраслевых терминов — предполагает более высокий уровень понимания/знакомства с предметом.";
+$Definition["more than %s deep"] = "глубина больше %s";
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
+    'Большинство карманов не должно отображаться в консоли.';
+$Definition["Move discussions in this category to a replacement category."] =
+    "Переместите дискуссию в этот раздел для её замены.";
+$Definition["My Invitations"] = "Мои инвайты";
 
-$Definition['Name of Interest'] = 'Название интереса';
-$Definition['Need More Help?'] = 'Нужна помощь?';
-$Definition['never'] = 'никогда';
-$Definition['Never - Users Must Refresh Page'] = 'Никогда - пользователи должны обновлять страницу';
-$Definition['Never display on mobile browsers.'] = 'Никогда не отображать в мобильных браузерах.';
-$Definition['NewApplicantEmail'] = 'Новый кандидат:';
-$Definition['New comments in the last day'] = 'Новые комментарии за последний день';
-$Definition['New comments in the last week'] = 'Новые комментарии последнюю неделю';
-$Definition['New conversations in the last day'] = 'Новые диалоги за последний день';
-$Definition['New conversations in the last week'] = 'Новые диалоги за последнюю неделю';
-$Definition['New discussions in the last day'] = 'Новые дискуссии за последний день';
-$Definition['New discussions in the last week'] = 'Новые дискуссии за последнюю неделю';
-$Definition['New messages in the last day'] = 'Новых сообщений за сутки';
-$Definition['New messages in the last week'] = 'Новых сообщений за неделю';
-$Definition['New User Management'] = 'Новое управление пользователями';
-$Definition['New users are only registered through SSO plugins.'] = 'Новые пользователи регистрируются с помощью социальных плагинов.';
-$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'Новые пользователи рассматриваются и одобряются администратором (это вы!).';
-$Definition['New users fill out a simple form and are granted access immediately.'] = 'Новые пользователи регистрируются и получают доступ к созданию тем сразу.';
-$Definition['New users in the last day'] = 'Новых пользователей за сутки';
-$Definition['New users in the last week'] = 'Новых пользователей за неделю';
-$Definition['No Ban Rules Found'] = 'Правила бана не найдены';
-$Definition['No Change'] = 'Нет изменений';
-$Definition['No drafts.'] = 'Нет черновиков.';
-$Definition['No further suggestions.'] = 'Других предложений нет.';
-$Definition['No item options are available for Link display type.'] = 'Для типа отображения ссылки недоступны параметры элемента.';
-$Definition['No Items Selected'] = 'Ничего не выбрано';
-$Definition['No results for %s.'] = 'По запросу "<b>%s</b>" ничего не найдено.';
-$Definition['Not Dismissable'] = 'Не отклоняемо';
-$Definition['Notes'] = 'Примечание';
-$Definition['Notifications will appear here.'] = 'Уведомления появятся здесь.';
-$Definition['NotifyApplicant'] = 'Уведомлять, когда одобряется новый участник.';
-$Definition['Notify me when people comment on a discussion.'] = 'Уведомлять, когда люди оставляют комментарии в дискуссии.';
-$Definition['Notify me when my questions have AI Suggested Answers'] = 'Уведомляйте меня, когда на мои вопросы появятся ответы, предложенные ИИ';
-$Definition['Notify me when people start new discussions.'] = 'Уведомлять обо всех новых дискуссиях.';
-$Definition['Not Spam'] = 'Это не спам';
-$Definition['Number of %s listed per page.'] = 'Количество%s на странице.';
-$Definition['Number of blocked registrations'] = 'Количество заблокированных регистраций';
-$Definition['Number of days before a follow-up email is automatically sent.'] = 'Количество дней до автоматической отправки дополнительного электронного письма.';
-$Definition['Number input must be between'] = 'Вводимое число должно быть между';
-$Definition['Number input must be between 1 and 100.'] = 'Вводимое число должно быть от 1 до 100.';
-$Definition['Number of posts'] = 'Количество сообщений';
-$Definition['Number of posts from groups'] = 'Количество сообщений из групп';
+$Definition["Name of Interest"] = "Название интереса";
+$Definition["Need More Help?"] = "Нужна помощь?";
+$Definition["never"] = "никогда";
+$Definition["Never - Users Must Refresh Page"] =
+    "Никогда - пользователи должны обновлять страницу";
+$Definition["Never display on mobile browsers."] =
+    "Никогда не отображать в мобильных браузерах.";
+$Definition["NewApplicantEmail"] = "Новый кандидат:";
+$Definition["New comments in the last day"] = "Новые комментарии за последний день";
+$Definition["New comments in the last week"] = "Новые комментарии последнюю неделю";
+$Definition["New conversations in the last day"] =
+    "Новые диалоги за последний день";
+$Definition["New conversations in the last week"] =
+    "Новые диалоги за последнюю неделю";
+$Definition["New discussions in the last day"] =
+    "Новые дискуссии за последний день";
+$Definition["New discussions in the last week"] =
+    "Новые дискуссии за последнюю неделю";
+$Definition["New messages in the last day"] = "Новых сообщений за сутки";
+$Definition["New messages in the last week"] = "Новых сообщений за неделю";
+$Definition["New User Management"] = "Новое управление пользователями";
+$Definition["New users are only registered through SSO plugins."] =
+    "Новые пользователи регистрируются с помощью социальных плагинов.";
+$Definition[
+    'New users are reviewed and approved by an administrator (that\'s you!).'
+] = 'Новые пользователи рассматриваются и одобряются администратором (это вы!).';
+$Definition[
+    "New users fill out a simple form and are granted access immediately."
+] = "Новые пользователи регистрируются и получают доступ к созданию тем сразу.";
+$Definition["New users in the last day"] = "Новых пользователей за сутки";
+$Definition["New users in the last week"] = "Новых пользователей за неделю";
+$Definition["No Ban Rules Found"] = "Правила бана не найдены";
+$Definition["No Change"] = "Нет изменений";
+$Definition["No drafts."] = "Нет черновиков.";
+$Definition["No further suggestions."] = "Других предложений нет.";
+$Definition["No item options are available for Link display type."] =
+    "Для типа отображения ссылки недоступны параметры элемента.";
+$Definition["No Items Selected"] = "Ничего не выбрано";
+$Definition["No results for %s."] = "По запросу \"<b>%s</b>\" ничего не найдено.";
+$Definition["Not Dismissable"] = "Не отклоняемо";
+$Definition["Notes"] = "Примечание";
+$Definition["Notifications will appear here."] =
+    "Уведомления появятся здесь.";
+$Definition["NotifyApplicant"] =
+    "Уведомлять, когда одобряется новый участник.";
+$Definition["Notify me when people comment on a discussion."] =
+    "Уведомлять, когда люди оставляют комментарии в дискуссии.";
+$Definition["Notify me when my questions have AI Suggested Answers"] =
+    "Уведомляйте меня, когда на мои вопросы появятся ответы, предложенные ИИ";
+$Definition["Notify me when people start new discussions."] =
+    "Уведомлять обо всех новых дискуссиях.";
+$Definition["Not Spam"] = "Это не спам";
+$Definition["Number of %s listed per page."] = "Количество%s на странице.";
+$Definition["Number of blocked registrations"] =
+    "Количество заблокированных регистраций";
+$Definition["Number of days before a follow-up email is automatically sent."] =
+    "Количество дней до автоматической отправки дополнительного электронного письма.";
+$Definition["Number input must be between"] = "Вводимое число должно быть между";
+$Definition["Number input must be between 1 and 100."] =
+    "Вводимое число должно быть от 1 до 100.";
+$Definition["Number of posts"] = "Количество сообщений";
+$Definition["Number of posts from groups"] = "Количество сообщений из групп";
 
-$Definition['On'] = 'На';
-$Definition['Only Allow Each User To Post'] = 'Позволяет каждому пользователю создавать лишь одну публикацию';
-$Definition['Only display on mobile browsers.'] = 'Показывать только в мобильных браузерах.';
-$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'Доступны только поля с одним флажком, раскрывающимся списком с одним выбором, раскрывающимся списком с несколькими вариантами или числовым раскрывающимся списком. После выбора полей они появятся ниже, и вы сможете выбрать конкретные ответы для каждого поля профиля.';
-$Definition['Only Show Followed Categories'] = 'Показать только отслеживаемые категории';
-$Definition['Only visible to users with roles with permission.'] = 'Видно только пользователям с ролями с разрешением.';
-$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'Открытые обращения будут отображаться только в том случае, если у пользователя есть действующее соединение с Salesforce.';
-$Definition['Operation By'] = 'От';
-$Definition['Organization'] = 'Организация';
-$Definition['Organize'] = 'Организуй';
-$Definition['Organize Categories'] = 'Сортировка разделов';
-$Definition['Original Version'] = 'Исходная версия';
-$Definition['Or select an image on your computer (2mb max)'] = 'Или выберите изображение с вашего компьютера (макс: 2 мб.)';
-$Definition['Or Spamblock For'] = 'или заблокировать на';
-$Definition['Other Themes'] = 'Другие темы';
-$Definition['Other Tutorials'] = 'Другие руководства';
-$Definition['Outgoing Email'] = 'Исходящая почта';
-$Definition['Outgoing Emails'] = 'Исходящие электронные письма';
-$Definition['Outgoing Email Address'] = 'Исходящий адрес электронной почты';
+$Definition["On"] = "На";
+$Definition["Only Allow Each User To Post"] = "Позволяет каждому пользователю создавать лишь одну публикацию";
+$Definition["Only display on mobile browsers."] =
+    "Показывать только в мобильных браузерах.";
+$Definition[
+    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
+] =
+    'Доступны только поля с одним флажком, раскрывающимся списком с одним выбором, раскрывающимся списком с несколькими вариантами или числовым раскрывающимся списком. После выбора полей они появятся ниже, и вы сможете выбрать конкретные ответы для каждого поля профиля.';
+$Definition["Only Show Followed Categories"] = "Показать только отслеживаемые категории";
+$Definition["Only visible to users with roles with permission."] =
+    "Видно только пользователям с ролями с разрешением.";
+$Definition[
+    "Open cases will only display if the user has a valid Salesforce connection."
+] =
+    "Открытые обращения будут отображаться только в том случае, если у пользователя есть действующее соединение с Salesforce.";
+$Definition["Operation By"] = "От";
+$Definition["Organization"] = "Организация";
+$Definition["Organize"] = "Организуй";
+$Definition["Organize Categories"] = "Сортировка разделов";
+$Definition["Original Version"] = "Исходная версия";
+$Definition["Or select an image on your computer (2mb max)"] =
+    "Или выберите изображение с вашего компьютера (макс: 2 мб.)";
+$Definition["Or Spamblock For"] = "или заблокировать на";
+$Definition["Other Themes"] = "Другие темы";
+$Definition["Other Tutorials"] = "Другие руководства";
+$Definition["Outgoing Email"] = "Исходящая почта";
+$Definition["Outgoing Emails"] = "Исходящие электронные письма";
+$Definition["Outgoing Email Address"] = "Исходящий адрес электронной почты";
 
-$Definition['Page Color'] = 'Цвет страницы';
-$Definition['Page Views'] = 'Просмотры страницы';
-$Definition['Pageview ratio representing a deflected case'] = 'Коэффициент просмотров страниц, представляющий отклоненный случай';
-$Definition['Passwords'] = 'Пароли';
-$Definition['Password Options'] = 'Настройки пароля';
-$Definition['Password Minimum Length'] = 'Минимальная длина пароля';
-$Definition['Past Events'] = 'Последнее мероприятие';
-$Definition['Permission'] = 'Право';
-$Definition['Permission.Category'] = 'Раздел';
-$Definition['Permissions'] = 'Права';
-$Definition['permissions.everyone'] = 'Все';
-$Definition['permissions.member'] = 'Участник';
-$Definition['permissions.moderator'] = 'Модератор';
-$Definition['permissions.communityManager'] = 'Менеджер сообщества';
-$Definition['permissions.admin'] = 'Админ';
-$Definition['Personal Info'] = 'Личная информация';
-$Definition['Please Confirm'] = 'Подтвердите пожалуйста';
-$Definition['Please enter a unique API Label, this one has been used before'] = 'Пожалуйста, введите уникальную метку API, эта метка уже использовалась ранее';
-$Definition['Plugin'] = 'Плагин';
-$Definition['Plugins'] = 'Плагины';
-$Definition['Pocket'] = 'Карман';
-$Definition['Pockets'] = 'Карманы';
-$Definition['Points'] = 'Очки';
-$Definition['Polls'] = 'Опросы';
-$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'Возможные проблемы совместимости со старыми браузерами, влияющие на удобство использования.';
-$Definition['Post External Links'] = 'Разместить внешние ссылки';
-$Definition['Posting Settings'] = 'Настройки публикации';
-$Definition['Preload'] = 'Предзагрузка';
-$Definition['Preview Colors'] = 'Просмотр цветов';
-$Definition['Private Communities'] = 'Частные сообщества';
-$Definition['private conversation(s)'] = 'личный(-е) диалог(-и)';
-$Definition['Private Key'] = 'Приватный ключ';
-$Definition['Professional'] = 'Профессиональный';
-$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Протоколы (например, https://) и пути (например, yourdomain.com/some/path) следует опускать.';
-$Definition['Provider'] = 'Провайдер';
-$Definition['Public Key'] = 'Публичный ключ';
+$Definition["Page Color"] = "Цвет страницы";
+$Definition["Page Views"] = "Просмотры страницы";
+$Definition["Pageview ratio representing a deflected case"] =
+    "Коэффициент просмотров страниц, представляющий отклоненный случай";
+$Definition["Passwords"] = "Пароли";
+$Definition["Password Options"] = "Настройки пароля";
+$Definition["Password Minimum Length"] = "Минимальная длина пароля";
+$Definition["Past Events"] = "Последнее мероприятие";
+$Definition["Permission"] = "Право";
+$Definition["Permission.Category"] = "Раздел";
+$Definition["Permissions"] = "Права";
+$Definition["permissions.everyone"] = "Все";
+$Definition["permissions.member"] = "Участник";
+$Definition["permissions.moderator"] = "Модератор";
+$Definition["permissions.communityManager"] = "Менеджер сообщества";
+$Definition["permissions.admin"] = "Админ";
+$Definition["Personal Info"] = "Личная информация";
+$Definition["Please Confirm"] = "Подтвердите пожалуйста";
+$Definition["Please enter a unique API Label, this one has been used before"] =
+    "Пожалуйста, введите уникальную метку API, эта метка уже использовалась ранее";
+$Definition["Plugin"] = "Плагин";
+$Definition["Plugins"] = "Плагины";
+$Definition["Pocket"] = "Карман";
+$Definition["Pockets"] = "Карманы";
+$Definition["Points"] = "Очки";
+$Definition["Polls"] = "Опросы";
+$Definition[
+    "Possible compatibility problems with older browsers, affecting user experience."
+] =
+    "Возможные проблемы совместимости со старыми браузерами, влияющие на удобство использования.";
+$Definition["Post External Links"] = "Разместить внешние ссылки";
+$Definition["Posting Settings"] = "Настройки публикации";
+$Definition["Preload"] = "Предзагрузка";
+$Definition["Preview Colors"] = "Просмотр цветов";
+$Definition["Private Communities"] = "Частные сообщества";
+$Definition["private conversation(s)"] = "личный(-е) диалог(-и)";
+$Definition["Private Key"] = "Приватный ключ";
+$Definition["Professional"] = "Профессиональный";
+$Definition[
+    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
+] =
+    "Протоколы (например, https://) и пути (например, yourdomain.com/some/path) следует опускать.";
+$Definition["Provider"] = "Провайдер";
+$Definition["Public Key"] = "Публичный ключ";
 
-$Definition['Rank Changes'] = 'Изменения ранга';
-$Definition['Ranks'] = 'Ранг';
-$Definition['Rate Limits'] = 'Ограничения по скорости';
-$Definition['Read more in the documentation'] = 'Подробнее читайте в документации';
-$Definition['Re-Register API Key'] = 'Перерегистрировать ключ API';
-$Definition['Register IP'] = 'Исходный IP';
-$Definition['Reaction Types'] = 'Типы реакций';
-$Definition['Recalculate Counts'] = 'Пересчитать счетчики';
-$Definition['Recently Active Users'] = 'Последние активные пользователи';
-$Definition['Recently Commented'] = 'Недавно прокомментировал';
-$Definition['Recently Added'] = 'Недавно добавленный';
-$Definition['Recent News'] = 'Свежие новости';
-$Definition['Recent Posts Layout Settings'] = 'Настройки макета последних сообщений';
-$Definition['Recent Posts Pages'] = 'Страницы последних сообщений';
-$Definition['Recent Posts Layout Version'] = 'Последние сообщения Версия макета';
+$Definition["Rank Changes"] = "Изменения ранга";
+$Definition["Ranks"] = "Ранг";
+$Definition["Read more in the documentation"] =
+    "Подробнее читайте в документации";
+$Definition["Re-Register API Key"] = "Перерегистрировать ключ API";
+$Definition["Register IP"] = "Исходный IP";
+$Definition["Reaction Types"] = "Типы реакций";
+$Definition["Recalculate Counts"] = "Пересчитать счетчики";
+$Definition["Recently Active Users"] = "Последние активные пользователи";
+$Definition["Recently Commented"] = "Недавно прокомментировал";
+$Definition["Recently Added"] = "Недавно добавленный";
+$Definition["Recent News"] = "Свежие новости";
+$Definition["Recent Posts Layout Settings"] = "Настройки макета последних сообщений";
+$Definition["Recent Posts Pages"] = "Страницы последних сообщений";
+$Definition["Recent Posts Layout Version"] = "Последние сообщения Версия макета";
 
-$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'Рекомендуемые размеры — 400 на 300 пикселей или меньше с аналогичным соотношением сторон.';
-$Definition['Record Content'] = 'Контент';
-$Definition['Recipient'] = 'Получатель';
-$Definition['Refresh Comments'] = 'Обновить комментарии';
-$Definition['Regenerate AI Suggestions'] = 'Регенерировать предложения ИИ';
-$Definition['Regenerate Suggestions'] = 'Регенерировать предложения';
-$Definition['Register for Membership'] = 'Регистрация в сообществе';
-$Definition['Register Url'] = 'Зарегистрировать URL';
-$Definition['Registration'] = 'Регистрация';
-$Definition['Registration is currently closed.'] = 'Регистрация в настоящее время недоступна.';
-$Definition['Reload the page to see recent updates.'] = 'Перезагрузите страницу, чтобы увидеть последние обновления.';
-$Definition['Reload the page to access recent updates.'] = 'Перезагрузите страницу, чтобы получить доступ к последним обновлениям.';
-$Definition['Remove Banner Logo'] = 'Удалить логотип';
-$Definition['Remove Email Logo'] = 'Убрать логотип письма';
-$Definition['Remove Favicon'] = 'Удалить иконку сайта';
-$Definition['Reorder Columns'] = 'Изменить порядок столбцов';
-$Definition['Repeat'] = 'Повтор';
-$Definition['Repeat Every'] = 'Повтор каждые';
-$Definition['Replace Image'] = 'Заменить изображение';
-$Definition['Replacement Category'] = 'Замена раздела';
-$Definition['Replacement Role'] = 'Роль заменять';
-$Definition['Reply  To'] = 'Ответить Кому';
-$Definition['reply to private conversation(s)'] = 'ответить на личный(-е) диалог(-и)';
-$Definition['Request'] = 'Запрос';
-$Definition['Requests'] = 'Запросы';
-$Definition['Requires'] = 'Требуется';
-$Definition['Requires: '] = 'Необходимо: ';
-$Definition['Require Terms of Service'] = 'Требовать от пользователей согласия с Условиями обслуживания (рекомендуется)';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'Запрашивать у пользователей подтверждение по email (рекомендуется)';
-$Definition['Require users to agree to the Terms of Service (recommended)'] = 'Требовать от пользователей согласия с Условиями обслуживания (рекомендуется)';
-$Definition['Rescan'] = 'Сканировать';
-$Definition['Reset'] = 'Сброс';
-$Definition['Reset my password'] = 'Сбросить мой пароль';
-$Definition['Reset password and send email notification to user'] = 'Сбросить пароль и отправить пользователю на почту сообщение об этом';
-$Definition['Reset to Default'] = 'Восстановление значений по умолчанию';
-$Definition['Resetting the password for %s.'] = 'Сброс пароля для %s.';
-$Definition['Restart'] = 'Перезапуск';
-$Definition['Reveal Password'] = 'Показать пароль';
+$Definition[
+    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
+] =
+    "Рекомендуемые размеры — 400 на 300 пикселей или меньше с аналогичным соотношением сторон.";
+$Definition["Record Content"] = "Контент";
+$Definition["Recipient"] = "Получатель";
+$Definition["Refresh Comments"] = "Обновить комментарии";
+$Definition["Regenerate AI Suggestions"] = "Регенерировать предложения ИИ";
+$Definition["Regenerate Suggestions"] = "Регенерировать предложения";
+$Definition["Register for Membership"] = "Регистрация в сообществе";
+$Definition["Register Url"] = "Зарегистрировать URL";
+$Definition["Registration"] = "Регистрация";
+$Definition["Registration is currently closed."] =
+    "Регистрация в настоящее время недоступна.";
+$Definition["Reload the page to see recent updates."] =
+    "Перезагрузите страницу, чтобы увидеть последние обновления.";
+$Definition["Reload the page to access recent updates."] =
+    "Перезагрузите страницу, чтобы получить доступ к последним обновлениям.";
+$Definition["Remove Banner Logo"] = "Удалить логотип";
+$Definition["Remove Email Logo"] = "Убрать логотип письма";
+$Definition["Remove Favicon"] = "Удалить иконку сайта";
+$Definition["Reorder Columns"] = "Изменить порядок столбцов";
+$Definition["Repeat"] = "Повтор";
+$Definition["Repeat Every"] = "Повтор каждые";
+$Definition["Replace Image"] = "Заменить изображение";
+$Definition["Replacement Category"] = "Замена раздела";
+$Definition["Replacement Role"] = "Роль заменять";
+$Definition["Reply  To"] = "Ответить Кому";
+$Definition["reply to private conversation(s)"] =
+    "ответить на личный(-е) диалог(-и)";
+$Definition["Request"] = "Запрос";
+$Definition["Requests"] = "Запросы";
+$Definition["Requires"] = "Требуется";
+$Definition["Requires: "] = "Необходимо: ";
+$Definition["Require Terms of Service"] =
+    "Требовать от пользователей согласия с Условиями обслуживания (рекомендуется)";
+$Definition["Require users to confirm their email addresses (recommended)"] =
+    "Запрашивать у пользователей подтверждение по email (рекомендуется)";
+$Definition["Require users to agree to the Terms of Service (recommended)"] =
+    "Требовать от пользователей согласия с Условиями обслуживания (рекомендуется)";
+$Definition["Rescan"] = "Сканировать";
+$Definition["Reset"] = "Сброс";
+$Definition["Reset my password"] = "Сбросить мой пароль";
+$Definition["Reset password and send email notification to user"] =
+    "Сбросить пароль и отправить пользователю на почту сообщение об этом";
+$Definition["Reset to Default"] = "Восстановление значений по умолчанию";
+$Definition["Resetting the password for %s."] =
+    "Сброс пароля для %s.";
+$Definition["Restart"] = "Перезапуск";
+$Definition["Reveal Password"] = "Показать пароль";
 $Definition["Revert"] = "Вернуть";
-$Definition['Revert to Original Version'] = 'Вернуть к оригинальной версии';
-$Definition['Revision Label:'] = 'Ярлык пересмотра:';
-$Definition['ROI Calculation Documentation'] = 'Документация по расчету рентабельности инвестиций';
-$Definition['Role'] = 'Группа';
-$Definition['Assign to'] = 'Назначить в';
-$Definition['Role Applicants'] = 'Кандидаты на роль';
-$Definition['Role Name'] = 'Имя группы';
-$Definition['Role Permissions'] = 'Полномочия ролей';
-$Definition['RolePersonalInfo'] = 'Эта роль является личной информацией. Только пользователи с разрешением на просмотр личной информации увидят ее.';
-$Definition['Roles & Permissions'] = 'Группы и права доступа';
-$Definition['Roles determine user\'s permissions.'] = 'Каждый пользователь сайта состоит минимум в одной группе. Настройка групп определяет, что пользователь, состоящий в группе, может делать на сайте';
-$Definition['Role Request Status'] = 'Статус';
-$Definition['Role to Grant'] = 'Роль предоставлять';
-$Definition['Route'] = 'Перенаправление';
-$Definition['Routes'] = 'Перенаправления';
-$Definition['Rules'] = 'Правила';
-$Definition['Run structure & data scripts'] = 'Запустить обновление структуры и скриптов';
-$Definition['RSVP'] = 'RSVP';
+$Definition["Revert to Original Version"] = "Вернуть к оригинальной версии";
+$Definition["Revision Label:"] = "Ярлык пересмотра:";
+$Definition["ROI Calculation Documentation"] = "Документация по расчету рентабельности инвестиций";
+$Definition["Role"] = "Группа";
+$Definition["Assign to"] = "Назначить в";
+$Definition["Role Applicants"] = "Кандидаты на роль";
+$Definition["Role Name"] = "Имя группы";
+$Definition["Role Permissions"] = "Полномочия ролей";
+$Definition["RolePersonalInfo"] =
+    "Эта роль является личной информацией. Только пользователи с разрешением на просмотр личной информации увидят ее.";
+$Definition["Roles & Permissions"] = "Группы и права доступа";
+$Definition['Roles determine user\'s permissions.'] =
+    "Каждый пользователь сайта состоит минимум в одной группе. Настройка групп определяет, что пользователь, состоящий в группе, может делать на сайте";
+$Definition["Role Request Status"] = "Статус";
+$Definition["Role to Grant"] = "Роль предоставлять";
+$Definition["Route"] = "Перенаправление";
+$Definition["Routes"] = "Перенаправления";
+$Definition["Rules"] = "Правила";
+$Definition["Run structure & data scripts"] = "Запустить обновление структуры и скриптов";
+$Definition["RSVP"] = "RSVP";
 
-$Definition['Save Captured Definitions'] = 'Сохранить захваченные параметры';
-$Definition['Save Colors'] = 'Сохранить цвета';
-$Definition['Score Count'] = 'Подсчет очков';
-$Definition['Search by user or role.'] = 'Ищите пользователей по имени или электронной почте, по желанию используя % a как маску. Вы также можете искать по ID пользователя, названию роли и “забаненым”. Примечание: «а» перед «как» - это не опечатка. Просто сервис перевода не сохранял его без этого. ';
-$Definition['Search Result In New Tab'] = 'Результат поиска в новой вкладке';
-$Definition['Search results of members'] = 'Результаты поиска участников';
-$Definition['Search Query'] = 'Поисковый запрос';
-$Definition['SearchScope.Everywhere'] = 'Везде';
-$Definition['seconds'] = 'секунд';
-$Definition['Security'] = 'Безопасность';
-$Definition['See also'] = 'См. также';
-$Definition['See link'] = 'См. ссылку';
-$Definition['Select'] = 'Выбрать';
-$Definition['Select a category'] = 'Выберите категорию';
-$Definition['Select the location of the pocket.'] = 'Выберите место кармана.';
-$Definition['Select which columns are displayed on the manage users page list.'] = 'Выберите, какие столбцы будут отображаться в списке страницы управления пользователями.';
-$Definition['Selection will affect the item options available.'] = 'Выбор повлияет на доступные параметры элемента.';
-$Definition['Send %s a Message'] = 'Отправить %s сообщение';
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Задействовать механизм проверки подтверждения электронного ящика, когда пользователи создают дискуссию посредством электронной почты. ';
-$Definition['Send Again'] = 'Повторно отправить';
-$Definition['Send a Test Email'] = 'Отправить тестовое письмо';
-$Definition['Send Test Digest'] = 'Отправить тестовый дайджест';
-$Definition['Send Test Email Digest'] = 'Отправить дайджест тестовой электронной почты';
-$Definition['Send Invitations!'] = 'Послать приглашение!';
-$Definition['Send users a welcome email.'] = 'Отправить пользователям приветственное письмо.';
-$Definition['Sent To'] = 'Отправить';
-$Definition['Separate each word with a semi-colon ";"'] = 'Отделите каждое слово точкой с запятой  ";"';
-$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'Установите этот интерес как интерес по умолчанию, чтобы предлагать всем пользователям следить за его сопоставленными категориями и тегами.';
-$Definition['Share Image'] = 'Поделиться изображением';
-$Definition['Show all categories'] = 'Показать все категории';
-$Definition['Show Dismissed Suggestions'] = 'Показать отклоненные предложения';
-$Definition['Show Pocket Locations'] = 'Показать расположения карманов';
-$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'Покажите каждому пользователю персонализированный список идей, которые они создали или за которые проголосовали.';
-$Definition['Show Original Suggestions'] = 'Показать оригинальные предложения';
-$Definition['Show Suggestions'] = 'Показать предложения';
-$Definition['Signatures'] = 'Подписи';
-$Definition['SignedOut'] = 'Вы вышли.';
-$Definition['Sign In Url'] = 'URL входа в систему';
-$Definition['Site Description'] = 'Описание сайта';
-$Definition['Site Name'] = 'Название сайта';
-$Definition['Slug'] = 'Слаг';
-$Definition['SMTP Host'] = 'SMTP сервер';
-$Definition['SMTP Password'] = 'SMTP Пароль';
-$Definition['SMTP Port'] = 'SMTP Порт';
-$Definition['SMTP Security'] = 'Протокол безопасности SMTP';
-$Definition['SMTP User'] = 'SMTP Пользователь';
-$Definition['Social Connect'] = 'Социальные сети';
-$Definition['Social Connect Addons'] = 'Расширения подключения к соцсетям';
-$Definition['Sort Order'] = 'Порядок сортировки';
-$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Выбранные здесь источники будут доступны для предлагаемых ИИ ответов.';
-$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Указывайте по одному домену в строке. Используйте * для подстановочных знаков.';
-$Definition['Spoof'] = 'Эмулирование';
-$Definition['SSO Role'] = 'Роль SSO';
-$Definition['SSO roles are always passed through SSO.'] = 'Роли SSO всегда передаются через SSO.';
-$Definition['Start Discussions'] = 'Начать дискуссию';
-$Definition['Start Private Conversations'] = 'Начать личные беседы';
-$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'Начните тему дайджеста с параметра [Название баннера], установленного в разделе «Внешний вид» > «Брендинг и SEO».';
-$Definition['Start typing username'] = 'Начните вводить имя пользователя';
-$Definition['State'] = 'Состояние';
-$Definition['Statistics'] = 'Статистика';
-$Definition['Strip Embeds'] = 'Вставки полос';
-$Definition['Strip Embeds'] = 'Вставки полос';
+$Definition["Save Captured Definitions"] = "Сохранить захваченные параметры";
+$Definition["Save Colors"] = "Сохранить цвета";
+$Definition["Score Count"] = "Подсчет очков";
+$Definition["Search by user or role."] =
+    "Ищите пользователей по имени или электронной почте, по желанию используя % a как маску. Вы также можете искать по ID пользователя, названию роли и “забаненым”. Примечание: «а» перед «как» - это не опечатка. Просто сервис перевода не сохранял его без этого. ";
+$Definition["Search Result In New Tab"] = "Результат поиска в новой вкладке";
+$Definition["Search results of members"] = "Результаты поиска участников";
+$Definition["Search Query"] = "Поисковый запрос";
+$Definition["SearchScope.Everywhere"] = "Везде";
+$Definition["seconds"] = "секунд";
+$Definition["Security"] = "Безопасность";
+$Definition["See also"] = "См. также";
+$Definition["See link"] = "См. ссылку";
+$Definition["Select"] = "Выбрать";
+$Definition["Select a category"] = "Выберите категорию";
+$Definition["Select the location of the pocket."] =
+    "Выберите место кармана.";
+$Definition[
+    "Select which columns are displayed on the manage users page list."
+] = "Выберите, какие столбцы будут отображаться в списке страницы управления пользователями.";
+$Definition["Selection will affect the item options available."] =
+    "Выбор повлияет на доступные параметры элемента.";
+$Definition["Send %s a Message"] = "Отправить %s сообщение";
+$Definition[
+    "Send a confirmation email when people ask a question or start a discussion over email."
+] =
+    "Задействовать механизм проверки подтверждения электронного ящика, когда пользователи создают дискуссию посредством электронной почты. ";
+$Definition["Send Again"] = "Повторно отправить";
+$Definition["Send a Test Email"] = "Отправить тестовое письмо";
+$Definition["Send Test Digest"] = "Отправить тестовый дайджест";
+$Definition["Send Test Email Digest"] = "Отправить дайджест тестовой электронной почты";
+$Definition["Send Invitations!"] = "Послать приглашение!";
+$Definition["Send users a welcome email."] = "Отправить пользователям приветственное письмо.";
+$Definition["Sent To"] = "Отправить";
+$Definition['Separate each word with a semi-colon ";"'] =
+    'Отделите каждое слово точкой с запятой  ";"';
+$Definition[
+    "Set this interest as default to suggest following its mapped categories and tags to all users."
+] =
+    "Установите этот интерес как интерес по умолчанию, чтобы предлагать всем пользователям следить за его сопоставленными категориями и тегами.";
+$Definition["Share Image"] = "Поделиться изображением";
+$Definition["Show all categories"] = "Показать все категории";
+$Definition["Show Dismissed Suggestions"] = "Показать отклоненные предложения";
+$Definition["Show Pocket Locations"] = "Показать расположения карманов";
+$Definition[
+    "Show each user a personalized list of ideas they’ve created or upvoted."
+] = "Покажите каждому пользователю персонализированный список идей, которые они создали или за которые проголосовали.";
+$Definition["Show Original Suggestions"] = "Показать оригинальные предложения";
+$Definition["Show Suggestions"] = "Показать предложения";
+$Definition["Signatures"] = "Подписи";
+$Definition["SignedOut"] = "Вы вышли.";
+$Definition["Sign In Url"] = "URL входа в систему";
+$Definition["Site Description"] = "Описание сайта";
+$Definition["Site Name"] = "Название сайта";
+$Definition["Slug"] = "Слаг";
+$Definition["SMTP Host"] = "SMTP сервер";
+$Definition["SMTP Password"] = "SMTP Пароль";
+$Definition["SMTP Port"] = "SMTP Порт";
+$Definition["SMTP Security"] = "Протокол безопасности SMTP";
+$Definition["SMTP User"] = "SMTP Пользователь";
+$Definition["Social Connect"] = "Социальные сети";
+$Definition["Social Connect Addons"] = "Расширения подключения к соцсетям";
+$Definition["Sort Order"] = "Порядок сортировки";
+$Definition[
+    "Sources that are selected here will be available to AI Suggested Answers."
+] = "Выбранные здесь источники будут доступны для предлагаемых ИИ ответов.";
+$Definition["Specify one domain per line. Use * for wildcard matches."] =
+    "Указывайте по одному домену в строке. Используйте * для подстановочных знаков.";
+$Definition["Spoof"] = "Эмулирование";
+$Definition["SSO Role"] = "Роль SSO";
+$Definition["SSO roles are always passed through SSO."] =
+    "Роли SSO всегда передаются через SSO.";
+$Definition["Start Discussions"] = "Начать дискуссию";
+$Definition["Start Private Conversations"] = "Начать личные беседы";
+$Definition[
+    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
+] =
+    "Начните тему дайджеста с параметра [Название баннера], установленного в разделе «Внешний вид» > «Брендинг и SEO».";
+$Definition["Start typing username"] = "Начните вводить имя пользователя";
+$Definition["State"] = "Состояние";
+$Definition["Statistics"] = "Статистика";
+$Definition["Strip Embeds"] = "Вставки полос";
+$Definition["Strip Embeds"] = "Вставки полос";
 $Definition["Style"] = "Стиль";
-$Definition['Styles'] = 'Стили';
-$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'Стили и общий внешний вид всех электронных писем, включая дайджест электронной почты, задаются для всего сайта на странице настроек электронной почты.';
-$Definition['Subcommunity'] = 'Подсообщество';
-$Definition['Subject Line and Title'] = 'Тема письма и заголовок';
-$Definition['subscribers'] = 'подписчики';
-$Definition['Suggested Answers Options'] = 'Предлагаемые варианты ответов';
-$Definition['Suggested Content'] = 'Предлагаемый контент';
-$Definition['Suggested Discussion Title'] = 'Предлагаемое название обсуждения';
-$Definition['Suggested Follows'] = 'Предлагаемые подписчики';
-$Definition['Suggestions are only visible to you until you accept the answer'] = 'Предложения видны только вам, пока вы не примете ответ.';
-$Definition['Suggestions may only be generated on questions'] = 'Предложения могут быть созданы только по вопросам';
+$Definition["Styles"] = "Стили";
+$Definition[
+    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
+] =
+    "Стили и общий внешний вид всех электронных писем, включая дайджест электронной почты, задаются для всего сайта на странице настроек электронной почты.";
+$Definition["Subcommunity"] = "Подсообщество";
+$Definition["Subject Line and Title"] = "Тема письма и заголовок";
+$Definition["subscribers"] = "подписчики";
+$Definition["Suggested Answers Options"] = "Предлагаемые варианты ответов";
+$Definition["Suggested Content"] = "Предлагаемый контент";
+$Definition["Suggested Discussion Title"] = "Предлагаемое название обсуждения";
+$Definition["Suggested Follows"] = "Предлагаемые подписчики";
+$Definition["Suggestions are only visible to you until you accept the answer"] =
+    "Предложения видны только вам, пока вы не примете ответ.";
+$Definition["Suggestions may only be generated on questions"] =
+    "Предложения могут быть созданы только по вопросам";
 
-$Definition['Table Layout'] = 'Табличный вид';
-$Definition['take away'] = 'отнять';
-$Definition['Target All Users'] = 'Таргетинг на всех пользователей';
-$Definition['Target Users'] = 'Целевые пользователи';
-$Definition['Technical'] = 'Технический';
-$Definition['Technical Jargon'] = 'Технический жаргон';
-$Definition['Templates'] = 'Шаблоны';
-$Definition['Temporary (302)'] = 'Временная (302)';
-$Definition['Test Email'] = 'Тестовое письмо';
-$Definition['Test Digest'] = 'Тестовый дайджест';
-$Definition['Test email from %s'] = 'Тестовое письмо от %s';
-$Definition['Test Email Message'] = '<p>Это тестовое сообщение электронной почты.</p>
+$Definition["Table Layout"] = "Табличный вид";
+$Definition["take away"] = "отнять";
+$Definition["Target All Users"] = "Таргетинг на всех пользователей";
+$Definition["Target Users"] = "Целевые пользователи";
+$Definition["Technical"] = "Технический";
+$Definition["Technical Jargon"] = "Технический жаргон";
+$Definition["Templates"] = "Шаблоны";
+$Definition["Temporary (302)"] = "Временная (302)";
+$Definition["Test Email"] = "Тестовое письмо";
+$Definition["Test Digest"] = "Тестовый дайджест";
+$Definition["Test email from %s"] = "Тестовое письмо от %s";
+$Definition["Test Email Message"] = '<p>Это тестовое сообщение электронной почты.</p>
 
 <p>Вы можете настроить внешний вид писем Вашего форума, перейдя на страницу Писем в панели управления.</p>';
-$Definition['Test Mode'] = 'Тестовый режим: Карман будет отображаться только для администраторов этих карманов.';
-$Definition['Test URL'] = 'Тест URL';
-$Definition['Text Color'] = 'Цвет текста';
-$Definition['TextEnterEmails'] = 'Введите email-адреса через запятую';
-$Definition['The %s badge has already been given to %s.'] = 'Значок %s уже давался пользователю %s.';
-$Definition['The %s locale pack does not exist.'] = 'Языковой пакет %s отсутствует.';
-$Definition['The %s table is not in the correct format.'] = 'Таблица %s не в том формате.';
-$Definition['The %s was already approved by %s on %s.'] = '%s уже был одобрен пользователем %s %s.';
-$Definition['Thanks for sticking with us for a full year.'] = 'Благодари вас, что вы с нами уже целый год.';
-$Definition['Thanks for sticking with us for %s years.'] = 'Благодари вас, что вы с нами уже %s лет.';
-$Definition['The Basics'] = 'Основы';
-$Definition['The client ID uniqely identifies the site.'] = 'ID клиента идентифицирует ваш сайт. Вы можете сгенерировать новый идентификатор при помощью кнопки в нижней части этой страницы.';
-$Definition['The content you were looking for has been deleted.'] = 'Контент, который вы искали, был удален.';
-$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'Изображение баннера по умолчанию на сайте. Это можно изменить для каждой категории.';
-$Definition['The default role has not been configured.'] = 'Роль по умолчанию не настроена.';
-$Definition['The email address this test will be sent to.'] = 'Адрес электронной почты, на который будет отправлен этот тест.';
-$Definition['The email has been sent.'] = 'Письмо отправлено.';
-$Definition['The first line of content in the email digest after the title.'] = 'Первая строка контента в дайджесте электронной почты после заголовка.';
-$Definition['The homepage title is displayed on your home page.'] = 'Заголовок домашней страницы будет отображаться на домашней странице и в поисковых системах.';
-$Definition['The homepage was saved successfully.'] = 'Страница была успешно сохранена.';
-$Definition['The invitation was removed successfully.'] = 'Приглашение удалено.';
-$Definition['The invitation was sent successfully.'] = 'Приглашение отправлено.';
-$Definition['The Key in the XML payload to designate %s.'] = 'Ключ в полезной нагрузке XML для обозначения %s.';
-$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'Тестовый дайджест будет генерировать контент так, как если бы дайджест получал этот пользователь.';
-$Definition['Theme Editor'] = 'Редактор тем';
-$Definition['Theme Options'] = 'Опции темы';
-$Definition['Themes'] = 'Темы оформления';
-$Definition['ThemeEditor.Copy'] = '<0/> копия';
-$Definition['Theming Documentation'] = 'Документация по темизации';
-$Definition['Theming Overview'] = 'Информация о темах';
-$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Во время загрузки изображения произошла ошибка. Логотип Вашего письма можно загрузить в одном из следующих форматов: gif, jpg, png';
-$Definition['There are currently no applicants.'] = 'В настоящее время нет пользователей ожидающих одобрения участия на форуме.';
-$Definition['There is currently %s applicant.'] = 'На данный момент есть %s заявитель.';
-$Definition['There are currently %s applicants.'] = 'На данный момент есть %s заявителей.';
-$Definition['There are currently no requests.'] = 'На данный момент нет запросов.';
-$Definition['There is currently %s request.'] = 'На данный момент есть %s запрос.';
-$Definition['There are currently %s requests.'] = 'На данный момент есть %s запросов.';
-$Definition['There are no items awaiting moderation at this time.'] = 'В настоящее время нет новых сообщений для модерации.';
-$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Введенный email уже используется одним из аккаунтов на нашем сайте. Пожалуйста войдите в существующий аккаунт.';
-$Definition['The next three email digest delivery dates'] = 'Даты доставки следующих трех дайджестов по электронной почте';
-$Definition['The secret secures the sign in process.'] = 'Этот секрет обеспечивает безопасность процесса авторизации. <b>Не давайте</b> секрет посторонним лицам!';
-$Definition['The site description usually appears in search engines.'] = 'Описание сайта обычно появляется в поисковых системах. Вам следует подготовить привлекательное описание не длиннее 100-150 символов.';
-$Definition['The site is currently undergoing scheduled maintenance.'] = 'Сайт в настоящее время проходит плановое тех. обслуживание.';
-$Definition['The specified url code is already in use by another category.'] = 'Указанный URL код уже используется другим разделом.';
-$Definition['The structure was successfully executed.'] = 'Структурирование было выполнено успешно.';
-$Definition['The update was not successful.'] = 'Обновление не было завершено.';
-$Definition['The update was successful.'] = 'Обновление прошло успешно.';
-$Definition['The url that users go to to register for a new account.'] = 'URL, по которому пользователи переходят для регистрации нового аккаунта.';
-$Definition['The url that users use to register for a new account.'] = 'URL, по которому пользователи переходят для регистрации нового аккаунта.';
-$Definition['The url that users use to sign in.'] = 'URL, по которому пользователи переходят при завершении сессии.';
-$Definition['The URL where users can sign up for new accounts on your site'] = 'URL страницы, на которой пользователи могут зарегистрировать новые аккаунты.';
-$Definition['The URL where users sign in on your site'] = 'URL страницы, на которой расположена форма авторизации на сайте';
-$Definition['The URL where users sign out of your site'] = 'URL страницы, на которой пользователи завершают сейссию на сайте';
-$Definition['The user and all related content has been deleted.'] = 'Пользователь и весь связанный с ним контен удалены.';
-$Definition['The user content will be completely deleted.'] = 'Контент пользователя будет полностью удалён.';
-$Definition['The user content will remain untouched.'] = 'Контент этого пользователя останется нетронутым.';
-$Definition['The user has been created successfully'] = 'Пользователь был успешно создан';
-$Definition['The user has been deleted.'] = 'Пользователь был удален.';
-$Definition['This action cannot be undone.'] = 'Это действие не может быть отменено.';
-$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'В этом нет необходимости на большинстве сайтов, за исключением тех, которые используют такие функции, как AdSense и Google Tag Manager.';
-$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'Это сгенерированное ИИ резюме из указанного поста обсуждения, которое может ответить на вопрос. Резюме создано таким образом, чтобы его можно было использовать в качестве принятого ответа.';
-$Definition['This category has custom permissions.'] = 'Этот раздел содержит особые права.';
-$Definition['This category is archived.'] = 'Этот раздел находится в архиве.';
-$Definition['This connection is in test-mode.'] = 'Данное соединение работает в режиме тестирования. ';
-$Definition['This controls how the responses are phrased and spelled.'] = 'Это контролирует формулировку и написание ответов.';
-$Definition['This Database'] = 'Эту базу данных';
-$Definition['QnAFollowup.Feature.Enabled'] = 'Эта функция отправляет электронные письма авторам ответов на вопросы, на которые нет принятого ответа.';
-$Definition['This forum is currently set to invitation only mode.'] = 'Регистрация на форуме сейчас возможна только по приглашению.';
-$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Это изображение будет использоваться в списках категорий и виджетах при использовании опции стиля «Значок».';
-$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Это изображение будет отображаться на баннере этой категории и в виджетах категорий при использовании параметров стиля «Изображение» и/или «Фон». Рекомендуемые размеры — около 1000 на 400 пикселей или подобное соотношение.';
-$Definition['This is a parent category that does not allow discussions.'] = 'Это материнский раздел, который не допускает создания дискуссий.';
-$Definition['This is the first time you\'ve visited the discussion forums.'] = 'Вы впервые посетили эту дискуссию.';
-$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'Это можно использовать для включения в дайджест электронной почты такого контента, как название и адрес организации.';
-$Definition['This name will be shown in the community.'] = 'Это имя будет отображаться в сообществе.';
-$Definition['This page requires Javascript.'] = 'Эта страница требует Javascript.';
-$Definition['This pocket is an ad.'] = 'Это рекламный карман';
-$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Эта тема не может быть удалена, потому что это текущая тема.';
-$Definition['This theme has additional options.'] = 'Эта тема имеет дополнительные опции здесь: %s';
-$Definition['This theme has customizable text.'] = 'Эта тема имеет текст, который можно настроить.';
-$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.']= 'Это поможет другим пользователям с похожими вопросами быстрее найти правильные ответы и отобразит предложенный ИИ ответ и ссылку на справочный материал, чтобы другие пользователи могли его увидеть. Предложения видны только вам, пока вы не примете ответ.';
-$Definition['Threshold'] = 'Лимит';
-$Definition['Thumbnails'] = 'Миниатюры';
-$Definition['Thumbnail Size'] = 'Размер эскиза';
-$Definition['Time'] = 'Время';
-$Definition['Timeframe'] = 'Период времени';
-$Definition['Titles'] = 'Заголовки';
-$Definition['Title Color'] = 'Цвет заголовка';
-$Definition['Title Color (Hover)'] = 'Цвет заголовка (при наведении)';
-$Definition['Token Name'] = 'Название токена';
-$Definition['Touch Icon'] = 'Сенсорный значок';
-$Definition['True'] = 'Истинный';
-$Definition['Truncate the initial discussion text to this many words.'] = 'Сократите первоначальный текст дискуссии до этого количества слов.';
-$Definition['trusted domains'] = 'доверенные домены';
-$Definition['Trusted Domains'] = 'Доверенные домены';
-$Definition['Turn OFF'] = 'Выключить';
-$Definition['Turn off AI Suggested Answers'] = 'Отключить предлагаемые ИИ ответы';
-$Definition['Turn off for now'] = 'Выключить сейчас';
-$Definition['Twitter Connector'] = 'Подключение к Twitter';
+$Definition["Test Mode"] =
+    "Тестовый режим: Карман будет отображаться только для администраторов этих карманов.";
+$Definition["Test URL"] = "Тест URL";
+$Definition["Text Color"] = "Цвет текста";
+$Definition["TextEnterEmails"] =
+    "Введите email-адреса через запятую";
+$Definition["The %s badge has already been given to %s."] =
+    "Значок %s уже давался пользователю %s.";
+$Definition["The %s locale pack does not exist."] =
+    "Языковой пакет %s отсутствует.";
+$Definition["The %s table is not in the correct format."] =
+    "Таблица %s не в том формате.";
+$Definition["The %s was already approved by %s on %s."] =
+    "%s уже был одобрен пользователем %s %s.";
+$Definition["Thanks for sticking with us for a full year."] =
+    "Благодари вас, что вы с нами уже целый год.";
+$Definition["Thanks for sticking with us for %s years."] =
+    "Благодари вас, что вы с нами уже %s лет.";
+$Definition["The Basics"] = "Основы";
+$Definition["The client ID uniqely identifies the site."] =
+    "ID клиента идентифицирует ваш сайт. Вы можете сгенерировать новый идентификатор при помощью кнопки в нижней части этой страницы.";
+$Definition["The content you were looking for has been deleted."] =
+    "Контент, который вы искали, был удален.";
+$Definition[
+    "The default banner image across the site. This can be overridden on a per category basis."
+] =
+    "Изображение баннера по умолчанию на сайте. Это можно изменить для каждой категории.";
+$Definition["The default role has not been configured."] =
+    "Роль по умолчанию не настроена.";
+$Definition["The email address this test will be sent to."] =
+    "Адрес электронной почты, на который будет отправлен этот тест.";
+$Definition["The email has been sent."] = "Письмо отправлено.";
+$Definition["The first line of content in the email digest after the title."] =
+    "Первая строка контента в дайджесте электронной почты после заголовка.";
+$Definition["The homepage title is displayed on your home page."] =
+    "Заголовок домашней страницы будет отображаться на домашней странице и в поисковых системах.";
+$Definition["The homepage was saved successfully."] =
+    "Страница была успешно сохранена.";
+$Definition["The invitation was removed successfully."] =
+    "Приглашение удалено.";
+$Definition["The invitation was sent successfully."] =
+    "Приглашение отправлено.";
+$Definition["The Key in the XML payload to designate %s."] =
+    "Ключ в полезной нагрузке XML для обозначения %s.";
+$Definition[
+    "The test digest will generate content as if it were this user receiving the digest."
+] =
+    "Тестовый дайджест будет генерировать контент так, как если бы дайджест получал этот пользователь.";
+$Definition["Theme Editor"] = "Редактор тем";
+$Definition["Theme Options"] = "Опции темы";
+$Definition["Themes"] = "Темы оформления";
+$Definition["ThemeEditor.Copy"] = "<0/> копия";
+$Definition["Theming Documentation"] = "Документация по темизации";
+$Definition["Theming Overview"] = "Информация о темах";
+$Definition[
+    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
+] =
+    'Во время загрузки изображения произошла ошибка. Логотип Вашего письма можно загрузить в одном из следующих форматов: gif, jpg, png';
+$Definition["There are currently no applicants."] =
+    "В настоящее время нет пользователей ожидающих одобрения участия на форуме.";
+$Definition["There is currently %s applicant."] =
+    "На данный момент есть %s заявитель.";
+$Definition["There are currently %s applicants."] =
+    "На данный момент есть %s заявителей.";
+$Definition["There are currently no requests."] =
+    "На данный момент нет запросов.";
+$Definition["There is currently %s request."] =
+    "На данный момент есть %s запрос.";
+$Definition["There are currently %s requests."] =
+    "На данный момент есть %s запросов.";
+$Definition["There are no items awaiting moderation at this time."] =
+    "В настоящее время нет новых сообщений для модерации.";
+$Definition[
+    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
+] =
+    "Введенный email уже используется одним из аккаунтов на нашем сайте. Пожалуйста войдите в существующий аккаунт.";
+$Definition["The next three email digest delivery dates"] =
+    "Даты доставки следующих трех дайджестов по электронной почте";
+$Definition["The secret secures the sign in process."] =
+    "Этот секрет обеспечивает безопасность процесса авторизации. <b>Не давайте</b> секрет посторонним лицам!";
+$Definition["The site description usually appears in search engines."] =
+    "Описание сайта обычно появляется в поисковых системах. Вам следует подготовить привлекательное описание не длиннее 100-150 символов.";
+$Definition["The site is currently undergoing scheduled maintenance."] =
+    "Сайт в настоящее время проходит плановое тех. обслуживание.";
+$Definition["The specified url code is already in use by another category."] =
+    "Указанный URL код уже используется другим разделом.";
+$Definition["The structure was successfully executed."] =
+    "Структурирование было выполнено успешно.";
+$Definition["The update was not successful."] =
+    "Обновление не было завершено.";
+$Definition["The update was successful."] = "Обновление прошло успешно.";
+$Definition["The url that users go to to register for a new account."] =
+    "URL, по которому пользователи переходят для регистрации нового аккаунта.";
+$Definition["The url that users use to register for a new account."] =
+    "URL, по которому пользователи переходят для регистрации нового аккаунта.";
+$Definition["The url that users use to sign in."] =
+    "URL, по которому пользователи переходят при завершении сессии.";
+$Definition["The URL where users can sign up for new accounts on your site"] =
+    "URL страницы, на которой пользователи могут зарегистрировать новые аккаунты.";
+$Definition["The URL where users sign in on your site"] =
+    "URL страницы, на которой расположена форма авторизации на сайте";
+$Definition["The URL where users sign out of your site"] =
+    "URL страницы, на которой пользователи завершают сейссию на сайте";
+$Definition["The user and all related content has been deleted."] =
+    "Пользователь и весь связанный с ним контен удалены.";
+$Definition["The user content will be completely deleted."] =
+    "Контент пользователя будет полностью удалён.";
+$Definition["The user content will remain untouched."] =
+    "Контент этого пользователя останется нетронутым.";
+$Definition["The user has been created successfully"] =
+    "Пользователь был успешно создан";
+$Definition["The user has been deleted."] = "Пользователь был удален.";
+$Definition["This action cannot be undone."] = "Это действие не может быть отменено.";
+$Definition[
+    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
+] =
+    "В этом нет необходимости на большинстве сайтов, за исключением тех, которые используют такие функции, как AdSense и Google Tag Manager.";
+$Definition[
+    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
+] =
+    "Это сгенерированное ИИ резюме из указанного поста обсуждения, которое может ответить на вопрос. Резюме создано таким образом, чтобы его можно было использовать в качестве принятого ответа.";
+$Definition["This category has custom permissions."] =
+    "Этот раздел содержит особые права.";
+$Definition["This category is archived."] = "Этот раздел находится в архиве.";
+$Definition["This connection is in test-mode."] =
+    "Данное соединение работает в режиме тестирования. ";
+$Definition["This controls how the responses are phrased and spelled."] =
+    "Это контролирует формулировку и написание ответов.";
+$Definition["This Database"] = "Эту базу данных";
+$Definition["QnAFollowup.Feature.Enabled"] =
+    "Эта функция отправляет электронные письма авторам ответов на вопросы, на которые нет принятого ответа.";
+$Definition["This forum is currently set to invitation only mode."] =
+    "Регистрация на форуме сейчас возможна только по приглашению.";
+$Definition[
+    'This image will be used in category lists and widgets when using the "Icon" style option.'
+] =
+    'Это изображение будет использоваться в списках категорий и виджетах при использовании опции стиля «Значок».';
+$Definition[
+    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
+] =
+    'Это изображение будет отображаться на баннере этой категории и в виджетах категорий при использовании параметров стиля «Изображение» и/или «Фон». Рекомендуемые размеры — около 1000 на 400 пикселей или подобное соотношение.';
+$Definition["This is a parent category that does not allow discussions."] =
+    "Это материнский раздел, который не допускает создания дискуссий.";
+$Definition['This is the first time you\'ve visited the discussion forums.'] =
+    'Вы впервые посетили эту дискуссию.';
+$Definition[
+    "This may be used to include content such as organization name and address in the email digest."
+] =
+    "Это можно использовать для включения в дайджест электронной почты такого контента, как название и адрес организации.";
+$Definition["This name will be shown in the community."] =
+    "Это имя будет отображаться в сообществе.";
+$Definition["This page requires Javascript."] =
+    "Эта страница требует Javascript.";
+$Definition["This pocket is an ad."] = "Это рекламный карман";
+$Definition[
+    "This theme cannot be deleted because it is the currently applied theme"
+] = "Эта тема не может быть удалена, потому что это текущая тема.";
+$Definition["This theme has additional options."] =
+    "Эта тема имеет дополнительные опции здесь: %s";
+$Definition["This theme has customizable text."] =
+    "Эта тема имеет текст, который можно настроить.";
+$Definition[
+    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
+] =
+    "Это поможет другим пользователям с похожими вопросами быстрее найти правильные ответы и отобразит предложенный ИИ ответ и ссылку на справочный материал, чтобы другие пользователи могли его увидеть. Предложения видны только вам, пока вы не примете ответ.";
+$Definition["Threshold"] = "Лимит";
+$Definition["Thumbnails"] = "Миниатюры";
+$Definition["Thumbnail Size"] = "Размер эскиза";
+$Definition["Time"] = "Время";
+$Definition["Timeframe"] = "Период времени";
+$Definition["Titles"] = "Заголовки";
+$Definition["Title Color"] = "Цвет заголовка";
+$Definition["Title Color (Hover)"] = "Цвет заголовка (при наведении)";
+$Definition["Token Name"] = "Название токена";
+$Definition["Touch Icon"] = "Сенсорный значок";
+$Definition["True"] = "Истинный";
+$Definition["Truncate the initial discussion text to this many words."] =
+    "Сократите первоначальный текст дискуссии до этого количества слов.";
+$Definition["trusted domains"] = "доверенные домены";
+$Definition["Trusted Domains"] = "Доверенные домены";
+$Definition["Turn OFF"] = "Выключить";
+$Definition["Turn off AI Suggested Answers"] = "Отключить предлагаемые ИИ ответы";
+$Definition["Turn off for now"] = "Выключить сейчас";
+$Definition["Twitter Connector"] = "Подключение к Twitter";
 
-$Definition['unconfirmed'] = 'не подтверждено';
-$Definition['Undo Accept Answer'] = 'Отменить Принять ответ';
-$Definition['Uninvite'] = 'Отменить приглашение';
-$Definition['Universal Code'] = 'Универсальный код';
-$Definition['Universal Forum Embed Code'] = 'Универсальный код форума для вставки';
-$Definition['Unlimited'] = 'Не ограничено';
-$Definition['Up to a maximum of 100 items may be displayed.'] = 'Может отображаться до 100 элементов.';
-$Definition['Upload New Email Logo'] = 'Загрузить новый логотип письма';
-$Definition['Upcoming Events'] = 'Предстоящие события';
-$Definition['Use an SMTP server to send email'] = 'Использовать SMTP-сервер для отправки писем';
-$Definition['Use asterisks for wildcards'] = 'Используйте звездочки для специальных символов, например, "*@gmail.com"';
-$Definition['Use British English Spelling']  ='Используйте британское английское правописание';
-$Definition['Use Categories'] = 'Использовать разделы';
-$Definition['Use categories to organize discussions'] = 'Используйте разделы для организации дискуссий';
-$Definition['Use Facebook names for usernames.'] = 'Используйте имена Facebook для имен пользователей.';
-$Definition['Use AI Suggestions in Q&A'] = 'Используйте предложения ИИ в вопросах и ответах';
-$Definition['User Count'] = 'Пользователи';
-$Definition['UserDelete'] = 'Удалить контент пользователя';
-$Definition['User Deleted'] = 'Пользователь удален';
-$Definition['User Preferences'] = 'Пользовательские настройки';
-$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'Использует узкоспециализированный язык и отраслевые термины, предназначенные для тех, кто глубоко разбирается в предмете.';
-$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'При необходимости используются отраслевые термины, но также даются пояснения определений для обеспечения ясности.';
-$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'Использует простой, повседневный язык, понятный каждому, независимо от его образования или опыта.';
-$Definition['UserDeleteMessage'] = 'Удалить пользователя и полностью удалить весь его контент. Это может привести к потере дискуссиями связности. Лучший вариант для удаления спама.';
-$Definition['UserDeletionPrompt'] = 'Метод обработки содержимого, ассоциированного с %s (отзывы, уведомления, и т.д.).';
-$Definition['UserKeep'] = 'Сохранить контент пользователя';
-$Definition['UserKeepMessage'] = 'Удалить пользователя, но сохранить его контент.';
-$Definition['Username or UserID to Spoof'] = 'Имя пользователя или UserID для подделки';
-$Definition['User Registration Settings'] = 'Настройки регистрации пользователей';
-$Definition['User successfully added.'] = 'Пользователь успешно добавлен.';
-$Definition['User successfully updated.'] = 'Пользователь успешно обновлен.';
-$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'Пользователи могут следить за категориями, чтобы подписаться на уведомления о новых сообщениях. Выберите, за какими категориями новые пользователи должны следить по умолчанию.';
-$Definition['Users that get this reaction get %+d point.'] = 'Пользователи, получившие эту реакцию получают %+d очков.';
-$Definition['Users that get this reaction get %+d points.'] = 'Пользователи, получившие эту реакцию получают %+d очков.';
-$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'Пользователи не будут предупреждены при переходе по ссылкам, которые соответствуют доверенному домену.';
-$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'После принятия приглашения пользователи будут перенаправлены на этот URL-адрес. Это может быть полный URL-адрес или путь для перенаправления в другой раздел сайта.';
-$Definition['User Summary'] = 'Резюме пользователя';
-$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Пользователи будут отнесены к этой группе, когда подтвердят свой email';
-$Definition['Users with the no ads permission will not see this pocket.'] = 'Пользователям с правами, избавляющими от рекламы не будет показан этот карман.';
-$Definition['UserWipe'] = 'Пустой контент пользователя';
-$Definition['UserWipeMessage'] = 'Удалить пользователя и заменить все его реплики сообщением о том, что пользователь был удален. Это дает понять, что есть недостающая информация.';
-$Definition['Use the content at this url as your homepage.'] = 'Главная страница, которую посетители будут видеть, заходя по адресу <b>%s</b>. По умолчанию показываются "Все темы", но вы можете использовать всё, что захотите. Вот несколько популярных вариантов: ';
-$Definition['Use Vanilla as a commenting system in your site'] = 'Используйте Vanilla как систему комментариев на вашем сайте';
-$Definition['Use weekly community email digest'] = 'Используйте еженедельный дайджест электронной почты сообщества';
-$Definition['Untitled'] = 'Без заголовка';
+$Definition["unconfirmed"] = "не подтверждено";
+$Definition["Undo Accept Answer"] = "Отменить Принять ответ";
+$Definition["Uninvite"] = "Отменить приглашение";
+$Definition["Universal Code"] = "Универсальный код";
+$Definition["Universal Forum Embed Code"] = "Универсальный код форума для вставки";
+$Definition["Unlimited"] = "Не ограничено";
+$Definition["Up to a maximum of 100 items may be displayed."] =
+    "Может отображаться до 100 элементов.";
+$Definition["Upload New Email Logo"] = "Загрузить новый логотип письма";
+$Definition["Upcoming Events"] = "Предстоящие события";
+$Definition["Use an SMTP server to send email"] =
+    "Использовать SMTP-сервер для отправки писем";
+$Definition["Use asterisks for wildcards"] =
+    'Используйте звездочки для специальных символов, например, "*@gmail.com"';
+$Definition["Use British English Spelling"] = "Используйте британское английское правописание";
+$Definition["Use Categories"] = "Использовать разделы";
+$Definition["Use categories to organize discussions"] =
+    "Используйте разделы для организации дискуссий";
+$Definition["Use Facebook names for usernames."] =
+    "Используйте имена Facebook для имен пользователей.";
+$Definition["Use AI Suggestions in Q&A"] = "Используйте предложения ИИ в вопросах и ответах";
+$Definition["User Count"] = "Пользователи";
+$Definition["UserDelete"] = "Удалить контент пользователя";
+$Definition["User Deleted"] = "Пользователь удален";
+$Definition["User Preferences"] = "Пользовательские настройки";
+$Definition[
+    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
+] =
+    "Использует узкоспециализированный язык и отраслевые термины, предназначенные для тех, кто глубоко разбирается в предмете.";
+$Definition[
+    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
+] =
+    "При необходимости используются отраслевые термины, но также даются пояснения определений для обеспечения ясности.";
+$Definition[
+    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
+] =
+    "Использует простой, повседневный язык, понятный каждому, независимо от его образования или опыта.";
+$Definition["UserDeleteMessage"] =
+    'Удалить пользователя и полностью удалить весь его контент. Это может привести к потере дискуссиями связности. Лучший вариант для удаления спама.';
+$Definition["UserDeletionPrompt"] =
+    "Метод обработки содержимого, ассоциированного с %s (отзывы, уведомления, и т.д.).";
+$Definition["UserKeep"] = "Сохранить контент пользователя";
+$Definition["UserKeepMessage"] =
+    'Удалить пользователя, но сохранить его контент.';
+$Definition["Username or UserID to Spoof"] = "Имя пользователя или UserID для подделки";
+$Definition["User Registration Settings"] = "Настройки регистрации пользователей";
+$Definition["User successfully added."] = "Пользователь успешно добавлен.";
+$Definition["User successfully updated."] = "Пользователь успешно обновлен.";
+$Definition[
+    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
+] =
+    "Пользователи могут следить за категориями, чтобы подписаться на уведомления о новых сообщениях. Выберите, за какими категориями новые пользователи должны следить по умолчанию.";
+$Definition["Users that get this reaction get %+d point."] =
+    "Пользователи, получившие эту реакцию получают %+d очков.";
+$Definition["Users that get this reaction get %+d points."] =
+    "Пользователи, получившие эту реакцию получают %+d очков.";
+$Definition[
+    "Users will not be warned when following links that match a Trusted Domain."
+] =
+    "Пользователи не будут предупреждены при переходе по ссылкам, которые соответствуют доверенному домену.";
+$Definition[
+    "Users will be redirected to this URL after accepting an invitation."
+] =
+    "После принятия приглашения пользователи будут перенаправлены на этот URL-адрес. Это может быть полный URL-адрес или путь для перенаправления в другой раздел сайта.";
+$Definition["User Summary"] = "Резюме пользователя";
+$Definition[
+    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
+] =
+    'Пользователи будут отнесены к этой группе, когда подтвердят свой email';
+$Definition["Users with the no ads permission will not see this pocket."] =
+    "Пользователям с правами, избавляющими от рекламы не будет показан этот карман.";
+$Definition["UserWipe"] = "Пустой контент пользователя";
+$Definition["UserWipeMessage"] =
+    'Удалить пользователя и заменить все его реплики сообщением о том, что пользователь был удален. Это дает понять, что есть недостающая информация.';
+$Definition["Use the content at this url as your homepage."] =
+    'Главная страница, которую посетители будут видеть, заходя по адресу <b>%s</b>. По умолчанию показываются "Все темы", но вы можете использовать всё, что захотите. Вот несколько популярных вариантов: ';
+$Definition["Use Vanilla as a commenting system in your site"] =
+    "Используйте Vanilla как систему комментариев на вашем сайте";
+$Definition["Use weekly community email digest"] =
+    "Используйте еженедельный дайджест электронной почты сообщества";
+$Definition["Untitled"] = "Без заголовка";
 
-$Definition['Value or Pattern'] = 'Значение или узор';
-$Definition['Vanilla.Archive.Description'] = 'Вы можете настроить архивацию дискуссий на форуме старше определенной даты. Архивированные дискуссии практически закрываются, что не позволяет добавить в них новые комментарии.';
-$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Сколько уровней вложенности отображать в разделах: %1$s';
-$Definition['Vanilla is installed!'] = 'Форум Vanilla установлен!';
-$Definition['Verified!'] = 'Проверен!';
-$Definition['Version'] = 'Версия';
-$Definition['Version %s'] = 'Версия %s';
-$Definition['version %s'] = 'версия %s';
-$Definition['Version %s Installer'] = 'Версия %s';
-$Definition['View browser compatibility chart'] = 'Посмотреть таблицу совместимости браузеров';
-$Definition['View Count'] = 'Количество просмотров';
-$Definition['View in context '] = 'Посмотреть в контексте';
-$Definition['View Page'] = 'Показать страницу';
-$Definition['Visit Site'] = 'Перейти на сайт';
-$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Предупреждать пользователей, если ссылка в сообщении заставит их покинуть форум';
-$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '<b>Внимание!</b> Все ваши данные будут потеряны. После удаления, нет абсолютно никакого способа восстановления.';
-$Definition['Warning: deleting is permanent'] = '<b>Внимание!</b> удаленные элементы будут удалены окончательно и не смогут быть возвращены.';
-$Definition['Weekly Email Digest '] = 'Еженедельный дайджест электронной почты';
-$Definition['Welcome to Vanilla!'] = 'Добро пожаловать в Vanilla!';
-$Definition['Welcome to your Dashboard'] = 'Добро пожаловать в вашу консоль';
-$Definition['We only accept urls that begin with http:// or https://'] = 'Разрешены только 2 типа ссылок: http:// или https://';
-$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Мы попытаемся использовать локальный почтовый сервер для отправки электронной почты по умолчанию. Если вы хотите использовать отдельный почтовый SMTP сервер, настройте его ниже.';
-$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'Добро пожаловать. Я ваш помощник по предложениям ИИ, инструмент на основе машинного обучения, предназначенный для поиска и предложения соответствующих статей и постов в ответ на ваши запросы. Введите свои вопросы, и я предоставлю наиболее подходящую информацию.';
+$Definition["Value or Pattern"] = "Значение или узор";
+$Definition["Vanilla.Archive.Description"] =
+    "Вы можете настроить архивацию дискуссий на форуме старше определенной даты. Архивированные дискуссии практически закрываются, что не позволяет добавить в них новые комментарии.";
+$Definition["Vanilla.Categories.MaxDisplayDepth"] =
+    'Сколько уровней вложенности отображать в разделах: %1$s';
+$Definition["Vanilla is installed!"] = "Форум Vanilla установлен!";
+$Definition["Verified!"] = "Проверен!";
+$Definition["Version"] = "Версия";
+$Definition["Version %s"] = "Версия %s";
+$Definition["version %s"] = "версия %s";
+$Definition["Version %s Installer"] = "Версия %s";
+$Definition["View browser compatibility chart"] =
+    "Посмотреть таблицу совместимости браузеров";
+$Definition["View Count"] = "Количество просмотров";
+$Definition["View in context "] = "Посмотреть в контексте";
+$Definition["View Page"] = "Показать страницу";
+$Definition["Visit Site"] = "Перейти на сайт";
+$Definition[
+    "Warn users if a link in a post will cause them to leave the forum"
+] = "Предупреждать пользователей, если ссылка в сообщении заставит их покинуть форум";
+$Definition[
+    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
+] =
+    "<b>Внимание!</b> Все ваши данные будут потеряны. После удаления, нет абсолютно никакого способа восстановления.";
+$Definition["Warning: deleting is permanent"] =
+    "<b>Внимание!</b> удаленные элементы будут удалены окончательно и не смогут быть возвращены.";
+$Definition["Weekly Email Digest "] = "Еженедельный дайджест электронной почты";
+$Definition["Welcome to Vanilla!"] = "Добро пожаловать в Vanilla!";
+$Definition["Welcome to your Dashboard"] = "Добро пожаловать в вашу консоль";
+$Definition["We only accept urls that begin with http:// or https://"] =
+    "Разрешены только 2 типа ссылок: http:// или https://";
+$Definition[
+    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
+] =
+    "Мы попытаемся использовать локальный почтовый сервер для отправки электронной почты по умолчанию. Если вы хотите использовать отдельный почтовый SMTP сервер, настройте его ниже.";
+$Definition[
+    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
+] =
+    "Добро пожаловать. Я ваш помощник по предложениям ИИ, инструмент на основе машинного обучения, предназначенный для поиска и предложения соответствующих статей и постов в ответ на ваши запросы. Введите свои вопросы, и я предоставлю наиболее подходящую информацию.";
 $Definition['What\'s the Buzz?'] = 'Что нового?';
-$Definition['When enabled, search result will open in a new browser tab.'] = 'Если этот параметр включен, результаты поиска откроется в новой вкладке браузера.';
-$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'Если эта функция включена, в вашем сообществе будут отображаться предложения ИИ в разделе «Вопросы и ответы». <0/>';
-$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'Если этот параметр включен, сведения о пользователе в данных Google Analytics по умолчанию будут анонимными до тех пор, пока пользователь не согласится на использование файлов cookie Google Analytics. <0>Подробнее</0>';
-$Definition['Where is your Community Forum?'] = 'Расположение форума';
+$Definition["When enabled, search result will open in a new browser tab."] =
+    "Если этот параметр включен, результаты поиска откроется в новой вкладке браузера.";
+$Definition[
+    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
+] = "Если эта функция включена, в вашем сообществе будут отображаться предложения ИИ в разделе «Вопросы и ответы». <0/>";
+$Definition[
+    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
+] =
+    "Если этот параметр включен, сведения о пользователе в данных Google Analytics по умолчанию будут анонимными до тех пор, пока пользователь не согласится на использование файлов cookie Google Analytics. <0>Подробнее</0>";
+$Definition["Where is your Community Forum?"] =
+    "Расположение форума";
 $Definition['Who\'s Online Settings'] = 'Настройки "Кто в сети?"';
-$Definition['Why am I seeing AI Suggested Answers?'] = 'Почему я вижу предлагаемые ИИ ответы?';
-$Definition['Why am I seeing this?'] = 'Почему я это вижу?';
-$Definition['Why do you want to join?'] = 'Почему вы хотите зарегистрироваться?';
-$Definition['Within'] = 'В пределах';
-$Definition['Will you be attending?'] = 'Вы будете присутствовать?';
-$Definition['WordPress Plugin'] = 'Плагин для WordPress';
-$Definition['Word Count'] = 'Число слов';
+$Definition["Why am I seeing AI Suggested Answers?"] =
+    "Почему я вижу предлагаемые ИИ ответы?";
+$Definition["Why am I seeing this?"] = "Почему я это вижу?";
+$Definition["Why do you want to join?"] = "Почему вы хотите зарегистрироваться?";
+$Definition["Within"] = "В пределах";
+$Definition["Will you be attending?"] = "Вы будете присутствовать?";
+$Definition["WordPress Plugin"] = "Плагин для WordPress";
+$Definition["Word Count"] = "Число слов";
 
-$Definition['Yes, the following information can be changed later.'] = 'Информация, расположенная ниже, впоследствии может быть изменена.';
-$Definition['You are connected as %s.'] = 'Вы подключены как %s.';
-$Definition['You are not allowed to use suggestions'] = 'Вам не разрешено использовать предложения';
-$Definition['You are previewing the %s theme.'] = 'Вы просматриваете тему %s';
-$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Установите флажок рядом с пользователем, который опубликовал спам, чтобы также отлучить его и удалить все его публикации. <b>Делайте это только если вы уверены, что это спамер!</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Вы всегда можете использовать пароль на <a href="%1$s">%1$s</a>.';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Вы можете заблокировать по IP-адресу, домену email-адресов и словам в именах пользователей.  ';
-$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Вы можете настроить HTML и CSS для этой темы на странице %s.';
-$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Вы можете либо создать новый аккаунт, либо ввести учетные данные уже существующего аккаунта.';
-$Definition['You can make the categories page your homepage.'] = 'Страницы разделов можно установить в качестве главной страницы <a href="%s">тут</a>.';
-$Definition['You can search for users by username or email, wildcards are implied.'] = 'Вы можете искать пользователей по имени пользователя или электронной почте, подстановочные знаки подразумеваются.';
-$Definition['You can specify an allow list of trusted domains.'] = 'Вы можете указать список доверенных доменов, которые безопасны для перенаправления и встраивания.';
-$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Вы можете указать разрешенный список доверенных доменов (например, yourdomain.com), с которых безопасно загружать javascript.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Плагин %1$s нельзя отключить потому, что он необходим для стабильной работы плагина %2$s.';
-$Definition['You cannot remove the only remaining category that allows discussions'] = 'Вы не можете удалить только оставшиеся разделы, что допускают дискуссии';
-$Definition['You can protect your site with an HTTP username/password during development.'] = 'Вы можете защитить свой сайт в процессе разработки с помощью имя пользователя/пароля HTTP.';
-$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Вы можете отправлять письма, написанные простым текстом, отключив переключатель ниже.';
-$Definition['You have %s invitations left for this month.'] = 'У Вас %s пропущенных приглашений в этом месяце.';
-$Definition['You have successfully saved interest: <0/>'] = 'Вы успешно сохранили проценты: <0/>';
-$Definition['You must be authenticated in order to use this form.'] = 'Вы должны быть авторизованы, чтобы использовать эту форму.';
-$Definition['You must manually apply this rank.'] = 'Вам нужно вручную применить этот ранг.';
-$Definition['You must provide at least one recipient'] = 'Вы должны предоставить как минимум одного получателя';
-$Definition['You must specify an admin password.'] = 'Вы не ввели пароль администратора';
-$Definition['You must specify an admin username.'] = 'Вы не ввели имя администратора';
-$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Неправильно установлены права для файла конфигурации. PHP должен иметь возможность чтения и записи в файл: <code>%s</code>';
-$Definition['Your default locale won\'t display properly'] = 'Ваше местоположение по умолчанию не отображается правильно. Пожалуйста, выберите его: %s.';
-$Definition['Your Email'] = 'Ваша эл. почта';
-$Definition['Your inbox is empty.'] = 'Ваш список сообщений пуст.';
-$Definition['Your invitations were sent successfully.'] = 'Ваш инвайт был успешно отослан';
-$Definition['Your Password'] = 'Ваш пароль';
-$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Вы покидаете редактор тем, не сохранив изменения. Перед выходом убедитесь, что ваши обновления сохранены.';
-$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'Вы покидаете страницу настроек электронной почты без сохранения изменений. Перед выходом убедитесь, что ваши обновления сохранены.';
+$Definition["Yes, the following information can be changed later."] =
+    "Информация, расположенная ниже, впоследствии может быть изменена.";
+$Definition["You are connected as %s."] = "Вы подключены как %s.";
+$Definition["You are not allowed to use suggestions"] =
+    "Вам не разрешено использовать предложения";
+$Definition["You are previewing the %s theme."] =
+    "Вы просматриваете тему %s";
+$Definition[
+    "You can also ban the users that posted the spam and delete all of their posts."
+] =
+    "Установите флажок рядом с пользователем, который опубликовал спам, чтобы также отлучить его и удалить все его публикации. <b>Делайте это только если вы уверены, что это спамер!</b>";
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
+    'Вы всегда можете использовать пароль на <a href="%1$s">%1$s</a>.';
+$Definition[
+    "You can ban IP addresses, email domains, and words from usernames using this tool."
+] =
+    "Вы можете заблокировать по IP-адресу, домену email-адресов и словам в именах пользователей.  ";
+$Definition[
+    "You can customize the HTML and CSS for this theme on the %s page."
+] = "Вы можете настроить HTML и CSS для этой темы на странице %s.";
+$Definition[
+    "You can either create a new account, or enter your credentials if you have an existing account."
+] =
+    "Вы можете либо создать новый аккаунт, либо ввести учетные данные уже существующего аккаунта.";
+$Definition["You can make the categories page your homepage."] =
+    'Страницы разделов можно установить в качестве главной страницы <a href="%s">тут</a>.';
+$Definition[
+    "You can search for users by username or email, wildcards are implied."
+] = "Вы можете искать пользователей по имени пользователя или электронной почте, подстановочные знаки подразумеваются.";
+$Definition["You can specify an allow list of trusted domains."] =
+    "Вы можете указать список доверенных доменов, которые безопасны для перенаправления и встраивания.";
+$Definition["You can specify an allow list of trusted domains. (CSP)"] =
+    "Вы можете указать разрешенный список доверенных доменов (например, yourdomain.com), с которых безопасно загружать javascript.";
+$Definition[
+    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
+] =
+    'Плагин %1$s нельзя отключить потому, что он необходим для стабильной работы плагина %2$s.';
+$Definition[
+    "You cannot remove the only remaining category that allows discussions"
+] = "Вы не можете удалить только оставшиеся разделы, что допускают дискуссии";
+$Definition[
+    "You can protect your site with an HTTP username/password during development."
+] =
+    "Вы можете защитить свой сайт в процессе разработки с помощью имя пользователя/пароля HTTP.";
+$Definition[
+    "You can send emails in plain text by disabling the toggle below."
+] = "Вы можете отправлять письма, написанные простым текстом, отключив переключатель ниже.";
+$Definition["You have %s invitations left for this month."] =
+    "У Вас %s пропущенных приглашений в этом месяце.";
+$Definition["You have successfully saved interest: <0/>"] =
+    "Вы успешно сохранили проценты: <0/>";
+$Definition["You must be authenticated in order to use this form."] =
+    "Вы должны быть авторизованы, чтобы использовать эту форму.";
+$Definition["You must manually apply this rank."] =
+    "Вам нужно вручную применить этот ранг.";
+$Definition["You must provide at least one recipient"] =
+    "Вы должны предоставить как минимум одного получателя";
+$Definition["You must specify an admin password."] =
+    "Вы не ввели пароль администратора";
+$Definition["You must specify an admin username."] =
+    "Вы не ввели имя администратора";
+$Definition[
+    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
+] =
+    "Неправильно установлены права для файла конфигурации. PHP должен иметь возможность чтения и записи в файл: <code>%s</code>";
+$Definition['Your default locale won\'t display properly'] =
+    'Ваше местоположение по умолчанию не отображается правильно. Пожалуйста, выберите его: %s.';
+$Definition["Your Email"] = "Ваша эл. почта";
+$Definition["Your inbox is empty."] = "Ваш список сообщений пуст.";
+$Definition["Your invitations were sent successfully."] =
+    "Ваш инвайт был успешно отослан";
+$Definition["Your Password"] = "Ваш пароль";
+$Definition[
+    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Вы покидаете редактор тем, не сохранив изменения. Перед выходом убедитесь, что ваши обновления сохранены.";
+$Definition[
+    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Вы покидаете страницу настроек электронной почты без сохранения изменений. Перед выходом убедитесь, что ваши обновления сохранены.";
 
-$Definition['Zendesk Knowledge Bases'] = 'Базы знаний Zendesk';
+$Definition["Zendesk Knowledge Bases"] = "Базы знаний Zendesk";
 
 $Definition["Mobile Logo"] = "Мобильный логотип";
 $Definition["Banner Image"] = "Баннерное изображение";
 $Definition["Disable Forum Pages"] = "Отключить страницы форума";
 
 // Posting settings
-$Definition['InputFormatter.Notes1'] = 'Выберите форматирование редактора по-умолчанию для публикаций от сообщества.';
-$Definition['InputFormatter.Notes2'] = 'Редактор автоматически определит форматирование предыдущих публикаций при их редактировании и загрузит изначальные настройки форматирования. Новый формат публикаций будет всегда иметь приоритет, за исключением этого случая.';
-$Definition['Formatting Posts'] = 'Форматирование постов';
-$Definition['MobileInputFormatter.Notes1'] = 'Укажите форматирование редактора на мобильных устройствах.';
-$Definition['MobileInputFormatter.Notes2'] = 'Если мобильные устройства должны иметь то же форматирование, выберите такую же опцию как и выше. Если пользователи сообщают о проблемах с редактором на мобильных устройствах, здесь вы можете изменить его форматирование.';
-$Definition['Note:'] = 'Примечание:';
-$Definition['Post Format'] = 'Форматирование публикаций';
-$Definition['Posting'] = 'Публикация';
-$Definition['Reinterpret All Posts As %s'] = 'Переинтерпретировать все сообщения как%s';
-$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'Скажите редактору, чтобы он интерпретировал все старые сообщения как%s.';
-$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'Этот параметр вступит в силу только в том случае, если%s был выбран в качестве формата сообщения выше.';
-$Definition['This option is to normalize the editor format'] = 'Этот параметр предназначен для нормализации формата редактора. Если загружены более старые сообщения, отредактированные в другом формате, например, в разметке или BBCode, этот параметр принудительно вызовет%s.';
+$Definition["InputFormatter.Notes1"] =
+    "Выберите форматирование редактора по-умолчанию для публикаций от сообщества.";
+$Definition["InputFormatter.Notes2"] =
+    "Редактор автоматически определит форматирование предыдущих публикаций при их редактировании и загрузит изначальные настройки форматирования. Новый формат публикаций будет всегда иметь приоритет, за исключением этого случая.";
+$Definition["Formatting Posts"] = "Форматирование постов";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Укажите форматирование редактора на мобильных устройствах.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Если мобильные устройства должны иметь то же форматирование, выберите такую же опцию как и выше. Если пользователи сообщают о проблемах с редактором на мобильных устройствах, здесь вы можете изменить его форматирование.";
+$Definition["Note:"] = "Примечание:";
+$Definition["Post Format"] = "Форматирование публикаций";
+$Definition["Posting"] = "Публикация";
+$Definition["Reinterpret All Posts As %s"] = "Переинтерпретировать все сообщения как%s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Скажите редактору, чтобы он интерпретировал все старые сообщения как%s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Этот параметр вступит в силу только в том случае, если%s был выбран в качестве формата сообщения выше.";
+$Definition["This option is to normalize the editor format"] =
+    "Этот параметр предназначен для нормализации формата редактора. Если загружены более старые сообщения, отредактированные в другом формате, например, в разметке или BBCode, этот параметр принудительно вызовет%s.";
 
-$Definition['Mobile Format'] = 'Форматирование на мобильных устройствах';
-$Definition['Enable Rich Quotes'] = 'Включить многофункциональные цитаты ';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Используйте следующую опцию, чтобы включить цитаты для Rich Editor. Это будет применяться только в том случае, если форматером по умолчанию является «Rich».';
+$Definition["Mobile Format"] = "Форматирование на мобильных устройствах";
+$Definition["Enable Rich Quotes"] = "Включить многофункциональные цитаты ";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Используйте следующую опцию, чтобы включить цитаты для Rich Editor. Это будет применяться только в том случае, если форматером по умолчанию является «Rich».';
 
 // Catalogue Display Plugin/Formats
-$Definition['Default placeholder'] = 'Местозаполнитель по умолчанию';
-$Definition['Upload a placeholder image for catalogue post.'] = 'Загрузить изображение-местозаполнитель, которое будет отображаться в том случае, когда пользователи не имеют в своём посте установленного изображения.';
-$Definition['Additional classes'] = 'Дополнительные классы';
-$Definition['Apply additional classes on catalogue image.'] = 'Применить дополнительные классы к изображению каталога. Использовать промежутки, чтобы отделить классы друг от друга.';
-$Definition['Category only'] = 'Только категории';
-$Definition['Display on category page only.'] = 'Отображать только на странице категорий. Список последних обсуждений затронут не будет.';
-$Definition['Use Masonry display'] = 'Использовать изображение кирпичной кладки для заполнения дисплея';
-$Definition['Show an uploaded image on the Category page.'] = 'В каждом обсуждении на странице категорий будет отображаться загруженное изображение. Это относится только к категориям с «Обсуждениями» с параметром «Показывать как.»';
-$Definition['Upload Placeholder Image'] = 'Загрузить изображение для местозаполнителя';
+$Definition["Default placeholder"] = "Местозаполнитель по умолчанию";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Загрузить изображение-местозаполнитель, которое будет отображаться в том случае, когда пользователи не имеют в своём посте установленного изображения.";
+$Definition["Additional classes"] = "Дополнительные классы";
+$Definition["Apply additional classes on catalogue image."] =
+    "Применить дополнительные классы к изображению каталога. Использовать промежутки, чтобы отделить классы друг от друга.";
+$Definition["Category only"] = "Только категории";
+$Definition["Display on category page only."] =
+    "Отображать только на странице категорий. Список последних обсуждений затронут не будет.";
+$Definition["Use Masonry display"] = "Использовать изображение кирпичной кладки для заполнения дисплея";
+$Definition["Show an uploaded image on the Category page."] =
+    'В каждом обсуждении на странице категорий будет отображаться загруженное изображение. Это относится только к категориям с «Обсуждениями» с параметром «Показывать как.»';
+$Definition["Upload Placeholder Image"] = "Загрузить изображение для местозаполнителя";
 
 // Profile Fields
-$Definition['There was an error saving your changes. Please try again.'] = 'Не удалось сохранить ваши изменения. Пожалуйста, попробуйте еще раз.';
+$Definition["There was an error saving your changes. Please try again."] =
+    "Не удалось сохранить ваши изменения. Пожалуйста, попробуйте еще раз.";
 $Definition["<0/> has been <1/>"] = "<0/> было <1/>";
 $Definition["enabled"] = "включено";
 $Definition["disabled"] = "неполноценный";
 
-$Definition["This information will only be shown to users with permission to view internal info"] = "Эта информация будет показана только пользователям с разрешением на просмотр внутренней информации.";
-$Definition["This is private information and will not be shared with other members."] = "Это личная информация, и она не будет передана другим участникам.";
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Эта информация будет показана только пользователям с разрешением на просмотр внутренней информации.";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Это личная информация, и она не будет передана другим участникам.";
 
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Это создаст конференцию Zoom от имени владельца интеграции Zoom, и если вы являетесь зарегистрированным пользователем, добавит вас в качестве соорганизатора. Если вы не являетесь зарегистрированным пользователем Zoom или не являетесь частью организации, которая настроила интеграцию, это событие может иметь ограниченную функциональность Zoom без организатора.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Вы не можете обновить URL-адрес или идентификатор Zoom этого мероприятия.';
 
-$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'Это создаст конференцию Zoom от имени владельца интеграции Zoom, и если вы являетесь зарегистрированным пользователем, добавит вас в качестве соорганизатора. Если вы не являетесь зарегистрированным пользователем Zoom или не являетесь частью организации, которая настроила интеграцию, это событие может иметь ограниченную функциональность Zoom без организатора.';
-$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'Вы не можете обновить URL-адрес или идентификатор Zoom этого мероприятия.';
-
-$Definition['Zoom Meeting ID or URL'] = 'Идентификатор или URL-адрес конференции Zoom';
+$Definition["Zoom Meeting ID or URL"] = "Идентификатор или URL-адрес конференции Zoom";
 
 // Automation Rules
-$Definition['Add tag'] = 'Добавить тег';
-$Definition['A post'] = 'Пост';
-$Definition['A post has been added to a collection'] = 'Запись была добавлена в коллекцию';
-$Definition['A post has not had any activity'] = 'Пост не имел никакой активности';
-$Definition['A question'] = 'Вопрос';
-$Definition['A user has been registered'] = 'Пользователь зарегистрирован';
-$Definition['A post has received'] = 'Пост получен';
-$Definition['A user registers or logs in with email domain:'] = 'Пользователь регистрируется или входит в систему, используя домен электронной почты:';
-$Definition['A user registers or updates a profile field:'] = 'Пользователь регистрируется или обновляет поле профиля:';
-$Definition['Add tags:'] = 'Добавить теги:';
-$Definition['Add to collection:'] = 'Добавить в коллекцию:';
-$Definition['An idea has received'] = 'Идея получила';
-$Definition['and'] = 'и';
-$Definition['and assign to'] = 'и назначить';
-$Definition['and remove role'] = 'и удалить роль';
-$Definition['and remove from community'] = 'и удалить из сообщества';
-$Definition['Assign role:'] = 'Назначить роль:';
-$Definition['Assign/Remove role'] = 'Назначить/удалить роль';
-$Definition['Auto-run disabled.'] = 'Автозапуск отключен.';
-$Definition['Auto-run enabled.'] = 'Автозапуск включен.';
-$Definition['Automation rule successfully created.'] = 'Правило автоматизации успешно создано.';
-$Definition['Automation rule successfully updated.'] = 'Правило автоматизации успешно обновлено.';
-$Definition['Bump post'] = 'Пост с ударом';
-$Definition['Change the status of the idea to'] = 'Измените статус идеи на';
-$Definition['Change status'] = 'Изменить статус';
-$Definition['Close post'] = 'Закрыть пост';
-$Definition['Comments Matching Criteria Now: <0 />'] = 'Комментарии, соответствующие критериям сейчас: <0 />';
-$Definition['created by'] = 'создано';
-$Definition['Create and manage automations to easily manage posts and users.'] = 'Создавайте и управляйте автоматизацией для легкого управления публикациями и пользователями.';
-$Definition['Create/Edit Automation Rule'] = 'Создать/редактировать правило автоматизации';
-$Definition['Delete Rule'] = 'Удалить правило';
-$Definition['Discussions Matching Criteria Now: <0 />'] = 'Обсуждения, соответствующие критериям сейчас: <0 />';
-$Definition['Edit Rule'] = 'Изменить правило';
-$Definition['Edit Variables'] = 'Редактировать переменные';
-$Definition['Escalate it'] = 'Эскалируйте это';
-$Definition['Escalate to GitHub'] = 'Перейти на GitHub';
-$Definition['Escalate to Zendesk'] = 'Передать в Zendesk';
-$Definition['Expand'] = 'Расширять';
-$Definition['Failed to disable the rule'] = 'Не удалось отключить правило.';
-$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'Не удалось загрузить данные предварительного просмотра. Проверьте значения триггера и действия.';
-$Definition['Follow categories:'] = 'Подписаться на категории:';
-$Definition['Follow category'] = 'Подписаться на категорию';
-$Definition['for'] = 'для';
-$Definition['has been unanswered'] = 'остался без ответа';
-$Definition['has not received any comments'] = 'не получил никаких комментариев';
-$Definition['Last reported'] = 'Последнее сообщение';
-$Definition['Maximum Limit Reached'] = 'Достигнут максимальный предел';
-$Definition['Move post'] = 'Переместить пост';
-$Definition['Move to category:'] = 'Перейти к категории:';
-$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'Поля с множественным выбором активируются, если пользователь соответствует ЛЮБОМУ из критериев.';
-$Definition['New/Updated Email domain'] = 'Новый/обновленный домен электронной почты';
-$Definition['New/Updated Profile field'] = 'Новое/обновленное поле профиля';
-$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'Примечание: действия не повлияют на <0 />, к которым уже применено связанное действие.';
-$Definition['Post Management'] = 'Управление почтой';
-$Definition['Posts Matching Criteria Now: <0 />'] = 'Сообщений, соответствующих критериям сейчас: <0 />';
-$Definition['Remove from collection'] = 'Удалить из коллекции';
-$Definition['Remove from collection:'] = 'Удалить из коллекции:';
-$Definition['Remove from default follow list'] = 'Удалить из списка подписчиков по умолчанию';
-$Definition['Remove from trigger collection'] = 'Удалить из коллекции триггеров';
-$Definition['report'] = 'отчет';
-$Definition['reports'] = 'отчеты';
-$Definition['Rule Action'] = 'Правило Действие';
-$Definition['Rule may not be deleted while it is running'] = 'Правило не может быть удалено во время его работы.';
-$Definition['Rule may not be edited while it is running'] = 'Правило нельзя редактировать во время его работы.';
-$Definition['Rule Name'] = 'Имя правила';
-$Definition['Rule status will apply once current run completes'] = 'Статус правила будет применен после завершения текущего запуска.';
-$Definition['Rule Trigger'] = 'Правило Триггера';
-$Definition['Running'] = 'Бег';
-$Definition['See documentation for more information.'] = 'Более подробную информацию смотрите в документации.';
-$Definition['Select the action that will occur when this rule is triggered.'] = 'Выберите действие, которое будет выполняться при срабатывании этого правила.';
-$Definition['Select the trigger that will cause this rule to run.'] = 'Выберите триггер, который запустит это правило.';
-$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'Установите переменную триггера и переменную действия для создания сводки правил.';
-$Definition['sentiment'] = 'сентимент';
-$Definition['since'] = 'с';
-$Definition['Summary'] = 'Краткое содержание';
-$Definition['The action will be applied to only them if you proceed.'] = 'Если вы продолжите, действие будет применено только к ним.';
-$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'Действие будет применено к ним, когда правило будет включено. В будущем другие <0 />, которые соответствуют критериям триггера, также будут иметь действие, примененное к ним.';
-$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'Это не повлияет ни на один <0 /> прямо сейчас. Это повлияет на тех, кто соответствует критериям в будущем.';
-$Definition['Time since added to collection'] = 'Время с момента добавления в коллекцию';
-$Definition['Time since post has had no comments'] = 'Время с момента публикации не было комментариев';
-$Definition['Time since Registration'] = 'Время с момента регистрации';
-$Definition['Time since post has had no activity'] = 'Время с момента отсутствия активности поста';
-$Definition['Time since question has been unanswered'] = 'Время, прошедшее с момента, как вопрос остался без ответа';
-$Definition['Trigger'] = 'Курок';
-$Definition['Unsaved Changes'] = 'Несохраненные изменения';
-$Definition['Up to <0 /> ago.'] = 'До <0 /> назад.';
-$Definition['upvote'] = 'голосовать за';
-$Definition['upvotes'] = 'голоса за';
-$Definition['User Management'] = 'Управление пользователями';
-$Definition['Users Matching Criteria Now: <0 />'] = 'Пользователи, соответствующие критериям сейчас: <0 />';
-$Definition['Value is not a valid integer.'] = 'Значение не является допустимым целым числом.';
-$Definition['View History'] = 'Посмотреть историю';
-$Definition['Votes on an idea'] = 'Голосование по идее';
-$Definition['with'] = 'с';
-$Definition['with reason'] = 'с разумом';
-$Definition['with tag'] = 'с тегом';
-$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'Вы не можете добавить более 150 правил автоматизации. Удалите некоторые правила и попробуйте снова.';
+$Definition["Add tag"] = "Добавить тег";
+$Definition["A post"] = "Пост";
+$Definition["A post has been added to a collection"] =
+    "Запись была добавлена в коллекцию";
+$Definition["A post has not had any activity"] =
+    "Пост не имел никакой активности";
+$Definition["A question"] = "Вопрос";
+$Definition["A user has been registered"] = "Пользователь зарегистрирован";
+$Definition["A post has received"] = "Пост получен";
+$Definition["Date field reached"] = "Поле даты достигнуто";
+$Definition["A user registers or logs in with email domain:"] =
+    "Пользователь регистрируется или входит в систему, используя домен электронной почты:";
+$Definition["A user registers or updates a profile field:"] =
+    "Пользователь регистрируется или обновляет поле профиля:";
+$Definition["Add tags:"] = "Добавить теги:";
+$Definition["Add to collection:"] = "Добавить в коллекцию:";
+$Definition["An idea has received"] = "Идея получила";
+$Definition["and"] = "и";
+$Definition["and assign to"] = "и назначить";
+$Definition["and remove role"] = "и удалить роль";
+$Definition["and remove from community"] = "и удалить из сообщества";
+$Definition["Assign role:"] = "Назначить роль:";
+$Definition["Assign/Remove role"] = "Назначить/удалить роль";
+$Definition["Auto-run disabled."] = "Автозапуск отключен.";
+$Definition["Auto-run enabled."] = "Автозапуск включен.";
+$Definition["Automation rule successfully created."] =
+    "Правило автоматизации успешно создано.";
+$Definition["Automation rule successfully updated."] =
+    "Правило автоматизации успешно обновлено.";
+$Definition["Bump post"] = "Пост с ударом";
+$Definition["Change the status of the idea to"] =
+    "Измените статус идеи на";
+$Definition["Change status"] = "Изменить статус";
+$Definition["Close post"] = "Закрыть пост";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Комментарии, соответствующие критериям сейчас: <0 />";
+$Definition["created by"] = "создано";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Создавайте и управляйте автоматизацией для легкого управления публикациями и пользователями.";
+$Definition["Create/Edit Automation Rule"] = "Создать/редактировать правило автоматизации";
+$Definition["Delete Rule"] = "Удалить правило";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Обсуждения, соответствующие критериям сейчас: <0 />";
+$Definition["Edit Rule"] = "Изменить правило";
+$Definition["Edit Variables"] = "Редактировать переменные";
+$Definition["Escalate it"] = "Эскалируйте это";
+$Definition["Escalate to GitHub"] = "Перейти на GitHub";
+$Definition["Escalate to Zendesk"] = "Передать в Zendesk";
+$Definition["Expand"] = "Расширять";
+$Definition["Failed to disable the rule"] = "Не удалось отключить правило.";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Не удалось загрузить данные предварительного просмотра. Проверьте значения триггера и действия.";
+$Definition["Follow categories:"] = "Подписаться на категории:";
+$Definition["Follow category"] = "Подписаться на категорию";
+$Definition["for"] = "для";
+$Definition["has been unanswered"] = "остался без ответа";
+$Definition["has not received any comments"] = "не получил никаких комментариев";
+$Definition["Last reported"] = "Последнее сообщение";
+$Definition["Maximum Limit Reached"] = "Достигнут максимальный предел";
+$Definition["Move post"] = "Переместить пост";
+$Definition["Move to category:"] = "Перейти к категории:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Поля с множественным выбором активируются, если пользователь соответствует ЛЮБОМУ из критериев.";
+$Definition["New/Updated Email domain"] = "Новый/обновленный домен электронной почты";
+$Definition["New/Updated Profile field"] = "Новое/обновленное поле профиля";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Примечание: действия не повлияют на <0 />, к которым уже применено связанное действие.";
+$Definition["Post Management"] = "Управление почтой";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Сообщений, соответствующих критериям сейчас: <0 />";
+$Definition["Remove from collection"] = "Удалить из коллекции";
+$Definition["Remove from collection:"] = "Удалить из коллекции:";
+$Definition["Remove from default follow list"] =
+    "Удалить из списка подписчиков по умолчанию";
+$Definition["Remove from trigger collection"] =
+    "Удалить из коллекции триггеров";
+$Definition["report"] = "отчет";
+$Definition["reports"] = "отчеты";
+$Definition["Rule Action"] = "Правило Действие";
+$Definition["Rule may not be deleted while it is running"] =
+    "Правило не может быть удалено во время его работы.";
+$Definition["Rule may not be edited while it is running"] =
+    "Правило нельзя редактировать во время его работы.";
+$Definition["Rule Name"] = "Имя правила";
+$Definition["Rule status will apply once current run completes"] =
+    "Статус правила будет применен после завершения текущего запуска.";
+$Definition["Rule Trigger"] = "Правило Триггера";
+$Definition["Running"] = "Бег";
+$Definition["See documentation for more information."] =
+    "Более подробную информацию смотрите в документации.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Выберите действие, которое будет выполняться при срабатывании этого правила.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Выберите триггер, который запустит это правило.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Установите переменную триггера и переменную действия для создания сводки правил.";
+$Definition["sentiment"] = "сентимент";
+$Definition["since"] = "с";
+$Definition["Summary"] = "Краткое содержание";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Если вы продолжите, действие будет применено только к ним.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Действие будет применено к ним, когда правило будет включено. В будущем другие <0 />, которые соответствуют критериям триггера, также будут иметь действие, примененное к ним.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Это не повлияет ни на один <0 /> прямо сейчас. Это повлияет на тех, кто соответствует критериям в будущем.";
+$Definition["Time since added to collection"] =
+    "Время с момента добавления в коллекцию";
+$Definition["Time since post has had no comments"] =
+    "Время с момента публикации не было комментариев";
+$Definition["Time since Registration"] = "Время с момента регистрации";
+$Definition["Time since post has had no activity"] =
+    "Время с момента отсутствия активности поста";
+$Definition["Time since question has been unanswered"] =
+    "Время, прошедшее с момента, как вопрос остался без ответа";
+$Definition["Trigger"] = "Курок";
+$Definition["Unsaved Changes"] = "Несохраненные изменения";
+$Definition["Up to <0 /> ago."] = "До <0 /> назад.";
+$Definition["upvote"] = "голосовать за";
+$Definition["upvotes"] = "голоса за";
+$Definition["User Management"] = "Управление пользователями";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Пользователи, соответствующие критериям сейчас: <0 />";
+$Definition["Value is not a valid integer."] = "Значение не является допустимым целым числом.";
+$Definition["View History"] = "Посмотреть историю";
+$Definition["Votes on an idea"] = "Голосование по идее";
+$Definition["with"] = "с";
+$Definition["with reason"] = "с разумом";
+$Definition["with tag"] = "с тегом";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Вы не можете добавить более 150 правил автоматизации. Удалите некоторые правила и попробуйте снова.";
 
 // Icon Management
 $Definition["No icons match those filters."] = "Ни один значок не соответствует этим фильтрам.";
 $Definition["Manage Icon"] = "Значок управления";
 $Definition["Manage Icons"] = "Управление значками";
-$Definition["Manage Icon helptext"] = "Здесь вы можете управлять системными и историческими значками. При загрузке убедитесь, что значок находится в формате SVG, включает атрибут viewBox и использует цвет #000000, чтобы обеспечить возможность его динамического окрашивания в зависимости от настроек темы и взаимодействия с пользователем. Одновременно может быть активен только один значок каждого типа.";
+$Definition["Manage Icon helptext"] =
+    "Здесь вы можете управлять системными и историческими значками. При загрузке убедитесь, что значок находится в формате SVG, включает атрибут viewBox и использует цвет #000000, чтобы обеспечить возможность его динамического окрашивания в зависимости от настроек темы и взаимодействия с пользователем. Одновременно может быть активен только один значок каждого типа.";
 $Definition["Upload New Icon"] = "Загрузить новую иконку";
 $Definition["Active Icon"] = "Активный значок";
 $Definition["New Icon"] = "Новая иконка";
 $Definition["Icon Type"] = "Тип значка";
 $Definition["Previous Icons"] = "Предыдущие значки";
-$Definition["Previous versions of your icons can be found here and restored at any time."] = "Предыдущие версии ваших иконок можно найти здесь и восстановить в любое время.";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Предыдущие версии ваших иконок можно найти здесь и восстановить в любое время.";
 $Definition["Set as Active"] = "Установить как активный";
 $Definition["Uploaded <0/> by <1/>"] = "Загружено <0/> пользователем <1/>";
 $Definition["Icon Packs"] = "Наборы иконок";
@@ -1329,17 +1901,24 @@ $Definition["Upload Icon Pack"] = "Загрузить набор иконок";
 $Definition["Preview Icon Pack"] = "Предварительный просмотр пакета иконок";
 $Definition["Changed Icons"] = "Измененные значки";
 $Definition["Icon Name"] = "Имя значка";
-$Definition["All icons in this icon pack are currently active."] = "Все иконки в этом пакете в настоящее время активны.";
+$Definition["All icons in this icon pack are currently active."] =
+    "Все иконки в этом пакете в настоящее время активны.";
 $Definition["Activate Icon Pack"] = "Активировать пакет иконок";
-$Definition["Only show icons that have been overridden with custom icons."] = "Показывать только те значки, которые были заменены пользовательскими значками.";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Показывать только те значки, которые были заменены пользовательскими значками.";
 $Definition["System Icon"] = "Системный значок";
 $Definition["Custom Icon"] = "Пользовательский значок";
-$Definition["Only show icons that are default system icons."] = "Показывать только те значки, которые являются системными значками по умолчанию.";
+$Definition["Only show icons that are default system icons."] =
+    "Показывать только те значки, которые являются системными значками по умолчанию.";
 $Definition["Previews"] = "Превью";
 $Definition["Icon Size"] = "Размер значка";
-$Definition["This is the actual size most icons render at."] = "Это фактический размер большинства иконок.";
+$Definition["This is the actual size most icons render at."] =
+    "Это фактический размер большинства иконок.";
 $Definition["Preview Color"] = "Предварительный просмотр цвета";
-$Definition["This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."] = "Этот цвет будет использоваться для предварительного просмотра цвета значка. Он заменит любое использование #000000 в ваших загруженных значках. В реальном приложении цвета будут динамическими.";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Этот цвет будет использоваться для предварительного просмотра цвета значка. Он заменит любое использование #000000 в ваших загруженных значках. В реальном приложении цвета будут динамическими.";
 $Definition["Escalation Name"] = "Имя эскалации";
 $Definition["Status on Creation"] = "Статус создания";
 $Definition["Assignee"] = "Правопреемник";
@@ -1382,14 +1961,16 @@ $Definition["Community Management"] = "Управление сообщество
 $Definition["Visualize Your Community"] = "Визуализируйте свое сообщество";
 $Definition["Customize your community"] = "Настройте свое сообщество";
 $Definition["Configuration & Addons"] = "Конфигурация и дополнения";
-$Definition["Are you sure you want to delete your %s?"] = "Вы уверены, что хотите удалить %s?";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Вы уверены, что хотите удалить %s?";
 $Definition["Newest Report"] = "Новейший отчет";
 $Definition["Oldest Report"] = "Самый старый отчет";
 $Definition["Report Dismissed"] = "Отчет отклонен";
 $Definition["Post Rejected"] = "Сообщение отклонено";
 $Definition["Escalated"] = "Эскалация";
 $Definition["Reported by <0/>"] = "Сообщил <0/>";
-$Definition["No report notes were provided by <0/>"] = "Никаких заметок по отчету не было предоставлено <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Никаких заметок по отчету не было предоставлено <0/>";
 $Definition["Create"] = "Создать";
 $Definition["Edited"] = "Отредактировано";
 $Definition["Newest Escalation"] = "Новейшая эскалация";
@@ -1402,7 +1983,8 @@ $Definition["In Zendesk"] = "В Зендеске";
 $Definition["Integrations"] = "Интеграции";
 $Definition["Remove Post"] = "Удалить пост";
 $Definition["Escalated by <0/>"] = "Обострение <0/>";
-$Definition["Enter a title for this escalation"] = "Введите название для этой эскалации";
+$Definition["Enter a title for this escalation"] =
+    "Введите название для этой эскалации";
 $Definition["Escalated by <0/>"] = "Обострение <0/>";
 $Definition["Post Revision"] = "Пост-редакция";
 $Definition["Loader"] = "Загрузчик";
@@ -1414,78 +1996,150 @@ $Definition["Remove Post"] = "Удалить пост";
 $Definition["Internal Comments"] = "Внутренние комментарии";
 $Definition["Add a comment"] = "Добавить комментарий";
 $Definition["Live"] = "Жить";
-$Definition["There are currently no comments on this post"] = "На данный момент комментариев к этому посту нет.";
-$Definition["All comments on this post will appear here"] = "Все комментарии к этому посту будут отображаться здесь";
+$Definition["There are currently no comments on this post"] =
+    "На данный момент комментариев к этому посту нет.";
+$Definition["All comments on this post will appear here"] =
+    "Все комментарии к этому посту будут отображаться здесь";
 $Definition["Reports for <0/>"] = "Отчеты для <0/>";
 $Definition["Live Post"] = "Прямой пост";
-$Definition["There are currently no reports for this post."] = "На данный момент нет отчетов по этому посту.";
-$Definition["A list of reports associated with this post will appear here."] = "Список отчетов, связанных с этим постом, появится здесь.";
-$Definition["Configure where reports are sent and manage your community's report reasons."] = "Настройте, куда будут отправляться отчеты, и управляйте причинами отчетов вашего сообщества.";
-$Definition["New Community Management System"] = "Новая система управления сообществом";
+$Definition["There are currently no reports for this post."] =
+    "На данный момент нет отчетов по этому посту.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Список отчетов, связанных с этим постом, появится здесь.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Настройте, куда будут отправляться отчеты, и управляйте причинами отчетов вашего сообщества.";
+$Definition["New Community Management System"] =
+    "Новая система управления сообществом";
 $Definition["Enable Triage Dashboard"] = "Включить панель управления сортировкой";
-$Definition["All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."] = "Все пользователи с разрешением персонала смогут видеть и отмечать обсуждения как решенные или нерешенные. Эти пользователи также смогут получить доступ к панели управления триажей для модерирования своих категорий.";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Все пользователи с разрешением персонала смогут видеть и отмечать обсуждения как решенные или нерешенные. Эти пользователи также смогут получить доступ к панели управления триажей для модерирования своих категорий.";
 $Definition["Resolve All Discussions"] = "Разрешить все обсуждения";
-$Definition["Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."] = "Resolve All Posts разрешит все существующие посты в сообществе. Это массовое действие не вызовет веб-перехватчики или аналитику.";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Resolve All Posts разрешит все существующие посты в сообществе. Это массовое действие не вызовет веб-перехватчики или аналитику.";
 $Definition["Resolve All"] = "Решить все";
 $Definition["Required field"] = "Обязательное поле";
-$Definition["The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."] = "Новая система управления сообществом позволяет настраивать причины отчетности, эскалации, назначения и правила автоматизации. Включение этого изменяет прием отчетности для использования новой системы. <0>Подробнее</0> .";
-$Definition["This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"] = "Это разрешит все существующие сообщения в сообществе. Это массовое действие не вызовет веб-перехватчики или аналитику журналов. Продолжить?";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Новая система управления сообществом позволяет настраивать причины отчетности, эскалации, назначения и правила автоматизации. Включение этого изменяет прием отчетности для использования новой системы. <0>Подробнее</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Это разрешит все существующие сообщения в сообществе. Это массовое действие не вызовет веб-перехватчики или аналитику журналов. Продолжить?";
 $Definition["Reorder"] = "Изменить порядок";
 $Definition["Add Reason"] = "Добавить причину";
 $Definition["Delete?"] = "Удалить?";
-$Definition["Are you sure you want to delete this reason?"] = "Вы уверены, что хотите удалить эту причину?";
-$Definition["A concise name for the report reason."] = "Краткое название для отчета.";
-$Definition["A unique label for the report reason. This label cannot be changed once saved."] = "Уникальная метка для отчета. Эту метку нельзя изменить после сохранения.";
-$Definition["An explanation of the report reason to better reporters make the correct selection when reporting a post."] = "Объяснение причины сообщения, чтобы лучшие репортеры могли сделать правильный выбор при сообщении о посте.";
-$Definition["The roles which can see this report reason."] = "Роли, которые могут видеть этот отчет, объясняют.";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Вы уверены, что хотите удалить эту причину?";
+$Definition["A concise name for the report reason."] =
+    "Краткое название для отчета.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Уникальная метка для отчета. Эту метку нельзя изменить после сохранения.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Объяснение причины сообщения, чтобы лучшие репортеры могли сделать правильный выбор при сообщении о посте.";
+$Definition["The roles which can see this report reason."] =
+    "Роли, которые могут видеть этот отчет, объясняют.";
 $Definition["Add Report Reason"] = "Добавить причину отчета";
 $Definition["Discard Changes?"] = "Отменить изменения?";
-$Definition["Are you sure you want to exit without saving?"] = "Вы уверены, что хотите выйти без сохранения?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Вы уверены, что хотите выйти без сохранения?";
 $Definition["Reorder Report Reasons"] = "Причины повторного заказа отчета";
 $Definition["Edit Report Reason"] = "Изменить причину отчета";
 $Definition["Delete Report Reason"] = "Удалить причину отчета";
-$Definition["This setting must be enabled to use Custom Discussion Threads."] = "Для использования пользовательских тем обсуждения этот параметр должен быть включен.";
-$Definition["Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."] = "Настройте параметры, используемые для автоматической модерации контента сообщества еще до его создания. Параметры включают автоматическое обнаружение спама, требование одобрения для публикации в определенных категориях и требование одобрения для публикации с использованием определенных ключевых слов или фраз.";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Для использования пользовательских тем обсуждения этот параметр должен быть включен.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Настройте параметры, используемые для автоматической модерации контента сообщества еще до его создания. Параметры включают автоматическое обнаружение спама, требование одобрения для публикации в определенных категориях и требование одобрения для публикации с использованием определенных ключевых слов или фраз.";
 $Definition["Spam Detection"] = "Обнаружение спама";
 $Definition["Learn more."] = "Узнать больше.";
 $Definition["documentation."] = "документация.";
-$Definition["Verify browsers of new members"] = "Проверьте браузеры новых участников";
+$Definition["Verify browsers of new members"] =
+    "Проверьте браузеры новых участников";
 $Definition["Challenge Cutoff Age"] = "Возраст, подлежащий сдаче в испытание";
-$Definition["Number of days since registration to bypass Cloudflare challenge"] = "Количество дней с момента регистрации для обхода проверки Cloudflare";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Количество дней с момента регистрации для обхода проверки Cloudflare";
 $Definition["Save challenge cutoff age"] = "Сохранить возраст для участия в испытании";
 $Definition["Premoderated Roles"] = "Предварительно модерируемые роли";
-$Definition["Users with the \"Approval.Require\" permission will require moderator approval for all posts."] = "Пользователям с разрешением «Approval.Require» потребуется одобрение модератора для всех сообщений.";
-$Definition["Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""] = "Пользователи, отмеченные как «Проверено», обойдут это требование. Это роли с «Approval.Require»";
-$Definition["No roles are currently set to require premoderation."] = "В настоящее время ни для одной роли не установлена необходимость предварительной модерации.";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Пользователям с разрешением «Approval.Require» потребуется одобрение модератора для всех сообщений.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Пользователи, отмеченные как «Проверено», обойдут это требование. Это роли с «Approval.Require»";
+$Definition["No roles are currently set to require premoderation."] =
+    "В настоящее время ни для одной роли не установлена необходимость предварительной модерации.";
 $Definition["Edit Roles"] = "Редактировать роли";
 $Definition["Premoderated Categories"] = "Предварительно модерируемые категории";
-$Definition["No categories are currently set to require premoderation."] = "В настоящее время ни одна из категорий не требует предварительной модерации.";
+$Definition["No categories are currently set to require premoderation."] =
+    "В настоящее время ни одна из категорий не требует предварительной модерации.";
 $Definition["Edit Categories"] = "Редактировать категории";
 $Definition["Premoderated Keywords"] = "Предварительно проверенные ключевые слова";
-$Definition["Posts with any of the following keywords or phrases will required moderator approval."] = "Сообщения, содержащие любые из следующих ключевых слов или фраз, потребуют одобрения модератора.";
-$Definition["No keywords are currently set to require premoderation."] = "В настоящее время ни одно ключевое слово не требует предварительной модерации.";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Сообщения, содержащие любые из следующих ключевых слов или фраз, потребуют одобрения модератора.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "В настоящее время ни одно ключевое слово не требует предварительной модерации.";
 $Definition["Edit Keywords"] = "Редактировать ключевые слова";
-$Definition["Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"] = "Включите Akismet для фильтрации спама во всех сообщениях от регистраций кандидатов и непроверенных пользователей. <0/>";
-$Definition["Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"] = "Включите Stopforumspam для проверки пользователей сообщества по списку зарегистрированных спамеров и либо сообщает о сообщении как о спаме, либо отклоняет его сразу. Пороги для сообщения и отклонения управляются в настройках <0>addon</0> . Узнайте больше в <1/>";
-$Definition["Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"] = "Непроверенным участникам, которые находятся в сообществе менее указанного количества дней, будет предложено пройти испытание Cloudflare (Captcha или Checkbox) для предотвращения спама. <0/>";
-$Definition["%s in the following categories will require moderator approval."] = "%s в следующих категориях потребует одобрения модератора.";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Включите Akismet для фильтрации спама во всех сообщениях от регистраций кандидатов и непроверенных пользователей. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Включите Stopforumspam для проверки пользователей сообщества по списку зарегистрированных спамеров и либо сообщает о сообщении как о спаме, либо отклоняет его сразу. Пороги для сообщения и отклонения управляются в настройках <0>addon</0> . Узнайте больше в <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Непроверенным участникам, которые находятся в сообществе менее указанного количества дней, будет предложено пройти испытание Cloudflare (Captcha или Checkbox) для предотвращения спама. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s в следующих категориях потребует одобрения модератора.";
 $Definition["Default Sort Order"] = "Порядок сортировки по умолчанию";
-$Definition["Choose the order records are sorted by default."] = "Выберите порядок сортировки записей по умолчанию.";
+$Definition["Choose the order records are sorted by default."] =
+    "Выберите порядок сортировки записей по умолчанию.";
 $Definition["Show OP Indicator"] = "Показать индикатор OP";
-$Definition["If this option is enabled, replies from the Original Poster will have an OP indicator."] = "Если эта опция включена, ответы от оригинального автора будут иметь индикатор OP.";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Если эта опция включена, ответы от оригинального автора будут иметь индикатор OP.";
 $Definition["Show Badges"] = "Показать значки";
 $Definition["Badges Limit"] = "Лимит значков";
-$Definition["Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."] = "Показывать значки пользователей в каждом посте. Можно отображать до 5 значков в порядке наивысшего рейтинга.";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Показывать значки пользователей в каждом посте. Можно отображать до 5 значков в порядке наивысшего рейтинга.";
 $Definition["event"] = "событие";
 $Definition["<0/> <1/> more comments"] = "<0/> <1/> больше комментариев";
 $Definition["Export"] = "Экспорт";
 
-
-$Definition["Homepage titles can only be between 1 and 500 characters"] = "Заголовки домашних страниц могут содержать от 1 до 500 символов.";
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Заголовки домашних страниц могут содержать от 1 до 500 символов.";
 $Definition["Address Bar Color"] = "Цвет адресной строки";
 $Definition["Meta Tags"] = "Мета-теги";
-$Definition["Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."] = "Мета-теги используются для проверки домена для Google Search Console и других сервисов. Скопируйте необходимые мета-теги из вашего источника и вставьте на новую строку.";
-$Definition["Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."] = "Потратьте немного времени, поразмышляйте как лучше описать ваш сайт. Дав своему сайту значимый заголовок и удачное краткое описание, вы поможете ему получить хорошую позицию в поисковых системах.";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Мета-теги используются для проверки домена для Google Search Console и других сервисов. Скопируйте необходимые мета-теги из вашего источника и вставьте на новую строку.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Потратьте немного времени, поразмышляйте как лучше описать ваш сайт. Дав своему сайту значимый заголовок и удачное краткое описание, вы поможете ему получить хорошую позицию в поисковых системах.";
 $Definition["Style Guides"] = "Руководства по стилю";
 $Definition["Branding & Assets"] = "Брендинг и активы";
 $Definition["Home Pages"] = "Домашние страницы";
@@ -1505,7 +2159,8 @@ $Definition["Create Post Layout Settings"] = "Создать настройки 
 $Definition["Event Pages"] = "Страницы событий";
 $Definition["Event Layout Settings"] = "Настройки макета события";
 $Definition["Knowledge Base Pages"] = "Страницы базы знаний";
-$Definition["Knowledge Base Layout Settings"] = "Настройки макета базы знаний";
+$Definition["Knowledge Base Layout Settings"] =
+    "Настройки макета базы знаний";
 $Definition["Knowledge Base Home Pages"] = "Домашние страницы базы знаний";
 $Definition["Help Center Home Pages"] = "Домашние страницы справочного центра";
 $Definition["Help Center Category Pages"] = "Страницы категорий справочного центра";
@@ -1513,33 +2168,42 @@ $Definition["Help Center Article Pages"] = "Страницы статей спр
 $Definition["Guide Article Pages"] = "Страницы статей руководства";
 $Definition["Layouts"] = "Макеты";
 $Definition["Add Custom Layout"] = "Добавить пользовательский макет";
-$Definition["Choose the preferred Legacy Recent Posts Layout."] = "Выберите предпочитаемый устаревший макет последних сообщений.";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Выберите предпочитаемый устаревший макет последних сообщений.";
 $Definition["Legacy Recent Posts Layouts"] = "Устаревшие макеты последних сообщений";
-$Definition["Change layout versions for the <0/>."] = "Измените версии макета для <0/>.";
-$Definition["To learn more, <0>see the documentation</0>."] = "Чтобы узнать больше, <0>см. документацию</0> .";
+$Definition["Change layout versions for the <0/>."] =
+    "Измените версии макета для <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Чтобы узнать больше, <0>см. документацию</0> .";
 $Definition["Change %s"] = "Изменения %s";
-$Definition["Are you sure you want to use %s?"] = "Вы уверены, что хотите использовать %s?";
+$Definition["Are you sure you want to use %s?"] =
+    "Вы уверены, что хотите использовать %s?";
 $Definition["Legacy Home Layouts"] = "Планировки домов прежних времен";
-$Definition["Choose the preferred Legacy Home Layout."] = "Выберите предпочтительную планировку Legacy Home.";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Выберите предпочтительную планировку Legacy Home.";
 $Definition["Home Layout Version"] = "Домашняя версия макета";
 $Definition["Custom Home Layouts"] = "Индивидуальные макеты домов";
 $Definition["Legacy Category Layout"] = "Устаревший макет категории";
-$Definition["Choose the preferred Legacy Category Layout."] = "Выберите предпочитаемый макет устаревшей категории.";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Выберите предпочитаемый макет устаревшей категории.";
 $Definition["Category Layout Version"] = "Категория Макет Версия";
 $Definition["Legacy Category Layouts"] = "Устаревшие макеты категорий";
 $Definition["Custom Category Layouts"] = "Пользовательские макеты категорий";
 $Definition["Legacy Post Layout"] = "Устаревший макет поста";
-$Definition["Choose the preferred Legacy Post Layout."] = "Выберите предпочитаемый устаревший макет поста.";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Выберите предпочитаемый устаревший макет поста.";
 $Definition["Post Layout Version"] = "Версия макета поста";
 $Definition["Legacy Post Layouts"] = "Устаревшие макеты постов";
 $Definition["Custom Post Layouts"] = "Пользовательские макеты постов";
 $Definition["Legacy Create Post Layout"] = "Устаревший макет создания поста";
-$Definition["Choose the preferred Legacy Create Post Layout."] = "Выберите предпочитаемый устаревший макет создания поста.";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Выберите предпочитаемый устаревший макет создания поста.";
 $Definition["Create Post Layout Version"] = "Создать версию макета поста";
 $Definition["Legacy Create Post Layouts"] = "Устаревшие макеты создания постов";
 $Definition["Custom Create Post Layouts"] = "Пользовательские макеты создания постов";
 $Definition["Legacy Event Layout"] = "Устаревший макет мероприятия";
-$Definition["Choose the preferred Legacy Event Layout."] = "Выберите предпочитаемый макет мероприятия Legacy.";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Выберите предпочитаемый макет мероприятия Legacy.";
 $Definition["Event Layout Version"] = "Версия макета мероприятия";
 $Definition["Legacy Event Layouts"] = "Устаревшие макеты мероприятий";
 $Definition["Custom Event Layouts"] = "Пользовательские макеты событий";
@@ -1551,34 +2215,54 @@ $Definition["Previous Slides"] = "Предыдущие слайды";
 $Definition["Next Slides"] = "Следующие слайды";
 $Definition["indicator navigation"] = "индикатор навигации";
 $Definition["<0/> new"] = "<0/> новый";
-$Definition["%d slides on display initial slide %d of %d"] = "%d слайдов на дисплее начальный слайд %d из %d";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d слайдов на дисплее начальный слайд %d из %d";
 $Definition["Unassigned"] = "Неназначенный";
-$Definition["Apply Layout to Site Home Page"] = "Применить макет к домашней странице сайта";
-$Definition["Set as default layout for specific subcommunities."] = "Установить в качестве макета по умолчанию для определенных подсообществ.";
+$Definition["Apply Layout to Site Home Page"] =
+    "Применить макет к домашней странице сайта";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Установить в качестве макета по умолчанию для определенных подсообществ.";
 $Definition["Apply to specific categories."] = "Применить к определенным категориям.";
-$Definition["This layout cannot be deleted because it is a layout template."] = "Этот макет нельзя удалить, поскольку это шаблон макета.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Этот макет нельзя удалить, поскольку это шаблон макета.";
 $Definition["Delete Layout"] = "Удалить макет";
-$Definition["Are you sure you want to delete?"] = "Вы уверены, что хотите удалить?";
+$Definition["Are you sure you want to delete?"] =
+    "Вы уверены, что хотите удалить?";
 $Definition["Applied"] = "Применяемый";
 $Definition["Applied as default"] = "Применяется по умолчанию";
 $Definition["View Category"] = "Просмотреть категорию";
-$Definition["Apply to specific subcommunities."] = "Применить к определенным подсообществам.";
-$Definition["Unable to re-assign default template"] = "Невозможно переназначить шаблон по умолчанию";
-$Definition["This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."] = "Этот макет является шаблоном и назначается по умолчанию для всех страниц этого типа. Чтобы удалить его как макет по умолчанию или назначить его определенным страницам, необходимо назначить другой макет по умолчанию.";
-$Definition["This layout cannot be deleted because it is currently applied."] = "Этот макет нельзя удалить, поскольку он в данный момент применяется.";
-$Definition["Set as default layout for all <0 />."] = "Установить как макет по умолчанию для всех <0 />.";
+$Definition["Apply to specific subcommunities."] =
+    "Применить к определенным подсообществам.";
+$Definition["Unable to re-assign default template"] =
+    "Невозможно переназначить шаблон по умолчанию";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Этот макет является шаблоном и назначается по умолчанию для всех страниц этого типа. Чтобы удалить его как макет по умолчанию или назначить его определенным страницам, необходимо назначить другой макет по умолчанию.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Этот макет нельзя удалить, поскольку он в данный момент применяется.";
+$Definition["Set as default layout for all <0 />."] =
+    "Установить как макет по умолчанию для всех <0 />.";
 $Definition["Legacy Knowledge Base Layout"] = "Устаревший макет базы знаний";
-$Definition["Choose the preferred Legacy Knowledge Base Layout."] = "Выберите предпочитаемый макет устаревшей базы знаний.";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Выберите предпочитаемый макет устаревшей базы знаний.";
 $Definition["Knowledge Base Layout Version"] = "Версия макета базы знаний";
 $Definition["Legacy Knowledge Base Layouts"] = "Устаревшие макеты базы знаний";
 $Definition["Custom Knowledge Base Layouts"] = "Пользовательские макеты базы знаний";
 $Definition["Article Count"] = "Количество статей";
 $Definition["Legacy Layouts enabled"] = "Устаревшие макеты включены";
-$Definition["Note this layout change will not be visible until you switch to custom layouts."] = "Обратите внимание, что это изменение макета не будет видно, пока вы не переключитесь на пользовательские макеты.";
-$Definition["This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."] = "Это изменение макета не будет видно, пока вы не переключите свое сообщество на пользовательский <0/> на странице <1/>.";
-$Definition["Set as default layout for specific knowledge bases."] = "Установить в качестве макета по умолчанию для определенных баз знаний.";
-$Definition["The site does not allow you connect with an existing user."] =
-    "Сайт не позволяет связаться с существующим пользователем.";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Обратите внимание, что это изменение макета не будет видно, пока вы не переключитесь на пользовательские макеты.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Это изменение макета не будет видно, пока вы не переключите свое сообщество на пользовательский <0/> на странице <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Установить в качестве макета по умолчанию для определенных баз знаний.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Сайт не позволяет подключиться к существующему пользователю.";
 $Definition["The username you entered has already been taken."] =
     "Введенное вами имя пользователя уже занято.";
 $Definition["There was an error fetching the connection data."] =
@@ -1588,79 +2272,3 @@ $Definition[
 ] =
     "Не удалось аутентифицировать ваш запрос на сброс пароля. Попробуйте снова заполнить форму запроса на сброс.";
 $Definition["Invitation not found."] = "Приглашение не найдено.";
-
-// Federated Search
-$Definition["About Federated Search"] = "О федеративном поиске";
-$Definition["About Search Connectors"] = "О поисковых коннекторах";
-$Definition["Add"] = "Добавить";
-$Definition["Add a custom <0/> search connector"] = "Добавить пользовательский коннектор поиска <0/>";
-$Definition["Answer"] = "Ответ";
-$Definition["Apply"] = "Включить";
-$Definition["Article"] = "Статья";
-$Definition["Authenticate"] = "Аутентифицировать";
-$Definition["Back"] = "Назад";
-$Definition["Cancel"] = "Отмена";
-$Definition["Categories"] = "Разделы";
-$Definition["Client ID is required."] = "Требуется идентификатор клиента.";
-$Definition["Client Secret is required."] = "Требуется секрет клиента.";
-$Definition["Configure"] = "Настроить";
-$Definition["Cursor pagination uses a url to point to the next page of results. Offset pagination uses a page number and item count to fetch the next page."] = "Курсорная пагинация использует URL для перехода на следующую страницу результатов. Смещение пагинации использует номер страницы и количество элементов для перехода на следующую страницу.";
-$Definition["Discussions"] = "Дискуссии";
-$Definition["Federated Search allows you to include external content within community search results such as knowledge base articles, courses from a learning management system, blog articles and more, to centralize content search within community. <0>Learn more</0>."] = "Федеративный поиск позволяет включать внешний контент в результаты поиска по сообществу, например статьи базы знаний, курсы из системы управления обучением, статьи блогов и многое другое, для централизации поиска контента внутри сообщества. <0>Подробнее</0> .";
-$Definition["Good job! Here is a preview of some of your external articles, listed on your community's Search Results page."] = "Отличная работа! Вот предварительный просмотр некоторых ваших внешних статей, представленных на странице результатов поиска вашего сообщества.";
-$Definition["Great!"] = "Большой!";
-$Definition["Groups"] = "Группы";
-$Definition["Help Menu"] = "Меню помощи";
-$Definition["Here is what a single result provided by the API looks like:"] = "Вот как выглядит отдельный результат, предоставленный API:";
-$Definition["Idea"] = "Идея";
-$Definition["Ideas"] = "Идеи";
-$Definition["Integrates Salesforce's knowledge base articles into the Vanilla community search, consolidating self-service support resources within the community platform."] = "Интегрирует статьи базы знаний Salesforce в поиск сообщества Vanilla, объединяя ресурсы поддержки самостоятельного обслуживания на платформе сообщества.";
-$Definition["Knowledge Bases"] = "Базы знаний";
-$Definition["Label is required."] = "Метка обязательна.";
-$Definition["Loading"] = "Идет загрузка";
-$Definition["Maximum length is 100 characters."] = "Максимальная длина — 100 символов.";
-$Definition["Maximum length is 500 characters."] = "Максимальная длина — 500 символов.";
-$Definition["Maximum number of posts to be included in the email digest."] = "Максимальное количество сообщений, которые будут включены в дайджест электронной почты.";
-$Definition["Messages"] = "Сообщения";
-$Definition["Modify <0/> search connector"] = "Изменить <0/> поисковый соединитель";
-$Definition["My Account"] = "Мой аккаунт";
-$Definition["Next"] = "Далее";
-$Definition["No results found."] = "Результаты не найдены.";
-$Definition["Notifications"] = "Уведомления";
-$Definition["Number of posts from groups"] = "Количество сообщений из групп";
-$Definition["Our Search Connectors will allow you to easily configure the connection between Vanilla and external platforms. Can't find what you're looking for? Let us know which search connectors you need by posting and Idea in our <0>customer community</0>."] = "Наши коннекторы поиска позволят вам легко настроить соединение между Vanilla и внешними платформами. Не нашли то, что искали? Сообщите нам, какие коннекторы поиска вам нужны, опубликовав информацию и идеи в нашем <0>сообществе клиентов</0>.";
-$Definition["Please enter some basic information about your custom search connector."] = "Введите основную информацию о вашем коннекторе пользовательского поиска.";
-$Definition["Poll"] = "Голосование";
-$Definition["Polls"] = "Опросы";
-$Definition["Post number must be between 3–20."] = "Номер сообщения должен быть от 3 до 20.";
-$Definition["Posts"] = "Публикации";
-$Definition["Question"] = "Вопрос";
-$Definition["Questions"] = "Вопросы";
-$Definition["Ranks"] = "Ранг";
-$Definition["Reload"] = "Перезагрузить";
-$Definition["Required field"] = "Обязательное поле";
-$Definition["required"] = "необходимый";
-$Definition["Response Body"] = "Тело ответа";
-$Definition["Response Headers"] = "Заголовки ответа";
-$Definition["Salesforce Article Search"] = "Поиск статей Salesforce";
-$Definition["Save"] = "Сохранить";
-$Definition["Search Connectors"] = "Поисковые соединители";
-$Definition["Site domain is required."] = "Требуется домен сайта.";
-$Definition["Some parameters required to search may be unique to your API. Please configure your search connector with these parameters so that the connector can correctly format search queries for your community."] = "Некоторые параметры, необходимые для поиска, могут быть уникальными для вашего API. Настройте коннектор поиска с этими параметрами, чтобы он мог правильно форматировать поисковые запросы для вашего сообщества.";
-$Definition["Surfaces Zendesk Help Center knowledge base articles in Vanilla community search to centralize self-service help within community."] = "Добавляет статьи базы знаний справочного центра Zendesk в поиск по сообществу Vanilla для централизации помощи в самостоятельном обслуживании в рамках сообщества.";
-$Definition["Tag"] = "Ярлык";
-$Definition["Test Custom API"] = "Тестирование пользовательского API";
-$Definition["Test your custom API"] = "Протестируйте свой собственный API";
-$Definition["Test your pagination configuration"] = "Проверьте конфигурацию пагинации";
-$Definition["The roles that are allowed to access this connector."] = "Роли, которым разрешен доступ к этому соединителю.";
-$Definition["This search connector has an invalid configuration."] = "У этого поискового соединителя неверная конфигурация.";
-$Definition["Tip: These required parameters can usually be found in the documentation for your API"] = "Совет: эти обязательные параметры обычно можно найти в документации к вашему API.";
-$Definition["To finish configuring the Search Connector, tell us where to find the following values within the result object."] = "Чтобы завершить настройку коннектора поиска, сообщите нам, где найти следующие значения в объекте результата.";
-$Definition["Visit Site"] = "Перейти на сайт";
-$Definition["What kind of pagination does your API use?"] = "Какой тип пагинации использует ваш API?";
-$Definition["When you're ready, use these buttons to check that your pagination configuration functions as expected"] = "Когда будете готовы, используйте эти кнопки, чтобы проверить, что конфигурация пагинации работает так, как ожидалось.";
-$Definition["When you're ready, use this button to test the API and view its results."] = "Когда будете готовы, используйте эту кнопку, чтобы протестировать API и просмотреть его результаты.";
-$Definition["Where is the list of results located in this response?"] = "Где находится список результатов в этом ответе?";
-$Definition["You must configure this search connector to enable it."] = "Для включения этого поискового коннектора необходимо его настроить.";
-$Definition["You must select at least one role."] = "Необходимо выбрать хотя бы одну роль.";
-$Definition["Zendesk Guide"] = "Руководство по Zendesk";

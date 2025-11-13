@@ -23,6 +23,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Umožněte uživatelům s oprávněním %s změnit své vlastní avatary ze svých profilových stránek ve Vanille.';
 $Definition['Anonymize IP Addresses'] = "Anonymizovat IP adresy";
+$Definition['API Overview'] = "Přehled API";
 $Definition['ApplicationHelp'] = 'Aplikace vám dávají možnost přidávat na vaši stránku spoustu funkcí.<br />Jakmile aplikaci přidáte do vaší složky %s, můžete ji povolit nebo deaktivovat zde. ';
 $Definition['Apply Layout'] = 'Použít rozvržení';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Opravdu jste zadali správný název hostitele databáze? Nespletli jste si název? Nahlášená databáze: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Je vhodné udržet maximální počet znaků povolených v příspěvku na přiměřenou velikost.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Spusťte svou komunitu a podpořte zapojení uživatelů.';
 $Definition['Labs'] = 'Laboratoře';
 $Definition['Learn about custom routing.'] = 'Zjistěte více o vlastním směrování. ';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Částečná anonymizace</strong> anonymizuje pouze poslední oktet IP adresy. Například 254.230.05.153 by se stalo 254.230.05.0. To poskytuje určitou anonymizaci a zároveň umožňuje fungování pravidel zákazu IP.";
 $Definition['Partial Anonymization'] = "Částečná anonymizace";
 $Definition['Password.MinLength'] = 'Minimální povolená délka znaků pro uživatelská hesla na stránkách pro vytváření a resetování hesla.';
+$Definition['Personal Access Tokens'] = 'Osobní přístupové tokeny';
 $Definition['Please choose an authenticator to configure.'] = 'Vyberte prosím autentizátor, který chcete konfigurovat. ';
 $Definition['PluginHelp'] = 'Pluginy vám dávají možnost přidat na vaši stránku další funkce.<br />Jakmile plugin přidáte do své složky %s, může jej odtud povolit nebo zakázat. ';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Kapsa se nachází mezi jednotlivými diskuzemi na hlavním seznamu diskuzí. Protože se diskuze obvykle nachází mezi tagy <li>..</li>, budete muset tyto tagy přidat také k vaší kapse.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Rychlé odkazy';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Průvodce rychlým startem pro vytváření témat ve Vanilla';
 
+$Definition['Rate Limits'] = 'Limity sazeb';
 $Definition['Reactions Documentation'] = 'Dokumentace reakcí';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Hotový plugin Vanilla Comments pro WordPress ';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Hotový plugin fór Vanilla pro WordPress ';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Vyžaduje povolen
 $Definition['Restoring your selection removes the items from this list.'] = 'Po obnovení budou položky odstraněny z tohoto seznamu a vloženy zpět na web.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Pomocí následující možnosti povolíte uvozovky pro editor Rich. To platí pouze v případě, že je výchozí formátovač nastaven na „Rich“.';
+$Definition['Role Tokens'] = 'Žetony rolí';
 $Definition['Route Expression'] = 'Vyjádření trasy ';
 $Definition['Routes are used to redirect users.'] = 'Trasy se používají k přesměrování uživatelů v závislosti na požadované adrese URL.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Zvláštní omezení: Tuto reakci mohou použít pouze uživatelé s povolením Garden.Curation.Manage.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Při vytváření zákazu zadejte částečnou nebo úplnou shodu.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Zkuste tu trochu popřemýšlet o tom, jak byste svoji stránku popsali. Smysluplný název a stručný popis může posílit vaši pozici ve výsledcích vyhledávání. ';
+$Definition['Spoofing'] = 'Parodie';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Upravte své e-maily přidáním loga a přizpůsobením barev.';
 $Definition['Start Import'] = 'Začít import';
 $Definition['Start the first discussion.'] = 'Zvyšte produktivitu ve vaší komunitě tím, že <a href="{/post/discussion,url}">začnete první diskuzi</a> nyní.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Varování</b>: Tato f
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Doporučujeme povolit 1–3 reakce najednou, abyste se vyhnuli zahlcení uživatelů.';
 $Definition['Webhooks'] = 'Webhooky';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Když je tato možnost povolena, uživatelé si mohou vybrat, zda chtějí dostávat oznámení od komunity';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Pokud je povoleno, můžete spravovat produkty a seskupovat podkomunity podle těchto produktů.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Pokud je tato možnost povolena, můžete <0>spravovat produkty</0> a seskupte podkomunity podle těchto produktů.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Zda budou či nebudou zahrnuta pole interního profilu do tohoto webhooku.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Zda budou pole soukromého profilu zahrnuta do tohoto webhooku.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Někdy chcete vl
 $Definition['Layout Editor'] = 'Editor rozvržení';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Povolte editoru rozložení použít vlastní rozložení pro vaše stránky komunity. Použijte náš nový editor k zobrazení obsahu pomocí našeho katalogu dostupných widgetů.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Poznámka: Nový editor rozvržení zdědí motiv nastavený ve vašem průvodci styly (formálně editor motivů). <1>Zjistěte více</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Seznam nedávných příspěvků";
+$Definition["Custom"] = "Zvyk";
+$Definition["Category List Page"] = "Stránka se seznamem kategorií";
+$Definition["Home Page Type"] = "Typ domovské stránky";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Vyberte stránku, která bude sloužit jako domovská stránka subkomunity.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Vybraný typ domovské stránky je vlastní rozvržení. Rozvržení pro tuto podkomunitu můžete spravovat v <0/>.";
+$Definition["Default Subcommunity"] = "Výchozí podkomunita";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Nastavit jako výchozí podkomunitu. Návštěvníci budou při vstupu do komunity přesměrováni nejdříve sem.";
+$Definition["Post number must be between 3–20."] = "Číslo příspěvku musí být mezi 3 a 20.";
+$Definition["Pages"] = "Stránky";
+$Definition["Widget Builder"] = "Tvůrce widgetů";
+$Definition["Custom Pages"] = "Vlastní stránky";
+$Definition["Site Home Pages"] = "Domovské stránky webu";
+$Definition["Subcommunity Home Pages"] = "Domovské stránky subkomunity";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Vyberte téma pro tuto podkomunitu. <0>Číst dále</0>";
+$Definition["Vanilla Messages"] = "Vanilkové zprávy";
+$Definition["From <0/>"] = "Od <0/>";
+$Definition["Manage Products"] = "Správa produktů";
+$Definition["Pages"] = "Stránky";
+$Definition["Widget Builder"] = "Tvůrce widgetů";
+$Definition["Custom Pages"] = "Vlastní stránky";
+$Definition["Site Home Pages"] = "Domovské stránky webu";
+$Definition["Subcommunity Home Pages"] = "Domovské stránky subkomunity";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Vyberte téma pro tuto podkomunitu. <0>Číst dále</0>";
+$Definition["Search subcommunities."] = "Vyhledat podkomunity.";
+$Definition["The view you were looking for could not be found."] = "Hledaný pohled se nepodařilo najít.";
+$Definition["View Not Found"] = "Zobrazení nenalezeno";
+$Definition["site"] = "místo";
+$Definition["Selected Home Page Type is a legacy layout."] = "Vybraný typ domovské stránky je starší verze rozvržení.";
+$Definition["The default home page type can be changed in <0/>."] = "Výchozí typ domovské stránky lze změnit v <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Nastavení klíčových slov";
+$Definition["Extremely Negative to Negative"] = "Extrémně negativní až negativní";
+$Definition["Negative to Balanced"] = "Negativní až vyvážený";
+$Definition["Balanced to Positive"] = "Vyvážené až pozitivní";
+$Definition["Positive to Highly Positive"] = "Pozitivní až vysoce pozitivní";
+$Definition["Sentiment Keywords"] = "Klíčová slova pro sentiment";
+$Definition["Sentiment Settings"] = "Nastavení sentimentu";
+$Definition["Add Keyword"] = "Přidat klíčové slovo";
+$Definition["Keyword Limit Reached"] = "Dosaženo limitu klíčových slov";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Můžete sledovat maximálně 100 klíčových slov. Chcete-li přidat nová klíčová slova, zrušte sledování některých.";
+$Definition["Calibrate Sentiment Levels"] = "Kalibrace úrovní sentimentu";
+$Definition["Sentiment Level Distribution Adjustment"] = "Úprava distribuce úrovně sentimentu";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Čtyři posuvníky představují body mezi jednotlivými úrovněmi sentimentu. Přetažením posuvníků kalibrujte celkové rozložení úrovní sentimentu podle obsahu vaší komunity.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Náhled kalibrovaného rozdělení sentimentu";
+$Definition["(Read Only)"] = "(Pouze pro čtení)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Tento graf znázorňuje, jak by byl obsah ve vaší komunitě distribuován na základě vaší kalibrační úpravy.";
+$Definition["all time sentiment"] = "sentiment všech dob";
+$Definition["keyword"] = "klíčové slovo";
+$Definition["number of uses"] = "počet použití";
+$Definition["last use"] = "poslední použití";
+$Definition["tracking"] = "sledování";
+$Definition["Sentiment"] = "Sentiment";
+$Definition["Tracked Status"] = "Stav sledování";
+$Definition["Tracked Only"] = "Pouze sledované";
+$Definition["Untracked Only"] = "Pouze nesledované";
+$Definition["Strongly Negative"] = "Silně negativní";
+$Definition["Negative"] = "Negativní";
+$Definition["Positive"] = "Pozitivní";
+$Definition["Highly Positive"] = "Vysoce pozitivní";
+$Definition["Clear all filters"] = "Vymazat všechny filtry";
+$Definition["Keyword is required."] = "Klíčové slovo je povinné.";
+$Definition["Maximum length is 100 characters."] = "Maximální délka je 100 znaků.";
+$Definition["Keyword"] = "Klíčové slovo";
+$Definition["Add a new tracked keyword"] = "Přidat nové sledované klíčové slovo";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Nová klíčová slova budou sledována v analytických nástrojích. Po vytvoření tohoto klíčového slova můžete sledování vypnout.";
+$Definition["Extremely Negative"] = "Extrémně negativní";
+$Definition["Extremely Positive"] = "Extrémně pozitivní";
+$Definition["Filter by:"] = "Filtrovat podle:";

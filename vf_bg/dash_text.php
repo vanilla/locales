@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Позволете на потребителите с разрешението %s да променят собствените си аватари от страниците си с профили във Ванила.';
 $Definition['Anonymize IP Addresses'] = "Анонимизиране на IP адреси";
+$Definition['API Overview'] = "Преглед на API";
 $Definition['ApplicationHelp'] = 'Приложенията ви позволяват да добавяте големи групи функционалност към вашия сайт. <br /> След като приложението е добавено към вашата папка %s, можете да го активирате или деактивирате тук.';
 $Definition['Apply Layout'] = 'Прилагане на оформление';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Сигурни ли сте, че сте въвели правилното име на хост на базата данни? Може би сте го въвели грешно? Базата данни отчита: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Добра идея е максималният брой на разрешените символи в публикацията да бъде намален до разумен размер.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Стартирайте общността си и увеличете ангажираността на потребителите.';
 $Definition['Labs'] = 'Лаборатории';
 $Definition['Learn about custom routing.'] = 'Научете за персонализираното маршрутизиране.';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Частичната анонимност</strong> анонимизира само последния октет на IP адреса. Например 254.230.05.153 ще стане 254.230.05.0. Това осигурява известна анонимност, като същевременно позволява функционирането на правилата за забрана на IP.";
 $Definition['Partial Anonymization'] = "Частична анонимизация";
 $Definition['Password.MinLength'] = 'Минималната дължина на знака, разрешена за потребителските пароли на страниците за създаване и нулиране на пароли.';
+$Definition['Personal Access Tokens'] = 'Жетони за персонален достъп';
 $Definition['Please choose an authenticator to configure.'] = 'Моля, изберете автентификатор за конфигуриране.';
 $Definition['PluginHelp'] = 'Приставките ви позволяват да добавяте функционалност към вашия сайт. <br /> След като плъгин е добавен към вашата папка %s, можете да го активирате или деактивирате тук.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Джобът се показва между всяка дискусия в основния списък с дискусии. Тъй като обсъжданията обикновено са в <li> .. </li> таговете, ще трябва да увиете джоба си и в тези маркери.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Бързи връзки';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Ръководство за бърз старт за създаване на теми за ванилия';
 
+$Definition['Rate Limits'] = 'Ограничения на скоростта';
 $Definition['Reactions Documentation'] = 'Документация за реакциите';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Готови ванилни коментари Plugin за WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Готов ванилов форум Plugin за WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Изисква р
 $Definition['Restoring your selection removes the items from this list.'] = 'Когато възстановите, елементите се премахват от този списък и се връщат обратно в сайта.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Използвайте следната опция, за да активирате кавички за Rich Editor. Това ще се прилага само ако форматът по подразбиране е "Rich".';
+$Definition['Role Tokens'] = 'Ролеви жетони';
 $Definition['Route Expression'] = 'Израз на маршрут';
 $Definition['Routes are used to redirect users.'] = 'Маршрутите се използват за пренасочване на потребители в зависимост от искания URL адрес.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Специално ограничение: Само потребители с разрешение Garden.Curation.Manage могат да използват тази реакция.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Посочете частично или пълно съвпадение, когато създавате забрана.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Прекарайте малко време за размисъл как описвате сайта си тук. Предоставянето на вашия сайт съдържателно заглавие и кратко описание може да помогне за позицията ви в търсачките.';
+$Definition['Spoofing'] = 'Подправяне';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Подправете имейлите си, като добавите лого и персонализирате цветовете.';
 $Definition['Start Import'] = 'Започнете импортирането';
 $Definition['Start the first discussion.'] = 'Накарайте топката да се търкаля във вашата общност, като <a href="{/post/discussion,url}">започнете първата дискусия</a> сега.';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Предупрежде
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Препоръчваме да активирате 1–3 реакции наведнъж, за да избегнете претоварването на потребителите.';
 $Definition['Webhooks'] = 'Уеб куки';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Когато е активирано, потребителите могат да изберат да получават известия от общността';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Когато сте активирани, можете да управлявате продукти и да групирате подкомюните по тези продукти.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Когато е активирано, можете да <0>управлявате продукти</0> и групирайте подобщностите по тези продукти.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Дали вътрешните полета на профила ще бъдат включени в тази уебкукичка.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Дали полетата на личния профил ще бъдат включени в тази уебкукичка.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Понякога
 $Definition['Layout Editor'] = 'Редактор на оформление';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Активирайте редактора на оформление, за да приложите персонализирано оформление за страниците на вашата общност. Използвайте нашия нов редактор, за да представите съдържание с помощта на каталога ни с налични уиджети.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Новият редактор на оформление ще наследи темата, зададена във вашето ръководство за стил (официално редактор на теми). <1>Научете повече</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Страница със списък с последните публикации";
+$Definition["Custom"] = "Персонализирано";
+$Definition["Category List Page"] = "Страница със списък с категории";
+$Definition["Home Page Type"] = "Тип начална страница";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Изберете страница, която да служи като начална страница на подобщността.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Избраният тип начална страница е персонализирано оформление. Можете да управлявате оформлението за тази подобщност в <0/>.";
+$Definition["Default Subcommunity"] = "Подобщност по подразбиране";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Направете това подобщност по подразбиране. Посетителите ще бъдат насочени първо тук, когато имат достъп до общността.";
+$Definition["Post number must be between 3–20."] = "Номерът на публикацията трябва да е между 3 и 20.";
+$Definition["Pages"] = "Страници";
+$Definition["Widget Builder"] = "Конструктор на джаджи";
+$Definition["Custom Pages"] = "Персонализирани страници";
+$Definition["Site Home Pages"] = "Начални страници на сайта";
+$Definition["Subcommunity Home Pages"] = "Начални страници на подобщността";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Изберете тема за тази подобщност. <0>Прочетете още</0>";
+$Definition["Vanilla Messages"] = "Ванилни съобщения";
+$Definition["From <0/>"] = "От <0/>";
+$Definition["Manage Products"] = "Управление на продукти";
+$Definition["Pages"] = "Страници";
+$Definition["Widget Builder"] = "Конструктор на джаджи";
+$Definition["Custom Pages"] = "Персонализирани страници";
+$Definition["Site Home Pages"] = "Начални страници на сайта";
+$Definition["Subcommunity Home Pages"] = "Начални страници на подобщността";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Изберете тема за тази подобщност. <0>Прочетете още</0>";
+$Definition["Search subcommunities."] = "Търсене в подобщности.";
+$Definition["The view you were looking for could not be found."] = "Търсената от вас гледна точка не можа да бъде намерена.";
+$Definition["View Not Found"] = "Изгледът не е намерен";
+$Definition["site"] = "сайт";
+$Definition["Selected Home Page Type is a legacy layout."] = "Избраният тип начална страница е с наследено оформление.";
+$Definition["The default home page type can be changed in <0/>."] = "Типът на началната страница по подразбиране може да се промени в <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Настройки на ключовите думи";
+$Definition["Extremely Negative to Negative"] = "Изключително негативен до негативен";
+$Definition["Negative to Balanced"] = "Отрицателен към балансиран";
+$Definition["Balanced to Positive"] = "Балансирано към положително";
+$Definition["Positive to Highly Positive"] = "Положителен до силно положителен";
+$Definition["Sentiment Keywords"] = "Ключови думи за настроение";
+$Definition["Sentiment Settings"] = "Настройки на настроението";
+$Definition["Add Keyword"] = "Добавяне на ключова дума";
+$Definition["Keyword Limit Reached"] = "Достигнат е лимитът на ключовите думи";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Можете да проследявате само до 100 ключови думи. Прекратете проследяването на някои, за да добавите нови ключови думи.";
+$Definition["Calibrate Sentiment Levels"] = "Калибриране на нивата на настроения";
+$Definition["Sentiment Level Distribution Adjustment"] = "Корекция на разпределението на нивото на настроенията";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Четирите плъзгача представляват точките между всяко ниво на настроение. Плъзнете плъзгачите, за да калибрирате общото разпределение на нивото на настроение спрямо съдържанието на вашата общност.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Преглед на калибрираното разпределение на настроенията";
+$Definition["(Read Only)"] = "(Само за четене)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Тази графика визуализира как би се разпределило съдържанието във вашата общност въз основа на вашата калибровъчна корекция.";
+$Definition["all time sentiment"] = "настроения за всички времена";
+$Definition["keyword"] = "ключова дума";
+$Definition["number of uses"] = "брой употреби";
+$Definition["last use"] = "последна употреба";
+$Definition["tracking"] = "проследяване";
+$Definition["Sentiment"] = "Чувство";
+$Definition["Tracked Status"] = "Проследен статус";
+$Definition["Tracked Only"] = "Само проследявано";
+$Definition["Untracked Only"] = "Само непроследени";
+$Definition["Strongly Negative"] = "Силно отрицателен";
+$Definition["Negative"] = "Отрицателен";
+$Definition["Positive"] = "Положителен";
+$Definition["Highly Positive"] = "Силно положителен";
+$Definition["Clear all filters"] = "Изчисти всички филтри";
+$Definition["Keyword is required."] = "Ключовата дума е задължителна.";
+$Definition["Maximum length is 100 characters."] = "Максималната дължина е 100 символа.";
+$Definition["Keyword"] = "Ключова дума";
+$Definition["Add a new tracked keyword"] = "Добавяне на нова проследявана ключова дума";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Новите ключови думи ще бъдат проследявани в анализите. Можете да изберете да изключите проследяването, след като създадете тази ключова дума.";
+$Definition["Extremely Negative"] = "Изключително негативно";
+$Definition["Extremely Positive"] = "Изключително положителен";
+$Definition["Filter by:"] = "Филтриране по:";

@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anhysbys Cyfeiriadau IP";
+$Definition['API Overview'] = "Trosolwg o'r API";
 $Definition['ApplicationHelp'] = 'Mae rhaglenni yn caniatáu i chi ychwanegu grwpiau mawr o ffwythiannau i\'ch safle. < br / > unwaith y bydd rhaglen wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['Apply Layout'] = 'Cymhwyso Cynllun';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ydych chi\'n siŵr bod wedi rhoi enw\'r gweinydd cronfa ddata cywir? Ydych chi wedi ei gamdeipio? Adroddodd y gronfa ddata: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Mae\'n syniad da cadw\'r nifer uchaf o gymeriadau a ganiateir mewn post i lawr i faint rhesymol.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Hwb eich cymuned a chynyddu ymgysylltiad defnyddwyr.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Dysgwch am lwybro personol.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "Dim ond wythawd olaf y cyfeiriad IP y mae <strong>Anonymization Rhannol</strong> yn ei wneud. Er enghraifft byddai 254.230.05.153 yn dod yn 254.230.05.0. Mae hyn yn darparu rhywfaint o anhysbysrwydd tra'n dal i ganiatáu i reolau gwahardd IP weithredu.";
 $Definition['Partial Anonymization'] = "Anhysbysiad Rhannol";
 $Definition['Password.MinLength'] = 'Isafswm hyd nod a ganiateir ar gyfer cyfrineiriau defnyddwyr ar dudalennau creu ac ailosod cyfrinair.';
+$Definition['Personal Access Tokens'] = 'Tocynnau Mynediad Personol';
 $Definition['Please choose an authenticator to configure.'] = 'Dewiswch ddilyswr i\'w ffurfweddu.';
 $Definition['PluginHelp'] = 'Mae ategion yn caniatáu i chi ychwanegu ffwythiannau i\'ch safle. < br / > unwaith mae ategyn wedi\'i ychwanegu i\'ch ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Arddangosir y poced rhwng pob trafodaeth ar y prif restr trafod. Gan fod y trafodaethau hyn fel arfer yn dagiau < li >... < /li > bydd angen i chi lapio eich poced o gwmpas y tagiau hynny hefyd.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Dolenni cyflym';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Canllaw cyflym i ddechrau creu themâu ar gyfer Vanilla';
 
+$Definition['Rate Limits'] = 'Terfynau Cyfradd';
 $Definition['Reactions Documentation'] = 'Dogfennaeth Ymatebion';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ategyn sylwadau parod Vanilla ar gyfer WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ategyn Fforwm Vanilla parod ar gyfer WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Angen caniatâd y
 $Definition['Restoring your selection removes the items from this list.'] = 'Wrth adfer, bydd eitemau\'n cael eu tynnu oddi ar y rhestr yma a\'u rhoi nôl ar y safle.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Defnyddiwch yr opsiwn canlynol i alluogi dyfynbrisiau ar gyfer y Golygydd Cyfoethog. Dim ond os yw\'r fformatydd diofyn yn "Gyfoethog" y bydd hyn yn berthnasol.';
+$Definition['Role Tokens'] = 'Tocynnau Rôl';
 $Definition['Route Expression'] = 'Llwybr mynegiant';
 $Definition['Routes are used to redirect users.'] = 'Defnyddir llwybrau i ailgyfeirio defnyddwyr gan ddibynnu ar yr URL a gofyn.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Cyfyngiad arbennig: Dim ond defnyddwyr â chaniatâd Garden.Curation.Manage all ddefnyddio\'r adwaith hwn.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Nodwch ornest rhannol neu lawn wrth greu gwaharddiad.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Treuliwch ychydig o amser yn meddwl am sut rydych yn disgrifio eich safle yma. Gallai rhoi teitl ystyrlon a disgrifiad cryno helpu eich sefyllfa mewn peiriannau chwilio.';
+$Definition['Spoofing'] = 'Ffug-ddweud';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Gwella golwg eich e-byst trwy ychwanegu logo ac addasu lliwiau.';
 $Definition['Start Import'] = 'Dechrau mewnforio';
 $Definition['Start the first discussion.'] = 'Taniwch eich cymuned drwy <a href="{/post/discussion,url}"> gychwyn y drafodaeth gyntaf</a> nawr.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Rhybudd</b>: Mae hyn a
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Rydym yn argymell galluogi 1-3 adwaith ar y tro i osgoi llethu defnyddwyr.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Pan fydd wedi\'i alluogi, gall defnyddwyr ddewis derbyn hysbysiadau gan y gymuned';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Pan fydd wedi\'i alluogi, gallwch reoli cynhyrchion, a grwpio is-gymunedau yn ôl y cynhyrchion hynny.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Pan fydd wedi\'i alluogi, gallwch <0>reoli cynhyrchion</0> , a grwpio is-gymunedau yn ôl y cynhyrchion hynny.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'A fydd y meysydd proffil mewnol yn cael eu cynnwys yn y bachyn gwe hwn ai peidio.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'A fydd y meysydd proffil preifat yn cael eu cynnwys yn y bachyn gwe hwn ai peidio.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Weithiau rydych 
 $Definition['Layout Editor'] = 'Golygydd Gosodiad';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Galluogi\'r Golygydd Cynllun i gymhwyso cynllun wedi\'i deilwra ar gyfer eich tudalennau cymuned. Defnyddiwch ein golygydd newydd i gynnwys cynnwys gan ddefnyddio ein catalog o widgets sydd ar gael.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'DS Bydd y Golygydd Gosodiad newydd yn etifeddu\'r thema a osodwyd yn eich Arddull Arddull (golygydd thema gynt). <1> Darganfod mwy</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Tudalen Rhestr Postiadau Diweddar";
+$Definition["Custom"] = "Personol";
+$Definition["Category List Page"] = "Tudalen Rhestr Categori";
+$Definition["Home Page Type"] = "Math o Dudalen Gartref";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Dewiswch dudalen i wasanaethu fel hafan yr is-gymuned.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Mae'r Math Tudalen Gartref a ddewiswyd yn gynllun personol. Gallwch reoli'r cynllun ar gyfer yr is-gymuned hon yn <0/>.";
+$Definition["Default Subcommunity"] = "Is-gymuned Diofyn";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Gwnewch hwn yn is-gymuned ddiofyn. Bydd ymwelwyr yn cael eu cyfeirio yma yn gyntaf pan fyddant yn cyrchu'r gymuned.";
+$Definition["Post number must be between 3–20."] = "Rhaid i rif y post fod rhwng 3 a 20.";
+$Definition["Pages"] = "Tudalennau";
+$Definition["Widget Builder"] = "Adeiladwr Widget";
+$Definition["Custom Pages"] = "Tudalennau Personol";
+$Definition["Site Home Pages"] = "Tudalennau Cartref y Safle";
+$Definition["Subcommunity Home Pages"] = "Tudalennau Cartref Is-gymuned";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Dewiswch thema ar gyfer yr is-gymuned hon. <0>Darllen mwy</0>";
+$Definition["Vanilla Messages"] = "Negeseuon Fanila";
+$Definition["From <0/>"] = "O <0/>";
+$Definition["Manage Products"] = "Rheoli Cynhyrchion";
+$Definition["Pages"] = "Tudalennau";
+$Definition["Widget Builder"] = "Adeiladwr Widget";
+$Definition["Custom Pages"] = "Tudalennau Personol";
+$Definition["Site Home Pages"] = "Tudalennau Cartref y Safle";
+$Definition["Subcommunity Home Pages"] = "Tudalennau Cartref Is-gymuned";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Dewiswch thema ar gyfer yr is-gymuned hon. <0>Darllen mwy</0>";
+$Definition["Search subcommunities."] = "Chwiliwch is-gymunedau.";
+$Definition["The view you were looking for could not be found."] = "Ni ellid dod o hyd i'r olygfa yr oeddech yn chwilio amdani.";
+$Definition["View Not Found"] = "Golwg Heb ei Chanfod";
+$Definition["site"] = "safle";
+$Definition["Selected Home Page Type is a legacy layout."] = "Mae'r Math o Dudalen Gartref a ddewiswyd yn gynllun etifeddol.";
+$Definition["The default home page type can be changed in <0/>."] = "Gellir newid y math o dudalen gartref ddiofyn yn <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Gosodiadau Allweddair";
+$Definition["Extremely Negative to Negative"] = "Eithriadol o Negyddol i Negyddol";
+$Definition["Negative to Balanced"] = "Negyddol i Gytbwys";
+$Definition["Balanced to Positive"] = "Cytbwys i Gadarnhaol";
+$Definition["Positive to Highly Positive"] = "Cadarnhaol i Gadarnhaol Iawn";
+$Definition["Sentiment Keywords"] = "Allweddeiriau Teimlad";
+$Definition["Sentiment Settings"] = "Gosodiadau Teimlad";
+$Definition["Add Keyword"] = "Ychwanegu Allweddair";
+$Definition["Keyword Limit Reached"] = "Terfyn Allweddair wedi'i Gyrraedd";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Dim ond hyd at 100 o allweddeiriau y gallwch eu holrhain. Dad-olrhain rhai i ychwanegu allweddeiriau newydd.";
+$Definition["Calibrate Sentiment Levels"] = "Calibradu Lefelau Teimlad";
+$Definition["Sentiment Level Distribution Adjustment"] = "Addasiad Dosbarthiad Lefel Teimlad";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Mae'r 4 llithrydd yn cynrychioli'r pwyntiau rhwng pob lefel teimlad. Llusgwch y llithryddion i galibro'r dosbarthiad lefel teimlad cyffredinol i gynnwys eich cymuned.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Rhagolwg Dosbarthiad Teimlad wedi'i Galibro";
+$Definition["(Read Only)"] = "(Darllen yn Unig)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Mae'r graff hwn yn dangos sut y byddai'r cynnwys yn eich cymuned yn cael ei ddosbarthu yn seiliedig ar eich addasiad calibradu.";
+$Definition["all time sentiment"] = "teimlad bob amser";
+$Definition["keyword"] = "allweddair";
+$Definition["number of uses"] = "nifer o ddefnyddiau";
+$Definition["last use"] = "defnydd olaf";
+$Definition["tracking"] = "olrhain";
+$Definition["Sentiment"] = "Teimlad";
+$Definition["Tracked Status"] = "Statws wedi'i Olrhain";
+$Definition["Tracked Only"] = "Wedi'i Olrhain yn Unig";
+$Definition["Untracked Only"] = "Heb ei Olrhain yn Unig";
+$Definition["Strongly Negative"] = "Negyddol Gryf";
+$Definition["Negative"] = "Negyddol";
+$Definition["Positive"] = "Cadarnhaol";
+$Definition["Highly Positive"] = "Cadarnhaol Iawn";
+$Definition["Clear all filters"] = "Clirio'r holl hidlwyr";
+$Definition["Keyword is required."] = "Mae angen allweddair.";
+$Definition["Maximum length is 100 characters."] = "Yr hyd mwyaf yw 100 nod.";
+$Definition["Keyword"] = "Allweddair";
+$Definition["Add a new tracked keyword"] = "Ychwanegu allweddair newydd wedi'i olrhain";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Bydd allweddeiriau newydd yn cael eu holrhain mewn dadansoddeg. Gallwch ddewis diffodd olrhain ar ôl creu'r allweddair hwn.";
+$Definition["Extremely Negative"] = "Eithriadol o Negyddol";
+$Definition["Extremely Positive"] = "Eithriadol o Gadarnhaol";
+$Definition["Filter by:"] = "Hidlo yn ôl:";

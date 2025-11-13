@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Dumelela badiriši bao ba nago le tumelelo ya %s go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymize Diaterese tša IP";
+$Definition['API Overview'] = "Kakaretšo ya API";
 $Definition['ApplicationHelp'] = 'Dikgopelo di go dumelela go tsenya dihlopha tše dikgolo tša go šoma wepesaeteng ya gago.<br />Ge kgopelo e tsentšwe foltareng ya gago ya %s, o ka e bula goba go e tswalela mo.';
 $Definition['Apply Layout'] = 'Diriša Peakanyo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Na o kgodišegile gore o tsentšhe bobolokelo bja maleba leineng la mong? Mohlomongwe ga se wa le ngwala gabotse? Bobolokelo bo begile gore: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Ke kgopolo ye botse go boloka palomoka ya ditlhaka tše di dumeletšwego ka posong go fihla bogolong bjo bo kwagalago.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Thoma dilo tikologong ya geno gomme o oketše go šoma ga modiriši.';
 $Definition['Labs'] = 'Dilab tša go dira diteko';
 $Definition['Learn about custom routing.'] = 'Ithute ka mokgwa o tlwaetšwego.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Karolo</strong> Anonymizes feela octet ya mafelelo ya aterese ya IP. Mohlala 254.230.05.153 e be e tla fetoga 254.230.05.0. Se se fa go se tsebje mo gongwe mola se sa dumelela melao ya thibelo ya IP go šoma.";
 $Definition['Partial Anonymization'] = "Go se tsebje ka karolo";
 $Definition['Password.MinLength'] = 'Bonyane tlhaku bolelele lumelloa bakeng sa basebedisi ba diphasewete ka phasewete bopa le ho seta botjha maqephe.';
+$Definition['Personal Access Tokens'] = 'Thokene ya Motho ka Noši ya go Tsena';
 $Definition['Please choose an authenticator to configure.'] = 'Hle kgetha mongwadi gore a rulaganye.';
 $Definition['PluginHelp'] = 'Go tsenya go go dumelela go oketša go šoma ga wepesaete ya gago.<br />Ge go šetše go tsentšwe foltareng ya gago %s, o ka e bula goba wa e tswalela.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Potla e bontšhwa magareng a poledišano e nngwe le e nngwe lenaneong la poledišano e kgolo. Ka ge gantši dipoledišano di le ka &lt;li&gt;..&lt;/li&gt; maswao, o tla swanelwa ke go phuthela potla ya gago le ka maswao ao.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Dikgokagano tša ka pela';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Tlhahlo ya go Thoma Lefsa go Hlama Dihlogo tša Vanilla';
 
+$Definition['Rate Limits'] = 'Mellwane ya Seelo';
 $Definition['Reactions Documentation'] = 'Dikarabelo Ditokomane';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ditlhaloso tša Vanilla Yeo e Dirilwego ya go Hloma Kuranta';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Foramo ya Vanilla Yeo e Dirilwego ya go Hloma Kuranta';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'E nyaka tumelelo 
 $Definition['Restoring your selection removes the items from this list.'] = 'Ge o bušetša sekeng, dilo di a tlošwa lenaneong le gomme di bušetšwa wepesaeteng.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Šomiša kgetho ye e latelago go kgontšha ditsopolwa tša Morulaganyi wa Mohumi. Se se tla šoma fela ge e le gore sebopego sa go se fetoge ke "Rich".';
+$Definition['Role Tokens'] = 'Ditšhupetšo tša Karolo';
 $Definition['Route Expression'] = 'Dipolelo tša Tsela';
 $Definition['Routes are used to redirect users.'] = 'Ditsela di dirišetšwa go hlahla badiriši lefsa go ya ka URL yeo e kgopetšwego.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Thibelo ye e kgethegilego: Ke fela badiriši bao ba nago le tumelelo Garden.Curation.Manage bao ba ka šomišago karabelo ye.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Laetša papadi ya karolo goba ka botlalo ge o hlola thibelo.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Go fetša nakwana re nagana mabapi le kamoo re ka hlalosago wepesaete ya gago mo. Go nea wepesaete ya gago sehlogo seo se nago le morero le tlhaloso e botse go ka thuša boemo bja gago dikarolong tša go tsoma.';
+$Definition['Spoofing'] = 'Go dira dilo ka bofora';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Thakgafatša diimeile tša gago ka go tsena leswao le go botsefatša mebala.';
 $Definition['Start Import'] = 'Thoma go Amogela';
 $Definition['Start the first discussion.'] = 'Sepetša dilo tikologong ya geno ka <a href="{/post/discussion,url}">go thoma poledišano ya pele</a> gona bjale.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Temošo</b>: Se ke bak
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Re kgothaletša go kgontšha dikarabelo tše 1-3 ka nako go efoga badiriši ba go gateletša.';
 $Definition['Webhooks'] = 'Dihuku tša Wepesaete';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ge e kgontšhitšwe, badiriši ba ka kgetha go amogela ditsebišo go tšwa setšhabeng';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ge o kgontšhitšwe, o ka laola ditšweletšwa, le go hlopha ditšhaba tše nnyane ka ditšweletšwa tšeo.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Ge o kgontšhitšwe, o ka <0>laola ditšweletšwa</0> , le sehlopha sa ditšhaba tše nnyane ka ditšweletšwa tšeo.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Gore na mafelo a ka gare a profaele a tla akaretšwa ka gare ga webhook ye goba aowa.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Gore na mafelo a profaele ya poraebete a tla akaretšwa ka gare ga webhook ye goba aowa.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Ka nako ye nngwe
 $Definition['Layout Editor'] = 'Morulaganyi wa Peakanyo';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Kgontšha Morulaganyi wa Peakanyo go diriša peakanyo ya tlwaelo ya matlakala a gago a setšhaba. Šomiša morulaganyi wa rena yo mofsa go tšweletša diteng o šomiša lelokelelo la rena la didirišwa tše di lego gona.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Morulaganyi yo mofsa wa Peakanyo o tla ja bohwa bja sete ya sehlogo ka go Tlhahlo ya gago ya Setaele (semmušo morulaganyi wa sehlogo). <1>Hwetša dintlha ka botlalo</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Letlakala la Lenaneo la Poso ya Morago bjale";
+$Definition["Custom"] = "Tlwaelo";
+$Definition["Category List Page"] = "Letlakala la Lenaneo la Legoro";
+$Definition["Home Page Type"] = "Mohuta wa Letlakala la Gae";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Kgetha letlakala go šoma bjalo ka letlakala la gae la setšhaba sa ka fasana.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Mohuta wa Letlakala la Gae leo le kgethilwego ke peakanyo ya tlwaelo. O ka laola peakanyo ya setšhaba se senyenyane ka go <0/>.";
+$Definition["Default Subcommunity"] = "Setšhaba se Senyenyane sa Tlwaelo";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Dira gore se e be setšhaba se senyenyane sa go se fetoge. Baeti ba tla lebiša mo pele ge ba tsena setšhabeng.";
+$Definition["Post number must be between 3–20."] = "Nomoro ya poso e swanetše go ba magareng ga 3-20.";
+$Definition["Pages"] = "Matlakala";
+$Definition["Widget Builder"] = "Seagi sa Widget";
+$Definition["Custom Pages"] = "Matlakala a Tlwaelo";
+$Definition["Site Home Pages"] = "Matlakala a Gae a Sebaka";
+$Definition["Subcommunity Home Pages"] = "Matlakala a Gae a Setšhaba se Senyenyane";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Kgetha moko wa ditaba wa setšhaba se senyenyane. <0>Bala go feta fa</0>";
+$Definition["Vanilla Messages"] = "Melaetša ya Vanilla";
+$Definition["From <0/>"] = "Go tloga go <0/>";
+$Definition["Manage Products"] = "Laola Ditšweletšwa";
+$Definition["Pages"] = "Matlakala";
+$Definition["Widget Builder"] = "Seagi sa Widget";
+$Definition["Custom Pages"] = "Matlakala a Tlwaelo";
+$Definition["Site Home Pages"] = "Matlakala a Gae a Sebaka";
+$Definition["Subcommunity Home Pages"] = "Matlakala a Gae a Setšhaba se Senyenyane";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Kgetha moko wa ditaba wa setšhaba se senyenyane. <0>Bala go feta fa</0>";
+$Definition["Search subcommunities."] = "Nyaka ditšhaba tše nnyane.";
+$Definition["The view you were looking for could not be found."] = "Pono yeo o bego o e nyaka ga se ya ka ya hwetšwa.";
+$Definition["View Not Found"] = "Pono Ga se ya Hwetšagala";
+$Definition["site"] = "saete";
+$Definition["Selected Home Page Type is a legacy layout."] = "Mohuta wa Letlakala la Gae leo le Kgethilwego ke peakanyo ya bohwa.";
+$Definition["The default home page type can be changed in <0/>."] = "Mohuta wa letlakala la gae la go se fetoge o ka fetošwa ka go <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Dipeakanyo tša Lentšu la Bohlokwa";
+$Definition["Extremely Negative to Negative"] = "E mpe ka mo go feteletšego go ya go e mpe";
+$Definition["Negative to Balanced"] = "Negative go ya go E leka-lekanego";
+$Definition["Balanced to Positive"] = "E leka-lekane go ya go e Positive";
+$Definition["Positive to Highly Positive"] = "Positive go ya go Positive ye e Phagamego";
+$Definition["Sentiment Keywords"] = "Mantšu a Bohlokwa a Maikutlo";
+$Definition["Sentiment Settings"] = "Dipeakanyo tša Maikutlo";
+$Definition["Add Keyword"] = "Oketša Lentšu la Bohlokwa";
+$Definition["Keyword Limit Reached"] = "Moedi wa Lentšu la Bohlokwa o Fihleletšwe";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "O ka latela fela mantšu a bohlokwa a go fihla go 100. Untrack tše dingwe go oketša mantšu a bohlokwa a mafsa.";
+$Definition["Calibrate Sentiment Levels"] = "Lekanya Maemo a Maikutlo";
+$Definition["Sentiment Level Distribution Adjustment"] = "Peakanyo ya Kabo ya Maemo a Maikutlo";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Di-slider tše 4 di emela dintlha magareng ga maemo a mangwe le a mangwe a maikutlo. Goga dilaete go lekanya kabo ya maemo a maikutlo ka kakaretšo go diteng tša setšhaba sa gago.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Tebelelopele ya Kabo ya Maikutlo ye e Lekantšwego";
+$Definition["(Read Only)"] = "(Bala Feela)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Kerafo ye e bona ka leihlo la kgopolo ka fao diteng tša setšhabeng sa geno di bego di tla phatlalatšwa ka gona go ya ka peakanyo ya gago ya go lekanya.";
+$Definition["all time sentiment"] = "maikutlo a nako ka moka";
+$Definition["keyword"] = "lentšu la bohlokwa";
+$Definition["number of uses"] = "palo ya ditirišo";
+$Definition["last use"] = "tšhomišo ya mafelelo";
+$Definition["tracking"] = "go latela";
+$Definition["Sentiment"] = "Maikutlo";
+$Definition["Tracked Status"] = "Boemo bjo bo Latišišitšwego";
+$Definition["Tracked Only"] = "Tracked Feela";
+$Definition["Untracked Only"] = "E sa Latelwago Feela";
+$Definition["Strongly Negative"] = "E mpe ka matla";
+$Definition["Negative"] = "Sa thabišego";
+$Definition["Positive"] = "Kgotsofatša";
+$Definition["Highly Positive"] = "E Positive e Phagamego";
+$Definition["Clear all filters"] = "Hlakola difiltara ka moka";
+$Definition["Keyword is required."] = "Keyword e a nyakega.";
+$Definition["Maximum length is 100 characters."] = "Palo e kahodimodimo bolelele ke 100 litlhaku.";
+$Definition["Keyword"] = "Lentšu la bohlokwa";
+$Definition["Add a new tracked keyword"] = "Oketša lentšu la bohlokwa le lefsa leo le latišišitšwego";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Mantšu a bohlokwa a mafsa a tla latišišwa ka go ditshekatsheko. O ka kgetha go tima go latela ka morago ga go hlama lentšu le la bohlokwa.";
+$Definition["Extremely Negative"] = "E mpe ka mo go feteletšego";
+$Definition["Extremely Positive"] = "E Positive ka mo go Feteletšego";
+$Definition["Filter by:"] = "Sefa ka:";

@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Cho phép người dùng có quyền %s để thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Ẩn danh địa chỉ IP";
+$Definition['API Overview'] = "Tổng quan về API";
 $Definition['ApplicationHelp'] = 'Các ứng dụng cho phép bạn thêm một nhóm lớn các tính năng lên trang.<br />Ứng dụng sẽ được thêm vào thư mục %s, bạn có thể bật hoặc tắt nó tại đây.';
 $Definition['Apply Layout'] = 'Áp dụng bố cục';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bạn có chắc chắn đã nhập đúng tên máy chủ cơ sở dữ liệu không? Có thể bạn gõ nhầm gì đó? Cơ sở dữ liệu thông báo là: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Đó là một ý tưởng tốt để giữ số lượng ký tự tối đa được phép trong một bài viết xuống kích thước hợp lý.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Bắt đầu cộng đồng của mình và gia tăng số người sử dụng';
 $Definition['Labs'] = 'Phòng thí nghiệm';
 $Definition['Learn about custom routing.'] = 'Tìm hiểu về tuyến đường truyền tuỳ chỉnh';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Ẩn danh một phần chỉ ẩn danh</strong> octet cuối cùng của địa chỉ IP. Ví dụ 254.230.05.153 sẽ trở thành 254.230.05.0. Điều này cung cấp một số ẩn danh trong khi vẫn cho phép các quy tắc cấm IP hoạt động.";
 $Definition['Partial Anonymization'] = "Ẩn danh một phần";
 $Definition['Password.MinLength'] = 'Độ dài ký tự tối thiểu cho phép đối với mật khẩu của người dùng trên các trang tạo và đặt lại mật khẩu.';
+$Definition['Personal Access Tokens'] = 'Token Truy cập Cá nhân';
 $Definition['Please choose an authenticator to configure.'] = 'Hãy chọn một xác thực để cấu hình.';
 $Definition['PluginHelp'] = 'Pluing cho phép bạn thêm chức năng cho trang web của bạn. < br / > Khi một plugin đã được thêm vào thư mục %s, bạn có thể kích hoạt hoặc vô hiệu hóa nó ở đây.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Túi hiển thị giữa mỗi bài viết trong danh sách các bài viết chính. Kể từ khi bài viết thường ở < li >... < /li > thẻ, bạn cũng sẽ cần để túi của bạn trong các thẻ.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Đường dẫn nhanh';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Hướng dẫn nhanh các tạo Chủ đề';
 
+$Definition['Rate Limits'] = 'Giới hạn tỷ lệ';
 $Definition['Reactions Documentation'] = 'Tài liệu phản ứng';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Bình luận cho WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Diễn đàn cho WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Yêu cầu cho ph
 $Definition['Restoring your selection removes the items from this list.'] = 'Khi bạn khôi phục lại, các mục bị loại bỏ khỏi danh sách này sẽ được đưa trở lại trang';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Sử dụng tùy chọn dưới đây để cho phép dùng dấu trích dẫn cho trình Rich Editor. Thao tác này sẽ chỉ áp dụng được nếu trình định dạng mặc định là "Rich".';
+$Definition['Role Tokens'] = 'Mã thông báo vai trò';
 $Definition['Route Expression'] = 'Biểu hiện định tuyến';
 $Definition['Routes are used to redirect users.'] = 'Các đường truyền này được dùng để chuyển hướng người dùng tuỳ vào địa chỉ URL được yêu cầu.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Hạn chế đặc biệt: Chỉ những người dùng có quyền Garden.Curation.Manage mới có thể sử dụng phản ứng này.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Quy định rõ một phần hay toàn bộ trận đấu khi tạo luật cấm.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dành một ít thời gian suy nghĩ về cách bạn mô tả trang web của bạn ở đây. Cung cấp cho trang của bạn một tiêu đề phù hợp và một mô tả chính xác để phục vụ cho các cỗ máy tìm kiếm.';
+$Definition['Spoofing'] = 'Giả mạo';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Trau chuốt email của bạn bằng cách thêm một lô-gô và tùy chỉnh màu sắc.';
 $Definition['Start Import'] = 'Bắt đầu nhập';
 $Definition['Start the first discussion.'] = 'Tạo chỗ đứng trong cộng đồng của bạn bằng cách <a href="{/post/discussion,url}"> bắt đầu các bài viết đầu tiên</a> ngay bây giờ.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Cảnh báo</b>: phầ
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Chúng tôi khuyên bạn nên bật 1–3 phản ứng cùng một lúc để tránh khiến người dùng choáng ngợp.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Khi được bật, người dùng có thể chọn nhận thông báo từ cộng đồng';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Khi được bật, bạn có thể quản lý các sản phẩm và phân nhóm thông tin theo các sản phẩm đó.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Khi được bật, bạn có thể <0>quản lý sản phẩm</0> và nhóm các cộng đồng con theo các sản phẩm đó.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Liệu các trường hồ sơ nội bộ có được đưa vào webhook này hay không.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Liệu các trường tiểu sử cá nhân có được đưa vào webhook này hay không.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Đôi khi bạn 
 $Definition['Layout Editor'] = 'Trình biên tập bố cục';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Bật Trình chỉnh sửa bố cục để áp dụng bố cục tùy chỉnh cho các trang cộng đồng của bạn. Sử dụng trình chỉnh sửa mới của chúng tôi để làm nổi bật nội dung bằng danh mục các vật dụng có sẵn của chúng tôi.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Trình chỉnh sửa bố cục mới sẽ kế thừa bộ chủ đề trong Hướng dẫn kiểu của bạn (chính thức là trình chỉnh sửa chủ đề). <1> Tìm hiểu thêm</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Trang danh sách bài viết gần đây";
+$Definition["Custom"] = "Phong tục";
+$Definition["Category List Page"] = "Trang danh sách danh mục";
+$Definition["Home Page Type"] = "Loại trang chủ";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Chọn một trang để làm trang chủ của cộng đồng phụ.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Kiểu Trang chủ được chọn là bố cục tùy chỉnh. Bạn có thể quản lý bố cục cho cộng đồng con này trong <0/>.";
+$Definition["Default Subcommunity"] = "Cộng đồng con mặc định";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Đặt đây làm cộng đồng con mặc định. Khách truy cập sẽ được chuyển hướng đến đây trước khi họ truy cập cộng đồng.";
+$Definition["Post number must be between 3–20."] = "Số bài viết phải nằm trong khoảng từ 3 đến 20.";
+$Definition["Pages"] = "Trang";
+$Definition["Widget Builder"] = "Trình tạo tiện ích";
+$Definition["Custom Pages"] = "Trang tùy chỉnh";
+$Definition["Site Home Pages"] = "Trang chủ của trang web";
+$Definition["Subcommunity Home Pages"] = "Trang chủ cộng đồng phụ";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Chọn một chủ đề cho cộng đồng này. <0>Đọc thêm</0>";
+$Definition["Vanilla Messages"] = "Tin nhắn Vanilla";
+$Definition["From <0/>"] = "Từ <0/>";
+$Definition["Manage Products"] = "Quản lý sản phẩm";
+$Definition["Pages"] = "Trang";
+$Definition["Widget Builder"] = "Trình tạo tiện ích";
+$Definition["Custom Pages"] = "Trang tùy chỉnh";
+$Definition["Site Home Pages"] = "Trang chủ của trang web";
+$Definition["Subcommunity Home Pages"] = "Trang chủ cộng đồng phụ";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Chọn một chủ đề cho cộng đồng này. <0>Đọc thêm</0>";
+$Definition["Search subcommunities."] = "Tìm kiếm các cộng đồng con.";
+$Definition["The view you were looking for could not be found."] = "Không tìm thấy góc nhìn bạn đang tìm kiếm.";
+$Definition["View Not Found"] = "Xem không tìm thấy";
+$Definition["site"] = "địa điểm";
+$Definition["Selected Home Page Type is a legacy layout."] = "Kiểu trang chủ được chọn là bố cục cũ.";
+$Definition["The default home page type can be changed in <0/>."] = "Có thể thay đổi loại trang chủ mặc định trong <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Cài đặt từ khóa";
+$Definition["Extremely Negative to Negative"] = "Cực kỳ tiêu cực đến tiêu cực";
+$Definition["Negative to Balanced"] = "Từ âm đến cân bằng";
+$Definition["Balanced to Positive"] = "Cân bằng đến tích cực";
+$Definition["Positive to Highly Positive"] = "Tích cực đến Rất tích cực";
+$Definition["Sentiment Keywords"] = "Từ khóa tình cảm";
+$Definition["Sentiment Settings"] = "Cài đặt tình cảm";
+$Definition["Add Keyword"] = "Thêm từ khóa";
+$Definition["Keyword Limit Reached"] = "Đã đạt đến giới hạn từ khóa";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Bạn chỉ có thể theo dõi tối đa 100 từ khóa. Hãy bỏ theo dõi một số để thêm từ khóa mới.";
+$Definition["Calibrate Sentiment Levels"] = "Hiệu chỉnh mức độ tình cảm";
+$Definition["Sentiment Level Distribution Adjustment"] = "Điều chỉnh phân phối mức độ tình cảm";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "4 thanh trượt biểu thị điểm giữa mỗi mức độ cảm xúc. Kéo thanh trượt để hiệu chỉnh mức độ phân bổ cảm xúc tổng thể cho nội dung cộng đồng của bạn.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Xem trước phân phối tình cảm đã hiệu chuẩn";
+$Definition["(Read Only)"] = "(Chỉ đọc)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Biểu đồ này trực quan hóa cách phân phối nội dung trong cộng đồng của bạn dựa trên sự điều chỉnh hiệu chuẩn của bạn.";
+$Definition["all time sentiment"] = "tình cảm mọi thời đại";
+$Definition["keyword"] = "từ khóa";
+$Definition["number of uses"] = "số lần sử dụng";
+$Definition["last use"] = "sử dụng lần cuối";
+$Definition["tracking"] = "theo dõi";
+$Definition["Sentiment"] = "Tình cảm";
+$Definition["Tracked Status"] = "Trạng thái theo dõi";
+$Definition["Tracked Only"] = "Chỉ theo dõi";
+$Definition["Untracked Only"] = "Chỉ không theo dõi";
+$Definition["Strongly Negative"] = "Tiêu cực mạnh mẽ";
+$Definition["Negative"] = "Tiêu cực";
+$Definition["Positive"] = "Tích cực";
+$Definition["Highly Positive"] = "Rất tích cực";
+$Definition["Clear all filters"] = "Xóa tất cả bộ lọc";
+$Definition["Keyword is required."] = "Từ khóa là bắt buộc.";
+$Definition["Maximum length is 100 characters."] = "Độ dài tối đa là 100 ký tự.";
+$Definition["Keyword"] = "Từ khóa";
+$Definition["Add a new tracked keyword"] = "Thêm từ khóa theo dõi mới";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Từ khóa mới sẽ được theo dõi trong Analytics. Bạn có thể chọn tắt theo dõi sau khi tạo từ khóa này.";
+$Definition["Extremely Negative"] = "Cực kỳ tiêu cực";
+$Definition["Extremely Positive"] = "Cực kỳ tích cực";
+$Definition["Filter by:"] = "Lọc theo:";

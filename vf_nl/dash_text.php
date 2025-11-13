@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Sta toe dat gebruikers met %s toestemming hun eigen avatar vanaf hun profielpagina in Vanilla aanpassen.';
 $Definition['Anonymize IP Addresses'] = "IP-adressen anonimiseren";
+$Definition['API Overview'] = "API-overzicht";
 $Definition['ApplicationHelp'] = 'Met applicaties kun je grote groepen van functionaliteit toevoegen aan je site.<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
 $Definition['Apply Layout'] = 'Lay-out toepassen';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Weet je zeker van dat je de goede database hostnaam hebt ingevuld? Misschien heb je het verkeerd ingetypt? De database gaf dit aan: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Het is een goed idee om het maximale aantal toegestane karakters in een geplaatst bericht laag te houden.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Geef je gemeenschap een boost en vergroot gebruikersinteractie.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Leer over aangepaste routes.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Gedeeltelijke anonimisering</strong> anonimiseert alleen het laatste octet van het IP-adres. 254.230.05.153 wordt bijvoorbeeld 254.230.05.0. Dit zorgt voor enige anonimisering terwijl de IP-banregels nog steeds kunnen functioneren.";
 $Definition['Partial Anonymization'] = "Gedeeltelijke anonimisering";
 $Definition['Password.MinLength'] = 'Minimale tekenlengte toegestaan voor gebruikerswachtwoorden op pagina\'s voor het maken en opnieuw instellen van wachtwoorden.';
+$Definition['Personal Access Tokens'] = 'Persoonlijke toegangstokens';
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergegeven tussen elke discussie op de algemene discussielijst. Omdat discussies meestal in <li>..</li>-tags worden verpakt, moet je je pockets ook in deze tags inpakken.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Snelkoppelingen';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Snelstartgids om thema\'s voor Vanilla te maken';
 
+$Definition['Rate Limits'] = 'Tarieflimieten';
 $Definition['Reactions Documentation'] = 'Reacties Documentatie';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Kant-en-klare Vanilla reactieplug-in voor WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Kant-en-klare Vanilla forumplug-in voor WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Vereist toestemmi
 $Definition['Restoring your selection removes the items from this list.'] = 'Als je herstelt, zullen deze voorwerpen verwijderd worden van deze lijst en terug op de site geplaatst worden.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Gebruik de volgende optie om citaten in te schakelen voor de verrijkte editor. Dit zal alleen van toepassing zijn als de standaardopmaak \'verrijkt\' is.';
+$Definition['Role Tokens'] = 'Roltokens';
 $Definition['Route Expression'] = 'Route-expressie';
 $Definition['Routes are used to redirect users.'] = 'Routes worden gebruikt om gebruikers door te verwijzen, afhankelijk van de URL.';
 
@@ -212,6 +217,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
 Tuin. Curatie. Management mag deze reactie gebruiken.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specificeer een gedeeltelijke of volledige overeenkomst bij het creëeren van een verbanning.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Neem je tijd om een beschrijving te bedenken voor je site. Het geven van een betekenisvolle naam en correcte beschrijving zou je positie in zoekmachines kunnen helpen.';
+$Definition['Spoofing'] = 'Spoofing';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Geef je e-mails een oppepper door een logo toe te voegen en door kleuren aan te passen.';
 $Definition['Start Import'] = 'Start importeren';
 $Definition['Start the first discussion.'] = 'Maak een begin in je gemeenschap door <a href="{/post/discussion,url}">de eerste discussie nu te beginnen</a>.';
@@ -281,7 +287,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit 
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'We raden aan om 1-3 reacties tegelijk in te schakelen om overweldigende gebruikers te voorkomen.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Indien ingeschakeld, kunnen gebruikers ervoor kiezen om meldingen van de community te ontvangen';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Wanneer ingeschakeld, kan je producten beheren en kleine gemeenschappen groeperen op basis van die producten.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Als deze optie is ingeschakeld, kunt u <0>producten beheren</0> en subgemeenschappen groeperen op basis van die producten.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Of de interne profielvelden al dan niet worden opgenomen in deze webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Of de velden van het privéprofiel al dan niet worden opgenomen in deze webhook.';
 
@@ -423,3 +429,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Soms wil je je V
 $Definition['Layout Editor'] = 'Lay-outeditor';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Schakel de lay-outeditor in om een aangepaste lay-out toe te passen op uw communitypagina\'s. Gebruik onze nieuwe editor om inhoud te tonen met behulp van onze catalogus met beschikbare widgets.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB De nieuwe Layout Editor zal de themaset in uw Style Guide (formeel thema-editor) erven. <1>Meer informatie</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Recente berichtenlijstpagina";
+$Definition["Custom"] = "Aangepast";
+$Definition["Category List Page"] = "Categorielijstpagina";
+$Definition["Home Page Type"] = "Startpaginatype";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Kies een pagina die als startpagina voor de subcommunity moet dienen.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Het geselecteerde startpaginatype is een aangepaste lay-out. U kunt de lay-out voor deze subcommunity beheren in <0/>.";
+$Definition["Default Subcommunity"] = "Standaard subcommunity";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Maak dit de standaard subcommunity. Bezoekers worden hier als eerste naartoe geleid wanneer ze de community bezoeken.";
+$Definition["Post number must be between 3–20."] = "Het postnummer moet tussen 3 en 20 liggen.";
+$Definition["Pages"] = "Pagina's";
+$Definition["Widget Builder"] = "Widgetbouwer";
+$Definition["Custom Pages"] = "Aangepaste pagina's";
+$Definition["Site Home Pages"] = "Startpagina's van de site";
+$Definition["Subcommunity Home Pages"] = "Subcommunity-homepages";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Kies een thema voor deze subcommunity. <0>Lees meer</0>";
+$Definition["Vanilla Messages"] = "Vanilleberichten";
+$Definition["From <0/>"] = "Van <0/>";
+$Definition["Manage Products"] = "Producten beheren";
+$Definition["Pages"] = "Pagina's";
+$Definition["Widget Builder"] = "Widgetbouwer";
+$Definition["Custom Pages"] = "Aangepaste pagina's";
+$Definition["Site Home Pages"] = "Startpagina's van de site";
+$Definition["Subcommunity Home Pages"] = "Subcommunity-homepages";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Kies een thema voor deze subcommunity. <0>Lees meer</0>";
+$Definition["Search subcommunities."] = "Zoek subgemeenschappen.";
+$Definition["The view you were looking for could not be found."] = "Het uitzicht dat u zocht, kon niet worden gevonden.";
+$Definition["View Not Found"] = "Weergave niet gevonden";
+$Definition["site"] = "site";
+$Definition["Selected Home Page Type is a legacy layout."] = "Het geselecteerde startpaginatype is een verouderde lay-out.";
+$Definition["The default home page type can be changed in <0/>."] = "Het standaardtype van de startpagina kan worden gewijzigd in <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Trefwoordinstellingen";
+$Definition["Extremely Negative to Negative"] = "Extreem negatief tot negatief";
+$Definition["Negative to Balanced"] = "Negatief naar gebalanceerd";
+$Definition["Balanced to Positive"] = "Gebalanceerd tot positief";
+$Definition["Positive to Highly Positive"] = "Positief tot zeer positief";
+$Definition["Sentiment Keywords"] = "Sentiment-trefwoorden";
+$Definition["Sentiment Settings"] = "Sentimentinstellingen";
+$Definition["Add Keyword"] = "Trefwoord toevoegen";
+$Definition["Keyword Limit Reached"] = "Trefwoordlimiet bereikt";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Je kunt maximaal 100 zoekwoorden volgen. Verwijder een aantal zoekwoorden om nieuwe zoekwoorden toe te voegen.";
+$Definition["Calibrate Sentiment Levels"] = "Kalibreer sentimentniveaus";
+$Definition["Sentiment Level Distribution Adjustment"] = "Aanpassing van de sentimentniveauverdeling";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "De vier schuifregelaars geven de punten tussen elk sentimentniveau weer. Versleep de schuifregelaars om de algehele sentimentniveauverdeling af te stemmen op de content van je community.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Voorbeeld van gekalibreerde sentimentverdeling";
+$Definition["(Read Only)"] = "(Alleen lezen)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Deze grafiek visualiseert hoe de content in uw community zou worden verspreid op basis van uw kalibratieaanpassing.";
+$Definition["all time sentiment"] = "sentiment van alle tijden";
+$Definition["keyword"] = "trefwoord";
+$Definition["number of uses"] = "aantal toepassingen";
+$Definition["last use"] = "laatste gebruik";
+$Definition["tracking"] = "volgen";
+$Definition["Sentiment"] = "Sentiment";
+$Definition["Tracked Status"] = "Gevolgde status";
+$Definition["Tracked Only"] = "Alleen gevolgd";
+$Definition["Untracked Only"] = "Alleen niet-getraceerd";
+$Definition["Strongly Negative"] = "Sterk negatief";
+$Definition["Negative"] = "Negatief";
+$Definition["Positive"] = "Positief";
+$Definition["Highly Positive"] = "Zeer positief";
+$Definition["Clear all filters"] = "Wis alle filters";
+$Definition["Keyword is required."] = "Trefwoord is vereist.";
+$Definition["Maximum length is 100 characters."] = "Maximale lengte is 100 tekens.";
+$Definition["Keyword"] = "Trefwoord";
+$Definition["Add a new tracked keyword"] = "Voeg een nieuw gevolgd trefwoord toe";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Nieuwe zoekwoorden worden gevolgd in Analytics. U kunt ervoor kiezen om tracking uit te schakelen nadat u dit zoekwoord hebt aangemaakt.";
+$Definition["Extremely Negative"] = "Extreem negatief";
+$Definition["Extremely Positive"] = "Extreem positief";
+$Definition["Filter by:"] = "Filteren op:";

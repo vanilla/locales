@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Dovoli uporabnikom z dovoljenjem %s, da spremenijo lastne avatarje na svojih profilnih straneh v Vaniliji.';
 $Definition['Anonymize IP Addresses'] = "Anonimizirajte naslove IP";
+$Definition['API Overview'] = "Pregled API-ja";
 $Definition['ApplicationHelp'] = 'Aplikacije vam omogočajo dodajanje velikih skupin funkcij na vaše spletno mesto.<br /> Ko je aplikacija dodana v mapo %s, jo lahko tukaj omogočite ali onemogočite.';
 $Definition['Apply Layout'] = 'Uporabi postavitev';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ali ste prepričani, da ste vnesli pravilno ime gostitelja baze podatkov? Ste se morda zmotili? Baza podatkov je poročala: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Dobro je, da največje dovoljeno število znakov v objavi zmanjšate na razumno velikost.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Zaženite svojo skupnost in povečajte angažiranost uporabnikov.';
 $Definition['Labs'] = 'laboratoriji';
 $Definition['Learn about custom routing.'] = 'Več o usmerjanju po meri.';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Delna anonimizacija</strong> anonimizira samo zadnji oktet naslova IP. Na primer 254.230.05.153 bi postal 254.230.05.0. To zagotavlja nekaj anonimizacije, hkrati pa še vedno omogoča delovanje pravil prepovedi IP.";
 $Definition['Partial Anonymization'] = "Delna anonimizacija";
 $Definition['Password.MinLength'] = 'Najmanjša dovoljena dolžina znakov za gesla uporabnikov na straneh za ustvarjanje in ponastavitev gesel.';
+$Definition['Personal Access Tokens'] = 'Osebni dostopni žetoni';
 $Definition['Please choose an authenticator to configure.'] = 'Izberite avtentifikator za konfiguracijo.';
 $Definition['PluginHelp'] = 'Vtičniki vam omogočajo, da svojemu spletnemu mestu dodate funkcionalnost.<br /> Ko je vtičnik dodan vaši mapi %s, ga lahko omogočite ali onemogočite tukaj.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Žepek je prikazan med vsako razpravo na glavnem seznamu razprav. Ker so razprave običajno v oznakah <li>..</li>, boste morali tudi vi zaviti svoj žep v te oznake.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Hitre povezave';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Hitri vodnik za ustvarjanje tem za Vanilla';
 
+$Definition['Rate Limits'] = 'Omejitve hitrosti';
 $Definition['Reactions Documentation'] = 'Dokumentacija o reakcijah';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Pripravljen vtičnik za komentarje Vanilla za WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Pripravljen vtičnik Vanilla Forum za WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Zahteva dovoljenj
 $Definition['Restoring your selection removes the items from this list.'] = 'Ko obnovite, se elementi odstranijo s tega seznama in vrnejo na spletno mesto.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Uporabite naslednjo možnost, da omogočite narekovaje za Rich Editor. To bo veljalo samo, če je privzeti formater "Rich".';
+$Definition['Role Tokens'] = 'Žetoni vlog';
 $Definition['Route Expression'] = 'Izraz poti';
 $Definition['Routes are used to redirect users.'] = 'Poti se uporabljajo za preusmerjanje uporabnikov glede na zahtevani URL.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Posebna omejitev: Samo uporabniki z dovoljenjem Garden.Curation.Manage lahko uporabljajo to reakcijo.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Pri ustvarjanju prepovedi določite delno ali popolno ujemanje.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Nekaj časa razmislite o tem, kako tukaj opisujete svoje spletno mesto. Če svojemu spletnemu mestu daste smiseln naslov in jedrnat opis, bi to lahko pripomoglo k vašemu položaju v iskalnikih.';
+$Definition['Spoofing'] = 'Ponarejanje';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Popestrite svoja e-poštna sporočila z dodajanjem logotipa in prilagajanjem barv.';
 $Definition['Start Import'] = 'Zaženi uvoz';
 $Definition['Start the first discussion.'] = 'Zaženite svojo skupnost tako, da zdaj <a href="{/post/discussion,url}">začnete prvo razpravo</a> .';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Opozorilo</b> : To je 
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Priporočamo, da omogočite 1–3 reakcije naenkrat, da preprečite preobremenitev uporabnikov.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ko je omogočeno, se lahko uporabniki odločijo za prejemanje obvestil skupnosti';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ko je omogočeno, lahko upravljate izdelke in združujete podskupnosti po teh izdelkih.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Ko je omogočeno, lahko <0>upravljate izdelke</0> in združite podskupnosti po teh izdelkih.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Ali bodo interna polja profila vključena v ta webhook ali ne.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Ali bodo polja zasebnega profila vključena v ta webhook ali ne.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Včasih želite 
 $Definition['Layout Editor'] = 'Urejevalnik postavitve';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Omogočite urejevalnik postavitve, da uporabite postavitev po meri za vaše strani skupnosti. Uporabite naš novi urejevalnik za prikaz vsebine z našim katalogom razpoložljivih pripomočkov.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Opomba: novi urejevalnik postavitve bo podedoval temo, nastavljeno v vašem vodniku po slogu (formalno urejevalnik tem). <1>Izvedite več</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Stran s seznamom nedavnih objav";
+$Definition["Custom"] = "Po meri";
+$Definition["Category List Page"] = "Stran s seznamom kategorij";
+$Definition["Home Page Type"] = "Vrsta domače strani";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Izberite stran, ki bo služila kot domača stran podskupnosti.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Izbrana vrsta domače strani je postavitev po meri. Postavitev za to podskupnost lahko upravljate v <0/>.";
+$Definition["Default Subcommunity"] = "Privzeta podskupnost";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Naj bo to privzeta podskupnost. Obiskovalci bodo najprej preusmerjeni sem, ko bodo dostopali do skupnosti.";
+$Definition["Post number must be between 3–20."] = "Številka objave mora biti med 3 in 20.";
+$Definition["Pages"] = "Strani";
+$Definition["Widget Builder"] = "Graditelj gradnikov";
+$Definition["Custom Pages"] = "Strani po meri";
+$Definition["Site Home Pages"] = "Domače strani spletnega mesta";
+$Definition["Subcommunity Home Pages"] = "Domače strani podskupnosti";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Izberite temo za to podskupnost. <0>Preberi več</0>";
+$Definition["Vanilla Messages"] = "Vanilijeva sporočila";
+$Definition["From <0/>"] = "Od <0/>";
+$Definition["Manage Products"] = "Upravljanje izdelkov";
+$Definition["Pages"] = "Strani";
+$Definition["Widget Builder"] = "Graditelj gradnikov";
+$Definition["Custom Pages"] = "Strani po meri";
+$Definition["Site Home Pages"] = "Domače strani spletnega mesta";
+$Definition["Subcommunity Home Pages"] = "Domače strani podskupnosti";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Izberite temo za to podskupnost. <0>Preberi več</0>";
+$Definition["Search subcommunities."] = "Iskanje podskupnosti.";
+$Definition["The view you were looking for could not be found."] = "Pogleda, ki ste ga iskali, ni bilo mogoče najti.";
+$Definition["View Not Found"] = "Pogled ni bil najden";
+$Definition["site"] = "spletno mesto";
+$Definition["Selected Home Page Type is a legacy layout."] = "Izbrana vrsta domače strani je starejša postavitev.";
+$Definition["The default home page type can be changed in <0/>."] = "Privzeto vrsto domače strani lahko spremenite v <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Nastavitve ključnih besed";
+$Definition["Extremely Negative to Negative"] = "Izjemno negativno do negativno";
+$Definition["Negative to Balanced"] = "Negativno do uravnoteženo";
+$Definition["Balanced to Positive"] = "Uravnoteženo do pozitivno";
+$Definition["Positive to Highly Positive"] = "Pozitivno do zelo pozitivno";
+$Definition["Sentiment Keywords"] = "Ključne besede mnenja";
+$Definition["Sentiment Settings"] = "Nastavitve mnenja";
+$Definition["Add Keyword"] = "Dodaj ključno besedo";
+$Definition["Keyword Limit Reached"] = "Dosežena je omejitev ključnih besed";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Sledite lahko le največ 100 ključnim besedam. Če želite dodati nove ključne besede, prenehajte slediti nekaterim.";
+$Definition["Calibrate Sentiment Levels"] = "Umerite ravni razpoloženja";
+$Definition["Sentiment Level Distribution Adjustment"] = "Prilagoditev porazdelitve ravni razpoloženja";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Štirje drsniki predstavljajo točke med posameznimi stopnjami mnenja. Povlecite drsnike, da umerite celotno porazdelitev stopnje mnenja glede na vsebino vaše skupnosti.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Predogled kalibrirane porazdelitve mnenj";
+$Definition["(Read Only)"] = "(Samo branje)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Ta graf prikazuje, kako bi bila vsebina v vaši skupnosti porazdeljena glede na vašo prilagoditev kalibracije.";
+$Definition["all time sentiment"] = "čustva vseh časov";
+$Definition["keyword"] = "ključna beseda";
+$Definition["number of uses"] = "število uporab";
+$Definition["last use"] = "zadnja uporaba";
+$Definition["tracking"] = "sledenje";
+$Definition["Sentiment"] = "Razpoloženje";
+$Definition["Tracked Status"] = "Stanje sledenja";
+$Definition["Tracked Only"] = "Samo sledenje";
+$Definition["Untracked Only"] = "Samo nesledljivo";
+$Definition["Strongly Negative"] = "Zelo negativno";
+$Definition["Negative"] = "Negativno";
+$Definition["Positive"] = "Pozitivno";
+$Definition["Highly Positive"] = "Zelo pozitivno";
+$Definition["Clear all filters"] = "Počisti vse filtre";
+$Definition["Keyword is required."] = "Ključna beseda je obvezna.";
+$Definition["Maximum length is 100 characters."] = "Največja dolžina je 100 znakov.";
+$Definition["Keyword"] = "Ključna beseda";
+$Definition["Add a new tracked keyword"] = "Dodaj novo sledeno ključno besedo";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Nove ključne besede bodo spremljane v analitiki. Po ustvarjanju te ključne besede lahko sledenje izklopite.";
+$Definition["Extremely Negative"] = "Izjemno negativno";
+$Definition["Extremely Positive"] = "Izjemno pozitivno";
+$Definition["Filter by:"] = "Filtriraj po:";

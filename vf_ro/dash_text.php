@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permiteți utilizatorilor cu permisiunea %s să își schimbe avatarurile din paginile de profil din Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimizați adresele IP";
+$Definition['API Overview'] = "Prezentare generală a API-ului";
 $Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri mari de funcţionalități site-ului dumneavoastră. < br / > Odată ce o aplicație a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['Apply Layout'] = 'Aplicați aspectul';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sunteţi sigur că aţi introdus numele de gazdă a bazei de date corect? Poate ați tastat greşit ? Baza de date a raportat: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Este o idee bună să mențineți numărul maxim de caractere permis într-o postare la o dimensiune rezonabilă.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Iniţiați-vă comunitatea şi creşteți angajamentul utilizatorilor';
 $Definition['Labs'] = 'Laboratoare';
 $Definition['Learn about custom routing.'] = 'Mai multe informații despre rutarea personalizată.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Anonimizarea parțială</strong> anonimizează doar ultimul octet al adresei IP. De exemplu, 254.230.05.153 ar deveni 254.230.05.0. Acest lucru oferă o anumită anonimizare, permițând în același timp funcționarea regulilor de interzicere a IP.";
 $Definition['Partial Anonymization'] = "Anonimizare parțială";
 $Definition['Password.MinLength'] = 'Lungimea minimă a caracterelor permisă pentru parolele utilizatorilor pe paginile de creare și resetare a parolei.';
+$Definition['Personal Access Tokens'] = 'Token-uri acces personale';
 $Definition['Please choose an authenticator to configure.'] = 'Vă rugăm să alegeţi o autentificator pentru a configura';
 $Definition['PluginHelp'] = 'Plugin-urile vă permit să adăugaţi funcţionalități site-ului dvs. < br / > o dată un plug-in a fost adăugat dosarul %s, puteţi activa sau dezactiva de aici.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Pocketul este afișat între fiecare discuție și lista de bază de discuții. Având în vedere că discuțiile sunt de obicei în taguri, va trebui să faceți wrap în taguri.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Legături rapide';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Ghid Quick-Start  pentru crearea de teme Vanilla';
 
+$Definition['Rate Limits'] = 'Limite de tarif';
 $Definition['Reactions Documentation'] = 'Documentația reacțiilor';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Necesită permisi
 $Definition['Restoring your selection removes the items from this list.'] = 'Când restaurați, elementele sunt eliminate din această listă şi puse înapoi în site';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Folosiți următoarea opțiune pentru a activa citate pentru Editorul Îmbunătățit. Acest lucru se va aplica numai dacă formatarea implicită este  cea "Îmbunătățită".';
+$Definition['Role Tokens'] = 'Jetoane de rol';
 $Definition['Route Expression'] = 'Expresia traseului';
 $Definition['Routes are used to redirect users.'] = 'Rutele sunt folosite pentru a redirecționa utilizatorii în funcție de URL-ul solicitat.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Restricție specială: Numai utilizatorii cu permisiunea Garden.Curation.Manage pot utiliza această reacție.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specifică o potrivire parțială sau totală la crearea unei interdicții.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Petreceți puțin timp pentru a formula descriere site-ului. Oferind site-ului un ume semnificativ și o descriere concisă, ar putea ajuta la poziţia dumneavoastră în motoarele de căutare';
+$Definition['Spoofing'] = 'Falsificare';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Fă-ți mesajele email mai frumoase folosind un logo sau personalizându-ți culorile.';
 $Definition['Start Import'] = 'Începeți Importul';
 $Definition['Start the first discussion.'] = 'Pune-ți comunitatea în mișcare <a href="{/post/discussion,url}">începând prima conversație</a> acum.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Avertisment</b>: acest
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Vă recomandăm să activați 1-3 reacții odată pentru a evita copleșirea utilizatorilor.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Când este activat, utilizatorii pot alege să primească notificări de la comunitate';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Când este activat, puteți gestiona produsele și grupa subcomunitățile după aceste produse.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Când este activată, puteți <0>gestiona produse</0> și grupați subcomunitățile după acele produse.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Dacă câmpurile interne ale profilului vor fi incluse sau nu în acest webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Dacă câmpurile de profil privat vor fi incluse sau nu în acest webhook.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Uneori doriți s
 $Definition['Layout Editor'] = 'Editor de aspect';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Activați Editorul de aspect pentru a aplica un aspect personalizat pentru paginile comunității dvs. Utilizați noul nostru editor pentru a prezenta conținut folosind catalogul nostru de widget-uri disponibile.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Noul Editor de aspect va moșteni tema setată în Ghidul de stil (formal editor de teme). <1>Aflați mai multe</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Pagina cu lista de postări recente";
+$Definition["Custom"] = "Personalizat";
+$Definition["Category List Page"] = "Pagina cu lista de categorii";
+$Definition["Home Page Type"] = "Tipul paginii principale";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Alegeți o pagină care să servească drept pagina principală a subcomunității.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Tipul de pagină principală selectat este un aspect personalizat. Puteți gestiona aspectul pentru această subcomunitate în <0/>.";
+$Definition["Default Subcommunity"] = "Subcomunitate implicită";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Setați aceasta ca subcomunitate implicită. Vizitatorii vor fi direcționați aici mai întâi când accesează comunitatea.";
+$Definition["Post number must be between 3–20."] = "Numărul postării trebuie să fie între 3 și 20.";
+$Definition["Pages"] = "Pagini";
+$Definition["Widget Builder"] = "Constructor de widgeturi";
+$Definition["Custom Pages"] = "Pagini personalizate";
+$Definition["Site Home Pages"] = "Pagini principale ale site-ului";
+$Definition["Subcommunity Home Pages"] = "Pagini principale ale subcomunității";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Alegeți o temă pentru această subcomunitate. <0>Citește mai mult</0>";
+$Definition["Vanilla Messages"] = "Mesaje Vanilate";
+$Definition["From <0/>"] = "De la <0/>";
+$Definition["Manage Products"] = "Gestionați produsele";
+$Definition["Pages"] = "Pagini";
+$Definition["Widget Builder"] = "Constructor de widgeturi";
+$Definition["Custom Pages"] = "Pagini personalizate";
+$Definition["Site Home Pages"] = "Pagini principale ale site-ului";
+$Definition["Subcommunity Home Pages"] = "Pagini principale ale subcomunității";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Alegeți o temă pentru această subcomunitate. <0>Citește mai mult</0>";
+$Definition["Search subcommunities."] = "Căutați subcomunități.";
+$Definition["The view you were looking for could not be found."] = "Priveliștea pe care o căutați nu a putut fi găsită.";
+$Definition["View Not Found"] = "Vizualizare negăsită";
+$Definition["site"] = "site";
+$Definition["Selected Home Page Type is a legacy layout."] = "Tipul de pagină principală selectat este un aspect vechi.";
+$Definition["The default home page type can be changed in <0/>."] = "Tipul implicit al paginii principale poate fi modificat în <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Setări pentru cuvinte cheie";
+$Definition["Extremely Negative to Negative"] = "Extrem de negativ spre negativ";
+$Definition["Negative to Balanced"] = "Negativ spre echilibrat";
+$Definition["Balanced to Positive"] = "Echilibrat spre pozitiv";
+$Definition["Positive to Highly Positive"] = "De la pozitiv la foarte pozitiv";
+$Definition["Sentiment Keywords"] = "Cuvinte cheie despre sentimente";
+$Definition["Sentiment Settings"] = "Setări de sentiment";
+$Definition["Add Keyword"] = "Adăugați cuvânt cheie";
+$Definition["Keyword Limit Reached"] = "Limita de cuvinte cheie a fost atinsă";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Puteți urmări maximum 100 de cuvinte cheie. Anulați urmărirea unora pentru a adăuga cuvinte cheie noi.";
+$Definition["Calibrate Sentiment Levels"] = "Calibrarea nivelurilor de sentiment";
+$Definition["Sentiment Level Distribution Adjustment"] = "Ajustarea distribuției nivelului de sentiment";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Cele 4 glisoare reprezintă punctele dintre fiecare nivel de sentiment. Trageți glisoarele pentru a calibra distribuția generală a nivelului de sentiment în funcție de conținutul comunității dvs.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Previzualizare a distribuției calibrate a sentimentelor";
+$Definition["(Read Only)"] = "(Doar citire)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Acest grafic vizualizează modul în care ar fi distribuit conținutul din comunitatea ta pe baza ajustării calibrării.";
+$Definition["all time sentiment"] = "sentiment dintotdeauna";
+$Definition["keyword"] = "cuvânt cheie";
+$Definition["number of uses"] = "numărul de utilizări";
+$Definition["last use"] = "ultima utilizare";
+$Definition["tracking"] = "urmărire";
+$Definition["Sentiment"] = "Sentiment";
+$Definition["Tracked Status"] = "Stare urmărită";
+$Definition["Tracked Only"] = "Numai urmărit";
+$Definition["Untracked Only"] = "Numai neurmărite";
+$Definition["Strongly Negative"] = "Puternic negativ";
+$Definition["Negative"] = "Negativ";
+$Definition["Positive"] = "Pozitiv";
+$Definition["Highly Positive"] = "Foarte pozitiv";
+$Definition["Clear all filters"] = "Ștergeți toate filtrele";
+$Definition["Keyword is required."] = "Cuvântul cheie este obligatoriu.";
+$Definition["Maximum length is 100 characters."] = "Lungimea maximă este de 100 de caractere.";
+$Definition["Keyword"] = "Cuvinte cheie";
+$Definition["Add a new tracked keyword"] = "Adăugați un cuvânt cheie nou urmărit";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Cuvintele cheie noi vor fi urmărite în analiză. Puteți alege să dezactivați urmărirea după crearea acestui cuvânt cheie.";
+$Definition["Extremely Negative"] = "Extrem de negativ";
+$Definition["Extremely Positive"] = "Extrem de pozitiv";
+$Definition["Filter by:"] = "Filtrare după:";

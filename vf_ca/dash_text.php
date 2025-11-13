@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permet als usuaris amb el permís %s canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimitzar les adreces IP";
+$Definition['API Overview'] = "Visió general de l'API";
 $Definition['ApplicationHelp'] = 'Les aplicacions us permeten afegir grans grups de funcionalitats al vostre lloc. <br /> Un cop s\'hagi afegit una aplicació a la vostra carpeta %s, la podeu habilitar o desactivar aquí.';
 $Definition['Apply Layout'] = 'Aplica el disseny';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Esteu segur que heu introduït el nom d’amfitrió correcte? Potser ho heu equivocat? La base de dades reportada: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'És una bona idea mantenir el nombre màxim de caràcters permès en una publicació fins a una mida raonable.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Inicieu la vostra comunitat i augmenteu el nombre d\'usuaris.';
 $Definition['Labs'] = 'Laboratoris';
 $Definition['Learn about custom routing.'] = 'Obteniu més informació sobre l\'encaminament personalitzat.';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>L'anonimització parcial</strong> anonimitza només l'últim octet de l'adreça IP. Per exemple, 254.230.05.153 es convertiria en 254.230.05.0. Això proporciona una mica d'anonimat alhora que permet que les regles de prohibició d'IP funcionin.";
 $Definition['Partial Anonymization'] = "Anonimat parcial";
 $Definition['Password.MinLength'] = 'Longitud mínima de caràcters permesa per a les contrasenyes dels usuaris a les pàgines de creació i restabliment de contrasenyes.';
+$Definition['Personal Access Tokens'] = 'Fitxes d\'accés personal';
 $Definition['Please choose an authenticator to configure.'] = 'Seleccioneu un autenticador per configurar.';
 $Definition['PluginHelp'] = 'Els complements us permeten afegir funcionalitat al vostre lloc. <br /> Un cop s\'hagi afegit un complement a la vostra carpeta %s, podeu activar-lo o desactivar-lo aquí.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Es mostra la butxaca entre cada discussió de la llista de debats principal. Com que les discussions solen tenir-se en les etiquetes, .. </li>, també heu d\'embolicar la butxaca en aquestes etiquetes.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Links ràpids';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guia d\'inici ràpid per a crear temes per a la vainilla';
 
+$Definition['Rate Limits'] = 'Límits de tarifa';
 $Definition['Reactions Documentation'] = 'Documentació de reaccions';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin de comentaris de vainilla a punt per WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin preparat per a la vainilla for WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Requereix permís
 $Definition['Restoring your selection removes the items from this list.'] = 'En restaurar, els elements s\'eliminen d\'aquesta llista i es tornen a posar al lloc.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Utilitzeu la següent opció per habilitar les cotitzacions per a l\'editor enriquit. Això només s\'aplicarà si el format predeterminat és "Ric".';
+$Definition['Role Tokens'] = 'Fitxes de rol';
 $Definition['Route Expression'] = 'Expressió de la ruta';
 $Definition['Routes are used to redirect users.'] = 'Les rutes s\'utilitzen per redirigir els usuaris segons l\'URL sol·licitat.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Restricció especial: Només els usuaris amb permís Garden.Curation.Manage poden utilitzar aquesta reacció.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Especifiqueu una coincidència parcial o completa quan es crea una prohibició.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dediqueu una estona a pensar en com descriviu el vostre lloc aquí. Posant-li al vostre lloc un títol significatiu i una descripció concisa pot ajudar a la vostra posició als motors de cerca.';
+$Definition['Spoofing'] = 'Suplantació d\'identitat';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Busqueu correus electrònics afegint un logotip i personalitzant els colors.';
 $Definition['Start Import'] = 'Comença a importar';
 $Definition['Start the first discussion.'] = 'Comença la <a href="{/post/discussion,url}">primera discussió</a> ara a la vostra comunitat.';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Avís</b> : és per a 
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Us recomanem que habiliteu entre 1 i 3 reaccions alhora per evitar aclaparar els usuaris.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Quan està activat, els usuaris poden optar per rebre notificacions de la comunitat';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Quan està activat, podeu gestionar els productes i agrupar les subcomunitats per aquests productes.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Quan està activat, podeu <0>gestionar productes</0> i agrupar subcomunitats per aquests productes.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Si els camps del perfil intern s\'inclouran o no en aquest webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Si els camps del perfil privat s\'inclouran o no en aquest webhook.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "De vegades, vole
 $Definition['Layout Editor'] = 'Editor de maquetació';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Activeu l\'Editor de disseny per aplicar un disseny personalitzat a les pàgines de la vostra comunitat. Utilitzeu el nostre nou editor per mostrar contingut mitjançant el nostre catàleg de ginys disponibles.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB El nou editor de disseny heretarà el tema establert a la vostra Guia d\'estil (formalment editor de temes). <1>Més informació</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Pàgina de la llista de publicacions recents";
+$Definition["Custom"] = "Personalitzat";
+$Definition["Category List Page"] = "Pàgina de llista de categories";
+$Definition["Home Page Type"] = "Tipus de pàgina d'inici";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Trieu una pàgina que serveixi com a pàgina d'inici de la subcomunitat.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "El tipus de pàgina d'inici seleccionat és un disseny personalitzat. Podeu gestionar el disseny d'aquesta subcomunitat a <0/>.";
+$Definition["Default Subcommunity"] = "Subcomunitat per defecte";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Feu que aquesta sigui la subcomunitat per defecte. Els visitants seran dirigits aquí primer quan accedeixin a la comunitat.";
+$Definition["Post number must be between 3–20."] = "El número de publicació ha d'estar entre 3 i 20.";
+$Definition["Pages"] = "Pàgines";
+$Definition["Widget Builder"] = "Creador de widgets";
+$Definition["Custom Pages"] = "Pàgines personalitzades";
+$Definition["Site Home Pages"] = "Pàgines d'inici del lloc";
+$Definition["Subcommunity Home Pages"] = "Pàgines d'inici de la subcomunitat";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Trieu un tema per a aquesta subcomunitat. <0>Llegiu-ne més</0>";
+$Definition["Vanilla Messages"] = "Missatges de vainilla";
+$Definition["From <0/>"] = "De <0/>";
+$Definition["Manage Products"] = "Gestiona productes";
+$Definition["Pages"] = "Pàgines";
+$Definition["Widget Builder"] = "Creador de widgets";
+$Definition["Custom Pages"] = "Pàgines personalitzades";
+$Definition["Site Home Pages"] = "Pàgines d'inici del lloc";
+$Definition["Subcommunity Home Pages"] = "Pàgines d'inici de la subcomunitat";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Trieu un tema per a aquesta subcomunitat. <0>Llegiu-ne més</0>";
+$Definition["Search subcommunities."] = "Cerca subcomunitats.";
+$Definition["The view you were looking for could not be found."] = "No s'ha pogut trobar la vista que buscaves.";
+$Definition["View Not Found"] = "Vista no trobada";
+$Definition["site"] = "lloc";
+$Definition["Selected Home Page Type is a legacy layout."] = "El tipus de pàgina d'inici seleccionat és un disseny antic.";
+$Definition["The default home page type can be changed in <0/>."] = "El tipus de pàgina d'inici per defecte es pot canviar a <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Configuració de paraules clau";
+$Definition["Extremely Negative to Negative"] = "Extremadament negatiu a negatiu";
+$Definition["Negative to Balanced"] = "Negatiu a equilibrat";
+$Definition["Balanced to Positive"] = "Equilibrat a positiu";
+$Definition["Positive to Highly Positive"] = "Positiu a molt positiu";
+$Definition["Sentiment Keywords"] = "Paraules clau de sentiment";
+$Definition["Sentiment Settings"] = "Configuració del sentiment";
+$Definition["Add Keyword"] = "Afegeix una paraula clau";
+$Definition["Keyword Limit Reached"] = "S'ha assolit el límit de paraules clau";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Només podeu fer un seguiment de fins a 100 paraules clau. Deixeu de fer-ne un seguiment d'algunes per afegir-ne de noves.";
+$Definition["Calibrate Sentiment Levels"] = "Calibrar els nivells de sentiment";
+$Definition["Sentiment Level Distribution Adjustment"] = "Ajust de la distribució del nivell de sentiment";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Els 4 controls lliscants representen els punts entre cada nivell de sentiment. Arrossega els controls lliscants per calibrar la distribució general del nivell de sentiment al contingut de la teva comunitat.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Vista prèvia de la distribució calibrada del sentiment";
+$Definition["(Read Only)"] = "(Només lectura)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Aquest gràfic visualitza com es distribuiria el contingut de la teva comunitat en funció de l'ajust de calibratge.";
+$Definition["all time sentiment"] = "sentiment de tots els temps";
+$Definition["keyword"] = "paraula clau";
+$Definition["number of uses"] = "nombre d'usos";
+$Definition["last use"] = "últim ús";
+$Definition["tracking"] = "seguiment";
+$Definition["Sentiment"] = "Sentiment";
+$Definition["Tracked Status"] = "Estat del seguiment";
+$Definition["Tracked Only"] = "Només amb seguiment";
+$Definition["Untracked Only"] = "Només sense seguiment";
+$Definition["Strongly Negative"] = "Molt negatiu";
+$Definition["Negative"] = "Negatiu";
+$Definition["Positive"] = "Positiu";
+$Definition["Highly Positive"] = "Molt positiu";
+$Definition["Clear all filters"] = "Esborra tots els filtres";
+$Definition["Keyword is required."] = "Cal introduir una paraula clau.";
+$Definition["Maximum length is 100 characters."] = "La longitud màxima és de 100 caràcters.";
+$Definition["Keyword"] = "Paraula clau";
+$Definition["Add a new tracked keyword"] = "Afegeix una nova paraula clau de seguiment";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Les paraules clau noves es faran un seguiment a l'analítica. Podeu optar per desactivar el seguiment després de crear aquesta paraula clau.";
+$Definition["Extremely Negative"] = "Extremadament negatiu";
+$Definition["Extremely Positive"] = "Extremadament positiu";
+$Definition["Filter by:"] = "Filtra per:";

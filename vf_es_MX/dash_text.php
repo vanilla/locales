@@ -24,6 +24,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permita que los usuarios con el permiso %s cambien sus propios avatares desde sus páginas de perfil en Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimizar direcciones IP";
+$Definition['API Overview'] = "Descripción general de la API";
 $Definition['ApplicationHelp'] = 'Las aplicaciones te permiten añadir largos grupos de funcionalidad a tu sitio. <br /> Una vez que una aplicación ha sido añadida a la carpeta %s, puedes activarlas o desactivarlas aquí.';
 $Definition['Apply Layout'] = 'Aplicar diseño';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '¿Estas seguro de haber ingresado el nombre correcto del servidor? Tal vez lo escribiste mal. La base de datos reportó lo siguiente: <code>%s</code>';
@@ -130,6 +131,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Es una buena idea mantener la cantidad máxima de caracteres permitidos en una publicación a un tamaño razonable.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Dale un empujón a tu comunidad para aumentar el interés de los usuarios.';
 $Definition['Labs'] = 'Laboratorios';
 $Definition['Learn about custom routing.'] = 'Más información sobre rutas personalizadas.';
@@ -167,6 +169,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>La anonimización parcial</strong> anonimiza solo el último octeto de la dirección IP. Por ejemplo, 254.230.05.153 se convertiría en 254.230.05.0. Esto proporciona algo de anonimización al mismo tiempo que permite que funcionen las reglas de prohibición de IP.";
 $Definition['Partial Anonymization'] = "Anonimización parcial";
 $Definition['Password.MinLength'] = 'Longitud mínima de caracteres permitida para las contraseñas de los usuarios en las páginas de creación y restablecimiento de contraseñas.';
+$Definition['Personal Access Tokens'] = 'Tokens de acceso personal';
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autentificador para configurar.';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'El Pocket está entre cada conversación en la lista principal. Como las conversaciones están normalmente en etiquetas <li>..</li> necesitarás envolver tu pocket ahí  también.';
@@ -176,6 +179,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Enlaces rápidos';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guía rápida para crear Diseños Vanilla';
 
+$Definition['Rate Limits'] = 'Límites de velocidad';
 $Definition['Reactions Documentation'] = 'Documentación de reacciones';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin de Comentarios para WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin de Foro para WordPress';
@@ -191,6 +195,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Requiere permiso 
 $Definition['Restoring your selection removes the items from this list.'] = 'Cuando restauras, los items se eliminan de esta lista y se colocan de nuevo en el sitio.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Utiliza la siguiente opción para activar citas para el Editor enriquecido. Esto solo funcionará si el formateo por defecto es "Enriquecido".';
+$Definition['Role Tokens'] = 'Fichas de rol';
 $Definition['Route Expression'] = 'Expresión de Ruta';
 $Definition['Routes are used to redirect users.'] = 'Las rutas se usan para redirigir a usuarios en función de la URL solicitada.';
 
@@ -213,6 +218,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Restricción especial: solo los usuarios con permiso Garden.Curation.Manage pueden usar esta reacción.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Especifique una coincidencia parcial o total al crear un baneo.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Invierte un poco de tiempo pensando en cómo describirías tu sitio. Dar a tu sitio un título significativo y descripción concisa puede ayudar a su posición en los motores de búsqueda.';
+$Definition['Spoofing'] = 'Suplantación de identidad';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Dale un toque agradable a tus correos electrónicos añadiendo un logo y modificando los colores. ';
 $Definition['Start Import'] = 'Iniciar Importación ';
 $Definition['Start the first discussion.'] = '¡Anima a tu comunidad! Inicia la primera <a href="{/post/discussion,url}">conversación</a>.';
@@ -282,7 +288,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Advertencia</b>:Esto e
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Recomendamos habilitar de 1 a 3 reacciones a la vez para evitar abrumar a los usuarios.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Cuando está habilitado, los usuarios pueden optar por recibir notificaciones de la comunidad.';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Cuando está habilitado, puede administrar productos y agrupar subcomunidades por esos productos.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Cuando está habilitado, puede <0>gestionar productos</0> y agrupar las subcomunidades según esos productos.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Si los campos de perfil interno se incluirán o no en este webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Si los campos de perfil privado se incluirán o no en este webhook.';
 
@@ -420,3 +426,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "A veces desea in
 $Definition['Layout Editor'] = 'Editor de diseño';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Habilite el Editor de diseño para aplicar un diseño personalizado para las páginas de su comunidad. Utilice nuestro nuevo editor para presentar contenido utilizando nuestro catálogo de widgets disponibles.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB El nuevo Editor de diseño heredará el conjunto de temas en su Guía de estilo (formalmente editor de temas). <1>Más información</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Página de la lista de publicaciones recientes";
+$Definition["Custom"] = "Costumbre";
+$Definition["Category List Page"] = "Página de lista de categorías";
+$Definition["Home Page Type"] = "Tipo de página de inicio";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Elige una página que servirá como página de inicio de la subcomunidad.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "El tipo de página de inicio seleccionado es un diseño personalizado. Puede gestionar el diseño de esta subcomunidad en <0/>.";
+$Definition["Default Subcommunity"] = "Subcomunidad predeterminada";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Establezca esta subcomunidad como predeterminada. Los visitantes serán dirigidos aquí en primer lugar cuando accedan a la comunidad.";
+$Definition["Post number must be between 3–20."] = "El número de publicación debe estar entre 3 y 20.";
+$Definition["Pages"] = "Páginas";
+$Definition["Widget Builder"] = "Creador de widgets";
+$Definition["Custom Pages"] = "Páginas personalizadas";
+$Definition["Site Home Pages"] = "Páginas de inicio del sitio";
+$Definition["Subcommunity Home Pages"] = "Páginas de inicio de las subcomunidades";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Elige un tema para esta subcomunidad. <0>Leer más</0>";
+$Definition["Vanilla Messages"] = "Mensajes de vainilla";
+$Definition["From <0/>"] = "Desde <0/>";
+$Definition["Manage Products"] = "Gestionar productos";
+$Definition["Pages"] = "Páginas";
+$Definition["Widget Builder"] = "Creador de widgets";
+$Definition["Custom Pages"] = "Páginas personalizadas";
+$Definition["Site Home Pages"] = "Páginas de inicio del sitio";
+$Definition["Subcommunity Home Pages"] = "Páginas de inicio de las subcomunidades";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Elige un tema para esta subcomunidad. <0>Leer más</0>";
+$Definition["Search subcommunities."] = "Buscar subcomunidades.";
+$Definition["The view you were looking for could not be found."] = "No se pudo encontrar la vista que buscaba.";
+$Definition["View Not Found"] = "Vista no encontrada";
+$Definition["site"] = "sitio";
+$Definition["Selected Home Page Type is a legacy layout."] = "El tipo de página de inicio seleccionado es un diseño heredado.";
+$Definition["The default home page type can be changed in <0/>."] = "El tipo de página de inicio predeterminado se puede cambiar en <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Configuración de palabras clave";
+$Definition["Extremely Negative to Negative"] = "Extremadamente negativo a negativo";
+$Definition["Negative to Balanced"] = "Negativo a equilibrado";
+$Definition["Balanced to Positive"] = "De equilibrado a positivo";
+$Definition["Positive to Highly Positive"] = "De positivo a muy positivo";
+$Definition["Sentiment Keywords"] = "Palabras clave de sentimiento";
+$Definition["Sentiment Settings"] = "Configuración de sentimiento";
+$Definition["Add Keyword"] = "Agregar palabra clave";
+$Definition["Keyword Limit Reached"] = "Se ha alcanzado el límite de palabras clave.";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Solo puedes rastrear hasta 100 palabras clave. Deja de rastrear algunas para agregar nuevas.";
+$Definition["Calibrate Sentiment Levels"] = "Calibrar los niveles de sentimiento";
+$Definition["Sentiment Level Distribution Adjustment"] = "Ajuste de la distribución del nivel de sentimiento";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Los 4 controles deslizantes representan los puntos intermedios entre cada nivel de sentimiento. Arrastra los controles deslizantes para ajustar la distribución general del nivel de sentimiento al contenido de tu comunidad.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Vista previa de la distribución de sentimiento calibrada";
+$Definition["(Read Only)"] = "(Solo lectura)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Este gráfico muestra cómo se distribuiría el contenido de su comunidad en función del ajuste de calibración realizado.";
+$Definition["all time sentiment"] = "sentimiento de todos los tiempos";
+$Definition["keyword"] = "palabra clave";
+$Definition["number of uses"] = "número de usos";
+$Definition["last use"] = "último uso";
+$Definition["tracking"] = "seguimiento";
+$Definition["Sentiment"] = "Sentimiento";
+$Definition["Tracked Status"] = "Estado de seguimiento";
+$Definition["Tracked Only"] = "Solo con seguimiento";
+$Definition["Untracked Only"] = "Sin seguimiento";
+$Definition["Strongly Negative"] = "Muy negativo";
+$Definition["Negative"] = "Negativo";
+$Definition["Positive"] = "Positivo";
+$Definition["Highly Positive"] = "Muy positivo";
+$Definition["Clear all filters"] = "Borrar todos los filtros";
+$Definition["Keyword is required."] = "Se requiere una palabra clave.";
+$Definition["Maximum length is 100 characters."] = "La longitud máxima es de 100 caracteres.";
+$Definition["Keyword"] = "Palabra clave";
+$Definition["Add a new tracked keyword"] = "Agregar una nueva palabra clave rastreada";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Las nuevas palabras clave se registrarán en las analíticas. Puedes desactivar el seguimiento después de crear la palabra clave.";
+$Definition["Extremely Negative"] = "Extremadamente negativo";
+$Definition["Extremely Positive"] = "Extremadamente positivo";
+$Definition["Filter by:"] = "Filtrar por:";

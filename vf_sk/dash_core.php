@@ -3,1325 +3,1897 @@
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nebolo nájdené';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Verzia %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s verzia %2$s je dostupná.';
-$Definition['%s is not a valid email address'] = '%s nie je validná emailová adresa';
-$Definition['%s is required'] = 'Vyžaduje sa %s';
-$Definition['%s item in queue'] = '%s položka v poradí';
-$Definition['%s level'] = '%s úroveň';
-$Definition['%s levels'] = '%s úrovne';
-$Definition['%s must be numeric'] = '%s musí byť číslo';
-$Definition['%s site(s) found.'] = '%s stránka(y) nájdené.';
-$Definition['%s sources(s) found.'] = '%s zdroj(e) nájdené.';
-$Definition['%s times'] = '%s krát';
-$Definition['%s unavailable'] = '%s nedostupný';
-$Definition['%s user found.'] = '%s používateľ bol nájdený.';
-$Definition['%s users found.'] = 'Našlo sa%s  používateľov.';
-$Definition['%s user(s) found.'] = '%s užívateľ(ia) nájdený(í).';
-$Definition['%s user(s) will be affected by this action.'] = '%s užívateľ(ia) bude(ú) ovplyvnený(í) touto akciou.';
+$Definition['%1$s version %2$s is available.'] =
+    '%1$s verzia %2$s je dostupná.';
+$Definition["%s is not a valid email address"] =
+    "%s nie je validná emailová adresa";
+$Definition["%s is required"] = "Vyžaduje sa %s";
+$Definition["%s item in queue"] = "%s položka v poradí";
+$Definition["%s level"] = "%s úroveň";
+$Definition["%s levels"] = "%s úrovne";
+$Definition["%s must be numeric"] = "%s musí byť číslo";
+$Definition["%s site(s) found."] = "%s stránka(y) nájdené.";
+$Definition["%s sources(s) found."] = "%s zdroj(e) nájdené.";
+$Definition["%s times"] = "%s krát";
+$Definition["%s unavailable"] = "%s nedostupný";
+$Definition["%s user found."] = "%s používateľ bol nájdený.";
+$Definition["%s users found."] = "Našlo sa%s  používateľov.";
+$Definition["%s user(s) found."] = "%s užívateľ(ia) nájdený(í).";
+$Definition["%s user(s) will be affected by this action."] =
+    "%s užívateľ(ia) bude(ú) ovplyvnený(í) touto akciou.";
 
-$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> navrhne odpovede v príspevkoch otázok a odpovedí';
-$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> nebude navrhovať odpovede na príspevky s otázkami a odpoveďami';
+$Definition["<0/> will suggest answers on Q&A posts"] =
+    "<0/> navrhne odpovede v príspevkoch otázok a odpovedí";
+$Definition["<0 /> will not suggest answers on Q&A posts"] =
+    "<0 /> nebude navrhovať odpovede na príspevky s otázkami a odpoveďami";
 
-$Definition['(less)'] = '(menej)';
-$Definition['(more)'] = '(viac)';
-$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
+$Definition["(less)"] = "(menej)";
+$Definition["(more)"] = "(viac)";
+$Definition["(YYYY-mm-dd)"] = "(YYYY-mm-dd)";
 
-$Definition['1 day'] = '1 deň';
-$Definition['1 hour'] = '1 hodinu';
-$Definition['1 in 5 is recommended for most communities.'] = '1 z 5 sa odporúča pre väčšinu komunít.';
-$Definition['1 in 20 is recommended for most communities.'] = '1 z 20 sa odporúča pre väčšinu komunít.';
-$Definition['1 month'] = '1 mesiac';
-$Definition['1 month after being sent'] = '1 mesiac od odoslania';
-$Definition['1 week'] = '1 týždeň';
-$Definition['1 week after being sent'] = '1 týždeň od odoslania';
-$Definition['2 weeks after being sent'] = '2 týždne od odoslania';
-$Definition['4 hours'] = '4 hodiny';
-$Definition['5 minutes'] = '5 minút';
-$Definition['15 minutes'] = '15 minút';
+$Definition["1 day"] = "1 deň";
+$Definition["1 hour"] = "1 hodinu";
+$Definition["1 in 5 is recommended for most communities."] =
+    "1 z 5 sa odporúča pre väčšinu komunít.";
+$Definition["1 in 20 is recommended for most communities."] =
+    "1 z 20 sa odporúča pre väčšinu komunít.";
+$Definition["1 month"] = "1 mesiac";
+$Definition["1 month after being sent"] = "1 mesiac od odoslania";
+$Definition["1 week"] = "1 týždeň";
+$Definition["1 week after being sent"] = "1 týždeň od odoslania";
+$Definition["2 weeks after being sent"] = "2 týždne od odoslania";
+$Definition["4 hours"] = "4 hodiny";
+$Definition["5 minutes"] = "5 minút";
+$Definition["15 minutes"] = "15 minút";
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Potvrď Svoju Emailovú Adresu';
-$Definition['[%s] Invitation'] = '[%s] Pozvanie';
-$Definition['[%s] Password Reset'] = '[%s] Zmena Hesla';
-$Definition['[%s] Password Reset Request'] = '[%s] Žiadosť o Zmenu Hesla';
-$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Dosiahli ste maximálny počet pokusov o prihlásenie. Počkajte %s a skúste to znova.';
+$Definition["[%s] Confirm Your Email Address"] =
+    "[%s] Potvrď Svoju Emailovú Adresu";
+$Definition["[%s] Invitation"] = "[%s] Pozvanie";
+$Definition["[%s] Password Reset"] = "[%s] Zmena Hesla";
+$Definition["[%s] Password Reset Request"] = "[%s] Žiadosť o Zmenu Hesla";
+$Definition[
+    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
+] = 'Dosiahli ste maximálny počet pokusov o prihlásenie. Počkajte %s a skúste to znova.';
 
-$Definition['a Badge'] = 'Odznak';
-$Definition['A unique display name.'] = 'Jedinečný zobrazovaný názov.';
-$Definition['A unique label name that cannot be changed once saved.'] = 'Jedinečný názov štítka, ktorý po uložení nemožno zmeniť.';
-$Definition['Abilites'] = 'Schopnosti';
-$Definition['Abilities'] = 'Schopnosti';
-$Definition['About %s'] = 'O %s';
-$Definition['About Email Digest'] = 'O prehľade e-mailov';
-$Definition['About External Search'] = 'O externom vyhľadávaní';
-$Definition['About Theme Preview'] = 'O náhľade témy';
-$Definition['Above Main Content'] = 'Nad Hlavný Obsah';
-$Definition['Accept Answer'] = 'Prijmite odpoveď';
-$Definition['"Accept Answer" if a suggestion answers your question.'] = '„Prijať odpoveď“, ak návrh odpovie na vašu otázku.';
-$Definition['Account Sync Failed'] = 'Synchronizácia Účtu Zlyhala';
-$Definition['Accepted answer pageview ratio representing a deflected case'] = 'Akceptovaný pomer zobrazení stránky s odpoveďou predstavujúci odklonenú veľkosť písmen';
-$Definition['Accepted Answers'] = 'Prijaté odpovede';
-$Definition['Action'] = 'Akcia';
-$Definition['Actions and Permissions'] = 'Akcie a povolenia';
-$Definition['Actions Based on Votes'] = 'Hlasovanie na Základe Akcií';
-$Definition['activity(ies)'] = 'aktivita (aktivity)';
+$Definition["a Badge"] = "Odznak";
+$Definition["A unique display name."] = "Jedinečný zobrazovaný názov.";
+$Definition["A unique label name that cannot be changed once saved."] =
+    "Jedinečný názov štítka, ktorý po uložení nemožno zmeniť.";
+$Definition["Abilites"] = "Schopnosti";
+$Definition["Abilities"] = "Schopnosti";
+$Definition["About %s"] = "O %s";
+$Definition["About Email Digest"] = "O prehľade e-mailov";
+$Definition["About External Search"] = "O externom vyhľadávaní";
+$Definition["About Theme Preview"] = "O náhľade témy";
+$Definition["Above Main Content"] = "Nad Hlavný Obsah";
+$Definition["Accept Answer"] = "Prijmite odpoveď";
+$Definition['"Accept Answer" if a suggestion answers your question.'] =
+    '„Prijať odpoveď“, ak návrh odpovie na vašu otázku.';
+$Definition["Account Sync Failed"] = "Synchronizácia Účtu Zlyhala";
+$Definition["Accepted answer pageview ratio representing a deflected case"] =
+    "Akceptovaný pomer zobrazení stránky s odpoveďou predstavujúci odklonenú veľkosť písmen";
+$Definition["Accepted Answers"] = "Prijaté odpovede";
+$Definition["Action"] = "Akcia";
+$Definition["Actions and Permissions"] = "Akcie a povolenia";
+$Definition["Actions Based on Votes"] = "Hlasovanie na Základe Akcií";
+$Definition["activity(ies)"] = "aktivita (aktivity)";
 $Definition['activity\'s comment(s)'] = 'komentár/-re aktivity';
-$Definition['Activity Item'] = 'Položka Aktivity';
-$Definition['Activity item not found.'] = 'Položka aktivity nebola nájdená.';
-$Definition['Add a new Pocket to your site.'] = 'Pridať nové Vrecko na vašu stránku.';
-$Definition["Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."] = "Pridajte odkaz Zoom alebo ID stretnutia, aby ste túto udalosť prepojili so Zoomom a povolili tlačidlá registrácie a pripojenia jedným kliknutím. Upozorňujeme, že ak vaša udalosť vyžaduje registráciu, po vytvorení udalosti nemôžete aktualizovať svoje ID schôdze ani prepojenie.";
-$Definition['Add Ban Rule'] = 'Pridať pravidlo zákazu';
-$Definition['Add Category'] = 'Pridať Kategóriu';
-$Definition['Add Columns'] = 'Pridať stĺpce';
-$Definition['Add Comments'] = 'Pridať komentáre';
-$Definition['Add Connection'] = 'Pridať Pripojenie';
-$Definition['Added By'] = 'Pridané Užívateľom';
-$Definition['Add Field'] = 'Pridať pole';
-$Definition['Add Info &amp; Create Account'] = 'Pridať Informácie & Vytvoriť Účet';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Pridať informácie do poľa v emailových adresách pre pomoc s odpoveďami (odporučené).';
-$Definition['Add Interest'] = 'Pridať záujem';
-$Definition['Adding & Editing Categories'] = 'Pridať & Upraviť Kategórie';
-$Definition['Add Item'] = 'Pridať Položku';
-$Definition['Addons'] = 'Doplnky';
-$Definition['Addons Overview'] = 'Prehľad doplnkov';
-$Definition['Add Role'] = 'Pridať rolu';
-$Definition['Add rule'] = 'Pridať pravidlo';
-$Definition['Add Tag'] = 'Pridať označenie';
-$Definition['Add Theme'] = 'Pridať šablónu';
-$Definition['Add Token'] = 'Pridať token';
-$Definition['Add User'] = 'Pridať Užívateľa';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'Pridajte svoju vlastnú doménu Kaltura a premeňte odkazy na vložené videá v diskusiách, komentároch alebo článkoch.';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'Pridajte svoju vlastnú doménu Kaltura a premeňte odkazy na vložené videá v príspevkoch, komentároch alebo článkoch.';
-$Definition['administrator'] = 'administrátor';
-$Definition['Advanced'] = 'Rozšírené';
-$Definition['Advanced Category Settings'] = 'Rozšírené nastavenia kategórie';
-$Definition['Advanced Editor Settings'] = 'Pokročilé nastavenia editoru';
-$Definition['Advanced Embed Settings'] = 'Rozšírené Nastavenia Vkladania';
-$Definition['Advanced Forum Settings'] = 'Rozšírené Nastavenia Fóra';
-$Definition['AdvancedNotifications'] = 'Rozšírené Upozornenia';
-$Definition['Advanced Options'] = 'Rozšírené Možnosti';
-$Definition['Advanced Settings'] = 'Rozšírené Nastavenia';
-$Definition['Advanced settings for embedded community elements'] = 'Rozšírené nastavenia pre vkladanie komunitných prvkov';
-$Definition['After'] = 'Po';
-$Definition['AI Suggested Answers'] = 'Odpovede navrhované AI';
-$Definition['AI Suggestions are not enabled'] = 'Návrhy AI nie sú povolené';
-$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'AI Suggested Answers poskytuje navrhované odpovede založené na komunitných príspevkoch a prepojených znalostných bázach. Môžete to kedykoľvek zapnúť alebo vypnúť v predvoľbách svojho profilu.';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'Upozorniť používateľov, keď kliknú na príspevok, ktorý ich presmeruje preč z fóra.';
-$Definition['Alive'] = 'Živý';
+$Definition["Activity Item"] = "Položka Aktivity";
+$Definition["Activity item not found."] = "Položka aktivity nebola nájdená.";
+$Definition["Add a new Pocket to your site."] =
+    "Pridať nové Vrecko na vašu stránku.";
+$Definition[
+    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
+] =
+    "Pridajte odkaz Zoom alebo ID stretnutia, aby ste túto udalosť prepojili so Zoomom a povolili tlačidlá registrácie a pripojenia jedným kliknutím. Upozorňujeme, že ak vaša udalosť vyžaduje registráciu, po vytvorení udalosti nemôžete aktualizovať svoje ID schôdze ani prepojenie.";
+$Definition["Add Ban Rule"] = "Pridať pravidlo zákazu";
+$Definition["Add Category"] = "Pridať Kategóriu";
+$Definition["Add Columns"] = "Pridať stĺpce";
+$Definition["Add Comments"] = "Pridať komentáre";
+$Definition["Add Connection"] = "Pridať Pripojenie";
+$Definition["Added By"] = "Pridané Užívateľom";
+$Definition["Add Field"] = "Pridať pole";
+$Definition["Add Info &amp; Create Account"] = "Pridať Informácie & Vytvoriť Účet";
+$Definition[
+    "Add information into the from field in email addresses to help with replies (recommended)."
+] =
+    "Pridať informácie do poľa v emailových adresách pre pomoc s odpoveďami (odporučené).";
+$Definition["Add Interest"] = "Pridať záujem";
+$Definition["Adding & Editing Categories"] = "Pridať & Upraviť Kategórie";
+$Definition["Add Item"] = "Pridať Položku";
+$Definition["Addons"] = "Doplnky";
+$Definition["Addons Overview"] = "Prehľad doplnkov";
+$Definition["Add Role"] = "Pridať rolu";
+$Definition["Add rule"] = "Pridať pravidlo";
+$Definition["Add Tag"] = "Pridať označenie";
+$Definition["Add Theme"] = "Pridať šablónu";
+$Definition["Add Token"] = "Pridať token";
+$Definition["Add User"] = "Pridať Užívateľa";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
+] =
+    "Pridajte svoju vlastnú doménu Kaltura a premeňte odkazy na vložené videá v diskusiách, komentároch alebo článkoch.";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
+] =
+    "Pridajte svoju vlastnú doménu Kaltura a premeňte odkazy na vložené videá v príspevkoch, komentároch alebo článkoch.";
+$Definition["administrator"] = "administrátor";
+$Definition["Advanced"] = "Rozšírené";
+$Definition["Advanced Category Settings"] = "Rozšírené nastavenia kategórie";
+$Definition["Advanced Editor Settings"] = "Pokročilé nastavenia editoru";
+$Definition["Advanced Embed Settings"] = "Rozšírené Nastavenia Vkladania";
+$Definition["Advanced Forum Settings"] = "Rozšírené Nastavenia Fóra";
+$Definition["AdvancedNotifications"] = "Rozšírené Upozornenia";
+$Definition["Advanced Options"] = "Rozšírené Možnosti";
+$Definition["Advanced Settings"] = "Rozšírené Nastavenia";
+$Definition["Advanced settings for embedded community elements"] =
+    "Rozšírené nastavenia pre vkladanie komunitných prvkov";
+$Definition["After"] = "Po";
+$Definition["AI Suggested Answers"] = "Odpovede navrhované AI";
+$Definition["AI Suggestions are not enabled"] =
+    "Návrhy AI nie sú povolené";
+$Definition[
+    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
+] =
+    "AI Suggested Answers poskytuje navrhované odpovede založené na komunitných príspevkoch a prepojených znalostných bázach. Môžete to kedykoľvek zapnúť alebo vypnúť v predvoľbách svojho profilu.";
+$Definition[
+    "Alert users if they click a link in a post that will lead them away from the forum. "
+] =
+    "Upozorniť používateľov, keď kliknú na príspevok, ktorý ich presmeruje preč z fóra.";
+$Definition["Alive"] = "Živý";
 $Definition['All %1$s'] = 'Všetky %1$s';
-$Definition['All Time'] = 'Vždy';
-$Definition['All Dashboard Pages'] = 'Všetky Stránky Ovládacieho Panelu';
-$Definition['All discussions in this category will be permanently deleted.'] = 'Všetky diskusie v tejto kategórii budú permanentne zmazané.';
-$Definition['All Forum Pages'] = 'Všetky Stránky Fóra';
-$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Všetky údaje užívateľa budú nahradené správou že užívateľ bol odstránený.';
-$Definition['Allow embedded content'] = 'Povoliť vložený obsah';
-$Definition['Allow images'] = 'Povoliť obrázky';
-$Definition['Allow new users to be registered through email.'] = 'Povoliť novým užívateľom registráciu cez email.';
-$Definition['Allow this connection to issue API access tokens.'] = 'Povoliť tomuto pripojeniu vydávať tokeny prístupu do rozhrania API.';
-$Definition['Allow Third-Party Script Execution'] = 'Povoliť spustenie skriptu tretej strany';
-$Definition['Allow users to change their own avatars'] = 'Povoliť užívateľom zmenu svojich avatarov';
-$Definition['Allow users to dismiss this message'] = 'Povoliť užívateľom zamietnuť túto správu.';
-$Definition['All Pages'] = 'Všetky Stránky';
-$Definition['All Replies'] = 'Všetky odpovede';
-$Definition['An enabled message will be visible on the site.'] = 'Povolená správa bude viditeľná na stránke.';
-$Definition['An answer in this the community thread was marked as accepted'] = 'Odpoveď v tomto vlákne komunity bola označená ako prijatá';
-$Definition['An error occurred updating your privacy setting'] = 'Pri aktualizácii vášho nastavenia ochrany osobných údajov sa vyskytla chyba';
-$Definition['Anonymize Analytics Data by Default'] = 'Predvolene anonymizovať údaje Analytics';
-$Definition['Answers is not available if you have not accepted cookies.'] = 'Odpovede nie sú dostupné, ak ste neprijali cookies.';
-$Definition['API'] = 'API';
-$Definition['API Label is required'] = 'Vyžaduje sa označenie API';
-$Definition['API Name'] = 'Názov API';
-$Definition['API SSO Expand Permission'] = 'Rozširovacie povolenie API SSO';
-$Definition['API Status'] = 'Stav API';
-$Definition['Appearance'] = 'Vzhľad';
-$Definition['Applicant'] = 'Uchadzač';
-$Definition['applicant'] = 'uchádzač';
-$Definition['Applicant Role'] = 'Zvoľte rolu, ktorá bude aplikovaná pre nových uchádzačov. Platí to len v prípade, že máte zvolenú <b>schvaľovaciu</b> registračnú metódu.';
-$Definition['Application'] = 'Aplikácia';
-$Definition['Application ID'] = 'ID Aplikácie';
-$Definition['Applications'] = 'Aplikácie';
-$Definition['Application Secret'] = 'Tajomstvo Aplikácie';
-$Definition['Applied by Administrator'] = 'Aplikované Administrátorom';
-$Definition['Applied Manually'] = 'Aplikované Manuálne';
-$Definition['Applied On'] = 'Dátum';
-$Definition['Apply to subcategories'] = 'Aplikovať na podokategórie';
-$Definition['Approval'] = 'Schválenie';
-$Definition['Archive Discussions'] = 'Archivovať Diskusie';
-$Definition['Are you sure you want to delete %s items forever?'] = 'Ste si istý(á) že chcete odstrániť %s položiek navždy?';
-$Definition['Are you sure you want to delete 1 item forever?'] = 'Ste si istý(á) že chcete odstrániť 1 položku navždy?';
-$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Ste si istý(á) že chcete odstrániť tento odznak? Túto operáciu nie je možné vrátiť späť a odstráni odznak od všetkých užívateľov ktorý ho vlastnia.';
-$Definition['Are you sure you want to delete this category?'] = 'Ste si istý(á) že chcete odstrániť túto kategóriu?';
-$Definition['Are you sure you want to restore %s items?'] = 'Ste si istý(á) že chcete obnoviť %s položiek?';
-$Definition['Are you sure you want to restore 1 item?'] = 'Ste si istý(á) že chcete obnoviť 1 položku?';
-$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'Naozaj chcete vypnúť všetky odpovede navrhované AI? Môžete to kedykoľvek vrátiť späť v nastaveniach svojho profilu.';
-$Definition['Assistant Tone of Voice'] = 'Asistent tón hlasu';
-$Definition['Assistant Icon'] = 'Ikona asistenta';
-$Definition['Assistant Name'] = 'Meno asistenta';
-$Definition['At least one visible column is required. Show or add a visible column.'] = 'Vyžaduje sa aspoň jeden viditeľný stĺpec. Zobraziť alebo pridať viditeľný stĺpec.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'Webová adresa kategórie pre lepšie SEO.';
-$Definition['Automatically Save Drafts'] = 'Automaticky ukladať koncepty';
-$Definition['Authors may always edit'] = 'Autori môžu vždy upraviť ';
-$Definition['Authors may edit for %s'] = 'Autori môžu upraviť pre %s';
-$Definition['Authors may never edit'] = 'Autori nikdy nemôžu upraviť';
-$Definition['Auto-Fetch New Comments'] = 'Automaticky Načitať Nové Komentáre';
-$Definition['Avatar Dimensions'] = 'Rozmery avatara';
-$Definition['Avatars'] = 'Avatary';
+$Definition["All Time"] = "Vždy";
+$Definition["All Dashboard Pages"] = "Všetky Stránky Ovládacieho Panelu";
+$Definition["All discussions in this category will be permanently deleted."] =
+    "Všetky diskusie v tejto kategórii budú permanentne zmazané.";
+$Definition["All Forum Pages"] = "Všetky Stránky Fóra";
+$Definition[
+    "All of the user content will be replaced with a message stating the user has been deleted."
+] =
+    "Všetky údaje užívateľa budú nahradené správou že užívateľ bol odstránený.";
+$Definition["Allow embedded content"] = "Povoliť vložený obsah";
+$Definition["Allow images"] = "Povoliť obrázky";
+$Definition["Allow new users to be registered through email."] =
+    "Povoliť novým užívateľom registráciu cez email.";
+$Definition["Allow this connection to issue API access tokens."] =
+    "Povoliť tomuto pripojeniu vydávať tokeny prístupu do rozhrania API.";
+$Definition["Allow Third-Party Script Execution"] =
+    "Povoliť spustenie skriptu tretej strany";
+$Definition["Allow users to change their own avatars"] =
+    "Povoliť užívateľom zmenu svojich avatarov";
+$Definition["Allow users to dismiss this message"] =
+    "Povoliť užívateľom zamietnuť túto správu.";
+$Definition["All Pages"] = "Všetky Stránky";
+$Definition["All Replies"] = "Všetky odpovede";
+$Definition["An enabled message will be visible on the site."] =
+    "Povolená správa bude viditeľná na stránke.";
+$Definition["An answer in this the community thread was marked as accepted"] =
+    "Odpoveď v tomto vlákne komunity bola označená ako prijatá";
+$Definition["An error occurred updating your privacy setting"] =
+    "Pri aktualizácii vášho nastavenia ochrany osobných údajov sa vyskytla chyba";
+$Definition["Anonymize Analytics Data by Default"] =
+    "Predvolene anonymizovať údaje Analytics";
+$Definition["Answers is not available if you have not accepted cookies."] =
+    "Odpovede nie sú dostupné, ak ste neprijali cookies.";
+$Definition["API"] = "API";
+$Definition["API Label is required"] = "Vyžaduje sa označenie API";
+$Definition["API Name"] = "Názov API";
+$Definition["API SSO Expand Permission"] = "Rozširovacie povolenie API SSO";
+$Definition["API Status"] = "Stav API";
+$Definition["Appearance"] = "Vzhľad";
+$Definition["Applicant"] = "Uchadzač";
+$Definition["applicant"] = "uchádzač";
+$Definition["Applicant Role"] =
+    "Zvoľte rolu, ktorá bude aplikovaná pre nových uchádzačov. Platí to len v prípade, že máte zvolenú <b>schvaľovaciu</b> registračnú metódu.";
+$Definition["Application"] = "Aplikácia";
+$Definition["Application ID"] = "ID Aplikácie";
+$Definition["Applications"] = "Aplikácie";
+$Definition["Application Secret"] = "Tajomstvo Aplikácie";
+$Definition["Applied by Administrator"] = "Aplikované Administrátorom";
+$Definition["Applied Manually"] = "Aplikované Manuálne";
+$Definition["Applied On"] = "Dátum";
+$Definition["Apply to subcategories"] = "Aplikovať na podokategórie";
+$Definition["Approval"] = "Schválenie";
+$Definition["Archive Discussions"] = "Archivovať Diskusie";
+$Definition["Are you sure you want to delete %s items forever?"] =
+    "Ste si istý(á) že chcete odstrániť %s položiek navždy?";
+$Definition["Are you sure you want to delete 1 item forever?"] =
+    "Ste si istý(á) že chcete odstrániť 1 položku navždy?";
+$Definition[
+    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
+] =
+    "Ste si istý(á) že chcete odstrániť tento odznak? Túto operáciu nie je možné vrátiť späť a odstráni odznak od všetkých užívateľov ktorý ho vlastnia.";
+$Definition["Are you sure you want to delete this category?"] =
+    "Ste si istý(á) že chcete odstrániť túto kategóriu?";
+$Definition["Are you sure you want to restore %s items?"] =
+    "Ste si istý(á) že chcete obnoviť %s položiek?";
+$Definition["Are you sure you want to restore 1 item?"] =
+    "Ste si istý(á) že chcete obnoviť 1 položku?";
+$Definition[
+    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
+] =
+    "Naozaj chcete vypnúť všetky odpovede navrhované AI? Môžete to kedykoľvek vrátiť späť v nastaveniach svojho profilu.";
+$Definition["Assistant Tone of Voice"] = "Asistent tón hlasu";
+$Definition["Assistant Icon"] = "Ikona asistenta";
+$Definition["Assistant Name"] = "Meno asistenta";
+$Definition[
+    "At least one visible column is required. Show or add a visible column."
+] = "Vyžaduje sa aspoň jeden viditeľný stĺpec. Zobraziť alebo pridať viditeľný stĺpec.";
+$Definition["A url-friendly version of the category name for better SEO."] =
+    "Webová adresa kategórie pre lepšie SEO.";
+$Definition["Automatically Save Drafts"] = "Automaticky ukladať koncepty";
+$Definition["Authors may always edit"] = "Autori môžu vždy upraviť ";
+$Definition["Authors may edit for %s"] = "Autori môžu upraviť pre %s";
+$Definition["Authors may never edit"] = "Autori nikdy nemôžu upraviť";
+$Definition["Auto-Fetch New Comments"] = "Automaticky Načitať Nové Komentáre";
+$Definition["Avatar Dimensions"] = "Rozmery avatara";
+$Definition["Avatars"] = "Avatary";
 
-$Definition['Background Color'] = 'Farba pozadia';
-$Definition['Back to all users'] = 'Späť ku všetkým užívateľom';
-$Definition['Back to Mobile Site'] = 'Späť na Mobilnú Stránku';
-$Definition['Badge cannot be deleted.'] = 'Odznak nemôže byť odstránený.';
-$Definition['Badge Class'] = 'Trieda odznaku';
-$Definition['Badge Class Level'] = 'Úroveň triedy odznaku';
-$Definition['Badge deleted.'] = 'Odznak odstránený.';
-$Definition['Badge Name'] = 'Meno';
-$Definition['BadgeRecipientsHeading'] = 'Najnovší príjemci';
-$Definition['BadgeRequestColumnLabel'] = 'Požiadavka';
-$Definition['Badge Requests'] = 'Žiadosti Odznaku';
-$Definition['Badge requests'] = 'Žiadosti o odznak';
-$Definition['Balanced'] = 'Vyvážený';
-$Definition['Ban Item'] = 'Položka';
-$Definition['Ban List'] = 'Zoznam Banov';
-$Definition['Banner'] = 'Banner';
-$Definition['Banner Logo'] = 'Logo Banneru';
-$Definition['Banner Title'] = 'Názov Banneru';
-$Definition['Banner Search Box'] = 'Vyhľadávacie pole bannera';
-$Definition['Banning'] = 'Banovanie';
-$Definition['Banning Options'] = 'Nastavenia Banovaia';
-$Definition['Ban Rule'] = 'Zakázať pravidlo';
-$Definition['Ban Rules'] = 'Zakázať pravidlá';
-$Definition['Ban Type'] = 'Typ';
-$Definition['Basic Information'] = 'Základné Informácie';
-$Definition['Before'] = 'Pred';
-$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'Pred aktiváciou tejto funkcie si uvedomte nasledujúce potenciálne dôsledky:';
-$Definition['Begin At'] = 'Začať Na';
-$Definition['Below Sidebar'] = 'Vedľa Bočného Panelu';
-$Definition['Blocked'] = 'Zablokovaný';
-$Definition['Blog Comments'] = 'Komentáre Blogu';
-$Definition['Bookmark a discussion using its star icon.'] = 'Uložte si diskusiu do záložiek pomocou ikony s hviezdičkou.';
-$Definition['Browse Addons'] = 'Hľadať Doplnky';
-$Definition['Browser Compatibility:'] = 'Kompatibilita prehliadača:';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'Hľadať nové logo pre banner, ak ho chcete zmeniť:';
-$Definition['Button Background Color'] = 'Farba pozadia tlačidla';
-$Definition['Button Text Color'] = 'Farba textu tlačidla';
+$Definition["Background Color"] = "Farba pozadia";
+$Definition["Back to all users"] = "Späť ku všetkým užívateľom";
+$Definition["Back to Mobile Site"] = "Späť na Mobilnú Stránku";
+$Definition["Badge cannot be deleted."] = "Odznak nemôže byť odstránený.";
+$Definition["Badge Class"] = "Trieda odznaku";
+$Definition["Badge Class Level"] = "Úroveň triedy odznaku";
+$Definition["Badge deleted."] = "Odznak odstránený.";
+$Definition["Badge Name"] = "Meno";
+$Definition["BadgeRecipientsHeading"] = "Najnovší príjemci";
+$Definition["BadgeRequestColumnLabel"] = "Požiadavka";
+$Definition["Badge Requests"] = "Žiadosti Odznaku";
+$Definition["Badge requests"] = "Žiadosti o odznak";
+$Definition["Balanced"] = "Vyvážený";
+$Definition["Ban Item"] = "Položka";
+$Definition["Ban List"] = "Zoznam Banov";
+$Definition["Banner"] = "Banner";
+$Definition["Banner Logo"] = "Logo Banneru";
+$Definition["Banner Title"] = "Názov Banneru";
+$Definition["Banner Search Box"] = "Vyhľadávacie pole bannera";
+$Definition["Banning"] = "Banovanie";
+$Definition["Banning Options"] = "Nastavenia Banovaia";
+$Definition["Ban Rule"] = "Zakázať pravidlo";
+$Definition["Ban Rules"] = "Zakázať pravidlá";
+$Definition["Ban Type"] = "Typ";
+$Definition["Basic Information"] = "Základné Informácie";
+$Definition["Before"] = "Pred";
+$Definition[
+    "Before activating this feature, please be aware of the following potential implications:"
+] =
+    "Pred aktiváciou tejto funkcie si uvedomte nasledujúce potenciálne dôsledky:";
+$Definition["Begin At"] = "Začať Na";
+$Definition["Below Sidebar"] = "Vedľa Bočného Panelu";
+$Definition["Blocked"] = "Zablokovaný";
+$Definition["Blog Comments"] = "Komentáre Blogu";
+$Definition["Bookmark a discussion using its star icon."] =
+    "Uložte si diskusiu do záložiek pomocou ikony s hviezdičkou.";
+$Definition["Browse Addons"] = "Hľadať Doplnky";
+$Definition["Browser Compatibility:"] = "Kompatibilita prehliadača:";
+$Definition["Browse for a new banner logo if you would like to change it:"] =
+    "Hľadať nové logo pre banner, ak ho chcete zmeniť:";
+$Definition["Button Background Color"] = "Farba pozadia tlačidla";
+$Definition["Button Text Color"] = "Farba textu tlačidla";
 
-$Definition['Cannot build profile information if user is not defined.'] = 'Nie je možne zostaviť informácie o profile, ak užívateľ nie je definovaný.';
-$Definition['Categories &amp; Discussions'] = 'Kategórie & Diskusie';
-$Definition['Categories to Exclude from AI Answers'] = 'Kategórie, ktoré sa majú vylúčiť z odpovedí AI';
-$Definition['Categories are used to organize discussions.'] = 'Kategórie pomáhajú používateľom triediť diskusie spôsobom, ktorý je zmysluplný pre komunitu.';
-$Definition['Categories are used to organize posts.'] = 'Kategórie sa používajú na to, aby pomohli vašim používateľom usporiadať ich príspevky spôsobom, ktorý je zmysluplný pre vašu komunitu.';
-$Definition['Categories allow you to organize your posts.'] = 'Kategórie vám umožňujú organizovať vaše príspevky.';
-$Definition['Categories Layout'] = 'Vzhľad Kategórií';
-$Definition['Category Following'] = 'Nasledujúca kategória';
-$Definition['Category Page Layout'] = 'Vzhľad Stránky s Kategóriami';
-$Definition['Category Url:'] = 'Adresa Kategórie:';
-$Definition['Censored Words'] = 'Cenzúrované Slová';
-$Definition['Change Log'] = 'Záznam Zmien';
-$Definition['Change the look of All Categories'] = 'Môžete zmeniť vzhľad stránky <b>Všetky Kategórie</b> <a href="%s">tu</a>.';
-$Definition['Change the way that new users register with the site.'] = 'Zmeňte spôsob registrácie nových užívateľov na webstránke.';
-$Definition['Change your banner'] = 'Zmeňte svoj banner';
-$Definition['Changing the Discussions Menu Link'] = 'Menenie Odkazu Diskusií v Menu ';
-$Definition['Check all permissions that apply for each role'] = 'Zaškrtnite všetky práva ktoré sa aplikujú pre každú rolu';
-$Definition['Check all permissions that apply to this role:'] = 'Zaškrtnite všetky práva ktoré sa aplikujú pre túto rolu:';
-$Definition['Check out my new community!'] = 'Pozri sa na moju novú komunitu!';
-$Definition['Check out the full list of video tutorials here.'] = 'Pozri sa na celý zoznam video tutoriálov tu.';
+$Definition["Cannot build profile information if user is not defined."] =
+    "Nie je možne zostaviť informácie o profile, ak užívateľ nie je definovaný.";
+$Definition["Categories &amp; Discussions"] = "Kategórie & Diskusie";
+$Definition["Categories to Exclude from AI Answers"] =
+    "Kategórie, ktoré sa majú vylúčiť z odpovedí AI";
+$Definition["Categories are used to organize discussions."] =
+    "Kategórie pomáhajú používateľom triediť diskusie spôsobom, ktorý je zmysluplný pre komunitu.";
+$Definition["Categories are used to organize posts."] =
+    "Kategórie sa používajú na to, aby pomohli vašim používateľom usporiadať ich príspevky spôsobom, ktorý je zmysluplný pre vašu komunitu.";
+$Definition["Categories allow you to organize your posts."] =
+    "Kategórie vám umožňujú organizovať vaše príspevky.";
+$Definition["Categories Layout"] = "Vzhľad Kategórií";
+$Definition["Category Following"] = "Nasledujúca kategória";
+$Definition["Category Page Layout"] = "Vzhľad Stránky s Kategóriami";
+$Definition["Category Url:"] = "Adresa Kategórie:";
+$Definition["Censored Words"] = "Cenzúrované Slová";
+$Definition["Change Log"] = "Záznam Zmien";
+$Definition["Change the look of All Categories"] =
+    'Môžete zmeniť vzhľad stránky <b>Všetky Kategórie</b> <a href="%s">tu</a>.';
+$Definition["Change the way that new users register with the site."] =
+    "Zmeňte spôsob registrácie nových užívateľov na webstránke.";
+$Definition["Change your banner"] = "Zmeňte svoj banner";
+$Definition["Changing the Discussions Menu Link"] =
+    "Menenie Odkazu Diskusií v Menu ";
+$Definition["Check all permissions that apply for each role"] =
+    "Zaškrtnite všetky práva ktoré sa aplikujú pre každú rolu";
+$Definition["Check all permissions that apply to this role:"] =
+    "Zaškrtnite všetky práva ktoré sa aplikujú pre túto rolu:";
+$Definition["Check out my new community!"] = "Pozri sa na moju novú komunitu!";
+$Definition["Check out the full list of video tutorials here."] =
+    "Pozri sa na celý zoznam video tutoriálov tu.";
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Ahoj kamarát!
 
 Pozri si nové komunitné fórum, ktoré som práve založil. Je to skvelé miesto na četovanie online.';
 
-$Definition['Choose a locale pack'] = 'Zvoľte si jazykový preklad';
-$Definition['Choose Avatar'] = 'Zvoliť avatar';
-$Definition['Choose the preferred layout for the categories page.'] = 'Zvoľte preferovaný vzhľad stránky kategórií.';
-$Definition['Choose the preferred layout for the discussions page.'] = 'Zvoľte preferovaný vzhľad stránky diskusií.';
-$Definition['Choose who can send out invitations to new members:'] = 'Zvoľte kto môže odoslať pozvania novým užívateľom:';
-$Definition['Choose how many records to display.'] = 'Vyberte, koľko záznamov chcete zobraziť.';
-$Definition['Choose when to load records from.'] = 'Vyberte, od ktorého sa majú načítať záznamy.';
-$Definition['Class'] = 'Trieda';
-$Definition['Clear All'] = 'Zmazať všetko';
-$Definition['Classic table layout used by traditional forums'] = 'Klasický vzhľad používaný fórumami';
-$Definition['Clean Spam'] = 'Vyčistiť Spam';
-$Definition['Click a tag name to edit. Click x to remove.'] = 'Kliknite na meno značky pre editáciu. Kliknite x pre odstránenie.';
-$Definition['Click here to apply it.'] = 'Kliknite sem pre aplikovanie.';
-$Definition['Click here to carry on.'] = 'Klinite sem pre pokračovanie.';
-$Definition['Click here to carry on to your dashboard'] = 'Kliknite sem pre pokračovanie na ovládací panel';
-$Definition['Client ID'] = 'ID Klienta';
-$Definition['Colored'] = 'Farebné';
-$Definition['Column Display Settings'] = 'Nastavenia zobrazenia stĺpcov';
-$Definition['comment(s)'] = 'komentár(e)';
-$Definition['Comment  Body'] = 'Text Komentára';
-$Definition['Comment Count'] = 'Počet komentárov';
-$Definition['Comment Settings'] = 'Nastavenia Komentára';
-$Definition['Comments Page'] = 'Stránka Komentárov';
-$Definition['Comments per Page'] = 'Počet Komentárov na Stránku';
-$Definition['Comment  Subject'] = 'Predmet Komentára';
-$Definition['Community Discussion Categories'] = 'Kategórie komunitných diskusií';
-$Definition['Community Member Content'] = 'Obsah člena komunity';
-$Definition['Condition'] = 'Podmienka';
-$Definition['Condition Expression'] = 'Hodnota';
-$Definition['Condition Field'] = 'Pole';
-$Definition['Conditions'] = 'Podmienky';
-$Definition['Condition Type'] = 'Typ';
-$Definition['Configure an Authenticator'] = 'Nastaviť Overovač';
-$Definition['Configuration settings for password fields in Vanilla'] = 'Konfiguračné nastavenia pre polia hesla vo Vanille';
-$Definition['Configure custom Kaltura domains'] = 'Konfigurácia vlastných domén Kaltura';
-$Definition['Configure how nested categories are displayed to users.'] = 'Nastavte ako budú vnorené kategórie zobrazené užívateľom.';
-$Definition['Configuring Vanilla\'s Homepage'] = 'Nastavenie Domovskej Stránky Vanilly';
-$Definition['Confirmation  Body'] = 'Text Potvrdenia';
-$Definition['Confirm email addresses'] = 'Vyžadovať od užívateľov potvrdenie ich emailovej adresy (odporučené)';
-$Definition['Connections'] = 'Pripojenia';
-$Definition['Consumer Key'] = 'Kľúč Potvrdenia';
-$Definition['Consumer Secret'] = 'Tajomstvo Potvrdenia';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'Ak chcete aktivovať konfiguráciu stránky otázok a odpovedí, kontaktujte personál Vanilla. Potom povoľte doplnok Q&A v sekcii Addons na hlavnom paneli.';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'Ak chcete aktivovať konfiguráciu stránky otázok a odpovedí, kontaktujte personál Vanilla. Potom povoľte doplnok Q&A v sekcii <0/> na hlavnom paneli.';
-$Definition['Content Curation'] = 'Riadenie obsahu';
-$Definition['Content flagged as spam is stored here for moderator review.'] = 'Obsah označený ako spam je uložený tu pre názor moderátora.';
-$Definition['Content Flagging'] = 'Označenie Obsahu';
-$Definition['Content Security Domains'] = 'Domény zabezpečenia obsahu';
-$Definition['Content to Suggest'] = 'Obsah na návrh';
-$Definition['Continue Replying'] = 'Pokračovať v odpovedi';
-$Definition['Conversation Messages'] = 'Správy Konverzácie';
-$Definition['Conversations'] = 'Konverzácie';
-$Definition['Conversations Setup'] = 'Nastavenie Konverzácií';
-$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'Ak dôjde k ohrozeniu počiatočných skriptov, môže to spôsobiť chyby zabezpečenia, ako je Cross-Site Scripting (XSS).';
-$Definition['Could not find a theme identified by \'%s\''] = 'Téma \'%s\' nebola nájdená';
-$Definition['Could not instantiate mail function.'] = 'Nie je možné vytvoriť inštanciu emailovej funkcie.';
-$Definition['Could not link the addon.'] = 'Nie je možné pripojiť doplnok.';
-$Definition['Could not open %s.'] = 'Nie je možné otvoriť %s.';
-$Definition['Could not open addon file. Addons must be zip files.'] = 'Nie je možné otvoriť súbor doplnku. Doplnky musia byť súbory zip.';
-$Definition['Create & organize discussion categories and manage your users.'] = 'Vytvoriť a organizovať kategórie diskusie a spravujte užívateľov.';
-$Definition['Created new badge'] = 'Vytvoriť nový odznak';
-$Definition['Create Zoom Meeting'] = 'Vytvoriť stretnutie Zoom';
-$Definition['CreateFile'] = 'Vytvoriť';
-$Definition['Criteria'] = 'Kritériá';
-$Definition['CSS'] = 'CSS';
-$Definition['CssClass'] = 'Trieda CSS';
-$Definition['Current Authenticator'] = 'Aktuálny Overovač';
-$Definition['Current File:'] = 'Aktuálny Súbor:';
-$Definition['Current Mobile Theme'] = 'Aktuálna téma mobilu';
-$Definition['Current Theme'] = 'Aktuálna Téma';
-$Definition['Custom Themes'] = 'Vlastné motívy';
-$Definition['Customize AI Persona'] = 'Prispôsobte si AI Personu';
-$Definition['Custom Recent Posts Layouts'] = 'Vlastné rozloženie posledných príspevkov';
+$Definition["Choose a locale pack"] = "Zvoľte si jazykový preklad";
+$Definition["Choose Avatar"] = "Zvoliť avatar";
+$Definition["Choose the preferred layout for the categories page."] =
+    "Zvoľte preferovaný vzhľad stránky kategórií.";
+$Definition["Choose the preferred layout for the discussions page."] =
+    "Zvoľte preferovaný vzhľad stránky diskusií.";
+$Definition["Choose who can send out invitations to new members:"] =
+    "Zvoľte kto môže odoslať pozvania novým užívateľom:";
+$Definition["Choose how many records to display."] =
+    "Vyberte, koľko záznamov chcete zobraziť.";
+$Definition["Choose when to load records from."] =
+    "Vyberte, od ktorého sa majú načítať záznamy.";
+$Definition["Class"] = "Trieda";
+$Definition["Clear All"] = "Zmazať všetko";
+$Definition["Classic table layout used by traditional forums"] =
+    "Klasický vzhľad používaný fórumami";
+$Definition["Clean Spam"] = "Vyčistiť Spam";
+$Definition["Click a tag name to edit. Click x to remove."] =
+    "Kliknite na meno značky pre editáciu. Kliknite x pre odstránenie.";
+$Definition["Click here to apply it."] = "Kliknite sem pre aplikovanie.";
+$Definition["Click here to carry on."] = "Klinite sem pre pokračovanie.";
+$Definition["Click here to carry on to your dashboard"] =
+    "Kliknite sem pre pokračovanie na ovládací panel";
+$Definition["Client ID"] = "ID Klienta";
+$Definition["Colored"] = "Farebné";
+$Definition["Column Display Settings"] = "Nastavenia zobrazenia stĺpcov";
+$Definition["comment(s)"] = "komentár(e)";
+$Definition["Comment  Body"] = "Text Komentára";
+$Definition["Comment Count"] = "Počet komentárov";
+$Definition["Comment Settings"] = "Nastavenia Komentára";
+$Definition["Comments Page"] = "Stránka Komentárov";
+$Definition["Comments per Page"] = "Počet Komentárov na Stránku";
+$Definition["Comment  Subject"] = "Predmet Komentára";
+$Definition["Community Discussion Categories"] =
+    "Kategórie komunitných diskusií";
+$Definition["Community Member Content"] = "Obsah člena komunity";
+$Definition["Condition"] = "Podmienka";
+$Definition["Condition Expression"] = "Hodnota";
+$Definition["Condition Field"] = "Pole";
+$Definition["Conditions"] = "Podmienky";
+$Definition["Condition Type"] = "Typ";
+$Definition["Configure an Authenticator"] = "Nastaviť Overovač";
+$Definition["Configuration settings for password fields in Vanilla"] =
+    "Konfiguračné nastavenia pre polia hesla vo Vanille";
+$Definition["Configure custom Kaltura domains"] =
+    "Konfigurácia vlastných domén Kaltura";
+$Definition["Configure how nested categories are displayed to users."] =
+    "Nastavte ako budú vnorené kategórie zobrazené užívateľom.";
+$Definition['Configuring Vanilla\'s Homepage'] =
+    'Nastavenie Domovskej Stránky Vanilly';
+$Definition["Confirmation  Body"] = "Text Potvrdenia";
+$Definition["Confirm email addresses"] =
+    "Vyžadovať od užívateľov potvrdenie ich emailovej adresy (odporučené)";
+$Definition["Connections"] = "Pripojenia";
+$Definition["Consumer Key"] = "Kľúč Potvrdenia";
+$Definition["Consumer Secret"] = "Tajomstvo Potvrdenia";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
+] =
+    "Ak chcete aktivovať konfiguráciu stránky otázok a odpovedí, kontaktujte personál Vanilla. Potom povoľte doplnok Q&A v sekcii Addons na hlavnom paneli.";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
+] =
+    "Ak chcete aktivovať konfiguráciu stránky otázok a odpovedí, kontaktujte personál Vanilla. Potom povoľte doplnok Q&A v sekcii <0/> na hlavnom paneli.";
+$Definition["Content Curation"] = "Riadenie obsahu";
+$Definition["Content flagged as spam is stored here for moderator review."] =
+    "Obsah označený ako spam je uložený tu pre názor moderátora.";
+$Definition["Content Flagging"] = "Označenie Obsahu";
+$Definition["Content Security Domains"] = "Domény zabezpečenia obsahu";
+$Definition["Content to Suggest"] = "Obsah na návrh";
+$Definition["Continue Replying"] = "Pokračovať v odpovedi";
+$Definition["Conversation Messages"] = "Správy Konverzácie";
+$Definition["Conversations"] = "Konverzácie";
+$Definition["Conversations Setup"] = "Nastavenie Konverzácií";
+$Definition[
+    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
+] =
+    "Ak dôjde k ohrozeniu počiatočných skriptov, môže to spôsobiť chyby zabezpečenia, ako je Cross-Site Scripting (XSS).";
+$Definition['Could not find a theme identified by \'%s\''] =
+    'Téma \'%s\' nebola nájdená';
+$Definition["Could not instantiate mail function."] =
+    "Nie je možné vytvoriť inštanciu emailovej funkcie.";
+$Definition["Could not link the addon."] = "Nie je možné pripojiť doplnok.";
+$Definition["Could not open %s."] = "Nie je možné otvoriť %s.";
+$Definition["Could not open addon file. Addons must be zip files."] =
+    "Nie je možné otvoriť súbor doplnku. Doplnky musia byť súbory zip.";
+$Definition["Create & organize discussion categories and manage your users."] =
+    "Vytvoriť a organizovať kategórie diskusie a spravujte užívateľov.";
+$Definition["Created new badge"] = "Vytvoriť nový odznak";
+$Definition["Create Zoom Meeting"] = "Vytvoriť stretnutie Zoom";
+$Definition["CreateFile"] = "Vytvoriť";
+$Definition["Criteria"] = "Kritériá";
+$Definition["CSS"] = "CSS";
+$Definition["CssClass"] = "Trieda CSS";
+$Definition["Current Authenticator"] = "Aktuálny Overovač";
+$Definition["Current File:"] = "Aktuálny Súbor:";
+$Definition["Current Mobile Theme"] = "Aktuálna téma mobilu";
+$Definition["Current Theme"] = "Aktuálna Téma";
+$Definition["Custom Themes"] = "Vlastné motívy";
+$Definition["Customize AI Persona"] = "Prispôsobte si AI Personu";
+$Definition["Custom Recent Posts Layouts"] = "Vlastné rozloženie posledných príspevkov";
 
-$Definition['Database Structure Upgrades'] = 'Aktualizácie Databázovej Štruktúry';
-$Definition['Date From'] = 'Dátum od';
-$Definition['Date To'] = 'Dátom do';
-$Definition['Debugger'] = 'Debugger';
-$Definition['Debug Information'] = 'Informácie o Debugovaní';
-$Definition['Decline'] = 'Odmietnúť';
-$Definition['Default (%s)'] = 'Prednastavené (%s)';
-$Definition['Default <0/>'] = 'Predvolené <0/>';
-$Definition['Default %s Permissions'] = 'Predvolené %s Práva';
-$Definition['Default  Category'] = 'Predvolená Kategória';
-$Definition['Default Category Permissions'] = 'Predvolené Práva Kategórie';
-$Definition['Default Followed Categories'] = 'Predvolené sledované kategórie';
-$Definition['Default Interests Only'] = 'Len predvolené úroky';
-$Definition['Default Locale'] = 'Predvolený Jazykový Preklad';
-$Definition['Default Roles'] = 'Predvolené Role';
-$Definition['default type'] = 'predvolený';
-$Definition['Default Type'] = 'Prednastavený typ';
-$Definition['Define your forum homepage'] = 'Nastavte domovskú stránku fóra';
-$Definition['Delete Badge'] = 'Odstrániť Odznak';
-$Definition['Delete Category'] = 'Odstrániť Kategóriu';
-$Definition['Delete moderation information'] = 'Odstránenie informácií o moderovaní';
-$Definition['Delete Role'] = 'Odstrániť Rolu';
+$Definition["Database Structure Upgrades"] = "Aktualizácie Databázovej Štruktúry";
+$Definition["Date From"] = "Dátum od";
+$Definition["Date To"] = "Dátom do";
+$Definition["Debugger"] = "Debugger";
+$Definition["Debug Information"] = "Informácie o Debugovaní";
+$Definition["Decline"] = "Odmietnúť";
+$Definition["Default (%s)"] = "Prednastavené (%s)";
+$Definition["Default <0/>"] = "Predvolené <0/>";
+$Definition["Default %s Permissions"] = "Predvolené %s Práva";
+$Definition["Default  Category"] = "Predvolená Kategória";
+$Definition["Default Category Permissions"] = "Predvolené Práva Kategórie";
+$Definition["Default Followed Categories"] = "Predvolené sledované kategórie";
+$Definition["Default Interests Only"] = "Len predvolené úroky";
+$Definition["Default Locale"] = "Predvolený Jazykový Preklad";
+$Definition["Default Roles"] = "Predvolené Role";
+$Definition["default type"] = "predvolený";
+$Definition["Default Type"] = "Prednastavený typ";
+$Definition["Define your forum homepage"] = "Nastavte domovskú stránku fóra";
+$Definition["Delete Badge"] = "Odstrániť Odznak";
+$Definition["Delete Category"] = "Odstrániť Kategóriu";
+$Definition["Delete moderation information"] = "Odstránenie informácií o moderovaní";
+$Definition["Delete Role"] = "Odstrániť Rolu";
 $Definition["Delete Theme"] = "Vymazať šablónu";
-$Definition['Delete User'] = 'Odstrániť Užívateľa';
-$Definition['Delete User: %s'] = 'Odstrániť Užívateľa: %s';
-$Definition['Deleting category...'] = 'Odstránenie kategórie...';
-$Definition['Deleting role...'] = 'Odstránenie role...';
-$Definition['Delivery Date'] = 'Dátum doručenia';
-$Definition['Description'] = 'Popis';
-$Definition['Desktop Themes'] = 'Témy pracovnej plochy';
-$Definition['Did You Know?'] = 'Vedeli ste?';
-$Definition['Disable'] = 'Vypnúť';
-$Definition['Disable Content Flagging'] = 'Vypnúť Označovanie Obsahu';
-$Definition['Disabled'] = 'Vypnuté';
+$Definition["Delete User"] = "Odstrániť Užívateľa";
+$Definition["Delete User: %s"] = "Odstrániť Užívateľa: %s";
+$Definition["Deleting category..."] = "Odstránenie kategórie...";
+$Definition["Deleting role..."] = "Odstránenie role...";
+$Definition["Delivery Date"] = "Dátum doručenia";
+$Definition["Description"] = "Popis";
+$Definition["Desktop Themes"] = "Témy pracovnej plochy";
+$Definition["Did You Know?"] = "Vedeli ste?";
+$Definition["Disable"] = "Vypnúť";
+$Definition["Disable Content Flagging"] = "Vypnúť Označovanie Obsahu";
+$Definition["Disabled"] = "Vypnuté";
 $Definition['Disabled %1$s'] = 'Vypnuté %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Vypnuté: Vrecko <b>ne</b>bude zobrazené.';
-$Definition['Disable Signatures'] = 'Vypnúť Podpisy';
-$Definition['Disable Tagging'] = 'Vypnúť Značkovanie';
-$Definition['Discard Reply'] = 'Zahodiť odpoveď';
-$Definition['Discussion & Comment Editing'] = 'Editácia Diskusie a Komentára';
-$Definition['Post & Comment Editing'] = 'Úprava príspevkov a komentárov';
-$Definition['Discussions'] = 'Diskusie';
-$Definition['discussion(s)'] = 'diskusia(e)';
-$Definition['Discussion  Body'] = 'Text Diskusie';
-$Definition['Discussions Layout'] = 'Vzhľad Diskusií';
-$Definition['Discussions per Page'] = 'Počet Diskusií na Stránku';
-$Definition['Posts per Page'] = 'Počet príspevkov na stránku';
-$Definition['Discussion  Subject'] = 'Predmet Diskusie';
-$Definition['Dismissable'] = 'Zamietnuteľné';
-$Definition['Dismiss Answer'] = 'Odmietnuť odpoveď';
-$Definition['Display content from followed categories'] = 'Zobraziť obsah zo sledovaných kategórií';
-$Definition['Display in dashboard. (not recommended)'] = 'Zobraziť v ovládacom paneli. (neodporučené)';
-$Definition['Display Open Cases in Profile Page?'] = 'Zobraziť otvorené prípady na stránke profilu?';
-$Definition['Display Options'] = 'Možnosti zobrazenia';
-$Definition['Display records from this subcommunity'] = 'Zobraziť záznamy z tejto podkomunity';
-$Definition['Display root categories as headings.'] = 'Zobraziť hlavné kategórie ako nadpisy.';
-$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Zobrazuje obrázok bannera z brandingovej stránky viditeľne na celej téme.';
-$Definition['Display a searchbox on top of the banner image.'] = 'Vyhľadávacie pole zobraziť v hornej časti obrázka bannera.';
-$Definition['Display records from this category.'] = 'Zobraziť záznamy z tejto kategórie.';
-$Definition['Display records from this subcommunity.'] = 'Zobraziť záznamy z tejto podskupiny.';
-$Definition['Don\'t display for embedded comments.'] = 'Nezobraziť pre vložené komentáre.';
+$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
+    "Vypnuté: Vrecko <b>ne</b>bude zobrazené.";
+$Definition["Disable Signatures"] = "Vypnúť Podpisy";
+$Definition["Disable Tagging"] = "Vypnúť Značkovanie";
+$Definition["Discard Reply"] = "Zahodiť odpoveď";
+$Definition["Discussion & Comment Editing"] = "Editácia Diskusie a Komentára";
+$Definition["Post & Comment Editing"] = "Úprava príspevkov a komentárov";
+$Definition["Discussions"] = "Diskusie";
+$Definition["discussion(s)"] = "diskusia(e)";
+$Definition["Discussion  Body"] = "Text Diskusie";
+$Definition["Discussions Layout"] = "Vzhľad Diskusií";
+$Definition["Discussions per Page"] = "Počet Diskusií na Stránku";
+$Definition["Posts per Page"] = "Počet príspevkov na stránku";
+$Definition["Discussion  Subject"] = "Predmet Diskusie";
+$Definition["Dismissable"] = "Zamietnuteľné";
+$Definition["Dismiss Answer"] = "Odmietnuť odpoveď";
+$Definition["Display content from followed categories"] =
+    "Zobraziť obsah zo sledovaných kategórií";
+$Definition["Display in dashboard. (not recommended)"] =
+    "Zobraziť v ovládacom paneli. (neodporučené)";
+$Definition["Display Open Cases in Profile Page?"] =
+    "Zobraziť otvorené prípady na stránke profilu?";
+$Definition["Display Options"] = "Možnosti zobrazenia";
+$Definition["Display records from this subcommunity"] =
+    "Zobraziť záznamy z tejto podkomunity";
+$Definition["Display root categories as headings."] =
+    "Zobraziť hlavné kategórie ako nadpisy.";
+$Definition[
+    "Displays the banner image form the branding page prominently throughout the theme."
+] =
+    "Zobrazuje obrázok bannera z brandingovej stránky viditeľne na celej téme.";
+$Definition["Display a searchbox on top of the banner image."] =
+    "Vyhľadávacie pole zobraziť v hornej časti obrázka bannera.";
+$Definition["Display records from this category."] =
+    "Zobraziť záznamy z tejto kategórie.";
+$Definition["Display records from this subcommunity."] =
+    "Zobraziť záznamy z tejto podskupiny.";
+$Definition['Don\'t display for embedded comments.'] =
+    'Nezobraziť pre vložené komentáre.';
 $Definition['Don\'t Refresh'] = 'Neobnovovať';
 $Definition['Don\'t use Categories'] = 'Nepoužívať Kategórie';
-$Definition['Do not display the categories in the side panel.'] = 'Nezobraziť kategórie v bočnom paneli.';
-$Definition['Download Locale List'] = 'Stiahnúť List Jazykových Prekladov';
-$Definition['DownloadLocalePack'] = 'Stiahnuť';
-$Definition['Download Locale Pack'] = 'Stiahnúť Jazykový Balíček';
+$Definition["Do not display the categories in the side panel."] =
+    "Nezobraziť kategórie v bočnom paneli.";
+$Definition["Download Locale List"] = "Stiahnúť List Jazykových Prekladov";
+$Definition["DownloadLocalePack"] = "Stiahnuť";
+$Definition["Download Locale Pack"] = "Stiahnúť Jazykový Balíček";
 
-$Definition['Edit/Delete Log'] = 'Upraviť/Odstrániť Záznam';
-$Definition['Edit Category'] = 'Upraviť Kategóriu';
-$Definition['Edit CSS'] = 'Upraviť CSS';
-$Definition['Edit Default Categories'] = 'Upraviť predvolené kategórie';
-$Definition['Edit HTML'] = 'Upraviť HTML';
-$Definition['Edit Interest'] = 'Upraviť záujem';
-$Definition['Edit Message'] = 'Upraviť Správu';
-$Definition['Edit Role'] = 'Upraviť Rolu';
-$Definition['Edit User'] = 'Upraviť Užívateľa';
-$Definition['Email Confirmation Role'] = 'Rola Potvrdenia Emailu';
-$Definition['Email Digest'] = 'E-mailový súhrn';
-$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'Widget Výzva na výber e-mailov bude k dispozícii, keď bude povolený súhrn e-mailov.';
-$Definition['Email Digest Logo'] = 'Logo prehľadu e-mailov';
-$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'E-mailové súhrny sa budú odosielať každý týždeň vo vybratý deň. Zmeny nastaveného dňa sa prejavia v nasledujúcom týždni.';
-$Definition['Email Footer'] = 'Päta e-mailu';
-$Definition['Email Digest Logo'] = 'Logo prehľadu e-mailov';
-$Definition['Email Styles'] = 'Štýly e-mailu';
-$Definition['Embed Comments'] = 'Vložiť Komentáre';
-$Definition['Embedding'] = 'Vkladanie';
-$Definition['Embedding Documentation'] = 'Vkladanie dokumentácie';
-$Definition['Embedding is currently DISABLED.'] = 'Vkladanie je momentálne VYPNUTÉ.';
-$Definition['Embedding is currently ENABLED.'] = 'Vkladanie je momentálne ZAPNUTÉ.';
-$Definition['Embed Forum'] = 'Vložiť Fórum';
-$Definition['Embed My Forum'] = 'Vložte moje fórum';
-$Definition['Embed Modules'] = 'Vložiť Moduly';
-$Definition['Embed modules from your Vanilla forum into your site'] = 'Vložiť moduly z vašeho Vanilla fóra na vašu webstránku';
-$Definition['Embeds'] = 'Vloží';
-$Definition['Embed Vanilla'] = 'Vložiť Vanillu';
-$Definition['Embed your entire Vanilla forum'] = 'Vložiť celé Vanilla fórum';
-$Definition['Embed your forum in your web site'] = 'Vložiť vaše fórum na vašu webstránku';
-$Definition['Enable'] = 'Zapnuté';
-$Definition['Enable/Disable'] = 'Zapnúť/Vypnúť';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'Zapnúť zaškrtávacie políčka pre administrátorov v diskusiách a komentároch.';
-$Definition['Enable checkboxes on discussions and comments'] = 'Povoliť zaškrtávacie políčka v diskusií a komentároch';
+$Definition["Edit/Delete Log"] = "Upraviť/Odstrániť Záznam";
+$Definition["Edit Category"] = "Upraviť Kategóriu";
+$Definition["Edit CSS"] = "Upraviť CSS";
+$Definition["Edit Default Categories"] = "Upraviť predvolené kategórie";
+$Definition["Edit HTML"] = "Upraviť HTML";
+$Definition["Edit Interest"] = "Upraviť záujem";
+$Definition["Edit Message"] = "Upraviť Správu";
+$Definition["Edit Role"] = "Upraviť Rolu";
+$Definition["Edit User"] = "Upraviť Užívateľa";
+$Definition["Email Confirmation Role"] = "Rola Potvrdenia Emailu";
+$Definition["Email Digest"] = "E-mailový súhrn";
+$Definition[
+    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
+] =
+    "Widget Výzva na výber e-mailov bude k dispozícii, keď bude povolený súhrn e-mailov.";
+$Definition["Email Digest Logo"] = "Logo prehľadu e-mailov";
+$Definition[
+    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
+] =
+    "E-mailové súhrny sa budú odosielať každý týždeň vo vybratý deň. Zmeny nastaveného dňa sa prejavia v nasledujúcom týždni.";
+$Definition["Email Footer"] = "Päta e-mailu";
+$Definition["Email Digest Logo"] = "Logo prehľadu e-mailov";
+$Definition["Email Styles"] = "Štýly e-mailu";
+$Definition["Embed Comments"] = "Vložiť Komentáre";
+$Definition["Embedding"] = "Vkladanie";
+$Definition["Embedding Documentation"] = "Vkladanie dokumentácie";
+$Definition["Embedding is currently DISABLED."] =
+    "Vkladanie je momentálne VYPNUTÉ.";
+$Definition["Embedding is currently ENABLED."] =
+    "Vkladanie je momentálne ZAPNUTÉ.";
+$Definition["Embed Forum"] = "Vložiť Fórum";
+$Definition["Embed My Forum"] = "Vložte moje fórum";
+$Definition["Embed Modules"] = "Vložiť Moduly";
+$Definition["Embed modules from your Vanilla forum into your site"] =
+    "Vložiť moduly z vašeho Vanilla fóra na vašu webstránku";
+$Definition["Embeds"] = "Vloží";
+$Definition["Embed Vanilla"] = "Vložiť Vanillu";
+$Definition["Embed your entire Vanilla forum"] =
+    "Vložiť celé Vanilla fórum";
+$Definition["Embed your forum in your web site"] =
+    "Vložiť vaše fórum na vašu webstránku";
+$Definition["Enable"] = "Zapnuté";
+$Definition["Enable/Disable"] = "Zapnúť/Vypnúť";
+$Definition["Enable admin checkboxes on discussions and comments."] =
+    "Zapnúť zaškrtávacie políčka pre administrátorov v diskusiách a komentároch.";
+$Definition["Enable checkboxes on discussions and comments"] =
+    "Povoliť zaškrtávacie políčka v diskusií a komentároch";
 $Definition['Enabled %1$s'] = 'Zapnuté %1$s';
-$Definition['Enabled: The pocket will be displayed.'] = 'Zapnuté: Vrecko bude zobrazené.';
-$Definition['Enable HTML emails'] = 'Povoliť emaily HTML';
-$Definition['Enable embedding to use blog comments.'] = 'Aby toto fungovalo, musíte povoliť vkladanie.';
-$Definition['Enable Image Upload Limit'] = 'Aktivovať obmedzenie nahrávania obrázkov';
-$Definition['Enable link embeds in discussions and comments'] = 'Povoliť priloženie odkazu v diskusií a komentároch';
-$Definition['Enable link embeds in posts and comments'] = 'Povoliť vkladanie odkazov do príspevkov a komentárov';
-$Definition['Enable OpenID'] = 'Zapnúť OpenID';
-$Definition['Enable Pocket Locations'] = 'Povoliť lokalizáciu packetov';
-$Definition['Enable Private Communities'] = 'Povoliť súkromné komunity';
-$Definition['Enable Product Integration'] = 'Povoliť integráciu produktov';
-$Definition['Enable Followup Notifications'] = 'Povoliť upozornenia o sledovaní';
-$Definition['Enable sending notification emails'] = 'Povoliť odosielanie e-mailov s upozornením';
-$Definition['Enable Tagging'] = 'Povoliť označovanie';
-$Definition['Enable this message'] = 'Zapnúť túto správu';
-$Definition['Enable this source'] = 'Povoliť tento zdroj';
-$Definition['Enable to only show posts from categories a user follows.'] = 'Povoliť, aby sa zobrazovali iba príspevky z kategórií, ktoré používateľ sleduje.';
-$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'Povolením získate ukážku nášho nového hlavného panela správy používateľov s vylepšeným vyhľadávaním a novými možnosťami konfigurácie.';
-$Definition['Enabling a Locale Pack'] = 'Zapnúť Jazykový Balíček';
-$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'Povolenie tejto funkcie upraví vašu politiku zabezpečenia obsahu tak, aby dôverovala ďalším skriptom vloženým ako závislosti vašimi vlastnými skriptami.';
-$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] =
+$Definition["Enabled: The pocket will be displayed."] =
+    "Zapnuté: Vrecko bude zobrazené.";
+$Definition["Enable HTML emails"] = "Povoliť emaily HTML";
+$Definition["Enable embedding to use blog comments."] =
+    "Aby toto fungovalo, musíte povoliť vkladanie.";
+$Definition["Enable Image Upload Limit"] = "Aktivovať obmedzenie nahrávania obrázkov";
+$Definition["Enable link embeds in discussions and comments"] =
+    "Povoliť priloženie odkazu v diskusií a komentároch";
+$Definition["Enable link embeds in posts and comments"] =
+    "Povoliť vkladanie odkazov do príspevkov a komentárov";
+$Definition["Enable OpenID"] = "Zapnúť OpenID";
+$Definition["Enable Pocket Locations"] = "Povoliť lokalizáciu packetov";
+$Definition["Enable Private Communities"] = "Povoliť súkromné komunity";
+$Definition["Enable Product Integration"] = "Povoliť integráciu produktov";
+$Definition["Enable Followup Notifications"] = "Povoliť upozornenia o sledovaní";
+$Definition["Enable sending notification emails"] =
+    "Povoliť odosielanie e-mailov s upozornením";
+$Definition["Enable Tagging"] = "Povoliť označovanie";
+$Definition["Enable this message"] = "Zapnúť túto správu";
+$Definition["Enable this source"] = "Povoliť tento zdroj";
+$Definition["Enable to only show posts from categories a user follows."] =
+    "Povoliť, aby sa zobrazovali iba príspevky z kategórií, ktoré používateľ sleduje.";
+$Definition[
+    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
+] =
+    "Povolením získate ukážku nášho nového hlavného panela správy používateľov s vylepšeným vyhľadávaním a novými možnosťami konfigurácie.";
+$Definition["Enabling a Locale Pack"] = "Zapnúť Jazykový Balíček";
+$Definition[
+    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
+] =
+    "Povolenie tejto funkcie upraví vašu politiku zabezpečenia obsahu tak, aby dôverovala ďalším skriptom vloženým ako závislosti vašimi vlastnými skriptami.";
+$Definition[
+    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
+] =
     'Povolenie tejto funkcie upraví politiku zabezpečenia obsahu (CSP) vašej lokality tak, aby povolilo schváleným skriptom vo vašom aktuálnom zozname dôveryhodných domén dynamicky načítať iné skripty, do vášho CSP sa pridá „prísne dynamická“ direktíva, ktorá ponúka väčšiu flexibilitu pri začleňovaní tretích strán. obsahu.';
-$Definition['Encourage your friends to join your new community!'] = 'Vyzvite vašich kamarátov aby sa pridali do vašej komunity!';
-$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Napíšte zoznam indexov oddelených čiarkou, začínajúci od 1.';
-$Definition['Enter numbers starting at 1.'] = 'Napíšte čísla začínajúce od 1.';
-$Definition['Enter the email address of the person you would like to invite:'] = 'Napíšte emailovú adresu osoby ktorú chcete pozvať:';
-$Definition['Enter the url to the page you would like to use as your homepage'] = 'Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku';
-$Definition['Enter the url to the page you would like to use as your homepage:'] = 'Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku:';
-$Definition['Error sending email. Please review the addresses and try again.'] = 'Chyba pri posielaní e-mailu. Prosím, skontrolujte adresy a skúste to znova.';
-$Definition['Even More Help?'] = 'Ešte viac pomoci?';
-$Definition['Event Log'] = 'Záznam o udalosti';
-$Definition['Event Name'] = 'Názov udalosti';
-$Definition['Every %s hour'] = 'Každú hodinu';
-$Definition['Every %s hours'] = 'Každých %s hodín';
-$Definition['Every %s minute'] = 'Každú minútu';
-$Definition['Every %s minutes'] = 'Každých %s minút';
-$Definition['Every %s second'] = 'Každú sekudndu';
-$Definition['Every %s seconds'] = 'Každých %s sekúnd';
-$Definition['Every 1 minute'] = 'Každú 1 minútu';
-$Definition['Every Page'] = 'Každá Stránka';
-$Definition['Everything is ok.'] = 'Všetko je v poriadku.';
-$Definition['Excerpt Length'] = 'Dĺžka úryvku';
-$Definition['Exclude Categories'] = 'Vylúčiť kategórie';
-$Definition['Exclude Default Interests'] = 'Vylúčiť úroky z omeškania';
-$Definition['Exclude these from the source'] = 'Vylúčte ich zo zdroja';
-$Definition['Exclude archived discussions from the discussions list'] = 'Vylúčiť archivované diskusie zo zoznamu diskusí';
-$Definition['Existing members send invitations to new members.'] = 'Existujúci užívatelia posielajú pozvánky novým.';
-$Definition['Exit Preview'] = 'Zatvoriť náhľad';
-$Definition['Exit'] = 'Odísť';
-$Definition['External Search'] = 'Externé vyhľadávanie';
-$Definition["External search replaces Vanilla’s out of the box search with a third party search provider of your choice."] = "Externé vyhľadávanie nahrádza Vanilla's out of box vyhľadávanie poskytovateľom vyhľadávania tretej strany podľa vášho výberu.";
+$Definition["Encourage your friends to join your new community!"] =
+    "Vyzvite vašich kamarátov aby sa pridali do vašej komunity!";
+$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
+    "Napíšte zoznam indexov oddelených čiarkou, začínajúci od 1.";
+$Definition["Enter numbers starting at 1."] = "Napíšte čísla začínajúce od 1.";
+$Definition["Enter the email address of the person you would like to invite:"] =
+    "Napíšte emailovú adresu osoby ktorú chcete pozvať:";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage"
+] = "Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage:"
+] = "Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku:";
+$Definition["Error sending email. Please review the addresses and try again."] =
+    "Chyba pri posielaní e-mailu. Prosím, skontrolujte adresy a skúste to znova.";
+$Definition["Even More Help?"] = "Ešte viac pomoci?";
+$Definition["Event Log"] = "Záznam o udalosti";
+$Definition["Event Name"] = "Názov udalosti";
+$Definition["Every %s hour"] = "Každú hodinu";
+$Definition["Every %s hours"] = "Každých %s hodín";
+$Definition["Every %s minute"] = "Každú minútu";
+$Definition["Every %s minutes"] = "Každých %s minút";
+$Definition["Every %s second"] = "Každú sekudndu";
+$Definition["Every %s seconds"] = "Každých %s sekúnd";
+$Definition["Every 1 minute"] = "Každú 1 minútu";
+$Definition["Every Page"] = "Každá Stránka";
+$Definition["Everything is ok."] = "Všetko je v poriadku.";
+$Definition["Excerpt Length"] = "Dĺžka úryvku";
+$Definition["Exclude Categories"] = "Vylúčiť kategórie";
+$Definition["Exclude Default Interests"] = "Vylúčiť úroky z omeškania";
+$Definition["Exclude these from the source"] = "Vylúčte ich zo zdroja";
+$Definition["Exclude archived discussions from the discussions list"] =
+    "Vylúčiť archivované diskusie zo zoznamu diskusí";
+$Definition["Existing members send invitations to new members."] =
+    "Existujúci užívatelia posielajú pozvánky novým.";
+$Definition["Exit Preview"] = "Zatvoriť náhľad";
+$Definition["Exit"] = "Odísť";
+$Definition["External Search"] = "Externé vyhľadávanie";
+$Definition[
+    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
+] =
+    "Externé vyhľadávanie nahrádza Vanilla's out of box vyhľadávanie poskytovateľom vyhľadávania tretej strany podľa vášho výberu.";
 
-$Definition['Facebook Connector'] = 'Facebook konektor';
-$Definition['Facebook Settings'] = 'Facebook nastavenia';
-$Definition['Failure'] = 'Chyba';
-$Definition['Fallback Image'] = 'Záložný obrázok';
-$Definition['False'] = 'Nepravdivé';
-$Definition['Favicon'] = 'Favicon';
-$Definition['FaviconBrowse'] = 'Hľadaj novú Favicon keď ju chceš zmeniť:';
-$Definition['FaviconDescription'] = "Favicon vašej stránky sa zobrazí v záhlaví prehliadača. Primerane sa zmenší.";
-$Definition['Feature is not configured'] = 'Funkcia nie je nakonfigurovaná';
-$Definition['Featured'] = "Odporúčané";
-$Definition['Featured Image'] = 'Odporúčaný obrázok';
-$Definition['FileUpload is currently OFF'] = 'FileUpload je momentálne vypnuté';
-$Definition['FileUpload is currently ON'] = 'FileUpload je momentálne zapnutý';
-$Definition['Filter'] = 'Filter';
-$Definition['Filter By'] = 'Triediť podľa';
-$Definition['Filter Results'] = 'Výsledky filtra';
-$Definition['Finished'] = 'Dokončené';
-$Definition['Fingerprint'] = 'Odtlačok prsta';
-$Definition['First Visit'] = 'Prvá návšteva';
-$Definition['Flagged By'] = 'Označené používateľom';
-$Definition['Flagged Content'] = 'Označený obsah';
-$Definition['Flood Control'] = 'Spamová kontrola';
-$Definition['Forbidden words'] = 'Zakázané slová';
-$Definition['Follow Up Delay'] = 'Následné oneskorenie';
-$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Ak chcete napríklad povoliť doménu yourdomain.com, www.yourdomain.com a help.yourdomain.com, pridajte *.yourdomain.com';
-$Definition['Force the forum to only be accessible through this url'] = 'Vynúti ovládací panel aby bol sprístupnený cez tento odkaz ';
-$Definition['Force your forum to be viewed through the Remote Url'] = 'Vynúti tvoje fórum aby mohlo byť zobrazené cez Remote Url';
-$Definition['Formats'] = 'Formáty';
-$Definition['Footer'] = 'Pätička';
-$Definition['Forum Data'] = 'Dáta fóra';
-$Definition['Forum Settings'] = 'Nastavenia Fóra';
-$Definition['Frequency'] = 'Frekvencia';
-$Definition['Friendly and Personal'] = 'Priateľský a osobný';
-$Definition['From Email Address'] = 'Z e-mailovej adresy';
-$Definition['From Name'] = 'Od Name';
-$Definition['Full post in email notifications'] = 'Celý príspevok v e-mailových upozorneniach';
+$Definition["Facebook Connector"] = "Facebook konektor";
+$Definition["Facebook Settings"] = "Facebook nastavenia";
+$Definition["Failure"] = "Chyba";
+$Definition["Fallback Image"] = "Záložný obrázok";
+$Definition["False"] = "Nepravdivé";
+$Definition["Favicon"] = "Favicon";
+$Definition["FaviconBrowse"] =
+    "Hľadaj novú Favicon keď ju chceš zmeniť:";
+$Definition["FaviconDescription"] =
+    "Favicon vašej stránky sa zobrazí v záhlaví prehliadača. Primerane sa zmenší.";
+$Definition["Feature is not configured"] = "Funkcia nie je nakonfigurovaná";
+$Definition["Featured"] = "Odporúčané";
+$Definition["Featured Image"] = "Odporúčaný obrázok";
+$Definition["FileUpload is currently OFF"] = "FileUpload je momentálne vypnuté";
+$Definition["FileUpload is currently ON"] = "FileUpload je momentálne zapnutý";
+$Definition["Filter"] = "Filter";
+$Definition["Filter By"] = "Triediť podľa";
+$Definition["Filter Results"] = "Výsledky filtra";
+$Definition["Finished"] = "Dokončené";
+$Definition["Fingerprint"] = "Odtlačok prsta";
+$Definition["First Visit"] = "Prvá návšteva";
+$Definition["Flagged By"] = "Označené používateľom";
+$Definition["Flagged Content"] = "Označený obsah";
+$Definition["Flood Control"] = "Spamová kontrola";
+$Definition["Forbidden words"] = "Zakázané slová";
+$Definition["Follow Up Delay"] = "Následné oneskorenie";
+$Definition[
+    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
+] =
+    "Ak chcete napríklad povoliť doménu yourdomain.com, www.yourdomain.com a help.yourdomain.com, pridajte *.yourdomain.com";
+$Definition["Force the forum to only be accessible through this url"] =
+    "Vynúti ovládací panel aby bol sprístupnený cez tento odkaz ";
+$Definition["Force your forum to be viewed through the Remote Url"] =
+    "Vynúti tvoje fórum aby mohlo byť zobrazené cez Remote Url";
+$Definition["Formats"] = "Formáty";
+$Definition["Footer"] = "Pätička";
+$Definition["Forum Data"] = "Dáta fóra";
+$Definition["Forum Settings"] = "Nastavenia Fóra";
+$Definition["Frequency"] = "Frekvencia";
+$Definition["Friendly and Personal"] = "Priateľský a osobný";
+$Definition["From Email Address"] = "Z e-mailovej adresy";
+$Definition["From Name"] = "Od Name";
+$Definition["Full post in email notifications"] =
+    "Celý príspevok v e-mailových upozorneniach";
 
-$Definition['Garden'] = 'Garden';
-$Definition['Garden.api.ssoIDPermission.description'] = 'Roly s týmto povolením budú môcť vo volaniach API v2 rozširovať identifikátory SSO.';
-$Definition['Gave badge to users.'] = 'Dal odznak používateľom.';
-$Definition['Generate'] = 'Generovať';
-$Definition['Generate Client ID and Secret'] = 'Generuje ID a utajenie klienta';
-$Definition['Generate import SQL only'] = 'Vygenerujte iba SQL importu';
-$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'Generovanie návrhov. Keď budú pripravené na kontrolu, dostanete upozornenie.';
-$Definition['Get More Applications'] = 'Získať viac aplikácií';
-$Definition['Get More Plugins'] = 'Získajte viac rozšírení';
-$Definition['Get More Themes'] = 'Získať viac tém';
-$Definition['Getting Started'] = 'Začíname';
-$Definition['Getting Started with Vanilla'] = 'Začíname s Vanilla';
-$Definition['give'] = 'dať';
-$Definition['Give a Badge'] = 'Dať odznak';
-$Definition['Given Indexes'] = 'Dané indexy';
-$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'Pozdravujem. Som váš asistent návrhov AI, ktorý vám pomôže nájsť relevantné články a príspevky na zodpovedanie vašich otázok. Neváhajte sa opýtať na akékoľvek otázky.';
-$Definition['guest'] = 'hosť';
-$Definition['Guest roles'] = 'Skontrolujte všetky role, ktoré by sa mali aplikovať na hostí.';
+$Definition["Garden"] = "Garden";
+$Definition["Garden.api.ssoIDPermission.description"] =
+    "Roly s týmto povolením budú môcť vo volaniach API v2 rozširovať identifikátory SSO.";
+$Definition["Gave badge to users."] = "Dal odznak používateľom.";
+$Definition["Generate"] = "Generovať";
+$Definition["Generate Client ID and Secret"] = "Generuje ID a utajenie klienta";
+$Definition["Generate import SQL only"] = "Vygenerujte iba SQL importu";
+$Definition[
+    "Generating Suggestions. You will be notified when they are ready for you to review."
+] =
+    "Generovanie návrhov. Keď budú pripravené na kontrolu, dostanete upozornenie.";
+$Definition["Get More Applications"] = "Získať viac aplikácií";
+$Definition["Get More Plugins"] = "Získajte viac rozšírení";
+$Definition["Get More Themes"] = "Získať viac tém";
+$Definition["Getting Started"] = "Začíname";
+$Definition["Getting Started with Vanilla"] = "Začíname s Vanilla";
+$Definition["give"] = "dať";
+$Definition["Give a Badge"] = "Dať odznak";
+$Definition["Given Indexes"] = "Dané indexy";
+$Definition[
+    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
+] =
+    "Pozdravujem. Som váš asistent návrhov AI, ktorý vám pomôže nájsť relevantné články a príspevky na zodpovedanie vašich otázok. Neváhajte sa opýtať na akékoľvek otázky.";
+$Definition["guest"] = "hosť";
+$Definition["Guest roles"] =
+    "Skontrolujte všetky role, ktoré by sa mali aplikovať na hostí.";
 
-$Definition['Hash Algorithm'] = 'Funkcia hash';
-$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} pridal účet pre {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} zmenil {ActivityUserID,your} profilovú fotografiu.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} schválil aplikácie pre {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
-$Definition['Heads up!'] = 'Hlavu hore!';
-$Definition['Heads Up!'] = 'Informácia!';
-$Definition['Header'] = 'Hlavička';
+$Definition["Hash Algorithm"] = "Funkcia hash";
+$Definition["HeadlineFormat.AddUser"] =
+    "{ActivityUserID,user} pridal účet pre {RegardingUserID,user}.";
+$Definition["HeadlineFormat.PictureChange"] =
+    "{RegardingUserID,You} zmenil {ActivityUserID,your} profilovú fotografiu.";
+$Definition["HeadlineFormat.RegistrationApproval"] =
+    "{ActivityUserID,user} schválil aplikácie pre {RegardingUserID,user}.";
+$Definition["HeadlineFormat.Status"] = "{ActivityUserID,user}";
+$Definition["HeadlineFormat.WallPost"] =
+    "{RegardingUserID,you} → {ActivityUserID,you}";
+$Definition["Heads up!"] = "Hlavu hore!";
+$Definition["Heads Up!"] = "Informácia!";
+$Definition["Header"] = "Hlavička";
 $Definition["Height"] = "Výška";
-$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!']  = 'Dobrý deň! Som váš asistent návrhov AI, ktorý vám pomôže nájsť najlepšie články a príspevky, ktoré odpovedia na vaše otázky. Neváhajte sa spýtať na čokoľvek, som tu, aby bolo vaše hľadanie zábavné a poučné!';
-$Definition['Help &amp; Tutorials'] = 'Pomoc a návody';
+$Definition[
+    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
+] =
+    "Dobrý deň! Som váš asistent návrhov AI, ktorý vám pomôže nájsť najlepšie články a príspevky, ktoré odpovedia na vaše otázky. Neváhajte sa spýtať na čokoľvek, som tu, aby bolo vaše hľadanie zábavné a poučné!";
+$Definition["Help &amp; Tutorials"] = "Pomoc a návody";
 $Definition['Here\'s how to get started:'] = 'Ako začať:';
-$Definition['Hidden for everything!'] = 'Skryté pre všetko!';
-$Definition['Hidden for mobile'] = 'Skryté pre mobilné zariadenia';
-$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'Skryť diskusie z nedávnych diskusií a miniaplikácií.';
-$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'Skryť príspevky zo stránky nedávnych príspevkov a miniaplikácií.';
-$Definition['Hide Pocket Locations'] = 'Skryť lokality vrecka';
-$Definition['Hide signatures for guests'] = 'Skryť podpisy pre hostí';
-$Definition['Hide signatures on embedded comments'] = 'Skryť podpisy embedovaných komentárov';
-$Definition['Hide Suggestions'] = 'Skryť návrhy';
-$Definition['History'] = 'História';
-$Definition['Homepage'] = 'Domovská stránka';
-$Definition['Homepage Title'] = 'Názov domovskej stránky';
-$Definition['How the content is going to be filtered.'] = 'Ako bude obsah filtrovaný.';
-$Definition['How to use themes'] = 'Ako používať témy';
-$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'To však prichádza so zvýšenou zodpovednosťou za zaistenie bezpečnosti vášho webu.';
-$Definition['Html'] = 'HTML';
-$Definition['HTML Emails'] = 'HTML e-maily';
-$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'Nastavenia prísneho zabezpečenia prenosu HTTP (HSTS)';
-$Definition['Hot (score + activity)'] = 'Horúce (skóre + aktivita)';
+$Definition["Hidden for everything!"] = "Skryté pre všetko!";
+$Definition["Hidden for mobile"] = "Skryté pre mobilné zariadenia";
+$Definition["Hide discussions from Recent Discussions and Widgets."] =
+    "Skryť diskusie z nedávnych diskusií a miniaplikácií.";
+$Definition["Hide posts from Recent Posts Page and Widgets."] =
+    "Skryť príspevky zo stránky nedávnych príspevkov a miniaplikácií.";
+$Definition["Hide Pocket Locations"] = "Skryť lokality vrecka";
+$Definition["Hide signatures for guests"] = "Skryť podpisy pre hostí";
+$Definition["Hide signatures on embedded comments"] =
+    "Skryť podpisy embedovaných komentárov";
+$Definition["Hide Suggestions"] = "Skryť návrhy";
+$Definition["History"] = "História";
+$Definition["Homepage"] = "Domovská stránka";
+$Definition["Homepage Title"] = "Názov domovskej stránky";
+$Definition["How the content is going to be filtered."] =
+    "Ako bude obsah filtrovaný.";
+$Definition["How to use themes"] = "Ako používať témy";
+$Definition[
+    "However, this comes with increased responsibility to ensure the security of your site."
+] =
+    "To však prichádza so zvýšenou zodpovednosťou za zaistenie bezpečnosti vášho webu.";
+$Definition["Html"] = "HTML";
+$Definition["HTML Emails"] = "HTML e-maily";
+$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
+    "Nastavenia prísneho zabezpečenia prenosu HTTP (HSTS)";
+$Definition["Hot (score + activity)"] = "Horúce (skóre + aktivita)";
 
-$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Ak je povolená, celý obsah príspevkov sa odošle používateľom prostredníctvom e-mailových upozornení.';
-$Definition['If left empty, Email Logo is used.'] = 'Ak zostane prázdne, použije sa logo e-mailu.';
-$Definition["If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."] = "Ak máte v časti „Odkaz na podmienky používania“ vyššie odkaz na interný dokument, „Text podmienok používania“ bude ignorovaný. Ak chcete tento text použiť, odstráňte odkaz.";
-$Definition['Inbox Page'] = 'Stránka doručenej pošty';
-$Definition['Include Child Categories'] = 'Zahrnúť podradené kategórie';
-$Definition['Include full post in email notifications'] = 'V upozorneniach e-mailom zahrnúť celý príspevok';
-$Definition['Include Featured Images'] = 'Zahrnúť odporúčané obrázky';
-$Definition['Include featured images with posts in email digest'] = 'Zahrňte odporúčané obrázky s príspevkami do e-mailového súhrnu';
-$Definition['Include internal profile fields'] = 'Zahrňte interné polia profilu';
-$Definition['Include private profile fields'] = 'Zahrňte polia súkromného profilu';
-$Definition['Include Subcategories'] = 'Zahrnúť podkategórie';
-$Definition['Include Subdomains'] = 'Zahrnúť subdomény';
-$Definition['Increased Security Risks:'] = 'Zvýšené bezpečnostné riziká:';
-$Definition['Indexes'] = 'Indexy';
-$Definition['Information'] = 'Informácie';
-$Definition['Install Vanilla without a .htaccess file.'] = 'Nainštalujte Vanilla bez súboru .htaccess.';
-$Definition['Integrate Banner Image'] = 'Integrujte obrázok bannera';
-$Definition['Interest Name'] = 'Názov záujmu';
-$Definition['Interests & Suggested Content'] = 'Záujmy a navrhovaný obsah';
-$Definition['Intermediate'] = 'Stredne pokročilý';
-$Definition['Internaltionalization & Localization'] = 'Internacionalizácia a lokalizácia';
-$Definition['Introduction'] = 'Úvod';
-$Definition['Introducing Vanilla Reactions and Badges'] = 'Predstavujeme Vanilla reakcie a odznaky';
-$Definition['Invalid category for deletion.'] = 'Neplatná kategória na odstránenie.';
-$Definition['Invalid entry.'] = 'Neplatný záznam.';
-$Definition['Invisibility Cloak Settings'] = 'Nastavenia plášťa neviditeľnosti';
-$Definition['Invitation Code'] = 'Kód pozvánky';
-$Definition['InvitationMessage'] = 'Ahojte kamoši!
+$Definition[
+    "If enabled, the full content of posts will be sent in email notifications to users."
+] =
+    "Ak je povolená, celý obsah príspevkov sa odošle používateľom prostredníctvom e-mailových upozornení.";
+$Definition["If left empty, Email Logo is used."] =
+    "Ak zostane prázdne, použije sa logo e-mailu.";
+$Definition[
+    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
+] =
+    "Ak máte v časti „Odkaz na podmienky používania“ vyššie odkaz na interný dokument, „Text podmienok používania“ bude ignorovaný. Ak chcete tento text použiť, odstráňte odkaz.";
+$Definition["Inbox Page"] = "Stránka doručenej pošty";
+$Definition["Include Child Categories"] = "Zahrnúť podradené kategórie";
+$Definition["Include full post in email notifications"] =
+    "V upozorneniach e-mailom zahrnúť celý príspevok";
+$Definition["Include Featured Images"] = "Zahrnúť odporúčané obrázky";
+$Definition["Include featured images with posts in email digest"] =
+    "Zahrňte odporúčané obrázky s príspevkami do e-mailového súhrnu";
+$Definition["Include internal profile fields"] =
+    "Zahrňte interné polia profilu";
+$Definition["Include private profile fields"] =
+    "Zahrňte polia súkromného profilu";
+$Definition["Include Subcategories"] = "Zahrnúť podkategórie";
+$Definition["Include Subdomains"] = "Zahrnúť subdomény";
+$Definition["Increased Security Risks:"] = "Zvýšené bezpečnostné riziká:";
+$Definition["Indexes"] = "Indexy";
+$Definition["Information"] = "Informácie";
+$Definition["Install Vanilla without a .htaccess file."] =
+    "Nainštalujte Vanilla bez súboru .htaccess.";
+$Definition["Integrate Banner Image"] = "Integrujte obrázok bannera";
+$Definition["Interest Name"] = "Názov záujmu";
+$Definition["Interests & Suggested Content"] = "Záujmy a navrhovaný obsah";
+$Definition["Intermediate"] = "Stredne pokročilý";
+$Definition["Internaltionalization & Localization"] =
+    "Internacionalizácia a lokalizácia";
+$Definition["Introduction"] = "Úvod";
+$Definition["Introducing Vanilla Reactions and Badges"] =
+    "Predstavujeme Vanilla reakcie a odznaky";
+$Definition["Invalid category for deletion."] =
+    "Neplatná kategória na odstránenie.";
+$Definition["Invalid entry."] = "Neplatný záznam.";
+$Definition["Invisibility Cloak Settings"] = "Nastavenia plášťa neviditeľnosti";
+$Definition["Invitation Code"] = "Kód pozvánky";
+$Definition["InvitationMessage"] = 'Ahojte kamoši!
 
 Pozrite si nové fórum komunity, ktoré som práve vytvoril. Je to skvelé miesto, kde môžeme medzi sebou chatovať online.
 
 Ak sa chcete prihlásiť, kliknite na odkaz nižšie.
 ';
-$Definition['Invitations per month'] = 'pozvánky za mesiac';
-$Definition['Invitations will expire'] = 'Pozvánky vypršia';
-$Definition['Invited by'] = 'Pozval';
-$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'Zdá sa, že ste svoj príspevok upravili. <0/> alebo <1/>.';
+$Definition["Invitations per month"] = "pozvánky za mesiac";
+$Definition["Invitations will expire"] = "Pozvánky vypršia";
+$Definition["Invited by"] = "Pozval";
+$Definition["It looks like you edited your post. <0/> or <1/>."] =
+    "Zdá sa, že ste svoj príspevok upravili. <0/> alebo <1/>.";
 
 $Definition["JavaScript"] = "JavaScript";
-$Definition['jsConnect Client Libraries'] = 'jsConnect klientské knižnice';
-$Definition['jsConnect Documentation'] = 'Dokumentácia jsConnect';
-$Definition['JS'] = 'JS';
+$Definition["jsConnect Client Libraries"] = "jsConnect klientské knižnice";
+$Definition["jsConnect Documentation"] = "Dokumentácia jsConnect";
+$Definition["JS"] = "JS";
 
-$Definition['Key Type'] = 'Typ kľúča';
-$Definition['Key Value'] = 'Kľúčová hodnota';
-$Definition['Keyword Blocker'] = 'Blokovanie kľúčových slov';
+$Definition["Key Type"] = "Typ kľúča";
+$Definition["Key Value"] = "Kľúčová hodnota";
+$Definition["Keyword Blocker"] = "Blokovanie kľúčových slov";
 
-$Definition['Label'] = 'Štítok';
-$Definition['Label is required'] = 'Štítok je povinný';
-$Definition['Label this Revision'] = 'Označiť túto revíziu';
-$Definition['Language Style'] = 'Jazykový štýl';
-$Definition['Large images will be scaled down.'] = 'Veľké obrázky budú zmenšené na maximálnu šírku  %spx a výšku  %spx. ';
-$Definition['Last Visit'] = 'Posledná návšteva';
-$Definition['Last Day'] = 'Posledný deň';
-$Definition['Last Week'] = 'Minulý týždeň';
-$Definition['Last Month'] = 'Minulý mesiac';
+$Definition["Label"] = "Štítok";
+$Definition["Label is required"] = "Štítok je povinný";
+$Definition["Label this Revision"] = "Označiť túto revíziu";
+$Definition["Language Style"] = "Jazykový štýl";
+$Definition["Large images will be scaled down."] =
+    "Veľké obrázky budú zmenšené na maximálnu šírku  %spx a výšku  %spx. ";
+$Definition["Last Visit"] = "Posledná návšteva";
+$Definition["Last Day"] = "Posledný deň";
+$Definition["Last Week"] = "Minulý týždeň";
+$Definition["Last Month"] = "Minulý mesiac";
 $Definition['Layman\'s Terms'] = 'Podmienky pre laikov';
-$Definition['Layout'] = 'Usporiadanie';
-$Definition['Learn more'] = 'Uč sa viac';
-$Definition['Learn more about HSTS at %s.'] = 'Dozveďte sa viac o HSTS na %s.';
-$Definition['Legacy Recent Posts Layout'] = 'Rozloženie starších príspevkov';
+$Definition["Layout"] = "Usporiadanie";
+$Definition["Learn more"] = "Uč sa viac";
+$Definition["Learn more about HSTS at %s."] = "Dozveďte sa viac o HSTS na %s.";
+$Definition["Legacy Recent Posts Layout"] = "Rozloženie starších príspevkov";
 
-
-$Definition['Level'] = 'Úroveň';
-$Definition['Level of Technical Language'] = 'Úroveň technického jazyka';
-$Definition['Limits: 60 characters, no breaks.'] = 'Limity: 60 znakov, bez prestávok.';
-$Definition['Link Color'] = 'Farba odkazu';
-$Definition['Likes'] = 'Páči sa';
-$Definition['Limit the pocket to one or more roles or permissions.'] = 'Obmedziť vrecko na 1 alebo viac rolí alebo povolení.';
-$Definition['Limit'] = 'Limit';
-$Definition['List of discussion IDs to delete.'] = 'Zoznam ID diskusií na odstránenie.';
-$Definition['Locale Key (Folder)'] = 'Kľúč miesta (priečinok)';
-$Definition['Locale Name'] = 'Názov miestneho nastavenia';
-$Definition['Locales'] = 'Miesta';
-$Definition['Location'] = 'Umiestnenie';
-$Definition['Locations'] = 'Lokality';
+$Definition["Level"] = "Úroveň";
+$Definition["Level of Technical Language"] = "Úroveň technického jazyka";
+$Definition["Limits: 60 characters, no breaks."] =
+    "Limity: 60 znakov, bez prestávok.";
+$Definition["Link Color"] = "Farba odkazu";
+$Definition["Likes"] = "Páči sa";
+$Definition["Limit the pocket to one or more roles or permissions."] =
+    "Obmedziť vrecko na 1 alebo viac rolí alebo povolení.";
+$Definition["Limit"] = "Limit";
+$Definition["List of discussion IDs to delete."] =
+    "Zoznam ID diskusií na odstránenie.";
+$Definition["Locale Key (Folder)"] = "Kľúč miesta (priečinok)";
+$Definition["Locale Name"] = "Názov miestneho nastavenia";
+$Definition["Locales"] = "Miesta";
+$Definition["Location"] = "Umiestnenie";
+$Definition["Locations"] = "Lokality";
 $Definition["Logo"] = "Logo";
-$Definition['LogoBrowse'] = 'Hľadať nové logo pre banner, ak ho chcete zmeniť:';
+$Definition["LogoBrowse"] =
+    "Hľadať nové logo pre banner, ak ho chcete zmeniť:";
 
-$Definition['Maintenance Mode'] = 'Režim údržby';
-$Definition['Make sure you select at least one item before continuing.'] = 'Pred tým než budete pokračovať, vyberte aspoň 1 položku.';
-$Definition['Add your site to trusted domains.'] = 'Uistite sa, že je váš web pridaný do %s, ak je povolené vkladanie.';
-$Definition['Manage'] = 'Spravovať';
-$Definition['Manage Applicants'] = 'Spravovať žiadateľov';
-$Definition['Manage Applications'] = 'Spravovať aplikácie';
-$Definition['Manage Badges'] = 'Spravovať odznaky';
-$Definition['Manage Badge Requests'] = 'Spravovať požiadavky na odznaky';
-$Definition['Manage Categories'] = 'Spravovať kategórie';
-$Definition['Manage Groups'] = 'Spravovať skupiny';
-$Definition['Manage Messages'] = 'Spravovať správy';
-$Definition['Manage Plugins'] = 'Spravovať rozšírenia';
-$Definition['Manage Roles & Permissions'] = 'Spravovať role a povolenia';
-$Definition['Manage Suggested Answer Sources'] = 'Spravujte zdroje navrhovaných odpovedí';
-$Definition['Manage Spam'] = 'Spravovať spam';
-$Definition['Manage Themes'] = 'Spravovať témy';
-$Definition['Manage Users'] = 'Spravovať používateľov';
-$Definition['Managing Categories'] = 'Spravovanie kategórií';
-$Definition['Manual'] = 'Manuálne';
-$Definition['Mark All Suggested Answers as Accepted'] = 'Označiť všetky navrhované odpovede ako prijaté';
-$Definition['Max %s length'] = 'Maximálna dĺžka %s';
-$Definition['Max Age'] = 'Maximálny vek';
-$Definition['Max Avatar Height'] = 'Maximálna výška avatara';
-$Definition['Max Avatar Width'] = 'Maximálna šírka avatara';
-$Definition['Max Comment Length'] = 'Maximálna dĺžka komentára';
-$Definition['Max height of %s'] = 'Maximálna výška %s';
-$Definition['Max height of %s in pixels'] = 'Maximálna výška %s v pixeloch';
-$Definition['Maximum Category Display Depth'] = 'Maixmálna hĺbka zobrazenia kategórie';
-$Definition['Max number of %s'] = 'Maximálny počet %s';
-$Definition['Max number of images in signature'] = 'Maximálny počet obrázkov v podpise';
-$Definition['Maximum number of posts to be included in the email digest.'] = 'Maximálny počet príspevkov, ktoré sa majú zahrnúť do súhrnu e-mailu.';
-$Definition['Max Post Length'] = 'Maximálna dĺžka príspevku';
-$Definition['Max signature length'] = 'Maximálna dĺžka podpisu';
-$Definition['member'] = 'člen';
-$Definition['Member roles'] = 'Skontrolujte všetky role, ktoré by sa mali aplikovať na nových/schválených používateľov.';
-$Definition['Membership'] = 'Členstvo';
-$Definition['Message'] = 'Správa';
-$Definition['Message ID'] = 'ID správy';
-$Definition['Messages'] = 'Správy';
-$Definition['Meta Options'] = 'Meta možnosti';
-$Definition['Method'] = 'Metóda';
-$Definition['Min Post Length'] = 'Minimálna dĺžka príspevku';
-$Definition['minute(s)'] = 'minúta/-y';
-$Definition['Mixed Layout'] = 'Zmiešané usporiadanie';
-$Definition['Mobile Address Bar Color'] = 'Farba panela s mobilnou adresou';
-$Definition['Mobile Banner Logo'] = 'Logo mobilného bannera';
-$Definition['Mobile Themes'] = 'Mobilné témy';
-$Definition['moderator'] = 'moderátor';
-$Definition['Moderators have permission to edit most content.'] = 'Moderátori majú povolenie upravovať väčšinu obsahu.';
-$Definition['Modern Layout'] = 'Moderné usporiadanie';
-$Definition['Modern non-table-based layout'] = 'Moderné netabuľkové rozloženie';
-$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'Zložitejší jazyk a môže predstavovať niektoré výrazy špecifické pre dané odvetvie, ale stále je pre väčšinu ľudí zrozumiteľný.';
-$Definition['More information'] = 'Viac informácií';
-$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'Technickejší jazyk a výrazy špecifické pre dané odvetvie – predpokladá vyššiu úroveň technológie porozumenia/oboznámenia sa s predmetom.';
-$Definition['more than %s deep'] = 'viac ako %s do hĺbky';
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Väčšina pocketov by nemala byť zobrazená na pracovnom paneli. 
+$Definition["Maintenance Mode"] = "Režim údržby";
+$Definition["Make sure you select at least one item before continuing."] =
+    "Pred tým než budete pokračovať, vyberte aspoň 1 položku.";
+$Definition["Add your site to trusted domains."] =
+    "Uistite sa, že je váš web pridaný do %s, ak je povolené vkladanie.";
+$Definition["Manage"] = "Spravovať";
+$Definition["Manage Applicants"] = "Spravovať žiadateľov";
+$Definition["Manage Applications"] = "Spravovať aplikácie";
+$Definition["Manage Badges"] = "Spravovať odznaky";
+$Definition["Manage Badge Requests"] = "Spravovať požiadavky na odznaky";
+$Definition["Manage Categories"] = "Spravovať kategórie";
+$Definition["Manage Groups"] = "Spravovať skupiny";
+$Definition["Manage Messages"] = "Spravovať správy";
+$Definition["Manage Plugins"] = "Spravovať rozšírenia";
+$Definition["Manage Roles & Permissions"] = "Spravovať role a povolenia";
+$Definition["Manage Suggested Answer Sources"] =
+    "Spravujte zdroje navrhovaných odpovedí";
+$Definition["Manage Spam"] = "Spravovať spam";
+$Definition["Manage Themes"] = "Spravovať témy";
+$Definition["Manage Users"] = "Spravovať používateľov";
+$Definition["Managing Categories"] = "Spravovanie kategórií";
+$Definition["Manual"] = "Manuálne";
+$Definition["Mark All Suggested Answers as Accepted"] =
+    "Označiť všetky navrhované odpovede ako prijaté";
+$Definition["Max %s length"] = "Maximálna dĺžka %s";
+$Definition["Max Age"] = "Maximálny vek";
+$Definition["Max Avatar Height"] = "Maximálna výška avatara";
+$Definition["Max Avatar Width"] = "Maximálna šírka avatara";
+$Definition["Max Comment Length"] = "Maximálna dĺžka komentára";
+$Definition["Max height of %s"] = "Maximálna výška %s";
+$Definition["Max height of %s in pixels"] = "Maximálna výška %s v pixeloch";
+$Definition["Maximum Category Display Depth"] =
+    "Maixmálna hĺbka zobrazenia kategórie";
+$Definition["Max number of %s"] = "Maximálny počet %s";
+$Definition["Max number of images in signature"] =
+    "Maximálny počet obrázkov v podpise";
+$Definition["Maximum number of posts to be included in the email digest."] =
+    "Maximálny počet príspevkov, ktoré sa majú zahrnúť do súhrnu e-mailu.";
+$Definition["Max Post Length"] = "Maximálna dĺžka príspevku";
+$Definition["Max signature length"] = "Maximálna dĺžka podpisu";
+$Definition["member"] = "člen";
+$Definition["Member roles"] =
+    "Skontrolujte všetky role, ktoré by sa mali aplikovať na nových/schválených používateľov.";
+$Definition["Membership"] = "Členstvo";
+$Definition["Message"] = "Správa";
+$Definition["Message ID"] = "ID správy";
+$Definition["Messages"] = "Správy";
+$Definition["Meta Options"] = "Meta možnosti";
+$Definition["Method"] = "Metóda";
+$Definition["Min Post Length"] = "Minimálna dĺžka príspevku";
+$Definition["minute(s)"] = "minúta/-y";
+$Definition["Mixed Layout"] = "Zmiešané usporiadanie";
+$Definition["Mobile Address Bar Color"] = "Farba panela s mobilnou adresou";
+$Definition["Mobile Banner Logo"] = "Logo mobilného bannera";
+$Definition["Mobile Themes"] = "Mobilné témy";
+$Definition["moderator"] = "moderátor";
+$Definition["Moderators have permission to edit most content."] =
+    "Moderátori majú povolenie upravovať väčšinu obsahu.";
+$Definition["Modern Layout"] = "Moderné usporiadanie";
+$Definition["Modern non-table-based layout"] = "Moderné netabuľkové rozloženie";
+$Definition[
+    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
+] =
+    "Zložitejší jazyk a môže predstavovať niektoré výrazy špecifické pre dané odvetvie, ale stále je pre väčšinu ľudí zrozumiteľný.";
+$Definition["More information"] = "Viac informácií";
+$Definition[
+    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
+] =
+    "Technickejší jazyk a výrazy špecifické pre dané odvetvie – predpokladá vyššiu úroveň technológie porozumenia/oboznámenia sa s predmetom.";
+$Definition["more than %s deep"] = "viac ako %s do hĺbky";
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
+    'Väčšina pocketov by nemala byť zobrazená na pracovnom paneli. 
 ';
-$Definition['Move discussions in this category to a replacement category.'] = 'Presuňte diskusie tejto kategórie do náhradnej kategórie.';
-$Definition['My Invitations'] = 'Moje pozvánky';
+$Definition["Move discussions in this category to a replacement category."] =
+    "Presuňte diskusie tejto kategórie do náhradnej kategórie.";
+$Definition["My Invitations"] = "Moje pozvánky";
 
-$Definition['Name of Interest'] = 'Názov záujmu';
-$Definition['Need More Help?'] = 'Potrebujete ďalšiu pomoc?';
-$Definition['never'] = 'nikdy';
-$Definition['Never - Users Must Refresh Page'] = 'Noví používatelia musia obnoviť stránku.';
-$Definition['Never display on mobile browsers.'] = 'Nikdy nezobrazovať na mobilných zariadeniach.';
-$Definition['NewApplicantEmail'] = 'Nový žiadateľ:';
-$Definition['New comments in the last day'] = 'Nové komentáre za posledný deň';
-$Definition['New comments in the last week'] = 'Nové komentáre za minulý týždeň';
-$Definition['New conversations in the last day'] = 'Nové konverzácie za posledný deň.';
-$Definition['New conversations in the last week'] = 'Nové konverzácie za posledný týždeň';
-$Definition['New discussions in the last day'] = 'Nové diskusie za posledný deň';
-$Definition['New discussions in the last week'] = 'Nové diskusie za minulý týždeň';
-$Definition['New messages in the last day'] = 'Nové správy za posledný deň.';
-$Definition['New messages in the last week'] = 'Nové správy za posledný týždeň';
-$Definition['New User Management'] = 'Nová správa používateľov';
-$Definition['New users are only registered through SSO plugins.'] = 'Noví používatelia sú registrovaní iba cez SSO.';
-$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'Nových používateľov kontroluje a schvaľuje správca (to ste vy!).';
-$Definition['New users fill out a simple form and are granted access immediately.'] = 'Noví používatelia vyplnia jednoduchý formulár a okamžite im bude udelený prístup.';
-$Definition['New users in the last day'] = 'Noví používatelia za posledný deň';
-$Definition['New users in the last week'] = 'Noví používatelia za minulý týždeň';
-$Definition['No Ban Rules Found'] = 'Neboli nájdené žiadne pravidlá zákazov';
-$Definition['No Change'] = 'Žiadna zmena';
-$Definition['No drafts.'] = 'žiadne koncepty';
-$Definition['No further suggestions.'] = 'Žiadne ďalšie návrhy.';
-$Definition['No item options are available for Link display type.'] = 'Pre typ zobrazenia prepojenia nie sú dostupné žiadne možnosti položiek.';
-$Definition['No Items Selected'] = 'Nie sú vybrané žiadne položky';
-$Definition['No results for %s.'] = 'Žiadne výsledky pre <b>%s</b>.';
-$Definition['Not Dismissable'] = 'Nie je možné zamietnuť';
-$Definition['Notes'] = 'Poznámky';
-$Definition['Notifications will appear here.'] = 'Tu sa objavia upozornenia.';
-$Definition['NotifyApplicant'] = 'Upozorniť ma, keď sa niekto uchádza o členstvo.';
-$Definition['Notify me when people comment on a discussion.'] = 'UpozorniŤ ma, keď ľudia okomenutjú diskusiu.';
-$Definition['Notify me when my questions have AI Suggested Answers'] = 'Upozorniť ma, keď moje otázky obsahujú odpovede navrhnuté AI';
-$Definition['Notify me when people start new discussions.'] = 'Upozorniť, keď osoby začnú nové diskusie.';
-$Definition['Not Spam'] = 'Nie je spam';
-$Definition['Number of %s listed per page.'] = 'Počet %s uvedených na stránke.';
-$Definition['Number of blocked registrations'] = 'Počet blokovaných registrácií';
-$Definition['Number of days before a follow-up email is automatically sent.'] = 'Počet dní pred automatickým odoslaním následného e-mailu.';
-$Definition['Number input must be between'] = 'Zadanie čísla musí byť medzi';
-$Definition['Number input must be between 1 and 100.'] = 'Zadávanie čísel musí byť medzi 1 a 100.';
-$Definition['Number of posts'] = 'Počet príspevkov';
-$Definition['Number of posts from groups'] = 'Počet príspevkov zo skupín';
+$Definition["Name of Interest"] = "Názov záujmu";
+$Definition["Need More Help?"] = "Potrebujete ďalšiu pomoc?";
+$Definition["never"] = "nikdy";
+$Definition["Never - Users Must Refresh Page"] =
+    "Noví používatelia musia obnoviť stránku.";
+$Definition["Never display on mobile browsers."] =
+    "Nikdy nezobrazovať na mobilných zariadeniach.";
+$Definition["NewApplicantEmail"] = "Nový žiadateľ:";
+$Definition["New comments in the last day"] = "Nové komentáre za posledný deň";
+$Definition["New comments in the last week"] = "Nové komentáre za minulý týždeň";
+$Definition["New conversations in the last day"] =
+    "Nové konverzácie za posledný deň.";
+$Definition["New conversations in the last week"] =
+    "Nové konverzácie za posledný týždeň";
+$Definition["New discussions in the last day"] =
+    "Nové diskusie za posledný deň";
+$Definition["New discussions in the last week"] =
+    "Nové diskusie za minulý týždeň";
+$Definition["New messages in the last day"] = "Nové správy za posledný deň.";
+$Definition["New messages in the last week"] = "Nové správy za posledný týždeň";
+$Definition["New User Management"] = "Nová správa používateľov";
+$Definition["New users are only registered through SSO plugins."] =
+    "Noví používatelia sú registrovaní iba cez SSO.";
+$Definition[
+    'New users are reviewed and approved by an administrator (that\'s you!).'
+] = 'Nových používateľov kontroluje a schvaľuje správca (to ste vy!).';
+$Definition[
+    "New users fill out a simple form and are granted access immediately."
+] = "Noví používatelia vyplnia jednoduchý formulár a okamžite im bude udelený prístup.";
+$Definition["New users in the last day"] = "Noví používatelia za posledný deň";
+$Definition["New users in the last week"] = "Noví používatelia za minulý týždeň";
+$Definition["No Ban Rules Found"] = "Neboli nájdené žiadne pravidlá zákazov";
+$Definition["No Change"] = "Žiadna zmena";
+$Definition["No drafts."] = "žiadne koncepty";
+$Definition["No further suggestions."] = "Žiadne ďalšie návrhy.";
+$Definition["No item options are available for Link display type."] =
+    "Pre typ zobrazenia prepojenia nie sú dostupné žiadne možnosti položiek.";
+$Definition["No Items Selected"] = "Nie sú vybrané žiadne položky";
+$Definition["No results for %s."] = "Žiadne výsledky pre <b>%s</b>.";
+$Definition["Not Dismissable"] = "Nie je možné zamietnuť";
+$Definition["Notes"] = "Poznámky";
+$Definition["Notifications will appear here."] =
+    "Tu sa objavia upozornenia.";
+$Definition["NotifyApplicant"] =
+    "Upozorniť ma, keď sa niekto uchádza o členstvo.";
+$Definition["Notify me when people comment on a discussion."] =
+    "UpozorniŤ ma, keď ľudia okomenutjú diskusiu.";
+$Definition["Notify me when my questions have AI Suggested Answers"] =
+    "Upozorniť ma, keď moje otázky obsahujú odpovede navrhnuté AI";
+$Definition["Notify me when people start new discussions."] =
+    "Upozorniť, keď osoby začnú nové diskusie.";
+$Definition["Not Spam"] = "Nie je spam";
+$Definition["Number of %s listed per page."] = "Počet %s uvedených na stránke.";
+$Definition["Number of blocked registrations"] =
+    "Počet blokovaných registrácií";
+$Definition["Number of days before a follow-up email is automatically sent."] =
+    "Počet dní pred automatickým odoslaním následného e-mailu.";
+$Definition["Number input must be between"] = "Zadanie čísla musí byť medzi";
+$Definition["Number input must be between 1 and 100."] =
+    "Zadávanie čísel musí byť medzi 1 a 100.";
+$Definition["Number of posts"] = "Počet príspevkov";
+$Definition["Number of posts from groups"] = "Počet príspevkov zo skupín";
 
-$Definition['On'] = 'Zapnuté';
-$Definition['Only Allow Each User To Post'] = 'Iba povoliť uverejňovanie príspevkov každému používateľovi';
-$Definition['Only display on mobile browsers.'] = 'Zobraziť iba v mobilných prehliadačoch.';
-$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'Dostupné sú iba polia s jedným začiarkavacím políčkom, rozbaľovacím zoznamom s jedným výberom, rozbaľovacím zoznamom s viacerými výbermi alebo číselným rozbaľovacím zoznamom. Po výbere polí sa zobrazia nižšie, takže si môžete vybrať konkrétne odpovede pre každé pole profilu.';
-$Definition['Only Show Followed Categories'] = 'Zobraziť iba sledované kategórie';
-$Definition['Only visible to users with roles with permission.'] = 'Viditeľné len pre používateľov s úlohou, ktorá má povolenie';
-$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'Otvorené prípady sa zobrazia iba vtedy, ak má používateľ platné pripojenie k službe Salesforce.';
-$Definition['Operation By'] = 'Od';
-$Definition['Organization'] = 'Organizácia';
-$Definition['Organize'] = 'Usporiadať';
-$Definition['Organize Categories'] = 'Zoradiť kategórie';
-$Definition['Original Version'] = 'Originálna verzia';
-$Definition['Or select an image on your computer (2mb max)'] = 'Alebo zvoľte obrázok z vášho počítača (max. 2 MB)';
-$Definition['Or Spamblock For'] = 'Alebo spam blokovanie pre';
-$Definition['Other Themes'] = 'Ďalšie témy';
-$Definition['Other Tutorials'] = 'Ďalšie návody';
-$Definition['Outgoing Email'] = 'Odchádzajúci email';
-$Definition['Outgoing Emails'] = 'Odchádzajúce e-maily';
-$Definition['Outgoing Email Address'] = 'E-mailová adresa príjemcu';
+$Definition["On"] = "Zapnuté";
+$Definition["Only Allow Each User To Post"] = "Iba povoliť uverejňovanie príspevkov každému používateľovi";
+$Definition["Only display on mobile browsers."] =
+    "Zobraziť iba v mobilných prehliadačoch.";
+$Definition[
+    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
+] =
+    'Dostupné sú iba polia s jedným začiarkavacím políčkom, rozbaľovacím zoznamom s jedným výberom, rozbaľovacím zoznamom s viacerými výbermi alebo číselným rozbaľovacím zoznamom. Po výbere polí sa zobrazia nižšie, takže si môžete vybrať konkrétne odpovede pre každé pole profilu.';
+$Definition["Only Show Followed Categories"] = "Zobraziť iba sledované kategórie";
+$Definition["Only visible to users with roles with permission."] =
+    "Viditeľné len pre používateľov s úlohou, ktorá má povolenie";
+$Definition[
+    "Open cases will only display if the user has a valid Salesforce connection."
+] =
+    "Otvorené prípady sa zobrazia iba vtedy, ak má používateľ platné pripojenie k službe Salesforce.";
+$Definition["Operation By"] = "Od";
+$Definition["Organization"] = "Organizácia";
+$Definition["Organize"] = "Usporiadať";
+$Definition["Organize Categories"] = "Zoradiť kategórie";
+$Definition["Original Version"] = "Originálna verzia";
+$Definition["Or select an image on your computer (2mb max)"] =
+    "Alebo zvoľte obrázok z vášho počítača (max. 2 MB)";
+$Definition["Or Spamblock For"] = "Alebo spam blokovanie pre";
+$Definition["Other Themes"] = "Ďalšie témy";
+$Definition["Other Tutorials"] = "Ďalšie návody";
+$Definition["Outgoing Email"] = "Odchádzajúci email";
+$Definition["Outgoing Emails"] = "Odchádzajúce e-maily";
+$Definition["Outgoing Email Address"] = "E-mailová adresa príjemcu";
 
-$Definition['Page Color'] = 'Farba stránky';
-$Definition['Page Views'] = 'Zobrazenia stránky';
-$Definition['Pageview ratio representing a deflected case'] = 'Pomer zobrazení stránky predstavujúci odklonenú veľkosť písmen';
-$Definition['Passwords'] = 'Heslá';
-$Definition['Password Options'] = 'Možnosti hesla';
-$Definition['Password Minimum Length'] = 'Minimálna dĺžka hesla';
-$Definition['Past Events'] = 'Predošlé udalosti';
-$Definition['Permission'] = 'Povolenie';
-$Definition['Permission.Category'] = 'Kategória';
-$Definition['Permissions'] = 'Oprávnenia';
-$Definition['permissions.everyone'] = 'Všetci';
-$Definition['permissions.member'] = 'Člen';
-$Definition['permissions.moderator'] = 'Moderátor';
-$Definition['permissions.communityManager'] = 'Komunitný manažér';
-$Definition['permissions.admin'] = 'Admin';
-$Definition['Personal Info'] = 'Osobné údaje';
-$Definition['Please Confirm'] = 'Prosim, potvrďte';
-$Definition['Please enter a unique API Label, this one has been used before'] = 'Zadajte jedinečný štítok API, ktorý už bol použitý';
-$Definition['Plugin'] = 'Rozšírenie';
-$Definition['Plugins'] = 'Doplnky';
-$Definition['Pocket'] = 'Pocket';
-$Definition['Pockets'] = 'Vrecká';
-$Definition['Points'] = 'Body';
-$Definition['Polls'] = 'Hlasovania';
-$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'Možné problémy s kompatibilitou so staršími prehliadačmi, ktoré ovplyvňujú používateľskú skúsenosť.';
-$Definition['Post External Links'] = 'Uverejniť externé odkazy';
-$Definition['Posting Settings'] = 'Nastavenia postovania';
-$Definition['Preload'] = 'Predbežné načítanie';
-$Definition['Preview Colors'] = 'Náhľad farieb';
-$Definition['Private Communities'] = 'Súkromné komunity';
-$Definition['private conversation(s)'] = 'súkromná konverzácia (konverzácie)';
-$Definition['Private Key'] = 'Súkromný kľúč';
-$Definition['Professional'] = 'Profesionálny';
-$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Protokoly (napr. https://) a cesty (napr. vasadomena.com/nejaka/cesta) by ste mali vynechať.';
-$Definition['Provider'] = 'Poskytovateľ';
-$Definition['Public Key'] = 'Verejný kľúč';
+$Definition["Page Color"] = "Farba stránky";
+$Definition["Page Views"] = "Zobrazenia stránky";
+$Definition["Pageview ratio representing a deflected case"] =
+    "Pomer zobrazení stránky predstavujúci odklonenú veľkosť písmen";
+$Definition["Passwords"] = "Heslá";
+$Definition["Password Options"] = "Možnosti hesla";
+$Definition["Password Minimum Length"] = "Minimálna dĺžka hesla";
+$Definition["Past Events"] = "Predošlé udalosti";
+$Definition["Permission"] = "Povolenie";
+$Definition["Permission.Category"] = "Kategória";
+$Definition["Permissions"] = "Oprávnenia";
+$Definition["permissions.everyone"] = "Všetci";
+$Definition["permissions.member"] = "Člen";
+$Definition["permissions.moderator"] = "Moderátor";
+$Definition["permissions.communityManager"] = "Komunitný manažér";
+$Definition["permissions.admin"] = "Admin";
+$Definition["Personal Info"] = "Osobné údaje";
+$Definition["Please Confirm"] = "Prosim, potvrďte";
+$Definition["Please enter a unique API Label, this one has been used before"] =
+    "Zadajte jedinečný štítok API, ktorý už bol použitý";
+$Definition["Plugin"] = "Rozšírenie";
+$Definition["Plugins"] = "Doplnky";
+$Definition["Pocket"] = "Pocket";
+$Definition["Pockets"] = "Vrecká";
+$Definition["Points"] = "Body";
+$Definition["Polls"] = "Hlasovania";
+$Definition[
+    "Possible compatibility problems with older browsers, affecting user experience."
+] =
+    "Možné problémy s kompatibilitou so staršími prehliadačmi, ktoré ovplyvňujú používateľskú skúsenosť.";
+$Definition["Post External Links"] = "Uverejniť externé odkazy";
+$Definition["Posting Settings"] = "Nastavenia postovania";
+$Definition["Preload"] = "Predbežné načítanie";
+$Definition["Preview Colors"] = "Náhľad farieb";
+$Definition["Private Communities"] = "Súkromné komunity";
+$Definition["private conversation(s)"] = "súkromná konverzácia (konverzácie)";
+$Definition["Private Key"] = "Súkromný kľúč";
+$Definition["Professional"] = "Profesionálny";
+$Definition[
+    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
+] =
+    "Protokoly (napr. https://) a cesty (napr. vasadomena.com/nejaka/cesta) by ste mali vynechať.";
+$Definition["Provider"] = "Poskytovateľ";
+$Definition["Public Key"] = "Verejný kľúč";
 
-$Definition['Rank Changes'] = 'Zmeny v poradí';
-$Definition['Ranks'] = 'Hodnotenia';
-$Definition['Rate Limits'] = 'Limity sadzieb';
-$Definition['Read more in the documentation'] = 'Prečítajte si viac v dokumentácii';
-$Definition['Re-Register API Key'] = 'Znovu zaregistrovať kľúč API';
-$Definition['Register IP'] = 'Zaregistrovať IP adresu';
-$Definition['Reaction Types'] = 'Typy reakcií';
-$Definition['Recalculate Counts'] = 'Prepočítať počty';
-$Definition['Recently Active Users'] = 'Poslední aktívni používatelia';
-$Definition['Recently Commented'] = 'Nedávno komentované';
-$Definition['Recently Added'] = 'Nedávno pridané';
-$Definition['Recent News'] = 'Posledné správy';
-$Definition['Recent Posts Layout Settings'] = 'Nastavenia rozloženia posledných príspevkov';
-$Definition['Recent Posts Pages'] = 'Stránky s poslednými príspevkami';
-$Definition['Recent Posts Layout Version'] = 'Verzia rozloženia posledných príspevkov';
+$Definition["Rank Changes"] = "Zmeny v poradí";
+$Definition["Ranks"] = "Hodnotenia";
+$Definition["Read more in the documentation"] =
+    "Prečítajte si viac v dokumentácii";
+$Definition["Re-Register API Key"] = "Znovu zaregistrovať kľúč API";
+$Definition["Register IP"] = "Zaregistrovať IP adresu";
+$Definition["Reaction Types"] = "Typy reakcií";
+$Definition["Recalculate Counts"] = "Prepočítať počty";
+$Definition["Recently Active Users"] = "Poslední aktívni používatelia";
+$Definition["Recently Commented"] = "Nedávno komentované";
+$Definition["Recently Added"] = "Nedávno pridané";
+$Definition["Recent News"] = "Posledné správy";
+$Definition["Recent Posts Layout Settings"] = "Nastavenia rozloženia posledných príspevkov";
+$Definition["Recent Posts Pages"] = "Stránky s poslednými príspevkami";
+$Definition["Recent Posts Layout Version"] = "Verzia rozloženia posledných príspevkov";
 
-$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'Odporúčané rozmery sú 400 x 300 pixelov alebo menšie s podobným pomerom.';
-$Definition['Record Content'] = 'Obsah';
-$Definition['Recipient'] = 'Príjemca';
-$Definition['Refresh Comments'] = 'Obnoviť komentáre';
-$Definition['Regenerate AI Suggestions'] = 'Obnovte návrhy AI';
-$Definition['Regenerate Suggestions'] = 'Obnoviť návrhy';
-$Definition['Register for Membership'] = 'Zaregistrovať členstvo';
-$Definition['Register Url'] = 'Zaregistrovať URL';
-$Definition['Registration'] = 'Registrácia';
-$Definition['Registration is currently closed.'] = 'Registrácia je momentálne ukončená.';
-$Definition['Reload the page to see recent updates.'] = 'Ak chcete zobraziť najnovšie aktualizácie, znova načítajte stránku.';
-$Definition['Reload the page to access recent updates.'] = 'Opätovným načítaním stránky získate prístup k najnovším aktualizáciám.';
-$Definition['Remove Banner Logo'] = 'Odstrániť logo bannera';
-$Definition['Remove Email Logo'] = 'Odstrániť logo e-mailu';
-$Definition['Remove Favicon'] = 'Odstrániť favikonu';
-$Definition['Reorder Columns'] = 'Zmeniť poradie stĺpcov';
-$Definition['Repeat'] = 'Opakovať';
-$Definition['Repeat Every'] = 'Zopakovať každú';
-$Definition['Replace Image'] = 'Nahradiť obrázok';
-$Definition['Replacement Category'] = 'Kategória nahradenia';
-$Definition['Replacement Role'] = 'Náhradná rola';
-$Definition['Reply  To'] = 'Odpovedať na';
-$Definition['reply to private conversation(s)'] = 'odpoveď na súkromnú konverzáciu/-ie';
-$Definition['Request'] = 'Požiadavka';
-$Definition['Requests'] = 'Žiadosti';
-$Definition['Requires'] = 'Vyžaduje';
-$Definition['Requires: '] = 'Vyžaduje:';
-$Definition['Require Terms of Service'] = 'Vyžadovať od používateľov súhlas so zmluvnými podmienkami (odporúčané)';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'Vyžadovať od užívateľov potvrdenie ich emailovej adresy (odporučené)';
-$Definition['Require users to agree to the Terms of Service (recommended)'] = 'Vyžadovať od používateľov súhlas so zmluvnými podmienkami (odporúčané)';
-$Definition['Rescan'] = 'Znova skenovať';
-$Definition['Reset'] = 'Reštartovať';
-$Definition['Reset my password'] = 'Resetovať heslo';
-$Definition['Reset password and send email notification to user'] = 'Resetovať heslo a poslať používateľovi upozornenie na e-mail';
-$Definition['Reset to Default'] = 'Obnoviť pôvodné nastavenia';
-$Definition['Resetting the password for %s.'] = 'Resetuje sa heslo pre  %s.';
-$Definition['Restart'] = 'Reštartovať';
-$Definition['Reveal Password'] = 'Zobraziť heslo';
+$Definition[
+    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
+] =
+    "Odporúčané rozmery sú 400 x 300 pixelov alebo menšie s podobným pomerom.";
+$Definition["Record Content"] = "Obsah";
+$Definition["Recipient"] = "Príjemca";
+$Definition["Refresh Comments"] = "Obnoviť komentáre";
+$Definition["Regenerate AI Suggestions"] = "Obnovte návrhy AI";
+$Definition["Regenerate Suggestions"] = "Obnoviť návrhy";
+$Definition["Register for Membership"] = "Zaregistrovať členstvo";
+$Definition["Register Url"] = "Zaregistrovať URL";
+$Definition["Registration"] = "Registrácia";
+$Definition["Registration is currently closed."] =
+    "Registrácia je momentálne ukončená.";
+$Definition["Reload the page to see recent updates."] =
+    "Ak chcete zobraziť najnovšie aktualizácie, znova načítajte stránku.";
+$Definition["Reload the page to access recent updates."] =
+    "Opätovným načítaním stránky získate prístup k najnovším aktualizáciám.";
+$Definition["Remove Banner Logo"] = "Odstrániť logo bannera";
+$Definition["Remove Email Logo"] = "Odstrániť logo e-mailu";
+$Definition["Remove Favicon"] = "Odstrániť favikonu";
+$Definition["Reorder Columns"] = "Zmeniť poradie stĺpcov";
+$Definition["Repeat"] = "Opakovať";
+$Definition["Repeat Every"] = "Zopakovať každú";
+$Definition["Replace Image"] = "Nahradiť obrázok";
+$Definition["Replacement Category"] = "Kategória nahradenia";
+$Definition["Replacement Role"] = "Náhradná rola";
+$Definition["Reply  To"] = "Odpovedať na";
+$Definition["reply to private conversation(s)"] =
+    "odpoveď na súkromnú konverzáciu/-ie";
+$Definition["Request"] = "Požiadavka";
+$Definition["Requests"] = "Žiadosti";
+$Definition["Requires"] = "Vyžaduje";
+$Definition["Requires: "] = "Vyžaduje:";
+$Definition["Require Terms of Service"] =
+    "Vyžadovať od používateľov súhlas so zmluvnými podmienkami (odporúčané)";
+$Definition["Require users to confirm their email addresses (recommended)"] =
+    "Vyžadovať od užívateľov potvrdenie ich emailovej adresy (odporučené)";
+$Definition["Require users to agree to the Terms of Service (recommended)"] =
+    "Vyžadovať od používateľov súhlas so zmluvnými podmienkami (odporúčané)";
+$Definition["Rescan"] = "Znova skenovať";
+$Definition["Reset"] = "Reštartovať";
+$Definition["Reset my password"] = "Resetovať heslo";
+$Definition["Reset password and send email notification to user"] =
+    "Resetovať heslo a poslať používateľovi upozornenie na e-mail";
+$Definition["Reset to Default"] = "Obnoviť pôvodné nastavenia";
+$Definition["Resetting the password for %s."] =
+    "Resetuje sa heslo pre  %s.";
+$Definition["Restart"] = "Reštartovať";
+$Definition["Reveal Password"] = "Zobraziť heslo";
 $Definition["Revert"] = "Prejsť späť";
-$Definition['Revert to Original Version'] = 'Vrátiť na pôvodnú verziu';
-$Definition['Revision Label:'] = 'Revízny štítok:';
-$Definition['ROI Calculation Documentation'] = 'Dokumentácia výpočtu ROI';
-$Definition['Role'] = 'Rola';
-$Definition['Assign to'] = 'Priradiť';
-$Definition['Role Applicants'] = 'Uchádzači o úlohu';
-$Definition['Role Name'] = 'Názov role';
-$Definition['Role Permissions'] = 'Povolenia roly';
-$Definition['RolePersonalInfo'] = 'Táto rola je osobná informácia. Zobrazí sa iba užívateľom, ktorí majú povolenie na zobrazenie osobných informácií.';
-$Definition['Roles & Permissions'] = 'Role a oprávnenia';
-$Definition['Roles determine user\'s permissions.'] = 'Každý užívateľ na vašej stránke má pridelenú aspoň jednu rolu. Role sú použité na určenie, čo môžu títo užívatelia robiť.';
-$Definition['Role Request Status'] = 'Stav';
-$Definition['Role to Grant'] = 'Rola na pridelenie';
-$Definition['Route'] = 'Cesta';
-$Definition['Routes'] = 'Cesty';
-$Definition['Rules'] = 'Pravidlá';
-$Definition['Run structure & data scripts'] = 'Spustiť skripty štruktúr a dát';
-$Definition['RSVP'] = 'Odpovedzte prosím';
+$Definition["Revert to Original Version"] = "Vrátiť na pôvodnú verziu";
+$Definition["Revision Label:"] = "Revízny štítok:";
+$Definition["ROI Calculation Documentation"] = "Dokumentácia výpočtu ROI";
+$Definition["Role"] = "Rola";
+$Definition["Assign to"] = "Priradiť";
+$Definition["Role Applicants"] = "Uchádzači o úlohu";
+$Definition["Role Name"] = "Názov role";
+$Definition["Role Permissions"] = "Povolenia roly";
+$Definition["RolePersonalInfo"] =
+    "Táto rola je osobná informácia. Zobrazí sa iba užívateľom, ktorí majú povolenie na zobrazenie osobných informácií.";
+$Definition["Roles & Permissions"] = "Role a oprávnenia";
+$Definition['Roles determine user\'s permissions.'] =
+    "Každý užívateľ na vašej stránke má pridelenú aspoň jednu rolu. Role sú použité na určenie, čo môžu títo užívatelia robiť.";
+$Definition["Role Request Status"] = "Stav";
+$Definition["Role to Grant"] = "Rola na pridelenie";
+$Definition["Route"] = "Cesta";
+$Definition["Routes"] = "Cesty";
+$Definition["Rules"] = "Pravidlá";
+$Definition["Run structure & data scripts"] = "Spustiť skripty štruktúr a dát";
+$Definition["RSVP"] = "Odpovedzte prosím";
 
-$Definition['Save Captured Definitions'] = 'Uložiť zaznamenané definície';
-$Definition['Save Colors'] = 'Uložte farby';
-$Definition['Score Count'] = 'Počet skóre';
-$Definition['Search by user or role.'] = 'Vyhľadávajte používateľom podľa mena alebo e-mailu, prípadne aj s použitím  % na zástupné znaky. Môžete tiež vyhľadávať podľa používateľského ID, názvu role alebo “banned”.';
-$Definition['Search Result In New Tab'] = 'Výsledok vyhľadávania na novej karte';
-$Definition['Search results of members'] = 'Výsledky vyhľadávania členov';
-$Definition['Search Query'] = 'Vyhľadávací dopyt';
-$Definition['SearchScope.Everywhere'] = 'Všade';
-$Definition['seconds'] = 'sekundy';
-$Definition['Security'] = 'Bezpečnosť';
-$Definition['See also'] = 'Pozri si aj';
-$Definition['See link'] = 'Pozri odkaz';
-$Definition['Select'] = 'Vybrať';
-$Definition['Select a category'] = 'Vyberte kategóriu';
-$Definition['Select the location of the pocket.'] = 'Vyberte umiestnenie pocketu.';
-$Definition['Select which columns are displayed on the manage users page list.'] = 'Vyberte, ktoré stĺpce sa zobrazia v zozname stránok správy používateľov.';
-$Definition['Selection will affect the item options available.'] = 'Výber ovplyvní dostupné možnosti položky.';
-$Definition['Send %s a Message'] = 'Poslať %s správu';
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Poslať potvrdenie na e-mail, keď ľudia položia otázku alebo začnú diskusiu.';
-$Definition['Send Again'] = 'Poslať znova';
-$Definition['Send a Test Email'] = 'Poslať testovací e-mail.';
-$Definition['Send Test Digest'] = 'Odoslať skúšobný súhrn';
-$Definition['Send Test Email Digest'] = 'Odoslať súhrn skúšobného e-mailu';
-$Definition['Send Invitations!'] = 'Poslať pozvánky!';
-$Definition['Send users a welcome email.'] = 'Pošlite používateľom uvítací email.';
-$Definition['Sent To'] = 'Odoslané';
-$Definition['Separate each word with a semi-colon ";"'] = 'Oddeľte každé slovo bodkočiarkou ";"
+$Definition["Save Captured Definitions"] = "Uložiť zaznamenané definície";
+$Definition["Save Colors"] = "Uložte farby";
+$Definition["Score Count"] = "Počet skóre";
+$Definition["Search by user or role."] =
+    "Vyhľadávajte používateľom podľa mena alebo e-mailu, prípadne aj s použitím  % na zástupné znaky. Môžete tiež vyhľadávať podľa používateľského ID, názvu role alebo “banned”.";
+$Definition["Search Result In New Tab"] = "Výsledok vyhľadávania na novej karte";
+$Definition["Search results of members"] = "Výsledky vyhľadávania členov";
+$Definition["Search Query"] = "Vyhľadávací dopyt";
+$Definition["SearchScope.Everywhere"] = "Všade";
+$Definition["seconds"] = "sekundy";
+$Definition["Security"] = "Bezpečnosť";
+$Definition["See also"] = "Pozri si aj";
+$Definition["See link"] = "Pozri odkaz";
+$Definition["Select"] = "Vybrať";
+$Definition["Select a category"] = "Vyberte kategóriu";
+$Definition["Select the location of the pocket."] =
+    "Vyberte umiestnenie pocketu.";
+$Definition[
+    "Select which columns are displayed on the manage users page list."
+] = "Vyberte, ktoré stĺpce sa zobrazia v zozname stránok správy používateľov.";
+$Definition["Selection will affect the item options available."] =
+    "Výber ovplyvní dostupné možnosti položky.";
+$Definition["Send %s a Message"] = "Poslať %s správu";
+$Definition[
+    "Send a confirmation email when people ask a question or start a discussion over email."
+] =
+    "Poslať potvrdenie na e-mail, keď ľudia položia otázku alebo začnú diskusiu.";
+$Definition["Send Again"] = "Poslať znova";
+$Definition["Send a Test Email"] = "Poslať testovací e-mail.";
+$Definition["Send Test Digest"] = "Odoslať skúšobný súhrn";
+$Definition["Send Test Email Digest"] = "Odoslať súhrn skúšobného e-mailu";
+$Definition["Send Invitations!"] = "Poslať pozvánky!";
+$Definition["Send users a welcome email."] = "Pošlite používateľom uvítací email.";
+$Definition["Sent To"] = "Odoslané";
+$Definition['Separate each word with a semi-colon ";"'] =
+    'Oddeľte každé slovo bodkočiarkou ";"
 ';
-$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'Nastavte tento záujem ako predvolený, aby ste všetkým používateľom navrhovali sledovanie jeho namapovaných kategórií a značiek.';
-$Definition['Share Image'] = 'Zdieľať obrázok';
-$Definition['Show all categories'] = 'Zobraziť všetky kategórie';
-$Definition['Show Dismissed Suggestions'] = 'Zobraziť odmietnuté návrhy';
-$Definition['Show Pocket Locations'] = 'Zobraziť lokality vrecka.';
-$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'Ukážte každému používateľovi prispôsobený zoznam myšlienok, ktoré vytvoril alebo pre ktoré hlasoval.';
-$Definition['Show Original Suggestions'] = 'Zobraziť pôvodné návrhy';
-$Definition['Show Suggestions'] = 'Zobraziť návrhy';
-$Definition['Signatures'] = 'Podpisy';
-$Definition['SignedOut'] = 'Ste odhlásení.';
-$Definition['Sign In Url'] = 'Prihlasovacie URL';
-$Definition['Site Description'] = 'Popis stránky';
-$Definition['Site Name'] = 'Názov stránky';
-$Definition['Slug'] = 'Slimák';
-$Definition['SMTP Host'] = 'Hostiteľ SMTP';
-$Definition['SMTP Password'] = 'Heslo SMTP';
-$Definition['SMTP Port'] = 'Brána SMTP';
-$Definition['SMTP Security'] = 'Zabezpečenie SMTP';
-$Definition['SMTP User'] = 'Používateľ SMTP';
-$Definition['Social Connect'] = 'Sociálne médiá';
-$Definition['Social Connect Addons'] = 'Doplnky pre sociálne pripojenie';
-$Definition['Sort Order'] = 'Zoradiť poradie';
-$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Zdroje, ktoré tu vyberiete, budú k dispozícii pre odpovede navrhované AI.';
-$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Zadajte 1 doménu do riadku. Použite * na zástupnú zhodu.';
-$Definition['Spoof'] = 'Pasca';
-$Definition['SSO Role'] = 'Rola SSO';
-$Definition['SSO roles are always passed through SSO.'] = 'Roly SSO sa vždy odovzdávajú cez SSO.';
-$Definition['Start Discussions'] = 'Začať diskusie';
-$Definition['Start Private Conversations'] = 'Začať súkromné konverzácie';
-$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'Začnite riadok s predmetom súhrnu s [Názov bannera] nastaveným v časti Vzhľad > Značka a SEO';
-$Definition['Start typing username'] = 'Začnite písať používateľské meno';
-$Definition['State'] = 'Štát';
-$Definition['Statistics'] = 'Štatistika';
-$Definition['Strip Embeds'] = 'Odobrať vložené položky';
-$Definition['Strip Embeds'] = 'Odobrať vložené položky';
+$Definition[
+    "Set this interest as default to suggest following its mapped categories and tags to all users."
+] =
+    "Nastavte tento záujem ako predvolený, aby ste všetkým používateľom navrhovali sledovanie jeho namapovaných kategórií a značiek.";
+$Definition["Share Image"] = "Zdieľať obrázok";
+$Definition["Show all categories"] = "Zobraziť všetky kategórie";
+$Definition["Show Dismissed Suggestions"] = "Zobraziť odmietnuté návrhy";
+$Definition["Show Pocket Locations"] = "Zobraziť lokality vrecka.";
+$Definition[
+    "Show each user a personalized list of ideas they’ve created or upvoted."
+] = "Ukážte každému používateľovi prispôsobený zoznam myšlienok, ktoré vytvoril alebo pre ktoré hlasoval.";
+$Definition["Show Original Suggestions"] = "Zobraziť pôvodné návrhy";
+$Definition["Show Suggestions"] = "Zobraziť návrhy";
+$Definition["Signatures"] = "Podpisy";
+$Definition["SignedOut"] = "Ste odhlásení.";
+$Definition["Sign In Url"] = "Prihlasovacie URL";
+$Definition["Site Description"] = "Popis stránky";
+$Definition["Site Name"] = "Názov stránky";
+$Definition["Slug"] = "Slimák";
+$Definition["SMTP Host"] = "Hostiteľ SMTP";
+$Definition["SMTP Password"] = "Heslo SMTP";
+$Definition["SMTP Port"] = "Brána SMTP";
+$Definition["SMTP Security"] = "Zabezpečenie SMTP";
+$Definition["SMTP User"] = "Používateľ SMTP";
+$Definition["Social Connect"] = "Sociálne médiá";
+$Definition["Social Connect Addons"] = "Doplnky pre sociálne pripojenie";
+$Definition["Sort Order"] = "Zoradiť poradie";
+$Definition[
+    "Sources that are selected here will be available to AI Suggested Answers."
+] = "Zdroje, ktoré tu vyberiete, budú k dispozícii pre odpovede navrhované AI.";
+$Definition["Specify one domain per line. Use * for wildcard matches."] =
+    "Zadajte 1 doménu do riadku. Použite * na zástupnú zhodu.";
+$Definition["Spoof"] = "Pasca";
+$Definition["SSO Role"] = "Rola SSO";
+$Definition["SSO roles are always passed through SSO."] =
+    "Roly SSO sa vždy odovzdávajú cez SSO.";
+$Definition["Start Discussions"] = "Začať diskusie";
+$Definition["Start Private Conversations"] = "Začať súkromné konverzácie";
+$Definition[
+    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
+] =
+    "Začnite riadok s predmetom súhrnu s [Názov bannera] nastaveným v časti Vzhľad > Značka a SEO";
+$Definition["Start typing username"] = "Začnite písať používateľské meno";
+$Definition["State"] = "Štát";
+$Definition["Statistics"] = "Štatistika";
+$Definition["Strip Embeds"] = "Odobrať vložené položky";
+$Definition["Strip Embeds"] = "Odobrať vložené položky";
 $Definition["Style"] = "Štýl";
-$Definition['Styles'] = 'Štýly';
-$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'Štýly a všeobecný vizuálny vzhľad všetkých e-mailov vrátane súhrnu e-mailov sa nastavujú na celom webe na stránke Nastavenia e-mailu.';
-$Definition['Subcommunity'] = 'Subkomunita';
-$Definition['Subject Line and Title'] = 'Predmet a názov';
-$Definition['subscribers'] = 'predplatiteľov';
-$Definition['Suggested Answers Options'] = 'Možnosti navrhovaných odpovedí';
-$Definition['Suggested Content'] = 'Navrhovaný obsah';
-$Definition['Suggested Discussion Title'] = 'Navrhovaný názov diskusie';
-$Definition['Suggested Follows'] = 'Navrhované sledovanie';
-$Definition['Suggestions are only visible to you until you accept the answer'] = 'Návrhy sú viditeľné iba pre vás, kým neprijmete odpoveď';
-$Definition['Suggestions may only be generated on questions'] = 'Návrhy môžu byť generované iba na otázky';
+$Definition["Styles"] = "Štýly";
+$Definition[
+    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
+] =
+    "Štýly a všeobecný vizuálny vzhľad všetkých e-mailov vrátane súhrnu e-mailov sa nastavujú na celom webe na stránke Nastavenia e-mailu.";
+$Definition["Subcommunity"] = "Subkomunita";
+$Definition["Subject Line and Title"] = "Predmet a názov";
+$Definition["subscribers"] = "predplatiteľov";
+$Definition["Suggested Answers Options"] = "Možnosti navrhovaných odpovedí";
+$Definition["Suggested Content"] = "Navrhovaný obsah";
+$Definition["Suggested Discussion Title"] = "Navrhovaný názov diskusie";
+$Definition["Suggested Follows"] = "Navrhované sledovanie";
+$Definition["Suggestions are only visible to you until you accept the answer"] =
+    "Návrhy sú viditeľné iba pre vás, kým neprijmete odpoveď";
+$Definition["Suggestions may only be generated on questions"] =
+    "Návrhy môžu byť generované iba na otázky";
 
-$Definition['Table Layout'] = 'Usporiadanie tabuľky';
-$Definition['take away'] = 'zobrať';
-$Definition['Target All Users'] = 'Zacieliť na všetkých používateľov';
-$Definition['Target Users'] = 'Cieľových používateľov';
-$Definition['Technical'] = 'Technický';
-$Definition['Technical Jargon'] = 'Technický žargón';
-$Definition['Templates'] = 'Šablóny';
-$Definition['Temporary (302)'] = 'Dočasné (302)';
-$Definition['Test Email'] = 'Testovací email';
-$Definition['Test Digest'] = 'Test Digest';
-$Definition['Test email from %s'] = 'Testovací e-mail od  %s';
-$Definition['Test Email Message'] = '<p>Toto je testovací e-mail.</p>
+$Definition["Table Layout"] = "Usporiadanie tabuľky";
+$Definition["take away"] = "zobrať";
+$Definition["Target All Users"] = "Zacieliť na všetkých používateľov";
+$Definition["Target Users"] = "Cieľových používateľov";
+$Definition["Technical"] = "Technický";
+$Definition["Technical Jargon"] = "Technický žargón";
+$Definition["Templates"] = "Šablóny";
+$Definition["Temporary (302)"] = "Dočasné (302)";
+$Definition["Test Email"] = "Testovací email";
+$Definition["Test Digest"] = "Test Digest";
+$Definition["Test email from %s"] = "Testovací e-mail od  %s";
+$Definition["Test Email Message"] = '<p>Toto je testovací e-mail.</p>
 
 <p>Môžete konfigurovať vzhľad e-mailov z vášho fóra cez e-mailovú stránku na ovládacom paneli.</p>';
-$Definition['Test Mode'] = 'Testovací režim: Vrecko sa bude zobrazovať iba pre správcov vrecka.';
-$Definition['Test URL'] = 'Testovacia URL';
-$Definition['Text Color'] = 'Farba textu';
-$Definition['TextEnterEmails'] = 'Sem zadajte emailové adresy oddelené čiarkami';
-$Definition['The %s badge has already been given to %s.'] = 'Používateľ %s už dostal odznak %s.';
-$Definition['The %s locale pack does not exist.'] = 'Balíček miestneho nastavenia %s neexistuje.';
-$Definition['The %s table is not in the correct format.'] = 'Tabuľka %s nemá správny formát.';
-$Definition['The %s was already approved by %s on %s.'] = '%s už schválil %s na %s.';
-$Definition['Thanks for sticking with us for a full year.'] = 'Ďakujeme, že ste s nami už celý jeden rok.';
-$Definition['Thanks for sticking with us for %s years.'] = 'Ďakujeme, že ste s nami už %s. rok.';
-$Definition['The Basics'] = 'Základy';
-$Definition['The client ID uniqely identifies the site.'] = 'ID klienta jednoznačne identifikuje stránku. Nový identifikátor môžete vygenerovať pomocou tlačidla v dolnej časti tejto stránky.';
-$Definition['The content you were looking for has been deleted.'] = 'Obsah, ktorý ste hľadali, bol vymazaný.';
-$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'Predvolený obrázok bannera na celom webe. Toto je možné prepísať na základe kategórie.';
-$Definition['The default role has not been configured.'] = 'Predvolená rola nebola nakonfigurovaná.';
-$Definition['The email address this test will be sent to.'] = 'E-mailová adresa, na ktorú bude tento test odoslaný.';
-$Definition['The email has been sent.'] = 'E-mail bol odoslaný.';
-$Definition['The first line of content in the email digest after the title.'] = 'Prvý riadok obsahu v súhrne e-mailu za názvom.';
-$Definition['The homepage title is displayed on your home page.'] = 'Názov domovskej stránky sa zobrazí na vašej domovskej stránke. Vyberte si taký názov, ktorý by ste radi videli vo vyhľadávačoch.';
-$Definition['The homepage was saved successfully.'] = 'Domovská stránka bola úspešne uložená.';
-$Definition['The invitation was removed successfully.'] = 'Pozvánka bola úspešne odstránená.';
-$Definition['The invitation was sent successfully.'] = 'Pozvánka bola úspešne odoslaná.';
-$Definition['The Key in the XML payload to designate %s.'] = 'Kľúč v užitočnom obsahu XML na označenie %s.';
-$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'Testovací súhrn vygeneruje obsah, ako keby to bol tento používateľ.';
-$Definition['Theme Editor'] = 'Editor tém';
-$Definition['Theme Options'] = 'Možnosti témy';
-$Definition['Themes'] = 'Témy';
-$Definition['ThemeEditor.Copy'] = '<0 /> kópia';
-$Definition['Theming Documentation'] = 'Tematizovanie dokumentácie';
-$Definition['Theming Overview'] = 'Prehľad tém';
-$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Vyskytla sa chyba pri nahrávaní vášho súboru. Vaše e-mailové logo môže byť v 1 z nasledujúcich formátov: gif, jgp, png';
-$Definition['There are currently no applicants.'] = 'Momentálne nie sú žiadni uchádzači.';
-$Definition['There is currently %s applicant.'] = 'Momentálne je %s žiadateľ.';
-$Definition['There are currently %s applicants.'] = 'Momentálne je  %s uchádzačov.';
-$Definition['There are currently no requests.'] = 'Momentálne nie sú žiadne požiadavky.';
-$Definition['There is currently %s request.'] = 'Momentálne existuje %s požiadavka.';
-$Definition['There are currently %s requests.'] = 'Momentálne sú %s požiadavky.';
-$Definition['There are no items awaiting moderation at this time.'] = 'Na moderovanie momentálne nečakajú žiadne položky.';
-$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'V tomto fóre už existuje účet s vašou e-mailovou adresou. Vytvorte si, prosím, nový účet alebo zadajte prihlasovacie údaje existujúceho účtu.';
-$Definition['The next three email digest delivery dates'] = 'Nasledujúce tri dátumy doručenia súhrnu e-mailov';
-$Definition['The secret secures the sign in process.'] = 'Kľúč zabezpečuje proces prihlasovania. Tento kľúč <b>NEDAJTE</b> nikomu.';
-$Definition['The site description usually appears in search engines.'] = 'Popis stránky sa zvyčajne zobrazí vo vyhľadávačoch. Snažte sa, aby váš popis mal dĺžku 100 až 150 znakov.';
-$Definition['The site is currently undergoing scheduled maintenance.'] = 'Na tejto stránke práve prebieha plánovaná údržba.';
-$Definition['The specified url code is already in use by another category.'] = 'Zadaný kód URL sa už používa na inú kategóriu.';
-$Definition['The structure was successfully executed.'] = 'Štruktúra bola úspešne prevedená.';
-$Definition['The update was not successful.'] = 'Aktualizácia nebola úspešná.';
-$Definition['The update was successful.'] = 'Aktualizácia prebehla úspešne.';
-$Definition['The url that users go to to register for a new account.'] = 'URL, kde sa používatelia registrujú do nového účtu.';
-$Definition['The url that users use to register for a new account.'] = 'URL, kde sa používatelia registrujú do nového účtu.';
-$Definition['The url that users use to sign in.'] = 'URL, kde sa používatelia prihlasujú.';
-$Definition['The URL where users can sign up for new accounts on your site'] = 'URL, na ktorej si používatelia môžu zaregistrovať nový účet na vašom webe';
-$Definition['The URL where users sign in on your site'] = 'URL, kde sa používatelia prihlasujú na vašu stránku';
-$Definition['The URL where users sign out of your site'] = 'URL, kde sa ľudia odhlasujú z vašej stránky';
-$Definition['The user and all related content has been deleted.'] = 'Používateľ a všetok jeho obsah bol vymazaný.';
-$Definition['The user content will be completely deleted.'] = 'Obsah používateľa bude úplne odstránený.';
-$Definition['The user content will remain untouched.'] = 'Obsah používateľa ostane nedotknutý.';
-$Definition['The user has been created successfully'] = 'Používateľ bol úspešne vytvorený';
-$Definition['The user has been deleted.'] = 'Tento používateľ bol vymazaný.';
-$Definition['This action cannot be undone.'] = 'Túto akciu nie je možné vrátiť naspäť.';
-$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'Na väčšine stránok to nie je potrebné okrem tých, ktoré používajú funkcie ako AdSense a Google Tag Manager.';
-$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'Toto je súhrn vygenerovaný AI z odkazovaného diskusného príspevku, ktorý by mohol odpovedať na otázku. Súhrn je vytvorený tak, aby sa dal použiť ako akceptovaná odpoveď.';
-$Definition['This category has custom permissions.'] = 'Táto kategória má vlastné povolenia.';
-$Definition['This category is archived.'] = 'Táto kategória je archivovaná.';
-$Definition['This connection is in test-mode.'] = 'Toto pripojenie ja v testovacom režime.';
-$Definition['This controls how the responses are phrased and spelled.'] = 'Toto riadi, ako sú odpovede formulované a hláskované.';
-$Definition['This Database'] = 'Táto databáza';
-$Definition['QnAFollowup.Feature.Enabled'] = 'Táto funkcia odosiela autorovi e-maily na zodpovedané otázky, ktoré nemajú akceptovanú odpoveď.';
-$Definition['This forum is currently set to invitation only mode.'] = 'Toto fórum má momentálne nastavený režim iba na pozvanie.';
-$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Tento obrázok sa použije v zoznamoch kategórií a miniaplikáciách pri použití možnosti štýlu „Ikona“.';
-$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Tento obrázok sa zobrazí v banneri tejto kategórie a v miniaplikáciách kategórie pri použití možností štýlu „Obrázok“ a/alebo „Pozadie“. Odporúčané rozmery sú približne 1 000 x 400 pixelov alebo podobný pomer.';
-$Definition['This is a parent category that does not allow discussions.'] = 'Toto je rodičovská kategória, ktorá neumožňuje diskusie.';
-$Definition['This is the first time you\'ve visited the discussion forums.'] = 'Toto je prvý raz, čo ste navštívili diskusné fóra.';
-$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'Môže sa použiť na zahrnutie obsahu, ako je názov organizácie a adresa, do súhrnu e-mailu.';
-$Definition['This name will be shown in the community.'] = 'Toto meno sa zobrazí v komunite.';
-$Definition['This page requires Javascript.'] = 'Táto stránka si vyžaduje Javascript.';
-$Definition['This pocket is an ad.'] = 'Toto vrecko je reklama.';
-$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Túto tému nie je možné odstrániť, pretože je aktuálne aplikovaná.';
-$Definition['This theme has additional options.'] = 'Táto téma má ďalšie možnosti na stránke  %s.';
-$Definition['This theme has customizable text.'] = 'Táto stránka obsahuje text, ktorý môžete prispôsobiť.';
-$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.']= 'To nasmeruje ostatných používateľov s podobnými otázkami k správnym odpovediam rýchlejšie a zobrazí odpoveď navrhovanú AI a prepojí odkazovaný materiál, aby si ju mohli pozrieť ostatní používatelia. Návrhy sú viditeľné iba pre vás, kým neprijmete odpoveď.';
-$Definition['Threshold'] = 'Prahová hodnota';
-$Definition['Thumbnails'] = 'Náhľady';
-$Definition['Thumbnail Size'] = 'Veľkosť miniatúry';
-$Definition['Time'] = 'Čas';
-$Definition['Timeframe'] = 'Časový rámec';
-$Definition['Titles'] = 'Tituly';
-$Definition['Title Color'] = 'Farba názvu';
-$Definition['Title Color (Hover)'] = 'Farba názvu (kurzor)';
-$Definition['Token Name'] = 'Názov tokenu';
-$Definition['Touch Icon'] = 'Kliknúť na ikonu';
-$Definition['True'] = 'Pravda';
-$Definition['Truncate the initial discussion text to this many words.'] = 'Skrátiť počiatočný text diskusie na tento počet slov.';
-$Definition['trusted domains'] = 'dôveryhodné domény';
-$Definition['Trusted Domains'] = 'Dôveryhodné domény';
-$Definition['Turn OFF'] = 'Vypnúť';
-$Definition['Turn off AI Suggested Answers'] = 'Vypnite odpovede navrhované AI';
-$Definition['Turn off for now'] = 'Zatiaľ vypnite';
-$Definition['Twitter Connector'] = 'Twitter konektor';
+$Definition["Test Mode"] =
+    "Testovací režim: Vrecko sa bude zobrazovať iba pre správcov vrecka.";
+$Definition["Test URL"] = "Testovacia URL";
+$Definition["Text Color"] = "Farba textu";
+$Definition["TextEnterEmails"] =
+    "Sem zadajte emailové adresy oddelené čiarkami";
+$Definition["The %s badge has already been given to %s."] =
+    "Používateľ %s už dostal odznak %s.";
+$Definition["The %s locale pack does not exist."] =
+    "Balíček miestneho nastavenia %s neexistuje.";
+$Definition["The %s table is not in the correct format."] =
+    "Tabuľka %s nemá správny formát.";
+$Definition["The %s was already approved by %s on %s."] =
+    "%s už schválil %s na %s.";
+$Definition["Thanks for sticking with us for a full year."] =
+    "Ďakujeme, že ste s nami už celý jeden rok.";
+$Definition["Thanks for sticking with us for %s years."] =
+    "Ďakujeme, že ste s nami už %s. rok.";
+$Definition["The Basics"] = "Základy";
+$Definition["The client ID uniqely identifies the site."] =
+    "ID klienta jednoznačne identifikuje stránku. Nový identifikátor môžete vygenerovať pomocou tlačidla v dolnej časti tejto stránky.";
+$Definition["The content you were looking for has been deleted."] =
+    "Obsah, ktorý ste hľadali, bol vymazaný.";
+$Definition[
+    "The default banner image across the site. This can be overridden on a per category basis."
+] =
+    "Predvolený obrázok bannera na celom webe. Toto je možné prepísať na základe kategórie.";
+$Definition["The default role has not been configured."] =
+    "Predvolená rola nebola nakonfigurovaná.";
+$Definition["The email address this test will be sent to."] =
+    "E-mailová adresa, na ktorú bude tento test odoslaný.";
+$Definition["The email has been sent."] = "E-mail bol odoslaný.";
+$Definition["The first line of content in the email digest after the title."] =
+    "Prvý riadok obsahu v súhrne e-mailu za názvom.";
+$Definition["The homepage title is displayed on your home page."] =
+    "Názov domovskej stránky sa zobrazí na vašej domovskej stránke. Vyberte si taký názov, ktorý by ste radi videli vo vyhľadávačoch.";
+$Definition["The homepage was saved successfully."] =
+    "Domovská stránka bola úspešne uložená.";
+$Definition["The invitation was removed successfully."] =
+    "Pozvánka bola úspešne odstránená.";
+$Definition["The invitation was sent successfully."] =
+    "Pozvánka bola úspešne odoslaná.";
+$Definition["The Key in the XML payload to designate %s."] =
+    "Kľúč v užitočnom obsahu XML na označenie %s.";
+$Definition[
+    "The test digest will generate content as if it were this user receiving the digest."
+] =
+    "Testovací súhrn vygeneruje obsah, ako keby to bol tento používateľ.";
+$Definition["Theme Editor"] = "Editor tém";
+$Definition["Theme Options"] = "Možnosti témy";
+$Definition["Themes"] = "Témy";
+$Definition["ThemeEditor.Copy"] = "<0 /> kópia";
+$Definition["Theming Documentation"] = "Tematizovanie dokumentácie";
+$Definition["Theming Overview"] = "Prehľad tém";
+$Definition[
+    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
+] =
+    'Vyskytla sa chyba pri nahrávaní vášho súboru. Vaše e-mailové logo môže byť v 1 z nasledujúcich formátov: gif, jgp, png';
+$Definition["There are currently no applicants."] =
+    "Momentálne nie sú žiadni uchádzači.";
+$Definition["There is currently %s applicant."] =
+    "Momentálne je %s žiadateľ.";
+$Definition["There are currently %s applicants."] =
+    "Momentálne je  %s uchádzačov.";
+$Definition["There are currently no requests."] =
+    "Momentálne nie sú žiadne požiadavky.";
+$Definition["There is currently %s request."] =
+    "Momentálne existuje %s požiadavka.";
+$Definition["There are currently %s requests."] =
+    "Momentálne sú %s požiadavky.";
+$Definition["There are no items awaiting moderation at this time."] =
+    "Na moderovanie momentálne nečakajú žiadne položky.";
+$Definition[
+    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
+] =
+    "V tomto fóre už existuje účet s vašou e-mailovou adresou. Vytvorte si, prosím, nový účet alebo zadajte prihlasovacie údaje existujúceho účtu.";
+$Definition["The next three email digest delivery dates"] =
+    "Nasledujúce tri dátumy doručenia súhrnu e-mailov";
+$Definition["The secret secures the sign in process."] =
+    "Kľúč zabezpečuje proces prihlasovania. Tento kľúč <b>NEDAJTE</b> nikomu.";
+$Definition["The site description usually appears in search engines."] =
+    "Popis stránky sa zvyčajne zobrazí vo vyhľadávačoch. Snažte sa, aby váš popis mal dĺžku 100 až 150 znakov.";
+$Definition["The site is currently undergoing scheduled maintenance."] =
+    "Na tejto stránke práve prebieha plánovaná údržba.";
+$Definition["The specified url code is already in use by another category."] =
+    "Zadaný kód URL sa už používa na inú kategóriu.";
+$Definition["The structure was successfully executed."] =
+    "Štruktúra bola úspešne prevedená.";
+$Definition["The update was not successful."] =
+    "Aktualizácia nebola úspešná.";
+$Definition["The update was successful."] = "Aktualizácia prebehla úspešne.";
+$Definition["The url that users go to to register for a new account."] =
+    "URL, kde sa používatelia registrujú do nového účtu.";
+$Definition["The url that users use to register for a new account."] =
+    "URL, kde sa používatelia registrujú do nového účtu.";
+$Definition["The url that users use to sign in."] =
+    "URL, kde sa používatelia prihlasujú.";
+$Definition["The URL where users can sign up for new accounts on your site"] =
+    "URL, na ktorej si používatelia môžu zaregistrovať nový účet na vašom webe";
+$Definition["The URL where users sign in on your site"] =
+    "URL, kde sa používatelia prihlasujú na vašu stránku";
+$Definition["The URL where users sign out of your site"] =
+    "URL, kde sa ľudia odhlasujú z vašej stránky";
+$Definition["The user and all related content has been deleted."] =
+    "Používateľ a všetok jeho obsah bol vymazaný.";
+$Definition["The user content will be completely deleted."] =
+    "Obsah používateľa bude úplne odstránený.";
+$Definition["The user content will remain untouched."] =
+    "Obsah používateľa ostane nedotknutý.";
+$Definition["The user has been created successfully"] =
+    "Používateľ bol úspešne vytvorený";
+$Definition["The user has been deleted."] = "Tento používateľ bol vymazaný.";
+$Definition["This action cannot be undone."] = "Túto akciu nie je možné vrátiť naspäť.";
+$Definition[
+    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
+] =
+    "Na väčšine stránok to nie je potrebné okrem tých, ktoré používajú funkcie ako AdSense a Google Tag Manager.";
+$Definition[
+    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
+] =
+    "Toto je súhrn vygenerovaný AI z odkazovaného diskusného príspevku, ktorý by mohol odpovedať na otázku. Súhrn je vytvorený tak, aby sa dal použiť ako akceptovaná odpoveď.";
+$Definition["This category has custom permissions."] =
+    "Táto kategória má vlastné povolenia.";
+$Definition["This category is archived."] = "Táto kategória je archivovaná.";
+$Definition["This connection is in test-mode."] =
+    "Toto pripojenie ja v testovacom režime.";
+$Definition["This controls how the responses are phrased and spelled."] =
+    "Toto riadi, ako sú odpovede formulované a hláskované.";
+$Definition["This Database"] = "Táto databáza";
+$Definition["QnAFollowup.Feature.Enabled"] =
+    "Táto funkcia odosiela autorovi e-maily na zodpovedané otázky, ktoré nemajú akceptovanú odpoveď.";
+$Definition["This forum is currently set to invitation only mode."] =
+    "Toto fórum má momentálne nastavený režim iba na pozvanie.";
+$Definition[
+    'This image will be used in category lists and widgets when using the "Icon" style option.'
+] =
+    'Tento obrázok sa použije v zoznamoch kategórií a miniaplikáciách pri použití možnosti štýlu „Ikona“.';
+$Definition[
+    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
+] =
+    'Tento obrázok sa zobrazí v banneri tejto kategórie a v miniaplikáciách kategórie pri použití možností štýlu „Obrázok“ a/alebo „Pozadie“. Odporúčané rozmery sú približne 1 000 x 400 pixelov alebo podobný pomer.';
+$Definition["This is a parent category that does not allow discussions."] =
+    "Toto je rodičovská kategória, ktorá neumožňuje diskusie.";
+$Definition['This is the first time you\'ve visited the discussion forums.'] =
+    'Toto je prvý raz, čo ste navštívili diskusné fóra.';
+$Definition[
+    "This may be used to include content such as organization name and address in the email digest."
+] =
+    "Môže sa použiť na zahrnutie obsahu, ako je názov organizácie a adresa, do súhrnu e-mailu.";
+$Definition["This name will be shown in the community."] =
+    "Toto meno sa zobrazí v komunite.";
+$Definition["This page requires Javascript."] =
+    "Táto stránka si vyžaduje Javascript.";
+$Definition["This pocket is an ad."] = "Toto vrecko je reklama.";
+$Definition[
+    "This theme cannot be deleted because it is the currently applied theme"
+] = "Túto tému nie je možné odstrániť, pretože je aktuálne aplikovaná.";
+$Definition["This theme has additional options."] =
+    "Táto téma má ďalšie možnosti na stránke  %s.";
+$Definition["This theme has customizable text."] =
+    "Táto stránka obsahuje text, ktorý môžete prispôsobiť.";
+$Definition[
+    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
+] =
+    "To nasmeruje ostatných používateľov s podobnými otázkami k správnym odpovediam rýchlejšie a zobrazí odpoveď navrhovanú AI a prepojí odkazovaný materiál, aby si ju mohli pozrieť ostatní používatelia. Návrhy sú viditeľné iba pre vás, kým neprijmete odpoveď.";
+$Definition["Threshold"] = "Prahová hodnota";
+$Definition["Thumbnails"] = "Náhľady";
+$Definition["Thumbnail Size"] = "Veľkosť miniatúry";
+$Definition["Time"] = "Čas";
+$Definition["Timeframe"] = "Časový rámec";
+$Definition["Titles"] = "Tituly";
+$Definition["Title Color"] = "Farba názvu";
+$Definition["Title Color (Hover)"] = "Farba názvu (kurzor)";
+$Definition["Token Name"] = "Názov tokenu";
+$Definition["Touch Icon"] = "Kliknúť na ikonu";
+$Definition["True"] = "Pravda";
+$Definition["Truncate the initial discussion text to this many words."] =
+    "Skrátiť počiatočný text diskusie na tento počet slov.";
+$Definition["trusted domains"] = "dôveryhodné domény";
+$Definition["Trusted Domains"] = "Dôveryhodné domény";
+$Definition["Turn OFF"] = "Vypnúť";
+$Definition["Turn off AI Suggested Answers"] = "Vypnite odpovede navrhované AI";
+$Definition["Turn off for now"] = "Zatiaľ vypnite";
+$Definition["Twitter Connector"] = "Twitter konektor";
 
-$Definition['unconfirmed'] = 'nepotvrdené';
-$Definition['Undo Accept Answer'] = 'Zrušiť prijatie odpovede';
-$Definition['Uninvite'] = 'Nepozvať';
-$Definition['Universal Code'] = 'Univerzálny kód';
-$Definition['Universal Forum Embed Code'] = 'Kód embedovaného univerzálneho fóra';
-$Definition['Unlimited'] = 'Neobmedzené';
-$Definition['Up to a maximum of 100 items may be displayed.'] = 'Je možné zobraziť maximálne 100 položiek.';
-$Definition['Upload New Email Logo'] = 'Nahrajte nové email logo';
-$Definition['Upcoming Events'] = 'Pripravované akcie';
-$Definition['Use an SMTP server to send email'] = 'Použiť SMTP server na poslanie e-mailu';
-$Definition['Use asterisks for wildcards'] = 'Ako zástupné znaky použite hviezdičky, napr. "*@gmail.com"';
-$Definition['Use British English Spelling']  ='Používajte britský anglický pravopis';
-$Definition['Use Categories'] = 'Použiť kategóriu';
-$Definition['Use categories to organize discussions'] = 'Použiť kategórie na organizáciu diskusií';
-$Definition['Use Facebook names for usernames.'] = 'Použiť mená z Facebooku ako používateľské mená';
-$Definition['Use AI Suggestions in Q&A'] = 'Použite návrhy AI v otázkach a odpovediach';
-$Definition['User Count'] = 'Užívatelia';
-$Definition['UserDelete'] = 'Odstrániť používateľov obsah';
-$Definition['User Deleted'] = 'Používateľ odstránený';
-$Definition['User Preferences'] = 'Používateľské preferencie';
-$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'Používa vysoko odborný jazyk a výrazy špecifické pre dané odvetvie, ktoré sú určené pre tých, ktorí dobre rozumejú danej problematike.';
-$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'V prípade potreby používa výrazy špecifické pre dané odvetvie, ale na zabezpečenie jasnosti poskytuje aj vysvetlenia definícií.';
-$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'Používa jednoduchý, každodenný jazyk, ktorému rozumie každý bez ohľadu na jeho zázemie alebo odbornosť.';
-$Definition['UserDeleteMessage'] = 'Vymažte používateľa a odstráňte všetok jeho obsah. Môže to spôsobiť prerušenie diskusií. Najlepšia možnosť na odstránenie spamu.';
-$Definition['UserDeletionPrompt'] = 'Zvoľte ako naložiť so všetkými dátami užívateľa %s (komentáre, správy, atď).';
-$Definition['UserKeep'] = 'Udržať používateľa obsah';
-$Definition['UserKeepMessage'] = 'Vymazať používateľa, ale zachovať jeho obsah.';
-$Definition['Username or UserID to Spoof'] = 'Užívateľské meno alebo ID užívateľa na Spoof';
-$Definition['User Registration Settings'] = 'Nastavenia registrácie používateľov';
-$Definition['User successfully added.'] = 'Používateľ bol úspešne pridaný.';
-$Definition['User successfully updated.'] = 'Používateľ bol úspešne aktualizovaný.';
-$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'Používatelia môžu sledovať kategórie a prihlásiť sa na odber upozornení na nové príspevky. Vyberte, ktoré kategórie by mali noví používatelia predvolene sledovať.';
-$Definition['Users that get this reaction get %+d point.'] = 'Používatelia, ktorí získajú túto reakciu, dostanú bod  %+d.';
-$Definition['Users that get this reaction get %+d points.'] = 'Používatelia,ktorí získajú túto reakciu, dostanú %+d body.';
-$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'Používatelia nebudú varovaní, keď budú nasledovať odkazy, ktoré sa zhodujú s dôveryhodnou doménou.';
-$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Po akceptovaní pozvania budú používatelia presmerovaní na túto URL. Môže to byť úplná URL alebo cesta na presmerovanie v rámci webu.';
-$Definition['User Summary'] = 'Zhrnutie používateľa';
-$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Používatelia budú mať pridelenú túto rolu, až kým nepotvrdia svoju e-mailovú adresu,';
-$Definition['Users with the no ads permission will not see this pocket.'] = 'Používatelia, ktorí nemajú povolenie na reklamy, neuvidia tento pocket.';
-$Definition['UserWipe'] = 'Prázdny používateľský obsah';
-$Definition['UserWipeMessage'] = 'Vymazať používateľa a nahradiť všetok jeho obsah správou s informáciou, že používateľ bol vymazaný. Poskytuje to viditeľné upozornenie, že sú tu chýbajúce informácie.';
-$Definition['Use the content at this url as your homepage.'] = 'Vyberte stránku, ktorú ľudia uvidia, keď navštívia: <strong style="white-space: nowrap;">%s</strong>';
-$Definition['Use Vanilla as a commenting system in your site'] = 'Použite Vanilla ako systém komentovania na svojich stránkach';
-$Definition['Use weekly community email digest'] = 'Použite týždenný súhrn e-mailov komunity';
-$Definition['Untitled'] = 'Bez názvu';
+$Definition["unconfirmed"] = "nepotvrdené";
+$Definition["Undo Accept Answer"] = "Zrušiť prijatie odpovede";
+$Definition["Uninvite"] = "Nepozvať";
+$Definition["Universal Code"] = "Univerzálny kód";
+$Definition["Universal Forum Embed Code"] = "Kód embedovaného univerzálneho fóra";
+$Definition["Unlimited"] = "Neobmedzené";
+$Definition["Up to a maximum of 100 items may be displayed."] =
+    "Je možné zobraziť maximálne 100 položiek.";
+$Definition["Upload New Email Logo"] = "Nahrajte nové email logo";
+$Definition["Upcoming Events"] = "Pripravované akcie";
+$Definition["Use an SMTP server to send email"] =
+    "Použiť SMTP server na poslanie e-mailu";
+$Definition["Use asterisks for wildcards"] =
+    'Ako zástupné znaky použite hviezdičky, napr. "*@gmail.com"';
+$Definition["Use British English Spelling"] = "Používajte britský anglický pravopis";
+$Definition["Use Categories"] = "Použiť kategóriu";
+$Definition["Use categories to organize discussions"] =
+    "Použiť kategórie na organizáciu diskusií";
+$Definition["Use Facebook names for usernames."] =
+    "Použiť mená z Facebooku ako používateľské mená";
+$Definition["Use AI Suggestions in Q&A"] = "Použite návrhy AI v otázkach a odpovediach";
+$Definition["User Count"] = "Užívatelia";
+$Definition["UserDelete"] = "Odstrániť používateľov obsah";
+$Definition["User Deleted"] = "Používateľ odstránený";
+$Definition["User Preferences"] = "Používateľské preferencie";
+$Definition[
+    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
+] =
+    "Používa vysoko odborný jazyk a výrazy špecifické pre dané odvetvie, ktoré sú určené pre tých, ktorí dobre rozumejú danej problematike.";
+$Definition[
+    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
+] =
+    "V prípade potreby používa výrazy špecifické pre dané odvetvie, ale na zabezpečenie jasnosti poskytuje aj vysvetlenia definícií.";
+$Definition[
+    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
+] =
+    "Používa jednoduchý, každodenný jazyk, ktorému rozumie každý bez ohľadu na jeho zázemie alebo odbornosť.";
+$Definition["UserDeleteMessage"] =
+    'Vymažte používateľa a odstráňte všetok jeho obsah. Môže to spôsobiť prerušenie diskusií. Najlepšia možnosť na odstránenie spamu.';
+$Definition["UserDeletionPrompt"] =
+    "Zvoľte ako naložiť so všetkými dátami užívateľa %s (komentáre, správy, atď).";
+$Definition["UserKeep"] = "Udržať používateľa obsah";
+$Definition["UserKeepMessage"] =
+    'Vymazať používateľa, ale zachovať jeho obsah.';
+$Definition["Username or UserID to Spoof"] = "Užívateľské meno alebo ID užívateľa na Spoof";
+$Definition["User Registration Settings"] = "Nastavenia registrácie používateľov";
+$Definition["User successfully added."] = "Používateľ bol úspešne pridaný.";
+$Definition["User successfully updated."] = "Používateľ bol úspešne aktualizovaný.";
+$Definition[
+    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
+] =
+    "Používatelia môžu sledovať kategórie a prihlásiť sa na odber upozornení na nové príspevky. Vyberte, ktoré kategórie by mali noví používatelia predvolene sledovať.";
+$Definition["Users that get this reaction get %+d point."] =
+    "Používatelia, ktorí získajú túto reakciu, dostanú bod  %+d.";
+$Definition["Users that get this reaction get %+d points."] =
+    "Používatelia,ktorí získajú túto reakciu, dostanú %+d body.";
+$Definition[
+    "Users will not be warned when following links that match a Trusted Domain."
+] =
+    "Používatelia nebudú varovaní, keď budú nasledovať odkazy, ktoré sa zhodujú s dôveryhodnou doménou.";
+$Definition[
+    "Users will be redirected to this URL after accepting an invitation."
+] =
+    "Po akceptovaní pozvania budú používatelia presmerovaní na túto URL. Môže to byť úplná URL alebo cesta na presmerovanie v rámci webu.";
+$Definition["User Summary"] = "Zhrnutie používateľa";
+$Definition[
+    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
+] =
+    'Používatelia budú mať pridelenú túto rolu, až kým nepotvrdia svoju e-mailovú adresu,';
+$Definition["Users with the no ads permission will not see this pocket."] =
+    "Používatelia, ktorí nemajú povolenie na reklamy, neuvidia tento pocket.";
+$Definition["UserWipe"] = "Prázdny používateľský obsah";
+$Definition["UserWipeMessage"] =
+    'Vymazať používateľa a nahradiť všetok jeho obsah správou s informáciou, že používateľ bol vymazaný. Poskytuje to viditeľné upozornenie, že sú tu chýbajúce informácie.';
+$Definition["Use the content at this url as your homepage."] =
+    'Vyberte stránku, ktorú ľudia uvidia, keď navštívia: <strong style="white-space: nowrap;">%s</strong>';
+$Definition["Use Vanilla as a commenting system in your site"] =
+    "Použite Vanilla ako systém komentovania na svojich stránkach";
+$Definition["Use weekly community email digest"] =
+    "Použite týždenný súhrn e-mailov komunity";
+$Definition["Untitled"] = "Bez názvu";
 
-$Definition['Value or Pattern'] = 'Hodnota alebo vzor';
-$Definition['Vanilla.Archive.Description'] = 'Môžete sa rozhodnúť archivovať diskusie na fórach staršie ako určitý dátum. Archivované diskusie sú uzavreté a neumožňujú nové príspevky.';
-$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Umiestniť vnorené kategórie do zoznamu oddeleného čiarkami, keď sú %1$s';
-$Definition['Vanilla is installed!'] = 'Vanilla je nainštalovaný!';
-$Definition['Verified!'] = 'Verifikované!';
-$Definition['Version'] = 'Verzia';
-$Definition['Version %s'] = 'Verzia %s';
-$Definition['version %s'] = 'verzia %s';
-$Definition['Version %s Installer'] = 'Inštalátor verzie %s';
-$Definition['View browser compatibility chart'] = 'Pozrite si tabuľku kompatibility prehliadača';
-$Definition['View Count'] = 'Počet zobrazení';
-$Definition['View in context '] = 'Pohľad v kontexte';
-$Definition['View Page'] = 'Zobraziť stránku';
-$Definition['Visit Site'] = 'Navštíviť stránku';
-$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Upozorniť používateľov, ak odkaz v príspevku spôsobí, že opustia fórum';
-$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varovanie: Všetky vaše dáta budú stratené. Po vymazaní neexistuje žiadna možnosť obnovy.';
-$Definition['Warning: deleting is permanent'] = 'VAROVANIE: vymazané položky sú odstránené z tohto zoznamu a nie je možné vrátiť ich na zoznam.';
-$Definition['Weekly Email Digest '] = 'Týždenný súhrn e-mailov';
-$Definition['Welcome to Vanilla!'] = 'Vitajte vo Vanilla!';
-$Definition['Welcome to your Dashboard'] = 'Vitajte vo svojom pracovnom paneli';
-$Definition['We only accept urls that begin with http:// or https://'] = 'Akceptujeme iba URL, ktoré začínajú na http:// alebo https://';
-$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Na odosielanie emailov štandardne použijeme lokálny poštový server. Ak chcete používať separátny poštový server SMTP, môžete ho nakonfigurovať nižšie.';
-$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'Vitajte. Som váš AI Suggestion Assistant, nástroj založený na strojovom učení, ktorý je navrhnutý tak, aby našiel a navrhol relevantné články a príspevky ako odpoveď na vaše otázky. Zadajte svoje otázky a ja vám poskytnem najvhodnejšie informácie.';
+$Definition["Value or Pattern"] = "Hodnota alebo vzor";
+$Definition["Vanilla.Archive.Description"] =
+    "Môžete sa rozhodnúť archivovať diskusie na fórach staršie ako určitý dátum. Archivované diskusie sú uzavreté a neumožňujú nové príspevky.";
+$Definition["Vanilla.Categories.MaxDisplayDepth"] =
+    'Umiestniť vnorené kategórie do zoznamu oddeleného čiarkami, keď sú %1$s';
+$Definition["Vanilla is installed!"] = "Vanilla je nainštalovaný!";
+$Definition["Verified!"] = "Verifikované!";
+$Definition["Version"] = "Verzia";
+$Definition["Version %s"] = "Verzia %s";
+$Definition["version %s"] = "verzia %s";
+$Definition["Version %s Installer"] = "Inštalátor verzie %s";
+$Definition["View browser compatibility chart"] =
+    "Pozrite si tabuľku kompatibility prehliadača";
+$Definition["View Count"] = "Počet zobrazení";
+$Definition["View in context "] = "Pohľad v kontexte";
+$Definition["View Page"] = "Zobraziť stránku";
+$Definition["Visit Site"] = "Navštíviť stránku";
+$Definition[
+    "Warn users if a link in a post will cause them to leave the forum"
+] = "Upozorniť používateľov, ak odkaz v príspevku spôsobí, že opustia fórum";
+$Definition[
+    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
+] =
+    "Varovanie: Všetky vaše dáta budú stratené. Po vymazaní neexistuje žiadna možnosť obnovy.";
+$Definition["Warning: deleting is permanent"] =
+    "VAROVANIE: vymazané položky sú odstránené z tohto zoznamu a nie je možné vrátiť ich na zoznam.";
+$Definition["Weekly Email Digest "] = "Týždenný súhrn e-mailov";
+$Definition["Welcome to Vanilla!"] = "Vitajte vo Vanilla!";
+$Definition["Welcome to your Dashboard"] = "Vitajte vo svojom pracovnom paneli";
+$Definition["We only accept urls that begin with http:// or https://"] =
+    "Akceptujeme iba URL, ktoré začínajú na http:// alebo https://";
+$Definition[
+    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
+] =
+    "Na odosielanie emailov štandardne použijeme lokálny poštový server. Ak chcete používať separátny poštový server SMTP, môžete ho nakonfigurovať nižšie.";
+$Definition[
+    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
+] =
+    "Vitajte. Som váš AI Suggestion Assistant, nástroj založený na strojovom učení, ktorý je navrhnutý tak, aby našiel a navrhol relevantné články a príspevky ako odpoveď na vaše otázky. Zadajte svoje otázky a ja vám poskytnem najvhodnejšie informácie.";
 $Definition['What\'s the Buzz?'] = 'Čo je nové?';
-$Definition['When enabled, search result will open in a new browser tab.'] = 'Keď je táto možnosť povolená, výsledok vyhľadávania sa otvorí na novej karte prehliadača.';
-$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'Keď je táto možnosť povolená, vaša komunita bude mať návrhy AI zobrazené v otázkach a odpovediach. <0/>';
-$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'Keď je toto nastavenie povolené, údaje o používateľovi v údajoch služby Analytics budú predvolene anonymizované, kým používateľ nevyjadrí súhlas so súbormi cookie služby Analytics. <0>Viac informácií</0>';
-$Definition['Where is your Community Forum?'] = 'Kde je vaše komunitné fórum?';
+$Definition["When enabled, search result will open in a new browser tab."] =
+    "Keď je táto možnosť povolená, výsledok vyhľadávania sa otvorí na novej karte prehliadača.";
+$Definition[
+    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
+] = "Keď je táto možnosť povolená, vaša komunita bude mať návrhy AI zobrazené v otázkach a odpovediach. <0/>";
+$Definition[
+    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
+] =
+    "Keď je toto nastavenie povolené, údaje o používateľovi v údajoch služby Analytics budú predvolene anonymizované, kým používateľ nevyjadrí súhlas so súbormi cookie služby Analytics. <0>Viac informácií</0>";
+$Definition["Where is your Community Forum?"] =
+    "Kde je vaše komunitné fórum?";
 $Definition['Who\'s Online Settings'] = 'Nastavenia zobrazovania používateľov, ktorí sú online';
-$Definition['Why am I seeing AI Suggested Answers?'] = 'Prečo sa mi zobrazujú odpovede navrhované AI?';
-$Definition['Why am I seeing this?'] = 'Prečo to vidím?';
-$Definition['Why do you want to join?'] = 'Prečo sa chcete pridať?';
-$Definition['Within'] = 'V rozpätí';
-$Definition['Will you be attending?'] = 'Zúčastníte sa?';
-$Definition['WordPress Plugin'] = 'Rozšírenie WordPress';
-$Definition['Word Count'] = 'Počet slov';
+$Definition["Why am I seeing AI Suggested Answers?"] =
+    "Prečo sa mi zobrazujú odpovede navrhované AI?";
+$Definition["Why am I seeing this?"] = "Prečo to vidím?";
+$Definition["Why do you want to join?"] = "Prečo sa chcete pridať?";
+$Definition["Within"] = "V rozpätí";
+$Definition["Will you be attending?"] = "Zúčastníte sa?";
+$Definition["WordPress Plugin"] = "Rozšírenie WordPress";
+$Definition["Word Count"] = "Počet slov";
 
-$Definition['Yes, the following information can be changed later.'] = 'Áno, nasledujúce informácie je možné neskôr zmeniť.';
-$Definition['You are connected as %s.'] = 'Ste pripojení ako%s.';
-$Definition['You are not allowed to use suggestions'] = 'Nemáte povolené používať návrhy';
-$Definition['You are previewing the %s theme.'] = 'Prezeráte si ukážku témy %s .';
-$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Označte políčko vedľa používateľa, ktorý uverejnil spam, zakážte ho a odstráňte všetky jeho príspevky. <b> Urobte to iba keď ste si istí, že ide o spammerov. </b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Ak budete niekedy vymknutý zo svojho fóra, môžete sa kedykoľvek prihlásiť pomocou svojej pôvodnej emailovej adresy Vanilla a hesla na <a href="%1$s">%1$s</a>';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Pomocou tohto nástroja môžete zakázať IP adresy, emailové domény a slová z používateľských mien.';
-$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Na stránke %s môžete prispôsobiť kódy HTML a CSS.';
-$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Môžete si vytvoriť nový účet alebo zadať svoje poverenia, ak už máte existujúci účet.';
-$Definition['You can make the categories page your homepage.'] = 'Vašu stránku s kategóriami si môžete <a href="%s">tu</a> nastaviť ako domovskú stránku.';
-$Definition['You can search for users by username or email, wildcards are implied.'] = 'Môžete vyhľadávať používateľov podľa používateľského mena alebo e-mailu, zástupné znaky sú zahrnuté.';
-$Definition['You can specify an allow list of trusted domains.'] = 'Môžete zadať zoznam dôveryhodných domén, ktoré sú bezpečné pre presmerovania a vkladanie.';
-$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Môžete zadať zoznam povolených dôveryhodných domén (napr. vasadomena.com), z ktorých je bezpečné načítať javascript.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Doplnok %1$s nemôžete vymazať, lebo je potrebný na fungovanie doplnku %2$s.';
-$Definition['You cannot remove the only remaining category that allows discussions'] = 'Poslednú zostávajúcu kategóriu, ktorá umožňuje diskusie, nemôžete odstrániť ';
-$Definition['You can protect your site with an HTTP username/password during development.'] = 'Počas vývoja môžete svoju stránku chrániť HTTP používateľským menom a heslom.';
-$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Ak vypnete prepínač nižsie, môžete posielať e-maily vo formáte obyčajného textu.';
-$Definition['You have %s invitations left for this month.'] = 'V  tomto mesiaci vám zostávajú %s pozvánky.';
-$Definition['You have successfully saved interest: <0/>'] = 'Úspešne ste uložili záujem: <0/>';
-$Definition['You must be authenticated in order to use this form.'] = 'Aby ste mohli tento formulár používať, musíte byť overení.';
-$Definition['You must manually apply this rank.'] = 'Toto hodnotenie musíte aplikovať manuálne';
-$Definition['You must provide at least one recipient'] = 'Musíte uviesť aspoň 1 príjemcu';
-$Definition['You must specify an admin password.'] = 'Musíte zadať heslo správcu.';
-$Definition['You must specify an admin username.'] = 'Musíte zadať používateľské meno správcu.';
-$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Váš konfiguračný súbor nemá správne povolenia. PHP musí byť schopné čítať a zapisovať do tohto súboru: <code>%s</code>';
-$Definition['Your default locale won\'t display properly'] = 'Vaše predvolené miestne nastavenie sa nebude zobrazovať správne, kým ho nižšie nepovolíte. Povoľte nasledujúce: %s.';
-$Definition['Your Email'] = 'Tvoj e-mail';
-$Definition['Your inbox is empty.'] = 'Vaša doručená pošta je prázdna.';
-$Definition['Your invitations were sent successfully.'] = 'Vaše pozvánky boli úspešne poslané.';
-$Definition['Your Password'] = 'Tvoje heslo';
-$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Opúšťate editor tém bez uloženia zmien. Pred ukončením skontrolujte, či sú Vaše aktualizácie uložené.';
-$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'Stránku Nastavenia e-mailu opúšťate bez uloženia zmien. Pred ukončením sa uistite, že sú vaše aktualizácie uložené.';
+$Definition["Yes, the following information can be changed later."] =
+    "Áno, nasledujúce informácie je možné neskôr zmeniť.";
+$Definition["You are connected as %s."] = "Ste pripojení ako%s.";
+$Definition["You are not allowed to use suggestions"] =
+    "Nemáte povolené používať návrhy";
+$Definition["You are previewing the %s theme."] =
+    "Prezeráte si ukážku témy %s .";
+$Definition[
+    "You can also ban the users that posted the spam and delete all of their posts."
+] =
+    "Označte políčko vedľa používateľa, ktorý uverejnil spam, zakážte ho a odstráňte všetky jeho príspevky. <b> Urobte to iba keď ste si istí, že ide o spammerov. </b>";
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
+    'Ak budete niekedy vymknutý zo svojho fóra, môžete sa kedykoľvek prihlásiť pomocou svojej pôvodnej emailovej adresy Vanilla a hesla na <a href="%1$s">%1$s</a>';
+$Definition[
+    "You can ban IP addresses, email domains, and words from usernames using this tool."
+] =
+    "Pomocou tohto nástroja môžete zakázať IP adresy, emailové domény a slová z používateľských mien.";
+$Definition[
+    "You can customize the HTML and CSS for this theme on the %s page."
+] = "Na stránke %s môžete prispôsobiť kódy HTML a CSS.";
+$Definition[
+    "You can either create a new account, or enter your credentials if you have an existing account."
+] =
+    "Môžete si vytvoriť nový účet alebo zadať svoje poverenia, ak už máte existujúci účet.";
+$Definition["You can make the categories page your homepage."] =
+    'Vašu stránku s kategóriami si môžete <a href="%s">tu</a> nastaviť ako domovskú stránku.';
+$Definition[
+    "You can search for users by username or email, wildcards are implied."
+] = "Môžete vyhľadávať používateľov podľa používateľského mena alebo e-mailu, zástupné znaky sú zahrnuté.";
+$Definition["You can specify an allow list of trusted domains."] =
+    "Môžete zadať zoznam dôveryhodných domén, ktoré sú bezpečné pre presmerovania a vkladanie.";
+$Definition["You can specify an allow list of trusted domains. (CSP)"] =
+    "Môžete zadať zoznam povolených dôveryhodných domén (napr. vasadomena.com), z ktorých je bezpečné načítať javascript.";
+$Definition[
+    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
+] =
+    'Doplnok %1$s nemôžete vymazať, lebo je potrebný na fungovanie doplnku %2$s.';
+$Definition[
+    "You cannot remove the only remaining category that allows discussions"
+] = "Poslednú zostávajúcu kategóriu, ktorá umožňuje diskusie, nemôžete odstrániť ";
+$Definition[
+    "You can protect your site with an HTTP username/password during development."
+] =
+    "Počas vývoja môžete svoju stránku chrániť HTTP používateľským menom a heslom.";
+$Definition[
+    "You can send emails in plain text by disabling the toggle below."
+] = "Ak vypnete prepínač nižsie, môžete posielať e-maily vo formáte obyčajného textu.";
+$Definition["You have %s invitations left for this month."] =
+    "V  tomto mesiaci vám zostávajú %s pozvánky.";
+$Definition["You have successfully saved interest: <0/>"] =
+    "Úspešne ste uložili záujem: <0/>";
+$Definition["You must be authenticated in order to use this form."] =
+    "Aby ste mohli tento formulár používať, musíte byť overení.";
+$Definition["You must manually apply this rank."] =
+    "Toto hodnotenie musíte aplikovať manuálne";
+$Definition["You must provide at least one recipient"] =
+    "Musíte uviesť aspoň 1 príjemcu";
+$Definition["You must specify an admin password."] =
+    "Musíte zadať heslo správcu.";
+$Definition["You must specify an admin username."] =
+    "Musíte zadať používateľské meno správcu.";
+$Definition[
+    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
+] =
+    "Váš konfiguračný súbor nemá správne povolenia. PHP musí byť schopné čítať a zapisovať do tohto súboru: <code>%s</code>";
+$Definition['Your default locale won\'t display properly'] =
+    'Vaše predvolené miestne nastavenie sa nebude zobrazovať správne, kým ho nižšie nepovolíte. Povoľte nasledujúce: %s.';
+$Definition["Your Email"] = "Tvoj e-mail";
+$Definition["Your inbox is empty."] = "Vaša doručená pošta je prázdna.";
+$Definition["Your invitations were sent successfully."] =
+    "Vaše pozvánky boli úspešne poslané.";
+$Definition["Your Password"] = "Tvoje heslo";
+$Definition[
+    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Opúšťate editor tém bez uloženia zmien. Pred ukončením skontrolujte, či sú Vaše aktualizácie uložené.";
+$Definition[
+    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "Stránku Nastavenia e-mailu opúšťate bez uloženia zmien. Pred ukončením sa uistite, že sú vaše aktualizácie uložené.";
 
-$Definition['Zendesk Knowledge Bases'] = 'Knowledge Bases Zendesk';
+$Definition["Zendesk Knowledge Bases"] = "Knowledge Bases Zendesk";
 
 $Definition["Mobile Logo"] = "Logo mobilu";
 $Definition["Banner Image"] = "Obrázok bannera";
 $Definition["Disable Forum Pages"] = "Zakázať stránky fóra";
 
 // Posting settings
-$Definition['InputFormatter.Notes1'] = 'Vyberte predvolený formát editora pre príspevky v komunite.';
-$Definition['InputFormatter.Notes2'] = 'Pri úprave starých príspevkov editor automaticky zistí ich formát a načíta pôvodné pravidlá formátovania. Okrem tejto výnimky bude prioritne vybraný dole uvedený formát príspevku.';
-$Definition['Formatting Posts'] = 'Formátovanie príspevkov';
-$Definition['MobileInputFormatter.Notes1'] = 'Zadajte formát úprav pre mobilné zariadenia.';
-$Definition['MobileInputFormatter.Notes2'] = 'Pre rovnaký zážitok z používania na mobilnom zariadení zadajte to isté ako vyššie. Ak používatelia nahlásia problémy úpravami cez mobilné zariadenia, toto je dobrá možnosť na zmenu.';
-$Definition['Note:'] = 'Poznámka:';
-$Definition['Post Format'] = 'Formát príspevku';
-$Definition['Posting'] = 'Uverejňuje sa';
-$Definition['Reinterpret All Posts As %s'] = 'Znova interpretovať všetky príspevky ako %s';
-$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'Povedzte editorovi, aby prehodnotil všetky staré príspevky ako %s.';
-$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'Toto nastavenie sa prejaví iba vtedy, ak bol ako formát príspevku vyššie vybratý %s.';
-$Definition['This option is to normalize the editor format'] = 'Táto možnosť slúži na normalizáciu formátu editora, ak sa načítajú staršie príspevky upravené iným formátom, ako je markdown alebo BBCode, táto možnosť vynúti %s.';
+$Definition["InputFormatter.Notes1"] =
+    "Vyberte predvolený formát editora pre príspevky v komunite.";
+$Definition["InputFormatter.Notes2"] =
+    "Pri úprave starých príspevkov editor automaticky zistí ich formát a načíta pôvodné pravidlá formátovania. Okrem tejto výnimky bude prioritne vybraný dole uvedený formát príspevku.";
+$Definition["Formatting Posts"] = "Formátovanie príspevkov";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Zadajte formát úprav pre mobilné zariadenia.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Pre rovnaký zážitok z používania na mobilnom zariadení zadajte to isté ako vyššie. Ak používatelia nahlásia problémy úpravami cez mobilné zariadenia, toto je dobrá možnosť na zmenu.";
+$Definition["Note:"] = "Poznámka:";
+$Definition["Post Format"] = "Formát príspevku";
+$Definition["Posting"] = "Uverejňuje sa";
+$Definition["Reinterpret All Posts As %s"] = "Znova interpretovať všetky príspevky ako %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Povedzte editorovi, aby prehodnotil všetky staré príspevky ako %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Toto nastavenie sa prejaví iba vtedy, ak bol ako formát príspevku vyššie vybratý %s.";
+$Definition["This option is to normalize the editor format"] =
+    "Táto možnosť slúži na normalizáciu formátu editora, ak sa načítajú staršie príspevky upravené iným formátom, ako je markdown alebo BBCode, táto možnosť vynúti %s.";
 
-$Definition['Mobile Format'] = 'Mobilný formát';
-$Definition['Enable Rich Quotes'] = 'Povoliť citácie vo formáte RTF';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Na povolenie citátov pre Rich editor použite nasledujúcu možnosť. Platí iba vtedy, ak ide o predvolený nástroj na formátovanie „Rich“.';
+$Definition["Mobile Format"] = "Mobilný formát";
+$Definition["Enable Rich Quotes"] = "Povoliť citácie vo formáte RTF";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Na povolenie citátov pre Rich editor použite nasledujúcu možnosť. Platí iba vtedy, ak ide o predvolený nástroj na formátovanie „Rich“.';
 
 // Catalogue Display Plugin/Formats
-$Definition['Default placeholder'] = 'Predvolený zástupný symbol';
-$Definition['Upload a placeholder image for catalogue post.'] = 'Nahrajte zástupný obrázok, ktorý sa zobrazí, keď používatelia nebudú mať obrázok vo svojom príspevku.';
-$Definition['Additional classes'] = 'Dodatočné kurzy';
-$Definition['Apply additional classes on catalogue image.'] = 'Aplikovať dodatočné kurzy na obrázok katalógu. Použiť medzeru na oddelenie jednotlivých kurzov.';
-$Definition['Category only'] = 'Len kategória';
-$Definition['Display on category page only.'] = 'Zobraziť iba na stránke kategórie. Zoznam nedávnych diskusií nebude ovplyvnený.';
-$Definition['Use Masonry display'] = 'Použiť vystavenie muriva';
-$Definition['Show an uploaded image on the Category page.'] = 'Každá diskusia zobrazí na stránke Kategória nahraný obrázok. Platí to iba pre kategórie s „Diskusiami“ ako „Zobraziť ako“.';
-$Definition['Upload Placeholder Image'] = 'Nahrať obrázok zástupného symbolu';
+$Definition["Default placeholder"] = "Predvolený zástupný symbol";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Nahrajte zástupný obrázok, ktorý sa zobrazí, keď používatelia nebudú mať obrázok vo svojom príspevku.";
+$Definition["Additional classes"] = "Dodatočné kurzy";
+$Definition["Apply additional classes on catalogue image."] =
+    "Aplikovať dodatočné kurzy na obrázok katalógu. Použiť medzeru na oddelenie jednotlivých kurzov.";
+$Definition["Category only"] = "Len kategória";
+$Definition["Display on category page only."] =
+    "Zobraziť iba na stránke kategórie. Zoznam nedávnych diskusií nebude ovplyvnený.";
+$Definition["Use Masonry display"] = "Použiť vystavenie muriva";
+$Definition["Show an uploaded image on the Category page."] =
+    'Každá diskusia zobrazí na stránke Kategória nahraný obrázok. Platí to iba pre kategórie s „Diskusiami“ ako „Zobraziť ako“.';
+$Definition["Upload Placeholder Image"] = "Nahrať obrázok zástupného symbolu";
 
 // Profile Fields
-$Definition['There was an error saving your changes. Please try again.'] = 'Pri ukladaní zmien sa vyskytla chyba. Prosím skúste znova.';
+$Definition["There was an error saving your changes. Please try again."] =
+    "Pri ukladaní zmien sa vyskytla chyba. Prosím skúste znova.";
 $Definition["<0/> has been <1/>"] = "<0/> bolo <1/>";
 $Definition["enabled"] = "povolené";
 $Definition["disabled"] = "zdravotne postihnutých";
 
-$Definition["This information will only be shown to users with permission to view internal info"] = "Tieto informácie sa zobrazia iba používateľom s povolením na zobrazenie interných informácií";
-$Definition["This is private information and will not be shared with other members."] = "Toto sú súkromné informácie a nebudú zdieľané s ostatnými členmi.";
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Tieto informácie sa zobrazia iba používateľom s povolením na zobrazenie interných informácií";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Toto sú súkromné informácie a nebudú zdieľané s ostatnými členmi.";
 
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Tým sa vytvorí stretnutie Zoom v mene vlastníka integrácie Zoom a ak ste registrovaný používateľ, pridajte si vás ako cohost. Ak nie ste registrovaný používateľ Zoom alebo nie ste súčasťou organizácie, ktorá nastavila integráciu, táto udalosť môže mať obmedzenú funkčnosť Zoom bez hostiteľa.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Webovú adresu alebo ID priblíženia tejto udalosti nemôžete aktualizovať.';
 
-$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'Tým sa vytvorí stretnutie Zoom v mene vlastníka integrácie Zoom a ak ste registrovaný používateľ, pridajte si vás ako cohost. Ak nie ste registrovaný používateľ Zoom alebo nie ste súčasťou organizácie, ktorá nastavila integráciu, táto udalosť môže mať obmedzenú funkčnosť Zoom bez hostiteľa.';
-$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'Webovú adresu alebo ID priblíženia tejto udalosti nemôžete aktualizovať.';
-
-$Definition['Zoom Meeting ID or URL'] = 'Priblížiť ID schôdze alebo URL';
+$Definition["Zoom Meeting ID or URL"] = "Priblížiť ID schôdze alebo URL";
 
 // Automation Rules
-$Definition['Add tag'] = 'Pridať značku';
-$Definition['A post'] = 'Príspevok';
-$Definition['A post has been added to a collection'] = 'Do zbierky bol pridaný príspevok';
-$Definition['A post has not had any activity'] = 'Príspevok nevykazoval žiadnu aktivitu';
-$Definition['A question'] = 'Otázka';
-$Definition['A user has been registered'] = 'Používateľ bol zaregistrovaný';
-$Definition['A post has received'] = 'Bol prijatý príspevok';
-$Definition['A user registers or logs in with email domain:'] = 'Používateľ sa zaregistruje alebo prihlási pomocou e-mailovej domény:';
-$Definition['A user registers or updates a profile field:'] = 'Používateľ zaregistruje alebo aktualizuje pole profilu:';
-$Definition['Add tags:'] = 'Pridať značky:';
-$Definition['Add to collection:'] = 'Pridať do zbierky:';
-$Definition['An idea has received'] = 'Bol prijatý nápad';
-$Definition['and'] = 'a';
-$Definition['and assign to'] = 'a priradiť k';
-$Definition['and remove role'] = 'a odstrániť rolu';
-$Definition['and remove from community'] = 'a odstrániť z komunity';
-$Definition['Assign role:'] = 'Priradiť rolu:';
-$Definition['Assign/Remove role'] = 'Priradiť/Odstrániť rolu';
-$Definition['Auto-run disabled.'] = 'Automatické spustenie je zakázané.';
-$Definition['Auto-run enabled.'] = 'Automatické spustenie povolené.';
-$Definition['Automation rule successfully created.'] = 'Pravidlo automatizácie bolo úspešne vytvorené.';
-$Definition['Automation rule successfully updated.'] = 'Pravidlo automatizácie bolo úspešne aktualizované.';
-$Definition['Bump post'] = 'Nárazový príspevok';
-$Definition['Change the status of the idea to'] = 'Zmeňte stav nápadu na';
-$Definition['Change status'] = 'Zmeniť stav';
-$Definition['Close post'] = 'Zavrieť príspevok';
-$Definition['Comments Matching Criteria Now: <0 />'] = 'Kritériá zhody komentárov teraz: <0 />';
-$Definition['created by'] = 'vytvoril';
-$Definition['Create and manage automations to easily manage posts and users.'] = 'Vytvárajte a spravujte automatizácie na jednoduchú správu príspevkov a používateľov.';
-$Definition['Create/Edit Automation Rule'] = 'Vytvoriť/upraviť pravidlo automatizácie';
-$Definition['Delete Rule'] = 'Odstrániť pravidlo';
-$Definition['Discussions Matching Criteria Now: <0 />'] = 'Diskusie zodpovedajúce kritériám teraz: <0 />';
-$Definition['Edit Rule'] = 'Upraviť pravidlo';
-$Definition['Edit Variables'] = 'Upraviť premenné';
-$Definition['Escalate it'] = 'Eskalujte to';
-$Definition['Escalate to GitHub'] = 'Eskalujte na GitHub';
-$Definition['Escalate to Zendesk'] = 'Eskalujte na Zendesk';
-$Definition['Expand'] = 'Rozbaliť';
-$Definition['Failed to disable the rule'] = 'Pravidlo sa nepodarilo zakázať';
-$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'Nepodarilo sa načítať údaje ukážky. Skontrolujte hodnoty spúšťača a akcie.';
-$Definition['Follow categories:'] = 'Sledujte kategórie:';
-$Definition['Follow category'] = 'Sledovať kategóriu';
-$Definition['for'] = 'pre';
-$Definition['has been unanswered'] = 'bola nezodpovedaná';
-$Definition['has not received any comments'] = 'nedostal žiadne pripomienky';
-$Definition['Last reported'] = 'Naposledy nahlásené';
-$Definition['Maximum Limit Reached'] = 'Dosiahnutý maximálny limit';
-$Definition['Move post'] = 'Presunúť príspevok';
-$Definition['Move to category:'] = 'Presunúť do kategórie:';
-$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'Viacnásobný výber polí sa spustí, ak používateľ splní AKÉKOĽVEK z kritérií.';
-$Definition['New/Updated Email domain'] = 'Nová/aktualizovaná emailová doména';
-$Definition['New/Updated Profile field'] = 'Pole Nový/aktualizovaný profil';
-$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'Poznámka: Akcie neovplyvnia <0 />, pre ktoré je už priradená akcia použitá.';
-$Definition['Post Management'] = 'Správa pošty';
-$Definition['Posts Matching Criteria Now: <0 />'] = 'Príspevky zodpovedajúce kritériám teraz: <0 />';
-$Definition['Remove from collection'] = 'Odstrániť zo zbierky';
-$Definition['Remove from collection:'] = 'Odstrániť zo zbierky:';
-$Definition['Remove from default follow list'] = 'Odstrániť z predvoleného zoznamu sledovania';
-$Definition['Remove from trigger collection'] = 'Odstrániť zo zbierky spúšťačov';
-$Definition['report'] = 'správa';
-$Definition['reports'] = 'správy';
-$Definition['Rule Action'] = 'Pravidlo Akcia';
-$Definition['Rule may not be deleted while it is running'] = 'Pravidlo nemôže byť odstránené, kým je spustené';
-$Definition['Rule may not be edited while it is running'] = 'Pravidlo nie je možné upravovať, keď je spustené';
-$Definition['Rule Name'] = 'Názov pravidla';
-$Definition['Rule status will apply once current run completes'] = 'Stav pravidla sa uplatní po dokončení aktuálneho cyklu';
-$Definition['Rule Trigger'] = 'Spúšťač pravidiel';
-$Definition['Running'] = 'Beh';
-$Definition['See documentation for more information.'] = 'Ďalšie informácie nájdete v dokumentácii.';
-$Definition['Select the action that will occur when this rule is triggered.'] = 'Vyberte akciu, ktorá sa vykoná pri spustení tohto pravidla.';
-$Definition['Select the trigger that will cause this rule to run.'] = 'Vyberte spúšťač, ktorý spôsobí spustenie tohto pravidla.';
-$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'Nastavte spúšťaciu premennú a premennú akcie na vytvorenie súhrnu pravidiel.';
-$Definition['sentiment'] = 'sentiment';
-$Definition['since'] = 'odkedy';
-$Definition['Summary'] = 'Zhrnutie';
-$Definition['The action will be applied to only them if you proceed.'] = 'Ak budete pokračovať, akcia sa uplatní iba na nich.';
-$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'Akcia sa na nich uplatní, keď je pravidlo povolené. V budúcnosti sa akcia uplatní aj na ostatných <0 />, ktorí spĺňajú kritériá spúšťania.';
-$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'Toto momentálne neovplyvní žiadne <0 />. V budúcnosti to ovplyvní tých, ktorí spĺňajú kritériá.';
-$Definition['Time since added to collection'] = 'Čas od pridania do zbierky';
-$Definition['Time since post has had no comments'] = 'Čas od príspevku neobsahoval žiadne komentáre';
-$Definition['Time since Registration'] = 'Čas od registrácie';
-$Definition['Time since post has had no activity'] = 'Čas od zverejnenia nezaznamenal žiadnu aktivitu';
-$Definition['Time since question has been unanswered'] = 'Čas odvtedy zostal nezodpovedaný';
-$Definition['Trigger'] = 'Spúšť';
-$Definition['Unsaved Changes'] = 'Neuložené zmeny';
-$Definition['Up to <0 /> ago.'] = 'Pred <0 />.';
-$Definition['upvote'] = 'hlasovať za';
-$Definition['upvotes'] = 'súhlasy';
-$Definition['User Management'] = 'Správa používateľov';
-$Definition['Users Matching Criteria Now: <0 />'] = 'Používatelia teraz spĺňajú kritériá: <0 />';
-$Definition['Value is not a valid integer.'] = 'Hodnota nie je platné celé číslo.';
-$Definition['View History'] = 'Zobraziť históriu';
-$Definition['Votes on an idea'] = 'Hlasuje o nápade';
-$Definition['with'] = 's';
-$Definition['with reason'] = 's rozumom';
-$Definition['with tag'] = 'so značkou';
-$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'Nemôžete pridať viac ako 150 pravidiel automatizácie. Odstráňte niektoré pravidlá a skúste to znova.';
+$Definition["Add tag"] = "Pridať značku";
+$Definition["A post"] = "Príspevok";
+$Definition["A post has been added to a collection"] =
+    "Do zbierky bol pridaný príspevok";
+$Definition["A post has not had any activity"] =
+    "Príspevok nevykazoval žiadnu aktivitu";
+$Definition["A question"] = "Otázka";
+$Definition["A user has been registered"] = "Používateľ bol zaregistrovaný";
+$Definition["A post has received"] = "Bol prijatý príspevok";
+$Definition["Date field reached"] = "Dosiahnuté pole dátumu";
+$Definition["A user registers or logs in with email domain:"] =
+    "Používateľ sa zaregistruje alebo prihlási pomocou e-mailovej domény:";
+$Definition["A user registers or updates a profile field:"] =
+    "Používateľ zaregistruje alebo aktualizuje pole profilu:";
+$Definition["Add tags:"] = "Pridať značky:";
+$Definition["Add to collection:"] = "Pridať do zbierky:";
+$Definition["An idea has received"] = "Bol prijatý nápad";
+$Definition["and"] = "a";
+$Definition["and assign to"] = "a priradiť k";
+$Definition["and remove role"] = "a odstrániť rolu";
+$Definition["and remove from community"] = "a odstrániť z komunity";
+$Definition["Assign role:"] = "Priradiť rolu:";
+$Definition["Assign/Remove role"] = "Priradiť/Odstrániť rolu";
+$Definition["Auto-run disabled."] = "Automatické spustenie je zakázané.";
+$Definition["Auto-run enabled."] = "Automatické spustenie povolené.";
+$Definition["Automation rule successfully created."] =
+    "Pravidlo automatizácie bolo úspešne vytvorené.";
+$Definition["Automation rule successfully updated."] =
+    "Pravidlo automatizácie bolo úspešne aktualizované.";
+$Definition["Bump post"] = "Nárazový príspevok";
+$Definition["Change the status of the idea to"] =
+    "Zmeňte stav nápadu na";
+$Definition["Change status"] = "Zmeniť stav";
+$Definition["Close post"] = "Zavrieť príspevok";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Kritériá zhody komentárov teraz: <0 />";
+$Definition["created by"] = "vytvoril";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Vytvárajte a spravujte automatizácie na jednoduchú správu príspevkov a používateľov.";
+$Definition["Create/Edit Automation Rule"] = "Vytvoriť/upraviť pravidlo automatizácie";
+$Definition["Delete Rule"] = "Odstrániť pravidlo";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Diskusie zodpovedajúce kritériám teraz: <0 />";
+$Definition["Edit Rule"] = "Upraviť pravidlo";
+$Definition["Edit Variables"] = "Upraviť premenné";
+$Definition["Escalate it"] = "Eskalujte to";
+$Definition["Escalate to GitHub"] = "Eskalujte na GitHub";
+$Definition["Escalate to Zendesk"] = "Eskalujte na Zendesk";
+$Definition["Expand"] = "Rozbaliť";
+$Definition["Failed to disable the rule"] = "Pravidlo sa nepodarilo zakázať";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Nepodarilo sa načítať údaje ukážky. Skontrolujte hodnoty spúšťača a akcie.";
+$Definition["Follow categories:"] = "Sledujte kategórie:";
+$Definition["Follow category"] = "Sledovať kategóriu";
+$Definition["for"] = "pre";
+$Definition["has been unanswered"] = "bola nezodpovedaná";
+$Definition["has not received any comments"] = "nedostal žiadne pripomienky";
+$Definition["Last reported"] = "Naposledy nahlásené";
+$Definition["Maximum Limit Reached"] = "Dosiahnutý maximálny limit";
+$Definition["Move post"] = "Presunúť príspevok";
+$Definition["Move to category:"] = "Presunúť do kategórie:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Viacnásobný výber polí sa spustí, ak používateľ splní AKÉKOĽVEK z kritérií.";
+$Definition["New/Updated Email domain"] = "Nová/aktualizovaná emailová doména";
+$Definition["New/Updated Profile field"] = "Pole Nový/aktualizovaný profil";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Poznámka: Akcie neovplyvnia <0 />, pre ktoré je už priradená akcia použitá.";
+$Definition["Post Management"] = "Správa pošty";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Príspevky zodpovedajúce kritériám teraz: <0 />";
+$Definition["Remove from collection"] = "Odstrániť zo zbierky";
+$Definition["Remove from collection:"] = "Odstrániť zo zbierky:";
+$Definition["Remove from default follow list"] =
+    "Odstrániť z predvoleného zoznamu sledovania";
+$Definition["Remove from trigger collection"] =
+    "Odstrániť zo zbierky spúšťačov";
+$Definition["report"] = "správa";
+$Definition["reports"] = "správy";
+$Definition["Rule Action"] = "Pravidlo Akcia";
+$Definition["Rule may not be deleted while it is running"] =
+    "Pravidlo nemôže byť odstránené, kým je spustené";
+$Definition["Rule may not be edited while it is running"] =
+    "Pravidlo nie je možné upravovať, keď je spustené";
+$Definition["Rule Name"] = "Názov pravidla";
+$Definition["Rule status will apply once current run completes"] =
+    "Stav pravidla sa uplatní po dokončení aktuálneho cyklu";
+$Definition["Rule Trigger"] = "Spúšťač pravidiel";
+$Definition["Running"] = "Beh";
+$Definition["See documentation for more information."] =
+    "Ďalšie informácie nájdete v dokumentácii.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Vyberte akciu, ktorá sa vykoná pri spustení tohto pravidla.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Vyberte spúšťač, ktorý spôsobí spustenie tohto pravidla.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Nastavte spúšťaciu premennú a premennú akcie na vytvorenie súhrnu pravidiel.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "odkedy";
+$Definition["Summary"] = "Zhrnutie";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Ak budete pokračovať, akcia sa uplatní iba na nich.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Akcia sa na nich uplatní, keď je pravidlo povolené. V budúcnosti sa akcia uplatní aj na ostatných <0 />, ktorí spĺňajú kritériá spúšťania.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Toto momentálne neovplyvní žiadne <0 />. V budúcnosti to ovplyvní tých, ktorí spĺňajú kritériá.";
+$Definition["Time since added to collection"] =
+    "Čas od pridania do zbierky";
+$Definition["Time since post has had no comments"] =
+    "Čas od príspevku neobsahoval žiadne komentáre";
+$Definition["Time since Registration"] = "Čas od registrácie";
+$Definition["Time since post has had no activity"] =
+    "Čas od zverejnenia nezaznamenal žiadnu aktivitu";
+$Definition["Time since question has been unanswered"] =
+    "Čas odvtedy zostal nezodpovedaný";
+$Definition["Trigger"] = "Spúšť";
+$Definition["Unsaved Changes"] = "Neuložené zmeny";
+$Definition["Up to <0 /> ago."] = "Pred <0 />.";
+$Definition["upvote"] = "hlasovať za";
+$Definition["upvotes"] = "súhlasy";
+$Definition["User Management"] = "Správa používateľov";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Používatelia teraz spĺňajú kritériá: <0 />";
+$Definition["Value is not a valid integer."] = "Hodnota nie je platné celé číslo.";
+$Definition["View History"] = "Zobraziť históriu";
+$Definition["Votes on an idea"] = "Hlasuje o nápade";
+$Definition["with"] = "s";
+$Definition["with reason"] = "s rozumom";
+$Definition["with tag"] = "so značkou";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Nemôžete pridať viac ako 150 pravidiel automatizácie. Odstráňte niektoré pravidlá a skúste to znova.";
 
 // Icon Management
 $Definition["No icons match those filters."] = "Týmto filtrom nevyhovujú žiadne ikony.";
 $Definition["Manage Icon"] = "Ikona Spravovať";
 $Definition["Manage Icons"] = "Správa ikon";
-$Definition["Manage Icon helptext"] = "Tu môžete spravovať systémové a historické ikony. Pri nahrávaní sa uistite, že ikona je vo formáte SVG, obsahuje atribút viewBox a používa farbu #000000, aby sa zabezpečilo jej dynamické zafarbenie na základe nastavení témy a interakcií používateľa. Naraz môže byť aktívna iba jedna ikona každého typu.";
+$Definition["Manage Icon helptext"] =
+    "Tu môžete spravovať systémové a historické ikony. Pri nahrávaní sa uistite, že ikona je vo formáte SVG, obsahuje atribút viewBox a používa farbu #000000, aby sa zabezpečilo jej dynamické zafarbenie na základe nastavení témy a interakcií používateľa. Naraz môže byť aktívna iba jedna ikona každého typu.";
 $Definition["Upload New Icon"] = "Nahrať novú ikonu";
 $Definition["Active Icon"] = "Aktívna ikona";
 $Definition["New Icon"] = "Nová ikona";
 $Definition["Icon Type"] = "Typ ikony";
 $Definition["Previous Icons"] = "Predchádzajúce ikony";
-$Definition["Previous versions of your icons can be found here and restored at any time."] = "Predchádzajúce verzie vašich ikon nájdete tu a môžete ich kedykoľvek obnoviť.";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Predchádzajúce verzie vašich ikon nájdete tu a môžete ich kedykoľvek obnoviť.";
 $Definition["Set as Active"] = "Nastaviť ako Aktívne";
 $Definition["Uploaded <0/> by <1/>"] = "Nahrané <0/> používateľom <1/>";
 $Definition["Icon Packs"] = "Balíky ikon";
@@ -1331,17 +1903,24 @@ $Definition["Upload Icon Pack"] = "Nahrať balík ikon";
 $Definition["Preview Icon Pack"] = "Ukážka balíka ikon";
 $Definition["Changed Icons"] = "Zmenené ikony";
 $Definition["Icon Name"] = "Názov ikony";
-$Definition["All icons in this icon pack are currently active."] = "Všetky ikony v tomto balíku ikon sú momentálne aktívne.";
+$Definition["All icons in this icon pack are currently active."] =
+    "Všetky ikony v tomto balíku ikon sú momentálne aktívne.";
 $Definition["Activate Icon Pack"] = "Aktivujte balík ikon";
-$Definition["Only show icons that have been overridden with custom icons."] = "Zobrazovať iba ikony, ktoré boli prepísané vlastnými ikonami.";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Zobrazovať iba ikony, ktoré boli prepísané vlastnými ikonami.";
 $Definition["System Icon"] = "Systémová ikona";
 $Definition["Custom Icon"] = "Vlastná ikona";
-$Definition["Only show icons that are default system icons."] = "Zobrazovať iba ikony, ktoré sú predvolenými systémovými ikonami.";
+$Definition["Only show icons that are default system icons."] =
+    "Zobrazovať iba ikony, ktoré sú predvolenými systémovými ikonami.";
 $Definition["Previews"] = "Ukážky";
 $Definition["Icon Size"] = "Veľkosť ikony";
-$Definition["This is the actual size most icons render at."] = "Toto je skutočná veľkosť, v akej sa väčšina ikon vykresľuje.";
+$Definition["This is the actual size most icons render at."] =
+    "Toto je skutočná veľkosť, v akej sa väčšina ikon vykresľuje.";
 $Definition["Preview Color"] = "Farba ukážky";
-$Definition["This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."] = "Táto farba sa použije na zobrazenie náhľadu farby ikony. Nahradí akékoľvek použitie #000000 vo vašich nahraných ikonách. V skutočnej aplikácii budú farby dynamické.";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Táto farba sa použije na zobrazenie náhľadu farby ikony. Nahradí akékoľvek použitie #000000 vo vašich nahraných ikonách. V skutočnej aplikácii budú farby dynamické.";
 $Definition["Escalation Name"] = "Názov eskalácie";
 $Definition["Status on Creation"] = "Stav pri stvorení";
 $Definition["Assignee"] = "Nadobúdateľ";
@@ -1384,14 +1963,16 @@ $Definition["Community Management"] = "Správa komunity";
 $Definition["Visualize Your Community"] = "Vizualizujte svoju komunitu";
 $Definition["Customize your community"] = "Prispôsobte si komunitu";
 $Definition["Configuration & Addons"] = "Konfigurácia a doplnky";
-$Definition["Are you sure you want to delete your %s?"] = "Naozaj chcete odstrániť svoj %s?";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Naozaj chcete odstrániť svoj %s?";
 $Definition["Newest Report"] = "Najnovšia správa";
 $Definition["Oldest Report"] = "Najstaršia správa";
 $Definition["Report Dismissed"] = "Správa bola odmietnutá";
 $Definition["Post Rejected"] = "Príspevok odmietnutý";
 $Definition["Escalated"] = "Eskalované";
 $Definition["Reported by <0/>"] = "Nahlásené používateľom <0/>";
-$Definition["No report notes were provided by <0/>"] = "Používateľ <0/> neposkytol žiadne poznámky k prehľadu";
+$Definition["No report notes were provided by <0/>"] =
+    "Používateľ <0/> neposkytol žiadne poznámky k prehľadu";
 $Definition["Create"] = "Vytvoriť";
 $Definition["Edited"] = "Upravené";
 $Definition["Newest Escalation"] = "Najnovšia eskalácia";
@@ -1404,7 +1985,8 @@ $Definition["In Zendesk"] = "V Zendesku";
 $Definition["Integrations"] = "integrácií";
 $Definition["Remove Post"] = "Odstrániť príspevok";
 $Definition["Escalated by <0/>"] = "Eskalované používateľom <0/>";
-$Definition["Enter a title for this escalation"] = "Zadajte názov pre túto eskaláciu";
+$Definition["Enter a title for this escalation"] =
+    "Zadajte názov pre túto eskaláciu";
 $Definition["Escalated by <0/>"] = "Eskalované používateľom <0/>";
 $Definition["Post Revision"] = "Príspevok revízie";
 $Definition["Loader"] = "Nakladač";
@@ -1416,78 +1998,150 @@ $Definition["Remove Post"] = "Odstrániť príspevok";
 $Definition["Internal Comments"] = "Interné komentáre";
 $Definition["Add a comment"] = "Pridať komentár";
 $Definition["Live"] = "Naživo";
-$Definition["There are currently no comments on this post"] = "K tomuto príspevku momentálne nie sú žiadne komentáre";
-$Definition["All comments on this post will appear here"] = "Všetky komentáre k tomuto príspevku sa zobrazia tu";
+$Definition["There are currently no comments on this post"] =
+    "K tomuto príspevku momentálne nie sú žiadne komentáre";
+$Definition["All comments on this post will appear here"] =
+    "Všetky komentáre k tomuto príspevku sa zobrazia tu";
 $Definition["Reports for <0/>"] = "Prehľady pre <0/>";
 $Definition["Live Post"] = "Živý príspevok";
-$Definition["There are currently no reports for this post."] = "Pre tento príspevok momentálne nie sú k dispozícii žiadne správy.";
-$Definition["A list of reports associated with this post will appear here."] = "Tu sa zobrazí zoznam správ spojených s týmto príspevkom.";
-$Definition["Configure where reports are sent and manage your community's report reasons."] = "Nakonfigurujte, kam sa budú odosielať hlásenia, a spravujte dôvody hlásení svojej komunity.";
-$Definition["New Community Management System"] = "Nový systém riadenia komunity";
+$Definition["There are currently no reports for this post."] =
+    "Pre tento príspevok momentálne nie sú k dispozícii žiadne správy.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Tu sa zobrazí zoznam správ spojených s týmto príspevkom.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Nakonfigurujte, kam sa budú odosielať hlásenia, a spravujte dôvody hlásení svojej komunity.";
+$Definition["New Community Management System"] =
+    "Nový systém riadenia komunity";
 $Definition["Enable Triage Dashboard"] = "Povoliť Triage Dashboard";
-$Definition["All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."] = "Všetci používatelia s povolením personálu budú môcť vidieť a označiť diskusie ako vyriešené alebo nevyriešené. Títo používatelia budú mať tiež prístup k ovládaciemu panelu triedenia, aby mohli moderovať svoje kategórie.";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Všetci používatelia s povolením personálu budú môcť vidieť a označiť diskusie ako vyriešené alebo nevyriešené. Títo používatelia budú mať tiež prístup k ovládaciemu panelu triedenia, aby mohli moderovať svoje kategórie.";
 $Definition["Resolve All Discussions"] = "Vyriešiť všetky diskusie";
-$Definition["Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."] = "Vyriešiť všetky príspevky vyrieši všetky existujúce príspevky v komunite. Táto hromadná akcia nespustí webhooky ani analýzy.";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Vyriešiť všetky príspevky vyrieši všetky existujúce príspevky v komunite. Táto hromadná akcia nespustí webhooky ani analýzy.";
 $Definition["Resolve All"] = "Vyriešiť všetko";
 $Definition["Required field"] = "Povinné pole";
-$Definition["The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."] = "Nový systém správy komunity umožňuje vlastné vykazovanie, eskaláciu, priradenia a pravidlá automatizácie. Povolením tejto zmeny sa príjem hlásení zmení na používanie nového systému. <0>Prečítajte si viac</0> .";
-$Definition["This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"] = "Týmto sa vyriešia všetky existujúce príspevky v komunite. Táto hromadná akcia nespustí webhooky ani analýzu protokolov. Pokračovať?";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Nový systém správy komunity umožňuje vlastné vykazovanie, eskaláciu, priradenia a pravidlá automatizácie. Povolením tejto zmeny sa príjem hlásení zmení na používanie nového systému. <0>Prečítajte si viac</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Týmto sa vyriešia všetky existujúce príspevky v komunite. Táto hromadná akcia nespustí webhooky ani analýzu protokolov. Pokračovať?";
 $Definition["Reorder"] = "Zmeniť poradie";
 $Definition["Add Reason"] = "Pridajte dôvod";
 $Definition["Delete?"] = "Odstrániť?";
-$Definition["Are you sure you want to delete this reason?"] = "Naozaj chcete odstrániť tento dôvod?";
-$Definition["A concise name for the report reason."] = "Výstižný názov z dôvodu hlásenia.";
-$Definition["A unique label for the report reason. This label cannot be changed once saved."] = "Jedinečné označenie z dôvodu hlásenia. Tento štítok nie je možné po uložení zmeniť.";
-$Definition["An explanation of the report reason to better reporters make the correct selection when reporting a post."] = "Vysvetlenie dôvodu nahlásenia lepším reportérom, aby urobili správny výber pri nahlasovaní príspevku.";
-$Definition["The roles which can see this report reason."] = "Roly, ktoré môžu vidieť túto správu, zdôvodňujú.";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Naozaj chcete odstrániť tento dôvod?";
+$Definition["A concise name for the report reason."] =
+    "Výstižný názov z dôvodu hlásenia.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Jedinečné označenie z dôvodu hlásenia. Tento štítok nie je možné po uložení zmeniť.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Vysvetlenie dôvodu nahlásenia lepším reportérom, aby urobili správny výber pri nahlasovaní príspevku.";
+$Definition["The roles which can see this report reason."] =
+    "Roly, ktoré môžu vidieť túto správu, zdôvodňujú.";
 $Definition["Add Report Reason"] = "Pridať dôvod správy";
 $Definition["Discard Changes?"] = "Zahodiť zmeny?";
-$Definition["Are you sure you want to exit without saving?"] = "Naozaj chcete skončiť bez uloženia?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Naozaj chcete skončiť bez uloženia?";
 $Definition["Reorder Report Reasons"] = "Dôvody správy o zmene poradia";
 $Definition["Edit Report Reason"] = "Upraviť dôvod správy";
 $Definition["Delete Report Reason"] = "Odstrániť dôvod hlásenia";
-$Definition["This setting must be enabled to use Custom Discussion Threads."] = "Toto nastavenie musí byť povolené, ak chcete používať vlastné diskusné vlákna.";
-$Definition["Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."] = "Nakonfigurujte nastavenia používané na automatické moderovanie komunitného obsahu ešte pred jeho vytvorením. Možnosti zahŕňajú automatickú detekciu spamu, ktorá vyžaduje schválenie pre uverejňovanie v určitých kategóriách a vyžaduje schválenie pre uverejňovanie pomocou určitých kľúčových slov alebo fráz.";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Toto nastavenie musí byť povolené, ak chcete používať vlastné diskusné vlákna.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Nakonfigurujte nastavenia používané na automatické moderovanie komunitného obsahu ešte pred jeho vytvorením. Možnosti zahŕňajú automatickú detekciu spamu, ktorá vyžaduje schválenie pre uverejňovanie v určitých kategóriách a vyžaduje schválenie pre uverejňovanie pomocou určitých kľúčových slov alebo fráz.";
 $Definition["Spam Detection"] = "Detekcia spamu";
 $Definition["Learn more."] = "Zistite viac.";
 $Definition["documentation."] = "dokumentáciu.";
-$Definition["Verify browsers of new members"] = "Overte prehliadače nových členov";
+$Definition["Verify browsers of new members"] =
+    "Overte prehliadače nových členov";
 $Definition["Challenge Cutoff Age"] = "Hrací vek výzvy";
-$Definition["Number of days since registration to bypass Cloudflare challenge"] = "Počet dní od registrácie na obídenie výzvy Cloudflare";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Počet dní od registrácie na obídenie výzvy Cloudflare";
 $Definition["Save challenge cutoff age"] = "Uložiť vek ukončenia výzvy";
 $Definition["Premoderated Roles"] = "Predmoderované roly";
-$Definition["Users with the \"Approval.Require\" permission will require moderator approval for all posts."] = "Používatelia s povolením \"Schválenie.Vyžadovať\" budú vyžadovať súhlas moderátora pre všetky príspevky.";
-$Definition["Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""] = "Používatelia označení ako „Overené“ túto požiadavku obídu. Toto sú roly s \"Schválenie. Vyžadovať\"";
-$Definition["No roles are currently set to require premoderation."] = "Momentálne nie sú nastavené žiadne roly, ktoré by vyžadovali predmoderovanie.";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Používatelia s povolením \"Schválenie.Vyžadovať\" budú vyžadovať súhlas moderátora pre všetky príspevky.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Používatelia označení ako „Overené“ túto požiadavku obídu. Toto sú roly s \"Schválenie. Vyžadovať\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Momentálne nie sú nastavené žiadne roly, ktoré by vyžadovali predmoderovanie.";
 $Definition["Edit Roles"] = "Upraviť roly";
 $Definition["Premoderated Categories"] = "Predmoderované kategórie";
-$Definition["No categories are currently set to require premoderation."] = "Momentálne nie sú nastavené žiadne kategórie, ktoré by vyžadovali predmoderovanie.";
+$Definition["No categories are currently set to require premoderation."] =
+    "Momentálne nie sú nastavené žiadne kategórie, ktoré by vyžadovali predmoderovanie.";
 $Definition["Edit Categories"] = "Upraviť kategórie";
 $Definition["Premoderated Keywords"] = "Predmoderované kľúčové slová";
-$Definition["Posts with any of the following keywords or phrases will required moderator approval."] = "Príspevky s ktorýmkoľvek z nasledujúcich kľúčových slov alebo fráz budú vyžadovať súhlas moderátora.";
-$Definition["No keywords are currently set to require premoderation."] = "Momentálne nie sú nastavené žiadne kľúčové slová, ktoré by vyžadovali predmoderovanie.";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Príspevky s ktorýmkoľvek z nasledujúcich kľúčových slov alebo fráz budú vyžadovať súhlas moderátora.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Momentálne nie sú nastavené žiadne kľúčové slová, ktoré by vyžadovali predmoderovanie.";
 $Definition["Edit Keywords"] = "Upraviť kľúčové slová";
-$Definition["Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"] = "Povoľte Akismetu filtrovať spam vo všetkých príspevkoch podľa registrácií žiadateľov a neoverených používateľov. <0/>";
-$Definition["Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"] = "Povoľte Stopforumspam, aby ste porovnali používateľov komunity so zoznamom nahlásených spamerov a buď nahlásili príspevok ako spam, alebo ich priamo odmietli. Hranice nahlasovania a odmietnutia sa spravujú v <0>nastaveniach doplnku</0> . Viac informácií nájdete v <1/>";
-$Definition["Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"] = "Neoverení členovia, ktorí sú v komunite menej ako stanovený počet dní, budú vyzvaní, aby dokončili výzvu Cloudflare (Captcha alebo Checkbox), aby zabránili spamu. <0/>";
-$Definition["%s in the following categories will require moderator approval."] = "%s v nasledujúcich kategóriách bude vyžadovať schválenie moderátora.";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Povoľte Akismetu filtrovať spam vo všetkých príspevkoch podľa registrácií žiadateľov a neoverených používateľov. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Povoľte Stopforumspam, aby ste porovnali používateľov komunity so zoznamom nahlásených spamerov a buď nahlásili príspevok ako spam, alebo ich priamo odmietli. Hranice nahlasovania a odmietnutia sa spravujú v <0>nastaveniach doplnku</0> . Viac informácií nájdete v <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Neoverení členovia, ktorí sú v komunite menej ako stanovený počet dní, budú vyzvaní, aby dokončili výzvu Cloudflare (Captcha alebo Checkbox), aby zabránili spamu. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s v nasledujúcich kategóriách bude vyžadovať schválenie moderátora.";
 $Definition["Default Sort Order"] = "Predvolené poradie zoradenia";
-$Definition["Choose the order records are sorted by default."] = "Vyberte, že záznamy objednávok sú štandardne zoradené.";
+$Definition["Choose the order records are sorted by default."] =
+    "Vyberte, že záznamy objednávok sú štandardne zoradené.";
 $Definition["Show OP Indicator"] = "Zobraziť indikátor OP";
-$Definition["If this option is enabled, replies from the Original Poster will have an OP indicator."] = "Ak je táto možnosť povolená, odpovede z pôvodného plagátu budú mať indikátor OP.";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Ak je táto možnosť povolená, odpovede z pôvodného plagátu budú mať indikátor OP.";
 $Definition["Show Badges"] = "Zobraziť odznaky";
 $Definition["Badges Limit"] = "Limit odznakov";
-$Definition["Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."] = "Zobraziť odznaky používateľov pri každom príspevku. V poradí podľa najvyššieho hodnotenia môže byť zobrazených maximálne 5 odznakov.";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Zobraziť odznaky používateľov pri každom príspevku. V poradí podľa najvyššieho hodnotenia môže byť zobrazených maximálne 5 odznakov.";
 $Definition["event"] = "udalosť";
 $Definition["<0/> <1/> more comments"] = "<0/> <1/> ďalších komentárov";
 $Definition["Export"] = "Exportovať";
 
-
-$Definition["Homepage titles can only be between 1 and 500 characters"] = "Názvy domovskej stránky môžu mať iba 1 až 500 znakov";
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Názvy domovskej stránky môžu mať iba 1 až 500 znakov";
 $Definition["Address Bar Color"] = "Farba panela s adresou";
 $Definition["Meta Tags"] = "Meta tagy";
-$Definition["Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."] = "Meta tagy sa používajú na overenie domény pre Google Search Console a ďalšie služby. Skopírujte požadované metaznačky zo svojho zdroja a prilepte ich na nový riadok.";
-$Definition["Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."] = "Trochu popremýšľate o tom, ako tu popisujete svoje stránky. Ak dáte svojim stránkam zmysluplný názov a výstižný popis, mohlo by to pomôcť vašej pozícii vo vyhľadávačoch.";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta tagy sa používajú na overenie domény pre Google Search Console a ďalšie služby. Skopírujte požadované metaznačky zo svojho zdroja a prilepte ich na nový riadok.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Trochu popremýšľate o tom, ako tu popisujete svoje stránky. Ak dáte svojim stránkam zmysluplný názov a výstižný popis, mohlo by to pomôcť vašej pozícii vo vyhľadávačoch.";
 $Definition["Style Guides"] = "Štýlové príručky";
 $Definition["Branding & Assets"] = "Značka a aktíva";
 $Definition["Home Pages"] = "Domovské stránky";
@@ -1507,7 +2161,8 @@ $Definition["Create Post Layout Settings"] = "Vytvorte nastavenia rozloženia pr
 $Definition["Event Pages"] = "Stránky udalostí";
 $Definition["Event Layout Settings"] = "Nastavenia rozloženia udalosti";
 $Definition["Knowledge Base Pages"] = "Stránky databázy znalostí";
-$Definition["Knowledge Base Layout Settings"] = "Nastavenia rozloženia databázy znalostí";
+$Definition["Knowledge Base Layout Settings"] =
+    "Nastavenia rozloženia databázy znalostí";
 $Definition["Knowledge Base Home Pages"] = "Domovské stránky databázy znalostí";
 $Definition["Help Center Home Pages"] = "Domovské stránky centra pomoci";
 $Definition["Help Center Category Pages"] = "Stránky s kategóriami centra pomoci";
@@ -1515,33 +2170,42 @@ $Definition["Help Center Article Pages"] = "Stránky s článkami centra pomoci"
 $Definition["Guide Article Pages"] = "Stránky s článkami so sprievodcom";
 $Definition["Layouts"] = "Rozloženie";
 $Definition["Add Custom Layout"] = "Pridať vlastné rozloženie";
-$Definition["Choose the preferred Legacy Recent Posts Layout."] = "Vyberte preferované rozloženie starších príspevkov.";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Vyberte preferované rozloženie starších príspevkov.";
 $Definition["Legacy Recent Posts Layouts"] = "Rozloženie starých posledných príspevkov";
-$Definition["Change layout versions for the <0/>."] = "Zmeniť verzie rozloženia pre <0/>.";
-$Definition["To learn more, <0>see the documentation</0>."] = "Ak sa chcete dozvedieť viac, <0>pozrite si dokumentáciu</0> .";
+$Definition["Change layout versions for the <0/>."] =
+    "Zmeniť verzie rozloženia pre <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Ak sa chcete dozvedieť viac, <0>pozrite si dokumentáciu</0> .";
 $Definition["Change %s"] = "Zmeniť %s";
-$Definition["Are you sure you want to use %s?"] = "Naozaj chcete použiť %s?";
+$Definition["Are you sure you want to use %s?"] =
+    "Naozaj chcete použiť %s?";
 $Definition["Legacy Home Layouts"] = "Pôvodné rozloženie domov";
-$Definition["Choose the preferred Legacy Home Layout."] = "Vyberte preferované rozloženie Legacy Home.";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Vyberte preferované rozloženie Legacy Home.";
 $Definition["Home Layout Version"] = "Verzia rozloženia domov";
 $Definition["Custom Home Layouts"] = "Vlastné rozloženie domov";
 $Definition["Legacy Category Layout"] = "Rozloženie starších kategórií";
-$Definition["Choose the preferred Legacy Category Layout."] = "Vyberte preferované rozloženie starších kategórií.";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Vyberte preferované rozloženie starších kategórií.";
 $Definition["Category Layout Version"] = "Verzia rozloženia kategórie";
 $Definition["Legacy Category Layouts"] = "Rozloženia starších kategórií";
 $Definition["Custom Category Layouts"] = "Rozloženie vlastných kategórií";
 $Definition["Legacy Post Layout"] = "Rozloženie staršieho príspevku";
-$Definition["Choose the preferred Legacy Post Layout."] = "Vyberte preferované rozloženie staršieho príspevku.";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Vyberte preferované rozloženie staršieho príspevku.";
 $Definition["Post Layout Version"] = "Verzia rozloženia príspevku";
 $Definition["Legacy Post Layouts"] = "Staršie rozloženia príspevkov";
 $Definition["Custom Post Layouts"] = "Vlastné rozloženie príspevkov";
 $Definition["Legacy Create Post Layout"] = "Staršie rozloženie vytvorenia príspevku";
-$Definition["Choose the preferred Legacy Create Post Layout."] = "Vyberte uprednostňované rozloženie Legacy Create Post.";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Vyberte uprednostňované rozloženie Legacy Create Post.";
 $Definition["Create Post Layout Version"] = "Vytvoriť verziu rozloženia príspevku";
 $Definition["Legacy Create Post Layouts"] = "Pôvodné rozloženie príspevkov";
 $Definition["Custom Create Post Layouts"] = "Vlastné vytváranie rozložení príspevkov";
 $Definition["Legacy Event Layout"] = "Rozloženie staršieho udalosti";
-$Definition["Choose the preferred Legacy Event Layout."] = "Vyberte preferované rozloženie starších udalostí.";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Vyberte preferované rozloženie starších udalostí.";
 $Definition["Event Layout Version"] = "Verzia rozloženia udalosti";
 $Definition["Legacy Event Layouts"] = "Rozloženie starých udalostí";
 $Definition["Custom Event Layouts"] = "Rozloženie vlastných udalostí";
@@ -1553,33 +2217,53 @@ $Definition["Previous Slides"] = "Predchádzajúce snímky";
 $Definition["Next Slides"] = "Ďalšie snímky";
 $Definition["indicator navigation"] = "navigácia s indikátormi";
 $Definition["<0/> new"] = "Nové: <0/>";
-$Definition["%d slides on display initial slide %d of %d"] = "%d snímok na displeji úvodná snímka %d z %d";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d snímok na displeji úvodná snímka %d z %d";
 $Definition["Unassigned"] = "Nepriradené";
-$Definition["Apply Layout to Site Home Page"] = "Použiť rozloženie na domovskú stránku lokality";
-$Definition["Set as default layout for specific subcommunities."] = "Nastaviť ako predvolené rozloženie pre konkrétne podkomunity.";
+$Definition["Apply Layout to Site Home Page"] =
+    "Použiť rozloženie na domovskú stránku lokality";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Nastaviť ako predvolené rozloženie pre konkrétne podkomunity.";
 $Definition["Apply to specific categories."] = "Použiť na konkrétne kategórie.";
-$Definition["This layout cannot be deleted because it is a layout template."] = "Toto rozloženie nemožno odstrániť, pretože ide o šablónu rozloženia.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Toto rozloženie nemožno odstrániť, pretože ide o šablónu rozloženia.";
 $Definition["Delete Layout"] = "Odstrániť rozloženie";
-$Definition["Are you sure you want to delete?"] = "Naozaj chcete odstrániť?";
+$Definition["Are you sure you want to delete?"] =
+    "Naozaj chcete odstrániť?";
 $Definition["Applied"] = "Aplikované";
 $Definition["Applied as default"] = "Použilo sa ako predvolené";
 $Definition["View Category"] = "Zobraziť kategóriu";
-$Definition["Apply to specific subcommunities."] = "Použiť na konkrétne podkomunity.";
-$Definition["Unable to re-assign default template"] = "Nie je možné znova priradiť predvolenú šablónu";
-$Definition["This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."] = "Toto rozloženie je šablóna a je priradené ako predvolené pre všetky stránky tohto typu. Ak ju chcete odstrániť ako predvolenú alebo ju priradiť konkrétnym stranám, musíte ako predvolenú priradiť iné rozloženie.";
-$Definition["This layout cannot be deleted because it is currently applied."] = "Toto rozloženie nemožno odstrániť, pretože je aktuálne použité.";
-$Definition["Set as default layout for all <0 />."] = "Nastaviť ako predvolené rozloženie pre všetky <0 />.";
+$Definition["Apply to specific subcommunities."] =
+    "Použiť na konkrétne podkomunity.";
+$Definition["Unable to re-assign default template"] =
+    "Nie je možné znova priradiť predvolenú šablónu";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Toto rozloženie je šablóna a je priradené ako predvolené pre všetky stránky tohto typu. Ak ju chcete odstrániť ako predvolenú alebo ju priradiť konkrétnym stranám, musíte ako predvolenú priradiť iné rozloženie.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Toto rozloženie nemožno odstrániť, pretože je aktuálne použité.";
+$Definition["Set as default layout for all <0 />."] =
+    "Nastaviť ako predvolené rozloženie pre všetky <0 />.";
 $Definition["Legacy Knowledge Base Layout"] = "Rozloženie starej databázy znalostí";
-$Definition["Choose the preferred Legacy Knowledge Base Layout."] = "Vyberte preferované rozloženie Legacy Knowledge Base.";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Vyberte preferované rozloženie Legacy Knowledge Base.";
 $Definition["Knowledge Base Layout Version"] = "Verzia rozloženia databázy znalostí";
 $Definition["Legacy Knowledge Base Layouts"] = "Rozloženie starej databázy znalostí";
 $Definition["Custom Knowledge Base Layouts"] = "Vlastné rozloženie databázy znalostí";
 $Definition["Article Count"] = "Počet článkov";
 $Definition["Legacy Layouts enabled"] = "Staršie rozloženia sú povolené";
-$Definition["Note this layout change will not be visible until you switch to custom layouts."] = "Upozorňujeme, že táto zmena rozloženia nebude viditeľná, kým neprepnete na vlastné rozloženia.";
-$Definition["This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."] = "Táto zmena rozloženia nebude viditeľná, kým svoju komunitu neprepnete na vlastnú <0/> na stránke <1/>.";
-$Definition["Set as default layout for specific knowledge bases."] = "Nastaviť ako predvolené rozloženie pre konkrétne databázy znalostí.";
-$Definition["The site does not allow you connect with an existing user."] =
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Upozorňujeme, že táto zmena rozloženia nebude viditeľná, kým neprepnete na vlastné rozloženia.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Táto zmena rozloženia nebude viditeľná, kým svoju komunitu neprepnete na vlastnú <0/> na stránke <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Nastaviť ako predvolené rozloženie pre konkrétne databázy znalostí.";
+$Definition["The site does not allow you to connect with an existing user."] =
     "Stránka vám neumožňuje spojiť sa s existujúcim používateľom.";
 $Definition["The username you entered has already been taken."] =
     "Zadané používateľské meno už je obsadené.";
@@ -1590,79 +2274,3 @@ $Definition[
 ] =
     "Overenie vašej žiadosti o obnovenie hesla zlyhalo. Skúste znova použiť formulár žiadosti o obnovenie.";
 $Definition["Invitation not found."] = "Pozvánka sa nenašla.";
-
-// Federated Search
-$Definition["About Federated Search"] = "O federovanom vyhľadávaní";
-$Definition["About Search Connectors"] = "Informácie o vyhľadávacích konektoroch";
-$Definition["Add"] = "Pridať";
-$Definition["Add a custom <0/> search connector"] = "Pridať vlastný vyhľadávací konektor <0/>";
-$Definition["Answer"] = "Odpoveď";
-$Definition["Apply"] = "Aplikovať";
-$Definition["Article"] = "Článok";
-$Definition["Authenticate"] = "Overiť";
-$Definition["Back"] = "Naspäť";
-$Definition["Cancel"] = "Zrušiť";
-$Definition["Categories"] = "Kategórie";
-$Definition["Client ID is required."] = "Vyžaduje sa ID klienta.";
-$Definition["Client Secret is required."] = "Tajomstvo klienta je povinné.";
-$Definition["Configure"] = "Konfigurovať";
-$Definition["Cursor pagination uses a url to point to the next page of results. Offset pagination uses a page number and item count to fetch the next page."] = "Stránkovanie kurzorom používa URL adresu na presmerovanie na ďalšiu stranu výsledkov. Stránkovanie s odsadením používa číslo strany a počet položiek na načítanie ďalšej strany.";
-$Definition["Discussions"] = "Diskusie";
-$Definition["Federated Search allows you to include external content within community search results such as knowledge base articles, courses from a learning management system, blog articles and more, to centralize content search within community. <0>Learn more</0>."] = "Federované vyhľadávanie vám umožňuje zahrnúť externý obsah do výsledkov vyhľadávania v komunite, ako sú články v databáze znalostí, kurzy zo systému riadenia vzdelávania, články na blogoch a ďalšie, a centralizovať tak vyhľadávanie obsahu v rámci komunity. <0>Zistite viac</0> .";
-$Definition["Good job! Here is a preview of some of your external articles, listed on your community's Search Results page."] = "Výborne! Tu je ukážka niektorých vašich externých článkov, ktoré sú uvedené na stránke s výsledkami vyhľadávania vašej komunity.";
-$Definition["Great!"] = "Skvelé!";
-$Definition["Groups"] = "Skupiny";
-$Definition["Help Menu"] = "Ponuka Pomocník";
-$Definition["Here is what a single result provided by the API looks like:"] = "Takto vyzerá jeden výsledok poskytnutý rozhraním API:";
-$Definition["Idea"] = "Nápad";
-$Definition["Ideas"] = "Nápady";
-$Definition["Integrates Salesforce's knowledge base articles into the Vanilla community search, consolidating self-service support resources within the community platform."] = "Integruje články znalostnej bázy Salesforce do vyhľadávania v komunite Vanilla, čím konsoliduje zdroje samoobslužnej podpory v rámci komunitnej platformy.";
-$Definition["Knowledge Bases"] = "Vedomostné základne";
-$Definition["Label is required."] = "Označenie je povinné.";
-$Definition["Loading"] = "Načítavanie";
-$Definition["Maximum length is 100 characters."] = "Maximálna dĺžka je 100 znakov.";
-$Definition["Maximum length is 500 characters."] = "Maximálna dĺžka je 500 znakov.";
-$Definition["Maximum number of posts to be included in the email digest."] = "Maximálny počet príspevkov, ktoré sa majú zahrnúť do súhrnu e-mailu.";
-$Definition["Messages"] = "Správy";
-$Definition["Modify <0/> search connector"] = "Upraviť vyhľadávací konektor <0/>";
-$Definition["My Account"] = "Môj účet";
-$Definition["Next"] = "Ďalšie";
-$Definition["No results found."] = "Neboli nájdené žiadne výsledky.";
-$Definition["Notifications"] = "Upozornenia";
-$Definition["Number of posts from groups"] = "Počet príspevkov zo skupín";
-$Definition["Our Search Connectors will allow you to easily configure the connection between Vanilla and external platforms. Can't find what you're looking for? Let us know which search connectors you need by posting and Idea in our <0>customer community</0>."] = "Naše vyhľadávacie konektory vám umožnia jednoducho nakonfigurovať prepojenie medzi Vanilla a externými platformami. Nemôžete nájsť, čo hľadáte? Dajte nám vedieť, ktoré vyhľadávacie konektory potrebujete, uverejnením príspevku a nápadu v našej <0>zákazníckej komunite</0> .";
-$Definition["Please enter some basic information about your custom search connector."] = "Zadajte základné informácie o vašom konektore vlastného vyhľadávania.";
-$Definition["Poll"] = "Prieskum";
-$Definition["Polls"] = "Hlasovania";
-$Definition["Post number must be between 3–20."] = "Číslo príspevku musí byť medzi 3 a 20.";
-$Definition["Posts"] = "Príspevky";
-$Definition["Question"] = "Otázka";
-$Definition["Questions"] = "Otázky";
-$Definition["Ranks"] = "Hodnotenia";
-$Definition["Reload"] = "Obnoviť";
-$Definition["Required field"] = "Povinné pole";
-$Definition["required"] = "požadované";
-$Definition["Response Body"] = "Telo odpovede";
-$Definition["Response Headers"] = "Hlavičky odpovedí";
-$Definition["Salesforce Article Search"] = "Vyhľadávanie článkov v Salesforce";
-$Definition["Save"] = "Uložiť";
-$Definition["Search Connectors"] = "Vyhľadávacie konektory";
-$Definition["Site domain is required."] = "Doména stránky je povinná.";
-$Definition["Some parameters required to search may be unique to your API. Please configure your search connector with these parameters so that the connector can correctly format search queries for your community."] = "Niektoré parametre potrebné na vyhľadávanie môžu byť jedinečné pre vaše rozhranie API. Nakonfigurujte si vyhľadávací konektor s týmito parametrami, aby mohol správne formátovať vyhľadávacie dopyty pre vašu komunitu.";
-$Definition["Surfaces Zendesk Help Center knowledge base articles in Vanilla community search to centralize self-service help within community."] = "Články znalostnej bázy Centra pomoci Zendesk pre Surfaces vo vyhľadávaní komunity Vanilla s cieľom centralizovať samoobslužnú pomoc v rámci komunity.";
-$Definition["Tag"] = "Tag";
-$Definition["Test Custom API"] = "Testovacie vlastné API";
-$Definition["Test your custom API"] = "Otestujte si vlastné API";
-$Definition["Test your pagination configuration"] = "Otestujte si konfiguráciu stránkovania";
-$Definition["The roles that are allowed to access this connector."] = "Roly, ktoré majú povolený prístup k tomuto konektoru.";
-$Definition["This search connector has an invalid configuration."] = "Tento vyhľadávací konektor má neplatnú konfiguráciu.";
-$Definition["Tip: These required parameters can usually be found in the documentation for your API"] = "Tip: Tieto požadované parametre sa zvyčajne nachádzajú v dokumentácii k vášmu API.";
-$Definition["To finish configuring the Search Connector, tell us where to find the following values within the result object."] = "Ak chcete dokončiť konfiguráciu vyhľadávacieho konektora, povedzte nám, kde máme v objekte výsledku nájsť nasledujúce hodnoty.";
-$Definition["Visit Site"] = "Navštíviť stránku";
-$Definition["What kind of pagination does your API use?"] = "Aký druh stránkovania používa vaše API?";
-$Definition["When you're ready, use these buttons to check that your pagination configuration functions as expected"] = "Keď budete pripravení, pomocou týchto tlačidiel skontrolujte, či konfigurácia stránkovania funguje podľa očakávaní.";
-$Definition["When you're ready, use this button to test the API and view its results."] = "Keď budete pripravení, použite toto tlačidlo na otestovanie rozhrania API a zobrazenie jeho výsledkov.";
-$Definition["Where is the list of results located in this response?"] = "Kde sa v tejto odpovedi nachádza zoznam výsledkov?";
-$Definition["You must configure this search connector to enable it."] = "Tento vyhľadávací konektor musíte nakonfigurovať, aby ste ho povolili.";
-$Definition["You must select at least one role."] = "Musíte vybrať aspoň jednu rolu.";
-$Definition["Zendesk Guide"] = "Sprievodca Zendeskom";

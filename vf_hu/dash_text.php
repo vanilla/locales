@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Engedélyezze az %s engedéllyel rendelkező felhasználók számára, hogy megváltoztassák saját karakterüket a Vanilla profiloldalukon.';
 $Definition['Anonymize IP Addresses'] = "Az IP-címek névtelenítése";
+$Definition['API Overview'] = "API áttekintés";
 $Definition['ApplicationHelp'] = 'Az alkalmazások segítségével nagy számú funkcionalitást adhatsz az oldaladhoz.<br />Amint egy alklamazás a %s mappához hozzá lett adva, itt engedélyezheted vagy tilthatod le.';
 $Definition['Apply Layout'] = 'Elrendezés alkalmazása';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Biztos hogy a megfelelő adatbázis hoszt nevet adtad meg? Elírás, esetleg? Az adatbázis a következő választ adta: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Jó ötlet, ha a bejegyzésben megengedett karakterek maximális számát ésszerű méretre csökkenti.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Indítsd el a közösséged és erősítsd a felhasználói elkötelezettséget.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Tudjon meg többet az egyedi útvonalakról.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>A részleges anonimizálás</strong> csak az IP-cím utolsó oktettjét anonimizálja. Például a 254.230.05.153 254.230.05.0 lesz. Ez némi anonimizálást biztosít, miközben továbbra is lehetővé teszi az IP-tiltó szabályok működését.";
 $Definition['Partial Anonymization'] = "Részleges anonimizálás";
 $Definition['Password.MinLength'] = 'A jelszó létrehozási és visszaállítási oldalain a felhasználók jelszavaihoz megengedett minimális karakterhossz.';
+$Definition['Personal Access Tokens'] = 'A kuponok személyes elérése';
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['PluginHelp'] = 'Beépülő modulok segítségével adhatsz új funkcionalitást az oldaladhoz.<br />Amint egy modul a %s mappádba bekerült, itt fogod tudni engedélyezni vagy letiltani.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Ez a zseb az egyes hozzászólások között jelenik meg a fő hozzászóláslistában. Mivel a hozzászólások általában <li>..</li> címkék között szerepelnek, ezért a zsebet is ilyen címkék közé kell helyeznie.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Gyors linkek';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gyorstalpaló Vanilla témák létrehozásához';
 
+$Definition['Rate Limits'] = 'Árfolyamkorlátok';
 $Definition['Reactions Documentation'] = 'Reakciók Dokumentációja';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Hozzászólás Modul WordPresshez';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Fórum Modul WordPresshez';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = '„Pozitív” re
 $Definition['Restoring your selection removes the items from this list.'] = 'Ha helyreállítasz valamit, az elemek erről a listáról visszakerülnek az oldalra.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Használd az alábbi opciót idézetek engedélyezéséhez a Rich szerkesztőben. Ez csak akkor lesz alkalmazva, ha az alapértelmezett formázó „Rich”.';
+$Definition['Role Tokens'] = 'Szerepkör zsetonok';
 $Definition['Route Expression'] = 'Út kifejezés';
 $Definition['Routes are used to redirect users.'] = 'Az útvonalak a felhasználókat átirányítják a kért URL alapján.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Különleges korlátozás: Csak a Garden.Curation.Manage engedéllyel rendelkező felhasználók használhatják ezt a reakciót.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Adjon meg egy részleges vagy teljes egyezést egy letiltás létrehozásakor.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Fordíts egy kis időt arra, hogy átgondold, miként mutatnád be az oldalad. Az oldalad megfelelő címe és leírása segíthet jobb helyezést elérni a keresőmotorokban.';
+$Definition['Spoofing'] = 'Hamisítás';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Dobd fel az e-maileket logó hozzáadásával vagy színek megadásával.';
 $Definition['Start Import'] = 'Import elindítása';
 $Definition['Start the first discussion.'] = 'Legyen az első, <a href="{/post/discussion,url}">aki elkezdi társalgást</a> most.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Figyelem</b>: Ez csak 
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Javasoljuk, hogy egyszerre 1–3 reakciót engedélyezzen, hogy elkerülje a felhasználók túlterhelését.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ha engedélyezve van, a felhasználók dönthetnek úgy, hogy értesítéseket kapnak a közösségtől';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ha engedélyezve van, akkor kezelheti a termékeket és csoportosíthatja az alközösségeket ezen termékek szerint.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Ha engedélyezve van, <0>kezelheti a termékeket</0> , és csoportosítsa az alközösségeket ezen termékek alapján.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'A belső profilmezők szerepelnek-e ebben a webhookban.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'A privát profilmezők szerepelnek-e ebben a webhookban.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Néha be szeretn
 $Definition['Layout Editor'] = 'Elrendezés szerkesztő';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Engedélyezze az Elrendezésszerkesztőt, hogy egyéni elrendezést alkalmazzon közösségi oldalaihoz. Használja új szerkesztőnket a tartalom megjelenítéséhez az elérhető kütyükatalógusunk segítségével.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Megjegyzés: Az új elrendezésszerkesztő örökli a stíluskalauzban (formálisan témaszerkesztőben) beállított témát. <1>További információ</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Legutóbbi bejegyzések listája oldal";
+$Definition["Custom"] = "Szokás";
+$Definition["Category List Page"] = "Kategórialista oldal";
+$Definition["Home Page Type"] = "Kezdőlap típusa";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Válassz egy oldalt, amely az alközösség kezdőlapjaként szolgálhat.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "A kiválasztott kezdőlaptípus egyéni elrendezésű. Az alközösség elrendezését a <0/> részben kezelheti.";
+$Definition["Default Subcommunity"] = "Alapértelmezett alközösség";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Legyen ez az alapértelmezett alközösség. A látogatók először ide lesznek átirányítva, amikor belépnek a közösségbe.";
+$Definition["Post number must be between 3–20."] = "A bejegyzés számának 3 és 20 között kell lennie.";
+$Definition["Pages"] = "Oldalak";
+$Definition["Widget Builder"] = "Widget készítő";
+$Definition["Custom Pages"] = "Egyéni oldalak";
+$Definition["Site Home Pages"] = "Webhely kezdőlapjai";
+$Definition["Subcommunity Home Pages"] = "Alközösségi honlapok";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Válassz egy témát ehhez az alközösséghez. <0>További információ</0>";
+$Definition["Vanilla Messages"] = "Vanília üzenetek";
+$Definition["From <0/>"] = "<0/>-tól";
+$Definition["Manage Products"] = "Termékek kezelése";
+$Definition["Pages"] = "Oldalak";
+$Definition["Widget Builder"] = "Widget készítő";
+$Definition["Custom Pages"] = "Egyéni oldalak";
+$Definition["Site Home Pages"] = "Webhely kezdőlapjai";
+$Definition["Subcommunity Home Pages"] = "Alközösségi honlapok";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Válassz egy témát ehhez az alközösséghez. <0>További információ</0>";
+$Definition["Search subcommunities."] = "Alközösségek keresése.";
+$Definition["The view you were looking for could not be found."] = "A keresett nézet nem található.";
+$Definition["View Not Found"] = "A nézet nem található";
+$Definition["site"] = "telek";
+$Definition["Selected Home Page Type is a legacy layout."] = "A kiválasztott kezdőlaptípus egy korábbi elrendezés.";
+$Definition["The default home page type can be changed in <0/>."] = "Az alapértelmezett kezdőlap típusa a <0/> menüpontban módosítható.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Kulcsszóbeállítások";
+$Definition["Extremely Negative to Negative"] = "Rendkívül negatívtól negatívig";
+$Definition["Negative to Balanced"] = "Negatívból kiegyensúlyozottba";
+$Definition["Balanced to Positive"] = "Kiegyensúlyozott pozitívra";
+$Definition["Positive to Highly Positive"] = "Pozitívtól a nagyon pozitívig";
+$Definition["Sentiment Keywords"] = "Hangulati kulcsszavak";
+$Definition["Sentiment Settings"] = "Hangulatbeállítások";
+$Definition["Add Keyword"] = "Kulcsszó hozzáadása";
+$Definition["Keyword Limit Reached"] = "Elérte a kulcsszókorlátot";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Legfeljebb 100 kulcsszót követhetsz nyomon. Új kulcsszavak hozzáadásához kapcsold ki néhány követést.";
+$Definition["Calibrate Sentiment Levels"] = "Hangulatszintek kalibrálása";
+$Definition["Sentiment Level Distribution Adjustment"] = "Hangulatszint-eloszlás korrekciója";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "A 4 csúszka az egyes hangulatszintek közötti pontokat jelöli. Húzd a csúszkákat a teljes hangulatszint-eloszlás kalibrálásához a közösséged tartalmához.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Kalibrált hangulateloszlás előnézete";
+$Definition["(Read Only)"] = "(Csak olvasható)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Ez a grafikon azt szemlélteti, hogy a kalibrációs beállítás alapján hogyan oszlana el a közösséged tartalma.";
+$Definition["all time sentiment"] = "minden idők hangulata";
+$Definition["keyword"] = "kulcsszó";
+$Definition["number of uses"] = "felhasználások száma";
+$Definition["last use"] = "utolsó használat";
+$Definition["tracking"] = "követés";
+$Definition["Sentiment"] = "Érzés";
+$Definition["Tracked Status"] = "Követési állapot";
+$Definition["Tracked Only"] = "Csak nyomon követhető";
+$Definition["Untracked Only"] = "Csak nyomon nem követett";
+$Definition["Strongly Negative"] = "Erősen negatív";
+$Definition["Negative"] = "Negatív";
+$Definition["Positive"] = "Pozitív";
+$Definition["Highly Positive"] = "Nagyon pozitív";
+$Definition["Clear all filters"] = "Törölje az összes szűrőt";
+$Definition["Keyword is required."] = "Kulcsszó megadása kötelező.";
+$Definition["Maximum length is 100 characters."] = "A maximális hosszúság 100 karakter.";
+$Definition["Keyword"] = "Kulcsszó";
+$Definition["Add a new tracked keyword"] = "Új nyomon követett kulcsszó hozzáadása";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Az új kulcsszavakat a rendszer nyomon követi az elemzésekben. A kulcsszó létrehozása után kikapcsolhatja a követést.";
+$Definition["Extremely Negative"] = "Rendkívül negatív";
+$Definition["Extremely Positive"] = "Rendkívül pozitív";
+$Definition["Filter by:"] = "Szűrés:";

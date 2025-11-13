@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Vumela abasebenzisi abane-%s imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Ungavezi amakheli e-IP";
+$Definition['API Overview'] = "Ukubuka konke kwe-API";
 $Definition['ApplicationHelp'] = 'Izicelo zikuvumela ukuthi ungeze amaqembu amakhulu wokusebenza kusayithi lakho. <br /> Lapho uhlelo lokusebenza selungezwe kufolda yakho ye-%s, ungayinika amandla noma ikhubaze lapha.';
 $Definition['Apply Layout'] = 'Sebenzisa Isakhiwo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Uqinisekile ukuthi ufake igama lomsingathi wemininingwane efanele? Mhlawumbe uyiphathe kabi? Imininingwane yabika: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Kungumqondo omuhle ukugcina inani eliphezulu lezinhlamvu livunyelwe eposini liye kusayizi ofanele.';
 
+$Definition['JWT'] = 'I-JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Qalisa umphakathi wakho futhi ukhuphule ukuzibandakanya komsebenzisi.';
 $Definition['Labs'] = 'Amalebhu';
 $Definition['Learn about custom routing.'] = 'Funda ngemikhondo yangokwezifiso.';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Ukungaziwa Ngokwengxenye</strong> kwenza kungaziwa kuphela i-octet yokugcina yekheli le-IP. Isibonelo 254.230.05.153 izoba ngu-254.230.05.0. Lokhu kunikeza ukungaziwa okuthile ngenkathi kusavumela imithetho yokuvinjelwa kwe-IP ukuthi isebenze.";
 $Definition['Partial Anonymization'] = "Ukungaziwa okuncane";
 $Definition['Password.MinLength'] = 'Ubude obuncane bezinhlamvu obuvunyelwe kubasebenzisi baphasiwedi ekudaleni iphasiwedi kanye nokusetha kabusha amakhasi.';
+$Definition['Personal Access Tokens'] = 'Amathokheni Okufinyelela Okomuntu';
 $Definition['Please choose an authenticator to configure.'] = 'Sicela ukhethe ubuqiniso bokumisa.';
 $Definition['PluginHelp'] = 'Ama-plugins akuvumela ukuthi ungeze ukusebenza kusayithi lakho. <br /> Uma i-plugin ingeziwe kufolda yakho ye-%s, ungayinika amandla noma ikhubaze lapha.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Iphakethe liboniswa phakathi kwengxoxo ngayinye esohlwini lwezingxoxo oluphambili. Njengoba izingxoxo zivame ukuba kumathegi we- <li> .. </li>, uzodinga ukusonga ephaketheni lakho kulawo maga.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Izixhumanisi ezisheshayo';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Umhlahlandlela oqala Ngokushesha Wokwenza Izindikimba zeVanilla';
 
+$Definition['Rate Limits'] = 'Linganisa Imikhawulo';
 $Definition['Reactions Documentation'] = 'Ukusabela Imibhalo';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'I-plugin ye-Vanilla Comments eyenziwe isilungele ye-WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'I-plugin ye-Vanilla Forum elungiselelwe eyenziwe ye-WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Dinga imvume yoku
 $Definition['Restoring your selection removes the items from this list.'] = 'Uma ubuyisela, izinto ziyasuswa kulolu hlu bese ziphindiselwa kusayithi.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Sebenzisa inketho elandelayo ukunika amandla izingcaphuno zomhleli ocebile. Lokhu kuzosebenza kuphela uma ifomathi ezenzakalelayo engu- "Rich".';
+$Definition['Role Tokens'] = 'Amathokheni Endima';
 $Definition['Route Expression'] = 'Ukuvezwa Kwendlela';
 $Definition['Routes are used to redirect users.'] = 'Imizila isetshenziselwa ukuqondisa kabusha abasebenzisi ngokuya nge-URL eceliwe.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Imikhawulo ekhethekile: Abasebenzisi kuphela abanemvume yeGarden.Curation.Manage bangasebenzisa lokhu kusabela.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Cacisa ukufana noma ukufana okugcwele lapho udala ukuvinjelwa.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Chitha isikhathi esincane ucabanga ukuthi usichaza kanjani isiza sakho lapha. Ukunikeza isiza sakho isihloko esinenjongo nencazelo emfushane kungasiza isikhundla sakho ezinjini zokusesha.';
+$Definition['Spoofing'] = 'Spoofing';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Hlanganisa ama-imeyili akho ngokungeza ilogo nokwenza imibala ibe ngokwezifiso.';
 $Definition['Start Import'] = 'Qala Ukungenisa';
 $Definition['Start the first discussion.'] = 'Qondisa ibhola emphakathini wakho <a href="{/post/discussion,url}">ngokuqala ingxoxo yokuqala</a> manje.';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Isexwayiso</b> : Lokhu
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Sincoma ukuthi unike amandla ukusabela okungu-1–3 ngesikhathi ukuze ugweme abasebenzisi abaningi.';
 $Definition['Webhooks'] = 'Ama-Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Uma inikwe amandla, abasebenzisi bangakhetha ukuthola izaziso ezivela emphakathini';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Uma unikwe amandla, ungaphatha imikhiqizo, kanye namaqembu amancane weqembu ngaleyo mikhiqizo.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Uma inikwe amandla, ungakwazi <0>ukuphatha imikhiqizo</0> , kanye nemiphakathi engaphansi kwamaqembu ngaleyo mikhiqizo.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Ukuthi izinkambu zephrofayela yangaphakathi zizofakwa noma cha kule webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Ukuthi izinkambu zephrofayela eyimfihlo zizofakwa noma cha kule webhook.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Kwesinye isikhat
 $Definition['Layout Editor'] = 'Umhleli Wesakhiwo';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Nika amandla Isihleli Sesakhiwo ukuze usebenzise isakhiwo esingokwezifiso samakhasi wakho womphakathi. Sebenzisa umhleli wethu omusha ukufaka okuqukethwe usebenzisa ikhathalogi yethu yamawijethi atholakalayo.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'QAPHELA Umhleli Wesakhiwo esisha uzodla ifa letimu esethwe Kumhlahlandlela wakho Wesitayela (umhleli wetimu ngokusemthethweni). <1>Thola okwengeziwe</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Ikhasi Lohlu Lokuthunyelwe Kwakamuva";
+$Definition["Custom"] = "Ngokwezifiso";
+$Definition["Category List Page"] = "Ikhasi Lohlu Lwesigaba";
+$Definition["Home Page Type"] = "Uhlobo Lwekhasi Lasekhaya";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Khetha ikhasi elizosebenza njengekhasi eliyisiqalo lomphakathi omncane.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Uhlobo Lwekhasi Lasekhaya Olukhethiwe luyisakhiwo esingokwezifiso. Ungakwazi ukuphatha isakhiwo salo mphakathi omncane kokuthi <0/>.";
+$Definition["Default Subcommunity"] = "Umphakathi ongaphansi ozenzakalelayo";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Yenza lokhu kube umphakathi omncane ozenzakalelayo. Izivakashi zizoqondiswa lapha kuqala uma zifinyelela emphakathini.";
+$Definition["Post number must be between 3–20."] = "Inombolo yokuthunyelwe kufanele ibe phakathi kuka-3–20.";
+$Definition["Pages"] = "Amakhasi";
+$Definition["Widget Builder"] = "Umakhi Wewijethi";
+$Definition["Custom Pages"] = "Amakhasi Ngokwezifiso";
+$Definition["Site Home Pages"] = "Amakhasi Asekhaya Esayithi";
+$Definition["Subcommunity Home Pages"] = "Amakhasi Asekhaya Omphakathi Ongaphansi";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Khetha itimu yalo mphakathi ongaphansi. <0>Funda kabanzi</0>";
+$Definition["Vanilla Messages"] = "Imilayezo ye-vanilla";
+$Definition["From <0/>"] = "Kusuka ku-<0/>";
+$Definition["Manage Products"] = "Phatha Imikhiqizo";
+$Definition["Pages"] = "Amakhasi";
+$Definition["Widget Builder"] = "Umakhi Wewijethi";
+$Definition["Custom Pages"] = "Amakhasi Ngokwezifiso";
+$Definition["Site Home Pages"] = "Amakhasi Asekhaya Esayithi";
+$Definition["Subcommunity Home Pages"] = "Amakhasi Asekhaya Omphakathi Ongaphansi";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Khetha itimu yalo mphakathi ongaphansi. <0>Funda kabanzi</0>";
+$Definition["Search subcommunities."] = "Sesha imiphakathi engaphansi.";
+$Definition["The view you were looking for could not be found."] = "Ukubuka obukufuna akutholakalanga.";
+$Definition["View Not Found"] = "Ukubuka Akutholakali";
+$Definition["site"] = "indawo";
+$Definition["Selected Home Page Type is a legacy layout."] = "Uhlobo Lwekhasi Lasekhaya Olukhethiwe luyisakhiwo sefa.";
+$Definition["The default home page type can be changed in <0/>."] = "Uhlobo lwekhasi lasekhaya oluzenzakalelayo lungashintshwa kokuthi <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Izilungiselelo zamagama angukhiye";
+$Definition["Extremely Negative to Negative"] = "I-Negative Ngokwedlulele iye Kubi";
+$Definition["Negative to Balanced"] = "I-Negative to Balanced";
+$Definition["Balanced to Positive"] = "Kulinganiswe kokuthi Okuhle";
+$Definition["Positive to Highly Positive"] = "Okuhle kuya kokuhle Kakhulu";
+$Definition["Sentiment Keywords"] = "Amagama angukhiye Womzwelo";
+$Definition["Sentiment Settings"] = "Izilungiselelo zomzwelo";
+$Definition["Add Keyword"] = "Engeza igama elingukhiye";
+$Definition["Keyword Limit Reached"] = "Umkhawulo wegama elingukhiye ufinyelelwe";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Ungakwazi ukulandelela kuphela amagama angukhiye angu-100. Ungalandeleli amanye ukuze wengeze amagama angukhiye amasha.";
+$Definition["Calibrate Sentiment Levels"] = "Linganisa Amazinga Womzwelo";
+$Definition["Sentiment Level Distribution Adjustment"] = "Ukulungiswa Kokusabalalisa Kwezinga Lomzwelo";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Izilayidi ezi-4 zimelela amaphuzu phakathi kwezinga ngalinye lemizwa. Hudula izilayidi ukuze ulinganise izinga lokusatshalaliswa kwezinga lokuzwa kokuqukethwe komphakathi wakho.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Ukuhlola Kuqala Kokusabalalisa Imizwa Elinganiselwe";
+$Definition["(Read Only)"] = "(Funda Kuphela)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Le grafu ibona ngeso lengqondo ukuthi okuqukethwe emphakathini wakho kuzosatshalaliswa kanjani ngokusekelwe ekulungisweni kwakho kokulinganisa.";
+$Definition["all time sentiment"] = "umuzwa waso sonke isikhathi";
+$Definition["keyword"] = "igama elingukhiye";
+$Definition["number of uses"] = "inani lokusetshenziswa";
+$Definition["last use"] = "ukusetshenziswa kokugcina";
+$Definition["tracking"] = "ukulandelela";
+$Definition["Sentiment"] = "Imizwa";
+$Definition["Tracked Status"] = "Isimo sokulandelelwa";
+$Definition["Tracked Only"] = "Kulandelelwa Kuphela";
+$Definition["Untracked Only"] = "Okungalandelelwanga Kuphela";
+$Definition["Strongly Negative"] = "I-Negative Kakhulu";
+$Definition["Negative"] = "Okubi";
+$Definition["Positive"] = "Okuhle";
+$Definition["Highly Positive"] = "Kuhle Kakhulu";
+$Definition["Clear all filters"] = "Sula zonke izihlungi";
+$Definition["Keyword is required."] = "Igama elingukhiye liyadingeka.";
+$Definition["Maximum length is 100 characters."] = "Ubude obukhulu yizinhlamvu eziyi-100.";
+$Definition["Keyword"] = "Igama elingukhiye";
+$Definition["Add a new tracked keyword"] = "Engeza igama elingukhiye elisha elilandelwayo";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Amagama angukhiye amasha azolandelelwa ezibalweni. Ungakhetha ukuvala ukulandela ngemuva kokudala leli gama elingukhiye.";
+$Definition["Extremely Negative"] = "Ibi Kakhulu";
+$Definition["Extremely Positive"] = "Kuhle Kakhulu";
+$Definition["Filter by:"] = "Hlunga nge:";

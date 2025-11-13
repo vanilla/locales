@@ -648,6 +648,7 @@ $Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikip
 $Definition['editor.fileErrorSize'] = 'File size is too large.';
 $Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
 $Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
+$Definition["editor.fileErrorAlreadyExists"] = "File already uploaded.";
 $Definition['Edit Password'] = 'Edit Password';
 $Definition['Edit Post'] = 'Edit Post';
 $Definition['Edit Preferences'] = 'Edit Preferences';
@@ -1080,6 +1081,7 @@ $Definition['Leave Group'] = 'Leave Group';
 $Definition['Leaving'] = 'Leaving';
 $Definition['Length'] = 'Length';
 $Definition['Level %s'] = 'Level %s';
+$Definition["Legacy"] = "Legacy";
 $Definition['Like'] = 'Like';
 $Definition['Link'] = 'Link';
 $Definition['Link Image to URL'] = 'Link Image to URL';

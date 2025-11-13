@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Payagan ang mga gumagamit na may pahintulot %s na baguhin ang kanilang sariling mga avatar mula sa kanilang mga pahina ng profile sa Vanilla.';
 $Definition['Anonymize IP Addresses'] = "I-anonymize ang mga IP Address";
+$Definition['API Overview'] = "Pangkalahatang-ideya ng API";
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Ilapat ang Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Mahusay na panatilihin ang maximum na bilang ng mga character na pinapayagan sa isang post pababa sa isang makatwirang sukat.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Matuto tungkol sa custom routing.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Ang Bahagyang Anonymization</strong> ay hindi nagpapakilala lamang sa huling octet ng IP address. Halimbawa, ang 254.230.05.153 ay magiging 254.230.05.0. Nagbibigay ito ng ilang anonymization habang pinapayagan pa ring gumana ang mga panuntunan sa IP ban.";
 $Definition['Partial Anonymization'] = "Bahagyang Anonymization";
 $Definition['Password.MinLength'] = 'Pinahihintulutan ang minimum na haba ng character para sa mga user na password sa paggawa at pag-reset ng password sa mga pahina.';
+$Definition['Personal Access Tokens'] = 'Mga Token para sa Personal na Pag-access';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in <li>..</li> tags, you\'ll need to wrap your pocket in those tags too.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Mga quicklink';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
+$Definition['Rate Limits'] = 'Mga Limitasyon sa Rate';
 $Definition['Reactions Documentation'] = 'Dokumentasyon ng Mga Reaksyon';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Nangangailangan n
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Gamitin ang sumusunod na opsyon para mapagana ang mga sipi para sa Rich Editor. Maikakapit lang ito kung "Rich" ang default na formatter.';
+$Definition['Role Tokens'] = 'Mga Token ng Tungkulin';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Ang mga route ay ginagamit para i-redirect ang mga user depende sa hiniling na URL.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Espesyal na paghihigpit: Mga gumagamit lamang na may pahintulot na Garden.Curation.Manage ay maaaring gumamit ng reaksyon na ito.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Tukuyin ang bahagya o kumpletong pagtugma kapag gumagawa ng pagbabawal.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
+$Definition['Spoofing'] = 'Panggagaya';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Ayusin ang iyong mga email sa pamamagitan ng paglalagay ng logo at pagko-customize sa mga kulay.';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Start the first discussion.'] = 'Umpisihan ang aksyon sa iyong komunidad sa pamamagitan ng <a href="{/post/discussion,url}">pagsisimula ng unang talakayan</a> ngayon.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Inirerekomenda namin ang pagpapagana ng 1–3 reaksyon sa isang pagkakataon upang maiwasan ang napakaraming user.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Kapag pinagana, maaaring piliin ng mga user na makatanggap ng mga notification mula sa komunidad';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Kapag pinagana, maaari mong pamahalaan ang mga produkto, at mga subkomunidad ng grupo sa pamamagitan ng mga produktong iyon.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Kapag pinagana, maaari mong <0>pamahalaan ang mga produkto</0> , at pangkatin ang mga subkomunidad ng mga produktong iyon.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Kung ang mga panloob na field ng profile ay isasama sa webhook na ito o hindi.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Kung ang mga pribadong field ng profile ay isasama sa webhook na ito o hindi.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Minsan gusto mon
 $Definition['Layout Editor'] = 'Layout Editor';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Paganahin ang Layout Editor na maglapat ng custom na layout para sa iyong mga pahina ng komunidad. Gamitin ang aming bagong editor upang itampok ang nilalaman gamit ang aming katalogo ng mga available na widget.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Ang bagong Layout Editor ay magmamana ng tema na itinakda sa iyong Style Guide (formal na theme editor). <1>Alamin ang higit pa</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Pahina ng Listahan ng Kamakailang Post";
+$Definition["Custom"] = "Custom";
+$Definition["Category List Page"] = "Pahina ng Listahan ng Kategorya";
+$Definition["Home Page Type"] = "Uri ng Home Page";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Pumili ng page na magsisilbing homepage ng subcommunity.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Ang napiling Uri ng Home Page ay isang custom na layout. Maaari mong pamahalaan ang layout para sa subcommunity na ito sa <0/>.";
+$Definition["Default Subcommunity"] = "Default na Subcommunity";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Gawin itong default na subcommunity. Dito unang ididirekta ang mga bisita kapag na-access nila ang komunidad.";
+$Definition["Post number must be between 3–20."] = "Ang numero ng post ay dapat nasa pagitan ng 3–20.";
+$Definition["Pages"] = "Mga pahina";
+$Definition["Widget Builder"] = "Tagabuo ng Widget";
+$Definition["Custom Pages"] = "Mga Custom na Pahina";
+$Definition["Site Home Pages"] = "Mga Home Page ng Site";
+$Definition["Subcommunity Home Pages"] = "Mga Home Page ng Subcommunity";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Pumili ng tema para sa subcommunity na ito. <0>Magbasa pa</0>";
+$Definition["Vanilla Messages"] = "Mga Mensahe ng Vanilla";
+$Definition["From <0/>"] = "Mula sa <0/>";
+$Definition["Manage Products"] = "Pamahalaan ang Mga Produkto";
+$Definition["Pages"] = "Mga pahina";
+$Definition["Widget Builder"] = "Tagabuo ng Widget";
+$Definition["Custom Pages"] = "Mga Custom na Pahina";
+$Definition["Site Home Pages"] = "Mga Home Page ng Site";
+$Definition["Subcommunity Home Pages"] = "Mga Home Page ng Subcommunity";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Pumili ng tema para sa subcommunity na ito. <0>Magbasa pa</0>";
+$Definition["Search subcommunities."] = "Maghanap ng mga subcommunity.";
+$Definition["The view you were looking for could not be found."] = "Ang view na iyong hinahanap ay hindi matagpuan.";
+$Definition["View Not Found"] = "Hindi Natagpuan ang View";
+$Definition["site"] = "site";
+$Definition["Selected Home Page Type is a legacy layout."] = "Ang napiling Uri ng Home Page ay isang legacy na layout.";
+$Definition["The default home page type can be changed in <0/>."] = "Maaaring baguhin ang default na uri ng home page sa <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Mga Setting ng Keyword";
+$Definition["Extremely Negative to Negative"] = "Lubhang Negatibo hanggang Negatibo";
+$Definition["Negative to Balanced"] = "Negatibo sa Balanse";
+$Definition["Balanced to Positive"] = "Balanse hanggang Positibo";
+$Definition["Positive to Highly Positive"] = "Positibo hanggang Lubhang Positibo";
+$Definition["Sentiment Keywords"] = "Mga Keyword ng Sentiment";
+$Definition["Sentiment Settings"] = "Mga Setting ng Sentimento";
+$Definition["Add Keyword"] = "Magdagdag ng Keyword";
+$Definition["Keyword Limit Reached"] = "Naabot na ang Limitasyon ng Keyword";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Maaari mo lamang subaybayan ang hanggang 100 mga keyword. I-untrack ang ilan upang magdagdag ng mga bagong keyword.";
+$Definition["Calibrate Sentiment Levels"] = "I-calibrate ang Mga Antas ng Sentimento";
+$Definition["Sentiment Level Distribution Adjustment"] = "Pagsasaayos sa Pamamahagi ng Antas ng Sentiment";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Ang 4 na slider ay kumakatawan sa mga punto sa pagitan ng bawat antas ng damdamin. I-drag ang mga slider upang i-calibrate ang pangkalahatang pamamahagi ng antas ng sentimento sa nilalaman ng iyong komunidad.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Preview ng Pamamahagi ng Na-calibrate na Sentiment";
+$Definition["(Read Only)"] = "(Read Only)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Inilalarawan ng graph na ito kung paano ipapamahagi ang nilalaman sa iyong komunidad batay sa iyong pagsasaayos ng pagkakalibrate.";
+$Definition["all time sentiment"] = "lahat ng oras na damdamin";
+$Definition["keyword"] = "keyword";
+$Definition["number of uses"] = "bilang ng mga gamit";
+$Definition["last use"] = "huling gamit";
+$Definition["tracking"] = "pagsubaybay";
+$Definition["Sentiment"] = "Sentimento";
+$Definition["Tracked Status"] = "Nasubaybayang Katayuan";
+$Definition["Tracked Only"] = "Sinusubaybayan Lamang";
+$Definition["Untracked Only"] = "Hindi Sinusubaybayan Lamang";
+$Definition["Strongly Negative"] = "Lubos na Negatibo";
+$Definition["Negative"] = "Negatibo";
+$Definition["Positive"] = "Positibo";
+$Definition["Highly Positive"] = "Highly Positive";
+$Definition["Clear all filters"] = "I-clear ang lahat ng mga filter";
+$Definition["Keyword is required."] = "Kinakailangan ang keyword.";
+$Definition["Maximum length is 100 characters."] = "Ang maximum na haba ay 100 character.";
+$Definition["Keyword"] = "Keyword";
+$Definition["Add a new tracked keyword"] = "Magdagdag ng bagong sinusubaybayang keyword";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Ang mga bagong keyword ay susubaybayan sa analytics. Maaari mong piliing i-off ang pagsubaybay pagkatapos gawin ang keyword na ito.";
+$Definition["Extremely Negative"] = "Lubhang Negatibo";
+$Definition["Extremely Positive"] = "Lubhang Positibo";
+$Definition["Filter by:"] = "I-filter ayon sa:";

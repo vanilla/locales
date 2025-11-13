@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'السماح للمستخدمين الذين لديهم إذن %s بتغيير الصور الرمزية الخاصة بهم من صفحات ملفاتهم الشخصية في Vanilla.';
 $Definition['Anonymize IP Addresses'] = "إخفاء هوية عناوين IP";
+$Definition['API Overview'] = "نظرة عامة على واجهة برمجة التطبيقات";
 $Definition['ApplicationHelp'] = 'التطبيقات تسمح لك بإضافة مجموعة كبيرة من الإمكانيات للموقع.<br>عند إضافة تطبيق إلى ملف %s ، يمكنك تنشيطه أو تعطيله هنا.';
 $Definition['Apply Layout'] = 'تطبيق التخطيط';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'هل أنت متأكد من أنك أدخلت اسم مضيف قاعدة البيانات الصحيح؟ ربما أخطأت في الكتابة؟ ذكرت قاعدة البيانات: <code>%s</code>';
@@ -129,6 +130,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'من الجيد الاحتفاظ بالحد الأقصى لعدد الأحرف المسموح به في المنشور إلى حجم معقول.';
 
+$Definition['JWT'] = 'جيه دبليو تي';
 $Definition['Kick-start your community and increase user engagement.'] = 'ابدأ بإطلاق مجتمعك وزيادة مشاركة المستخدمين.';
 $Definition['Labs'] = 'مختبرات';
 $Definition['Learn about custom routing.'] = 'تعرف على التوجيه المخصص';
@@ -166,6 +168,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "يؤدي <strong>إخفاء الهوية الجزئي</strong> إلى إخفاء هوية آخر ثماني بتات فقط من عنوان IP. على سبيل المثال ، سيصبح 254.230.05.153 254.230.05.0. يوفر هذا بعض إخفاء الهوية بينما لا يزال يسمح لقواعد حظر IP بالعمل.";
 $Definition['Partial Anonymization'] = "إخفاء الهوية الجزئي";
 $Definition['Password.MinLength'] = 'الحد الأدنى لطول الأحرف المسموح به لكلمات مرور المستخدمين في صفحات إنشاء وإعادة تعيين كلمة المرور.';
+$Definition['Personal Access Tokens'] = 'رموز الوصول الشخصية';
 $Definition['Please choose an authenticator to configure.'] = 'يُرجى اختيار مصادق للتهيئة.';
 $Definition['PluginHelp'] = 'تسمح لك الإضافات بإضافة وظائف إلى موقعك. <br /> بمجرد إضافة ملحق إلى مجلد %s الخاص بك ، يمكنك تمكينه أو تعطيله هنا.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'يتم عرض الجيب بين كل نقاش حول قائمة المناقشات الرئيسية. حيث أن موضوعات النقاش عادة ما تكون في علامات <li>..</li> ، ستحتاج إلى طيّ جيبك في تلك العلامات أيضاً.';
@@ -175,6 +178,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'روابط سريعة';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'دليل البدء السريع لإنشاء مظاهر لـ Vanilla';
 
+$Definition['Rate Limits'] = 'حدود المعدل';
 $Definition['Reactions Documentation'] = 'توثيق ردود الفعل';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'ملحق تعليقات Vanilla جاهز لـ WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'ملحق منتدى Vanilla جاهز لـ WordPress';
@@ -190,6 +194,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'يتطلب إذن
 $Definition['Restoring your selection removes the items from this list.'] = 'عندما تقوم بالاستعادة، تتم إزالة العناصر من هذه القائمة وإعادتها إلى الموقع.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'استخدم الخيار التالي لتمكين علامات الاقتباس لـ "Rich Editor". سيتم تطبيق هذا فقط إذا كان المنسق الافتراضي هو "Rich".';
+$Definition['Role Tokens'] = 'رموز الأدوار';
 $Definition['Route Expression'] = 'إيضاح المسار';
 $Definition['Routes are used to redirect users.'] = 'تُستخدم المسارات لإعادة توجيه المستخدمين بناءً على عنوان URL المطلوب.
 ';
@@ -213,6 +218,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'قيود خاصة: يمكن فقط للمستخدمين الذين لديهم إذن Garden.Curation.Manage استخدام هذا التفاعل.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'حدد مطابقة جزئية أو كاملة عند إنشاء حظر.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'خذ بضع دقائق من وقتك في التفكير في كيفية وصف موقعك هنا. يمكن أن يساعدك إعطاء عنوان ذي مغزى ووصف موجز لموقعك في محركات البحث.';
+$Definition['Spoofing'] = 'انتحال الهوية';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'التنوب رسائل البريد الإلكتروني الخاصة بك عن طريق إضافة شعار وتخصيص الألوان.';
 $Definition['Start Import'] = 'بدء الاستيراد';
 $Definition['Start the first discussion.'] = 'الحصول على الكرة المتداول في مجتمعك من قبل<a href="{/post/discussion,url}">بدء المناقشة الأولى</a>الآن.';
@@ -283,7 +289,7 @@ $Definition['Warning: This is for advanced users.'] = '<b> تحذير </b>: هذ
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'نوصي بتمكين 1-3 ردود فعل في المرة الواحدة لتجنب إرباك المستخدمين.';
 $Definition['Webhooks'] = 'ويب هوك';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'عند التمكين، يمكن للمستخدمين اختيار تلقي إشعارات من المجتمع';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'عند التمكين ، يمكنك إدارة المنتجات والمجموعات الفرعية من خلال تلك المنتجات.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'عند تمكينه، يمكنك <0>إدارة المنتجات</0> ، وتجميع المجتمعات الفرعية حسب تلك المنتجات.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'ما إذا كان سيتم تضمين حقول الملف الشخصي الداخلية في خطاف الويب هذا أم لا.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'ما إذا كان سيتم تضمين حقول الملف الشخصي الخاصة في خطاف الويب هذا أم لا.';
 
@@ -421,3 +427,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "في بعض ال
 $Definition['Layout Editor'] = 'مصمم تخطيط';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'قم بتمكين محرر التخطيط لتطبيق تخطيط مخصص لصفحات المجتمع الخاصة بك. استخدم محررنا الجديد لتمييز المحتوى باستخدام كتالوج عناصر واجهة المستخدم المتاحة لدينا.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'ملحوظة: سوف يرث محرر التخطيط الجديد السمة المحددة في دليل الأنماط (محرر السمة رسميًا). <1> اكتشف المزيد</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "صفحة قائمة المشاركات الأخيرة";
+$Definition["Custom"] = "مخصص";
+$Definition["Category List Page"] = "صفحة قائمة الفئات";
+$Definition["Home Page Type"] = "نوع الصفحة الرئيسية";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "اختر صفحة لتكون بمثابة الصفحة الرئيسية للمجتمع الفرعي.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "نوع الصفحة الرئيسية المحدد هو تخطيط مخصص. يمكنك إدارة تخطيط هذا المجتمع الفرعي في <0/>.";
+$Definition["Default Subcommunity"] = "المجتمع الفرعي الافتراضي";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "اجعل هذا مجتمعًا فرعيًا افتراضيًا. سيتم توجيه الزوار إليه أولًا عند دخولهم إلى المجتمع.";
+$Definition["Post number must be between 3–20."] = "يجب أن يكون رقم المنشور بين 3-20.";
+$Definition["Pages"] = "الصفحات";
+$Definition["Widget Builder"] = "منشئ الأدوات";
+$Definition["Custom Pages"] = "الصفحات المخصصة";
+$Definition["Site Home Pages"] = "الصفحات الرئيسية للموقع";
+$Definition["Subcommunity Home Pages"] = "الصفحات الرئيسية للمجتمع الفرعي";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "اختر موضوعًا لهذا المجتمع الفرعي. <0>اقرأ المزيد</0>";
+$Definition["Vanilla Messages"] = "رسائل الفانيليا";
+$Definition["From <0/>"] = "من <0/>";
+$Definition["Manage Products"] = "إدارة المنتجات";
+$Definition["Pages"] = "الصفحات";
+$Definition["Widget Builder"] = "منشئ الأدوات";
+$Definition["Custom Pages"] = "الصفحات المخصصة";
+$Definition["Site Home Pages"] = "الصفحات الرئيسية للموقع";
+$Definition["Subcommunity Home Pages"] = "الصفحات الرئيسية للمجتمع الفرعي";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "اختر موضوعًا لهذا المجتمع الفرعي. <0>اقرأ المزيد</0>";
+$Definition["Search subcommunities."] = "البحث عن المجتمعات الفرعية.";
+$Definition["The view you were looking for could not be found."] = "لم يتم العثور على المنظر الذي كنت تبحث عنه.";
+$Definition["View Not Found"] = "لم يتم العثور على العرض";
+$Definition["site"] = "موقع";
+$Definition["Selected Home Page Type is a legacy layout."] = "نوع الصفحة الرئيسية المحدد هو تخطيط قديم.";
+$Definition["The default home page type can be changed in <0/>."] = "يمكن تغيير نوع الصفحة الرئيسية الافتراضية في <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "إعدادات الكلمات الرئيسية";
+$Definition["Extremely Negative to Negative"] = "سلبي للغاية إلى سلبي";
+$Definition["Negative to Balanced"] = "سلبي إلى متوازن";
+$Definition["Balanced to Positive"] = "متوازن إلى إيجابي";
+$Definition["Positive to Highly Positive"] = "إيجابي إلى إيجابي للغاية";
+$Definition["Sentiment Keywords"] = "كلمات رئيسية للمشاعر";
+$Definition["Sentiment Settings"] = "إعدادات المشاعر";
+$Definition["Add Keyword"] = "أضف الكلمة الرئيسية";
+$Definition["Keyword Limit Reached"] = "تم الوصول إلى الحد الأقصى للكلمات الرئيسية";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "يمكنك تتبّع ما يصل إلى ١٠٠ كلمة رئيسية فقط. يمكنك إلغاء تتبّع بعضها لإضافة كلمات رئيسية جديدة.";
+$Definition["Calibrate Sentiment Levels"] = "معايرة مستويات المشاعر";
+$Definition["Sentiment Level Distribution Adjustment"] = "تعديل توزيع مستوى المشاعر";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "تمثل أشرطة التمرير الأربعة النقاط بين كل مستوى من مستويات المشاعر. اسحب أشرطة التمرير لمعايرة توزيع مستوى المشاعر الإجمالي على محتوى مجتمعك.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "معاينة توزيع المشاعر المعايرة";
+$Definition["(Read Only)"] = "(للقراءة فقط)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "يوضح هذا الرسم البياني كيفية توزيع المحتوى في مجتمعك استنادًا إلى تعديل المعايرة الذي أجريته.";
+$Definition["all time sentiment"] = "مشاعر في كل الأوقات";
+$Definition["keyword"] = "الكلمة الرئيسية";
+$Definition["number of uses"] = "عدد الاستخدامات";
+$Definition["last use"] = "آخر استخدام";
+$Definition["tracking"] = "التتبع";
+$Definition["Sentiment"] = "المشاعر";
+$Definition["Tracked Status"] = "الحالة المتعقبة";
+$Definition["Tracked Only"] = "متتبع فقط";
+$Definition["Untracked Only"] = "غير المتعقب فقط";
+$Definition["Strongly Negative"] = "سلبي بشدة";
+$Definition["Negative"] = "سلبي";
+$Definition["Positive"] = "إيجابي";
+$Definition["Highly Positive"] = "إيجابي للغاية";
+$Definition["Clear all filters"] = "مسح جميع المرشحات";
+$Definition["Keyword is required."] = "الكلمة الرئيسية مطلوبة.";
+$Definition["Maximum length is 100 characters."] = "الحد الأقصى للطول هو 100 حرف.";
+$Definition["Keyword"] = "الكلمة الرئيسية";
+$Definition["Add a new tracked keyword"] = "إضافة كلمة رئيسية جديدة متتبعة";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "سيتم تتبع الكلمات الرئيسية الجديدة في التحليلات. يمكنك إيقاف التتبع بعد إنشاء هذه الكلمة الرئيسية.";
+$Definition["Extremely Negative"] = "سلبي للغاية";
+$Definition["Extremely Positive"] = "إيجابي للغاية";
+$Definition["Filter by:"] = "تصفية حسب:";

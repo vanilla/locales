@@ -23,6 +23,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Tillåt användare med behörigheten %s att ändra sina egna avatarer från sina profilsidor i Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymisera IP-adresser";
+$Definition['API Overview'] = "API-översikt";
 $Definition['ApplicationHelp'] = 'Applikationer låter dig lägga till stora grupper av funktionalitet till din sida.<br />När en applikation har lagts till i din %s-mapp kan du aktivera och inaktivera den här.';
 $Definition['Apply Layout'] = 'Tillämpa layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Är du säker på att du skrivit in rätt värdnamn till databasen? Kanske råkade du skriva fel? Databasen svarade: <code>%s</code>';
@@ -129,6 +130,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Det är en god idé att hålla det maximala antalet tillåtna tecken i ett inlägg till en rimlig storlek.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Sparka igång din community och öka användarnas deltagande.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Lär dig om anpassad dirigering.';
@@ -166,6 +168,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Partiell anonymisering</strong> anonymiserar endast den sista oktetten av IP-adressen. Till exempel skulle 254.230.05.153 bli 254.230.05.0. Detta ger viss anonymisering samtidigt som det tillåter IP-förbudsregler att fungera.";
 $Definition['Partial Anonymization'] = "Partiell anonymisering";
 $Definition['Password.MinLength'] = 'Minsta tillåtna teckenlängd för användares lösenord på sidor för skapande och återställning av lösenord.';
+$Definition['Personal Access Tokens'] = 'Personliga åtkomsttoken';
 $Definition['Please choose an authenticator to configure.'] = 'Vänligen välj en autentisering att konfigurera.';
 $Definition['PluginHelp'] = 'Pluginer låter dig lägga till funktionalitet till din site. <br />Så fort en plugin har lagts till din %s mapp, kan du aktivera eller inaktivera den här.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Den här fickan visas mellan varje diskussion på huvudlistan för diskussioner. Eftersom diskussioner vanligtvis görs i  <li>..</li>-taggar behöver även din ficka omges av dessa taggar.';
@@ -175,6 +178,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Snabblänkar';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Snabb guide till att skapa teman för Vanilla';
 
+$Definition['Rate Limits'] = 'Hastighetsgränser';
 $Definition['Reactions Documentation'] = 'Reaktionsdokumentation';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Färdiggjord Vanilla Comments-plugin för WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Färdiggjord Vanilla Forum-plugin för WordPress';
@@ -190,6 +194,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Kräver reaktions
 $Definition['Restoring your selection removes the items from this list.'] = 'När du återskapar tas objekten bort från den här listan och kommer tillbaka på sajten.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Använd följande alternativ för att aktivera citat för Rich Editor. Detta gäller bara om standardformatet är "Rich".';
+$Definition['Role Tokens'] = 'Rolltokens';
 $Definition['Route Expression'] = 'URL-alias, reguljärt uttryck';
 $Definition['Routes are used to redirect users.'] = 'Rutter används för att omdirigera användare beroende på den begärda webbadressen .';
 
@@ -212,6 +217,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Särskild begränsning: Endast användare med behörighet Garden.Curation.Manage får använda denna reaktion.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Ange partiell eller fullständig matchning vid spärr.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Ta lite tid för att tänka igenom hur du beskriver din sida här. Att ge din sida en meningsfull titel och en koncis beskrivning kan förbättra din position i sökmotorer.';
+$Definition['Spoofing'] = 'Förfalskning';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Snygga till dina e-postmeddelanden genom att lägga till en logotyp och anpassa färgerna.';
 $Definition['Start Import'] = 'Starta import';
 $Definition['Start the first discussion.'] = 'Få bollen i rullning i din community genom att <a href="{/post/discussion,url}">inleda den första diskussionen</a> nu.';
@@ -282,7 +288,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Varning</b>: Det här 
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Vi rekommenderar att du aktiverar 1–3 reaktioner åt gången för att undvika överväldigande användare.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'När det är aktiverat kan användare välja att ta emot meddelanden från communityn';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'När det är aktiverat kan du hantera produkter och gruppera undercommunitys efter dessa produkter.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'När det är aktiverat kan du <0>hantera produkter</0> och gruppera undergrupper efter dessa produkter.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Huruvida de interna profilfälten kommer att inkluderas i denna webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Huruvida de privata profilfälten kommer att inkluderas i denna webhook.';
 
@@ -420,3 +426,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Ibland vill du b
 $Definition['Layout Editor'] = 'Layoutredigerare';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Aktivera layoutredigeraren för att tillämpa en anpassad layout för dina community-sidor. Använd vår nya redigerare för att visa innehåll med hjälp av vår katalog med tillgängliga widgets.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'OBS! Den nya layoutredigeraren kommer att ärva temat i din stilguide (formellt temaredigerare). <1>Ta reda på mer</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Sida med senaste inlägg";
+$Definition["Custom"] = "Beställnings";
+$Definition["Category List Page"] = "Kategorilista Sida";
+$Definition["Home Page Type"] = "Typ av startsida";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Välj en sida som ska fungera som undergruppens hemsida.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Vald startsidestyp är en anpassad layout. Du kan hantera layouten för denna undergrupp i <0/>.";
+$Definition["Default Subcommunity"] = "Standardundergemenskap";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Gör detta till standardundergruppen. Besökare kommer att dirigeras hit först när de öppnar gruppen.";
+$Definition["Post number must be between 3–20."] = "Inläggsnumret måste vara mellan 3–20.";
+$Definition["Pages"] = "Sidor";
+$Definition["Widget Builder"] = "Widgetbyggare";
+$Definition["Custom Pages"] = "Anpassade sidor";
+$Definition["Site Home Pages"] = "Webbplatsens startsidor";
+$Definition["Subcommunity Home Pages"] = "Hemsidor för undergrupper";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Välj ett tema för den här undergruppen. <0>Läs mer</0>";
+$Definition["Vanilla Messages"] = "Vaniljmeddelanden";
+$Definition["From <0/>"] = "Från <0/>";
+$Definition["Manage Products"] = "Hantera produkter";
+$Definition["Pages"] = "Sidor";
+$Definition["Widget Builder"] = "Widgetbyggare";
+$Definition["Custom Pages"] = "Anpassade sidor";
+$Definition["Site Home Pages"] = "Webbplatsens startsidor";
+$Definition["Subcommunity Home Pages"] = "Hemsidor för undergrupper";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Välj ett tema för den här undergruppen. <0>Läs mer</0>";
+$Definition["Search subcommunities."] = "Sök i undergrupper.";
+$Definition["The view you were looking for could not be found."] = "Den vy du sökte efter kunde inte hittas.";
+$Definition["View Not Found"] = "Vy hittades inte";
+$Definition["site"] = "plats";
+$Definition["Selected Home Page Type is a legacy layout."] = "Vald startsidestyp är en äldre layout.";
+$Definition["The default home page type can be changed in <0/>."] = "Standardtypen för startsidan kan ändras i <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Nyckelordsinställningar";
+$Definition["Extremely Negative to Negative"] = "Extremt negativ till negativ";
+$Definition["Negative to Balanced"] = "Negativ till Balanserad";
+$Definition["Balanced to Positive"] = "Balanserad till positiv";
+$Definition["Positive to Highly Positive"] = "Positiv till mycket positiv";
+$Definition["Sentiment Keywords"] = "Sentimentnyckelord";
+$Definition["Sentiment Settings"] = "Sentimentinställningar";
+$Definition["Add Keyword"] = "Lägg till sökord";
+$Definition["Keyword Limit Reached"] = "Nyckelordsgränsen uppnådd";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Du kan bara spåra upp till 100 sökord. Avspåra vissa för att lägga till nya sökord.";
+$Definition["Calibrate Sentiment Levels"] = "Kalibrera sentimentnivåer";
+$Definition["Sentiment Level Distribution Adjustment"] = "Justering av sentimentnivåfördelning";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "De fyra reglagen representerar punkterna mellan varje sentimentnivå. Dra reglagen för att kalibrera den övergripande fördelningen av sentimentnivåer till din communitys innehåll.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Förhandsvisning av kalibrerad sentimentfördelning";
+$Definition["(Read Only)"] = "(Endast skrivskyddad)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Det här diagrammet visualiserar hur innehållet i din community skulle distribueras baserat på din kalibreringsjustering.";
+$Definition["all time sentiment"] = "alla tiders känslor";
+$Definition["keyword"] = "nyckelord";
+$Definition["number of uses"] = "antal användningar";
+$Definition["last use"] = "senaste användning";
+$Definition["tracking"] = "spårning";
+$Definition["Sentiment"] = "Känsla";
+$Definition["Tracked Status"] = "Spårad status";
+$Definition["Tracked Only"] = "Endast spårad";
+$Definition["Untracked Only"] = "Endast ospårade";
+$Definition["Strongly Negative"] = "Starkt negativ";
+$Definition["Negative"] = "Negativ";
+$Definition["Positive"] = "Positiv";
+$Definition["Highly Positive"] = "Mycket positiv";
+$Definition["Clear all filters"] = "Rensa alla filter";
+$Definition["Keyword is required."] = "Nyckelord är obligatoriskt.";
+$Definition["Maximum length is 100 characters."] = "Maximal längd är 100 tecken.";
+$Definition["Keyword"] = "Nyckelord";
+$Definition["Add a new tracked keyword"] = "Lägg till ett nytt spårat sökord";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Nya sökord kommer att spåras i analyser. Du kan välja att stänga av spårning efter att du har skapat det här sökordet.";
+$Definition["Extremely Negative"] = "Extremt negativ";
+$Definition["Extremely Positive"] = "Extremt positiv";
+$Definition["Filter by:"] = "Filtrera efter:";

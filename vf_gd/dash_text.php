@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Leig le luchd-cleachdaidh le cead %s na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Cuir seòlaidhean IP gun urra";
+$Definition['API Overview'] = "Sealladh farsaing air an API";
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Cuir a-steach cruth';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Is e deagh bheachd a th ’ann an àireamh as motha de charactaran a tha ceadaichte ann am post a chumail sìos gu meud reusanta.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Ionnsaich mu dheidhinn gnàthachadh àbhaisteach.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "Chan eil <strong>Partal Anonymization</strong> gun urra ach an octet mu dheireadh den t-seòladh IP. Mar eisimpleir bhiodh 254.230.05.153 gu bhith na 254.230.05.0. Bheir seo beagan gun urra fhad ‘s a tha e fhathast a’ leigeil le riaghailtean casg IP a bhith ag obair.";
 $Definition['Partial Anonymization'] = "Anonymization ann am pàirt";
 $Definition['Password.MinLength'] = 'Fad caractar as ìsle a tha ceadaichte airson faclan-faire luchd-cleachdaidh air duilleagan cruthaich agus ath-shuidheachadh faclan-faire.';
+$Definition['Personal Access Tokens'] = 'Comharran ruigsinneachd pearsanta';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in <li>..</li> tags, you\'ll need to wrap your pocket in those tags too.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Ceanglaichean luath';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
+$Definition['Rate Limits'] = 'Crìochan Ìre';
 $Definition['Reactions Documentation'] = 'Sgrìobhainnean ath-bheachdan';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Feumaidh e cead f
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Cleachd an roghainn a leanas gus luachan a thoirt don Deasaiche Rich. Cha bhuin seo ach ma tha an cruth bunaiteach "Rich".';
+$Definition['Role Tokens'] = 'Comharran Dreuchd';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Bithear a ’cleachdadh slighean gus luchd-cleachdaidh ath-stiùireadh a rèir an URL a chaidh iarraidh.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Cuingealachadh sònraichte: Chan fhaod ach luchd-cleachdaidh le cead Garden.Curation.Manage an ath-bhualadh seo a chleachdadh.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Sònraich maids pàirt no làn nuair a chruthaicheas tu casg.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
+$Definition['Spoofing'] = 'A\' dèanamh lethbhreac';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce suas na puist-d agad le bhith a ’cur suaicheantas agus a’ gnàthachadh nan dathan.';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Start the first discussion.'] = 'Thoir air am ball a dhol air adhart anns a ’choimhearsnachd agad le <a href="{/post/discussion,url}">bhith a’ tòiseachadh a ’chiad deasbad a-</a> nis.';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Tha sinn a’ moladh a bhith comasach air ath-bheachdan 1-3 a chomasachadh aig aon àm gus cus luchd-cleachdaidh a sheachnadh.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Nuair a bhios e comasach, faodaidh luchd-cleachdaidh roghnachadh fiosan fhaighinn bhon choimhearsnachd';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Nuair a bhios e air a chomasachadh, faodaidh tu toraidhean a riaghladh, agus fo-choimhearsnachdan a chuir còmhla leis na toraidhean sin.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Nuair a bhios e air a chomasachadh, faodaidh tu <0>toraidhean a riaghladh</0> , agus fo-choimhearsnachdan a chur ann am buidhnean a rèir nan toraidhean sin.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Co-dhiù an tèid no nach tèid na raointean pròifil a-staigh a ghabhail a-steach sa bhileag-lìn seo.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Co-dhiù an tèid no nach tèid na raointean pròifil prìobhaideach a ghabhail a-steach sa bhileag-lìn seo.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Aig amannan bidh
 $Definition['Layout Editor'] = 'Deasaiche cruth-clò';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Dèan comas don neach-deasachaidh cruth cruth gnàthaichte a chuir an sàs airson na duilleagan coimhearsnachd agad. Cleachd an deasaiche ùr againn gus susbaint a nochdadh a’ cleachdadh ar catalog de widgets a tha rim faighinn.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Sealbhaichidh an Deasaiche Cruth ùr an cuspair a chaidh a shuidheachadh san Stoidhle Stoidhle agad (deasaiche cuspair gu foirmeil). <1> Faigh a-mach tuilleadh</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Duilleag Liosta Post O chionn Ghoirid";
+$Definition["Custom"] = "Gnàthaichte";
+$Definition["Category List Page"] = "Duilleag Liosta Roinnean-seòrsa";
+$Definition["Home Page Type"] = "Seòrsa Duilleag-dhachaigh";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Tagh duilleag a bhios mar dhuilleag-dachaigh na fo-choimhearsnachd.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "’S e cruth gnàthaichte a th’ anns an t-Seòrsa Duilleag-dhachaigh a chaidh a thaghadh. ’S urrainn dhut cruth na fo-choimhearsnachd seo a riaghladh ann an <0/>.";
+$Definition["Default Subcommunity"] = "Fo-choimhearsnachd bunaiteach";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Dèan seo mar an fho-choimhearsnachd bunaiteach. Thèid luchd-tadhail a stiùireadh an seo an toiseach nuair a gheibh iad cothrom air a’ choimhearsnachd.";
+$Definition["Post number must be between 3–20."] = "Feumaidh àireamh na puist a bhith eadar 3–20.";
+$Definition["Pages"] = "Duilleagan";
+$Definition["Widget Builder"] = "Togadair Widget";
+$Definition["Custom Pages"] = "Duilleagan Gnàthaichte";
+$Definition["Site Home Pages"] = "Duilleagan-dhachaigh na làraich";
+$Definition["Subcommunity Home Pages"] = "Duilleagan-dhachaigh Fo-choimhearsnachd";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Tagh cuspair airson na fo-choimhearsnachd seo. <0>Leugh tuilleadh</0>";
+$Definition["Vanilla Messages"] = "Teachdaireachdan Vanilla";
+$Definition["From <0/>"] = "Bho <0/>";
+$Definition["Manage Products"] = "Stiùirich Bathar";
+$Definition["Pages"] = "Duilleagan";
+$Definition["Widget Builder"] = "Togadair Widget";
+$Definition["Custom Pages"] = "Duilleagan Gnàthaichte";
+$Definition["Site Home Pages"] = "Duilleagan-dhachaigh na làraich";
+$Definition["Subcommunity Home Pages"] = "Duilleagan-dhachaigh Fo-choimhearsnachd";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Tagh cuspair airson na fo-choimhearsnachd seo. <0>Leugh tuilleadh</0>";
+$Definition["Search subcommunities."] = "Lorg fo-choimhearsnachdan.";
+$Definition["The view you were looking for could not be found."] = "Cha b’ urrainnear an sealladh a bha thu a’ sireadh a lorg.";
+$Definition["View Not Found"] = "Cha deach an sealladh a lorg";
+$Definition["site"] = "làrach";
+$Definition["Selected Home Page Type is a legacy layout."] = "Is e cruth dìleab a th’ anns an t-Seòrsa Duilleag-dhachaigh a chaidh a thaghadh.";
+$Definition["The default home page type can be changed in <0/>."] = "Faodar an seòrsa duilleag-dhachaigh bunaiteach atharrachadh ann an <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Roghainnean Prìomh-fhaclan";
+$Definition["Extremely Negative to Negative"] = "Gu math àicheil gu àicheil";
+$Definition["Negative to Balanced"] = "Àicheil gu Cothromach";
+$Definition["Balanced to Positive"] = "Cothromach gu Deimhinneach";
+$Definition["Positive to Highly Positive"] = "Deimhinneach gu Glè Dheimhinneach";
+$Definition["Sentiment Keywords"] = "Prìomh fhaclan faireachdainn";
+$Definition["Sentiment Settings"] = "Roghainnean Faireachdainn";
+$Definition["Add Keyword"] = "Cuir Prìomh-fhacal ris";
+$Definition["Keyword Limit Reached"] = "Ràinig crìoch prìomh fhaclan";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Chan urrainn dhut ach suas ri 100 prìomh fhacal a leantainn. Thoir air falbh cuid dhiubh gus prìomh fhacal ùra a chur ris.";
+$Definition["Calibrate Sentiment Levels"] = "Calabraich Ìrean Faireachdainn";
+$Definition["Sentiment Level Distribution Adjustment"] = "Atharrachadh Sgaoilidh Ìre Faireachdainn";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Tha na 4 sleamhnagan a’ riochdachadh nam puingean eadar gach ìre faireachdainn. Slaod na sleamhnagan gus an sgaoileadh iomlan de ìrean faireachdainn a chalabrachadh a rèir susbaint do choimhearsnachd.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Ro-shealladh air Sgaoileadh Beachdan Calabraichte";
+$Definition["(Read Only)"] = "(Leughadh a-mhàin)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Tha an graf seo a’ sealltainn mar a bhiodh an susbaint sa choimhearsnachd agad air a sgaoileadh a rèir an atharrachaidh chalabrachaidh agad.";
+$Definition["all time sentiment"] = "faireachdainn fad na h-ùine";
+$Definition["keyword"] = "prìomh fhacal";
+$Definition["number of uses"] = "àireamh de chleachdaidhean";
+$Definition["last use"] = "cleachdadh mu dheireadh";
+$Definition["tracking"] = "tracadh";
+$Definition["Sentiment"] = "Faireachdainn";
+$Definition["Tracked Status"] = "Inbhe air a leantainn";
+$Definition["Tracked Only"] = "Air a leantainn a-mhàin";
+$Definition["Untracked Only"] = "Gun Lorg a-mhàin";
+$Definition["Strongly Negative"] = "Gu làidir àicheil";
+$Definition["Negative"] = "Àicheil";
+$Definition["Positive"] = "Deimhinneach";
+$Definition["Highly Positive"] = "Glè Dheimhinneach";
+$Definition["Clear all filters"] = "Glan na criathragan uile";
+$Definition["Keyword is required."] = "Tha feum air prìomh fhacal.";
+$Definition["Maximum length is 100 characters."] = "Is e 100 caractar an fhaid as motha.";
+$Definition["Keyword"] = "Prìomh fhacal";
+$Definition["Add a new tracked keyword"] = "Cuir prìomh fhacal ùr ris a tha air a leantainn";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Thèid prìomh fhaclan ùra a leantainn ann an anailitigeachd. Faodaidh tu roghnachadh an tracadh a chuir dheth às dèidh dhut am prìomh fhacal seo a chruthachadh.";
+$Definition["Extremely Negative"] = "Gu math àicheil";
+$Definition["Extremely Positive"] = "Air leth Deimhinneach";
+$Definition["Filter by:"] = "Criathraich a rèir:";

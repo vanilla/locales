@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Дозволити користувачам з дозволом %s змінювати власні аватари зі своїх сторінок профілю у Ванілі.';
 $Definition['Anonymize IP Addresses'] = "Анонімізація IP-адрес";
+$Definition['API Overview'] = "Огляд API";
 $Definition['ApplicationHelp'] = 'Додатки дозволяють вам додати великі групи функціональності вашого сайту. <br /> Додайте додаток до папки %s, і його можна буде включити або відключати тут.';
 $Definition['Apply Layout'] = 'Застосувати макет';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ви впевнені, що ввели правильне ім\'я хоста бази даних? Можливо ви ввели його з помилкою? База даних повідомила: <code>%s</code>';
@@ -127,6 +128,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Добре за все, щоб максимальна кількість символів, допущених у дописі, зменшувалась до розумного розміру.';
 
+$Definition['JWT'] = 'Дж. В. В.';
 $Definition['Kick-start your community and increase user engagement.'] = 'Почніть свою спільноту та залучайте користувачів.';
 $Definition['Labs'] = 'Лабораторії';
 $Definition['Learn about custom routing.'] = 'Дізнайтеся про власну маршрутизацію.';
@@ -164,6 +166,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Часткова анонімізація</strong> знеособлює лише останній октет IP-адреси. Наприклад, 254.230.05.153 стане 254.230.05.0. Це забезпечує певну анонімність, але дозволяє правилам заборони IP-адреси працювати.";
 $Definition['Partial Anonymization'] = "Часткова анонімізація";
 $Definition['Password.MinLength'] = 'Мінімальна довжина символів, дозволена для паролів користувачів на сторінках створення та скидання пароля.';
+$Definition['Personal Access Tokens'] = 'Токени персонального доступу';
 $Definition['Please choose an authenticator to configure.'] = 'Будь-ласка, виберіть аутентикатор для налаштування.';
 $Definition['PluginHelp'] = 'Плагіни дозволяють розширити функціональність вашого сайту.<br />Як тільки плагін буде доданий у %sпапку, ви можете включити або виключити його тут.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket відображається між кожним обговоренням в головному списку обговорень. Оскільки обговорення, як правило, містяться в тегах <li>..</li> тому вам потрібно також загорнути pocket в ці теги.';
@@ -173,6 +176,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Швидкі посилання';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Короткий посібник зі створення тем для Vanilla ';
 
+$Definition['Rate Limits'] = 'Обмеження швидкості';
 $Definition['Reactions Documentation'] = 'Документація реакцій';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Готовий плагін коментарів Vanilla для WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
@@ -188,6 +192,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Потрібен 
 $Definition['Restoring your selection removes the items from this list.'] = 'Після відновлення елементи вилучаються із цього списку та повертаються на сайт.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Використовуйте наступний варіант, щоб увімкнути котирування для редактора Rich. Це застосовується лише в тому випадку, якщо формат за замовчуванням "Rich".';
+$Definition['Role Tokens'] = 'Рольові жетони';
 $Definition['Route Expression'] = 'Назва маршруту';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
@@ -210,6 +215,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Спеціальне обмеження: Тільки користувачі з дозволом Garden.Curation.Manage можуть використовувати цю реакцію.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Зазначте частковий або повний збіг, створюючи бан.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Витратьте трохи часу на роздуми про те, як описати свій сайт. Надання вашому сайту змістовної назви та стислого опису може покращити ваші позиції в пошукових системах.';
+$Definition['Spoofing'] = 'Спуфінг';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colors.';
 $Definition['Start Import'] = 'Почніть Імпорт';
 $Definition['Start the first discussion.'] = 'Запустіть свою спільноту <a href="{/post/discussion,url}">почавши перше обговорення</a> зараз.';
@@ -279,7 +285,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Попередженн
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Ми рекомендуємо вмикати 1–3 реакції одночасно, щоб уникнути перевантаження користувачів.';
 $Definition['Webhooks'] = 'Веб -хуки';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Якщо ввімкнено, користувачі можуть отримувати сповіщення від спільноти';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Якщо ввімкнено, ви можете керувати продуктами та групувати підспілки за цими продуктами.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Коли ввімкнено, ви можете <0>керувати продуктами</0> , та групувати підспільноти за цими продуктами.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Чи будуть внутрішні поля профілю включені в цей вебхук.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Чи будуть поля приватного профілю включені в цей вебхук.';
 
@@ -417,3 +423,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Іноді ви 
 $Definition['Layout Editor'] = 'Редактор макета';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Увімкніть редактор макета, щоб застосувати власний макет для сторінок спільноти. Використовуйте наш новий редактор, щоб показувати вміст за допомогою нашого каталогу доступних віджетів.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Новий редактор макета успадкує тему, встановлену у вашому Посібнику зі стилю (формально редактор теми). <1>Дізнайтеся більше</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Сторінка зі списком останніх публікацій";
+$Definition["Custom"] = "Користувацька";
+$Definition["Category List Page"] = "Сторінка зі списком категорій";
+$Definition["Home Page Type"] = "Тип головної сторінки";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Виберіть сторінку, яка слугуватиме головною сторінкою підспільноти.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Вибраний тип головної сторінки – це власний макет. Ви можете керувати макетом для цієї підспільноти в <0/>.";
+$Definition["Default Subcommunity"] = "Підспільнота за замовчуванням";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Зробіть цю підспільнотою за замовчуванням. Відвідувачі будуть перенаправлені сюди спочатку, коли зайдуть до спільноти.";
+$Definition["Post number must be between 3–20."] = "Номер публікації має бути від 3 до 20.";
+$Definition["Pages"] = "Сторінки";
+$Definition["Widget Builder"] = "Конструктор віджетів";
+$Definition["Custom Pages"] = "Користувацькі сторінки";
+$Definition["Site Home Pages"] = "Головні сторінки сайту";
+$Definition["Subcommunity Home Pages"] = "Домашні сторінки підспільноти";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Виберіть тему для цієї підспільноти. <0>Читати далі</0>";
+$Definition["Vanilla Messages"] = "Ванільні повідомлення";
+$Definition["From <0/>"] = "Від <0/>";
+$Definition["Manage Products"] = "Керування продуктами";
+$Definition["Pages"] = "Сторінки";
+$Definition["Widget Builder"] = "Конструктор віджетів";
+$Definition["Custom Pages"] = "Користувацькі сторінки";
+$Definition["Site Home Pages"] = "Головні сторінки сайту";
+$Definition["Subcommunity Home Pages"] = "Домашні сторінки підспільноти";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Виберіть тему для цієї підспільноти. <0>Читати далі</0>";
+$Definition["Search subcommunities."] = "Пошук підспільнот.";
+$Definition["The view you were looking for could not be found."] = "Не вдалося знайти потрібний вам вид.";
+$Definition["View Not Found"] = "Вигляд не знайдено";
+$Definition["site"] = "сайт";
+$Definition["Selected Home Page Type is a legacy layout."] = "Вибраний тип головної сторінки має застарілий макет.";
+$Definition["The default home page type can be changed in <0/>."] = "Тип домашньої сторінки за замовчуванням можна змінити в <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Налаштування ключових слів";
+$Definition["Extremely Negative to Negative"] = "Вкрай негативний до негативного";
+$Definition["Negative to Balanced"] = "Від негативного до збалансованого";
+$Definition["Balanced to Positive"] = "Збалансований до позитивного";
+$Definition["Positive to Highly Positive"] = "Від позитивного до дуже позитивного";
+$Definition["Sentiment Keywords"] = "Ключові слова настроїв";
+$Definition["Sentiment Settings"] = "Налаштування настроїв";
+$Definition["Add Keyword"] = "Додати ключове слово";
+$Definition["Keyword Limit Reached"] = "Досягнуто ліміту ключових слів";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Ви можете відстежувати лише до 100 ключових слів. Скасуйте відстеження деяких, щоб додати нові ключові слова.";
+$Definition["Calibrate Sentiment Levels"] = "Калібрування рівнів настроїв";
+$Definition["Sentiment Level Distribution Adjustment"] = "Коригування розподілу рівня настроїв";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "4 повзунки представляють точки між кожним рівнем настрою. Перетягніть повзунки, щоб відкалібрувати загальний розподіл рівня настрою відповідно до контенту вашої спільноти.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Попередній перегляд розподілу каліброваних настроїв";
+$Definition["(Read Only)"] = "(Тільки читання)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Цей графік візуалізує, як контент у вашій спільноті буде розподілений на основі вашого калібрувального коригування.";
+$Definition["all time sentiment"] = "настрої всіх часів";
+$Definition["keyword"] = "ключове слово";
+$Definition["number of uses"] = "кількість використань";
+$Definition["last use"] = "останнє використання";
+$Definition["tracking"] = "відстеження";
+$Definition["Sentiment"] = "Настрої";
+$Definition["Tracked Status"] = "Відстежуваний статус";
+$Definition["Tracked Only"] = "Тільки відстежувані";
+$Definition["Untracked Only"] = "Тільки невідстежувані";
+$Definition["Strongly Negative"] = "Різко негативно";
+$Definition["Negative"] = "Негативний";
+$Definition["Positive"] = "Позитивний";
+$Definition["Highly Positive"] = "Дуже позитивно";
+$Definition["Clear all filters"] = "Очистити всі фільтри";
+$Definition["Keyword is required."] = "Ключове слово обов'язкове.";
+$Definition["Maximum length is 100 characters."] = "Максимальна довжина — 100 символів.";
+$Definition["Keyword"] = "Ключове слово";
+$Definition["Add a new tracked keyword"] = "Додати нове відстежуване ключове слово";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Нові ключові слова відстежуватимуться в аналітиці. Ви можете вимкнути відстеження після створення цього ключового слова.";
+$Definition["Extremely Negative"] = "Вкрай негативно";
+$Definition["Extremely Positive"] = "Надзвичайно позитивний";
+$Definition["Filter by:"] = "Фільтрувати за:";

@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Anna %s -valtuudet omaaville käyttäjille mahdollisuus muuttaa omia hahmokuviaan Vanillan profiilisivuillaan.';
 $Definition['Anonymize IP Addresses'] = "Anonymisoi IP-osoitteet";
+$Definition['API Overview'] = "API-yleiskatsaus";
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Käytä asettelua';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, että annoit oikean tietokannan isännän nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
@@ -128,6 +129,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Julkaisun merkkien sallittu yläraja on syytä pitää kohtuullisena.';
 
+$Definition['JWT'] = 'JWT';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityksestä.';
@@ -165,6 +167,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 $Definition['PartialAnonymization.Description'] = "<strong>Osittainen anonymisointi</strong> anonymisoi vain IP-osoitteen viimeisen oktetin. Esimerkiksi 254.230.05.153 muuttuisi 254.230.05.0. Tämä tarjoaa jonkin verran anonymisointia, mutta sallii silti IP-kieltosääntöjen toiminnan.";
 $Definition['Partial Anonymization'] = "Osittainen anonymisointi";
 $Definition['Password.MinLength'] = 'Käyttäjien salasanojen pienin sallittu merkkipituus salasanan luonti- ja palautussivuilla.';
+$Definition['Personal Access Tokens'] = 'Henkilökohtaiset käyttöoikeustunnukset';
 $Definition['Please choose an authenticator to configure.'] = 'Valitse konfiguroitavaksi ainakin yksi autentikoija.';
 $Definition['PluginHelp'] = 'Lisäosien avulla voit laajentaa sivustosi toiminnallisuuksia. <br />Kun lisäosa on lisätty serverillesi kansioon %s, voit ottaa sen käyttöön tai poistaa käytöstä ohessa.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Tasku näytetään keskustelujen pääluettelossa jokaisen keskustelun välissä. Koska keskustelutunnisteet ovat yleensä <li>..</li>, sinun tarvitsee paketoida myös oma taskusi näihin tunnisteisiin.';
@@ -174,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Pikalinkit';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Pikaopas Vanillan uusien teemojen tekemiseen';
 
+$Definition['Rate Limits'] = 'Nopeusrajoitukset';
 $Definition['Reactions Documentation'] = 'Reaktioiden dokumentaatio';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Valmis Vanilla-kommentointilisäosa WordPressille';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Valmis Vanilla Forum-lisäosa WordPressille';
@@ -189,6 +193,7 @@ $Definition['Requires “Positive” reaction permission.'] = 'Vaatii "Positiivi
 $Definition['Restoring your selection removes the items from this list.'] = 'Kun valitset \'Palauta\', kohteet poistetaan tästä luettelosta ja siirretään takaisin sivustolle.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
     'Seuraavan vaihtoehdon avulla voit mahdollistaa lainausten käytön rikastetun tekstin muokkainta varten. Tätä voidaan käyttää vain, jos oletusmuokkaimen arvona on "Rikastettu".';
+$Definition['Role Tokens'] = 'Roolimerkit';
 $Definition['Route Expression'] = 'Reittilauseke';
 $Definition['Routes are used to redirect users.'] = 'Reiteillä voidaan ohjata käyttäjiä uuteen paikkaan heidän pyytämästään URL-osoitteesta riippuen.';
 
@@ -211,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Erikoisrajoitus: ainoastaan Puutarha.Valvonta.Hallinnointi-valtuudet omaavat voivat käyttää tätä reaktiota.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Anna osittainen tai täysi vastaavuus estoa luodessasi.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Pohdi hetkisen, kuinka kuvailet tässä sivustoasi. Jos sivustollasi on järkevä otsikko ja täsmällinen kuvaus, se voi parantaa sivustosi sijoitusta hakukoneissa.';
+$Definition['Spoofing'] = 'Huijaus';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Parantele sähköpostiviestejäsi lisäämällä niihin logo ja muokkaamalla värejä. ';
 $Definition['Start Import'] = 'Aloita tuonti';
 $Definition['Start the first discussion.'] = 'Potkaise foorumisi toden teolla käyntiin <a href="{/post/discussion,url}">aloittamalla ensimmäinen keskustelu</a> nyt heti. ';
@@ -280,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: Tämä o
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Suosittelemme ottamaan käyttöön 1–3 reaktiota kerrallaan, jotta käyttäjät eivät ylikuormittaisi.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Kun tämä on käytössä, käyttäjät voivat halutessaan vastaanottaa ilmoituksia yhteisöltä';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Jos tämä otetaan käyttöön, voit hallinnoida tuotteita sekä ryhmittää alayhteistöjä kyseisten tuotteiden perusteella.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Kun tämä on käytössä, voit <0>hallita tuotteita</0> ja ryhmittele aliyhteisöjä näiden tuotteiden mukaan.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Sisällytetäänkö sisäiset profiilikentät tähän webhookiin.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Sisällytetäänkö yksityisen profiilin kentät tähän webhookiin.';
 
@@ -418,3 +424,77 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Joskus haluat up
 $Definition['Layout Editor'] = 'Asettelueditori';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Ota asettelueditori käyttöön ottaaksesi mukautetun asettelun yhteisösivuillesi. Käytä uutta editoriamme esitelläksesi sisältöä käyttämällä saatavilla olevien widgetien luetteloamme.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'HUOM. Uusi asettelueditori perii tyylioppaassasi (muodollisesti teemaeditorissa) määritetyn teeman. <1>Lisätietoja</1>';
+
+// Subcommunity Settings
+
+$Definition["Recent Post List Page"] = "Viimeisimpien viestien luettelosivu";
+$Definition["Custom"] = "Mukautettu";
+$Definition["Category List Page"] = "Luokkaluettelosivu";
+$Definition["Home Page Type"] = "Etusivun tyyppi";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Valitse sivu, joka toimii aliyhteisön kotisivuna.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Valittu aloitussivutyyppi on mukautettu asettelu. Voit hallita tämän aliyhteisön asettelua kohdassa <0/>.";
+$Definition["Default Subcommunity"] = "Oletusaliyhteisö";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Tee tästä oletusarvoinen aliyhteisö. Vierailijat ohjataan tänne ensin, kun he käyttävät yhteisöä.";
+$Definition["Post number must be between 3–20."] = "Viestinumeron on oltava välillä 3–20.";
+$Definition["Pages"] = "Sivut";
+$Definition["Widget Builder"] = "Widget-rakentaja";
+$Definition["Custom Pages"] = "Mukautetut sivut";
+$Definition["Site Home Pages"] = "Sivuston kotisivut";
+$Definition["Subcommunity Home Pages"] = "Alayhteisön kotisivut";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Valitse teema tälle aliyhteisölle. <0>Lue lisää</0>";
+$Definition["Vanilla Messages"] = "Vaniljaviestit";
+$Definition["From <0/>"] = "<0/>-sivustolta";
+$Definition["Manage Products"] = "Hallinnoi tuotteita";
+$Definition["Pages"] = "Sivut";
+$Definition["Widget Builder"] = "Widget-rakentaja";
+$Definition["Custom Pages"] = "Mukautetut sivut";
+$Definition["Site Home Pages"] = "Sivuston kotisivut";
+$Definition["Subcommunity Home Pages"] = "Alayhteisön kotisivut";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Valitse teema tälle aliyhteisölle. <0>Lue lisää</0>";
+$Definition["Search subcommunities."] = "Hae aliyhteisöjä.";
+$Definition["The view you were looking for could not be found."] = "Etsimääsi näkymää ei löytynyt.";
+$Definition["View Not Found"] = "Näkymää ei löytynyt";
+$Definition["site"] = "sivusto";
+$Definition["Selected Home Page Type is a legacy layout."] = "Valittu aloitussivutyyppi on vanha asettelu.";
+$Definition["The default home page type can be changed in <0/>."] = "Oletusarvoisen aloitussivun tyypin voi muuttaa kohdassa <0/>.";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Avainsana-asetukset";
+$Definition["Extremely Negative to Negative"] = "Äärimmäisen negatiivisesta negatiiviseen";
+$Definition["Negative to Balanced"] = "Negatiivisesta tasapainoiseksi";
+$Definition["Balanced to Positive"] = "Tasapainotettu positiiviseksi";
+$Definition["Positive to Highly Positive"] = "Positiivisesta erittäin positiiviseen";
+$Definition["Sentiment Keywords"] = "Tunne-avainsanat";
+$Definition["Sentiment Settings"] = "Tunnetila-asetukset";
+$Definition["Add Keyword"] = "Lisää avainsana";
+$Definition["Keyword Limit Reached"] = "Avainsanaraja saavutettu";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "Voit seurata enintään 100 avainsanaa. Lopeta joidenkin seuranta lisätäksesi uusia avainsanoja.";
+$Definition["Calibrate Sentiment Levels"] = "Kalibroi mielialatasot";
+$Definition["Sentiment Level Distribution Adjustment"] = "Mielipidejakauman tason säätö";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "Neljä liukusäädintä edustavat pisteitä kunkin mielipidetason välillä. Vedä liukusäätimiä kalibroidaksesi yleisen mielipidetason jakautumisen yhteisösi sisällön mukaan.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Kalibroidun mielipidejakauman esikatselu";
+$Definition["(Read Only)"] = "(Vain luku)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "Tämä kaavio visualisoi, miten yhteisösi sisältö jakautuisi kalibrointimuutoksesi perusteella.";
+$Definition["all time sentiment"] = "kaikkien aikojen mielipide";
+$Definition["keyword"] = "avainsana";
+$Definition["number of uses"] = "käyttökertojen määrä";
+$Definition["last use"] = "viimeisin käyttökerta";
+$Definition["tracking"] = "seuranta";
+$Definition["Sentiment"] = "Tunnelma";
+$Definition["Tracked Status"] = "Seurannan tila";
+$Definition["Tracked Only"] = "Vain seurattu";
+$Definition["Untracked Only"] = "Vain seuraamattomat";
+$Definition["Strongly Negative"] = "Vahvasti negatiivinen";
+$Definition["Negative"] = "Negatiivinen";
+$Definition["Positive"] = "Positiivinen";
+$Definition["Highly Positive"] = "Erittäin positiivinen";
+$Definition["Clear all filters"] = "Tyhjennä kaikki suodattimet";
+$Definition["Keyword is required."] = "Avainsana on pakollinen.";
+$Definition["Maximum length is 100 characters."] = "Enimmäispituus on 100 merkkiä.";
+$Definition["Keyword"] = "Avainsana";
+$Definition["Add a new tracked keyword"] = "Lisää uusi seurattava avainsana";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "Uusia avainsanoja seurataan analytiikassa. Voit poistaa seurannan käytöstä avainsanan luomisen jälkeen.";
+$Definition["Extremely Negative"] = "Erittäin negatiivinen";
+$Definition["Extremely Positive"] = "Erittäin positiivinen";
+$Definition["Filter by:"] = "Suodata:";
