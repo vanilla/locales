@@ -2781,11 +2781,25 @@ $Definition["Anyone can see the group and its content. Anyone can join."] = "Any
 $Definition["Anyone can see the group, but only members can see its content. People must apply or be invited to join."] = "Anyone can see the group, but only members can see its content. People must apply or be invited to join.";
 $Definition["Only members can see the group and view its content. People must be invited to join."] = "Only members can see the group and view its content. People must be invited to join.";
 $Definition["Leaving the page will cause your user export to be cancelled. Existing progress will be lost. Are you sure you want to cancel the user export?"] = "Leaving the page will cause your user export to be cancelled. Existing progress will be lost. Are you sure you want to cancel the user export?";
+$Definition["Are you sure you want to cancel the user export? Existing progress will be lost."] = "Are you sure you want to cancel the user export? Existing progress will be lost.";
 $Definition["Add Members"] = "Add Members";
 $Definition["Export Members Data"] = "Export Members Data";
 $Definition["A to Z"] = "A to Z";
 $Definition["Z to A"] = "Z to A";
 $Definition["Search members"] = "Search members";
+$Definition["Export Applicants Data"] = "Export Applicants Data";
+$Definition["Search applicants"] = "Search applicants";
+$Definition["Export Invitations Data"] = "Export Invitations Data";
+$Definition["user"] = "user";
+$Definition["invited"] = "invited";
+$Definition["Updates in progress"] = "Updates in progress";
+$Definition["Group Member Options"] = "Group Member Options";
+$Definition["Resend Invitation"] = "Resend Invitation";
+$Definition["Delete Invitation"] = "Delete Invitation";
+$Definition["User ID"] = "User ID";
+$Definition["User Export Complete"] = "User Export Complete";
+$Definition["User Export Failed"] = "User Export Failed";
+$Definition["Successfully downloaded user export."] = "Successfully downloaded user export.";
 
 // Groups - layout editor
 $Definition["Group Pages"] = "Group Pages";
