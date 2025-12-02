@@ -2750,3 +2750,45 @@ $Definition['The email digest delivers top content from the categories you follo
 $Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Content</a>.'] = 'Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Content</a>.';
 $Definition['Default notification settings can be modified for each followed Knowledge Base in <a href="{url,html}">Manage Followed Content</a>.'] = 'Default notification settings can be modified for each followed Knowledge Base in <a href="{url,html}">Manage Followed Content</a>.';
 $Definition['Digest frequency'] = 'Digest frequency';
+
+// Groups
+$Definition["Browse and discover groups in your community."] = "Browse and discover groups in your community.";
+$Definition["User Membership"] = "User Membership";
+$Definition["Select one or more groups"] = "Select one or more groups";
+$Definition["Most Popular"] = "Most Popular";
+$Definition["Most Active"] = "Most Active";
+$Definition["Edit Group"] = "Edit Group";
+$Definition["Leave"] = "Leave";
+$Definition["Are you sure you want to delete this group?"] = "Are you sure you want to delete this group?";
+$Definition["Invite Users"] = "Invite Users";
+$Definition["Invite a list of users to join the group. You can choose the best way to invite users below."] = "Invite a list of users to join the group. You can choose the best way to invite users below.";
+$Definition["Enter emails separated by commas."] = "Enter emails separated by commas.";
+$Definition["Add Users"] = "Add Users";
+$Definition["Add list of users to join the group. "] = "Add list of users to join the group. ";
+$Definition["Join "] = "Join ";
+$Definition["Request to Join"] = "Request to Join";
+$Definition["All Groups"] = "All Groups";
+$Definition["Filter Groups"] = "Filter Groups";
+$Definition["Group Filter"] = "Group Filter";
+$Definition["Search by name or description..."] = "Search by name or description...";
+$Definition["owner"] = "owner";
+$Definition["Created on <0/>"] = "Created on <0/>";
+
+// Groups - management pages
+$Definition["owner"] = "owner";
+$Definition["Created on <0/>"] = "Created on <0/>";
+$Definition["Anyone can see the group and its content. Anyone can join."] = "Anyone can see the group and its content. Anyone can join.";
+$Definition["Anyone can see the group, but only members can see its content. People must apply or be invited to join."] = "Anyone can see the group, but only members can see its content. People must apply or be invited to join.";
+$Definition["Only members can see the group and view its content. People must be invited to join."] = "Only members can see the group and view its content. People must be invited to join.";
+$Definition["Leaving the page will cause your user export to be cancelled. Existing progress will be lost. Are you sure you want to cancel the user export?"] = "Leaving the page will cause your user export to be cancelled. Existing progress will be lost. Are you sure you want to cancel the user export?";
+$Definition["Add Members"] = "Add Members";
+$Definition["Export Members Data"] = "Export Members Data";
+$Definition["A to Z"] = "A to Z";
+$Definition["Z to A"] = "Z to A";
+$Definition["Search members"] = "Search members";
+
+// Groups - layout editor
+$Definition["Group Pages"] = "Group Pages";
+$Definition["Group Layout Settings"] = "Group Layout Settings";
+$Definition["Group Directory Pages"] = "Group Directory Pages";
+$Definition["Group Home Pages"] = "Group Home Pages";
