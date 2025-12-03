@@ -2868,3 +2868,7 @@ $Definition["Are you sure you want to <0/> <1/> applicants?"] = "Are you sure yo
 $Definition["Failed to execute action for items with ids: <0/>."] = "Failed to execute action for items with ids: <0/>.";
 $Definition["You have selected <0/> users."] = "You have selected <0/> users.";
 $Definition["Choose which profile fields appear in group member directories. You can search, select, and reorder the fields shown. Members only see fields based on visibility levels — <0/> fields are visible to everyone, <1/> fields to elevated users, and <2/> fields (like email) only to users with the highest permissions."] = "Choose which profile fields appear in group member directories. You can search, select, and reorder the fields shown. Members only see fields based on visibility levels — <0/> fields are visible to everyone, <1/> fields to elevated users, and <2/> fields (like email) only to users with the highest permissions.";
+$Definition["Success! <0/> users have been invited."] = "Success! <0/> users have been invited.";
+$Definition["<0/> users were already members of this group."] = "<0/> users were already members of this group.";
+$Definition["Success! <0/> users have been added."] = "Success! <0/> users have been added.";
+$Definition["Failed to execute action for <0/> users."] = "Failed to execute action for <0/> users.";
