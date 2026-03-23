@@ -2750,3 +2750,10 @@ $Definition['The email digest delivers top content from the categories you follo
 $Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Content</a>.'] = 'Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Content</a>.';
 $Definition['Default notification settings can be modified for each followed Knowledge Base in <a href="{url,html}">Manage Followed Content</a>.'] = 'Default notification settings can be modified for each followed Knowledge Base in <a href="{url,html}">Manage Followed Content</a>.';
 $Definition['Digest frequency'] = 'Digest frequency';
+$Definition['Edit Idea Status'] = 'Edit Idea Status';
+$Definition["Add a comment to this %s."] = "Add a comment to this %s.";
+$Definition["No comments on this %s."] = "No comments on this %s.";
+$Definition["Notification Options"] = "Notification Options";
+$Definition["Do you want to notify followers about this post?"] = "Do you want to notify followers about this post?";
+$Definition["Yes, send notifications"] = "Yes, send notifications";
+$Definition["No, publish this post silently"] = "No, publish this post silently";
