@@ -3780,3 +3780,6 @@ $Definition["<0/> users were already members of this group."] = "<0/> users were
 $Definition["Success! <0/> users have been added."] = "Success! <0/> users have been added.";
 $Definition["Failed to execute action for <0/> users."] = "Failed to execute action for <0/> users.";
 $Definition["{Data.name} applied for membership."]= "{Data.name} applied for membership.";
+$Definition['Manage Knowledge Bases'] = 'Manage Knowledge Bases';
+$Definition['Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.'] = 'Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.';
+$Definition['View Original'] = 'View Original';
