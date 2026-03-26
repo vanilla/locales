@@ -1,2273 +1,1582 @@
 <?php
 
+$Definition['"Accept Answer" if a suggestion answers your question.'] = '如果建議回答了您的問題，請「接受答案」。';
+
+$Definition['# of automation rules'] = '自動化規則數量';
+$Definition['# Reports'] = '# 報告';
+
 $Definition['%1$s "%2$s" not found.'] = '找不到 %1$s "%2$s"。';
-$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
-$Definition['%1$s version %2$s is available.'] =
-    '%1$s 版本 %2$s 更新檔案已經釋出.';
-$Definition["%s is not a valid email address"] =
-    "%s 不是一個有效的電子信箱格式.";
-$Definition["%s is required"] = "%s 是必要的";
-$Definition["%s item in queue"] = "%s 項目在靜候處理";
-$Definition["%s level"] = "%s 級";
-$Definition["%s levels"] = "%s 級";
-$Definition["%s must be numeric"] = "%s 必須是數字";
-$Definition["%s site(s) found."] = "已經找到%s 個網站.";
-$Definition["%s sources(s) found."] = "已經找到 %s 個資訊來源。";
-$Definition["%s times"] = "%s 次";
-$Definition["%s unavailable"] = "%s 無效";
-$Definition["%s user found."] = "找到 %s 用戶。";
-$Definition["%s users found."] = "找到 %s 用戶。";
-$Definition["%s user(s) found."] = "找到了 %s 個會員。";
-$Definition["%s user(s) will be affected by this action."] =
-    "此操作將影響 %s 位使用者。";
+$Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新檔案已經釋出.';
+$Definition['%d slides on display initial slide %d of %d'] = '%d 張投影片正在顯示，第一張投影片 %d，共 %d 張';
+$Definition['%s ago'] = '%s 前';
+$Definition['%s in the following categories will require moderator approval.'] = '以下類別中的 %s 需要版主批准。';
+$Definition['%s is not a valid email address'] = '%s 不是一個有效的電子信箱格式.';
+$Definition['%s is required'] = '%s 是必要的';
+$Definition['%s item in queue'] = '%s 項目在靜候處理';
+$Definition['%s level'] = '%s 級';
+$Definition['%s levels'] = '%s 級';
+$Definition['%s must be numeric'] = '%s 必須是數字';
+$Definition['%s site(s) found.'] = '已經找到%s 個網站.';
+$Definition['%s sources(s) found.'] = '已經找到 %s 個資訊來源。';
+$Definition['%s times'] = '%s 次';
+$Definition['%s unavailable'] = '%s 無效';
+$Definition['%s user(s) found.'] = '找到了 %s 個會員。';
+$Definition['%s user(s) will be affected by this action.'] = '此操作將影響 %s 位使用者。';
+$Definition['%s user found.'] = '找到 %s 用戶。';
+$Definition['%s users found.'] = '找到 %s 用戶。';
 
-$Definition["<0/> will suggest answers on Q&A posts"] =
-    "<0/> 將在問答貼文中建議答案";
-$Definition["<0 /> will not suggest answers on Q&A posts"] =
-    "<0 /> 不會在問答貼文中建議答案";
+$Definition['(less)'] = '(精簡)';
+$Definition['(more)'] = '(詳細)';
 
-$Definition["(less)"] = "(精簡)";
-$Definition["(more)"] = "(詳細)";
-$Definition["(YYYY-mm-dd)"] = "(YYYY-mm-dd)";
+$Definition['1 day'] = '1 天';
+$Definition['1 hour'] = '1 小時';
+$Definition['1 in 5 is recommended for most communities.'] = '建議大多數社區使用五分之一。';
+$Definition['1 in 20 is recommended for most communities.'] = '建議大多數社區使用二十分之一。';
+$Definition['1 month'] = '1 個月';
+$Definition['1 month after being sent'] = '送出後 1 個月';
+$Definition['1 week'] = '1 星期';
+$Definition['1 week after being sent'] = '送出後 1 星期';
+$Definition['2 weeks after being sent'] = '送出後 2 星期';
+$Definition['4 hours'] = '4 小時';
+$Definition['5 minutes'] = '5 分鐘';
+$Definition['15 minutes'] = '15 分鐘';
 
-$Definition["1 day"] = "1 天";
-$Definition["1 hour"] = "1 小時";
-$Definition["1 in 5 is recommended for most communities."] =
-    "建議大多數社區使用五分之一。";
-$Definition["1 in 20 is recommended for most communities."] =
-    "建議大多數社區使用二十分之一。";
-$Definition["1 month"] = "1 個月";
-$Definition["1 month after being sent"] = "送出後 1 個月";
-$Definition["1 week"] = "1 星期";
-$Definition["1 week after being sent"] = "送出後 1 星期";
-$Definition["2 weeks after being sent"] = "送出後 2 星期";
-$Definition["4 hours"] = "4 小時";
-$Definition["5 minutes"] = "5 分鐘";
-$Definition["15 minutes"] = "15 分鐘";
+$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> 不會在問答貼文中建議答案';
+$Definition['<0/> <1/> more comments'] = '<0/> <1/>更多評論';
+$Definition['<0/> has been <1/>'] = '<0/> 已經是 <1/>';
+$Definition['<0/> new'] = '<0/>新';
+$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> 將在問答貼文中建議答案';
 
-$Definition["[%s] Confirm Your Email Address"] =
-    "[%s] 請驗證您的電子信箱";
-$Definition["[%s] Invitation"] = "您收到了來自 [%s] 的邀請";
-$Definition["[%s] Password Reset"] = "[%s] 重置密碼";
-$Definition["[%s] Password Reset Request"] = "[%s] 重置密碼請求已發送";
-$Definition[
-    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
-] = '您已達到最大登錄嘗試次數。請等待 %s，然後重試。';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信箱';
+$Definition['[%s] Invitation'] = '您收到了來自 [%s] 的邀請';
+$Definition['[%s] Password Reset'] = '[%s] 重置密碼';
+$Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
 
-$Definition["a Badge"] = "一枚徽章";
-$Definition["A unique display name."] = "唯一的顯示名稱。";
-$Definition["A unique label name that cannot be changed once saved."] =
-    "唯一的標籤名稱一旦儲存就無法變更。";
-$Definition["Abilites"] = "能力";
-$Definition["Abilities"] = "能力";
-$Definition["About %s"] = "關於 %s";
-$Definition["About Email Digest"] = "關於電子郵件摘要";
-$Definition["About External Search"] = "關於外部搜尋";
-$Definition["About Theme Preview"] = "關於主題預覽";
-$Definition["Above Main Content"] = "主要內容上方";
-$Definition["Accept Answer"] = "接受答案";
-$Definition['"Accept Answer" if a suggestion answers your question.'] =
-    '如果建議回答了您的問題，請「接受答案」。';
-$Definition["Account Sync Failed"] = "帳號同步失敗";
-$Definition["Accepted answer pageview ratio representing a deflected case"] =
-    "代表偏離案例的接受答案頁面瀏覽率";
-$Definition["Accepted Answers"] = "已接受的答案";
-$Definition["Action"] = "操作";
-$Definition["Actions and Permissions"] = "動作與權限";
-$Definition["Actions Based on Votes"] = "以投票結果為基礎的行動";
-$Definition["activity(ies)"] = "活動";
+$Definition['a Badge'] = '一枚徽章';
+$Definition['Abilites'] = '能力';
+$Definition['Abilities'] = '能力';
+$Definition['About %s'] = '關於 %s';
+$Definition['About Email Digest'] = '關於電子郵件摘要';
+$Definition['About External Search'] = '關於外部搜尋';
+$Definition['About Theme Preview'] = '關於主題預覽';
+$Definition['Above Main Content'] = '主要內容上方';
+$Definition['Accept Answer'] = '接受答案';
+$Definition['Accepted answer pageview ratio representing a deflected case'] = '代表偏離案例的接受答案頁面瀏覽率';
+$Definition['Accepted Answers'] = '已接受的答案';
+$Definition['Account Sync Failed'] = '帳號同步失敗';
+$Definition['A concise name for the report reason.'] = '報告原因的簡潔名稱。';
+$Definition['Action'] = '操作';
+$Definition['Actions and Permissions'] = '動作與權限';
+$Definition['Actions Based on Votes'] = '以投票結果為基礎的行動';
+$Definition['Activate Icon Pack'] = '啟動圖標包';
+$Definition['Active Icon'] = '活動圖示';
+$Definition['Activity & Registration'] = '活動及報名';
 $Definition['activity\'s comment(s)'] = '活動的評論';
-$Definition["Activity Item"] = "行動項目";
-$Definition["Activity item not found."] = "找不到行動項目";
-$Definition["Add a new Pocket to your site."] =
-    "將新的Pocket加到網站上。";
-$Definition[
-    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
-] =
-    "新增 Zoom 連結或會議 ID 將此活動連接到 Zoom 並啟用一鍵註冊和加入按鈕。請注意，如果您的活動需要註冊，則在建立活動後您將無法更新會議 ID 或連結。";
-$Definition["Add Ban Rule"] = "增加禁制規則";
-$Definition["Add Category"] = "增加新的分類";
-$Definition["Add Columns"] = "添加列";
-$Definition["Add Comments"] = "新增評論";
-$Definition["Add Connection"] = "增加關聯";
-$Definition["Added By"] = "新增者:";
-$Definition["Add Field"] = "新增欄位";
-$Definition["Add Info &amp; Create Account"] = "新增資訊 & 建立帳號";
-$Definition[
-    "Add information into the from field in email addresses to help with replies (recommended)."
-] =
-    "（建議）將詳細資訊填入電郵位址的欄位中，以提高回覆率。";
-$Definition["Add Interest"] = "加入興趣";
-$Definition["Adding & Editing Categories"] = "新增與編輯分類";
-$Definition["Add Item"] = "新增項目";
-$Definition["Addons"] = "附加元件";
-$Definition["Addons Overview"] = "附加功能概觀";
-$Definition["Add Role"] = "新增繳色";
-$Definition["Add rule"] = "新增規則";
-$Definition["Add Tag"] = "新增標記";
-$Definition["Add Theme"] = "新增主題";
-$Definition["Add Token"] = "增添標記";
-$Definition["Add User"] = "新增會員";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
-] =
-    "添加您的自定義 Kaltura 域，將鏈接轉換為討論、評論或文章中的嵌入視頻。";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
-] =
-    "新增您的自訂 Kaltura 網域以將連結轉換為貼文、評論或文章中的嵌入影片。";
-$Definition["administrator"] = "管理員";
-$Definition["Advanced"] = "進階";
-$Definition["Advanced Category Settings"] = "進階分類設定";
-$Definition["Advanced Editor Settings"] = "進階編輯設定";
-$Definition["Advanced Embed Settings"] = "進階內嵌設定";
-$Definition["Advanced Forum Settings"] = "進階討論區設定";
-$Definition["AdvancedNotifications"] = "進階通知";
-$Definition["Advanced Options"] = "進階選項";
-$Definition["Advanced Settings"] = "進階設定";
-$Definition["Advanced settings for embedded community elements"] =
-    "內嵌討論版元件進階設定";
-$Definition["After"] = "後";
-$Definition["AI Suggested Answers"] = "AI 建議答案";
-$Definition["AI Suggestions are not enabled"] =
-    "AI 建議未啟用";
-$Definition[
-    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
-] =
-    "AI 建議答案根據社群貼文和連結的知識庫提供建議答案。您可以隨時存取您的個人資料首選項來開啟或關閉此功能。";
-$Definition[
-    "Alert users if they click a link in a post that will lead them away from the forum. "
-] =
-    "若使用者點擊貼文內的連結將導致他們離開論壇時，警示使用者。";
-$Definition["Alive"] = "活著";
+$Definition['activity(ies)'] = '活動';
+$Definition['Activity Item'] = '行動項目';
+$Definition['Activity item not found.'] = '找不到行動項目';
+$Definition['Add a comment'] = '新增評論';
+$Definition['Add a new Pocket to your site.'] = '將新的Pocket加到網站上。';
+$Definition['Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event.'] = '新增 Zoom 連結或會議 ID 將此活動連接到 Zoom 並啟用一鍵註冊和加入按鈕。請注意，如果您的活動需要註冊，則在建立活動後您將無法更新會議 ID 或連結。';
+$Definition['Add Ban Rule'] = '增加禁制規則';
+$Definition['Add Category'] = '增加新的分類';
+$Definition['Add Columns'] = '添加列';
+$Definition['Add Comments'] = '新增評論';
+$Definition['Add Connection'] = '增加關聯';
+$Definition['Add Custom Layout'] = '新增自訂佈局';
+$Definition['Added By'] = '新增者:';
+$Definition['Add Field'] = '新增欄位';
+$Definition['Add Filter'] = '新增過濾器';
+$Definition['Add Info &amp; Create Account'] = '新增資訊 & 建立帳號';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = '（建議）將詳細資訊填入電郵位址的欄位中，以提高回覆率。';
+$Definition['Adding & Editing Categories'] = '新增與編輯分類';
+$Definition['Add Interest'] = '加入興趣';
+$Definition['Add Item'] = '新增項目';
+$Definition['Additional classes'] = '額外分類';
+$Definition['Addons'] = '附加元件';
+$Definition['Addons Overview'] = '附加功能概觀';
+$Definition['Add Reason'] = '添加原因';
+$Definition['Add Report Reason'] = '新增檢舉原因';
+$Definition['Address Bar Color'] = '網址列顏色';
+$Definition['Add Role'] = '新增繳色';
+$Definition['Add rule'] = '新增規則';
+$Definition['Add Tag'] = '新增標記';
+$Definition['Add tag'] = '添加標籤';
+$Definition['Add tags:'] = '新增標籤：';
+$Definition['Add Template'] = '新增模板';
+$Definition['Add Theme'] = '新增主題';
+$Definition['Add to collection:'] = '加入集合：';
+$Definition['Add Token'] = '增添標記';
+$Definition['Add User'] = '新增會員';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = '添加您的自定義 Kaltura 域，將鏈接轉換為討論、評論或文章中的嵌入視頻。';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = '新增您的自訂 Kaltura 網域以將連結轉換為貼文、評論或文章中的嵌入影片。';
+$Definition['Add your site to trusted domains.'] = '啟用嵌入時，請確認您的網站已新增到 %s。';
+$Definition['administrator'] = '管理員';
+$Definition['Advanced'] = '進階';
+$Definition['Advanced Category Settings'] = '進階分類設定';
+$Definition['Advanced Editor Settings'] = '進階編輯設定';
+$Definition['Advanced Embed Settings'] = '進階內嵌設定';
+$Definition['Advanced Forum Settings'] = '進階討論區設定';
+$Definition['AdvancedNotifications'] = '進階通知';
+$Definition['Advanced Options'] = '進階選項';
+$Definition['Advanced Settings'] = '進階設定';
+$Definition['Advanced settings for embedded community elements'] = '內嵌討論版元件進階設定';
+$Definition['After'] = '後';
+$Definition['AI Settings'] = 'AI設定';
+$Definition['AI Suggested Answers'] = 'AI 建議答案';
+$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'AI 建議答案根據社群貼文和連結的知識庫提供建議答案。您可以隨時存取您的個人資料首選項來開啟或關閉此功能。';
+$Definition['AI Suggestions are not enabled'] = 'AI 建議未啟用';
+$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = '若使用者點擊貼文內的連結將導致他們離開論壇時，警示使用者。';
+$Definition['A list of reports associated with this post will appear here.'] = '與此帖子相關的報告列表將顯示在這裡。';
+$Definition['Alive'] = '活著';
 $Definition['All %1$s'] = '所有 %1$s';
-$Definition["All Time"] = "整天";
-$Definition["All Dashboard Pages"] = "所有控制台頁面";
-$Definition["All discussions in this category will be permanently deleted."] =
-    "本分類之下的所有討論串都將被永久刪除。";
-$Definition["All Forum Pages"] = "所有討論區頁面";
-$Definition[
-    "All of the user content will be replaced with a message stating the user has been deleted."
-] =
-    "關於該用戶的所有內容，都將以「用戶已被刪除」的訊息取代。";
-$Definition["Allow embedded content"] = "允取遷入內容";
-$Definition["Allow images"] = "允許圖片";
-$Definition["Allow new users to be registered through email."] =
-    "允許新用戶透過電子郵件註冊帳號。";
-$Definition["Allow this connection to issue API access tokens."] =
-    "允許此連接發出 API 存取符記。";
-$Definition["Allow Third-Party Script Execution"] =
-    "允許第三方腳本執行";
-$Definition["Allow users to change their own avatars"] =
-    "允許用戶更改自己的頭像";
-$Definition["Allow users to dismiss this message"] =
-    "容許使用者駁斥這訊息。";
-$Definition["All Pages"] = "所有頁面";
-$Definition["All Replies"] = "所有回覆";
-$Definition["An enabled message will be visible on the site."] =
-    "在網站上會看見一則啟用的訊息。";
-$Definition["An answer in this the community thread was marked as accepted"] =
-    "社群貼文中的答案被標記為已接受";
-$Definition["An error occurred updating your privacy setting"] =
-    "更新您的隱私設定時出錯";
-$Definition["Anonymize Analytics Data by Default"] =
-    "默認情況下對分析數據進行匿名化";
-$Definition["Answers is not available if you have not accepted cookies."] =
-    "如果您未接受 cookie，則無法獲得答案。";
-$Definition["API"] = "API";
-$Definition["API Label is required"] = "需要 API 標籤";
-$Definition["API Name"] = "API名稱";
-$Definition["API SSO Expand Permission"] = "API 單一登入擴展權限";
-$Definition["API Status"] = "API 狀態";
-$Definition["Appearance"] = "外觀";
-$Definition["Applicant"] = "申請者";
-$Definition["applicant"] = "申請者";
-$Definition["Applicant Role"] =
-    "選擇將賦予新申請帳號的職務名稱；僅在您使用「<b>核准</b>」註冊方式時適用。";
-$Definition["Application"] = "應用程式";
-$Definition["Application ID"] = "應用程式 ID";
-$Definition["Applications"] = "應用程式";
-$Definition["Application Secret"] = "應用程式密鑰";
-$Definition["Applied by Administrator"] = "由管理員套用";
-$Definition["Applied Manually"] = "手動套用";
-$Definition["Applied On"] = "日期";
-$Definition["Apply to subcategories"] = "套用到子類別";
-$Definition["Approval"] = "核准";
-$Definition["Archive Discussions"] = "討論歸檔";
-$Definition["Are you sure you want to delete %s items forever?"] =
-    "您確定要永久刪除%s個項目嗎？";
-$Definition["Are you sure you want to delete 1 item forever?"] =
-    "您確定要永久刪除1個項目嗎？";
-$Definition[
-    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
-] =
-    "您確定要刪除這個徽章嗎？這個動作無法取消、而且會讓所有已經使用這個徽章的人無法使用。";
-$Definition["Are you sure you want to delete this category?"] =
-    "您確定要刪除這個分類嗎？";
-$Definition["Are you sure you want to restore %s items?"] =
-    "您確定要回復%s個項目嗎？";
-$Definition["Are you sure you want to restore 1 item?"] =
-    "您確定要回復1個項目嗎？";
-$Definition[
-    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
-] =
-    "您確定要關閉所有人工智慧建議答案嗎？您可以隨時在個人資料設定中撤銷此操作。";
-$Definition["Assistant Tone of Voice"] = "助理語氣";
-$Definition["Assistant Icon"] = "助理圖標";
-$Definition["Assistant Name"] = "助理姓名";
-$Definition[
-    "At least one visible column is required. Show or add a visible column."
-] = "至少需要一列可見的列。顯示或添加可見列。";
-$Definition["A url-friendly version of the category name for better SEO."] =
-    "一個更易於增加SEO效能的討論版名稱";
-$Definition["Automatically Save Drafts"] = "自動保存草稿";
-$Definition["Authors may always edit"] = "作者擁有永久的編輯權限";
-$Definition["Authors may edit for %s"] = "作者可在下列時間內編輯：%s";
-$Definition["Authors may never edit"] = "作者無編輯權利";
-$Definition["Auto-Fetch New Comments"] = "自動讀取新留言";
-$Definition["Avatar Dimensions"] = "頭像尺寸";
-$Definition["Avatars"] = "頭像";
+$Definition['All comments on this post will appear here'] = '此帖子的所有評論將顯示在此處';
+$Definition['All Dashboard Pages'] = '所有控制台頁面';
+$Definition['All discussions in this category will be permanently deleted.'] = '本分類之下的所有討論串都將被永久刪除。';
+$Definition['All Forum Pages'] = '所有討論區頁面';
+$Definition['All icons in this icon pack are currently active.'] = '此圖示包中的所有圖示目前均處於活動狀態。';
+$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = '關於該用戶的所有內容，都將以「用戶已被刪除」的訊息取代。';
+$Definition['Allow embedded content'] = '允取遷入內容';
+$Definition['Allow images'] = '允許圖片';
+$Definition['Allow new users to be registered through email.'] = '允許新用戶透過電子郵件註冊帳號。';
+$Definition['Allow Third-Party Script Execution'] = '允許第三方腳本執行';
+$Definition['Allow this connection to issue API access tokens.'] = '允許此連接發出 API 存取符記。';
+$Definition['Allow users to change their own avatars'] = '允許用戶更改自己的頭像';
+$Definition['Allow users to dismiss this message'] = '容許使用者駁斥這訊息。';
+$Definition['All Pages'] = '所有頁面';
+$Definition['All Replies'] = '所有回覆';
+$Definition['All Time'] = '整天';
+$Definition['All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories.'] = '所有具有員工權限的使用者將能夠查看討論並將其標記為已解決或未解決。這些用戶還可以存取分類儀表板來調整他們的類別。';
+$Definition['a month'] = '一個月';
+$Definition['An answer in this the community thread was marked as accepted'] = '社群貼文中的答案被標記為已接受';
+$Definition['and'] = '與';
+$Definition['and assign to'] = '並分配給';
+$Definition['and remove from community'] = '並從社區中刪除';
+$Definition['and remove role'] = '並刪除角色';
+$Definition['An enabled message will be visible on the site.'] = '在網站上會看見一則啟用的訊息。';
+$Definition['An error occurred updating your privacy setting'] = '更新您的隱私設定時出錯';
+$Definition['An explanation of the report reason to better reporters make the correct selection when reporting a post.'] = '對舉報原因進行解釋，以便舉報人在舉報貼文時能夠做出正確的選擇。';
+$Definition['An idea has received'] = '一個想法已收到';
+$Definition['Anonymize Analytics Data by Default'] = '默認情況下對分析數據進行匿名化';
+$Definition['Answers is not available if you have not accepted cookies.'] = '如果您未接受 cookie，則無法獲得答案。';
+$Definition['API Label is required'] = '需要 API 標籤';
+$Definition['API Name'] = 'API名稱';
+$Definition['API SSO Expand Permission'] = 'API 單一登入擴展權限';
+$Definition['API Status'] = 'API 狀態';
+$Definition['A post'] = '一個貼文';
+$Definition['A post has been added to a collection'] = '帖子已添加到集合中';
+$Definition['A post has not had any activity'] = '貼文沒有任何活動';
+$Definition['A post has received'] = '已收到貼文';
+$Definition['Appearance'] = '外觀';
+$Definition['Applicant'] = '申請者';
+$Definition['applicant'] = '申請者';
+$Definition['Applicant Role'] = '選擇將賦予新申請帳號的職務名稱；僅在您使用「<b>核准</b>」註冊方式時適用。';
+$Definition['Application'] = '應用程式';
+$Definition['Application ID'] = '應用程式 ID';
+$Definition['Applications'] = '應用程式';
+$Definition['Application Secret'] = '應用程式密鑰';
+$Definition['Applied'] = '應用';
+$Definition['Applied as default'] = '預設應用';
+$Definition['Applied by Administrator'] = '由管理員套用';
+$Definition['Applied Manually'] = '手動套用';
+$Definition['Applied On'] = '日期';
+$Definition['Apply additional classes on catalogue image.'] = '將額外分類套用在目錄圖像上。用空白鍵將每項分類隔開。';
+$Definition['Apply Layout to Site Home Page'] = '將版面配置套用至網站首頁';
+$Definition['Apply to specific categories.'] = '適用於特定類別。';
+$Definition['Apply to specific subcommunities.'] = '適用於特定子社區。';
+$Definition['Apply to subcategories'] = '套用到子類別';
+$Definition['Approval'] = '核准';
+$Definition['A question'] = '一個問題';
+$Definition['Archive Discussions'] = '討論歸檔';
+$Definition['Are you sure you want to delete %s items forever?'] = '您確定要永久刪除%s個項目嗎？';
+$Definition['Are you sure you want to delete 1 item forever?'] = '您確定要永久刪除1個項目嗎？';
+$Definition['Are you sure you want to delete?'] = '您確定要刪除嗎？';
+$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = '您確定要刪除這個徽章嗎？這個動作無法取消、而且會讓所有已經使用這個徽章的人無法使用。';
+$Definition['Are you sure you want to delete this category?'] = '您確定要刪除這個分類嗎？';
+$Definition['Are you sure you want to delete this reason?'] = '您確定要刪除這個原因嗎？';
+$Definition['Are you sure you want to delete your %s?'] = '您確定要刪除您的 %s 嗎？';
+$Definition['Are you sure you want to exit without saving?'] = '您確定要退出而不儲存嗎？';
+$Definition['Are you sure you want to restore %s items?'] = '您確定要回復%s個項目嗎？';
+$Definition['Are you sure you want to restore 1 item?'] = '您確定要回復1個項目嗎？';
+$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = '您確定要關閉所有人工智慧建議答案嗎？您可以隨時在個人資料設定中撤銷此操作。';
+$Definition['Are you sure you want to use %s?'] = '您確定要使用 %s 嗎？';
+$Definition['Article Count'] = '文章數';
+$Definition['Assign/Remove role'] = '分配/刪除角色';
+$Definition['Assignee'] = '受讓人';
+$Definition['Assign role:'] = '分配角色：';
+$Definition['Assign to'] = '分配給';
+$Definition['Assistant Icon'] = '助理圖標';
+$Definition['Assistant Name'] = '助理姓名';
+$Definition['Assistant Tone of Voice'] = '助理語氣';
+$Definition['At least one visible column is required. Show or add a visible column.'] = '至少需要一列可見的列。顯示或添加可見列。';
+$Definition['Audit Log'] = '審計日誌';
+$Definition['A unique display name.'] = '唯一的顯示名稱。';
+$Definition['A unique label for the report reason. This label cannot be changed once saved.'] = '報告原因的唯一標籤。此標籤一旦儲存就無法變更。';
+$Definition['A unique label name that cannot be changed once saved.'] = '唯一的標籤名稱一旦儲存就無法變更。';
+$Definition['A url-friendly version of the category name for better SEO.'] = '一個更易於增加SEO效能的討論版名稱';
+$Definition['A user has been registered'] = '用戶已註冊';
+$Definition['A user registers or logs in with email domain:'] = '使用者使用電子郵件網域註冊或登入：';
+$Definition['A user registers or updates a profile field:'] = '使用者註冊或更新個人資料欄位：';
+$Definition['Authors may always edit'] = '作者擁有永久的編輯權限';
+$Definition['Authors may edit for %s'] = '作者可在下列時間內編輯：%s';
+$Definition['Authors may never edit'] = '作者無編輯權利';
+$Definition['Auto-Fetch New Comments'] = '自動讀取新留言';
+$Definition['Auto-run disabled.'] = '自動運行禁用。';
+$Definition['Auto-run enabled.'] = '自動運行已啟用。';
+$Definition['Automatically Save Drafts'] = '自動保存草稿';
+$Definition['Automation'] = '自動化';
+$Definition['Automation rule successfully created.'] = '自動化規則已成功建立。';
+$Definition['Automation rule successfully updated.'] = '自動化規則已成功更新。';
+$Definition['Avatar Dimensions'] = '頭像尺寸';
+$Definition['Avatars'] = '頭像';
 
-$Definition["Background Color"] = "背景色";
-$Definition["Back to all users"] = "返回所有用戶";
-$Definition["Back to Mobile Site"] = "返回行動版網站";
-$Definition["Badge cannot be deleted."] = "徽章不可刪除。";
-$Definition["Badge Class"] = "徽章級別";
-$Definition["Badge Class Level"] = "徽章級別層級";
-$Definition["Badge deleted."] = "徽章已刪除。";
-$Definition["Badge Name"] = "名字";
-$Definition["BadgeRecipientsHeading"] = "最近的接受者";
-$Definition["BadgeRequestColumnLabel"] = "請求";
-$Definition["Badge Requests"] = "徽章發送請求";
-$Definition["Badge requests"] = "徽章請求";
-$Definition["Balanced"] = "均衡";
-$Definition["Ban Item"] = "項目";
-$Definition["Ban List"] = "封鎖名單";
-$Definition["Banner"] = "橫幅";
-$Definition["Banner Logo"] = "橫幅標誌";
-$Definition["Banner Title"] = "橫幅標題";
-$Definition["Banner Search Box"] = "橫幅搜尋框";
-$Definition["Banning"] = "封鎖";
-$Definition["Banning Options"] = "封鎖選項";
-$Definition["Ban Rule"] = "禁制規則";
-$Definition["Ban Rules"] = "禁制規則";
-$Definition["Ban Type"] = "類型";
-$Definition["Basic Information"] = "基本資訊";
-$Definition["Before"] = "在此之前：";
-$Definition[
-    "Before activating this feature, please be aware of the following potential implications:"
-] =
-    "在啟動此功能之前，請注意以下潛在影響：";
-$Definition["Begin At"] = "從此開始：";
-$Definition["Below Sidebar"] = "邊欄下方";
-$Definition["Blocked"] = "已封鎖";
-$Definition["Blog Comments"] = "網站評論";
-$Definition["Bookmark a discussion using its star icon."] =
-    "使用星星圖示來標記討論串";
-$Definition["Browse Addons"] = "瀏覽附加元件";
-$Definition["Browser Compatibility:"] = "瀏覽器相容性：";
-$Definition["Browse for a new banner logo if you would like to change it:"] =
-    "如果您想要更換橫幅標誌，請瀏覽新的圖檔：";
-$Definition["Button Background Color"] = "按鈕背景色";
-$Definition["Button Text Color"] = "按鈕文字色";
+$Definition['Background Color'] = '背景色';
+$Definition['Back to all users'] = '返回所有用戶';
+$Definition['Back to Mobile Site'] = '返回行動版網站';
+$Definition['Badge cannot be deleted.'] = '徽章不可刪除。';
+$Definition['Badge Class'] = '徽章級別';
+$Definition['Badge Class Level'] = '徽章級別層級';
+$Definition['Badge deleted.'] = '徽章已刪除。';
+$Definition['Badge Name'] = '名字';
+$Definition['BadgeRecipientsHeading'] = '最近的接受者';
+$Definition['BadgeRequestColumnLabel'] = '請求';
+$Definition['Badge Requests'] = '徽章發送請求';
+$Definition['Badge requests'] = '徽章請求';
+$Definition['Badges Limit'] = '徽章限制';
+$Definition['Balanced'] = '均衡';
+$Definition['Ban Item'] = '項目';
+$Definition['Ban List'] = '封鎖名單';
+$Definition['Banner'] = '橫幅';
+$Definition['Banner Image'] = '橫幅圖像';
+$Definition['Banner Logo'] = '橫幅標誌';
+$Definition['Banner Search Box'] = '橫幅搜尋框';
+$Definition['Banner Title'] = '橫幅標題';
+$Definition['Banning'] = '封鎖';
+$Definition['Banning Options'] = '封鎖選項';
+$Definition['Ban Rule'] = '禁制規則';
+$Definition['Ban Rules'] = '禁制規則';
+$Definition['Ban Type'] = '類型';
+$Definition['Basic Information'] = '基本資訊';
+$Definition['Before'] = '在此之前：';
+$Definition['Before activating this feature, please be aware of the following potential implications:'] = '在啟動此功能之前，請注意以下潛在影響：';
+$Definition['Begin At'] = '從此開始：';
+$Definition['Below Sidebar'] = '邊欄下方';
+$Definition['Blocked'] = '已封鎖';
+$Definition['Blog Comments'] = '網站評論';
+$Definition['Bookmark a discussion using its star icon.'] = '使用星星圖示來標記討論串';
+$Definition['Branding & Assets'] = '品牌與資產';
+$Definition['Browse Addons'] = '瀏覽附加元件';
+$Definition['Browse for a new banner logo if you would like to change it:'] = '如果您想要更換橫幅標誌，請瀏覽新的圖檔：';
+$Definition['Browser Compatibility:'] = '瀏覽器相容性：';
+$Definition['Bump post'] = '凹凸柱';
+$Definition['Button Background Color'] = '按鈕背景色';
+$Definition['Button Text Color'] = '按鈕文字色';
 
-$Definition["Cannot build profile information if user is not defined."] =
-    "如果沒有定義使用者，則無法建立該使用者的個人資訊。";
-$Definition["Categories &amp; Discussions"] = "分類與討論";
-$Definition["Categories to Exclude from AI Answers"] =
-    "從 AI 答案中排除的類別";
-$Definition["Categories are used to organize discussions."] =
-    "分類的用途，在於協助用戶以對社群有意義的方式來整理討論內容。";
-$Definition["Categories are used to organize posts."] =
-    "類別用於幫助您的用戶以對您的社區有意義的方式組織他們的貼文。";
-$Definition["Categories allow you to organize your posts."] =
-    "類別可讓您組織您的貼文。";
-$Definition["Categories Layout"] = "分類樣式";
-$Definition["Category Following"] = "類別追蹤";
-$Definition["Category Page Layout"] = "分類頁面樣式";
-$Definition["Category Url:"] = "分類 Url:";
-$Definition["Censored Words"] = "禁用詞句";
-$Definition["Change Log"] = "更新記錄";
-$Definition["Change the look of All Categories"] =
-    '您可以<a href="%s">在這裡</a>更改「<b>所有分類</b>」頁面的外觀。';
-$Definition["Change the way that new users register with the site."] =
-    "改變新用戶在本站註冊帳號的方式。";
-$Definition["Change your banner"] = "更新您的橫幅";
-$Definition["Changing the Discussions Menu Link"] =
-    "更新討論串選單的連結";
-$Definition["Check all permissions that apply for each role"] =
-    "檢查各個職務的適用權限";
-$Definition["Check all permissions that apply to this role:"] =
-    "檢查所有適用於這個職務的權限：";
-$Definition["Check out my new community!"] = "看看我的全新討論版！";
-$Definition["Check out the full list of video tutorials here."] =
-    "請參閱這裡的完整教學影片列表。";
+$Definition['Cannot build profile information if user is not defined.'] = '如果沒有定義使用者，則無法建立該使用者的個人資訊。';
+$Definition['Categories &amp; Discussions'] = '分類與討論';
+$Definition['Categories allow you to organize your posts.'] = '類別可讓您組織您的貼文。';
+$Definition['Categories are used to organize discussions.'] = '分類的用途，在於協助用戶以對社群有意義的方式來整理討論內容。';
+$Definition['Categories are used to organize posts.'] = '類別用於幫助您的用戶以對您的社區有意義的方式組織他們的貼文。';
+$Definition['Categories Layout'] = '分類樣式';
+$Definition['Categories to Exclude from AI Answers'] = '從 AI 答案中排除的類別';
+$Definition['Category Following'] = '類別追蹤';
+$Definition['Category Layout Settings'] = '類別佈局設定';
+$Definition['Category Layout Version'] = '類別版面版本';
+$Definition['Category List Pages'] = '分類清單頁';
+$Definition['Category only'] = '僅分類';
+$Definition['Category Page Layout'] = '分類頁面樣式';
+$Definition['Category Pages'] = '分類頁面';
+$Definition['Category Url:'] = '分類 Url:';
+$Definition['Censored Words'] = '禁用詞句';
+$Definition['Challenge Cutoff Age'] = '挑戰截止年齡';
+$Definition['Change %s'] = '更改 %s';
+$Definition['Changed Icons'] = '更改圖示';
+$Definition['Change layout versions for the <0/>.'] = '更改 <0/> 的版面版本。';
+$Definition['Change Log'] = '更新記錄';
+$Definition['Change status'] = '改變狀態';
+$Definition['Change the look of All Categories'] = '您可以<a href="%s">在這裡</a>更改「<b>所有分類</b>」頁面的外觀。';
+$Definition['Change the status of the idea to'] = '將想法的狀態改為';
+$Definition['Change the way that new users register with the site.'] = '改變新用戶在本站註冊帳號的方式。';
+$Definition['Change your banner'] = '更新您的橫幅';
+$Definition['Changing the Discussions Menu Link'] = '更新討論串選單的連結';
+$Definition['Check all permissions that apply for each role'] = '檢查各個職務的適用權限';
+$Definition['Check all permissions that apply to this role:'] = '檢查所有適用於這個職務的權限：';
+$Definition['Check out my new community!'] = '看看我的全新討論版！';
+$Definition['Check out the full list of video tutorials here.'] = '請參閱這裡的完整教學影片列表。';
 $Definition['Check out the new community forum I\'ve just set up.'] = '嗨！
 
 看看我架設的這個新論壇。這是一個我們交流的好地方。';
+$Definition['Choose a locale pack'] = '選擇一個語言';
+$Definition['Choose Avatar'] = '選擇頭像';
+$Definition['Choose how many records to display.'] = '選擇要顯示的記錄數。';
+$Definition['Choose the order records are sorted by default.'] = '選擇順序記錄預設排序。';
+$Definition['Choose the preferred layout for the categories page.'] = '請選擇希望在分類網頁上使用的版型。';
+$Definition['Choose the preferred layout for the discussions page.'] = '請選擇希望在討論頁面上使用的版型。';
+$Definition['Choose the preferred Legacy Category Layout.'] = '選擇首選的舊式類別佈局。';
+$Definition['Choose the preferred Legacy Create Post Layout.'] = '選擇首選的舊式建立貼文佈局。';
+$Definition['Choose the preferred Legacy Event Layout.'] = '選擇首選的舊式活動佈局。';
+$Definition['Choose the preferred Legacy Home Layout.'] = '選擇首選的傳統家居佈局。';
+$Definition['Choose the preferred Legacy Knowledge Base Layout.'] = '選擇首選的舊式知識庫佈局。';
+$Definition['Choose the preferred Legacy Post Layout.'] = '選擇首選的舊版貼文版面。';
+$Definition['Choose the preferred Legacy Recent Posts Layout.'] = '選擇首選的舊版近期貼文版面。';
+$Definition['Choose when to load records from.'] = '選擇何時加載記錄。';
+$Definition['Choose who can send out invitations to new members:'] = '請選擇誰可以對新用戶發送邀請：';
+$Definition['Choose who should receive this email when this automation rule is run'] = '選擇此自動化規則運行時應向哪些人發送電子郵件。';
+$Definition['Class'] = '課';
+$Definition['Classic table layout used by traditional forums'] = '使用於傳統討論區的舊式表格版型';
+$Definition['Clean Spam'] = '清除垃圾留言';
+$Definition['Clear All'] = '全部清除';
+$Definition['Click a tag name to edit. Click x to remove.'] = '點選標籤名稱以便編輯，點選「x」刪除標籤。';
+$Definition['Click here to apply it.'] = '點按此處來套用修改內容。';
+$Definition['Click here to carry on.'] = '點選此處繼續。';
+$Definition['Click here to carry on to your dashboard'] = '點按這裡前往控制台';
+$Definition['Client ID'] = '用戶ID';
+$Definition['Close post'] = '關閉貼文';
+$Definition['Colored'] = '有色';
+$Definition['Column Display Settings'] = '欄顯示設置';
+$Definition['comment(s)'] = '評論';
+$Definition['Comment  Body'] = '評論本文';
+$Definition['Comment Count'] = '評論數';
+$Definition['Comment Settings'] = '留言設定';
+$Definition['Comments Matching Criteria Now: <0 />'] = '現在評論匹配標準：<0 />';
+$Definition['Comments Page'] = '評論頁面';
+$Definition['Comments per Page'] = '每頁顯示評論數';
+$Definition['Comment  Subject'] = '評論主旨';
+$Definition['Community Discussion Categories'] = '社區討論類別';
+$Definition['Community Management'] = '社群管理';
+$Definition['Community Member Content'] = '社區成員內容';
+$Definition['Condition'] = '狀態';
+$Definition['Condition Expression'] = '值';
+$Definition['Condition Field'] = '欄位';
+$Definition['Conditions'] = '狀態';
+$Definition['Condition Type'] = '類型';
+$Definition['Configuration & Addons'] = '配置和附加元件';
+$Definition['Configuration settings for password fields in Vanilla'] = 'Vanilla 中密碼字段的配置設置';
+$Definition['Configure an Authenticator'] = '設定認證功能';
+$Definition['Configure custom Kaltura domains'] = '配置自定義 Kaltura 域';
+$Definition['Configure how nested categories are displayed to users.'] = '設定分類階層如何對用戶顯示';
+$Definition['Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases.'] = '配置用於在社群內容建立之前自動審核的設定。選項包括自動垃圾郵件偵測、要求批准在某些類別中發布以及要求批准使用某些關鍵字或短語發布。';
+$Definition['Configure where reports are sent and manage your community\'s report reasons.'] = '配置報告發送位置並管理社區的報告原因。';
+$Definition['Configuring Vanilla\'s Homepage'] = '設定Vanilla首頁';
+$Definition['Confirmation  Body'] = '確認信件內容';
+$Definition['Confirm email addresses'] = '（建議）要求用戶確認電郵位址';
+$Definition['Connections'] = '連接';
+$Definition['Consumer Key'] = '使用者密鑰';
+$Definition['Consumer Secret'] = '使用者密鑰';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = '請聯絡 Vanilla 工作人員以啟用問答網站配置。然後在儀表板的 <0/> 部分啟用問答插件。';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = '請聯絡 Vanilla 工作人員以啟用問答網站配置。然後在儀表板的插件部分啟用問答插件。';
+$Definition['Content Curation'] = '內容策劃';
+$Definition['Content flagged as spam is stored here for moderator review.'] = '被標示為垃圾訊息的內容，將暫存在此處等待審閱。';
+$Definition['Content Flagging'] = '內容標示';
+$Definition['Content Security Domains'] = '內容安全域';
+$Definition['Content Settings'] = '內容設定';
+$Definition['Content to Suggest'] = '建議內容';
+$Definition['Contextual Description'] = '情境描述';
+$Definition['Continue Replying'] = '繼續回覆';
+$Definition['Conversation Messages'] = '對話訊息';
+$Definition['Conversations'] = '對話';
+$Definition['Conversations Setup'] = '對話設定';
+$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = '如果初始腳本遭到破壞，可能會引入跨站點腳本 (XSS) 等漏洞。';
+$Definition['Could not find a theme identified by \'%s\''] = '無法找到稱為「%s」的網站主題';
+$Definition['Could not instantiate mail function.'] = '無法啟用郵件寄送功能。';
+$Definition['Could not link the addon.'] = '無法連結附加元件。';
+$Definition['Could not open %s.'] = '無法開啟 %s。';
+$Definition['Could not open addon file. Addons must be zip files.'] = '無法開啟附加元件；附加元件檔案必須是zip格式。';
+$Definition['Create'] = '建立';
+$Definition['Create & organize discussion categories and manage your users.'] = '建立並整理留言分類，同時管理您的用戶。';
+$Definition['Create/Edit Automation Rule'] = '建立/編輯自動化規則';
+$Definition['Create and manage automations to easily manage posts and users.'] = '建立和管理自動化以輕鬆管理貼文和使用者。';
+$Definition['Created <0/> by <1/>.'] = '由 <1/> 創建於 <0/>。';
+$Definition['created by'] = '創建者：';
+$Definition['Created new badge'] = '建立新的徽章';
+$Definition['CreateFile'] = '建立';
+$Definition['Create Post Layout Settings'] = '建立貼文佈局設定';
+$Definition['Create Post Layout Version'] = '建立貼文佈局版本';
+$Definition['Create Post Pages'] = '建立貼文頁面';
+$Definition['Create Zoom Meeting'] = '建立 Zoom 會議';
+$Definition['Criteria'] = '條件';
+$Definition['CssClass'] = 'CSS 層級';
+$Definition['Current Authenticator'] = '目前使用的認證功能';
+$Definition['Current File:'] = '目前檔案:';
+$Definition['Current Mobile Theme'] = '目前的手機主題';
+$Definition['Current Theme'] = '當前主題';
+$Definition['Custom Category Layouts'] = '自訂類別佈局';
+$Definition['Custom Create Post Layouts'] = '自訂建立貼文佈局';
+$Definition['Customer Support'] = '客戶支援';
+$Definition['Custom Event Layouts'] = '自訂事件佈局';
+$Definition['Custom Home Layouts'] = '客製化家居佈局';
+$Definition['Custom Icon'] = '自訂圖示';
+$Definition['Customize AI Persona'] = '客製化人工智慧角色';
+$Definition['Customize your community'] = '自訂您的社區';
+$Definition['Custom Knowledge Base Layouts'] = '自訂知識庫佈局';
+$Definition['Custom Post Layouts'] = '自訂貼文佈局';
+$Definition['Custom Recent Posts Layouts'] = '自訂近期文章佈局';
+$Definition['Custom Themes'] = '自訂主題';
 
-$Definition["Choose a locale pack"] = "選擇一個語言";
-$Definition["Choose Avatar"] = "選擇頭像";
-$Definition["Choose the preferred layout for the categories page."] =
-    "請選擇希望在分類網頁上使用的版型。";
-$Definition["Choose the preferred layout for the discussions page."] =
-    "請選擇希望在討論頁面上使用的版型。";
-$Definition["Choose who can send out invitations to new members:"] =
-    "請選擇誰可以對新用戶發送邀請：";
-$Definition["Choose how many records to display."] =
-    "選擇要顯示的記錄數。";
-$Definition["Choose when to load records from."] =
-    "選擇何時加載記錄。";
-$Definition["Class"] = "課";
-$Definition["Clear All"] = "全部清除";
-$Definition["Classic table layout used by traditional forums"] =
-    "使用於傳統討論區的舊式表格版型";
-$Definition["Clean Spam"] = "清除垃圾留言";
-$Definition["Click a tag name to edit. Click x to remove."] =
-    "點選標籤名稱以便編輯，點選「x」刪除標籤。";
-$Definition["Click here to apply it."] = "點按此處來套用修改內容。";
-$Definition["Click here to carry on."] = "點選此處繼續。";
-$Definition["Click here to carry on to your dashboard"] =
-    "點按這裡前往控制台";
-$Definition["Client ID"] = "用戶ID";
-$Definition["Colored"] = "有色";
-$Definition["Column Display Settings"] = "欄顯示設置";
-$Definition["comment(s)"] = "評論";
-$Definition["Comment  Body"] = "評論本文";
-$Definition["Comment Count"] = "評論數";
-$Definition["Comment Settings"] = "留言設定";
-$Definition["Comments Page"] = "評論頁面";
-$Definition["Comments per Page"] = "每頁顯示評論數";
-$Definition["Comment  Subject"] = "評論主旨";
-$Definition["Community Discussion Categories"] =
-    "社區討論類別";
-$Definition["Community Member Content"] = "社區成員內容";
-$Definition["Condition"] = "狀態";
-$Definition["Condition Expression"] = "值";
-$Definition["Condition Field"] = "欄位";
-$Definition["Conditions"] = "狀態";
-$Definition["Condition Type"] = "類型";
-$Definition["Configure an Authenticator"] = "設定認證功能";
-$Definition["Configuration settings for password fields in Vanilla"] =
-    "Vanilla 中密碼字段的配置設置";
-$Definition["Configure custom Kaltura domains"] =
-    "配置自定義 Kaltura 域";
-$Definition["Configure how nested categories are displayed to users."] =
-    "設定分類階層如何對用戶顯示";
-$Definition['Configuring Vanilla\'s Homepage'] =
-    '設定Vanilla首頁';
-$Definition["Confirmation  Body"] = "確認信件內容";
-$Definition["Confirm email addresses"] =
-    "（建議）要求用戶確認電郵位址";
-$Definition["Connections"] = "連接";
-$Definition["Consumer Key"] = "使用者密鑰";
-$Definition["Consumer Secret"] = "使用者密鑰";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
-] =
-    "請聯絡 Vanilla 工作人員以啟用問答網站配置。然後在儀表板的插件部分啟用問答插件。";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
-] =
-    "請聯絡 Vanilla 工作人員以啟用問答網站配置。然後在儀表板的 <0/> 部分啟用問答插件。";
-$Definition["Content Curation"] = "內容策劃";
-$Definition["Content flagged as spam is stored here for moderator review."] =
-    "被標示為垃圾訊息的內容，將暫存在此處等待審閱。";
-$Definition["Content Flagging"] = "內容標示";
-$Definition["Content Security Domains"] = "內容安全域";
-$Definition["Content to Suggest"] = "建議內容";
-$Definition["Continue Replying"] = "繼續回覆";
-$Definition["Conversation Messages"] = "對話訊息";
-$Definition["Conversations"] = "對話";
-$Definition["Conversations Setup"] = "對話設定";
-$Definition[
-    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
-] =
-    "如果初始腳本遭到破壞，可能會引入跨站點腳本 (XSS) 等漏洞。";
-$Definition['Could not find a theme identified by \'%s\''] =
-    '無法找到稱為「%s」的網站主題';
-$Definition["Could not instantiate mail function."] =
-    "無法啟用郵件寄送功能。";
-$Definition["Could not link the addon."] = "無法連結附加元件。";
-$Definition["Could not open %s."] = "無法開啟 %s。";
-$Definition["Could not open addon file. Addons must be zip files."] =
-    "無法開啟附加元件；附加元件檔案必須是zip格式。";
-$Definition["Create & organize discussion categories and manage your users."] =
-    "建立並整理留言分類，同時管理您的用戶。";
-$Definition["Created new badge"] = "建立新的徽章";
-$Definition["Create Zoom Meeting"] = "建立 Zoom 會議";
-$Definition["CreateFile"] = "建立";
-$Definition["Criteria"] = "條件";
-$Definition["CSS"] = "CSS";
-$Definition["CssClass"] = "CSS 層級";
-$Definition["Current Authenticator"] = "目前使用的認證功能";
-$Definition["Current File:"] = "目前檔案:";
-$Definition["Current Mobile Theme"] = "目前的手機主題";
-$Definition["Current Theme"] = "當前主題";
-$Definition["Custom Themes"] = "自訂主題";
-$Definition["Customize AI Persona"] = "客製化人工智慧角色";
-$Definition["Custom Recent Posts Layouts"] = "自訂近期文章佈局";
-
-$Definition["Database Structure Upgrades"] = "升級資料庫結構";
-$Definition["Date From"] = "開始日期";
-$Definition["Date To"] = "結束日期";
-$Definition["Debugger"] = "除錯氣";
-$Definition["Debug Information"] = "除錯資訊";
-$Definition["Decline"] = "拒絕";
-$Definition["Default (%s)"] = "預設 (%s)";
-$Definition["Default <0/>"] = "預設 <0/>";
-$Definition["Default %s Permissions"] = "%s 預設權限";
-$Definition["Default  Category"] = "預設分類";
-$Definition["Default Category Permissions"] = "預設分類權限";
-$Definition["Default Followed Categories"] = "默認關注類別";
-$Definition["Default Interests Only"] = "僅預設利息";
-$Definition["Default Locale"] = "預設語系";
-$Definition["Default Roles"] = "預設職務";
-$Definition["default type"] = "預設";
-$Definition["Default Type"] = "預設類型";
-$Definition["Define your forum homepage"] = "指定您的留言版首頁";
-$Definition["Delete Badge"] = "刪除徽章";
-$Definition["Delete Category"] = "刪除分類";
-$Definition["Delete moderation information"] = "刪除緩和資訊";
-$Definition["Delete Role"] = "刪除職務";
-$Definition["Delete Theme"] = "刪除主題";
-$Definition["Delete User"] = "刪除使用者";
-$Definition["Delete User: %s"] = "刪除使用者: %s";
-$Definition["Deleting category..."] = "刪除分類……";
-$Definition["Deleting role..."] = "刪除職務……";
-$Definition["Delivery Date"] = "交貨日期";
-$Definition["Description"] = "描述";
-$Definition["Desktop Themes"] = "桌面主題";
-$Definition["Did You Know?"] = "您知道嗎？";
-$Definition["Disable"] = "停用";
-$Definition["Disable Content Flagging"] = "關閉內容標示功能";
-$Definition["Disabled"] = "已停用";
+$Definition['Database Structure Upgrades'] = '升級資料庫結構';
+$Definition['Date field reached'] = '日期欄位已到達';
+$Definition['Date From'] = '開始日期';
+$Definition['Date To'] = '結束日期';
+$Definition['Debugger'] = '除錯氣';
+$Definition['Debug Information'] = '除錯資訊';
+$Definition['Decline'] = '拒絕';
+$Definition['Default %s Permissions'] = '%s 預設權限';
+$Definition['Default (%s)'] = '預設 (%s)';
+$Definition['Default <0/>'] = '預設 <0/>';
+$Definition['Default  Category'] = '預設分類';
+$Definition['Default Category Permissions'] = '預設分類權限';
+$Definition['Default Followed Categories'] = '默認關注類別';
+$Definition['Default Interests Only'] = '僅預設利息';
+$Definition['Default Locale'] = '預設語系';
+$Definition['Default placeholder'] = '預設占位符';
+$Definition['Default Roles'] = '預設職務';
+$Definition['Default Sort Order'] = '預設排序順序';
+$Definition['Default Type'] = '預設類型';
+$Definition['default type'] = '預設';
+$Definition['Define your forum homepage'] = '指定您的留言版首頁';
+$Definition['Delete?'] = '刪除？';
+$Definition['Delete an email template.'] = '刪除電子郵件範本。';
+$Definition['Delete Badge'] = '刪除徽章';
+$Definition['Delete Category'] = '刪除分類';
+$Definition['Delete Email Template'] = '刪除電子郵件模板';
+$Definition['Delete Layout'] = '刪除佈局';
+$Definition['Delete moderation information'] = '刪除緩和資訊';
+$Definition['Delete Report Reason'] = '刪除報告原因';
+$Definition['Delete Role'] = '刪除職務';
+$Definition['Delete Rule'] = '刪除規則';
+$Definition['Delete Theme'] = '刪除主題';
+$Definition['Delete User'] = '刪除使用者';
+$Definition['Delete User: %s'] = '刪除使用者: %s';
+$Definition['Deleting category...'] = '刪除分類……';
+$Definition['Deleting role...'] = '刪除職務……';
+$Definition['Delivery Date'] = '交貨日期';
+$Definition['Description'] = '描述';
+$Definition['Desktop Themes'] = '桌面主題';
+$Definition['Did You Know?'] = '您知道嗎？';
+$Definition['Disable'] = '停用';
+$Definition['Disable Content Flagging'] = '關閉內容標示功能';
+$Definition['Disabled'] = '已停用';
+$Definition['disabled'] = '禁用';
 $Definition['Disabled %1$s'] = '關閉%1$s功能';
-$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
-    "關閉：這個pocket將<b>不會</b>顯示出來。";
-$Definition["Disable Signatures"] = "關閉簽章功能";
-$Definition["Disable Tagging"] = "關閉標籤功能";
-$Definition["Discard Reply"] = "放棄回覆";
-$Definition["Discussion & Comment Editing"] = "討論 & 評論編輯";
-$Definition["Post & Comment Editing"] = "貼文和評論編輯";
-$Definition["Discussions"] = "討論";
-$Definition["discussion(s)"] = "討論";
-$Definition["Discussion  Body"] = "討論內容";
-$Definition["Discussions Layout"] = "討論串樣式";
-$Definition["Discussions per Page"] = "每頁顯示討論數";
-$Definition["Posts per Page"] = "每頁貼文數";
-$Definition["Discussion  Subject"] = "討論主題";
-$Definition["Dismissable"] = "可遣散";
-$Definition["Dismiss Answer"] = "駁回答案";
-$Definition["Display content from followed categories"] =
-    "顯示關注類別的內容";
-$Definition["Display in dashboard. (not recommended)"] =
-    "顯示在控制台中（不建議使用）。";
-$Definition["Display Open Cases in Profile Page?"] =
-    "在個人資料頁面中顯示未結案例？";
-$Definition["Display Options"] = "顯示選項";
-$Definition["Display records from this subcommunity"] =
-    "顯示該子社區的記錄";
-$Definition["Display root categories as headings."] =
-    "顯示頂層分類作為頁首。";
-$Definition[
-    "Displays the banner image form the branding page prominently throughout the theme."
-] =
-    "在整個主題中突顯橫幅圖像於品牌化頁面上。";
-$Definition["Display a searchbox on top of the banner image."] =
-    "在橫幅圖像上方顯示一個搜尋框。";
-$Definition["Display records from this category."] =
-    "顯示該類別的記錄。";
-$Definition["Display records from this subcommunity."] =
-    "顯示來自該子社區的記錄。";
-$Definition['Don\'t display for embedded comments.'] =
-    '不在內嵌討論串中顯示。';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = '關閉：這個pocket將<b>不會</b>顯示出來。';
+$Definition['Disable Forum Pages'] = '禁用論壇頁面';
+$Definition['Disable Signatures'] = '關閉簽章功能';
+$Definition['Disable Tagging'] = '關閉標籤功能';
+$Definition['Discard Changes?'] = '放棄更改？';
+$Definition['Discard Reply'] = '放棄回覆';
+$Definition['Discussion & Comment Editing'] = '討論 & 評論編輯';
+$Definition['discussion(s)'] = '討論';
+$Definition['Discussion  Body'] = '討論內容';
+$Definition['Discussion Pages'] = '討論頁面';
+$Definition['Discussions'] = '討論';
+$Definition['Discussions Layout'] = '討論串樣式';
+$Definition['Discussions Matching Criteria Now: <0 />'] = '現在討論配對標準：<0 />';
+$Definition['Discussions per Page'] = '每頁顯示討論數';
+$Definition['Discussion  Subject'] = '討論主題';
+$Definition['Dismissable'] = '可遣散';
+$Definition['Dismiss Answer'] = '駁回答案';
+$Definition['Display a searchbox on top of the banner image.'] = '在橫幅圖像上方顯示一個搜尋框。';
+$Definition['Display content from followed categories'] = '顯示關注類別的內容';
+$Definition['Display in dashboard. (not recommended)'] = '顯示在控制台中（不建議使用）。';
+$Definition['Display on category page only.'] = '只顯示在分類頁上。最近的討論清單不會受到影響。';
+$Definition['Display Open Cases in Profile Page?'] = '在個人資料頁面中顯示未結案例？';
+$Definition['Display Options'] = '顯示選項';
+$Definition['Display records from this category.'] = '顯示該類別的記錄。';
+$Definition['Display records from this subcommunity'] = '顯示該子社區的記錄';
+$Definition['Display records from this subcommunity.'] = '顯示來自該子社區的記錄。';
+$Definition['Display root categories as headings.'] = '顯示頂層分類作為頁首。';
+$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = '在整個主題中突顯橫幅圖像於品牌化頁面上。';
+$Definition['documentation.'] = '文件.';
+$Definition['Don\'t display for embedded comments.'] = '不在內嵌討論串中顯示。';
 $Definition['Don\'t Refresh'] = '不要重新整理';
 $Definition['Don\'t use Categories'] = '不使用分類';
-$Definition["Do not display the categories in the side panel."] =
-    "不將分類顯示在邊欄上。";
-$Definition["Download Locale List"] = "下載語系清單";
-$Definition["DownloadLocalePack"] = "下載";
-$Definition["Download Locale Pack"] = "下載語言包";
+$Definition['Done'] = '完畢';
+$Definition['Do not display the categories in the side panel.'] = '不將分類顯示在邊欄上。';
+$Definition['Download Active Icon Pack'] = '下載活動圖示包';
+$Definition['Download Locale List'] = '下載語系清單';
+$Definition['DownloadLocalePack'] = '下載';
+$Definition['Download Locale Pack'] = '下載語言包';
+$Definition['Download System Icon Pack'] = '下載系統圖示包';
 
-$Definition["Edit/Delete Log"] = "編輯／刪除記錄";
-$Definition["Edit Category"] = "編輯分類";
-$Definition["Edit CSS"] = "編輯CSS";
-$Definition["Edit Default Categories"] = "編輯默認類別";
-$Definition["Edit HTML"] = "編輯HTML";
-$Definition["Edit Interest"] = "編輯興趣";
-$Definition["Edit Message"] = "編輯訊息內容";
-$Definition["Edit Role"] = "編輯職務";
-$Definition["Edit User"] = "編輯會員";
-$Definition["Email Confirmation Role"] = "電子郵件確認職務";
-$Definition["Email Digest"] = "電子郵件摘要";
-$Definition[
-    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
-] =
-    "啟用電子郵件摘要後，電子郵件摘要提示小工具將可用。";
-$Definition["Email Digest Logo"] = "電子郵件摘要徽標";
-$Definition[
-    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
-] =
-    "電子郵件摘要將在每週選定的日期發送。設定日期的變更將在下週生效。";
-$Definition["Email Footer"] = "電子郵件頁腳";
-$Definition["Email Digest Logo"] = "電子郵件摘要徽標";
-$Definition["Email Styles"] = "電子郵件風格";
-$Definition["Embed Comments"] = "內嵌留言";
-$Definition["Embedding"] = "嵌入";
-$Definition["Embedding Documentation"] = "嵌入文件";
-$Definition["Embedding is currently DISABLED."] =
-    "內嵌功能目前已經關閉。";
-$Definition["Embedding is currently ENABLED."] =
-    "內前功能目前已經開啟。";
-$Definition["Embed Forum"] = "內嵌討論版";
-$Definition["Embed My Forum"] = "嵌入我的論壇";
-$Definition["Embed Modules"] = "內嵌模組";
-$Definition["Embed modules from your Vanilla forum into your site"] =
-    "將Vanilla模組嵌入您的網站";
-$Definition["Embeds"] = "嵌入";
-$Definition["Embed Vanilla"] = "內嵌Vanilla";
-$Definition["Embed your entire Vanilla forum"] =
-    "內嵌您的整個Vanilla討論版";
-$Definition["Embed your forum in your web site"] =
-    "將您的討論版嵌入您的網站";
-$Definition["Enable"] = "啟用";
-$Definition["Enable/Disable"] = "開啟／關閉";
-$Definition["Enable admin checkboxes on discussions and comments."] =
-    "在討論串或留言中開啟管理員勾選方塊。";
-$Definition["Enable checkboxes on discussions and comments"] =
-    "啟用討論與留言上的核取方塊";
+$Definition['Edit/Delete Log'] = '編輯／刪除記錄';
+$Definition['Edit Categories'] = '編輯類別';
+$Definition['Edit Category'] = '編輯分類';
+$Definition['Edit CSS'] = '編輯CSS';
+$Definition['Edit Default Categories'] = '編輯默認類別';
+$Definition['Edited'] = '已編輯';
+$Definition['Edit HTML'] = '編輯HTML';
+$Definition['Edit Interest'] = '編輯興趣';
+$Definition['Edit Keywords'] = '編輯關鍵字';
+$Definition['Edit Message'] = '編輯訊息內容';
+$Definition['Edit Report Reason'] = '編輯檢舉原因';
+$Definition['Edit Role'] = '編輯職務';
+$Definition['Edit Roles'] = '編輯角色';
+$Definition['Edit Rule'] = '編輯規則';
+$Definition['Edit User'] = '編輯會員';
+$Definition['Edit Variables'] = '編輯變數';
+$Definition['Email Audience'] = '電子郵件受眾';
+$Definition['Email Confirmation Role'] = '電子郵件確認職務';
+$Definition['Email Digest'] = '電子郵件摘要';
+$Definition['Email Digest Logo'] = '電子郵件摘要徽標';
+$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = '啟用電子郵件摘要後，電子郵件摘要提示小工具將可用。';
+$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = '電子郵件摘要將在每週選定的日期發送。設定日期的變更將在下週生效。';
+$Definition['Email Footer'] = '電子郵件頁腳';
+$Definition['Email Styles'] = '電子郵件風格';
+$Definition['Email Template'] = '電子郵件模板';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = '郵件模板名稱已存在。請輸入一個唯一的名稱以繼續。';
+$Definition['Email Template not enabled.'] = '郵件範本未啟用。';
+$Definition['Email template not found.'] = '未找到郵件範本。';
+$Definition['Email Templates'] = '電子郵件模板';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = '電子郵件範本可以與 <0/> 結合使用，根據成員活動或其他社群觸發因素與使用者溝通。';
+$Definition['Email Template successfully deleted.'] = '郵件模板已成功刪除。';
+$Definition['Embed Comments'] = '內嵌留言';
+$Definition['Embedding'] = '嵌入';
+$Definition['Embedding Documentation'] = '嵌入文件';
+$Definition['Embedding is currently DISABLED.'] = '內嵌功能目前已經關閉。';
+$Definition['Embedding is currently ENABLED.'] = '內前功能目前已經開啟。';
+$Definition['Embed Forum'] = '內嵌討論版';
+$Definition['Embed Modules'] = '內嵌模組';
+$Definition['Embed modules from your Vanilla forum into your site'] = '將Vanilla模組嵌入您的網站';
+$Definition['Embed My Forum'] = '嵌入我的論壇';
+$Definition['Embeds'] = '嵌入';
+$Definition['Embed Vanilla'] = '內嵌Vanilla';
+$Definition['Embed your entire Vanilla forum'] = '內嵌您的整個Vanilla討論版';
+$Definition['Embed your forum in your web site'] = '將您的討論版嵌入您的網站';
+$Definition['Enable'] = '啟用';
+$Definition['Enable/Disable'] = '開啟／關閉';
+$Definition['Enable admin checkboxes on discussions and comments.'] = '在討論串或留言中開啟管理員勾選方塊。';
+$Definition['Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>'] = '啟用 Akismet 來過濾申請人註冊和未經驗證的用戶發布的所有貼文中的垃圾郵件。 <0/>';
+$Definition['Enable checkboxes on discussions and comments'] = '啟用討論與留言上的核取方塊';
+$Definition['enabled'] = '啟用';
 $Definition['Enabled %1$s'] = '啟用 %1$s';
-$Definition["Enabled: The pocket will be displayed."] =
-    "Enabled";
-$Definition["Enable HTML emails"] = "啟用 HTML 電子郵件";
-$Definition["Enable embedding to use blog comments."] =
-    "如果要使用這項功能，您必須先允許內嵌。";
-$Definition["Enable Image Upload Limit"] = "啟用圖像上傳限制";
-$Definition["Enable link embeds in discussions and comments"] =
-    "啟用討論和留言上的連結嵌入";
-$Definition["Enable link embeds in posts and comments"] =
-    "在貼文和留言中啟用連結嵌入";
-$Definition["Enable OpenID"] = "啟用 OpenID";
-$Definition["Enable Pocket Locations"] = "啟用小區定位";
-$Definition["Enable Private Communities"] = "啟用私人社群";
-$Definition["Enable Product Integration"] = "啟用產品整合";
-$Definition["Enable Followup Notifications"] = "啟用後續通知";
-$Definition["Enable sending notification emails"] =
-    "啟用發送通知電子郵件";
-$Definition["Enable Tagging"] = "啟用標記";
-$Definition["Enable this message"] = "啟用這則訊息";
-$Definition["Enable this source"] = "啟用此來源";
-$Definition["Enable to only show posts from categories a user follows."] =
-    "啟用僅顯示用戶關注的類別中的帖子。";
-$Definition[
-    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
-] =
-    "能夠預覽我們的新用戶管理儀表板，其中包含改進的搜索和新的配置選項。";
-$Definition["Enabling a Locale Pack"] = "啟用語言包";
-$Definition[
-    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
-] =
-    "啟用此功能將修改您的內容安全策略，以信任由自訂腳本作為依賴項注入的其他腳本。";
-$Definition[
-    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
-] =
-    '啟用此功能將修改您網站的內容安全性原則(CSP)，以允許目前受信任網域清單中核准的腳本動態載入其他腳本，它將向您的CSP 新增「嚴格動態」指令，從而在合併第三方時提供更大的靈活性內容。';
-$Definition["Encourage your friends to join your new community!"] =
-    "邀請您的朋友來參加您的新社群討論版！";
-$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
-    "輸入以逗號分隔的索引列表，起始數值為1。";
-$Definition["Enter numbers starting at 1."] = "請輸入從1開始的數字。";
-$Definition["Enter the email address of the person you would like to invite:"] =
-    "請輸入你邀請對象的 Email 地址:";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage"
-] = "請輸入您希望作為首頁的網頁位址";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage:"
-] = "請輸入您希望作為首頁的網頁位址：";
-$Definition["Error sending email. Please review the addresses and try again."] =
-    "傳送電子郵件時發生錯誤。請再檢查電郵地址，然後再試一次。";
-$Definition["Even More Help?"] = "想要更多協助？";
-$Definition["Event Log"] = "活動記錄";
-$Definition["Event Name"] = "活動名稱";
-$Definition["Every %s hour"] = "每小時";
-$Definition["Every %s hours"] = "每 %s 小時";
-$Definition["Every %s minute"] = "每分鐘";
-$Definition["Every %s minutes"] = "每 %s 分鐘";
-$Definition["Every %s second"] = "每秒";
-$Definition["Every %s seconds"] = "每 %s 秒";
-$Definition["Every 1 minute"] = "每 1 分鐘";
-$Definition["Every Page"] = "每頁";
-$Definition["Everything is ok."] = "一切正常。";
-$Definition["Excerpt Length"] = "摘錄長度";
-$Definition["Exclude Categories"] = "排除類別";
-$Definition["Exclude Default Interests"] = "排除違約利息";
-$Definition["Exclude these from the source"] = "從來源中排除這些";
-$Definition["Exclude archived discussions from the discussions list"] =
-    "將已封存的討論串移出討論列表";
-$Definition["Existing members send invitations to new members."] =
-    "現有用戶可以傳送邀請給新用戶。";
-$Definition["Exit Preview"] = "離開預覽模式";
-$Definition["Exit"] = "離開";
-$Definition["External Search"] = "外部搜尋";
-$Definition[
-    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
-] =
-    "外部搜尋將 Vanilla 的開箱即用搜尋替換為您選擇的第三方搜尋提供者。";
+$Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable embedding to use blog comments.'] = '如果要使用這項功能，您必須先允許內嵌。';
+$Definition['Enable Followup Notifications'] = '啟用後續通知';
+$Definition['Enable HTML emails'] = '啟用 HTML 電子郵件';
+$Definition['Enable Image Upload Limit'] = '啟用圖像上傳限制';
+$Definition['Enable link embeds in discussions and comments'] = '啟用討論和留言上的連結嵌入';
+$Definition['Enable link embeds in posts and comments'] = '在貼文和留言中啟用連結嵌入';
+$Definition['Enable OpenID'] = '啟用 OpenID';
+$Definition['Enable Pocket Locations'] = '啟用小區定位';
+$Definition['Enable Private Communities'] = '啟用私人社群';
+$Definition['Enable Product Integration'] = '啟用產品整合';
+$Definition['Enable Rich Quotes'] = '啟用 Rich Quotes';
+$Definition['Enable sending notification emails'] = '啟用發送通知電子郵件';
+$Definition['Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon\'s settings</0>. Learn more in the <1/>'] = '啟用 Stopforumspam 來根據已報告的垃圾郵件發送者清單檢查社區用戶，並將貼文報告為垃圾郵件或直接拒絕。報告和拒絕閾值在<0>插件的設定中進行管理</0>。了解更多信息，請訪問<1/>';
+$Definition['Enable Tagging'] = '啟用標記';
+$Definition['Enable this message'] = '啟用這則訊息';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = '啟用此選項可在規則觸發時傳送後續電子郵件。';
+$Definition['Enable this source'] = '啟用此來源';
+$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = '能夠預覽我們的新用戶管理儀表板，其中包含改進的搜索和新的配置選項。';
+$Definition['Enable to only show posts from categories a user follows.'] = '啟用僅顯示用戶關注的類別中的帖子。';
+$Definition['Enable Triage Dashboard'] = '啟用分類儀表板';
+$Definition['Enabling a Locale Pack'] = '啟用語言包';
+$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = '啟用此功能將修改您的內容安全策略，以信任由自訂腳本作為依賴項注入的其他腳本。';
+$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = '啟用此功能將修改您網站的內容安全性原則(CSP)，以允許目前受信任網域清單中核准的腳本動態載入其他腳本，它將向您的CSP 新增「嚴格動態」指令，從而在合併第三方時提供更大的靈活性內容。';
+$Definition['Encourage your friends to join your new community!'] = '邀請您的朋友來參加您的新社群討論版！';
+$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = '輸入以逗號分隔的索引列表，起始數值為1。';
+$Definition['Enter a title for this escalation'] = '輸入此升級的標題';
+$Definition['Enter numbers starting at 1.'] = '請輸入從1開始的數字。';
+$Definition['Enter the email address of the person you would like to invite:'] = '請輸入你邀請對象的 Email 地址:';
+$Definition['Enter the url to the page you would like to use as your homepage'] = '請輸入您希望作為首頁的網頁位址';
+$Definition['Enter the url to the page you would like to use as your homepage:'] = '請輸入您希望作為首頁的網頁位址：';
+$Definition['Error sending email. Please review the addresses and try again.'] = '傳送電子郵件時發生錯誤。請再檢查電郵地址，然後再試一次。';
+$Definition['Escalate'] = '升級';
+$Definition['Escalated'] = '升級';
+$Definition['Escalated by <0/>'] = '由<0/>升級';
+$Definition['Escalate it'] = '升級它';
+$Definition['Escalate to GitHub'] = '升級至 GitHub';
+$Definition['Escalate to Zendesk'] = '升級到 Zendesk';
+$Definition['Escalation Name'] = '升級名稱';
+$Definition['Escalation Rules'] = '升級規則';
+$Definition['Escalations Dashboard'] = '升級儀表板';
+$Definition['Even More Help?'] = '想要更多協助？';
+$Definition['event'] = '事件';
+$Definition['Event Layout Settings'] = '事件佈局設定';
+$Definition['Event Layout Version'] = '活動佈置版本';
+$Definition['Event Log'] = '活動記錄';
+$Definition['Event Name'] = '活動名稱';
+$Definition['Event Pages'] = '活動頁面';
+$Definition['Every %s hour'] = '每小時';
+$Definition['Every %s hours'] = '每 %s 小時';
+$Definition['Every %s minute'] = '每分鐘';
+$Definition['Every %s minutes'] = '每 %s 分鐘';
+$Definition['Every %s second'] = '每秒';
+$Definition['Every %s seconds'] = '每 %s 秒';
+$Definition['Every 1 minute'] = '每 1 分鐘';
+$Definition['Every Page'] = '每頁';
+$Definition['Everything is ok.'] = '一切正常。';
+$Definition['Excerpt Length'] = '摘錄長度';
+$Definition['Exclude archived discussions from the discussions list'] = '將已封存的討論串移出討論列表';
+$Definition['Exclude Categories'] = '排除類別';
+$Definition['Exclude Default Interests'] = '排除違約利息';
+$Definition['Exclude these from the source'] = '從來源中排除這些';
+$Definition['Existing members send invitations to new members.'] = '現有用戶可以傳送邀請給新用戶。';
+$Definition['Exit'] = '離開';
+$Definition['Exit Preview'] = '離開預覽模式';
+$Definition['Expand'] = '擴張';
+$Definition['Export'] = '出口';
+$Definition['External Search'] = '外部搜尋';
+$Definition['External search replaces Vanilla’s out of the box search with a third party search provider of your choice.'] = '外部搜尋將 Vanilla 的開箱即用搜尋替換為您選擇的第三方搜尋提供者。';
 
-$Definition["Facebook Connector"] = "Facebook 連接器";
-$Definition["Facebook Settings"] = "Facebook 設定";
-$Definition["Failure"] = "失敗";
-$Definition["Fallback Image"] = "後備影像";
-$Definition["False"] = "錯誤的";
-$Definition["Favicon"] = "Favicon";
-$Definition["FaviconBrowse"] =
-    "如果您想要更換網站小圖像，請瀏覽新的圖檔：";
-$Definition["FaviconDescription"] =
-    "你網站的收藏夾圖示將顯示在瀏覽器的標題欄中。它會縮到適當大小。";
-$Definition["Feature is not configured"] = "功能未配置";
-$Definition["Featured"] = "精選";
-$Definition["Featured Image"] = "特色圖片";
-$Definition["FileUpload is currently OFF"] = "目前已關閉 FileUpload";
-$Definition["FileUpload is currently ON"] = "目前已開啟 FileUpload";
-$Definition["Filter"] = "篩選";
-$Definition["Filter By"] = "濾";
-$Definition["Filter Results"] = "篩選結果";
-$Definition["Finished"] = "已完成";
-$Definition["Fingerprint"] = "指紋";
-$Definition["First Visit"] = "第一次訪問";
-$Definition["Flagged By"] = "標識者";
-$Definition["Flagged Content"] = "已加上旗標內容";
-$Definition["Flood Control"] = "溢位控制";
-$Definition["Forbidden words"] = "禁用字";
-$Definition["Follow Up Delay"] = "跟進延遲";
-$Definition[
-    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
-] =
-    "例如，要允許 yourdomain.com、www.yourdomain.com 和 help.yourdomain.com，您可以添加 *.yourdomain.com";
-$Definition["Force the forum to only be accessible through this url"] =
-    "強制規定討論版只能透過這個網址進入";
-$Definition["Force your forum to be viewed through the Remote Url"] =
-    "強制規定您的討論版只能從這個遠端網址進入";
-$Definition["Formats"] = "格式";
-$Definition["Footer"] = "頁尾";
-$Definition["Forum Data"] = "論壇資料";
-$Definition["Forum Settings"] = "討論區設定";
-$Definition["Frequency"] = "更新頻率";
-$Definition["Friendly and Personal"] = "友善且個性化";
-$Definition["From Email Address"] = "寄件者電子郵件地址";
-$Definition["From Name"] = "來自名字";
-$Definition["Full post in email notifications"] =
-    "電子郵件通知中的完整帖子";
+$Definition['Facebook Connector'] = 'Facebook 連接器';
+$Definition['Facebook Settings'] = 'Facebook 設定';
+$Definition['Failed to authenticate your password reset request. Try using the reset request form again.'] = '無法驗證您的密碼重設請求。請嘗試再次使用重設請求表單。';
+$Definition['Failed to disable the rule'] = '禁用規則失敗';
+$Definition['Failed to load the preview data. Please check your trigger and action values.'] = '載入預覽資料失敗。請檢查您的觸發器和操作值。';
+$Definition['Failure'] = '失敗';
+$Definition['Fallback Image'] = '後備影像';
+$Definition['False'] = '錯誤的';
+$Definition['FaviconBrowse'] = '如果您想要更換網站小圖像，請瀏覽新的圖檔：';
+$Definition['FaviconDescription'] = '你網站的收藏夾圖示將顯示在瀏覽器的標題欄中。它會縮到適當大小。';
+$Definition['Featured'] = '精選';
+$Definition['Featured Image'] = '特色圖片';
+$Definition['Feature is not configured'] = '功能未配置';
+$Definition['FileUpload is currently OFF'] = '目前已關閉 FileUpload';
+$Definition['FileUpload is currently ON'] = '目前已開啟 FileUpload';
+$Definition['Filter'] = '篩選';
+$Definition['Filter By'] = '濾';
+$Definition['Filter Results'] = '篩選結果';
+$Definition['Fingerprint'] = '指紋';
+$Definition['Finished'] = '已完成';
+$Definition['First Visit'] = '第一次訪問';
+$Definition['Flagged By'] = '標識者';
+$Definition['Flagged Content'] = '已加上旗標內容';
+$Definition['Flood Control'] = '溢位控制';
+$Definition['Follow categories:'] = '遵循類別：';
+$Definition['Follow category'] = '關注類別';
+$Definition['Follow Up Delay'] = '跟進延遲';
+$Definition['Footer'] = '頁尾';
+$Definition['for'] = '為了';
+$Definition['Forbidden words'] = '禁用字';
+$Definition['Force the forum to only be accessible through this url'] = '強制規定討論版只能透過這個網址進入';
+$Definition['Force your forum to be viewed through the Remote Url'] = '強制規定您的討論版只能從這個遠端網址進入';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = '例如，要允許 yourdomain.com、www.yourdomain.com 和 help.yourdomain.com，您可以添加 *.yourdomain.com';
+$Definition['Formats'] = '格式';
+$Definition['Formatting Posts'] = '格式化貼文';
+$Definition['Forum Data'] = '論壇資料';
+$Definition['Forum Settings'] = '討論區設定';
+$Definition['Frequency'] = '更新頻率';
+$Definition['Friendly and Personal'] = '友善且個性化';
+$Definition['From Email Address'] = '寄件者電子郵件地址';
+$Definition['From Name'] = '來自名字';
+$Definition['Full post in email notifications'] = '電子郵件通知中的完整帖子';
 
-$Definition["Garden"] = "封閉區域";
-$Definition["Garden.api.ssoIDPermission.description"] =
-    "擁有此權限的使用者將能夠在 API v2 進行呼叫以擴展單一登入帳號。";
-$Definition["Gave badge to users."] = "將徽章給予用戶。";
-$Definition["Generate"] = "產生";
-$Definition["Generate Client ID and Secret"] = "產生Client ID與密鑰資料";
-$Definition["Generate import SQL only"] = "僅產生匯入 SQL";
-$Definition[
-    "Generating Suggestions. You will be notified when they are ready for you to review."
-] =
-    "生成建議。當它們準備好供您審核時，您將會收到通知。";
-$Definition["Get More Applications"] = "下載更多應用程式";
-$Definition["Get More Plugins"] = "下載更多外掛";
-$Definition["Get More Themes"] = "下載更多佈景主題";
-$Definition["Getting Started"] = "開始使用";
-$Definition["Getting Started with Vanilla"] = "開始使用 Vanilla";
-$Definition["give"] = "給予";
-$Definition["Give a Badge"] = "給予一個徽章";
-$Definition["Given Indexes"] = "已有的索引";
-$Definition[
-    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
-] =
-    "問候。我是您的人工智慧建議助手，幫助您找到相關文章和貼文來解答您的疑問。如果您有任何問題，請隨時提出。";
-$Definition["guest"] = "訪客";
-$Definition["Guest roles"] =
-    "檢查所有給予訪客的職務。";
+$Definition['Garden'] = '封閉區域';
+$Definition['Garden.api.ssoIDPermission.description'] = '擁有此權限的使用者將能夠在 API v2 進行呼叫以擴展單一登入帳號。';
+$Definition['Gave badge to users.'] = '將徽章給予用戶。';
+$Definition['Generate'] = '產生';
+$Definition['Generate Client ID and Secret'] = '產生Client ID與密鑰資料';
+$Definition['Generate import SQL only'] = '僅產生匯入 SQL';
+$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = '生成建議。當它們準備好供您審核時，您將會收到通知。';
+$Definition['Get More Applications'] = '下載更多應用程式';
+$Definition['Get More Plugins'] = '下載更多外掛';
+$Definition['Get More Themes'] = '下載更多佈景主題';
+$Definition['Getting Started'] = '開始使用';
+$Definition['Getting Started with Vanilla'] = '開始使用 Vanilla';
+$Definition['give'] = '給予';
+$Definition['Give a Badge'] = '給予一個徽章';
+$Definition['Given Indexes'] = '已有的索引';
+$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = '問候。我是您的人工智慧建議助手，幫助您找到相關文章和貼文來解答您的疑問。如果您有任何問題，請隨時提出。';
+$Definition['guest'] = '訪客';
+$Definition['Guest roles'] = '檢查所有給予訪客的職務。';
+$Definition['Guide Article Pages'] = '指南文章頁面';
 
-$Definition["Hash Algorithm"] = "雜湊演算法";
-$Definition["HeadlineFormat.AddUser"] =
-    "{ActivityUserID,user}為{RegardingUserID,user}新增了一個帳號。";
-$Definition["HeadlineFormat.PictureChange"] =
-    "{RegardingUserID,You}更新了{ActivityUserID,your}的個人照片。";
-$Definition["HeadlineFormat.RegistrationApproval"] =
-    "{ActivityUserID,user}同意了{RegardingUserID,user}希望使用的應用程式。";
-$Definition["HeadlineFormat.Status"] = "{ActivityUserID,user}";
-$Definition["HeadlineFormat.WallPost"] =
-    "{RegardingUserID,you} → {ActivityUserID,you}";
-$Definition["Heads up!"] = "注意！";
-$Definition["Heads Up!"] = "注意！";
-$Definition["Header"] = "頁首";
-$Definition["Height"] = "高度";
-$Definition[
-    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
-] =
-    "你好呀！我是您的人工智慧建議助手，幫助您找到最好的文章和貼文來回答您的問題。隨意詢問任何問題，我在這裡讓您的搜尋變得有趣且資訊豐富！";
-$Definition["Help &amp; Tutorials"] = "說明與教學";
+$Definition['has been unanswered'] = '尚未得到答复';
+$Definition['Hash Algorithm'] = '雜湊演算法';
+$Definition['has not received any comments'] = '沒有收到任何評論';
+$Definition['Header'] = '頁首';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user}為{RegardingUserID,user}新增了一個帳號。';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You}更新了{ActivityUserID,your}的個人照片。';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user}同意了{RegardingUserID,user}希望使用的應用程式。';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
+$Definition['Heads Up!'] = '注意！';
+$Definition['Heads up!'] = '注意！';
+$Definition['Height'] = '高度';
+$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = '你好呀！我是您的人工智慧建議助手，幫助您找到最好的文章和貼文來回答您的問題。隨意詢問任何問題，我在這裡讓您的搜尋變得有趣且資訊豐富！';
+$Definition['Help &amp; Tutorials'] = '說明與教學';
+$Definition['Help Center Article Pages'] = '幫助中心文章頁面';
+$Definition['Help Center Category Pages'] = '幫助中心分類頁面';
+$Definition['Help Center Home Pages'] = '幫助中心首頁';
 $Definition['Here\'s how to get started:'] = '以下是入門教學:';
-$Definition["Hidden for everything!"] = "已對所有用戶端隱藏！";
-$Definition["Hidden for mobile"] = "已對行動用戶端隱藏";
-$Definition["Hide discussions from Recent Discussions and Widgets."] =
-    "從最近的討論和小部件中隱藏討論。";
-$Definition["Hide posts from Recent Posts Page and Widgets."] =
-    "隱藏最近帖子頁面和小部件中的帖子。";
-$Definition["Hide Pocket Locations"] = "隱藏Pocket位置";
-$Definition["Hide signatures for guests"] = "已經對訪客隱藏簽章";
-$Definition["Hide signatures on embedded comments"] =
-    "已經隱藏內嵌留言上的簽章";
-$Definition["Hide Suggestions"] = "隱藏建議";
-$Definition["History"] = "歷史";
-$Definition["Homepage"] = "首頁";
-$Definition["Homepage Title"] = "首頁標題";
-$Definition["How the content is going to be filtered."] =
-    "內容將如何被過濾。";
-$Definition["How to use themes"] = "如何使用佈景主題";
-$Definition[
-    "However, this comes with increased responsibility to ensure the security of your site."
-] =
-    "然而，這也意味著確保網站安全的責任也隨之增加。";
-$Definition["Html"] = "HTML";
-$Definition["HTML Emails"] = "HTML電子郵件";
-$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
-    "HTTP 嚴格傳送安全 (HSTS) 設定";
-$Definition["Hot (score + activity)"] = "熱門（分數+活動）";
+$Definition['Hidden for everything!'] = '已對所有用戶端隱藏！';
+$Definition['Hidden for mobile'] = '已對行動用戶端隱藏';
+$Definition['Hide discussions from Recent Discussions and Widgets.'] = '從最近的討論和小部件中隱藏討論。';
+$Definition['Hide Pocket Locations'] = '隱藏Pocket位置';
+$Definition['Hide posts from Recent Posts Page and Widgets.'] = '隱藏最近帖子頁面和小部件中的帖子。';
+$Definition['Hide signatures for guests'] = '已經對訪客隱藏簽章';
+$Definition['Hide signatures on embedded comments'] = '已經隱藏內嵌留言上的簽章';
+$Definition['Hide Suggestions'] = '隱藏建議';
+$Definition['History'] = '歷史';
+$Definition['Home Layout Settings'] = '主頁佈局設定';
+$Definition['Home Layout Version'] = '首頁版面版本';
+$Definition['Homepage'] = '首頁';
+$Definition['Home Pages'] = '首頁';
+$Definition['Homepage Title'] = '首頁標題';
+$Definition['Homepage titles can only be between 1 and 500 characters'] = '首頁標題只能包含 1 到 500 個字符';
+$Definition['Hot (score + activity)'] = '熱門（分數+活動）';
+$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = '然而，這也意味著確保網站安全的責任也隨之增加。';
+$Definition['How the content is going to be filtered.'] = '內容將如何被過濾。';
+$Definition['How to use themes'] = '如何使用佈景主題';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'HTML電子郵件';
+$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'HTTP 嚴格傳送安全 (HSTS) 設定';
 
-$Definition[
-    "If enabled, the full content of posts will be sent in email notifications to users."
-] =
-    "如果啟用，則帖子的全部內容將通過電子郵件通知發送給用戶。";
-$Definition["If left empty, Email Logo is used."] =
-    "如果留空，則使用電子郵件標誌。";
-$Definition[
-    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
-] =
-    "如果您在上方「使用條款連結」中提供了內部文件的鏈接，「使用條款文字」將被忽略。如果您想使用此文本，請刪除該連結。";
-$Definition["Inbox Page"] = "收件匣頁面";
-$Definition["Include Child Categories"] = "包括子類別";
-$Definition["Include full post in email notifications"] =
-    "在電郵通知中包含完整貼文";
-$Definition["Include Featured Images"] = "包括特色圖片";
-$Definition["Include featured images with posts in email digest"] =
-    "在電子郵件摘要中包含帶有帖子的特色圖像";
-$Definition["Include internal profile fields"] =
-    "包括內部配置文件字段";
-$Definition["Include private profile fields"] =
-    "包括私人資料字段";
-$Definition["Include Subcategories"] = "包含子類別";
-$Definition["Include Subdomains"] = "包括子網域";
-$Definition["Increased Security Risks:"] = "安全風險增加：";
-$Definition["Indexes"] = "索引";
-$Definition["Information"] = "資訊";
-$Definition["Install Vanilla without a .htaccess file."] =
-    "安裝 Vanilla 後不使用  .htaccess 檔案。";
-$Definition["Integrate Banner Image"] = "融入橫幅圖像";
-$Definition["Interest Name"] = "興趣名稱";
-$Definition["Interests & Suggested Content"] = "興趣和建議內容";
-$Definition["Intermediate"] = "中間的";
-$Definition["Internaltionalization & Localization"] =
-    "國際化與在地化";
-$Definition["Introduction"] = "介紹";
-$Definition["Introducing Vanilla Reactions and Badges"] =
-    "介紹Vanilla回應與徽章";
-$Definition["Invalid category for deletion."] =
-    "分類不正確，無法刪除。";
-$Definition["Invalid entry."] = "輸入無效。";
-$Definition["Invisibility Cloak Settings"] = "Invisibility Cloak 隱形設定";
-$Definition["Invitation Code"] = "邀請碼";
-$Definition["InvitationMessage"] = '您好！
+$Definition['Icon Name'] = '圖標名稱';
+$Definition['Icon Packs'] = '圖示包';
+$Definition['Icon Size'] = '圖示大小';
+$Definition['Icon Type'] = '圖示類型';
+$Definition['Idea Pages'] = '創意頁面';
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = '如果啟用，則帖子的全部內容將通過電子郵件通知發送給用戶。';
+$Definition['If left empty, Email Logo is used.'] = '如果留空，則使用電子郵件標誌。';
+$Definition['If this option is enabled, replies from the Original Poster will have an OP indicator.'] = '如果啟用此選項，原始發文者的回覆將帶有 OP 指示器。';
+$Definition['If you have a link to internal document in \'Link to Terms of Use\' above, \'Terms of Use Text\' will be ignored. Remove the link if you want to use this text.'] = '如果您在上方「使用條款連結」中提供了內部文件的鏈接，「使用條款文字」將被忽略。如果您想使用此文本，請刪除該連結。';
+$Definition['Impacted User'] = '受影響用戶';
+$Definition['Inbox Page'] = '收件匣頁面';
+$Definition['Include Child Categories'] = '包括子類別';
+$Definition['Include Featured Images'] = '包括特色圖片';
+$Definition['Include featured images with posts in email digest'] = '在電子郵件摘要中包含帶有帖子的特色圖像';
+$Definition['Include full post in email notifications'] = '在電郵通知中包含完整貼文';
+$Definition['Include internal profile fields'] = '包括內部配置文件字段';
+$Definition['Include private profile fields'] = '包括私人資料字段';
+$Definition['Include Subcategories'] = '包含子類別';
+$Definition['Include Subdomains'] = '包括子網域';
+$Definition['Increased Security Risks:'] = '安全風險增加：';
+$Definition['Indexes'] = '索引';
+$Definition['indicator navigation'] = '指示器導航';
+$Definition['Information'] = '資訊';
+$Definition['In Jira'] = '在 Jira 中';
+$Definition['InputFormatter.Notes1'] = '為社群的貼文選取編輯器的預設格式。';
+$Definition['InputFormatter.Notes2'] = '編輯器將在編輯舊貼文時自動偵測舊貼文的格式，並載入其原始格式規則。除了此例外，以下選取的貼文格式將具有較高的優先順序。';
+$Definition['Install Vanilla without a .htaccess file.'] = '安裝 Vanilla 後不使用  .htaccess 檔案。';
+$Definition['Integrate Banner Image'] = '融入橫幅圖像';
+$Definition['Integrations'] = '整合';
+$Definition['Interest Name'] = '興趣名稱';
+$Definition['Interests & Suggested Content'] = '興趣和建議內容';
+$Definition['Intermediate'] = '中間的';
+$Definition['Internal Comment'] = '內部評論';
+$Definition['Internal Comments'] = '內部評論';
+$Definition['Internaltionalization & Localization'] = '國際化與在地化';
+$Definition['Introducing Vanilla Reactions and Badges'] = '介紹Vanilla回應與徽章';
+$Definition['Introduction'] = '介紹';
+$Definition['Invalid category for deletion.'] = '分類不正確，無法刪除。';
+$Definition['Invalid entry.'] = '輸入無效。';
+$Definition['Invisibility Cloak Settings'] = 'Invisibility Cloak 隱形設定';
+$Definition['Invitation Code'] = '邀請碼';
+$Definition['InvitationMessage'] = '您好！
 
 歡迎您過來看看我剛設立的全新社群討論版，一起在這裡跟大家透過網路聊天吧！
 
 請利用下列的連結登入。';
-$Definition["Invitations per month"] = "每月邀請數";
-$Definition["Invitations will expire"] = "邀請過期";
-$Definition["Invited by"] = "邀請人";
-$Definition["It looks like you edited your post. <0/> or <1/>."] =
-    "看來您編輯了您的貼文。 <0/>或<1/>。";
+$Definition['Invitation not found.'] = '未找到邀請。';
+$Definition['Invitations per month'] = '每月邀請數';
+$Definition['Invitations will expire'] = '邀請過期';
+$Definition['Invited by'] = '邀請人';
+$Definition['In Zendesk'] = '在 Zendesk 中';
+$Definition['It looks like you edited your post. <0/> or <1/>.'] = '看來您編輯了您的貼文。 <0/>或<1/>。';
 
-$Definition["JavaScript"] = "JavaScript";
-$Definition["jsConnect Client Libraries"] = "jsConnect 客戶端函式庫";
-$Definition["jsConnect Documentation"] = "jsConnect 文件";
-$Definition["JS"] = "JS";
+$Definition['jsConnect Client Libraries'] = 'jsConnect 客戶端函式庫';
+$Definition['jsConnect Documentation'] = 'jsConnect 文件';
 
-$Definition["Key Type"] = "金鑰類型";
-$Definition["Key Value"] = "金鑰值";
-$Definition["Keyword Blocker"] = "關鍵字封鎖器";
+$Definition['Key Type'] = '金鑰類型';
+$Definition['Key Value'] = '金鑰值';
+$Definition['Keyword Blocker'] = '關鍵字封鎖器';
+$Definition['Knowledge Base Home Pages'] = '知識庫首頁';
+$Definition['Knowledge Base Layout Settings'] = '知識庫佈局設定';
+$Definition['Knowledge Base Layout Version'] = '知識庫佈局版本';
+$Definition['Knowledge Base Pages'] = '知識庫頁面';
 
-$Definition["Label"] = "標記";
-$Definition["Label is required"] = "標籤是必需的";
-$Definition["Label this Revision"] = "為本次改版加上標籤";
-$Definition["Language Style"] = "語言風格";
-$Definition["Large images will be scaled down."] =
-    "大型圖檔將被縮小至最大寬度 %s px 及 最大高度 %s px 。";
-$Definition["Last Visit"] = "最後訪問";
-$Definition["Last Day"] = "最後一天";
-$Definition["Last Week"] = "上星期";
-$Definition["Last Month"] = "上個月";
+$Definition['Label'] = '標記';
+$Definition['Label is required'] = '標籤是必需的';
+$Definition['Label this Revision'] = '為本次改版加上標籤';
+$Definition['Language Style'] = '語言風格';
+$Definition['Large images will be scaled down.'] = '大型圖檔將被縮小至最大寬度 %s px 及 最大高度 %s px 。';
+$Definition['Last Day'] = '最後一天';
+$Definition['Last Modified'] = '上次修改';
+$Definition['Last Month'] = '上個月';
+$Definition['Last refreshed <0/> by <1/>.'] = '上次刷新時間為 <0/>，刷新者為 <1/>。';
+$Definition['Last Reported'] = '上次報告';
+$Definition['Last reported'] = '最後報告';
+$Definition['Last Visit'] = '最後訪問';
+$Definition['Last Week'] = '上星期';
 $Definition['Layman\'s Terms'] = '外行術語';
-$Definition["Layout"] = "配置";
-$Definition["Learn more"] = "了解更多";
-$Definition["Learn more about HSTS at %s."] = "在 %s 深入瞭解 HSTS。";
-$Definition["Legacy Recent Posts Layout"] = "舊版近期文章版面";
+$Definition['Layout'] = '配置';
+$Definition['Layout Options'] = '佈局選項';
+$Definition['Layouts'] = '佈局';
+$Definition['Learn more'] = '了解更多';
+$Definition['Learn more.'] = '了解更多。';
+$Definition['Learn more about HSTS at %s.'] = '在 %s 深入瞭解 HSTS。';
+$Definition['Legacy Category Layout'] = '舊版類別版面';
+$Definition['Legacy Category Layouts'] = '舊版類別版面';
+$Definition['Legacy Create Post Layout'] = '舊版建立貼文佈局';
+$Definition['Legacy Create Post Layouts'] = '舊版建立貼文佈局';
+$Definition['Legacy Event Layout'] = '舊版活動版面';
+$Definition['Legacy Event Layouts'] = '舊版活動版面';
+$Definition['Legacy Home Layouts'] = '傳統家居佈局';
+$Definition['Legacy Knowledge Base Layout'] = '舊版知識庫佈局';
+$Definition['Legacy Knowledge Base Layouts'] = '舊版知識庫佈局';
+$Definition['Legacy Layouts enabled'] = '已啟用舊版版面';
+$Definition['Legacy Post Layout'] = '舊版貼文版面';
+$Definition['Legacy Post Layouts'] = '舊版貼文版面';
+$Definition['Legacy Recent Posts Layout'] = '舊版近期文章版面';
+$Definition['Legacy Recent Posts Layouts'] = '舊版最新貼文版面';
+$Definition['Level'] = '等級';
+$Definition['Level of Technical Language'] = '技術語言程度';
+$Definition['Likes'] = '個讚';
+$Definition['Limit'] = '限制';
+$Definition['Limits: 60 characters, no breaks.'] = '限制：60 個字符，無間斷。';
+$Definition['Limit the pocket to one or more roles or permissions.'] = '將pocket限制為一種（或多種）職務或權限。';
+$Definition['Link Color'] = '鏈接顏色';
+$Definition['List of discussion IDs to delete.'] = '要刪除的討論 ID 清單。';
+$Definition['Live'] = '居住';
+$Definition['Live Post'] = '直播貼文';
+$Definition['Loader'] = '裝載機';
+$Definition['Locale Key (Folder)'] = '語系 Key（資料夾）';
+$Definition['Locale Name'] = '語言名稱';
+$Definition['Locales'] = '語言';
+$Definition['Location'] = '位置';
+$Definition['Locations'] = '位置';
+$Definition['Logo'] = '標誌';
+$Definition['LogoBrowse'] = '如果您想要更換橫幅標誌，請瀏覽新的圖檔：';
 
-$Definition["Level"] = "等級";
-$Definition["Level of Technical Language"] = "技術語言程度";
-$Definition["Limits: 60 characters, no breaks."] =
-    "限制：60 個字符，無間斷。";
-$Definition["Link Color"] = "鏈接顏色";
-$Definition["Likes"] = "個讚";
-$Definition["Limit the pocket to one or more roles or permissions."] =
-    "將pocket限制為一種（或多種）職務或權限。";
-$Definition["Limit"] = "限制";
-$Definition["List of discussion IDs to delete."] =
-    "要刪除的討論 ID 清單。";
-$Definition["Locale Key (Folder)"] = "語系 Key（資料夾）";
-$Definition["Locale Name"] = "語言名稱";
-$Definition["Locales"] = "語言";
-$Definition["Location"] = "位置";
-$Definition["Locations"] = "位置";
-$Definition["Logo"] = "標誌";
-$Definition["LogoBrowse"] =
-    "如果您想要更換橫幅標誌，請瀏覽新的圖檔：";
+$Definition['Maintenance Mode'] = '維護模式';
+$Definition['Make sure you select at least one item before continuing.'] = '請務必在繼續之前先選取至少一個項目。';
+$Definition['Manage'] = '管理';
+$Definition['Manage Applicants'] = '管理申請人';
+$Definition['Manage Applications'] = '管理應用程式';
+$Definition['Manage Badge Requests'] = '管理徽章要求';
+$Definition['Manage Badges'] = '管理徽章';
+$Definition['Manage Categories'] = '管理分類';
+$Definition['Manage Groups'] = '管理群組';
+$Definition['Manage Icon'] = '管理圖示';
+$Definition['Manage Icon helptext'] = '您可以在這裡管理系統和歷史圖示。上傳時，請確保圖示為 SVG 格式，包含 viewBox 屬性，並使用顏色 #000000，以確保它可以根據主題設定和使用者互動動態著色。每種類型每次只能有一個圖示處於活動狀態。';
+$Definition['Manage Icons'] = '管理圖示';
+$Definition['Manage Messages'] = '管理公告資訊';
+$Definition['Manage Plugins'] = '管理外掛';
+$Definition['Manage Roles & Permissions'] = '管理角色 & 權限';
+$Definition['Manage Spam'] = '管理垃圾資訊';
+$Definition['Manage Suggested Answer Sources'] = '管理建議的答案來源';
+$Definition['Manage Themes'] = '管理主題';
+$Definition['Manage Users'] = '管理會員';
+$Definition['Managing Categories'] = '管理分類';
+$Definition['Manual'] = '手動';
+$Definition['Mark All Suggested Answers as Accepted'] = '將所有建議答案標記為已接受';
+$Definition['Max %s length'] = '%s 最大長度';
+$Definition['Max Age'] = '最大時限';
+$Definition['Max Avatar Height'] = '最大頭像高度';
+$Definition['Max Avatar Width'] = '最大頭像寬度';
+$Definition['Max Comment Length'] = '評論最大長度';
+$Definition['Max height of %s'] = '%s 的最大高度';
+$Definition['Max height of %s in pixels'] = '%s 的最大高度，單位項訴';
+$Definition['Maximum Category Display Depth'] = '最大類別顯示深度';
+$Definition['Maximum Limit Reached'] = '已達最大限制';
+$Definition['Maximum number of posts to be included in the email digest.'] = '電子郵件摘要中包含的最大貼文數。';
+$Definition['Max number of %s'] = '最大數量為 %s';
+$Definition['Max number of images in signature'] = '簽名的最大影像數目';
+$Definition['Max Post Length'] = '最大貼文長度';
+$Definition['Max signature length'] = '簽名最大長度';
+$Definition['member'] = '會員';
+$Definition['Member roles'] = '檢查所有應給予新註冊／新核准用戶的職務。';
+$Definition['Membership'] = '會籍';
+$Definition['Message'] = '發送訊息';
+$Definition['Message ID'] = '訊息ID';
+$Definition['Message Post Author'] = '留言貼文作者';
+$Definition['Messages'] = '發送訊息';
+$Definition['Meta Options'] = '元選項';
+$Definition['Meta Tags'] = '元標籤';
+$Definition['Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line.'] = 'Meta 標籤用於 Google Search Console 和其他服務的網域驗證。從來源複製所需的元標記並貼上到新行。';
+$Definition['Method'] = '方法';
+$Definition['Min Post Length'] = '最小貼文長度';
+$Definition['minute(s)'] = '分鐘';
+$Definition['Mixed Layout'] = '混合樣式';
+$Definition['Mobile Address Bar Color'] = '行動位址欄顏色';
+$Definition['Mobile Banner Logo'] = '行動橫幅商標';
+$Definition['Mobile Format'] = '行動格式';
+$Definition['MobileInputFormatter.Notes1'] = '指定行動裝置的編輯格式。';
+$Definition['MobileInputFormatter.Notes2'] = '如果行動裝置應該具有相同的體驗，請指定與上述相同的選項。如果使用者回報行動編輯的問題，請變更此選項。';
+$Definition['Mobile Logo'] = '手機標誌';
+$Definition['Mobile Themes'] = '行動主題';
+$Definition['Moderation Content'] = '審核內容';
+$Definition['moderator'] = '主持人';
+$Definition['Moderators have permission to edit most content.'] = '版主可以管理大部分文章內容。';
+$Definition['Modern Layout'] = '新潮版面';
+$Definition['Modern non-table-based layout'] = '不使用表格排版的新潮版面';
+$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = '語言比較複雜，可能會引入一些行業特定術語，但對大多數人來說仍然可以理解。';
+$Definition['More information'] = '更多資訊';
+$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = '更多技術語言和行業特定術語－假設對主題有更高程度的理解/熟悉。';
+$Definition['more than %s deep'] = '多於%s層';
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = '大多數的pocket均不應顯示在控制台上。';
+$Definition['Move discussions in this category to a replacement category.'] = '將這個分類中的討論串移到另一個替代分類之下。';
+$Definition['Move post'] = '行動貼文';
+$Definition['Move to category:'] = '移至類別：';
+$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = '如果使用者滿足任何條件，就會觸發多重選取欄位。';
+$Definition['My Invitations'] = '我的邀請';
+$Definition['My Profile'] = '我的個人資料';
 
-$Definition["Maintenance Mode"] = "維護模式";
-$Definition["Make sure you select at least one item before continuing."] =
-    "請務必在繼續之前先選取至少一個項目。";
-$Definition["Add your site to trusted domains."] =
-    "啟用嵌入時，請確認您的網站已新增到 %s。";
-$Definition["Manage"] = "管理";
-$Definition["Manage Applicants"] = "管理申請人";
-$Definition["Manage Applications"] = "管理應用程式";
-$Definition["Manage Badges"] = "管理徽章";
-$Definition["Manage Badge Requests"] = "管理徽章要求";
-$Definition["Manage Categories"] = "管理分類";
-$Definition["Manage Groups"] = "管理群組";
-$Definition["Manage Messages"] = "管理公告資訊";
-$Definition["Manage Plugins"] = "管理外掛";
-$Definition["Manage Roles & Permissions"] = "管理角色 & 權限";
-$Definition["Manage Suggested Answer Sources"] =
-    "管理建議的答案來源";
-$Definition["Manage Spam"] = "管理垃圾資訊";
-$Definition["Manage Themes"] = "管理主題";
-$Definition["Manage Users"] = "管理會員";
-$Definition["Managing Categories"] = "管理分類";
-$Definition["Manual"] = "手動";
-$Definition["Mark All Suggested Answers as Accepted"] =
-    "將所有建議答案標記為已接受";
-$Definition["Max %s length"] = "%s 最大長度";
-$Definition["Max Age"] = "最大時限";
-$Definition["Max Avatar Height"] = "最大頭像高度";
-$Definition["Max Avatar Width"] = "最大頭像寬度";
-$Definition["Max Comment Length"] = "評論最大長度";
-$Definition["Max height of %s"] = "%s 的最大高度";
-$Definition["Max height of %s in pixels"] = "%s 的最大高度，單位項訴";
-$Definition["Maximum Category Display Depth"] =
-    "最大類別顯示深度";
-$Definition["Max number of %s"] = "最大數量為 %s";
-$Definition["Max number of images in signature"] =
-    "簽名的最大影像數目";
-$Definition["Maximum number of posts to be included in the email digest."] =
-    "電子郵件摘要中包含的最大貼文數。";
-$Definition["Max Post Length"] = "最大貼文長度";
-$Definition["Max signature length"] = "簽名最大長度";
-$Definition["member"] = "會員";
-$Definition["Member roles"] =
-    "檢查所有應給予新註冊／新核准用戶的職務。";
-$Definition["Membership"] = "會籍";
-$Definition["Message"] = "發送訊息";
-$Definition["Message ID"] = "訊息ID";
-$Definition["Messages"] = "發送訊息";
-$Definition["Meta Options"] = "元選項";
-$Definition["Method"] = "方法";
-$Definition["Min Post Length"] = "最小貼文長度";
-$Definition["minute(s)"] = "分鐘";
-$Definition["Mixed Layout"] = "混合樣式";
-$Definition["Mobile Address Bar Color"] = "行動位址欄顏色";
-$Definition["Mobile Banner Logo"] = "行動橫幅商標";
-$Definition["Mobile Themes"] = "行動主題";
-$Definition["moderator"] = "主持人";
-$Definition["Moderators have permission to edit most content."] =
-    "版主可以管理大部分文章內容。";
-$Definition["Modern Layout"] = "新潮版面";
-$Definition["Modern non-table-based layout"] = "不使用表格排版的新潮版面";
-$Definition[
-    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
-] =
-    "語言比較複雜，可能會引入一些行業特定術語，但對大多數人來說仍然可以理解。";
-$Definition["More information"] = "更多資訊";
-$Definition[
-    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
-] =
-    "更多技術語言和行業特定術語－假設對主題有更高程度的理解/熟悉。";
-$Definition["more than %s deep"] = "多於%s層";
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
-    '大多數的pocket均不應顯示在控制台上。';
-$Definition["Move discussions in this category to a replacement category."] =
-    "將這個分類中的討論串移到另一個替代分類之下。";
-$Definition["My Invitations"] = "我的邀請";
+$Definition['Name of Interest'] = '興趣名稱';
+$Definition['Need More Help?'] = '需要更多協助嗎？';
+$Definition['Nested Category Pages'] = '嵌套分類頁面';
+$Definition['never'] = '絕不';
+$Definition['Never - Users Must Refresh Page'] = '永不需要 - 用戶必須刷新頁面';
+$Definition['Never display on mobile browsers.'] = '永不顯示於行動版瀏覽器上。';
+$Definition['New/Updated Email domain'] = '新的/更新的電子郵件網域';
+$Definition['New/Updated Profile field'] = '新的/更新的設定檔字段';
+$Definition['NewApplicantEmail'] = '新申請用戶：';
+$Definition['New comments in the last day'] = '最近一天評論數';
+$Definition['New comments in the last week'] = '最近一週評論數';
+$Definition['New Community Management System'] = '全新社區管理系統';
+$Definition['New conversations in the last day'] = '最近一天對話數';
+$Definition['New conversations in the last week'] = '最近一週對話數';
+$Definition['New discussions in the last day'] = '最近一天討論數';
+$Definition['New discussions in the last week'] = '最近一週討論數';
+$Definition['Newest Escalation'] = '最新升級';
+$Definition['Newest Post'] = '最新貼文';
+$Definition['Newest Report'] = '最新報告';
+$Definition['New Icon'] = '新圖示';
+$Definition['New messages in the last day'] = '最近一天訊息數';
+$Definition['New messages in the last week'] = '最近一週訊息數';
+$Definition['New User Management'] = '新用戶管理';
+$Definition['New users are only registered through SSO plugins.'] = '新用戶只能透過SSO插件註冊號。';
+$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = '新會員必須經過管理員(也就是你)審查。';
+$Definition['New users fill out a simple form and are granted access immediately.'] = '新會員在註冊後立即可以登入';
+$Definition['New users in the last day'] = '最近一天新會員數';
+$Definition['New users in the last week'] = '最近一週新會員數';
+$Definition['Next Slides'] = '下一張投影片';
+$Definition['No Ban Rules Found'] = '找不到禁令規則';
+$Definition['No categories are currently set to require premoderation.'] = '目前沒有設定需要預先審核的類別。';
+$Definition['No Change'] = '不變更';
+$Definition['No drafts.'] = '沒有草稿';
+$Definition['No further suggestions.'] = '沒有進一步的建議。';
+$Definition['No icons match those filters.'] = '沒有圖示符合這些過濾器。';
+$Definition['No item options are available for Link display type.'] = '沒有可用於鏈接顯示類型的項目選項。';
+$Definition['No Items Selected'] = '沒有選取任何項目';
+$Definition['No keywords are currently set to require premoderation.'] = '目前沒有設定需要預先審核的關鍵字。';
+$Definition['No report notes were provided by <0/>'] = '<0/>未提供任何報告說明';
+$Definition['No results for %s.'] = '搜尋<b>%s</b>沒有任何結果。';
+$Definition['No roles are currently set to require premoderation.'] = '目前沒有設定需要預先審核的角色。';
+$Definition['Not Dismissable'] = '不可遣散';
+$Definition['Note:'] = '注意事項：';
+$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = '注意：操作不會影響已套用關聯操作的 <0 />。';
+$Definition['Notes'] = '附註';
+$Definition['Note this layout change will not be visible until you switch to custom layouts.'] = '請注意，只有切換到自訂佈局時，此佈局變更才會顯示。';
+$Definition['Notifications will appear here.'] = '通知會顯示在這裡';
+$Definition['NotifyApplicant'] = '有人申請新帳號時請通知我。';
+$Definition['Notify me when my questions have AI Suggested Answers'] = '當我的問題有人工智慧建議答案時通知我';
+$Definition['Notify me when people comment on a discussion.'] = '有人在討論串中留言時請通知我。';
+$Definition['Notify me when people start new discussions.'] = '如果有人開啟新討論串時請通知我。';
+$Definition['Not Spam'] = '不是垃圾文章';
+$Definition['Number input must be between'] = '輸入的數字必須介於';
+$Definition['Number input must be between 1 and 100.'] = '輸入的數字必須在 1 到 100 之間。';
+$Definition['Number of %s listed per page.'] = '每頁列出的 %s 數。';
+$Definition['Number of blocked registrations'] = '已被封鎖的註冊次數';
+$Definition['Number of days before a follow-up email is automatically sent.'] = '自動發送後續電子郵件之前的天數。';
+$Definition['Number of days since registration to bypass Cloudflare challenge'] = '自註冊以來繞過 Cloudflare 挑戰的天數';
+$Definition['Number of posts'] = '貼文數量';
+$Definition['Number of posts from groups'] = '來自群組的貼文數';
 
-$Definition["Name of Interest"] = "興趣名稱";
-$Definition["Need More Help?"] = "需要更多協助嗎？";
-$Definition["never"] = "絕不";
-$Definition["Never - Users Must Refresh Page"] =
-    "永不需要 - 用戶必須刷新頁面";
-$Definition["Never display on mobile browsers."] =
-    "永不顯示於行動版瀏覽器上。";
-$Definition["NewApplicantEmail"] = "新申請用戶：";
-$Definition["New comments in the last day"] = "最近一天評論數";
-$Definition["New comments in the last week"] = "最近一週評論數";
-$Definition["New conversations in the last day"] =
-    "最近一天對話數";
-$Definition["New conversations in the last week"] =
-    "最近一週對話數";
-$Definition["New discussions in the last day"] =
-    "最近一天討論數";
-$Definition["New discussions in the last week"] =
-    "最近一週討論數";
-$Definition["New messages in the last day"] = "最近一天訊息數";
-$Definition["New messages in the last week"] = "最近一週訊息數";
-$Definition["New User Management"] = "新用戶管理";
-$Definition["New users are only registered through SSO plugins."] =
-    "新用戶只能透過SSO插件註冊號。";
-$Definition[
-    'New users are reviewed and approved by an administrator (that\'s you!).'
-] = '新會員必須經過管理員(也就是你)審查。';
-$Definition[
-    "New users fill out a simple form and are granted access immediately."
-] = "新會員在註冊後立即可以登入";
-$Definition["New users in the last day"] = "最近一天新會員數";
-$Definition["New users in the last week"] = "最近一週新會員數";
-$Definition["No Ban Rules Found"] = "找不到禁令規則";
-$Definition["No Change"] = "不變更";
-$Definition["No drafts."] = "沒有草稿";
-$Definition["No further suggestions."] = "沒有進一步的建議。";
-$Definition["No item options are available for Link display type."] =
-    "沒有可用於鏈接顯示類型的項目選項。";
-$Definition["No Items Selected"] = "沒有選取任何項目";
-$Definition["No results for %s."] = "搜尋<b>%s</b>沒有任何結果。";
-$Definition["Not Dismissable"] = "不可遣散";
-$Definition["Notes"] = "附註";
-$Definition["Notifications will appear here."] =
-    "通知會顯示在這裡";
-$Definition["NotifyApplicant"] =
-    "有人申請新帳號時請通知我。";
-$Definition["Notify me when people comment on a discussion."] =
-    "有人在討論串中留言時請通知我。";
-$Definition["Notify me when my questions have AI Suggested Answers"] =
-    "當我的問題有人工智慧建議答案時通知我";
-$Definition["Notify me when people start new discussions."] =
-    "如果有人開啟新討論串時請通知我。";
-$Definition["Not Spam"] = "不是垃圾文章";
-$Definition["Number of %s listed per page."] = "每頁列出的 %s 數。";
-$Definition["Number of blocked registrations"] =
-    "已被封鎖的註冊次數";
-$Definition["Number of days before a follow-up email is automatically sent."] =
-    "自動發送後續電子郵件之前的天數。";
-$Definition["Number input must be between"] = "輸入的數字必須介於";
-$Definition["Number input must be between 1 and 100."] =
-    "輸入的數字必須在 1 到 100 之間。";
-$Definition["Number of posts"] = "貼文數量";
-$Definition["Number of posts from groups"] = "來自群組的貼文數";
+$Definition['Oldest Escalation'] = '最早的升級';
+$Definition['Oldest Post'] = '最早的貼文';
+$Definition['Oldest Report'] = '最早的報告';
+$Definition['On'] = '時間';
+$Definition['On Hold'] = '等候接聽';
+$Definition['Only Allow Each User To Post'] = '只允許每個會員發送';
+$Definition['Only display on mobile browsers.'] = '僅顯示在行動版瀏覽器上。';
+$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = '僅單複選框、單選下拉清單、多選下拉清單或數字下拉清單欄位可用。選擇欄位後，它們將顯示在下面，以便您可以為每個個人資料欄位選擇特定答案。';
+$Definition['Only Show Followed Categories'] = '僅顯示關注的類別';
+$Definition['Only show icons that are default system icons.'] = '僅顯示預設系統圖示。';
+$Definition['Only show icons that have been overridden with custom icons.'] = '僅顯示已被自訂圖示覆蓋的圖示。';
+$Definition['Only visible to users with roles with permission.'] = '只有具授權角色的使用者能看到。';
+$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = '只有當用戶具有有效的 Salesforce 連接時，才會顯示打開的案例。';
+$Definition['Operation By'] = '由';
+$Definition['Organization'] = '組織';
+$Definition['Organize'] = '整理';
+$Definition['Organize Categories'] = '整理分類';
+$Definition['Original Version'] = '原始版本';
+$Definition['Or select an image on your computer (2mb max)'] = '或者從電腦中選擇一張圖片（最大2Mb）';
+$Definition['Or Spamblock For'] = '否則鎖定';
+$Definition['Other Themes'] = '其他主題';
+$Definition['Other Tutorials'] = '其他教學';
+$Definition['Outgoing Email'] = '外送郵件';
+$Definition['Outgoing Email Address'] = '寄件用的 Email 地址';
+$Definition['Outgoing Emails'] = '外發電子郵件';
 
-$Definition["On"] = "時間";
-$Definition["Only Allow Each User To Post"] = "只允許每個會員發送";
-$Definition["Only display on mobile browsers."] =
-    "僅顯示在行動版瀏覽器上。";
-$Definition[
-    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
-] =
-    '僅單複選框、單選下拉清單、多選下拉清單或數字下拉清單欄位可用。選擇欄位後，它們將顯示在下面，以便您可以為每個個人資料欄位選擇特定答案。';
-$Definition["Only Show Followed Categories"] = "僅顯示關注的類別";
-$Definition["Only visible to users with roles with permission."] =
-    "只有具授權角色的使用者能看到。";
-$Definition[
-    "Open cases will only display if the user has a valid Salesforce connection."
-] =
-    "只有當用戶具有有效的 Salesforce 連接時，才會顯示打開的案例。";
-$Definition["Operation By"] = "由";
-$Definition["Organization"] = "組織";
-$Definition["Organize"] = "整理";
-$Definition["Organize Categories"] = "整理分類";
-$Definition["Original Version"] = "原始版本";
-$Definition["Or select an image on your computer (2mb max)"] =
-    "或者從電腦中選擇一張圖片（最大2Mb）";
-$Definition["Or Spamblock For"] = "否則鎖定";
-$Definition["Other Themes"] = "其他主題";
-$Definition["Other Tutorials"] = "其他教學";
-$Definition["Outgoing Email"] = "外送郵件";
-$Definition["Outgoing Emails"] = "外發電子郵件";
-$Definition["Outgoing Email Address"] = "寄件用的 Email 地址";
+$Definition['Page Color'] = '頁面顏色';
+$Definition['Pageview ratio representing a deflected case'] = '代表偏斜情況的頁面瀏覽率';
+$Definition['Page Views'] = '頁面檢視';
+$Definition['Password Minimum Length'] = '密碼最小長度';
+$Definition['Password Options'] = '密碼選項';
+$Definition['Passwords'] = '密碼';
+$Definition['Past Events'] = '以往活動';
+$Definition['Permission'] = '權限';
+$Definition['Permission.Category'] = '分類';
+$Definition['Permissions'] = '權限';
+$Definition['permissions.admin'] = '管理';
+$Definition['permissions.communityManager'] = '社區經理';
+$Definition['permissions.everyone'] = '大家';
+$Definition['permissions.member'] = '成員';
+$Definition['permissions.moderator'] = '板主';
+$Definition['Personal Info'] = '個資';
+$Definition['Please Confirm'] = '請確認';
+$Definition['Please enter a unique API Label, this one has been used before'] = '請輸入一個唯一的 API 標籤，這個已經被使用過';
+$Definition['Plugin'] = '外掛';
+$Definition['Plugins'] = '外掛';
+$Definition['Points'] = '點數';
+$Definition['Polls'] = '投票';
+$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = '與舊版瀏覽器可能有相容性問題，影響使用者體驗。';
+$Definition['Post & Comment Editing'] = '貼文和評論編輯';
+$Definition['Posted by <0/> in <1/>'] = '由 <0/> 發佈於 <1/>';
+$Definition['Post External Links'] = '貼出外部連結';
+$Definition['Post Format'] = '貼文格式';
+$Definition['Posting'] = '貼文';
+$Definition['Posting Category Pages'] = '發布分類頁面';
+$Definition['Posting Settings'] = '發文設定';
+$Definition['Post Layout Settings'] = '貼文佈局設定';
+$Definition['Post Layout Version'] = '貼文版面版本';
+$Definition['Post Management'] = '職位管理';
+$Definition['Post Pages'] = '貼文頁面';
+$Definition['Post Rejected'] = '貼文被拒絕';
+$Definition['Post Revision'] = '修訂後';
+$Definition['Posts Matching Criteria Now: <0 />'] = '現在貼文符合標準：<0 />';
+$Definition['Posts per Page'] = '每頁貼文數';
+$Definition['Posts with any of the following keywords or phrases will required moderator approval.'] = '包含以下任何關鍵字或短語的貼文都需要版主批准。';
+$Definition['Preload'] = '預載';
+$Definition['Premoderated Categories'] = '預先審核的類別';
+$Definition['Premoderated Keywords'] = '預先審核的關鍵字';
+$Definition['Premoderated Roles'] = '預先審核的角色';
+$Definition['Premoderation Settings'] = '預審核設定';
+$Definition['Preview Color'] = '預覽顏色';
+$Definition['Preview Colors'] = '預覽色彩';
+$Definition['Preview Icon Pack'] = '預覽圖標包';
+$Definition['Previews'] = '預覽';
+$Definition['Previous Icons'] = '以前的圖標';
+$Definition['Previous Slides'] = '上一張投影片';
+$Definition['Previous versions of your icons can be found here and restored at any time.'] = '您可以在這裡找到並隨時恢復圖示的先前版本。';
+$Definition['Private Communities'] = '私人社區';
+$Definition['private conversation(s)'] = '私人對話';
+$Definition['Private Key'] = '私鑰';
+$Definition['Professional'] = '專業的';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = '應省略協議（例如 https://）和路徑（例如 yourdomain.com/some/path）。';
+$Definition['Provider'] = '提供者';
+$Definition['Public Key'] = '公鑰';
 
-$Definition["Page Color"] = "頁面顏色";
-$Definition["Page Views"] = "頁面檢視";
-$Definition["Pageview ratio representing a deflected case"] =
-    "代表偏斜情況的頁面瀏覽率";
-$Definition["Passwords"] = "密碼";
-$Definition["Password Options"] = "密碼選項";
-$Definition["Password Minimum Length"] = "密碼最小長度";
-$Definition["Past Events"] = "以往活動";
-$Definition["Permission"] = "權限";
-$Definition["Permission.Category"] = "分類";
-$Definition["Permissions"] = "權限";
-$Definition["permissions.everyone"] = "大家";
-$Definition["permissions.member"] = "成員";
-$Definition["permissions.moderator"] = "板主";
-$Definition["permissions.communityManager"] = "社區經理";
-$Definition["permissions.admin"] = "管理";
-$Definition["Personal Info"] = "個資";
-$Definition["Please Confirm"] = "請確認";
-$Definition["Please enter a unique API Label, this one has been used before"] =
-    "請輸入一個唯一的 API 標籤，這個已經被使用過";
-$Definition["Plugin"] = "外掛";
-$Definition["Plugins"] = "外掛";
-$Definition["Pocket"] = "Pocket";
-$Definition["Pockets"] = "Pockets";
-$Definition["Points"] = "點數";
-$Definition["Polls"] = "投票";
-$Definition[
-    "Possible compatibility problems with older browsers, affecting user experience."
-] =
-    "與舊版瀏覽器可能有相容性問題，影響使用者體驗。";
-$Definition["Post External Links"] = "貼出外部連結";
-$Definition["Posting Settings"] = "發文設定";
-$Definition["Preload"] = "預載";
-$Definition["Preview Colors"] = "預覽色彩";
-$Definition["Private Communities"] = "私人社區";
-$Definition["private conversation(s)"] = "私人對話";
-$Definition["Private Key"] = "私鑰";
-$Definition["Professional"] = "專業的";
-$Definition[
-    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
-] =
-    "應省略協議（例如 https://）和路徑（例如 yourdomain.com/some/path）。";
-$Definition["Provider"] = "提供者";
-$Definition["Public Key"] = "公鑰";
+$Definition['QnAFollowup.Feature.Enabled'] = '此功能將電子郵件發送給沒有被接受答案的已回答問題的作者。';
+$Definition['Question Pages'] = '問題頁面';
 
-$Definition["Rank Changes"] = "排名變化";
-$Definition["Ranks"] = "排名";
-$Definition["Read more in the documentation"] =
-    "閱讀文件中的更多內容";
-$Definition["Re-Register API Key"] = "重新註冊 API 金鑰";
-$Definition["Register IP"] = "註冊IP";
-$Definition["Reaction Types"] = "回應類型";
-$Definition["Recalculate Counts"] = "重新計數";
-$Definition["Recently Active Users"] = "最近活動會員";
-$Definition["Recently Commented"] = "最近評論";
-$Definition["Recently Added"] = "最近添加的";
-$Definition["Recent News"] = "最近新聞";
-$Definition["Recent Posts Layout Settings"] = "最近的帖子佈局設置";
-$Definition["Recent Posts Pages"] = "最近文章頁面";
-$Definition["Recent Posts Layout Version"] = "最近文章版面版本";
+$Definition['Rank Changes'] = '排名變化';
+$Definition['Ranks'] = '排名';
+$Definition['Re-Register API Key'] = '重新註冊 API 金鑰';
+$Definition['Reaction Types'] = '回應類型';
+$Definition['Read more in the documentation'] = '閱讀文件中的更多內容';
+$Definition['Recalculate Counts'] = '重新計數';
+$Definition['Recently Active Users'] = '最近活動會員';
+$Definition['Recently Added'] = '最近添加的';
+$Definition['Recently Commented'] = '最近評論';
+$Definition['Recent News'] = '最近新聞';
+$Definition['Recent Posts Layout Settings'] = '最近的帖子佈局設置';
+$Definition['Recent Posts Layout Version'] = '最近文章版面版本';
+$Definition['Recent Posts Pages'] = '最近文章頁面';
+$Definition['Recipient'] = '接受者';
+$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = '建議尺寸為 400 像素 x 300 像素或更小，比例相似。';
+$Definition['Record Content'] = '內容';
+$Definition['Refresh Comments'] = '更新評論';
+$Definition['Regenerate AI Suggestions'] = '重新產生人工智慧建議';
+$Definition['Regenerate Suggestions'] = '重新產生建議';
+$Definition['Register for Membership'] = '註冊會員';
+$Definition['Register IP'] = '註冊IP';
+$Definition['Register Url'] = '註冊網址';
+$Definition['Registration'] = '註冊';
+$Definition['Registration is currently closed.'] = '目前暫不接受用戶註冊。';
+$Definition['Reinterpret All Posts As %s'] = '將所有帖子重新解釋為 %s';
+$Definition['Reload the page to access recent updates.'] = '重新加載頁面以訪問最近的更新。';
+$Definition['Reload the page to see recent updates.'] = '重新加載頁面以查看最近的更新。';
+$Definition['Remove Banner Logo'] = '移除橫幅標誌';
+$Definition['Remove Email Logo'] = '移除電子郵件標誌';
+$Definition['Remove Favicon'] = '移除 Favicon';
+$Definition['Remove from collection'] = '從集合中刪除';
+$Definition['Remove from collection:'] = '從集合中刪除：';
+$Definition['Remove from default follow list'] = '從預設關注清單中刪除';
+$Definition['Remove from trigger collection'] = '從觸發器集合中刪除';
+$Definition['Remove Method'] = '刪除方法';
+$Definition['Remove Post'] = '刪除貼文';
+$Definition['Reorder'] = '重新排序';
+$Definition['Reorder Columns'] = '對列重新排序';
+$Definition['Reorder Report Reasons'] = '重新排序報告原因';
+$Definition['Repeat'] = '重複';
+$Definition['Repeat Every'] = '重複每一';
+$Definition['Replace Image'] = '取代圖檔';
+$Definition['Replacement Category'] = '替代類別';
+$Definition['Replacement Role'] = '替代職務';
+$Definition['Reply  To'] = '回覆：';
+$Definition['reply to private conversation(s)'] = '回覆私人對話';
+$Definition['report'] = '報告';
+$Definition['Report Dismissed'] = '報告被駁回';
+$Definition['Reported by <0/>'] = '報告人<0/>';
+$Definition['Report Reasons'] = '檢舉原因';
+$Definition['reports'] = '報告';
+$Definition['Reports for <0/>'] = '<0/> 的報告';
+$Definition['Request'] = '請求';
+$Definition['Requests'] = '要求';
+$Definition['Required field'] = '必填字段';
+$Definition['Requires'] = '需要';
+$Definition['Requires: '] = '需求: ';
+$Definition['Require Terms of Service'] = '要求使用者同意服務條款（建議）';
+$Definition['Require users to agree to the Terms of Service (recommended)'] = '要求使用者同意服務條款（建議）';
+$Definition['Require users to confirm their email addresses (recommended)'] = '（建議）要求用戶確認電郵位址';
+$Definition['Rescan'] = '重新掃描';
+$Definition['Reset'] = '重設';
+$Definition['Reset my password'] = '重設我的密碼';
+$Definition['Reset password and send email notification to user'] = '重設密碼並傳送通知郵件給使用者';
+$Definition['Resetting the password for %s.'] = '正在為 %s 重設密碼';
+$Definition['Reset to Default'] = '重置為默認';
+$Definition['Resolve All'] = '解決所有';
+$Definition['Resolve All Discussions'] = '解決所有討論';
+$Definition['Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics.'] = '解決所有帖子將解決社區中所有現有的帖子。此批次操作不會觸發 webhook 或分析。';
+$Definition['Resolve post'] = '解決貼文';
+$Definition['Restart'] = '重新啟動';
+$Definition['Reveal Password'] = '顯示密碼';
+$Definition['Revert'] = '恢復';
+$Definition['Revert to Original Version'] = '恢復為原始版本';
+$Definition['Revision Label:'] = '修訂標籤：';
+$Definition['RichEditor.QuoteEnable.Notes'] = '使用以下選項來啟用 Rich Editor 的引述。這僅在預設格式器為「Rich」時適用。';
+$Definition['ROI Calculation Documentation'] = '投資報酬率計算文檔';
+$Definition['Role'] = '角色';
+$Definition['Role Applicants'] = '角色申請者';
+$Definition['Role Name'] = '職務名稱';
+$Definition['Role Permissions'] = '角色允許';
+$Definition['RolePersonalInfo'] = '該角色是個人信息。只有具有查看個人信息權限的用戶才能看到它。';
+$Definition['Role Request Status'] = '狀態';
+$Definition['Roles & Permissions'] = '角色 & 權限';
+$Definition['Roles determine user\'s permissions.'] = '您網站上的每一位用戶都有一個指定職務；這個職務會決定這位用戶有哪些權限。';
+$Definition['Role to Grant'] = '核准職務';
+$Definition['Route'] = '路徑';
+$Definition['Routes'] = '轉送功能';
+$Definition['RSVP'] = '敬請回覆。';
+$Definition['Rule Action'] = '規則動作';
+$Definition['Rule may not be deleted while it is running'] = '規則運行時不能刪除';
+$Definition['Rule may not be edited while it is running'] = '規則運行時不得編輯';
+$Definition['Rule Name'] = '規則名稱';
+$Definition['Rules'] = '規則';
+$Definition['Rule status will apply once current run completes'] = '目前運行完成後，規則狀態將適用';
+$Definition['Rule Trigger'] = '規則觸發';
+$Definition['Running'] = '跑步';
+$Definition['Run structure & data scripts'] = '執行結構與資料程序';
 
-$Definition[
-    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
-] =
-    "建議尺寸為 400 像素 x 300 像素或更小，比例相似。";
-$Definition["Record Content"] = "內容";
-$Definition["Recipient"] = "接受者";
-$Definition["Refresh Comments"] = "更新評論";
-$Definition["Regenerate AI Suggestions"] = "重新產生人工智慧建議";
-$Definition["Regenerate Suggestions"] = "重新產生建議";
-$Definition["Register for Membership"] = "註冊會員";
-$Definition["Register Url"] = "註冊網址";
-$Definition["Registration"] = "註冊";
-$Definition["Registration is currently closed."] =
-    "目前暫不接受用戶註冊。";
-$Definition["Reload the page to see recent updates."] =
-    "重新加載頁面以查看最近的更新。";
-$Definition["Reload the page to access recent updates."] =
-    "重新加載頁面以訪問最近的更新。";
-$Definition["Remove Banner Logo"] = "移除橫幅標誌";
-$Definition["Remove Email Logo"] = "移除電子郵件標誌";
-$Definition["Remove Favicon"] = "移除 Favicon";
-$Definition["Reorder Columns"] = "對列重新排序";
-$Definition["Repeat"] = "重複";
-$Definition["Repeat Every"] = "重複每一";
-$Definition["Replace Image"] = "取代圖檔";
-$Definition["Replacement Category"] = "替代類別";
-$Definition["Replacement Role"] = "替代職務";
-$Definition["Reply  To"] = "回覆：";
-$Definition["reply to private conversation(s)"] =
-    "回覆私人對話";
-$Definition["Request"] = "請求";
-$Definition["Requests"] = "要求";
-$Definition["Requires"] = "需要";
-$Definition["Requires: "] = "需求: ";
-$Definition["Require Terms of Service"] =
-    "要求使用者同意服務條款（建議）";
-$Definition["Require users to confirm their email addresses (recommended)"] =
-    "（建議）要求用戶確認電郵位址";
-$Definition["Require users to agree to the Terms of Service (recommended)"] =
-    "要求使用者同意服務條款（建議）";
-$Definition["Rescan"] = "重新掃描";
-$Definition["Reset"] = "重設";
-$Definition["Reset my password"] = "重設我的密碼";
-$Definition["Reset password and send email notification to user"] =
-    "重設密碼並傳送通知郵件給使用者";
-$Definition["Reset to Default"] = "重置為默認";
-$Definition["Resetting the password for %s."] =
-    "正在為 %s 重設密碼";
-$Definition["Restart"] = "重新啟動";
-$Definition["Reveal Password"] = "顯示密碼";
-$Definition["Revert"] = "恢復";
-$Definition["Revert to Original Version"] = "恢復為原始版本";
-$Definition["Revision Label:"] = "修訂標籤：";
-$Definition["ROI Calculation Documentation"] = "投資報酬率計算文檔";
-$Definition["Role"] = "角色";
-$Definition["Assign to"] = "分配給";
-$Definition["Role Applicants"] = "角色申請者";
-$Definition["Role Name"] = "職務名稱";
-$Definition["Role Permissions"] = "角色允許";
-$Definition["RolePersonalInfo"] =
-    "該角色是個人信息。只有具有查看個人信息權限的用戶才能看到它。";
-$Definition["Roles & Permissions"] = "角色 & 權限";
-$Definition['Roles determine user\'s permissions.'] =
-    "您網站上的每一位用戶都有一個指定職務；這個職務會決定這位用戶有哪些權限。";
-$Definition["Role Request Status"] = "狀態";
-$Definition["Role to Grant"] = "核准職務";
-$Definition["Route"] = "路徑";
-$Definition["Routes"] = "轉送功能";
-$Definition["Rules"] = "規則";
-$Definition["Run structure & data scripts"] = "執行結構與資料程序";
-$Definition["RSVP"] = "敬請回覆。";
+$Definition['Save Captured Definitions'] = '儲存已擷取之定義';
+$Definition['Save challenge cutoff age'] = '保存挑戰截止年齡';
+$Definition['Save Colors'] = '儲存顏色';
+$Definition['Score Count'] = '分數計數';
+$Definition['Search and select one or more roles to receive this email'] = '搜尋並選擇一個或多個職位以接收此電子郵件';
+$Definition['Search and select one or more users to receive this email.'] = '搜尋並選擇一個或多個使用者接收此電子郵件。';
+$Definition['Search by user or role.'] = '透過姓名或電子郵件來搜尋使用者，可選擇使用％作為萬用符號。您也可以用使用者ID、角色名稱或“banned”來進行搜尋。';
+$Definition['Search Query'] = '搜尋查詢';
+$Definition['Search Result In New Tab'] = '在新標籤中搜尋結果';
+$Definition['Search results of members'] = '會員搜索結果';
+$Definition['SearchScope.Everywhere'] = '所有位置';
+$Definition['seconds'] = '秒';
+$Definition['Security'] = '安全性';
+$Definition['See also'] = '也可參見';
+$Definition['See documentation for more information.'] = '請參閱文件以取得更多資訊。';
+$Definition['See link'] = '查看連結';
+$Definition['Select'] = '選擇';
+$Definition['Select a category'] = '選擇一個類別';
+$Definition['Selection will affect the item options available.'] = '選擇將影響可用的項目選項。';
+$Definition['Select Roles'] = '選擇角色';
+$Definition['Select the action that will occur when this rule is triggered.'] = '選擇觸發此規則時將發生的操作。';
+$Definition['Select the email template to send.'] = '選擇要傳送的電子郵件範本。';
+$Definition['Select the location of the pocket.'] = '請選擇pocket的位置。';
+$Definition['Select the trigger that will cause this rule to run.'] = '選擇將導致此規則運行的觸發器。';
+$Definition['Select User'] = '選擇用戶';
+$Definition['Select which columns are displayed on the manage users page list.'] = '選擇在管理用戶頁面列表上顯示哪些列。';
+$Definition['Send %s a Message'] = '發送訊息給 %s';
+$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = '如果有人透過電子郵件問問題、或是開啟新的討論串，則送出一封確認信件。';
+$Definition['Send Again'] = '重新發送';
+$Definition['Send an Email After This Rule Runs'] = '此規則運行後發送電子郵件。';
+$Definition['Send a Test Email'] = '寄出測試信';
+$Definition['Send email'] = '傳送電子郵件';
+$Definition['Send email to user'] = '向使用者發送電子郵件';
+$Definition['Send Invitations!'] = '傳送邀請函！';
+$Definition['Send Test Digest'] = '發送測試摘要';
+$Definition['Send Test Email Digest'] = '發送測試電子郵件摘要';
+$Definition['Send the email'] = '傳送電子郵件';
+$Definition['Send users a welcome email.'] = '發送歡迎信給使用者。';
+$Definition['sentiment'] = '情緒';
+$Definition['Sent To'] = '發送給';
+$Definition['Separate each word with a semi-colon ";"'] = '用分號 ";" 來區隔每個字';
+$Definition['Set as Active'] = '設定為活動';
+$Definition['Set as default layout for all <0 />.'] = '設定為所有 <0 /> 的預設佈局。';
+$Definition['Set as default layout for specific knowledge bases.'] = '設定為特定知識庫的預設佈局。';
+$Definition['Set as default layout for specific subcommunities.'] = '設定為特定子社區的預設佈局。';
+$Definition['Set Post Visibility to Hidden'] = '將帖子可見性設定為隱藏';
+$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = '將此興趣設為預設值，以建議所有使用者遵循其對應的類別和標籤。';
+$Definition['Set trigger variable and action variable to generate a rule summary.'] = '設定觸發變數和操作變數以產生規則摘要。';
+$Definition['Share Image'] = '分享影像';
+$Definition['Show'] = '展示';
+$Definition['Show all categories'] = '顯示所有類別';
+$Definition['Show an uploaded image on the Category page.'] = '每項討論都會在分類頁面上顯示一張上傳畫面。這只套用在以「顯示為」作為「討論」的分類。';
+$Definition['Show Badges'] = '顯示徽章';
+$Definition['Show Dismissed Suggestions'] = '顯示已駁回的建議';
+$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = '向每個用戶顯示他們創建或贊成的想法的個性化列表。';
+$Definition['Show OP Indicator'] = '顯示 OP 指標';
+$Definition['Show Original Suggestions'] = '顯示原始建議';
+$Definition['Show Pocket Locations'] = '顯示Pocket位置';
+$Definition['Show Suggestions'] = '顯示建議';
+$Definition['Show users\' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking.'] = '在每個貼文上顯示用戶的徽章。最多可依最高排名順序顯示 5 個徽章。';
+$Definition['Signatures'] = '簽名';
+$Definition['SignedOut'] = '您已登出。';
+$Definition['Sign In Url'] = '登入網址';
+$Definition['since'] = '自從';
+$Definition['Site Description'] = '網站說明';
+$Definition['Site Name'] = '網站名稱';
+$Definition['Skip to end of Carousel'] = '跳至輪播末尾';
+$Definition['Slug'] = '代稱';
+$Definition['SMTP Host'] = 'SMTP 主機';
+$Definition['SMTP Password'] = 'SMTP 密碼';
+$Definition['SMTP Port'] = 'SMTP 連接埠';
+$Definition['SMTP Security'] = 'SMTP 安全';
+$Definition['SMTP User'] = 'SMTP 會員';
+$Definition['Social Connect'] = '社交媒體';
+$Definition['Social Connect Addons'] = '社交連接附加功能';
+$Definition['Sort Order'] = '排序';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = '此處選擇的來源將可供 AI 建議答案使用。';
+$Definition['Spam Detection'] = '垃圾郵件偵測';
+$Definition['Specific Roles'] = '具體角色';
+$Definition['Specific Users'] = '特定用戶';
+$Definition['Specify one domain per line. Use * for wildcard matches.'] = '每行指定 1 個網域。使用 * 做為通用匹配字元。';
+$Definition['Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.'] = '請花些時間思考一下如何介紹您的網站。給網站一個有意義的名稱、以及簡潔有力的介紹，對搜尋引擎排名是有幫助的。';
+$Definition['Spoof'] = '偽裝';
+$Definition['SSO Role'] = 'SSO角色';
+$Definition['SSO roles are always passed through SSO.'] = 'SSO角色始終通過SSO傳遞。';
+$Definition['Start Discussions'] = '開始討論';
+$Definition['Start Private Conversations'] = '開始私人對話';
+$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = '使用外觀 > 品牌和 SEO 中設定的 [橫幅標題] 開始摘要主題行';
+$Definition['Start typing username'] = '開始輸入使用者名稱';
+$Definition['State'] = '州';
+$Definition['Statistics'] = '統計';
+$Definition['Status on Creation'] = '創作狀態';
+$Definition['Strip Embeds'] = '拆除元素嵌入';
+$Definition['Style'] = '樣式';
+$Definition['Style Guides'] = '風格指南';
+$Definition['Styles'] = '樣式';
+$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = '所有電子郵件的樣式和整體視覺外觀（包括電子郵件摘要）均在「電子郵件設定」頁面上在網站範圍內設定。';
+$Definition['Subcommunity'] = '子社區';
+$Definition['Subject Line and Title'] = '主題行和標題';
+$Definition['subscribers'] = '訂戶';
+$Definition['Suggested Answers Options'] = '建議答案選項';
+$Definition['Suggested Content'] = '建議內容';
+$Definition['Suggested Discussion Title'] = '建議的討論標題';
+$Definition['Suggested Follows'] = '建議關注';
+$Definition['Suggestions are only visible to you until you accept the answer'] = '在您接受答案之前，建議僅對您可見';
+$Definition['Suggestions may only be generated on questions'] = '只能針對問題產生建議';
+$Definition['Summary'] = '概括';
+$Definition['System email templates cannot be deleted.'] = '系統郵件模板無法刪除。';
+$Definition['System Icon'] = '系統圖示';
 
-$Definition["Save Captured Definitions"] = "儲存已擷取之定義";
-$Definition["Save Colors"] = "儲存顏色";
-$Definition["Score Count"] = "分數計數";
-$Definition["Search by user or role."] =
-    "透過姓名或電子郵件來搜尋使用者，可選擇使用％作為萬用符號。您也可以用使用者ID、角色名稱或“banned”來進行搜尋。";
-$Definition["Search Result In New Tab"] = "在新標籤中搜尋結果";
-$Definition["Search results of members"] = "會員搜索結果";
-$Definition["Search Query"] = "搜尋查詢";
-$Definition["SearchScope.Everywhere"] = "所有位置";
-$Definition["seconds"] = "秒";
-$Definition["Security"] = "安全性";
-$Definition["See also"] = "也可參見";
-$Definition["See link"] = "查看連結";
-$Definition["Select"] = "選擇";
-$Definition["Select a category"] = "選擇一個類別";
-$Definition["Select the location of the pocket."] =
-    "請選擇pocket的位置。";
-$Definition[
-    "Select which columns are displayed on the manage users page list."
-] = "選擇在管理用戶頁面列表上顯示哪些列。";
-$Definition["Selection will affect the item options available."] =
-    "選擇將影響可用的項目選項。";
-$Definition["Send %s a Message"] = "發送訊息給 %s";
-$Definition[
-    "Send a confirmation email when people ask a question or start a discussion over email."
-] =
-    "如果有人透過電子郵件問問題、或是開啟新的討論串，則送出一封確認信件。";
-$Definition["Send Again"] = "重新發送";
-$Definition["Send a Test Email"] = "寄出測試信";
-$Definition["Send Test Digest"] = "發送測試摘要";
-$Definition["Send Test Email Digest"] = "發送測試電子郵件摘要";
-$Definition["Send Invitations!"] = "傳送邀請函！";
-$Definition["Send users a welcome email."] = "發送歡迎信給使用者。";
-$Definition["Sent To"] = "發送給";
-$Definition['Separate each word with a semi-colon ";"'] =
-    '用分號 ";" 來區隔每個字';
-$Definition[
-    "Set this interest as default to suggest following its mapped categories and tags to all users."
-] =
-    "將此興趣設為預設值，以建議所有使用者遵循其對應的類別和標籤。";
-$Definition["Share Image"] = "分享影像";
-$Definition["Show all categories"] = "顯示所有類別";
-$Definition["Show Dismissed Suggestions"] = "顯示已駁回的建議";
-$Definition["Show Pocket Locations"] = "顯示Pocket位置";
-$Definition[
-    "Show each user a personalized list of ideas they’ve created or upvoted."
-] = "向每個用戶顯示他們創建或贊成的想法的個性化列表。";
-$Definition["Show Original Suggestions"] = "顯示原始建議";
-$Definition["Show Suggestions"] = "顯示建議";
-$Definition["Signatures"] = "簽名";
-$Definition["SignedOut"] = "您已登出。";
-$Definition["Sign In Url"] = "登入網址";
-$Definition["Site Description"] = "網站說明";
-$Definition["Site Name"] = "網站名稱";
-$Definition["Slug"] = "代稱";
-$Definition["SMTP Host"] = "SMTP 主機";
-$Definition["SMTP Password"] = "SMTP 密碼";
-$Definition["SMTP Port"] = "SMTP 連接埠";
-$Definition["SMTP Security"] = "SMTP 安全";
-$Definition["SMTP User"] = "SMTP 會員";
-$Definition["Social Connect"] = "社交媒體";
-$Definition["Social Connect Addons"] = "社交連接附加功能";
-$Definition["Sort Order"] = "排序";
-$Definition[
-    "Sources that are selected here will be available to AI Suggested Answers."
-] = "此處選擇的來源將可供 AI 建議答案使用。";
-$Definition["Specify one domain per line. Use * for wildcard matches."] =
-    "每行指定 1 個網域。使用 * 做為通用匹配字元。";
-$Definition["Spoof"] = "偽裝";
-$Definition["SSO Role"] = "SSO角色";
-$Definition["SSO roles are always passed through SSO."] =
-    "SSO角色始終通過SSO傳遞。";
-$Definition["Start Discussions"] = "開始討論";
-$Definition["Start Private Conversations"] = "開始私人對話";
-$Definition[
-    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
-] =
-    "使用外觀 > 品牌和 SEO 中設定的 [橫幅標題] 開始摘要主題行";
-$Definition["Start typing username"] = "開始輸入使用者名稱";
-$Definition["State"] = "州";
-$Definition["Statistics"] = "統計";
-$Definition["Strip Embeds"] = "拆除元素嵌入";
-$Definition["Strip Embeds"] = "拆除元素嵌入";
-$Definition["Style"] = "樣式";
-$Definition["Styles"] = "樣式";
-$Definition[
-    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
-] =
-    "所有電子郵件的樣式和整體視覺外觀（包括電子郵件摘要）均在「電子郵件設定」頁面上在網站範圍內設定。";
-$Definition["Subcommunity"] = "子社區";
-$Definition["Subject Line and Title"] = "主題行和標題";
-$Definition["subscribers"] = "訂戶";
-$Definition["Suggested Answers Options"] = "建議答案選項";
-$Definition["Suggested Content"] = "建議內容";
-$Definition["Suggested Discussion Title"] = "建議的討論標題";
-$Definition["Suggested Follows"] = "建議關注";
-$Definition["Suggestions are only visible to you until you accept the answer"] =
-    "在您接受答案之前，建議僅對您可見";
-$Definition["Suggestions may only be generated on questions"] =
-    "只能針對問題產生建議";
-
-$Definition["Table Layout"] = "表格樣式";
-$Definition["take away"] = "帶走";
-$Definition["Target All Users"] = "定位所有用戶";
-$Definition["Target Users"] = "目標用戶";
-$Definition["Technical"] = "技術性";
-$Definition["Technical Jargon"] = "技術術語";
-$Definition["Templates"] = "範本";
-$Definition["Temporary (302)"] = "臨時移動 (302)";
-$Definition["Test Email"] = "測試信";
-$Definition["Test Digest"] = "測試文摘";
-$Definition["Test email from %s"] = "由 %s 送出的測試電子郵件";
-$Definition["Test Email Message"] = '<p>這是一封測試 email 訊息。</p>
+$Definition['Table Layout'] = '表格樣式';
+$Definition['take away'] = '帶走';
+$Definition['Target All Users'] = '定位所有用戶';
+$Definition['Target Users'] = '目標用戶';
+$Definition['Technical'] = '技術性';
+$Definition['Technical Jargon'] = '技術術語';
+$Definition['Tell the editor to reinterpret all old posts as %s.'] = '告訴編輯器將所有舊帖子重新解釋為 %s。';
+$Definition['template name'] = '模板名稱';
+$Definition['Templates'] = '範本';
+$Definition['Template Styles'] = '模板樣式';
+$Definition['Temporary (302)'] = '臨時移動 (302)';
+$Definition['Test Digest'] = '測試文摘';
+$Definition['Test Email'] = '測試信';
+$Definition['Test email from %s'] = '由 %s 送出的測試電子郵件';
+$Definition['Test Email Message'] = '<p>這是一封測試 email 訊息。</p>
 
 <p>您可以從儀表板前往 Email 頁面來設定您的論壇 email 外觀。</p>';
-$Definition["Test Mode"] =
-    "測試模式：只有pocket管理者才能看到pocket顯示。";
-$Definition["Test URL"] = "測試網址";
-$Definition["Text Color"] = "文字顏色";
-$Definition["TextEnterEmails"] =
-    "輸入以逗點分隔的多個電郵位址";
-$Definition["The %s badge has already been given to %s."] =
-    "%s徽章已經授予%s。";
-$Definition["The %s locale pack does not exist."] =
-    "%s語言包不存在。";
-$Definition["The %s table is not in the correct format."] =
-    "%s表格的格式不正確。";
-$Definition["The %s was already approved by %s on %s."] =
-    "%s已經由%s在%s核可。";
-$Definition["Thanks for sticking with us for a full year."] =
-    "感謝陪伴我們度過一整年。";
-$Definition["Thanks for sticking with us for %s years."] =
-    "感謝陪伴我們度過 %s 年。";
-$Definition["The Basics"] = "基本知識";
-$Definition["The client ID uniqely identifies the site."] =
-    "客戶ID是辨識這個網站的專屬資訊，您可以利用本網頁底部的按鈕來產生新的識別ID。";
-$Definition["The content you were looking for has been deleted."] =
-    "您想看的內容已被刪除。";
-$Definition[
-    "The default banner image across the site. This can be overridden on a per category basis."
-] =
-    "整個站點的默認橫幅圖像。這可以在每個類別的基礎上被覆蓋。";
-$Definition["The default role has not been configured."] =
-    "預設職務還沒有經過設定。";
-$Definition["The email address this test will be sent to."] =
-    "此測試將發送到的電子郵件地址。";
-$Definition["The email has been sent."] = "電子郵件已被送出。";
-$Definition["The first line of content in the email digest after the title."] =
-    "電子郵件摘要中標題後的第一行內容。";
-$Definition["The homepage title is displayed on your home page."] =
-    "首頁標題已經顯示在首頁上，請選用一個您希望出現在搜尋引擎上的標題。";
-$Definition["The homepage was saved successfully."] =
-    "首頁已經儲存成功。";
-$Definition["The invitation was removed successfully."] =
-    "邀請已經成功刪除.";
-$Definition["The invitation was sent successfully."] =
-    "成功寄出邀請。";
-$Definition["The Key in the XML payload to designate %s."] =
-    "XML有效負載中的密鑰，用於指定%s。";
-$Definition[
-    "The test digest will generate content as if it were this user receiving the digest."
-] =
-    "測試摘要將生成內容，就好像該用戶接收摘要一樣。";
-$Definition["Theme Editor"] = "主題編輯器";
-$Definition["Theme Options"] = "主題選項";
-$Definition["Themes"] = "主題";
-$Definition["ThemeEditor.Copy"] = "<0/> 複製";
-$Definition["Theming Documentation"] = "主題化文件";
-$Definition["Theming Overview"] = "主題概觀";
-$Definition[
-    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
-] =
-    '上傳圖片時出現錯誤。您上傳的 email 標誌可為下列檔案類型：gif、jpg、png。';
-$Definition["There are currently no applicants."] =
-    "目前沒有任何人申請新帳號。";
-$Definition["There is currently %s applicant."] =
-    "目前有 %s 申請者。";
-$Definition["There are currently %s applicants."] =
-    "目前有 %s 申請者。";
-$Definition["There are currently no requests."] =
-    "目前沒有要求。";
-$Definition["There is currently %s request."] =
-    "目前有 %s 要求。";
-$Definition["There are currently %s requests."] =
-    "目前有 %s 要求。";
-$Definition["There are no items awaiting moderation at this time."] =
-    "目前沒有任何項目等待審閱。";
-$Definition[
-    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
-] =
-    "已經有其他帳號使用了您的電郵位址。請建立新的帳號、或是輸入該帳號的登入資料。";
-$Definition["The next three email digest delivery dates"] =
-    "接下來的三個電子郵件摘要發送日期";
-$Definition["The secret secures the sign in process."] =
-    "密鑰資料能確保登入程序安全，請不要將<b>密鑰</b>交給任何人。";
-$Definition["The site description usually appears in search engines."] =
-    "網站描述資料通常會出現在搜尋引擎中，請提供長度約為100至150字的內容。";
-$Definition["The site is currently undergoing scheduled maintenance."] =
-    "本網站目前正在進行定期維護之中。";
-$Definition["The specified url code is already in use by another category."] =
-    "指定的網址編碼已經由另一個分類使用中。";
-$Definition["The structure was successfully executed."] =
-    "此結構已經成功執行。";
-$Definition["The update was not successful."] =
-    "更新失敗。";
-$Definition["The update was successful."] = "更新成功。";
-$Definition["The url that users go to to register for a new account."] =
-    "使用者用來註冊帳號的網址。";
-$Definition["The url that users use to register for a new account."] =
-    "使用者用來註冊帳號的網址。";
-$Definition["The url that users use to sign in."] =
-    "使用者用來登入的網址。";
-$Definition["The URL where users can sign up for new accounts on your site"] =
-    "使用者能夠在您網站上註冊新帳號的網址。";
-$Definition["The URL where users sign in on your site"] =
-    "使用者用來登入您的網站的網址。";
-$Definition["The URL where users sign out of your site"] =
-    "使用者用來登出您的網站的網址。";
-$Definition["The user and all related content has been deleted."] =
-    "使用者與所有相關的內容以被刪除。";
-$Definition["The user content will be completely deleted."] =
-    "使用者內容已被刪除。";
-$Definition["The user content will remain untouched."] =
-    "將不會修改使用者內容。";
-$Definition["The user has been created successfully"] =
-    "已成功建立使用者";
-$Definition["The user has been deleted."] = "已刪除使用者。";
-$Definition["This action cannot be undone."] = "這個動作無法取消。";
-$Definition[
-    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
-] =
-    "除了使用 AdSense 和 Google 追蹤程式碼管理員等功能的網站之外，大多數網站都不需要這樣做。";
-$Definition[
-    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
-] =
-    "這是人工智慧從引用的討論貼文中產生的摘要，可能會回答這個問題。摘要的創建方式是為了將其用作可接受的答案。";
-$Definition["This category has custom permissions."] =
-    "這個分類使用了自訂的權限。";
-$Definition["This category is archived."] = "這個分類已經封存。";
-$Definition["This connection is in test-mode."] =
-    "目前的連線是在測試模式之下。";
-$Definition["This controls how the responses are phrased and spelled."] =
-    "這控制著回應的措辭和拼寫方式。";
-$Definition["This Database"] = "此資料庫";
-$Definition["QnAFollowup.Feature.Enabled"] =
-    "此功能將電子郵件發送給沒有被接受答案的已回答問題的作者。";
-$Definition["This forum is currently set to invitation only mode."] =
-    "討論版目前設定為僅允許受邀人士進入的模式。";
-$Definition[
-    'This image will be used in category lists and widgets when using the "Icon" style option.'
-] =
-    '當使用「圖示」樣式選項時，此圖像將用於類別清單和小工具。';
-$Definition[
-    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
-] =
-    '當使用「圖像」和/或「背景」樣式選項時，此圖像將出現在該類別的橫幅及類別小工具中。推薦的尺寸為 1000 x 400 畫素或類似的比例。';
-$Definition["This is a parent category that does not allow discussions."] =
-    "這個上層分類不開放討論功能。";
-$Definition['This is the first time you\'ve visited the discussion forums.'] =
-    '這是您第一次造訪討論版。';
-$Definition[
-    "This may be used to include content such as organization name and address in the email digest."
-] =
-    "這可用於在電子郵件摘要中包含諸如組織名稱和地址之類的內容。";
-$Definition["This name will be shown in the community."] =
-    "該名稱將顯示在社區中。";
-$Definition["This page requires Javascript."] =
-    "本頁需要 Javascript。";
-$Definition["This pocket is an ad."] = "這個pocket的內容是廣告。";
-$Definition[
-    "This theme cannot be deleted because it is the currently applied theme"
-] = "無法刪除該主題，因為它是目前套用的主題。";
-$Definition["This theme has additional options."] =
-    "這個視覺主題在%s頁面上有額外的設定選項。";
-$Definition["This theme has customizable text."] =
-    "這個視覺主題有可以自訂內容的文字。";
-$Definition[
-    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
-] =
-    "這將引導其他有類似問題的用戶更快找到正確答案，並將顯示人工智慧建議答案並連結參考資料供其他用戶查看。只有在您接受答案之前，您才能看到建議。";
-$Definition["Threshold"] = "界限";
-$Definition["Thumbnails"] = "縮圖";
-$Definition["Thumbnail Size"] = "縮圖尺寸";
-$Definition["Time"] = "時間";
-$Definition["Timeframe"] = "大體時間";
-$Definition["Titles"] = "標題";
-$Definition["Title Color"] = "標題顏色";
-$Definition["Title Color (Hover)"] = "標題顏色（懸停）";
-$Definition["Token Name"] = "標記名稱";
-$Definition["Touch Icon"] = "觸碰圖標";
-$Definition["True"] = "真的";
-$Definition["Truncate the initial discussion text to this many words."] =
-    "將初步討論文本縮短成這麼多的字數。";
-$Definition["trusted domains"] = "受信任的網域";
-$Definition["Trusted Domains"] = "信賴網域";
-$Definition["Turn OFF"] = "關閉";
-$Definition["Turn off AI Suggested Answers"] = "關閉 AI 建議答案";
-$Definition["Turn off for now"] = "暫時關閉";
-$Definition["Twitter Connector"] = "Twitter 連接器";
+$Definition['Test Mode'] = '測試模式：只有pocket管理者才能看到pocket顯示。';
+$Definition['Test URL'] = '測試網址';
+$Definition['Text Color'] = '文字顏色';
+$Definition['TextEnterEmails'] = '輸入以逗點分隔的多個電郵位址';
+$Definition['Thanks for sticking with us for %s years.'] = '感謝陪伴我們度過 %s 年。';
+$Definition['Thanks for sticking with us for a full year.'] = '感謝陪伴我們度過一整年。';
+$Definition['The %s badge has already been given to %s.'] = '%s徽章已經授予%s。';
+$Definition['The %s locale pack does not exist.'] = '%s語言包不存在。';
+$Definition['The %s table is not in the correct format.'] = '%s表格的格式不正確。';
+$Definition['The %s was already approved by %s on %s.'] = '%s已經由%s在%s核可。';
+$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = '啟用規則後，該操作將應用於他們。將來，其他滿足觸發條件的 <0 /> 也將套用該操作。';
+$Definition['The action will be applied to only them if you proceed.'] = '如果您繼續，該操作將僅應用於他們。';
+$Definition['The Basics'] = '基本知識';
+$Definition['The client ID uniqely identifies the site.'] = '客戶ID是辨識這個網站的專屬資訊，您可以利用本網頁底部的按鈕來產生新的識別ID。';
+$Definition['The content you were looking for has been deleted.'] = '您想看的內容已被刪除。';
+$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = '整個站點的默認橫幅圖像。這可以在每個類別的基礎上被覆蓋。';
+$Definition['The default role has not been configured.'] = '預設職務還沒有經過設定。';
+$Definition['The email address this test will be sent to.'] = '此測試將發送到的電子郵件地址。';
+$Definition['The email has been sent.'] = '電子郵件已被送出。';
+$Definition['The first line of content in the email digest after the title.'] = '電子郵件摘要中標題後的第一行內容。';
+$Definition['The homepage title is displayed on your home page.'] = '首頁標題已經顯示在首頁上，請選用一個您希望出現在搜尋引擎上的標題。';
+$Definition['The homepage was saved successfully.'] = '首頁已經儲存成功。';
+$Definition['The invitation was removed successfully.'] = '邀請已經成功刪除.';
+$Definition['The invitation was sent successfully.'] = '成功寄出邀請。';
+$Definition['The Key in the XML payload to designate %s.'] = 'XML有效負載中的密鑰，用於指定%s。';
+$Definition['Theme Editor'] = '主題編輯器';
+$Definition['ThemeEditor.Copy'] = '<0/> 複製';
+$Definition['Theme Options'] = '主題選項';
+$Definition['Themes'] = '主題';
+$Definition['Theming Documentation'] = '主題化文件';
+$Definition['Theming Overview'] = '主題概觀';
+$Definition['The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>.'] = '新的社群管理系統允許自訂報告原因、升級、任務分配和自動化規則。啟用此功能可改變報告攝取量以使用新系統。 <0>閱讀更多</0>。';
+$Definition['The next three email digest delivery dates'] = '接下來的三個電子郵件摘要發送日期';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = '上傳圖片時出現錯誤。您上傳的 email 標誌可為下列檔案類型：gif、jpg、png。';
+$Definition['There are currently %s applicants.'] = '目前有 %s 申請者。';
+$Definition['There are currently %s requests.'] = '目前有 %s 要求。';
+$Definition['There are currently no applicants.'] = '目前沒有任何人申請新帳號。';
+$Definition['There are currently no comments on this post'] = '此文章目前沒有評論';
+$Definition['There are currently no reports for this post.'] = '目前沒有關於此帖子的報告。';
+$Definition['There are currently no requests.'] = '目前沒有要求。';
+$Definition['There are no items awaiting moderation at this time.'] = '目前沒有任何項目等待審閱。';
+$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = '已經有其他帳號使用了您的電郵位址。請建立新的帳號、或是輸入該帳號的登入資料。';
+$Definition['There is currently %s applicant.'] = '目前有 %s 申請者。';
+$Definition['There is currently %s request.'] = '目前有 %s 要求。';
+$Definition['There was an error fetching the connection data.'] = '取得連線資料時發生錯誤。';
+$Definition['There was an error saving your changes. Please try again.'] = '保存更改時出錯。請再試一次。';
+$Definition['The roles which can see this report reason.'] = '可以看到該報告原因的角色。';
+$Definition['The secret secures the sign in process.'] = '密鑰資料能確保登入程序安全，請不要將<b>密鑰</b>交給任何人。';
+$Definition['The site description usually appears in search engines.'] = '網站描述資料通常會出現在搜尋引擎中，請提供長度約為100至150字的內容。';
+$Definition['The site does not allow you to connect with an existing user.'] = '網站不允許您與現有用戶連線。';
+$Definition['The site is currently undergoing scheduled maintenance.'] = '本網站目前正在進行定期維護之中。';
+$Definition['The specified url code is already in use by another category.'] = '指定的網址編碼已經由另一個分類使用中。';
+$Definition['The structure was successfully executed.'] = '此結構已經成功執行。';
+$Definition['The test digest will generate content as if it were this user receiving the digest.'] = '測試摘要將生成內容，就好像該用戶接收摘要一樣。';
+$Definition['The update was not successful.'] = '更新失敗。';
+$Definition['The update was successful.'] = '更新成功。';
+$Definition['The url that users go to to register for a new account.'] = '使用者用來註冊帳號的網址。';
+$Definition['The url that users use to register for a new account.'] = '使用者用來註冊帳號的網址。';
+$Definition['The url that users use to sign in.'] = '使用者用來登入的網址。';
+$Definition['The URL where users can sign up for new accounts on your site'] = '使用者能夠在您網站上註冊新帳號的網址。';
+$Definition['The URL where users sign in on your site'] = '使用者用來登入您的網站的網址。';
+$Definition['The URL where users sign out of your site'] = '使用者用來登出您的網站的網址。';
+$Definition['The user and all related content has been deleted.'] = '使用者與所有相關的內容以被刪除。';
+$Definition['The user content will be completely deleted.'] = '使用者內容已被刪除。';
+$Definition['The user content will remain untouched.'] = '將不會修改使用者內容。';
+$Definition['The user has been created successfully'] = '已成功建立使用者';
+$Definition['The user has been deleted.'] = '已刪除使用者。';
+$Definition['The username you entered has already been taken.'] = '您輸入的使用者名稱已被使用。';
+$Definition['This action cannot be undone.'] = '這個動作無法取消。';
+$Definition['This category has custom permissions.'] = '這個分類使用了自訂的權限。';
+$Definition['This category is archived.'] = '這個分類已經封存。';
+$Definition['This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.'] = '此顏色將用於預覽圖示顏色。它將取代您上傳的圖示中的任何 #000000 的使用。在實際應用中，顏色會動態變化。';
+$Definition['This connection is in test-mode.'] = '目前的連線是在測試模式之下。';
+$Definition['This controls how the responses are phrased and spelled.'] = '這控制著回應的措辭和拼寫方式。';
+$Definition['This Database'] = '此資料庫';
+$Definition['This forum is currently set to invitation only mode.'] = '討論版目前設定為僅允許受邀人士進入的模式。';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = '當使用「圖像」和/或「背景」樣式選項時，此圖像將出現在該類別的橫幅及類別小工具中。推薦的尺寸為 1000 x 400 畫素或類似的比例。';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = '當使用「圖示」樣式選項時，此圖像將用於類別清單和小工具。';
+$Definition['This information will only be shown to users with permission to view internal info'] = '此信息只會顯示給有權查看內部信息的用戶';
+$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = '這是人工智慧從引用的討論貼文中產生的摘要，可能會回答這個問題。摘要的創建方式是為了將其用作可接受的答案。';
+$Definition['This is a parent category that does not allow discussions.'] = '這個上層分類不開放討論功能。';
+$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = '除了使用 AdSense 和 Google 追蹤程式碼管理員等功能的網站之外，大多數網站都不需要這樣做。';
+$Definition['This is private information and will not be shared with other members.'] = '這是私人信息，不會與其他成員共享。';
+$Definition['This is the actual size most icons render at.'] = '這是大多數圖示呈現的實際尺寸。';
+$Definition['This is the first time you\'ve visited the discussion forums.'] = '這是您第一次造訪討論版。';
+$Definition['This layout cannot be deleted because it is a layout template.'] = '該佈局無法刪除，因為它是佈局模板。';
+$Definition['This layout cannot be deleted because it is currently applied.'] = '此佈局目前已套用，因此無法刪除。';
+$Definition['This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.'] = '直到您在 <1/> 頁面中將社群切換為自訂 <0/> 時，此版面配置變更才會顯示出來。';
+$Definition['This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default.'] = '此佈局是一個模板，並被指定為所有此類型頁面的預設佈局。若要將其從預設佈局中刪除或將其指派給特定頁面，您必須指定不同的佈局作為預設佈局。';
+$Definition['This may be used to include content such as organization name and address in the email digest.'] = '這可用於在電子郵件摘要中包含諸如組織名稱和地址之類的內容。';
+$Definition['This name will be shown in the community.'] = '該名稱將顯示在社區中。';
+$Definition['This option is to normalize the editor format'] = '此選項用於規範編輯器格式，如果加載了使用另一種格式（例如 markdown 或 BBCode）編輯的舊帖子，則此選項將強制使用 %s。';
+$Definition['This page requires Javascript.'] = '本頁需要 Javascript。';
+$Definition['This pocket is an ad.'] = '這個pocket的內容是廣告。';
+$Definition['This setting must be enabled to use Custom Discussion Threads.'] = '必須啟用此設定才能使用自訂討論線程。';
+$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = '此設置僅在 %s 被選為上面的帖子格式時才會生效。';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = '無法刪除該主題，因為它是目前套用的主題。';
+$Definition['This theme has additional options.'] = '這個視覺主題在%s頁面上有額外的設定選項。';
+$Definition['This theme has customizable text.'] = '這個視覺主題有可以自訂內容的文字。';
+$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = '這將代表 Zoom 整合所有者建立 Zoom 會議，如果您是註冊用戶，請將您新增為共同主持人。如果您不是 Zoom 註冊用戶或不屬於設定整合的組織，則在沒有主持人的情況下，此活動的 Zoom 功能可能會受到限制。';
+$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = '這將引導其他有類似問題的用戶更快找到正確答案，並將顯示人工智慧建議答案並連結參考資料供其他用戶查看。只有在您接受答案之前，您才能看到建議。';
+$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = '這目前不會影響任何<0 />。它將影響那些未來符合標準的人。';
+$Definition['This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?'] = '這將解決社區中所有現有的帖子。此批次操作不會觸發 webhook 或日誌分析。繼續？';
+$Definition['Threshold'] = '界限';
+$Definition['Thumbnails'] = '縮圖';
+$Definition['Thumbnail Size'] = '縮圖尺寸';
+$Definition['Time'] = '時間';
+$Definition['Timeframe'] = '大體時間';
+$Definition['Time since added to collection'] = '自從加入集合以來的時間';
+$Definition['Time since post has had no activity'] = '自發性貼文以來的時間沒有任何活動';
+$Definition['Time since post has had no comments'] = '發文後時間還沒有評論';
+$Definition['Time since question has been unanswered'] = '自從問題未得到答覆以來的時間';
+$Definition['Time since Registration'] = '自註冊以來的時間';
+$Definition['Title Color'] = '標題顏色';
+$Definition['Title Color (Hover)'] = '標題顏色（懸停）';
+$Definition['Titles'] = '標題';
+$Definition['Token Name'] = '標記名稱';
+$Definition['To learn more, <0>see the documentation</0>.'] = '要了解更多信息，<0>請參閱文檔</0>。';
+$Definition['Touch Icon'] = '觸碰圖標';
+$Definition['Triage'] = '分類';
+$Definition['Triage Dashboard'] = '分類儀表板';
+$Definition['Trigger'] = '扳機';
+$Definition['True'] = '真的';
+$Definition['Truncate the initial discussion text to this many words.'] = '將初步討論文本縮短成這麼多的字數。';
+$Definition['Trusted Domains'] = '信賴網域';
+$Definition['trusted domains'] = '受信任的網域';
+$Definition['Turn OFF'] = '關閉';
+$Definition['Turn off AI Suggested Answers'] = '關閉 AI 建議答案';
+$Definition['Turn off for now'] = '暫時關閉';
+$Definition['Twitter Connector'] = 'Twitter 連接器';
 
-$Definition["unconfirmed"] = "未確認";
-$Definition["Undo Accept Answer"] = "撤銷接受答案";
-$Definition["Uninvite"] = "取消邀請";
-$Definition["Universal Code"] = "通用程式碼";
-$Definition["Universal Forum Embed Code"] = "通用論壇內嵌碼";
-$Definition["Unlimited"] = "無限制";
-$Definition["Up to a maximum of 100 items may be displayed."] =
-    "最多可以顯示 100 個項目。";
-$Definition["Upload New Email Logo"] = "上傳新的電子郵件標誌";
-$Definition["Upcoming Events"] = "活動預告";
-$Definition["Use an SMTP server to send email"] =
-    "利用SMTP伺服器來寄送電子郵件";
-$Definition["Use asterisks for wildcards"] =
-    '以星號作為萬用字元，例如： "*@gmail.com"';
-$Definition["Use British English Spelling"] = "使用英式英語拼字";
-$Definition["Use Categories"] = "使用分類";
-$Definition["Use categories to organize discussions"] =
-    "利用分類來整理討論串";
-$Definition["Use Facebook names for usernames."] =
-    "使用Facebook名稱作為用戶名稱。";
-$Definition["Use AI Suggestions in Q&A"] = "在問答中使用人工智慧建議";
-$Definition["User Count"] = "會員";
-$Definition["UserDelete"] = "刪除用戶相關內容";
-$Definition["User Deleted"] = "用戶已刪除";
-$Definition["User Preferences"] = "用戶偏好";
-$Definition[
-    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
-] =
-    "使用高度技術性的語言和行業特定術語，供那些對主題有深刻理解的人使用。";
-$Definition[
-    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
-] =
-    "必要時使用行業特定術語，但也提供定義解釋以確保清晰度。";
-$Definition[
-    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
-] =
-    "使用任何人都可以理解的簡單日常語言，無論其背景或專業知識如何。";
-$Definition["UserDeleteMessage"] =
-    '刪除該用戶與所有相關內容，這種方式可能會影響討論串的連貫性，是除去垃圾內容的最佳方法。';
-$Definition["UserDeletionPrompt"] =
-    "請選擇如何處理與%s用戶帳號相關的內容（留言、私訊等等）。";
-$Definition["UserKeep"] = "保留用戶相關內容";
-$Definition["UserKeepMessage"] =
-    '刪除該用戶，但保留相關內容。';
-$Definition["Username or UserID to Spoof"] = "欺騙的用戶名或用戶 ID";
-$Definition["User Registration Settings"] = "會員註冊設定";
-$Definition["User successfully added."] = "用戶添加成功。";
-$Definition["User successfully updated."] = "用戶已成功更新。";
-$Definition[
-    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
-] =
-    "用戶可以按照類別訂閱新帖子的通知。選擇新用戶默認應遵循的類別。";
-$Definition["Users that get this reaction get %+d point."] =
-    "獲得此回應的用戶可得%+d點。";
-$Definition["Users that get this reaction get %+d points."] =
-    "獲得此回應的用戶可得%+d點。";
-$Definition[
-    "Users will not be warned when following links that match a Trusted Domain."
-] =
-    "點擊符合信賴網域的連結時，不會警告使用者。";
-$Definition[
-    "Users will be redirected to this URL after accepting an invitation."
-] =
-    "用戶在接受邀請後會被重新導引到這個網址。這可以是一個完整網址或是網站內的重新導引路徑。";
-$Definition["User Summary"] = "用戶總覽";
-$Definition[
-    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
-] =
-    '用戶在確認電郵位址之前，將被暫時賦予這個職務。';
-$Definition["Users with the no ads permission will not see this pocket."] =
-    "沒有廣告管理權限的用戶，將不會看到這個pocket。";
-$Definition["UserWipe"] = "用戶相關內容是空白的。";
-$Definition["UserWipeMessage"] =
-    '刪除這位用戶的帳號、並將所有相關內容以「本用戶已被刪除」的訊息取代；這樣的作法可以為該用戶的狀況提供說明。';
-$Definition["Use the content at this url as your homepage."] =
-    '選擇讓訪客觀看的網頁：<strong style="white-space: nowrap;">%s</strong>';
-$Definition["Use Vanilla as a commenting system in your site"] =
-    "使用Vanilla作為您網站上的留言版系統。";
-$Definition["Use weekly community email digest"] =
-    "使用每週社群電子郵件摘要";
-$Definition["Untitled"] = "無標題";
+$Definition['Unable to re-assign default template'] = '無法重新指派預設模板';
+$Definition['Unassigned'] = '未分配';
+$Definition['unconfirmed'] = '未確認';
+$Definition['Undo Accept Answer'] = '撤銷接受答案';
+$Definition['Uninvite'] = '取消邀請';
+$Definition['Universal Code'] = '通用程式碼';
+$Definition['Universal Forum Embed Code'] = '通用論壇內嵌碼';
+$Definition['Unlimited'] = '無限制';
+$Definition['Unsaved Changes'] = '未儲存的更改';
+$Definition['Untitled'] = '無標題';
+$Definition['Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>'] = '加入社群時間少於指定天數的未經驗證的成員將被提示完成 Cloudflare（驗證碼或複選框）挑戰，以防止垃圾郵件。 <0/>';
+$Definition['Upcoming Events'] = '活動預告';
+$Definition['Upload a placeholder image for catalogue post.'] = '上傳一個當使用者的貼文中沒有畫面時所顯示的占位符。';
+$Definition['Uploaded <0/> by <1/>'] = '上傳者：<1/>，上傳時間：<0/>';
+$Definition['Upload Icon Pack'] = '上傳圖標包';
+$Definition['Upload New Email Logo'] = '上傳新的電子郵件標誌';
+$Definition['Upload New Icon'] = '上傳新圖示';
+$Definition['Upload Placeholder Image'] = '上傳占位符畫面';
+$Definition['Up to <0 /> ago.'] = '截至 <0 /> 前。';
+$Definition['Up to a maximum of 100 items may be displayed.'] = '最多可以顯示 100 個項目。';
+$Definition['upvote'] = '贊成票';
+$Definition['upvotes'] = '贊成票';
+$Definition['Use AI Suggestions in Q&A'] = '在問答中使用人工智慧建議';
+$Definition['Use an SMTP server to send email'] = '利用SMTP伺服器來寄送電子郵件';
+$Definition['Use asterisks for wildcards'] = '以星號作為萬用字元，例如： "*@gmail.com"';
+$Definition['Use British English Spelling'] = '使用英式英語拼字';
+$Definition['Use Categories'] = '使用分類';
+$Definition['Use categories to organize discussions'] = '利用分類來整理討論串';
+$Definition['Use Facebook names for usernames.'] = '使用Facebook名稱作為用戶名稱。';
+$Definition['Use Masonry display'] = '使用石砌顯示';
+$Definition['User Count'] = '會員';
+$Definition['UserDelete'] = '刪除用戶相關內容';
+$Definition['User Deleted'] = '用戶已刪除';
+$Definition['UserDeleteMessage'] = '刪除該用戶與所有相關內容，這種方式可能會影響討論串的連貫性，是除去垃圾內容的最佳方法。';
+$Definition['UserDeletionPrompt'] = '請選擇如何處理與%s用戶帳號相關的內容（留言、私訊等等）。';
+$Definition['UserKeep'] = '保留用戶相關內容';
+$Definition['UserKeepMessage'] = '刪除該用戶，但保留相關內容。';
+$Definition['User Management'] = '使用者管理';
+$Definition['Username or UserID to Spoof'] = '欺騙的用戶名或用戶 ID';
+$Definition['User Preferences'] = '用戶偏好';
+$Definition['User Registration Settings'] = '會員註冊設定';
+$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = '用戶可以按照類別訂閱新帖子的通知。選擇新用戶默認應遵循的類別。';
+$Definition['Users marked as "Verified" will bypass this requirement. These are are the roles with "Approval.Require"'] = '標記為「已驗證」的使用者將繞過此要求。這些是具有“Approval.Require”的角色';
+$Definition['Users Matching Criteria Now: <0 />'] = '現在使用者符合條件：<0 />';
+$Definition['Users that get this reaction get %+d point.'] = '獲得此回應的用戶可得%+d點。';
+$Definition['Users that get this reaction get %+d points.'] = '獲得此回應的用戶可得%+d點。';
+$Definition['User successfully added.'] = '用戶添加成功。';
+$Definition['User successfully updated.'] = '用戶已成功更新。';
+$Definition['User Summary'] = '用戶總覽';
+$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = '用戶在確認電郵位址之前，將被暫時賦予這個職務。';
+$Definition['Users will be redirected to this URL after accepting an invitation.'] = '用戶在接受邀請後會被重新導引到這個網址。這可以是一個完整網址或是網站內的重新導引路徑。';
+$Definition['Users will not be warned when following links that match a Trusted Domain.'] = '點擊符合信賴網域的連結時，不會警告使用者。';
+$Definition['Users with the "Approval.Require" permission will require moderator approval for all posts.'] = '擁有「Approval.Require」權限的使用者將需要版主批准其所有貼文。';
+$Definition['Users with the no ads permission will not see this pocket.'] = '沒有廣告管理權限的用戶，將不會看到這個pocket。';
+$Definition['UserWipe'] = '用戶相關內容是空白的。';
+$Definition['UserWipeMessage'] = '刪除這位用戶的帳號、並將所有相關內容以「本用戶已被刪除」的訊息取代；這樣的作法可以為該用戶的狀況提供說明。';
+$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = '使用高度技術性的語言和行業特定術語，供那些對主題有深刻理解的人使用。';
+$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = '必要時使用行業特定術語，但也提供定義解釋以確保清晰度。';
+$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = '使用任何人都可以理解的簡單日常語言，無論其背景或專業知識如何。';
+$Definition['Use the content at this url as your homepage.'] = '選擇讓訪客觀看的網頁：<strong style="white-space: nowrap;">%s</strong>';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = '使用此頁面建立和管理您的模板，然後設定您的<0/>以控制每封電子郵件的傳送時間和收件者。';
+$Definition['Use Vanilla as a commenting system in your site'] = '使用Vanilla作為您網站上的留言版系統。';
+$Definition['Use weekly community email digest'] = '使用每週社群電子郵件摘要';
 
-$Definition["Value or Pattern"] = "數值或模式";
-$Definition["Vanilla.Archive.Description"] =
-    "您可以選擇封存某個特定日期之前的討論串；已封存的討論串將會關閉，不接受新的留言。";
-$Definition["Vanilla.Categories.MaxDisplayDepth"] =
-    '當有階層的分類為%1$s時，置入以逗號區隔的列表。';
-$Definition["Vanilla is installed!"] = "已安裝 Vanilla！";
-$Definition["Verified!"] = "已驗證成功！";
-$Definition["Version"] = "版本";
-$Definition["Version %s"] = "版本 %s";
-$Definition["version %s"] = "版本 %s";
-$Definition["Version %s Installer"] = "版本 %s 安裝程式";
-$Definition["View browser compatibility chart"] =
-    "查看瀏覽器相容性圖表";
-$Definition["View Count"] = "查看次數";
-$Definition["View in context "] = "在上下文中查看";
-$Definition["View Page"] = "閱覽頁面";
-$Definition["Visit Site"] = "訪問網站";
-$Definition[
-    "Warn users if a link in a post will cause them to leave the forum"
-] = "若貼文內的連結會造成使用者離開論壇，警告他們。";
-$Definition[
-    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
-] =
-    "警告：您的所有資料將會被刪除。資料一旦刪除之後，絕無任何方法可以回復。";
-$Definition["Warning: deleting is permanent"] =
-    "警告：被刪除的項目也會從本列表中移除，而且無法回復。";
-$Definition["Weekly Email Digest "] = "每週電子郵件摘要";
-$Definition["Welcome to Vanilla!"] = "歡迎使用 Vanilla！";
-$Definition["Welcome to your Dashboard"] = "歡迎˙來到您的儀表板";
-$Definition["We only accept urls that begin with http:// or https://"] =
-    "本網站只接受以http://或https://開頭的網址。";
-$Definition[
-    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
-] =
-    "預設的郵件寄送方式是使用本機的電郵伺服器；如果您想要使用另外的SMTP電郵伺服器，請在下方進行設定。";
-$Definition[
-    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
-] =
-    "歡迎。我是您的人工智慧建議助手，這是一種基於機器學習的工具，旨在根據您的查詢查找並推薦相關文章和帖子。請輸入您的問題，我將提供最合適的資訊。";
+$Definition['Value is not a valid integer.'] = '值不是有效的整數。';
+$Definition['Value or Pattern'] = '數值或模式';
+$Definition['Vanilla.Archive.Description'] = '您可以選擇封存某個特定日期之前的討論串；已封存的討論串將會關閉，不接受新的留言。';
+$Definition['Vanilla.Categories.MaxDisplayDepth'] = '當有階層的分類為%1$s時，置入以逗號區隔的列表。';
+$Definition['Vanilla is installed!'] = '已安裝 Vanilla！';
+$Definition['Verified!'] = '已驗證成功！';
+$Definition['Verify browsers of new members'] = '驗證新成員的瀏覽器';
+$Definition['Version'] = '版本';
+$Definition['Version %s'] = '版本 %s';
+$Definition['version %s'] = '版本 %s';
+$Definition['Version %s Installer'] = '版本 %s 安裝程式';
+$Definition['View browser compatibility chart'] = '查看瀏覽器相容性圖表';
+$Definition['View Category'] = '查看類別';
+$Definition['View Count'] = '查看次數';
+$Definition['View Details'] = '看詳情';
+$Definition['View Escalation'] = '查看升級';
+$Definition['View History'] = '查看歷史記錄';
+$Definition['View in context '] = '在上下文中查看';
+$Definition['View Page'] = '閱覽頁面';
+$Definition['View post in community'] = '查看社群中的帖子';
+$Definition['View the full list of available placeholders.'] = '查看所有可用佔位符的完整清單。';
+$Definition['VIP Deploy'] = 'VIP部署';
+$Definition['Visit Site'] = '訪問網站';
+$Definition['Visualize Your Community'] = '可視化您的社區';
+$Definition['Votes on an idea'] = '對一個想法進行投票';
+
+$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '警告：您的所有資料將會被刪除。資料一旦刪除之後，絕無任何方法可以回復。';
+$Definition['Warning: deleting is permanent'] = '警告：被刪除的項目也會從本列表中移除，而且無法回復。';
+$Definition['Warn users if a link in a post will cause them to leave the forum'] = '若貼文內的連結會造成使用者離開論壇，警告他們。';
+$Definition['Weekly Email Digest '] = '每週電子郵件摘要';
+$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = '歡迎。我是您的人工智慧建議助手，這是一種基於機器學習的工具，旨在根據您的查詢查找並推薦相關文章和帖子。請輸入您的問題，我將提供最合適的資訊。';
+$Definition['Welcome to Vanilla!'] = '歡迎使用 Vanilla！';
+$Definition['Welcome to your Dashboard'] = '歡迎˙來到您的儀表板';
+$Definition['We only accept urls that begin with http:// or https://'] = '本網站只接受以http://或https://開頭的網址。';
+$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '預設的郵件寄送方式是使用本機的電郵伺服器；如果您想要使用另外的SMTP電郵伺服器，請在下方進行設定。';
 $Definition['What\'s the Buzz?'] = '最近動向';
-$Definition["When enabled, search result will open in a new browser tab."] =
-    "啟用後，搜尋結果將在新的瀏覽器標籤中開啟。";
-$Definition[
-    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
-] = "啟用後，您的社群將在問答中顯示 AI 建議。 <0/>";
-$Definition[
-    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
-] =
-    "啟用此設置後，Analytics 數據中的用戶詳細信息將默認匿名，直到用戶同意 Analytics cookie。 <0>了解更多</0>";
-$Definition["Where is your Community Forum?"] =
-    "您的社群討論區在哪裡？";
+$Definition['When enabled, search result will open in a new browser tab.'] = '啟用後，搜尋結果將在新的瀏覽器標籤中開啟。';
+$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = '啟用後，您的社群將在問答中顯示 AI 建議。 <0/>';
+$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = '啟用此設置後，Analytics 數據中的用戶詳細信息將默認匿名，直到用戶同意 Analytics cookie。 <0>了解更多</0>';
+$Definition['Where is your Community Forum?'] = '您的社群討論區在哪裡？';
 $Definition['Who\'s Online Settings'] = '線上會員設定';
-$Definition["Why am I seeing AI Suggested Answers?"] =
-    "為什麼我會看到 AI 建議答案？";
-$Definition["Why am I seeing this?"] = "為什麼我會看到這個？";
-$Definition["Why do you want to join?"] = "為什麼您要加入呢?";
-$Definition["Within"] = "在";
-$Definition["Will you be attending?"] = "您要參加嗎？";
-$Definition["WordPress Plugin"] = "WordPress 外掛程式";
-$Definition["Word Count"] = "字數";
+$Definition['Why am I seeing AI Suggested Answers?'] = '為什麼我會看到 AI 建議答案？';
+$Definition['Why am I seeing this?'] = '為什麼我會看到這個？';
+$Definition['Why do you want to join?'] = '為什麼您要加入呢?';
+$Definition['Will you be attending?'] = '您要參加嗎？';
+$Definition['Wipe'] = '擦拭';
+$Definition['with'] = '和';
+$Definition['Within'] = '在';
+$Definition['with reason'] = '合理';
+$Definition['with tag'] = '帶標籤';
+$Definition['Word Count'] = '字數';
+$Definition['WordPress Plugin'] = 'WordPress 外掛程式';
 
-$Definition["Yes, the following information can be changed later."] =
-    "是的，以下的資訊可以稍後再修改。";
-$Definition["You are connected as %s."] = "您是以%s身分進行連線。";
-$Definition["You are not allowed to use suggestions"] =
-    "您無權使用建議";
-$Definition["You are previewing the %s theme."] =
-    "您正在預覽的視覺主題是%s。";
-$Definition[
-    "You can also ban the users that posted the spam and delete all of their posts."
-] =
-    "找出張貼垃圾訊息的用戶，勾選其名稱旁的方塊加以封鎖、並刪除所有相關留言。<b>請先確認他們是垃圾留言的張貼者，再進行此一步驟。</b>";
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
-    '如果您的帳號不慎被鎖住，可以利用原始的Vanilla電郵帳號和密碼登入<a href="%1$s">%1$s</a>';
-$Definition[
-    "You can ban IP addresses, email domains, and words from usernames using this tool."
-] =
-    "您可以利用這個工具封鎖IP位置、電子郵件網域、或是使用特定單字的帳號名稱。";
-$Definition[
-    "You can customize the HTML and CSS for this theme on the %s page."
-] = "您可以在%s頁面上修改這個視覺主題的HTML與CSS。";
-$Definition[
-    "You can either create a new account, or enter your credentials if you have an existing account."
-] =
-    "您可以建立一個新帳號、或是輸入原有帳號的登入資料。";
-$Definition["You can make the categories page your homepage."] =
-    '您可以在<a href="%s">這裡</a>將分類頁面設為首頁。';
-$Definition[
-    "You can search for users by username or email, wildcards are implied."
-] = "您可以通過用戶名或電子郵件搜索用戶，隱含通配符。";
-$Definition["You can specify an allow list of trusted domains."] =
-    "您可以指定可安全重定向和嵌入的受信任域列表。";
-$Definition["You can specify an allow list of trusted domains. (CSP)"] =
-    "您可以指定一份可安全載入 javascript 的可信網域（例如 yourdomain.com）允許列表。";
-$Definition[
-    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
-] =
-    '請勿關閉%1$s插件，因為%2$s插件必須依賴前者才能運作。';
-$Definition[
-    "You cannot remove the only remaining category that allows discussions"
-] = "您不能移除最後一個仍允許留言的分類。";
-$Definition[
-    "You can protect your site with an HTTP username/password during development."
-] =
-    "您可在開發過程中使用 HTTP 用戶名／密碼來保護您的網站。";
-$Definition[
-    "You can send emails in plain text by disabling the toggle below."
-] = "您可以關閉下方開關來寄送純文字 email。";
-$Definition["You have %s invitations left for this month."] =
-    "你本月還可以發送 %s 條邀請.";
-$Definition["You have successfully saved interest: <0/>"] =
-    "您已成功保存利息：<0/>";
-$Definition["You must be authenticated in order to use this form."] =
-    "您必須經過身分認證，才能使用這份表單。";
-$Definition["You must manually apply this rank."] =
-    "您必須以手動方式進行此一排名。";
-$Definition["You must provide at least one recipient"] =
-    "您至少需指定一位收件者";
-$Definition["You must specify an admin password."] =
-    "您必須設定管理員密碼。";
-$Definition["You must specify an admin username."] =
-    "您必須設定管理員帳號。";
-$Definition[
-    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
-] =
-    "您的設置檔案沒有正確的全縣。PHP必須能讀取並寫入這個檔案：<code>%s</code>";
-$Definition['Your default locale won\'t display properly'] =
-    '您的預設語言包必須在下方啟用，否則無法正確顯示；請啟用以下部分：%s。';
-$Definition["Your Email"] = "您的電子郵件";
-$Definition["Your inbox is empty."] = "你的收件匣是空的";
-$Definition["Your invitations were sent successfully."] =
-    "您的邀請已經成功送出。";
-$Definition["Your Password"] = "您的密碼";
-$Definition[
-    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "您即將在尚未儲存變更前離開主題編輯器。請在離開前確認變更已儲存。";
-$Definition[
-    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "您將離開電子郵件設置頁面而不保存更改。確保退出前保存您的更新。";
+$Definition['Yes, the following information can be changed later.'] = '是的，以下的資訊可以稍後再修改。';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = '您已達到最大登錄嘗試次數。請等待 %s，然後重試。';
+$Definition['You are connected as %s.'] = '您是以%s身分進行連線。';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = '您將離開電子郵件設置頁面而不保存更改。確保退出前保存您的更新。';
+$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '您即將在尚未儲存變更前離開主題編輯器。請在離開前確認變更已儲存。';
+$Definition['You are not allowed to use suggestions'] = '您無權使用建議';
+$Definition['You are previewing the %s theme.'] = '您正在預覽的視覺主題是%s。';
+$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = '找出張貼垃圾訊息的用戶，勾選其名稱旁的方塊加以封鎖、並刪除所有相關留言。<b>請先確認他們是垃圾留言的張貼者，再進行此一步驟。</b>';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = '您也可以在電子郵件內容中新增佔位符—這些佔位符會在電子郵件發送時自動替換為相關的使用者或貼文資訊。例如，「你好，{user.name}！」或「請查看{discussion.name}」。';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '如果您的帳號不慎被鎖住，可以利用原始的Vanilla電郵帳號和密碼登入<a href="%1$s">%1$s</a>';
+$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = '您可以利用這個工具封鎖IP位置、電子郵件網域、或是使用特定單字的帳號名稱。';
+$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = '您可以在%s頁面上修改這個視覺主題的HTML與CSS。';
+$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = '您可以建立一個新帳號、或是輸入原有帳號的登入資料。';
+$Definition['You can make the categories page your homepage.'] = '您可以在<a href="%s">這裡</a>將分類頁面設為首頁。';
+$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = '您新增的自動化規則不能超過 150 個。刪除一些規則並重試。';
+$Definition['You cannot delete a template that is used in automation rules.'] = '您無法刪除自動化規則中使用的範本。';
+$Definition['You cannot delete system emails'] = '您無法刪除系統郵件。';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '請勿關閉%1$s插件，因為%2$s插件必須依賴前者才能運作。';
+$Definition['You cannot remove the only remaining category that allows discussions'] = '您不能移除最後一個仍允許留言的分類。';
+$Definition['You cannot update this event\'s Zoom URL or ID.'] = '您無法更新此活動的 Zoom URL 或 ID。';
+$Definition['You can protect your site with an HTTP username/password during development.'] = '您可在開發過程中使用 HTTP 用戶名／密碼來保護您的網站。';
+$Definition['You can search for users by username or email, wildcards are implied.'] = '您可以通過用戶名或電子郵件搜索用戶，隱含通配符。';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = '您可以關閉下方開關來寄送純文字 email。';
+$Definition['You can specify an allow list of trusted domains.'] = '您可以指定可安全重定向和嵌入的受信任域列表。';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = '您可以指定一份可安全載入 javascript 的可信網域（例如 yourdomain.com）允許列表。';
+$Definition['You have %s invitations left for this month.'] = '你本月還可以發送 %s 條邀請.';
+$Definition['You have successfully saved interest: <0/>'] = '您已成功保存利息：<0/>';
+$Definition['You must be authenticated in order to use this form.'] = '您必須經過身分認證，才能使用這份表單。';
+$Definition['You must manually apply this rank.'] = '您必須以手動方式進行此一排名。';
+$Definition['You must provide at least one recipient'] = '您至少需指定一位收件者';
+$Definition['You must specify an admin password.'] = '您必須設定管理員密碼。';
+$Definition['You must specify an admin username.'] = '您必須設定管理員帳號。';
+$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '您的設置檔案沒有正確的全縣。PHP必須能讀取並寫入這個檔案：<code>%s</code>';
+$Definition['Your default locale won\'t display properly'] = '您的預設語言包必須在下方啟用，否則無法正確顯示；請啟用以下部分：%s。';
+$Definition['Your Email'] = '您的電子郵件';
+$Definition['Your inbox is empty.'] = '你的收件匣是空的';
+$Definition['Your invitations were sent successfully.'] = '您的邀請已經成功送出。';
+$Definition['Your Password'] = '您的密碼';
+$Definition['You will no longer receive community engagement emails.'] = '您將不再收到社群互動郵件。';
 
-$Definition["Zendesk Knowledge Bases"] = "Zendesk 知識庫";
-
-$Definition["Mobile Logo"] = "手機標誌";
-$Definition["Banner Image"] = "橫幅圖像";
-$Definition["Disable Forum Pages"] = "禁用論壇頁面";
-
-// Posting settings
-$Definition["InputFormatter.Notes1"] =
-    "為社群的貼文選取編輯器的預設格式。";
-$Definition["InputFormatter.Notes2"] =
-    "編輯器將在編輯舊貼文時自動偵測舊貼文的格式，並載入其原始格式規則。除了此例外，以下選取的貼文格式將具有較高的優先順序。";
-$Definition["Formatting Posts"] = "格式化貼文";
-$Definition["MobileInputFormatter.Notes1"] =
-    "指定行動裝置的編輯格式。";
-$Definition["MobileInputFormatter.Notes2"] =
-    "如果行動裝置應該具有相同的體驗，請指定與上述相同的選項。如果使用者回報行動編輯的問題，請變更此選項。";
-$Definition["Note:"] = "注意事項：";
-$Definition["Post Format"] = "貼文格式";
-$Definition["Posting"] = "貼文";
-$Definition["Reinterpret All Posts As %s"] = "將所有帖子重新解釋為 %s";
-$Definition["Tell the editor to reinterpret all old posts as %s."] =
-    "告訴編輯器將所有舊帖子重新解釋為 %s。";
-$Definition[
-    "This setting will only take effect if %s was chosen as the Post Format above."
-] =
-    "此設置僅在 %s 被選為上面的帖子格式時才會生效。";
-$Definition["This option is to normalize the editor format"] =
-    "此選項用於規範編輯器格式，如果加載了使用另一種格式（例如 markdown 或 BBCode）編輯的舊帖子，則此選項將強制使用 %s。";
-
-$Definition["Mobile Format"] = "行動格式";
-$Definition["Enable Rich Quotes"] = "啟用 Rich Quotes";
-$Definition["RichEditor.QuoteEnable.Notes"] =
-    '使用以下選項來啟用 Rich Editor 的引述。這僅在預設格式器為「Rich」時適用。';
-
-// Catalogue Display Plugin/Formats
-$Definition["Default placeholder"] = "預設占位符";
-$Definition["Upload a placeholder image for catalogue post."] =
-    "上傳一個當使用者的貼文中沒有畫面時所顯示的占位符。";
-$Definition["Additional classes"] = "額外分類";
-$Definition["Apply additional classes on catalogue image."] =
-    "將額外分類套用在目錄圖像上。用空白鍵將每項分類隔開。";
-$Definition["Category only"] = "僅分類";
-$Definition["Display on category page only."] =
-    "只顯示在分類頁上。最近的討論清單不會受到影響。";
-$Definition["Use Masonry display"] = "使用石砌顯示";
-$Definition["Show an uploaded image on the Category page."] =
-    '每項討論都會在分類頁面上顯示一張上傳畫面。這只套用在以「顯示為」作為「討論」的分類。';
-$Definition["Upload Placeholder Image"] = "上傳占位符畫面";
-
-// Profile Fields
-$Definition["There was an error saving your changes. Please try again."] =
-    "保存更改時出錯。請再試一次。";
-$Definition["<0/> has been <1/>"] = "<0/> 已經是 <1/>";
-$Definition["enabled"] = "啟用";
-$Definition["disabled"] = "禁用";
-
-$Definition[
-    "This information will only be shown to users with permission to view internal info"
-] =
-    "此信息只會顯示給有權查看內部信息的用戶";
-$Definition[
-    "This is private information and will not be shared with other members."
-] = "這是私人信息，不會與其他成員共享。";
-
-$Definition[
-    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
-] =
-    "這將代表 Zoom 整合所有者建立 Zoom 會議，如果您是註冊用戶，請將您新增為共同主持人。如果您不是 Zoom 註冊用戶或不屬於設定整合的組織，則在沒有主持人的情況下，此活動的 Zoom 功能可能會受到限制。";
-$Definition['You cannot update this event\'s Zoom URL or ID.'] =
-    '您無法更新此活動的 Zoom URL 或 ID。';
-
-$Definition["Zoom Meeting ID or URL"] = "Zoom 會議 ID 或 URL";
-
-// Automation Rules
-$Definition["Add tag"] = "添加標籤";
-$Definition["A post"] = "一個貼文";
-$Definition["A post has been added to a collection"] =
-    "帖子已添加到集合中";
-$Definition["A post has not had any activity"] =
-    "貼文沒有任何活動";
-$Definition["A question"] = "一個問題";
-$Definition["A user has been registered"] = "用戶已註冊";
-$Definition["A post has received"] = "已收到貼文";
-$Definition["Date field reached"] = "日期欄位已到達";
-$Definition["A user registers or logs in with email domain:"] =
-    "使用者使用電子郵件網域註冊或登入：";
-$Definition["A user registers or updates a profile field:"] =
-    "使用者註冊或更新個人資料欄位：";
-$Definition["Add tags:"] = "新增標籤：";
-$Definition["Add to collection:"] = "加入集合：";
-$Definition["An idea has received"] = "一個想法已收到";
-$Definition["and"] = "與";
-$Definition["and assign to"] = "並分配給";
-$Definition["and remove role"] = "並刪除角色";
-$Definition["and remove from community"] = "並從社區中刪除";
-$Definition["Assign role:"] = "分配角色：";
-$Definition["Assign/Remove role"] = "分配/刪除角色";
-$Definition["Auto-run disabled."] = "自動運行禁用。";
-$Definition["Auto-run enabled."] = "自動運行已啟用。";
-$Definition["Automation rule successfully created."] =
-    "自動化規則已成功建立。";
-$Definition["Automation rule successfully updated."] =
-    "自動化規則已成功更新。";
-$Definition["Bump post"] = "凹凸柱";
-$Definition["Change the status of the idea to"] =
-    "將想法的狀態改為";
-$Definition["Change status"] = "改變狀態";
-$Definition["Close post"] = "關閉貼文";
-$Definition["Comments Matching Criteria Now: <0 />"] =
-    "現在評論匹配標準：<0 />";
-$Definition["created by"] = "創建者：";
-$Definition["Create and manage automations to easily manage posts and users."] =
-    "建立和管理自動化以輕鬆管理貼文和使用者。";
-$Definition["Create/Edit Automation Rule"] = "建立/編輯自動化規則";
-$Definition["Delete Rule"] = "刪除規則";
-$Definition["Discussions Matching Criteria Now: <0 />"] =
-    "現在討論配對標準：<0 />";
-$Definition["Edit Rule"] = "編輯規則";
-$Definition["Edit Variables"] = "編輯變數";
-$Definition["Escalate it"] = "升級它";
-$Definition["Escalate to GitHub"] = "升級至 GitHub";
-$Definition["Escalate to Zendesk"] = "升級到 Zendesk";
-$Definition["Expand"] = "擴張";
-$Definition["Failed to disable the rule"] = "禁用規則失敗";
-$Definition[
-    "Failed to load the preview data. Please check your trigger and action values."
-] =
-    "載入預覽資料失敗。請檢查您的觸發器和操作值。";
-$Definition["Follow categories:"] = "遵循類別：";
-$Definition["Follow category"] = "關注類別";
-$Definition["for"] = "為了";
-$Definition["has been unanswered"] = "尚未得到答复";
-$Definition["has not received any comments"] = "沒有收到任何評論";
-$Definition["Last reported"] = "最後報告";
-$Definition["Maximum Limit Reached"] = "已達最大限制";
-$Definition["Move post"] = "行動貼文";
-$Definition["Move to category:"] = "移至類別：";
-$Definition[
-    "Multi-select fields will trigger if the user meets ANY of the criteria."
-] = "如果使用者滿足任何條件，就會觸發多重選取欄位。";
-$Definition["New/Updated Email domain"] = "新的/更新的電子郵件網域";
-$Definition["New/Updated Profile field"] = "新的/更新的設定檔字段";
-$Definition[
-    "Note: Actions will not affect <0 /> that already have the associated action applied."
-] =
-    "注意：操作不會影響已套用關聯操作的 <0 />。";
-$Definition["Post Management"] = "職位管理";
-$Definition["Posts Matching Criteria Now: <0 />"] =
-    "現在貼文符合標準：<0 />";
-$Definition["Remove from collection"] = "從集合中刪除";
-$Definition["Remove from collection:"] = "從集合中刪除：";
-$Definition["Remove from default follow list"] =
-    "從預設關注清單中刪除";
-$Definition["Remove from trigger collection"] =
-    "從觸發器集合中刪除";
-$Definition["report"] = "報告";
-$Definition["reports"] = "報告";
-$Definition["Rule Action"] = "規則動作";
-$Definition["Rule may not be deleted while it is running"] =
-    "規則運行時不能刪除";
-$Definition["Rule may not be edited while it is running"] =
-    "規則運行時不得編輯";
-$Definition["Rule Name"] = "規則名稱";
-$Definition["Rule status will apply once current run completes"] =
-    "目前運行完成後，規則狀態將適用";
-$Definition["Rule Trigger"] = "規則觸發";
-$Definition["Running"] = "跑步";
-$Definition["See documentation for more information."] =
-    "請參閱文件以取得更多資訊。";
-$Definition["Select the action that will occur when this rule is triggered."] =
-    "選擇觸發此規則時將發生的操作。";
-$Definition["Select the trigger that will cause this rule to run."] =
-    "選擇將導致此規則運行的觸發器。";
-$Definition[
-    "Set trigger variable and action variable to generate a rule summary."
-] = "設定觸發變數和操作變數以產生規則摘要。";
-$Definition["sentiment"] = "情緒";
-$Definition["since"] = "自從";
-$Definition["Summary"] = "概括";
-$Definition["The action will be applied to only them if you proceed."] =
-    "如果您繼續，該操作將僅應用於他們。";
-$Definition[
-    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
-] =
-    "啟用規則後，該操作將應用於他們。將來，其他滿足觸發條件的 <0 /> 也將套用該操作。";
-$Definition[
-    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
-] =
-    "這目前不會影響任何<0 />。它將影響那些未來符合標準的人。";
-$Definition["Time since added to collection"] =
-    "自從加入集合以來的時間";
-$Definition["Time since post has had no comments"] =
-    "發文後時間還沒有評論";
-$Definition["Time since Registration"] = "自註冊以來的時間";
-$Definition["Time since post has had no activity"] =
-    "自發性貼文以來的時間沒有任何活動";
-$Definition["Time since question has been unanswered"] =
-    "自從問題未得到答覆以來的時間";
-$Definition["Trigger"] = "扳機";
-$Definition["Unsaved Changes"] = "未儲存的更改";
-$Definition["Up to <0 /> ago."] = "截至 <0 /> 前。";
-$Definition["upvote"] = "贊成票";
-$Definition["upvotes"] = "贊成票";
-$Definition["User Management"] = "使用者管理";
-$Definition["Users Matching Criteria Now: <0 />"] =
-    "現在使用者符合條件：<0 />";
-$Definition["Value is not a valid integer."] = "值不是有效的整數。";
-$Definition["View History"] = "查看歷史記錄";
-$Definition["Votes on an idea"] = "對一個想法進行投票";
-$Definition["with"] = "和";
-$Definition["with reason"] = "合理";
-$Definition["with tag"] = "帶標籤";
-$Definition[
-    "You cannot add more than 150 automation rules. Delete some rules and try again."
-] =
-    "您新增的自動化規則不能超過 150 個。刪除一些規則並重試。";
-
-// Icon Management
-$Definition["No icons match those filters."] = "沒有圖示符合這些過濾器。";
-$Definition["Manage Icon"] = "管理圖示";
-$Definition["Manage Icons"] = "管理圖示";
-$Definition["Manage Icon helptext"] =
-    "您可以在這裡管理系統和歷史圖示。上傳時，請確保圖示為 SVG 格式，包含 viewBox 屬性，並使用顏色 #000000，以確保它可以根據主題設定和使用者互動動態著色。每種類型每次只能有一個圖示處於活動狀態。";
-$Definition["Upload New Icon"] = "上傳新圖示";
-$Definition["Active Icon"] = "活動圖示";
-$Definition["New Icon"] = "新圖示";
-$Definition["Icon Type"] = "圖示類型";
-$Definition["Previous Icons"] = "以前的圖標";
-$Definition[
-    "Previous versions of your icons can be found here and restored at any time."
-] =
-    "您可以在這裡找到並隨時恢復圖示的先前版本。";
-$Definition["Set as Active"] = "設定為活動";
-$Definition["Uploaded <0/> by <1/>"] = "上傳者：<1/>，上傳時間：<0/>";
-$Definition["Icon Packs"] = "圖示包";
-$Definition["Download Active Icon Pack"] = "下載活動圖示包";
-$Definition["Download System Icon Pack"] = "下載系統圖示包";
-$Definition["Upload Icon Pack"] = "上傳圖標包";
-$Definition["Preview Icon Pack"] = "預覽圖標包";
-$Definition["Changed Icons"] = "更改圖示";
-$Definition["Icon Name"] = "圖標名稱";
-$Definition["All icons in this icon pack are currently active."] =
-    "此圖示包中的所有圖示目前均處於活動狀態。";
-$Definition["Activate Icon Pack"] = "啟動圖標包";
-$Definition["Only show icons that have been overridden with custom icons."] =
-    "僅顯示已被自訂圖示覆蓋的圖示。";
-$Definition["System Icon"] = "系統圖示";
-$Definition["Custom Icon"] = "自訂圖示";
-$Definition["Only show icons that are default system icons."] =
-    "僅顯示預設系統圖示。";
-$Definition["Previews"] = "預覽";
-$Definition["Icon Size"] = "圖示大小";
-$Definition["This is the actual size most icons render at."] =
-    "這是大多數圖示呈現的實際尺寸。";
-$Definition["Preview Color"] = "預覽顏色";
-$Definition[
-    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
-] =
-    "此顏色將用於預覽圖示顏色。它將取代您上傳的圖示中的任何 #000000 的使用。在實際應用中，顏色會動態變化。";
-$Definition["Escalation Name"] = "升級名稱";
-$Definition["Status on Creation"] = "創作狀態";
-$Definition["Assignee"] = "受讓人";
-$Definition["Internal Comment"] = "內部評論";
-$Definition["Set Post Visibility to Hidden"] = "將帖子可見性設定為隱藏";
-$Definition["Remove Method"] = "刪除方法";
-$Definition["Wipe"] = "擦拭";
-$Definition["Newest Post"] = "最新貼文";
-$Definition["Oldest Post"] = "最早的貼文";
-$Definition["Triage"] = "分類";
-$Definition["Triage Dashboard"] = "分類儀表板";
-$Definition["Message Post Author"] = "留言貼文作者";
-$Definition["Add Filter"] = "新增過濾器";
-$Definition["Customer Support"] = "客戶支援";
-$Definition["My Profile"] = "我的個人資料";
-$Definition["Resolve post"] = "解決貼文";
-$Definition["View post in community"] = "查看社群中的帖子";
-$Definition["View Details"] = "看詳情";
-$Definition["Escalate"] = "升級";
-$Definition["Posted by <0/> in <1/>"] = "由 <0/> 發佈於 <1/>";
-$Definition["Show"] = "展示";
-$Definition["View Escalation"] = "查看升級";
-$Definition["# Reports"] = "# 報告";
-$Definition["Last Reported"] = "上次報告";
-$Definition["Report Reasons"] = "檢舉原因";
-$Definition["Last Modified"] = "上次修改";
-$Definition["Last refreshed <0/> by <1/>."] = "上次刷新時間為 <0/>，刷新者為 <1/>。";
-
-$Definition["Moderation Content"] = "審核內容";
-$Definition["AI Settings"] = "AI設定";
-$Definition["OAuth2"] = "OAuth2";
-$Definition["VIP Deploy"] = "VIP部署";
-$Definition["Activity & Registration"] = "活動及報名";
-$Definition["Content Settings"] = "內容設定";
-$Definition["Premoderation Settings"] = "預審核設定";
-$Definition["Escalation Rules"] = "升級規則";
-$Definition["Automation"] = "自動化";
-$Definition["Audit Log"] = "審計日誌";
-$Definition["Community Management"] = "社群管理";
-$Definition["Visualize Your Community"] = "可視化您的社區";
-$Definition["Customize your community"] = "自訂您的社區";
-$Definition["Configuration & Addons"] = "配置和附加元件";
-$Definition["Are you sure you want to delete your %s?"] =
-    "您確定要刪除您的 %s 嗎？";
-$Definition["Newest Report"] = "最新報告";
-$Definition["Oldest Report"] = "最早的報告";
-$Definition["Report Dismissed"] = "報告被駁回";
-$Definition["Post Rejected"] = "貼文被拒絕";
-$Definition["Escalated"] = "升級";
-$Definition["Reported by <0/>"] = "報告人<0/>";
-$Definition["No report notes were provided by <0/>"] =
-    "<0/>未提供任何報告說明";
-$Definition["Create"] = "建立";
-$Definition["Edited"] = "已編輯";
-$Definition["Newest Escalation"] = "最新升級";
-$Definition["Oldest Escalation"] = "最早的升級";
-$Definition["Escalations Dashboard"] = "升級儀表板";
-$Definition["On Hold"] = "等候接聽";
-$Definition["Done"] = "完畢";
-$Definition["In Jira"] = "在 Jira 中";
-$Definition["In Zendesk"] = "在 Zendesk 中";
-$Definition["Integrations"] = "整合";
-$Definition["Remove Post"] = "刪除貼文";
-$Definition["Escalated by <0/>"] = "由<0/>升級";
-$Definition["Enter a title for this escalation"] =
-    "輸入此升級的標題";
-$Definition["Escalated by <0/>"] = "由<0/>升級";
-$Definition["Post Revision"] = "修訂後";
-$Definition["Loader"] = "裝載機";
-$Definition["a month"] = "一個月";
-$Definition["%s ago"] = "%s 前";
-$Definition["Live"] = "居住";
-$Definition["Live Post"] = "直播貼文";
-$Definition["Remove Post"] = "刪除貼文";
-$Definition["Internal Comments"] = "內部評論";
-$Definition["Add a comment"] = "新增評論";
-$Definition["Live"] = "居住";
-$Definition["There are currently no comments on this post"] =
-    "此文章目前沒有評論";
-$Definition["All comments on this post will appear here"] =
-    "此帖子的所有評論將顯示在此處";
-$Definition["Reports for <0/>"] = "<0/> 的報告";
-$Definition["Live Post"] = "直播貼文";
-$Definition["There are currently no reports for this post."] =
-    "目前沒有關於此帖子的報告。";
-$Definition["A list of reports associated with this post will appear here."] =
-    "與此帖子相關的報告列表將顯示在這裡。";
-$Definition[
-    "Configure where reports are sent and manage your community's report reasons."
-] =
-    "配置報告發送位置並管理社區的報告原因。";
-$Definition["New Community Management System"] =
-    "全新社區管理系統";
-$Definition["Enable Triage Dashboard"] = "啟用分類儀表板";
-$Definition[
-    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
-] =
-    "所有具有員工權限的使用者將能夠查看討論並將其標記為已解決或未解決。這些用戶還可以存取分類儀表板來調整他們的類別。";
-$Definition["Resolve All Discussions"] = "解決所有討論";
-$Definition[
-    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
-] =
-    "解決所有帖子將解決社區中所有現有的帖子。此批次操作不會觸發 webhook 或分析。";
-$Definition["Resolve All"] = "解決所有";
-$Definition["Required field"] = "必填字段";
-$Definition[
-    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
-] =
-    "新的社群管理系統允許自訂報告原因、升級、任務分配和自動化規則。啟用此功能可改變報告攝取量以使用新系統。 <0>閱讀更多</0>。";
-$Definition[
-    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
-] =
-    "這將解決社區中所有現有的帖子。此批次操作不會觸發 webhook 或日誌分析。繼續？";
-$Definition["Reorder"] = "重新排序";
-$Definition["Add Reason"] = "添加原因";
-$Definition["Delete?"] = "刪除？";
-$Definition["Are you sure you want to delete this reason?"] =
-    "您確定要刪除這個原因嗎？";
-$Definition["A concise name for the report reason."] =
-    "報告原因的簡潔名稱。";
-$Definition[
-    "A unique label for the report reason. This label cannot be changed once saved."
-] =
-    "報告原因的唯一標籤。此標籤一旦儲存就無法變更。";
-$Definition[
-    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
-] =
-    "對舉報原因進行解釋，以便舉報人在舉報貼文時能夠做出正確的選擇。";
-$Definition["The roles which can see this report reason."] =
-    "可以看到該報告原因的角色。";
-$Definition["Add Report Reason"] = "新增檢舉原因";
-$Definition["Discard Changes?"] = "放棄更改？";
-$Definition["Are you sure you want to exit without saving?"] =
-    "您確定要退出而不儲存嗎？";
-$Definition["Reorder Report Reasons"] = "重新排序報告原因";
-$Definition["Edit Report Reason"] = "編輯檢舉原因";
-$Definition["Delete Report Reason"] = "刪除報告原因";
-$Definition["This setting must be enabled to use Custom Discussion Threads."] =
-    "必須啟用此設定才能使用自訂討論線程。";
-$Definition[
-    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
-] =
-    "配置用於在社群內容建立之前自動審核的設定。選項包括自動垃圾郵件偵測、要求批准在某些類別中發布以及要求批准使用某些關鍵字或短語發布。";
-$Definition["Spam Detection"] = "垃圾郵件偵測";
-$Definition["Learn more."] = "了解更多。";
-$Definition["documentation."] = "文件.";
-$Definition["Verify browsers of new members"] =
-    "驗證新成員的瀏覽器";
-$Definition["Challenge Cutoff Age"] = "挑戰截止年齡";
-$Definition[
-    "Number of days since registration to bypass Cloudflare challenge"
-] = "自註冊以來繞過 Cloudflare 挑戰的天數";
-$Definition["Save challenge cutoff age"] = "保存挑戰截止年齡";
-$Definition["Premoderated Roles"] = "預先審核的角色";
-$Definition[
-    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
-] =
-    "擁有「Approval.Require」權限的使用者將需要版主批准其所有貼文。";
-$Definition[
-    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
-] =
-    "標記為「已驗證」的使用者將繞過此要求。這些是具有“Approval.Require”的角色";
-$Definition["No roles are currently set to require premoderation."] =
-    "目前沒有設定需要預先審核的角色。";
-$Definition["Edit Roles"] = "編輯角色";
-$Definition["Premoderated Categories"] = "預先審核的類別";
-$Definition["No categories are currently set to require premoderation."] =
-    "目前沒有設定需要預先審核的類別。";
-$Definition["Edit Categories"] = "編輯類別";
-$Definition["Premoderated Keywords"] = "預先審核的關鍵字";
-$Definition[
-    "Posts with any of the following keywords or phrases will required moderator approval."
-] =
-    "包含以下任何關鍵字或短語的貼文都需要版主批准。";
-$Definition["No keywords are currently set to require premoderation."] =
-    "目前沒有設定需要預先審核的關鍵字。";
-$Definition["Edit Keywords"] = "編輯關鍵字";
-$Definition[
-    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
-] =
-    "啟用 Akismet 來過濾申請人註冊和未經驗證的用戶發布的所有貼文中的垃圾郵件。 <0/>";
-$Definition[
-    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
-] =
-    "啟用 Stopforumspam 來根據已報告的垃圾郵件發送者清單檢查社區用戶，並將貼文報告為垃圾郵件或直接拒絕。報告和拒絕閾值在<0>插件的設定中進行管理</0>。了解更多信息，請訪問<1/>";
-$Definition[
-    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
-] =
-    "加入社群時間少於指定天數的未經驗證的成員將被提示完成 Cloudflare（驗證碼或複選框）挑戰，以防止垃圾郵件。 <0/>";
-$Definition["%s in the following categories will require moderator approval."] =
-    "以下類別中的 %s 需要版主批准。";
-$Definition["Default Sort Order"] = "預設排序順序";
-$Definition["Choose the order records are sorted by default."] =
-    "選擇順序記錄預設排序。";
-$Definition["Show OP Indicator"] = "顯示 OP 指標";
-$Definition[
-    "If this option is enabled, replies from the Original Poster will have an OP indicator."
-] =
-    "如果啟用此選項，原始發文者的回覆將帶有 OP 指示器。";
-$Definition["Show Badges"] = "顯示徽章";
-$Definition["Badges Limit"] = "徽章限制";
-$Definition[
-    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
-] =
-    "在每個貼文上顯示用戶的徽章。最多可依最高排名順序顯示 5 個徽章。";
-$Definition["event"] = "事件";
-$Definition["<0/> <1/> more comments"] = "<0/> <1/>更多評論";
-$Definition["Export"] = "出口";
-
-$Definition["Homepage titles can only be between 1 and 500 characters"] =
-    "首頁標題只能包含 1 到 500 個字符";
-$Definition["Address Bar Color"] = "網址列顏色";
-$Definition["Meta Tags"] = "元標籤";
-$Definition[
-    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
-] =
-    "Meta 標籤用於 Google Search Console 和其他服務的網域驗證。從來源複製所需的元標記並貼上到新行。";
-$Definition[
-    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
-] =
-    "請花些時間思考一下如何介紹您的網站。給網站一個有意義的名稱、以及簡潔有力的介紹，對搜尋引擎排名是有幫助的。";
-$Definition["Style Guides"] = "風格指南";
-$Definition["Branding & Assets"] = "品牌與資產";
-$Definition["Home Pages"] = "首頁";
-$Definition["Home Layout Settings"] = "主頁佈局設定";
-$Definition["Category Pages"] = "分類頁面";
-$Definition["Category Layout Settings"] = "類別佈局設定";
-$Definition["Category List Pages"] = "分類清單頁";
-$Definition["Posting Category Pages"] = "發布分類頁面";
-$Definition["Nested Category Pages"] = "嵌套分類頁面";
-$Definition["Discussion Pages"] = "討論頁面";
-$Definition["Idea Pages"] = "創意頁面";
-$Definition["Question Pages"] = "問題頁面";
-$Definition["Post Pages"] = "貼文頁面";
-$Definition["Post Layout Settings"] = "貼文佈局設定";
-$Definition["Create Post Pages"] = "建立貼文頁面";
-$Definition["Create Post Layout Settings"] = "建立貼文佈局設定";
-$Definition["Event Pages"] = "活動頁面";
-$Definition["Event Layout Settings"] = "事件佈局設定";
-$Definition["Knowledge Base Pages"] = "知識庫頁面";
-$Definition["Knowledge Base Layout Settings"] =
-    "知識庫佈局設定";
-$Definition["Knowledge Base Home Pages"] = "知識庫首頁";
-$Definition["Help Center Home Pages"] = "幫助中心首頁";
-$Definition["Help Center Category Pages"] = "幫助中心分類頁面";
-$Definition["Help Center Article Pages"] = "幫助中心文章頁面";
-$Definition["Guide Article Pages"] = "指南文章頁面";
-$Definition["Layouts"] = "佈局";
-$Definition["Add Custom Layout"] = "新增自訂佈局";
-$Definition["Choose the preferred Legacy Recent Posts Layout."] =
-    "選擇首選的舊版近期貼文版面。";
-$Definition["Legacy Recent Posts Layouts"] = "舊版最新貼文版面";
-$Definition["Change layout versions for the <0/>."] =
-    "更改 <0/> 的版面版本。";
-$Definition["To learn more, <0>see the documentation</0>."] =
-    "要了解更多信息，<0>請參閱文檔</0>。";
-$Definition["Change %s"] = "更改 %s";
-$Definition["Are you sure you want to use %s?"] =
-    "您確定要使用 %s 嗎？";
-$Definition["Legacy Home Layouts"] = "傳統家居佈局";
-$Definition["Choose the preferred Legacy Home Layout."] =
-    "選擇首選的傳統家居佈局。";
-$Definition["Home Layout Version"] = "首頁版面版本";
-$Definition["Custom Home Layouts"] = "客製化家居佈局";
-$Definition["Legacy Category Layout"] = "舊版類別版面";
-$Definition["Choose the preferred Legacy Category Layout."] =
-    "選擇首選的舊式類別佈局。";
-$Definition["Category Layout Version"] = "類別版面版本";
-$Definition["Legacy Category Layouts"] = "舊版類別版面";
-$Definition["Custom Category Layouts"] = "自訂類別佈局";
-$Definition["Legacy Post Layout"] = "舊版貼文版面";
-$Definition["Choose the preferred Legacy Post Layout."] =
-    "選擇首選的舊版貼文版面。";
-$Definition["Post Layout Version"] = "貼文版面版本";
-$Definition["Legacy Post Layouts"] = "舊版貼文版面";
-$Definition["Custom Post Layouts"] = "自訂貼文佈局";
-$Definition["Legacy Create Post Layout"] = "舊版建立貼文佈局";
-$Definition["Choose the preferred Legacy Create Post Layout."] =
-    "選擇首選的舊式建立貼文佈局。";
-$Definition["Create Post Layout Version"] = "建立貼文佈局版本";
-$Definition["Legacy Create Post Layouts"] = "舊版建立貼文佈局";
-$Definition["Custom Create Post Layouts"] = "自訂建立貼文佈局";
-$Definition["Legacy Event Layout"] = "舊版活動版面";
-$Definition["Choose the preferred Legacy Event Layout."] =
-    "選擇首選的舊式活動佈局。";
-$Definition["Event Layout Version"] = "活動佈置版本";
-$Definition["Legacy Event Layouts"] = "舊版活動版面";
-$Definition["Custom Event Layouts"] = "自訂事件佈局";
-$Definition["Created <0/> by <1/>."] = "由 <1/> 創建於 <0/>。";
-$Definition["Layout Options"] = "佈局選項";
-$Definition["Contextual Description"] = "情境描述";
-$Definition["Skip to end of Carousel"] = "跳至輪播末尾";
-$Definition["Previous Slides"] = "上一張投影片";
-$Definition["Next Slides"] = "下一張投影片";
-$Definition["indicator navigation"] = "指示器導航";
-$Definition["<0/> new"] = "<0/>新";
-$Definition["%d slides on display initial slide %d of %d"] =
-    "%d 張投影片正在顯示，第一張投影片 %d，共 %d 張";
-$Definition["Unassigned"] = "未分配";
-$Definition["Apply Layout to Site Home Page"] =
-    "將版面配置套用至網站首頁";
-$Definition["Set as default layout for specific subcommunities."] =
-    "設定為特定子社區的預設佈局。";
-$Definition["Apply to specific categories."] = "適用於特定類別。";
-$Definition["This layout cannot be deleted because it is a layout template."] =
-    "該佈局無法刪除，因為它是佈局模板。";
-$Definition["Delete Layout"] = "刪除佈局";
-$Definition["Are you sure you want to delete?"] =
-    "您確定要刪除嗎？";
-$Definition["Applied"] = "應用";
-$Definition["Applied as default"] = "預設應用";
-$Definition["View Category"] = "查看類別";
-$Definition["Apply to specific subcommunities."] =
-    "適用於特定子社區。";
-$Definition["Unable to re-assign default template"] =
-    "無法重新指派預設模板";
-$Definition[
-    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
-] =
-    "此佈局是一個模板，並被指定為所有此類型頁面的預設佈局。若要將其從預設佈局中刪除或將其指派給特定頁面，您必須指定不同的佈局作為預設佈局。";
-$Definition["This layout cannot be deleted because it is currently applied."] =
-    "此佈局目前已套用，因此無法刪除。";
-$Definition["Set as default layout for all <0 />."] =
-    "設定為所有 <0 /> 的預設佈局。";
-$Definition["Legacy Knowledge Base Layout"] = "舊版知識庫佈局";
-$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
-    "選擇首選的舊式知識庫佈局。";
-$Definition["Knowledge Base Layout Version"] = "知識庫佈局版本";
-$Definition["Legacy Knowledge Base Layouts"] = "舊版知識庫佈局";
-$Definition["Custom Knowledge Base Layouts"] = "自訂知識庫佈局";
-$Definition["Article Count"] = "文章數";
-$Definition["Legacy Layouts enabled"] = "已啟用舊版版面";
-$Definition[
-    "Note this layout change will not be visible until you switch to custom layouts."
-] =
-    "請注意，只有切換到自訂佈局時，此佈局變更才會顯示。";
-$Definition[
-    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
-] =
-    "直到您在 <1/> 頁面中將社群切換為自訂 <0/> 時，此版面配置變更才會顯示出來。";
-$Definition["Set as default layout for specific knowledge bases."] =
-    "設定為特定知識庫的預設佈局。";
-$Definition["The site does not allow you to connect with an existing user."] =
-    "網站不允許您與現有用戶連線。";
-$Definition["The username you entered has already been taken."] =
-    "您輸入的使用者名稱已被使用。";
-$Definition["There was an error fetching the connection data."] =
-    "取得連線資料時發生錯誤。";
-$Definition[
-    "Failed to authenticate your password reset request. Try using the reset request form again."
-] =
-    "無法驗證您的密碼重設請求。請嘗試再次使用重設請求表單。";
-$Definition["Invitation not found."] = "未找到邀請。";
+$Definition['Zendesk Knowledge Bases'] = 'Zendesk 知識庫';
+$Definition['Zoom Meeting ID or URL'] = 'Zoom 會議 ID 或 URL';
