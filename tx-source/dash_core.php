@@ -56,6 +56,7 @@ $Definition[
 ] = 'You\'ve reached the maximum login attempts. Please wait %s and try again.';
 
 $Definition["a Badge"] = "a Badge";
+$Definition["A single announcement item used to highlight specific posts to members."] = "A single announcement item used to highlight specific posts to members.";
 $Definition["A unique display name."] = "A unique display name.";
 $Definition["A unique label name that cannot be changed once saved."] =
     "A unique label name that cannot be changed once saved.";
@@ -265,6 +266,7 @@ $Definition["Blocked"] = "Blocked";
 $Definition["Blog Comments"] = "Blog Comments";
 $Definition["Bookmark a discussion using its star icon."] =
     "Bookmark a discussion using its star icon.";
+$Definition["Breadcrumbs"] = "Breadcrumbs";
 $Definition["Browse Addons"] = "Browse Addons";
 $Definition["Browser Compatibility:"] = "Browser Compatibility:";
 $Definition["Browse for a new banner logo if you would like to change it:"] =
@@ -272,6 +274,7 @@ $Definition["Browse for a new banner logo if you would like to change it:"] =
 $Definition["Button Background Color"] = "Button Background Color";
 $Definition["Button Text Color"] = "Button Text Color";
 
+$Definition["Call To Action"] = "Call To Action";
 $Definition["Cannot build profile information if user is not defined."] =
     "Cannot build profile information if user is not defined.";
 $Definition["Categories &amp; Discussions"] = "Categories &amp; Discussions";
@@ -287,6 +290,7 @@ $Definition["Categories Layout"] = "Categories Layout";
 $Definition["Category Following"] = "Category Following";
 $Definition["Category Page Layout"] = "Category Page Layout";
 $Definition["Category Url:"] = "Category Url:";
+$Definition["Categories"] = "Categories";
 $Definition["Censored Words"] = "Censored Words";
 $Definition["Change Log"] = "Change Log";
 $Definition["Change the look of All Categories"] =
@@ -336,10 +340,12 @@ $Definition["Column Display Settings"] = "Column Display Settings";
 $Definition["comment(s)"] = "comment(s)";
 $Definition["Comment  Body"] = "Comment  Body";
 $Definition["Comment Count"] = "Comment Count";
+$Definition["Comment Editor"] = "Comment Editor";
 $Definition["Comment Settings"] = "Comment Settings";
 $Definition["Comments Page"] = "Comments Page";
 $Definition["Comments per Page"] = "Comments per Page";
 $Definition["Comment  Subject"] = "Comment  Subject";
+$Definition["Community"] = "Community";
 $Definition["Community Discussion Categories"] =
     "Community Discussion Categories";
 $Definition["Community Member Content"] = "Community Member Content";
@@ -396,6 +402,7 @@ $Definition["Could not open addon file. Addons must be zip files."] =
 $Definition["Create & organize discussion categories and manage your users."] =
     "Create & organize discussion categories and manage your users.";
 $Definition["Created new badge"] = "Created new badge";
+$Definition["Create Post Form"] = "Create Post Form";
 $Definition["Create Zoom Meeting"] = "Create Zoom Meeting";
 $Definition["CreateFile"] = "Create";
 $Definition["Criteria"] = "Criteria";
@@ -812,6 +819,7 @@ $Definition['Layman\'s Terms'] = 'Layman\'s Terms';
 $Definition["Layout"] = "Layout";
 $Definition["Learn more"] = "Learn more";
 $Definition["Learn more about HSTS at %s."] = "Learn more about HSTS at %s.";
+$Definition["LeaderBoard (Grid)"] ="LeaderBoard (Grid)";
 $Definition["Legacy Recent Posts Layout"] = "Legacy Recent Posts Layout";
 
 $Definition["Level"] = "Level";
@@ -823,6 +831,7 @@ $Definition["Likes"] = "Likes";
 $Definition["Limit the pocket to one or more roles or permissions."] =
     "Limit the pocket to one or more roles or permissions.";
 $Definition["Limit"] = "Limit";
+$Definition["List - Announcements"] = "List - Announcements";
 $Definition["List of discussion IDs to delete."] =
     "List of discussion IDs to delete.";
 $Definition["Locale Key (Folder)"] = "Locale Key (Folder)";
@@ -1032,7 +1041,9 @@ $Definition[
     "Possible compatibility problems with older browsers, affecting user experience."
 ] =
     "Possible compatibility problems with older browsers, affecting user experience.";
+$Definition["Post"] = "Posts";
 $Definition["Post External Links"] = "Post External Links";
+$Definition["Post List"] = "Post List";
 $Definition["Posting Settings"] = "Posting Settings";
 $Definition["Preload"] = "Preload";
 $Definition["Preview Colors"] = "Preview Colors";
@@ -2145,6 +2156,7 @@ $Definition["Home Pages"] = "Home Pages";
 $Definition["Home Layout Settings"] = "Home Layout Settings";
 $Definition["Category Pages"] = "Category Pages";
 $Definition["Category Layout Settings"] = "Category Layout Settings";
+$Definition["Category List"] = "Category List";
 $Definition["Category List Pages"] = "Category List Pages";
 $Definition["Posting Category Pages"] = "Posting Category Pages";
 $Definition["Nested Category Pages"] = "Nested Category Pages";
@@ -2308,3 +2320,153 @@ $Definition['You will no longer receive community engagement emails.'] = 'You wi
 $Definition['Delete Email Template'] = 'Delete Email Template';
 $Definition["Template Styles"] = "Template Styles";
 $Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page.";
+
+$Definition["1 Column - Default"] = "1 Column - Default";
+$Definition["1 Column - Full Width"] = "1 Column - Full Width";
+$Definition["2 Columns - Default"] = "2 Columns - Default";
+$Definition["2 Columns - Even"] = "2 Columns - Even";
+$Definition["3 Columns - Default"] = "3 Columns - Default";
+$Definition["3 Columns - Even"] = "3 Columns - Even";
+$Definition["A banner to create a visually distinct area to place header information and begin a search."] =
+    "A banner to create a visually distinct area to place header information and begin a search.";
+$Definition["A fully customizable fragment to add custom elements and data to your community."] =
+    "A fully customizable fragment to add custom elements and data to your community.";
+$Definition["A hero banner widget designed to create visually striking headers for your community pages."] =
+    "A hero banner widget designed to create visually striking headers for your community pages.";
+$Definition["A list of statistics about the community and its members."] =
+    "A list of statistics about the community and its members.";
+$Definition["A single announcement item used to highlight specific posts to members."] =
+    "A single announcement item used to highlight specific posts to members.";
+$Definition["A single category item in a list."] = "A single category item in a list.";
+$Definition["A single comment item in a list."] = "A single comment item in a list.";
+$Definition["A single post item in a list."] = "A single post item in a list.";
+$Definition["Admin Options"] = "Admin Options";
+$Definition["Announcements"] = "Announcements";
+$Definition["Answers Thread"] = "Answers Thread";
+$Definition["Article Content"] = "Article Content";
+$Definition["Article Header"] = "Article Header";
+$Definition["Article Language Picker"] = "Article Language Picker";
+$Definition["Article Reactions"] = "Article Reactions";
+$Definition["Article Table of Contents"] = "Article Table of Contents";
+$Definition["Articles"] = "Articles";
+$Definition["Assets"] = "Assets";
+$Definition["Banner"] = "Banner";
+$Definition["Breadcrumbs"] = "Breadcrumbs";
+$Definition["Call To Action"] = "Call To Action";
+$Definition["Call to Action"] = "Call to Action";
+$Definition["Categories"] = "Categories";
+$Definition["Category Articles"] = "Category Articles";
+$Definition["Category List"] = "Category List";
+$Definition["Category Subcategory List"] = "Category Subcategory List";
+$Definition["Comment Editor"] = "Comment Editor";
+$Definition["Comment Thread"] = "Comment Thread";
+$Definition["Community"] = "Community";
+$Definition["Content Banner"] = "Content Banner";
+$Definition["Create Post Form"] = "Create Post Form";
+$Definition["Custom"] = "Custom";
+$Definition["Custom HTML"] = "Custom HTML";
+$Definition["Custom Widget"] = "Custom Widget";
+$Definition["Customize the appearance and content of Call to Action widgets with fragment-specific styling and layout options."] =
+    "Customize the appearance and content of Call to Action widgets with fragment-specific styling and layout options.";
+$Definition["Customize the appearance of Rich Text widgets with fragment-specific styling."] =
+    "Customize the appearance of Rich Text widgets with fragment-specific styling.";
+$Definition["Customize the search bar widget so that users can search the community."] =
+    "Customize the search bar widget so that users can search the community.";
+$Definition["Display a list of categories and optionally nested child categories."] =
+    "Display a list of categories and optionally nested child categories.";
+$Definition["Display a list of statistics about the community and its members."] =
+    "Display a list of statistics about the community and its members.";
+$Definition["Display a search bar to search the entire community or specific parts of it."] =
+    "Display a search bar to search the entire community or specific parts of it.";
+$Definition["Display attention grabbing images, text and links to encourage specific actions."] =
+    "Display attention grabbing images, text and links to encourage specific actions.";
+$Definition["Display rich text content with full formatting support."] =
+    "Display rich text content with full formatting support.";
+$Definition["Discussion List"] = "Discussion List";
+$Definition["Event Description"] = "Event Description";
+$Definition["Event Details"] = "Event Details";
+$Definition["Event Participants"] = "Event Participants";
+$Definition["Event Title"] = "Event Title";
+$Definition["Events"] = "Events";
+$Definition["Events Comment Thread"] = "Events Comment Thread";
+$Definition["Featured Categories"] = "Featured Categories";
+$Definition["Featured Collections"] = "Featured Collections";
+$Definition["Featured Links"] = "Featured Links";
+$Definition["Follow Category"] = "Follow Category";
+$Definition["Follow Knowledge Base"] = "Follow Knowledge Base";
+$Definition["Group Details"] = "Group Details";
+$Definition["Group Directory"] = "Group Directory";
+$Definition["Group Members"] = "Group Members";
+$Definition["Groups"] = "Groups";
+$Definition["Guest Sign In"] = "Guest Sign In";
+$Definition["Guide Overview"] = "Guide Overview";
+$Definition["Guide Pager"] = "Guide Pager";
+$Definition["Help Center Article List"] = "Help Center Article List";
+$Definition["Help Center Home"] = "Help Center Home";
+$Definition["Help Center Overview"] = "Help Center Overview";
+$Definition["Help Center Overview Asset"] = "Help Center Overview Asset";
+$Definition["How a comment is displayed in a list of comments on an event."] =
+    "How a comment is displayed in a list of comments on an event.";
+$Definition["How a comment is displayed in a list of comments on a post or idea."] =
+    "How a comment is displayed in a list of comments on a post or idea.";
+$Definition["How an answer is displayed in a list of answers on a question."] =
+    "How an answer is displayed in a list of answers on a question.";
+$Definition["Idea Status"] = "Idea Status";
+$Definition["Ideas"] = "Ideas";
+$Definition["Knowledge Base"] = "Knowledge Base";
+$Definition["Knowledge Bases List"] = "Knowledge Bases List";
+$Definition["Knowledge Bases List Asset"] = "Knowledge Bases List Asset";
+$Definition["LeaderBoard (Grid)"] = "LeaderBoard (Grid)";
+$Definition["LeaderBoard (List)"] = "LeaderBoard (List)";
+$Definition["Leaderboard"] = "Leaderboard";
+$Definition["List - Announcements"] = "List - Announcements";
+$Definition["List - Articles"] = "List - Articles";
+$Definition["List - Discussions"] = "List - Discussions";
+$Definition["List - Events"] = "List - Events";
+$Definition["List - Ideas"] = "List - Ideas";
+$Definition["List - Questions"] = "List - Questions";
+$Definition["Members"] = "Members";
+$Definition["My Ideas"] = "My Ideas";
+$Definition["New Group Button"] = "New Group Button";
+$Definition["New Post Button"] = "New Post Button";
+$Definition["Online Users"] = "Online Users";
+$Definition["Original Post"] = "Original Post";
+$Definition["Post Attachments"] = "Post Attachments";
+$Definition["Post List"] = "Post List";
+$Definition["Post Meta"] = "Post Meta";
+$Definition["Post Tags"] = "Post Tags";
+$Definition["Posts"] = "Posts";
+$Definition["Questions"] = "Questions";
+$Definition["Questions and Answers"] = "Questions and Answers";
+$Definition["Quick Links"] = "Quick Links";
+$Definition["ReactionList"] = "ReactionList";
+$Definition["Related Articles"] = "Related Articles";
+$Definition["Role Spotlight"] = "Role Spotlight";
+$Definition["RSS Feed"] = "RSS Feed";
+$Definition["Search"] = "Search";
+$Definition["Search Widget"] = "Search Widget";
+$Definition["Sections"] = "Sections";
+$Definition["Site Totals"] = "Site Totals";
+$Definition["Suggested Answers"] = "Suggested Answers";
+$Definition["Suggested Content"] = "Suggested Content";
+$Definition["Subcommunities"] = "Subcommunities";
+$Definition["Tabbed Posts"] = "Tabbed Posts";
+$Definition["Tabs Widget"] = "Tabs Widget";
+$Definition["Tag Cloud"] = "Tag Cloud";
+$Definition["Text Widget"] = "Text Widget";
+$Definition["The display of a post within the tabbed lists of posts."] =
+    "The display of a post within the tabbed lists of posts.";
+$Definition["The display of a questions in a list of posts."] = "The display of a questions in a list of posts.";
+$Definition["The display of single post within a list of posts."] = "The display of single post within a list of posts.";
+$Definition["The original post of which begins a discussion, question or idea."] =
+    "The original post of which begins a discussion, question or idea.";
+$Definition["The title bar of the community which contains the logo, navigation, search and user menu."] =
+    "The title bar of the community which contains the logo, navigation, search and user menu.";
+$Definition["The way a single category or nested child categories are displayed."] =
+    "The way a single category or nested child categories are displayed.";
+$Definition["Tiered Tab Widget"] = "Tiered Tab Widget";
+$Definition["Title Bar"] = "Title Bar";
+$Definition["Used to display idea type discussions."] = "Used to display idea type discussions.";
+$Definition["User Spotlight"] = "User Spotlight";
+$Definition["Who's Online"] = "Who's Online";
+$Definition["Widgets"] = "Widgets";
