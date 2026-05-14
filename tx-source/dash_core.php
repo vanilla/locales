@@ -2470,3 +2470,4 @@ $Definition["Used to display idea type discussions."] = "Used to display idea ty
 $Definition["User Spotlight"] = "User Spotlight";
 $Definition["Who's Online"] = "Who's Online";
 $Definition["Widgets"] = "Widgets";
+$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>';
