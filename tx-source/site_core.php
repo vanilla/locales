@@ -3779,3 +3779,4 @@ $Definition["Success! <0/> users have been invited."] = "Success! <0/> users hav
 $Definition["<0/> users were already members of this group."] = "<0/> users were already members of this group.";
 $Definition["Success! <0/> users have been added."] = "Success! <0/> users have been added.";
 $Definition["Failed to execute action for <0/> users."] = "Failed to execute action for <0/> users.";
+$Definition["Mute this post"] = "Mute this post";
