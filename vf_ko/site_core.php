@@ -1394,6 +1394,7 @@ $Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User}은에 게�
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}님이 {ActivityUserID,user}의 프로필 사진을 변경했습니다.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} 가 참가했습니다.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} 님이 {ActivityUserID,you}에 대한 금지를 해제했습니다.';
+$Definition['HeadlineFormat.Unban.Notification'] = '이용 제한이 해제되었습니다.';
 $Definition['HeadlineFormat.UpdatedEvent'] = '업데이트된 이벤트: {Data.Name,text}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You}님이 {RegardingUserID,you}님에게 경고를 했습니다.';
 $Definition['HeadlineFormat.Warning.ToUser'] = '귀하는 경고를 받으셨습니다.';
