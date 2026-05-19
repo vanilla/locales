@@ -3788,3 +3788,4 @@ $Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{
 $Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}';
 $Definition["New Event in {Data.GroupName,text}: {Data.EventName,text}"] = "New Event in {Data.GroupName,text}: {Data.EventName,text}";
 $Definition["{ActivityUserID,user} has announced <a href='{Data.DiscussionUrl,htmlencode}'>{Data.DiscussionName}</a> in <a href='{Data.GroupUrl,htmlencode}'>{Data.GroupName}</a>"] = "{ActivityUserID,user} has announced <a href='{Data.DiscussionUrl,htmlencode}'>{Data.DiscussionName}</a> in <a href='{Data.GroupUrl,htmlencode}'>{Data.GroupName}</a>";
+$Definition["{Data.name} has been escalated and assigned to you."] = "{Data.name} has been escalated and assigned to you.";
