@@ -3783,3 +3783,10 @@ $Definition['{Data.name} applied for membership.'] = '{Data.name} applied for me
 $Definition['Manage Knowledge Bases'] = 'Manage Knowledge Bases';
 $Definition['Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.'] = 'Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.';
 $Definition['View Original'] = 'View Original';
+$Definition["Mute this post"] = "Mute this post";
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}';
+$Definition["New Event in {Data.GroupName,text}: {Data.EventName,text}"] = "New Event in {Data.GroupName,text}: {Data.EventName,text}";
+$Definition["{ActivityUserID,user} has announced <a href='{Data.DiscussionUrl,htmlencode}'>{Data.DiscussionName}</a> in <a href='{Data.GroupUrl,htmlencode}'>{Data.GroupName}</a>"] = "{ActivityUserID,user} has announced <a href='{Data.DiscussionUrl,htmlencode}'>{Data.DiscussionName}</a> in <a href='{Data.GroupUrl,htmlencode}'>{Data.GroupName}</a>";
+$Definition["{Data.name} has been escalated and assigned to you."] = "{Data.name} has been escalated and assigned to you.";
+$Definition["{Data.reporterName,text} reported {Data.name,text}."] = "{Data.reporterName,text} reported {Data.name,text}.";
