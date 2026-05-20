@@ -412,6 +412,7 @@ $Definition['Welcome to Vanilla\'s theming UI.'] = 'Vanilla\'nın tema arayüzü
 $Definition['Welcome To Your Theme'] = 'Temanıza Hoşgeldiniz';
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Kullanıcıların aşırı yüklenmesini önlemek için aynı anda 1-3 reaksiyonu etkinleştirmenizi öneririz.';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Etkinleştirildiğinde kullanıcılar topluluktan bildirim almayı seçebilir';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Etkinleştirildiğinde, <0>ürünleri yönetebilirsiniz</0> ve bu ürünlere göre alt toplulukları gruplandırır.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Birisi sitenizden bir bağlantı paylaştığında sayfadan bir resim almaya çalışırız. Sayfada resim yoksa, bu resmi kullanırız. Görüntü en az 50×50 olmalıdır, ancak 200×200 önerilir.';
 $Definition['When you select Full Bleed, your background is transparent.'] = 'Tam Taşma tpyını seçtiğinizde arka planınız saydam olur.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Dahili profil alanlarının bu web kancasına dahil edilip edilmeyeceği.';
