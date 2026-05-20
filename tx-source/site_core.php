@@ -3780,3 +3780,4 @@ $Definition["Notification Options"] = "Notification Options";
 $Definition["Do you want to notify followers about this post?"] = "Do you want to notify followers about this post?";
 $Definition["Yes, send notifications"] = "Yes, send notifications";
 $Definition["No, publish this post silently"] = "No, publish this post silently";
+$Definition["{Data.name} applied for membership."]= "{Data.name} applied for membership.";
