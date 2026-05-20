@@ -135,6 +135,13 @@ Follow the link below to check it out:
 
 Have a great day!';
 $Definition['Email Source'] = 'Email';
+$Definition['EmailStory.GroupApproved'] = 'Your request to join {Name} has been approved.';
+$Definition['EmailStory.GroupInvitation'] = 'You\'ve been invited to join {Name}.';
+$Definition['EmailStory.GroupJoinRequest'] = '{Username} has requested to join {Name}.';
+$Definition['EmailStory.IdeaAuthorStatus'] = 'Voting for the idea is {Status}.';
+$Definition['EmailStory.IdeaVoterStatus'] = 'Voting for the idea is {Status}.';
+$Definition['EmailStory.RoleRequest.Approved'] = 'Your application has been approved.';
+$Definition['EmailStory.RoleRequest.Denied'] = 'Your application has been denied.';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -205,7 +212,6 @@ $Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.'
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
 $Definition['Group Leaders'] = 'Leaders';
-$Definition['Group Members'] = 'Members';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['Groups Menu'] = 'Groups';
 $Definition['GuestModule.Group.Message'] = 'Sign in or Register to join the group and to view its content.';
@@ -227,6 +233,11 @@ $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} poste
 $Definition['HeadlineFormat.EventCancelled'] = '{Data.Name,text} has been cancelled.';
 $Definition['HeadlineFormat.EventReminder'] = 'Reminder: {Data.Name,text} begins in 1 day';
 $Definition['HeadlineFormat.EventRSVP'] = 'You\'ve registered for <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.GroupApproved'] = 'Your request to join <a href="{Url,html}">{Data.Name,text}</a> has been approved.';
+$Definition['HeadlineFormat.GroupInvitation'] = 'Please join my group: <a href="{Url,html}">{Data.Name,text}</a>.';
+$Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username} has requested to join {Data.Group}.';
+$Definition['HeadlineFormat.IdeaAuthorStatus'] = 'The status has changed for <a href="{Url,html}">{Data.Name,text}</a>.';
+$Definition['HeadlineFormat.IdeaAuthorStatus.Story'] = 'Voting for the idea is {Data.Status}.';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.NewEvent'] = 'New Event: {Data.Name,text}';
 $Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User} commented on your <a href="{Url,url}">wall</a>.';
@@ -235,8 +246,11 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} changed the profile picture for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} joined.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
+$Definition['HeadlineFormat.RoleRequest.Approved'] = 'You\'ve been added to the <b>{Data.role}</b> role.';
+$Definition['HeadlineFormat.RoleRequest.Denied'] = 'Your application to the <b>{Data.role}</b> role was denied.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Unban.Notification'] = 'You\'ve been unbanned.';
 $Definition['HeadlineFormat.UpdatedEvent'] = 'Updated Event: {Data.Name,text}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
@@ -345,6 +359,9 @@ $Definition['permissions.member'] = 'Member';
 $Definition['permissions.moderator'] = 'Moderator';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
+$Definition['PluralHeadlineFormat.Answer'] = 'There are <strong>{count}</strong> new answers to your question: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['PluralHeadlineFormat.Comment'] = 'There are <strong>{count}</strong> new comments on discussion: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['PluralHeadlineFormat.GroupJoinRequest'] = '{count} users have requested to join {Data.Group}.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['poll'] = 'Poll';
 $Definition['polls'] = 'Polls';
@@ -421,6 +438,7 @@ $Definition['RolePersonalInfo'] = 'This role is personal info. Only users with p
 $Definition['Role Request Status'] = 'Status';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
+$Definition['RoutesWarning'] = 'Each time a page is loaded, the system checks this list of routes to determine if a redirect should occur. As a result, every additional route slightly increases the time it takes to process every page request. To help maintain optimal performance, we recommend keeping your list of custom routes as lean as possible.';
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
@@ -513,7 +531,7 @@ $Definition['This theme cannot be deleted because it is the currently applied th
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
 $Definition['Transport error: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
-$Definition['Troll.Content'] = '<b>Troll</b> <ul> <li>This user has been marked as a troll.</li> <li>Their content is only visible to moderators and the troll.</li> <li>This message does not appear for the troll.</li></ul>';
+$Definition['Troll.Content'] = '<b>Shadow Banned</b> <ul> <li>This user is shadow banned. Shadow banning limits the visibility of this user\'s content (posts, comments, etc.) to others without notifying them. The user can still interact with the platform, but their contributions are hidden from other users.</li></ul>';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Unanswered Questions'] = 'Unanswered';
