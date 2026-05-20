@@ -1056,7 +1056,7 @@ Url: %4$s';
 $Definition['Emails'] = 'Di-imeile';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Imeile yeo e rometšwego go tšwa go kgopelo e tla dirwa leineng le le latelago le aterese ';
 $Definition['Email Source'] = 'Imeile';
-$Definition['EmailStory.GroupApproved'] = 'Kgopelo ya gago ya go tsenela {Leina} e amogetšwe.';
+$Definition['EmailStory.GroupApproved'] = 'Kgopelo ya gago ya go tsenela {Name} e amogetšwe.';
 $Definition['EmailStory.GroupInvitation'] = 'O laleditšwe gore o tsene {Name}.';
 $Definition['EmailStory.GroupJoinRequest'] = '{Username} e kgopetše go tsenela {Name} .';
 $Definition['EmailStory.IdeaAuthorStatus'] = 'Go boutela kgopolo yeo ke {Maemo}.';

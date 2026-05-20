@@ -1058,7 +1058,7 @@ Url: %4$s';
 $Definition['Emails'] = '이메일';
 $Definition['Email sent from the application will be addressed from the following name and address'] = '지원자가 보낸 이메일은 다음의 이름과 주소로 보내집니다.';
 $Definition['Email Source'] = '이메일';
-$Definition['EmailStory.GroupApproved'] = '{이름} 가입 신청이 승인되었습니다.';
+$Definition['EmailStory.GroupApproved'] = '{Name} 가입 신청이 승인되었습니다.';
 $Definition['EmailStory.GroupInvitation'] = '귀하는 {Name} 에 초대되었습니다.';
 $Definition['EmailStory.GroupJoinRequest'] = '{Username}님이 {Name} 그룹에 가입을 요청했습니다.';
 $Definition['EmailStory.IdeaAuthorStatus'] = '해당 안건에 대한 투표 번호는 {Status} 입니다.';
