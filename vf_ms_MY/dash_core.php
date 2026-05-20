@@ -1696,3 +1696,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Pangkalan Pengetahuan Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'ID atau URL Mesyuarat Zum';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Anda} menerima jawapan {NotifyUserID,anda} kepada soalan: <a href="{Url,html}">{Data.Name,teks}</a>';
+$Definition["Mobile Logo"] = "Logo Mudah Alih";
+$Definition["Banner Image"] = "Imej Sepanduk";
+$Definition["Disable Forum Pages"] = "Lumpuhkan Halaman Forum";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Pilih format lalai penyunting untuk siaran dalam komuniti.";
+$Definition["InputFormatter.Notes2"] =
+    "Editor akan mengesan format catatan lama secara automatik semasa mengeditnya dan memuatkan peraturan pemformatan asalnya. Selain pengecualian ini, format catatan yang dipilih di bawah akan diutamakan.";
+$Definition["Formatting Posts"] = "Memformat Catatan";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Tentukan format penyuntingan untuk peranti mudah alih.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Sekiranya peranti mudah alih mempunyai pengalaman yang sama, tentukan yang sama seperti di atas. Sekiranya pengguna melaporkan masalah dengan penyuntingan mudah alih, ini adalah pilihan yang baik untuk berubah.";
+$Definition["Note:"] = "Nota:";
+$Definition["Post Format"] = "Format Pos";
+$Definition["Posting"] = "Pengeposan";
+$Definition["Reinterpret All Posts As %s"] = "Tafsiran Semula Semua Catatan Sebagai %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Beritahu editor untuk mentafsir semula semua catatan lama sebagai %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Tetapan ini hanya akan berkuat kuasa jika %s dipilih sebagai Format Siaran di atas.";
+$Definition["This option is to normalize the editor format"] =
+    "Pilihan ini adalah untuk menormalkan format editor, jika siaran lama yang diedit dengan format lain, seperti markdown atau BBCode, dimuatkan, pilihan ini akan memaksa %s.";
+
+$Definition["Mobile Format"] = "Format Mudah Alih";
+$Definition["Enable Rich Quotes"] = "Dayakan Petikan Kaya";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Gunakan pilihan berikut untuk mengaktifkan sebut harga untuk Editor Kaya. Ini hanya akan berlaku jika pemformat lalai adalah "Kaya".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Tempat letak lalai";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Muat naik gambar placeholder yang akan dipaparkan apabila pengguna tidak mempunyai gambar di pos mereka.";
+$Definition["Additional classes"] = "Kelas tambahan";
+$Definition["Apply additional classes on catalogue image."] =
+    "Terapkan kelas tambahan pada gambar katalog. Gunakan ruang untuk memisahkan setiap kelas.";
+$Definition["Category only"] = "Kategori sahaja";
+$Definition["Display on category page only."] =
+    "Paparkan di halaman kategori sahaja. Senarai perbincangan terkini tidak akan terjejas.";
+$Definition["Use Masonry display"] = "Gunakan paparan Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Setiap perbincangan akan menunjukkan gambar yang dimuat naik di halaman Kategori. Ini hanya berlaku untuk kategori dengan "Perbincangan" sebagai "Paparan Sebagai."';
+$Definition["Upload Placeholder Image"] = "Muat Naik Gambar Tempat";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Terdapat ralat semasa menyimpan perubahan anda. Sila cuba lagi.";
+$Definition["<0/> has been <1/>"] = "<0/> telah <1/>";
+$Definition["enabled"] = "didayakan";
+$Definition["disabled"] = "kurang upaya";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Maklumat ini hanya akan ditunjukkan kepada pengguna dengan kebenaran untuk melihat maklumat dalaman";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Ini adalah maklumat peribadi dan tidak akan dikongsi dengan ahli lain.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Ini akan membuat mesyuarat Zum bagi pihak pemilik integrasi Zoom dan jika anda pengguna berdaftar, tambahkan anda sebagai hos bersama. Jika anda bukan pengguna Zoom berdaftar atau bukan sebahagian daripada organisasi yang menyediakan penyepaduan, acara ini mungkin mempunyai fungsi Zum terhad tanpa hos.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Anda tidak boleh mengemas kini URL atau ID Zum acara ini.';
+
+$Definition["Zoom Meeting ID or URL"] = "ID atau URL Mesyuarat Zum";
+
+// Automation Rules
+$Definition["Add tag"] = "Tambah tag";
+$Definition["A post"] = "Satu jawatan";
+$Definition["A post has been added to a collection"] =
+    "Siaran telah ditambahkan pada koleksi";
+$Definition["A post has not had any activity"] =
+    "Siaran tidak mempunyai sebarang aktiviti";
+$Definition["A question"] = "Satu soalan";
+$Definition["A user has been registered"] = "Seorang pengguna telah didaftarkan";
+$Definition["A post has received"] = "Satu jawatan telah diterima";
+$Definition["Date field reached"] = "Medan tarikh dicapai";
+$Definition["A user registers or logs in with email domain:"] =
+    "Seorang pengguna mendaftar atau log masuk dengan domain e-mel:";
+$Definition["A user registers or updates a profile field:"] =
+    "Pengguna mendaftar atau mengemas kini medan profil:";
+$Definition["Add tags:"] = "Tambah tag:";
+$Definition["Add to collection:"] = "Tambahkan pada koleksi:";
+$Definition["An idea has received"] = "Idea telah diterima";
+$Definition["and"] = "dan";
+$Definition["and assign to"] = "dan serahkan kepada";
+$Definition["and remove role"] = "dan alih keluar peranan";
+$Definition["and remove from community"] = "dan keluarkan daripada komuniti";
+$Definition["Assign role:"] = "Berikan peranan:";
+$Definition["Assign/Remove role"] = "Berikan/Alih keluar peranan";
+$Definition["Auto-run disabled."] = "Larian automatik dilumpuhkan.";
+$Definition["Auto-run enabled."] = "Larian automatik didayakan.";
+$Definition["Automation rule successfully created."] =
+    "Peraturan automasi berjaya dibuat.";
+$Definition["Automation rule successfully updated."] =
+    "Peraturan automasi berjaya dikemas kini.";
+$Definition["Bump post"] = "tiang bump";
+$Definition["Change the status of the idea to"] =
+    "Tukar status idea kepada";
+$Definition["Change status"] = "Tukar status";
+$Definition["Close post"] = "Tutup siaran";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Komen Padanan Kriteria Sekarang: <0 />";
+$Definition["created by"] = "dicipta oleh";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Cipta dan urus automasi untuk mengurus siaran dan pengguna dengan mudah.";
+$Definition["Create/Edit Automation Rule"] = "Cipta/Edit Peraturan Automasi";
+$Definition["Delete Rule"] = "Padamkan Peraturan";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Perbincangan Padanan Kriteria Sekarang: <0 />";
+$Definition["Edit Rule"] = "Edit Peraturan";
+$Definition["Edit Variables"] = "Edit Pembolehubah";
+$Definition["Escalate it"] = "Tingkatkan ia";
+$Definition["Escalate to GitHub"] = "Tingkatkan ke GitHub";
+$Definition["Escalate to Zendesk"] = "Bergerak ke Zendesk";
+$Definition["Expand"] = "Kembangkan";
+$Definition["Failed to disable the rule"] = "Gagal melumpuhkan peraturan";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Gagal memuatkan data pratonton. Sila semak nilai pencetus dan tindakan anda.";
+$Definition["Follow categories:"] = "Ikuti kategori:";
+$Definition["Follow category"] = "Ikut kategori";
+$Definition["for"] = "untuk";
+$Definition["has been unanswered"] = "telah tidak dijawab";
+$Definition["has not received any comments"] = "belum menerima sebarang komen";
+$Definition["Last reported"] = "Terakhir dilaporkan";
+$Definition["Maximum Limit Reached"] = "Had Maksimum Dicapai";
+$Definition["Move post"] = "Alihkan jawatan";
+$Definition["Move to category:"] = "Beralih ke kategori:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Medan berbilang pilihan akan dicetuskan jika pengguna memenuhi MANA-MANA kriteria.";
+$Definition["New/Updated Email domain"] = "Domain E-mel Baharu/Dikemas kini";
+$Definition["New/Updated Profile field"] = "Medan Profil Baharu/Dikemas kini";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Nota: Tindakan tidak akan menjejaskan <0 /> yang telah menggunakan tindakan berkaitan.";
+$Definition["Post Management"] = "Pengurusan Pasca";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Kriteria Padanan Catatan Sekarang: <0 />";
+$Definition["Remove from collection"] = "Alih keluar daripada koleksi";
+$Definition["Remove from collection:"] = "Alih keluar daripada koleksi:";
+$Definition["Remove from default follow list"] =
+    "Alih keluar daripada senarai ikut lalai";
+$Definition["Remove from trigger collection"] =
+    "Alih keluar daripada koleksi pencetus";
+$Definition["report"] = "laporan";
+$Definition["reports"] = "laporan";
+$Definition["Rule Action"] = "Tindakan Peraturan";
+$Definition["Rule may not be deleted while it is running"] =
+    "Peraturan tidak boleh dipadamkan semasa ia dijalankan";
+$Definition["Rule may not be edited while it is running"] =
+    "Peraturan tidak boleh diedit semasa ia dijalankan";
+$Definition["Rule Name"] = "Nama Peraturan";
+$Definition["Rule status will apply once current run completes"] =
+    "Status peraturan akan digunakan setelah larian semasa selesai";
+$Definition["Rule Trigger"] = "Pencetus Peraturan";
+$Definition["Running"] = "Berlari";
+$Definition["See documentation for more information."] =
+    "Lihat dokumentasi untuk maklumat lanjut.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Pilih tindakan yang akan berlaku apabila peraturan ini dicetuskan.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Pilih pencetus yang akan menyebabkan peraturan ini dijalankan.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Tetapkan pembolehubah pencetus dan pembolehubah tindakan untuk menjana ringkasan peraturan.";
+$Definition["sentiment"] = "sentimen";
+$Definition["since"] = "sejak";
+$Definition["Summary"] = "Ringkasan";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Tindakan itu akan digunakan hanya kepada mereka jika anda meneruskan.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Tindakan itu akan dikenakan kepada mereka apabila peraturan didayakan. Pada masa hadapan, <0 /> lain yang memenuhi kriteria pencetus akan dikenakan tindakan terhadap mereka juga.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Ini tidak akan menjejaskan mana-mana <0 /> sekarang. Ia akan memberi kesan kepada mereka yang memenuhi kriteria pada masa hadapan.";
+$Definition["Time since added to collection"] =
+    "Masa sejak ditambahkan pada koleksi";
+$Definition["Time since post has had no comments"] =
+    "Masa sejak siaran tidak mempunyai ulasan";
+$Definition["Time since Registration"] = "Masa sejak Pendaftaran";
+$Definition["Time since post has had no activity"] =
+    "Masa sejak siaran tiada aktiviti";
+$Definition["Time since question has been unanswered"] =
+    "Masa sejak soalan tidak dijawab";
+$Definition["Trigger"] = "Pencetus";
+$Definition["Unsaved Changes"] = "Perubahan Tidak Disimpan";
+$Definition["Up to <0 /> ago."] = "Sehingga <0 /> yang lalu.";
+$Definition["upvote"] = "undian naik";
+$Definition["upvotes"] = "undian naik";
+$Definition["User Management"] = "Pengurusan Pengguna";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Kriteria Padanan Pengguna Sekarang: <0 />";
+$Definition["Value is not a valid integer."] = "Nilai bukan integer yang sah.";
+$Definition["View History"] = "Lihat Sejarah";
+$Definition["Votes on an idea"] = "Mengundi idea";
+$Definition["with"] = "dengan";
+$Definition["with reason"] = "dengan alasan";
+$Definition["with tag"] = "dengan tag";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Anda tidak boleh menambah lebih daripada 150 peraturan automasi. Padamkan beberapa peraturan dan cuba lagi.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Tiada ikon yang sepadan dengan penapis tersebut.";
+$Definition["Manage Icon"] = "Ikon Urus";
+$Definition["Manage Icons"] = "Urus Ikon";
+$Definition["Manage Icon helptext"] =
+    "Anda boleh menguruskan sistem dan ikon sejarah di sini. Semasa memuat naik, pastikan ikon berada dalam format SVG, termasuk atribut ViewBox dan menggunakan warna #000000 untuk memastikan ia boleh diwarnakan secara dinamik berdasarkan tetapan tema dan interaksi pengguna. Hanya satu ikon bagi setiap jenis boleh aktif pada satu masa.";
+$Definition["Upload New Icon"] = "Muat Naik Ikon Baru";
+$Definition["Active Icon"] = "Ikon Aktif";
+$Definition["New Icon"] = "Ikon Baru";
+$Definition["Icon Type"] = "Jenis Ikon";
+$Definition["Previous Icons"] = "Ikon Sebelumnya";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Versi terdahulu ikon anda boleh didapati di sini dan dipulihkan pada bila-bila masa.";
+$Definition["Set as Active"] = "Tetapkan sebagai Aktif";
+$Definition["Uploaded <0/> by <1/>"] = "Dimuat naik <0/> oleh <1/>";
+$Definition["Icon Packs"] = "Pek Ikon";
+$Definition["Download Active Icon Pack"] = "Muat turun Pek Ikon Aktif";
+$Definition["Download System Icon Pack"] = "Muat turun Pek Ikon Sistem";
+$Definition["Upload Icon Pack"] = "Muat naik Pek Ikon";
+$Definition["Preview Icon Pack"] = "Pratonton Pek Ikon";
+$Definition["Changed Icons"] = "Ikon Berubah";
+$Definition["Icon Name"] = "Nama Ikon";
+$Definition["All icons in this icon pack are currently active."] =
+    "Semua ikon dalam pek ikon ini sedang aktif.";
+$Definition["Activate Icon Pack"] = "Aktifkan Pek Ikon";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Hanya tunjukkan ikon yang telah diganti dengan ikon tersuai.";
+$Definition["System Icon"] = "Ikon Sistem";
+$Definition["Custom Icon"] = "Ikon Tersuai";
+$Definition["Only show icons that are default system icons."] =
+    "Hanya tunjukkan ikon yang merupakan ikon sistem lalai.";
+$Definition["Previews"] = "Pratonton";
+$Definition["Icon Size"] = "Saiz Ikon";
+$Definition["This is the actual size most icons render at."] =
+    "Ini ialah saiz sebenar kebanyakan ikon yang dipaparkan.";
+$Definition["Preview Color"] = "Warna Pratonton";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Warna ini akan digunakan untuk pratonton warna ikon. Ia akan menggantikan sebarang penggunaan #000000 dalam ikon anda yang dimuat naik. Dalam aplikasi sebenar, warna akan menjadi dinamik.";
+$Definition["Escalation Name"] = "Nama Peningkatan";
+$Definition["Status on Creation"] = "Status pada Penciptaan";
+$Definition["Assignee"] = "penerima tugasan";
+$Definition["Internal Comment"] = "Ulasan Dalaman";
+$Definition["Set Post Visibility to Hidden"] = "Tetapkan Keterlihatan Siaran kepada Tersembunyi";
+$Definition["Remove Method"] = "Kaedah Buang";
+$Definition["Wipe"] = "Lap";
+$Definition["Newest Post"] = "Catatan Terbaru";
+$Definition["Oldest Post"] = "Jawatan Tertua";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Papan Pemuka Triage";
+$Definition["Message Post Author"] = "Pengarang Catatan Mesej";
+$Definition["Add Filter"] = "Tambah Penapis";
+$Definition["Customer Support"] = "Sokongan Pelanggan";
+$Definition["My Profile"] = "Profil Saya";
+$Definition["Resolve post"] = "Selesaikan jawatan";
+$Definition["View post in community"] = "Lihat siaran dalam komuniti";
+$Definition["View Details"] = "Lihat Butiran";
+$Definition["Escalate"] = "Bertambah";
+$Definition["Posted by <0/> in <1/>"] = "Disiarkan oleh <0/> dalam <1/>";
+$Definition["Show"] = "Tunjukkan";
+$Definition["View Escalation"] = "Lihat Peningkatan";
+$Definition["# Reports"] = "# Laporan";
+$Definition["Last Reported"] = "Terakhir Dilaporkan";
+$Definition["Report Reasons"] = "Laporkan Sebab";
+$Definition["Last Modified"] = "Terakhir Diubah Suai";
+$Definition["Last refreshed <0/> by <1/>."] = "Terakhir dimuat semula <0/> oleh <1/>.";
+
+$Definition["Moderation Content"] = "Kandungan Kesederhanaan";
+$Definition["AI Settings"] = "Tetapan AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "Kerahan VIP";
+$Definition["Activity & Registration"] = "Aktiviti & Pendaftaran";
+$Definition["Content Settings"] = "Tetapan Kandungan";
+$Definition["Premoderation Settings"] = "Tetapan Pramoderasi";
+$Definition["Escalation Rules"] = "Peraturan Peningkatan";
+$Definition["Automation"] = "Automasi";
+$Definition["Audit Log"] = "Log Audit";
+$Definition["Community Management"] = "Pengurusan Komuniti";
+$Definition["Visualize Your Community"] = "Visualisasikan Komuniti Anda";
+$Definition["Customize your community"] = "Sesuaikan komuniti anda";
+$Definition["Configuration & Addons"] = "Konfigurasi & Tambahan";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Adakah anda pasti mahu memadamkan %s anda?";
+$Definition["Newest Report"] = "Laporan Terbaru";
+$Definition["Oldest Report"] = "Laporan Tertua";
+$Definition["Report Dismissed"] = "Laporan Diketepikan";
+$Definition["Post Rejected"] = "Jawatan Ditolak";
+$Definition["Escalated"] = "Ditingkatkan";
+$Definition["Reported by <0/>"] = "Dilaporkan oleh <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Tiada nota laporan disediakan oleh <0/>";
+$Definition["Create"] = "Buat";
+$Definition["Edited"] = "disunting";
+$Definition["Newest Escalation"] = "Peningkatan terbaharu";
+$Definition["Oldest Escalation"] = "Peningkatan Tertua";
+$Definition["Escalations Dashboard"] = "Papan Pemuka Eskalasi";
+$Definition["On Hold"] = "Ditahan";
+$Definition["Done"] = "Selesai";
+$Definition["In Jira"] = "Di Jira";
+$Definition["In Zendesk"] = "Di Zendesk";
+$Definition["Integrations"] = "Integrasi";
+$Definition["Remove Post"] = "Alih Keluar Siaran";
+$Definition["Escalated by <0/>"] = "Ditingkatkan oleh <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Masukkan tajuk untuk peningkatan ini";
+$Definition["Escalated by <0/>"] = "Ditingkatkan oleh <0/>";
+$Definition["Post Revision"] = "Semakan Pasca";
+$Definition["Loader"] = "Pemuat";
+$Definition["a month"] = "sebulan";
+$Definition["%s ago"] = "%s lalu";
+$Definition["Live"] = "Langsung";
+$Definition["Live Post"] = "Siaran Langsung";
+$Definition["Remove Post"] = "Alih Keluar Siaran";
+$Definition["Internal Comments"] = "Komen Dalaman";
+$Definition["Add a comment"] = "Tambah ulasan";
+$Definition["Live"] = "Langsung";
+$Definition["There are currently no comments on this post"] =
+    "Tiada ulasan pada siaran ini buat masa ini";
+$Definition["All comments on this post will appear here"] =
+    "Semua komen pada siaran ini akan dipaparkan di sini";
+$Definition["Reports for <0/>"] = "Laporan untuk <0/>";
+$Definition["Live Post"] = "Siaran Langsung";
+$Definition["There are currently no reports for this post."] =
+    "Pada masa ini tiada laporan untuk siaran ini.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Senarai laporan yang dikaitkan dengan siaran ini akan dipaparkan di sini.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Konfigurasikan tempat laporan dihantar dan urus sebab laporan komuniti anda.";
+$Definition["New Community Management System"] =
+    "Sistem Pengurusan Komuniti Baharu";
+$Definition["Enable Triage Dashboard"] = "Dayakan Papan Pemuka Triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Semua pengguna dengan kebenaran kakitangan akan dapat melihat dan menandai perbincangan sebagai diselesaikan atau tidak diselesaikan. Pengguna ini juga akan dapat mengakses papan pemuka triage untuk menyederhanakan kategori mereka.";
+$Definition["Resolve All Discussions"] = "Selesaikan Semua Perbincangan";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Selesaikan Semua Siaran akan menyelesaikan semua siaran sedia ada dalam komuniti. Tindakan pukal ini tidak akan mencetuskan webhooks atau analitis.";
+$Definition["Resolve All"] = "Selesaikan Semua";
+$Definition["Required field"] = "Medan yang diperlukan";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Sistem pengurusan komuniti baharu membenarkan sebab pelaporan tersuai, peningkatan, tugasan dan peraturan automasi. Mendayakan ini mengubah pengambilan pelaporan untuk menggunakan sistem baharu. <0>Baca Lagi</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Ini akan menyelesaikan semua siaran sedia ada dalam komuniti. Tindakan pukal ini tidak akan mencetuskan webhooks atau analitis log. teruskan?";
+$Definition["Reorder"] = "Susun semula";
+$Definition["Add Reason"] = "Tambah Sebab";
+$Definition["Delete?"] = "Padam?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Adakah anda pasti mahu memadamkan sebab ini?";
+$Definition["A concise name for the report reason."] =
+    "Nama ringkas untuk alasan laporan.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Label unik atas sebab laporan. Label ini tidak boleh ditukar setelah disimpan.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Penjelasan tentang sebab laporan untuk wartawan yang lebih baik membuat pilihan yang betul semasa melaporkan siaran.";
+$Definition["The roles which can see this report reason."] =
+    "Peranan yang boleh melihat sebab laporan ini.";
+$Definition["Add Report Reason"] = "Tambah Sebab Laporan";
+$Definition["Discard Changes?"] = "Buang Perubahan?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Adakah anda pasti mahu keluar tanpa menyimpan?";
+$Definition["Reorder Report Reasons"] = "Susun Semula Sebab Laporan";
+$Definition["Edit Report Reason"] = "Edit Sebab Laporan";
+$Definition["Delete Report Reason"] = "Padamkan Sebab Laporan";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Tetapan ini mesti didayakan untuk menggunakan Benang Perbincangan Tersuai.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Konfigurasikan tetapan yang digunakan untuk menyederhanakan kandungan komuniti secara automatik sebelum ia dibuat. Pilihan termasuk pengesanan spam automatik, memerlukan kelulusan untuk menyiarkan dalam kategori tertentu dan memerlukan kelulusan untuk menyiarkan menggunakan kata kunci atau frasa tertentu.";
+$Definition["Spam Detection"] = "Pengesanan Spam";
+$Definition["Learn more."] = "Ketahui lebih lanjut.";
+$Definition["documentation."] = "dokumentasi.";
+$Definition["Verify browsers of new members"] =
+    "Sahkan pelayar ahli baharu";
+$Definition["Challenge Cutoff Age"] = "Umur Potongan Cabaran";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Bilangan hari sejak pendaftaran untuk memintas cabaran Cloudflare";
+$Definition["Save challenge cutoff age"] = "Simpan umur pemotongan cabaran";
+$Definition["Premoderated Roles"] = "Peranan Pramoderasi";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Pengguna dengan kebenaran \"Approval.Require\" akan memerlukan kelulusan moderator untuk semua siaran.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Pengguna yang ditandai sebagai \"Disahkan\" akan memintas keperluan ini. Ini ialah peranan dengan \"Kelulusan. Memerlukan\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Tiada peranan ditetapkan pada masa ini untuk memerlukan pramoderasi.";
+$Definition["Edit Roles"] = "Edit Peranan";
+$Definition["Premoderated Categories"] = "Kategori Pramoderasi";
+$Definition["No categories are currently set to require premoderation."] =
+    "Tiada kategori ditetapkan pada masa ini untuk memerlukan pramoderasi.";
+$Definition["Edit Categories"] = "Edit Kategori";
+$Definition["Premoderated Keywords"] = "Kata Kunci Pramoderasi";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Siaran dengan mana-mana kata kunci atau frasa berikut memerlukan kelulusan moderator.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Tiada kata kunci ditetapkan pada masa ini untuk memerlukan pramoderasi.";
+$Definition["Edit Keywords"] = "Edit Kata Kunci";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Dayakan Akismet menapis spam dalam semua siaran oleh pendaftaran pemohon dan pengguna yang tidak disahkan. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Dayakan Stopforumspam untuk menyemak pengguna komuniti terhadap senarai pengirim spam yang dilaporkan, dan sama ada melaporkan siaran itu sebagai spam atau menolaknya secara langsung. Ambang pelaporan dan penolakan diurus dalam <0>tetapan addon</0> . Ketahui lebih lanjut dalam <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Ahli yang tidak disahkan yang telah berada dalam komuniti kurang daripada bilangan hari yang ditentukan akan digesa untuk menyelesaikan cabaran Cloudflare (Captcha atau Kotak Semak) untuk mengelakkan spam. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s dalam kategori berikut memerlukan kelulusan penyederhana.";
+$Definition["Default Sort Order"] = "Susunan Isih Lalai";
+$Definition["Choose the order records are sorted by default."] =
+    "Pilih rekod pesanan diisih secara lalai.";
+$Definition["Show OP Indicator"] = "Tunjukkan Penunjuk OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Jika pilihan ini didayakan, balasan daripada Poster Asal akan mempunyai penunjuk OP.";
+$Definition["Show Badges"] = "Tunjukkan Lencana";
+$Definition["Badges Limit"] = "Had Lencana";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Tunjukkan lencana pengguna pada setiap siaran. Sehingga maksimum 5 lencana boleh dipaparkan mengikut susunan kedudukan tertinggi.";
+$Definition["event"] = "peristiwa";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> lagi ulasan";
+$Definition["Export"] = "Eksport";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Tajuk halaman utama hanya boleh antara 1 dan 500 aksara";
+$Definition["Address Bar Color"] = "Warna Bar Alamat";
+$Definition["Meta Tags"] = "Tag Meta";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta Tag digunakan untuk pengesahan domain untuk Konsol Carian Google dan perkhidmatan lain. Salin Meta Tag yang diperlukan daripada sumber anda dan tampal pada baris baharu.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Luangkan sedikit masa untuk memikirkan bagaimana anda menerangkan laman web anda di sini. Memberi judul yang bermakna dan keterangan ringkas kepada laman web anda dapat membantu kedudukan anda di mesin pencari.";
+$Definition["Style Guides"] = "Panduan Gaya";
+$Definition["Branding & Assets"] = "Penjenamaan & Aset";
+$Definition["Home Pages"] = "Halaman Utama";
+$Definition["Home Layout Settings"] = "Tetapan Reka Letak Rumah";
+$Definition["Category Pages"] = "Halaman Kategori";
+$Definition["Category Layout Settings"] = "Tetapan Reka Letak Kategori";
+$Definition["Category List Pages"] = "Halaman Senarai Kategori";
+$Definition["Posting Category Pages"] = "Menyiarkan Halaman Kategori";
+$Definition["Nested Category Pages"] = "Halaman Kategori Bersarang";
+$Definition["Discussion Pages"] = "Halaman Perbincangan";
+$Definition["Idea Pages"] = "Halaman Idea";
+$Definition["Question Pages"] = "Halaman Soalan";
+$Definition["Post Pages"] = "Halaman Siar";
+$Definition["Post Layout Settings"] = "Tetapan Reka Letak Pos";
+$Definition["Create Post Pages"] = "Buat Halaman Catatan";
+$Definition["Create Post Layout Settings"] = "Buat Tetapan Reka Letak Siaran";
+$Definition["Event Pages"] = "Halaman Acara";
+$Definition["Event Layout Settings"] = "Tetapan Reka Letak Acara";
+$Definition["Knowledge Base Pages"] = "Halaman Pangkalan Pengetahuan";
+$Definition["Knowledge Base Layout Settings"] =
+    "Tetapan Reka Letak Pangkalan Pengetahuan";
+$Definition["Knowledge Base Home Pages"] = "Halaman Utama Pangkalan Pengetahuan";
+$Definition["Help Center Home Pages"] = "Halaman Utama Pusat Bantuan";
+$Definition["Help Center Category Pages"] = "Halaman Kategori Pusat Bantuan";
+$Definition["Help Center Article Pages"] = "Halaman Artikel Pusat Bantuan";
+$Definition["Guide Article Pages"] = "Halaman Artikel Panduan";
+$Definition["Layouts"] = "Susun atur";
+$Definition["Add Custom Layout"] = "Tambah Reka Letak Tersuai";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Pilih Reka Letak Catatan Terkini Legasi yang diutamakan.";
+$Definition["Legacy Recent Posts Layouts"] = "Reka Letak Catatan Terkini Legasi";
+$Definition["Change layout versions for the <0/>."] =
+    "Tukar versi reka letak untuk <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Untuk mengetahui lebih lanjut, <0>lihat dokumentasi</0> .";
+$Definition["Change %s"] = "Tukar %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Adakah anda pasti mahu menggunakan %s?";
+$Definition["Legacy Home Layouts"] = "Reka Letak Rumah Legasi";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Pilih Reka Letak Rumah Legasi pilihan.";
+$Definition["Home Layout Version"] = "Versi Reka Letak Rumah";
+$Definition["Custom Home Layouts"] = "Reka Letak Rumah Tersuai";
+$Definition["Legacy Category Layout"] = "Reka Letak Kategori Legasi";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Pilih Reka Letak Kategori Warisan pilihan.";
+$Definition["Category Layout Version"] = "Versi Reka Letak Kategori";
+$Definition["Legacy Category Layouts"] = "Reka Letak Kategori Legasi";
+$Definition["Custom Category Layouts"] = "Reka Letak Kategori Tersuai";
+$Definition["Legacy Post Layout"] = "Reka Letak Siaran Legasi";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Pilih Reka Letak Siaran Legasi yang diutamakan.";
+$Definition["Post Layout Version"] = "Versi Reka Letak Pos";
+$Definition["Legacy Post Layouts"] = "Reka Letak Siaran Legasi";
+$Definition["Custom Post Layouts"] = "Reka Letak Siaran Tersuai";
+$Definition["Legacy Create Post Layout"] = "Legasi Cipta Reka Letak Siaran";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Pilih Legacy Create Post Layout pilihan.";
+$Definition["Create Post Layout Version"] = "Buat Versi Reka Letak Catatan";
+$Definition["Legacy Create Post Layouts"] = "Legasi Cipta Reka Letak Siaran";
+$Definition["Custom Create Post Layouts"] = "Cipta Reka Letak Siaran Tersuai";
+$Definition["Legacy Event Layout"] = "Reka Letak Acara Warisan";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Pilih Reka Letak Acara Warisan pilihan.";
+$Definition["Event Layout Version"] = "Versi Reka Letak Acara";
+$Definition["Legacy Event Layouts"] = "Reka Letak Acara Warisan";
+$Definition["Custom Event Layouts"] = "Reka Letak Acara Tersuai";
+$Definition["Created <0/> by <1/>."] = "Dicipta <0/> oleh <1/>.";
+$Definition["Layout Options"] = "Pilihan Susun Atur";
+$Definition["Contextual Description"] = "Penerangan Kontekstual";
+$Definition["Skip to end of Carousel"] = "Langkau ke penghujung Carousel";
+$Definition["Previous Slides"] = "Slaid Sebelumnya";
+$Definition["Next Slides"] = "Slaid Seterusnya";
+$Definition["indicator navigation"] = "navigasi penunjuk";
+$Definition["<0/> new"] = "<0/> baharu";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d slaid pada paparan awal slaid %d daripada %d";
+$Definition["Unassigned"] = "Tidak ditugaskan";
+$Definition["Apply Layout to Site Home Page"] =
+    "Gunakan Reka Letak pada Halaman Utama Tapak";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Tetapkan sebagai reka letak lalai untuk subkomuniti tertentu.";
+$Definition["Apply to specific categories."] = "Guna pada kategori tertentu.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Reka letak ini tidak boleh dipadamkan kerana ia adalah templat reka letak.";
+$Definition["Delete Layout"] = "Padamkan Reka Letak";
+$Definition["Are you sure you want to delete?"] =
+    "Adakah anda pasti mahu memadamkan?";
+$Definition["Applied"] = "Digunakan";
+$Definition["Applied as default"] = "Digunakan sebagai lalai";
+$Definition["View Category"] = "Lihat Kategori";
+$Definition["Apply to specific subcommunities."] =
+    "Memohon kepada subkomuniti tertentu.";
+$Definition["Unable to re-assign default template"] =
+    "Tidak dapat menetapkan semula templat lalai";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Reka letak ini ialah templat dan ditetapkan sebagai lalai untuk semua halaman jenis ini. Untuk mengalih keluarnya sebagai lalai atau untuk menetapkannya ke halaman tertentu, anda mesti menetapkan reka letak yang berbeza sebagai lalai.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Reka letak ini tidak boleh dipadamkan kerana ia sedang digunakan.";
+$Definition["Set as default layout for all <0 />."] =
+    "Tetapkan sebagai reka letak lalai untuk semua <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Reka Letak Pangkalan Pengetahuan Legasi";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Pilih Reka Letak Pangkalan Pengetahuan Warisan pilihan.";
+$Definition["Knowledge Base Layout Version"] = "Versi Tata Letak Pangkalan Pengetahuan";
+$Definition["Legacy Knowledge Base Layouts"] = "Reka Letak Pangkalan Pengetahuan Legasi";
+$Definition["Custom Knowledge Base Layouts"] = "Reka Letak Pangkalan Pengetahuan Tersuai";
+$Definition["Article Count"] = "Kiraan Artikel";
+$Definition["Legacy Layouts enabled"] = "Reka Letak Lama didayakan";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Harap maklum bahawa perubahan reka letak ini tidak akan kelihatan sehingga anda bertukar kepada reka letak tersuai.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Perubahan reka letak ini tidak akan kelihatan sehingga anda menukar komuniti anda kepada <0/> tersuai dalam halaman <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Tetapkan sebagai reka letak lalai untuk pangkalan pengetahuan tertentu.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Tapak ini tidak membenarkan anda berhubung dengan pengguna sedia ada.";
+$Definition["The username you entered has already been taken."] =
+    "Nama pengguna yang anda masukkan telah pun diambil.";
+$Definition["There was an error fetching the connection data."] =
+    "Terdapat ralat semasa mengambil data sambungan.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Gagal mengesahkan permintaan tetapan semula kata laluan anda. Cuba gunakan borang permintaan set semula sekali lagi.";
+$Definition["Invitation not found."] = "Jemputan tidak ditemui.";
+
+$Definition['# of automation rules'] = '# peraturan automasi';
+$Definition['Add Template'] = 'Tambah Templat';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Pilih siapa yang patut menerima e-mel ini apabila peraturan automasi ini dijalankan';
+$Definition['Delete an email template.'] = 'Padam templat e-mel.';
+$Definition['Email Audience'] = 'Khalayak E-mel';
+$Definition['Email Template'] = 'Templat E-mel';
+$Definition['Email Templates'] = 'Templat E-mel';
+$Definition['Email Template successfully deleted.'] = 'Templat E-mel berjaya dipadamkan.';
+$Definition['Email Template not enabled.'] = 'Templat E-mel tidak diaktifkan.';
+$Definition['Email template not found.'] = 'Templat e-mel tidak ditemui.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Nama templat e-mel sudah wujud. Masukkan nama unik untuk meneruskan.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Templat e-mel boleh digunakan bersama <0/> untuk berkomunikasi dengan pengguna berdasarkan aktiviti ahli atau pencetus komuniti yang lain.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Dayakan pilihan ini untuk menghantar e-mel susulan apabila peraturan dicetuskan.';
+$Definition['Impacted User'] = 'Pengguna yang Terpengaruh';
+$Definition['Search and select one or more roles to receive this email'] = 'Cari dan pilih satu atau lebih peranan untuk menerima e-mel ini';
+$Definition['Search and select one or more users to receive this email.'] = 'Cari dan pilih satu atau lebih pengguna untuk menerima e-mel ini.';
+$Definition['Select Roles'] = 'Pilih Peranan';
+$Definition['Select User'] = 'Pilih Pengguna';
+$Definition['Select the email template to send.'] = 'Pilih templat e-mel untuk dihantar.';
+$Definition['Send an Email After This Rule Runs'] = 'Hantar E-mel Selepas Peraturan Ini Berlaku';
+$Definition['Send email'] = 'Hantar e-mel';
+$Definition['Send the email'] = 'Hantar e-mel';
+$Definition['Send email to user'] = 'Hantar e-mel kepada pengguna';
+$Definition['Specific Roles'] = 'Peranan Khusus';
+$Definition['Specific Users'] = 'Pengguna Tertentu';
+$Definition['System email templates cannot be deleted.'] = 'Templat e-mel sistem tidak boleh dipadamkan.';
+$Definition['template name'] = 'nama templat';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Gunakan halaman ini untuk mencipta dan mengurus templat anda, kemudian konfigurasikan <0/> anda untuk mengawal bila setiap e-mel dihantar dan kepada siapa.';
+$Definition['View the full list of available placeholders.'] = 'Lihat senarai penuh ruang letak yang tersedia.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Anda juga boleh memasukkan ruang letak dalam kandungan e-mel anda—ini akan digantikan secara automatik dengan maklumat pengguna atau siaran yang berkaitan apabila e-mel dihantar. Contohnya, Hello {user.name}! atau Check out {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Anda tidak boleh memadam e-mel sistem';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Anda tidak boleh memadam templat yang digunakan dalam peraturan automasi.';
+$Definition['You will no longer receive community engagement emails.'] = 'Anda tidak akan lagi menerima e-mel penglibatan komuniti.';
+$Definition['Delete Email Template'] = 'Padam Templat E-mel';
+$Definition["Template Styles"] = "Gaya Templat";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Biarkan mana-mana medan kosong untuk menggunakan gaya e-mel lalai anda seperti yang dikonfigurasikan pada <0>Tetapan E-mel</0> halaman.";

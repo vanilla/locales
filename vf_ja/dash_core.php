@@ -1362,3 +1362,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendeskナレッジベース';
 $Definition['Zoom Meeting ID or URL'] = 'ZoomミーティングIDまたはURL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You}が質問に対する{NotifyUserID,your}の回答を採用しました：<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "モバイルロゴ";
+$Definition["Banner Image"] = "バナー画像";
+$Definition["Disable Forum Pages"] = "フォーラムページを無効化";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "コミュニティ内の投稿に使用する、エディタのデフォルトフォーマットを選択してください。";
+$Definition["InputFormatter.Notes2"] =
+    "編集時に、古い投稿のフォーマットが自動的に検出され、元のフォーマットのルールが読み込まれます。 この例外を除いて、下記の選択された投稿フォーマットが優先されます。";
+$Definition["Formatting Posts"] = "投稿のフォーマット";
+$Definition["MobileInputFormatter.Notes1"] =
+    "モバイルデバイスのエディット形式を指定してください。";
+$Definition["MobileInputFormatter.Notes2"] =
+    "モバイルデバイスに同じエクスペリエンスを適用する必要がある場合は、上記と同じものを指定してください。ユーザーがモバイル編集に関する問題を報告した場合は、これを変更することをお勧めします。";
+$Definition["Note:"] = "ご注意：";
+$Definition["Post Format"] = "投稿のフォーマット";
+$Definition["Posting"] = "投稿";
+$Definition["Reinterpret All Posts As %s"] = "すべての投稿を%sとして再解釈";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "古い投稿はすべて%sとして解釈するようエディターに指示";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "この設定は%sが上の投稿書式として選択された場合にのみ有効となります。";
+$Definition["This option is to normalize the editor format"] =
+    "このオプションは、エディターの書式を正規化するためのものです。マークダウンやBBCodeなど、別の書式で編集された比較的古い投稿をロードすると、このオプションが強制的に%sを実行します。";
+
+$Definition["Mobile Format"] = "モバイルデバイスのフォーマット";
+$Definition["Enable Rich Quotes"] = "リッチ引用を有効にする";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    '次のオプションを使用して、リッチエディター用の引用を有効にします。これはデフォルトのフォーマッタが「リッチ」の場合にのみ適用されます。';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "デフォルトのプレースホルダー";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "ユーザーの投稿に画像がない場合に表示される、プレースホルダーの画像をアップロードしてください。";
+$Definition["Additional classes"] = "追加のクラス";
+$Definition["Apply additional classes on catalogue image."] =
+    "カタログ画像に追加のクラスを適用してください。各クラスを分けるにはスペースを使用してください。";
+$Definition["Category only"] = "カテゴリーのみ";
+$Definition["Display on category page only."] =
+    "カテゴリーページのみに表示されます。最近のディスカッションのリストは影響を受けません。";
+$Definition["Use Masonry display"] = " Masonry表示を使用する";
+$Definition["Show an uploaded image on the Category page."] =
+    '各ディスカッションでは、アップロードされた画像がカテゴリーのページに表示されます。これは、「表示形式」が「ディスカッション」のカテゴリーにのみ適用されます。';
+$Definition["Upload Placeholder Image"] = "プレースホルダーの画像をアップロード";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "変更の保存中にエラーが発生しました。再度お試しください。";
+$Definition["<0/> has been <1/>"] = "<0/>は<1/>でした";
+$Definition["enabled"] = "有効";
+$Definition["disabled"] = "無効";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "この情報は内部情報へのアクセス許可を持つユーザーのみに表示されます";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "これは機密情報であり、他のメンバーには共有されません。";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "これにより、Zoom統合の所有者に代わってZoomミーティングが作成され、あなたが登録ユーザーの場合は共同ホストとして追加されます。あなたがZoomの登録ユーザーでない場合、または統合を設定した組織の一員でない場合、このイベントはホストなしでZoom機能が制限される場合があります。";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'あなたはこのイベントのZoom URLまたはIDを更新することはできません。';
+
+$Definition["Zoom Meeting ID or URL"] = "ZoomミーティングIDまたはURL";
+
+// Automation Rules
+$Definition["Add tag"] = "タグを追加する";
+$Definition["A post"] = "投稿";
+$Definition["A post has been added to a collection"] =
+    "投稿がコレクションに追加されました";
+$Definition["A post has not had any activity"] =
+    "投稿にはアクティビティがありません";
+$Definition["A question"] = "質問";
+$Definition["A user has been registered"] = "ユーザーが登録されました";
+$Definition["A post has received"] = "投稿が届きました";
+$Definition["Date field reached"] = "日付フィールドに到達しました";
+$Definition["A user registers or logs in with email domain:"] =
+    "ユーザーが電子メールドメインを使用して登録またはログインします：";
+$Definition["A user registers or updates a profile field:"] =
+    "ユーザーはプロフィールフィールドを登録または更新する：";
+$Definition["Add tags:"] = "タグを追加する：";
+$Definition["Add to collection:"] = "コレクションに追加する：";
+$Definition["An idea has received"] = "アイデアが届きました";
+$Definition["and"] = "また";
+$Definition["and assign to"] = "そして割り当てます";
+$Definition["and remove role"] = "そして役割を削除する";
+$Definition["and remove from community"] = "そしてコミュニティから削除します";
+$Definition["Assign role:"] = "役割を割り当てる：";
+$Definition["Assign/Remove role"] = "役割を割り当てる/削除する";
+$Definition["Auto-run disabled."] = "自動実行が無効になっています。";
+$Definition["Auto-run enabled."] = "自動実行が有効になっています。";
+$Definition["Automation rule successfully created."] =
+    "自動化ルールが正常に作成されました。";
+$Definition["Automation rule successfully updated."] =
+    "自動化ルールが正常に更新されました。";
+$Definition["Bump post"] = "投稿をバンプする";
+$Definition["Change the status of the idea to"] =
+    "アイデアのステータスを次のように変更する";
+$Definition["Change status"] = "ステータスを変更する";
+$Definition["Close post"] = "投稿を閉じる";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "現在のコメントの一致基準：<0 />";
+$Definition["created by"] = "作成者";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "自動化を作成および管理して、投稿とユーザーを簡単に管理します。";
+$Definition["Create/Edit Automation Rule"] = "自動化ルールを作成/編集する";
+$Definition["Delete Rule"] = "ルールを削除する";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "現在のディスカッションの一致基準：<0 />";
+$Definition["Edit Rule"] = "ルールを編集する";
+$Definition["Edit Variables"] = "変数を編集する";
+$Definition["Escalate it"] = "エスカレーションする";
+$Definition["Escalate to GitHub"] = "GitHubにエスカレーションする";
+$Definition["Escalate to Zendesk"] = "Zendeskにエスカレーションする";
+$Definition["Expand"] = "展開する";
+$Definition["Failed to disable the rule"] = "ルールを無効にできませんでした";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "プレビューデータの読み込みに失敗しました。トリガーとアクションの値を確認してください。";
+$Definition["Follow categories:"] = "カテゴリをフォローする：";
+$Definition["Follow category"] = "カテゴリをフォローする";
+$Definition["for"] = "のために";
+$Definition["has been unanswered"] = "は未回答です";
+$Definition["has not received any comments"] = "にはコメントが届いていません";
+$Definition["Last reported"] = "最終レポート";
+$Definition["Maximum Limit Reached"] = "上限に達しました";
+$Definition["Move post"] = "投稿を移動する";
+$Definition["Move to category:"] = "カテゴリに移動する：";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "ユーザーがいずれかの基準を満たした場合、複数選択フィールドがトリガーされます。";
+$Definition["New/Updated Email domain"] = "新規/更新された電子メールドメイン";
+$Definition["New/Updated Profile field"] = "新規/更新されたプロフィールフィールド";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "注：アクションは、関連するアクションがすでに適用されている<0/>には影響しません。";
+$Definition["Post Management"] = "投稿管理";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "現在条件に一致する投稿：<0 />";
+$Definition["Remove from collection"] = "コレクションから削除する";
+$Definition["Remove from collection:"] = "コレクションから削除する：";
+$Definition["Remove from default follow list"] =
+    "デフォルトのフォローリストから削除する";
+$Definition["Remove from trigger collection"] =
+    "トリガーコレクションから削除する";
+$Definition["report"] = "レポート";
+$Definition["reports"] = "レポート";
+$Definition["Rule Action"] = "ルールアクション";
+$Definition["Rule may not be deleted while it is running"] =
+    "ルールは実行中に削除できません";
+$Definition["Rule may not be edited while it is running"] =
+    "ルールは実行中に編集できません";
+$Definition["Rule Name"] = "ルール名";
+$Definition["Rule status will apply once current run completes"] =
+    "現在の実行が完了すると、ルールのステータスが適用されます";
+$Definition["Rule Trigger"] = "ルールトリガー";
+$Definition["Running"] = "実行中";
+$Definition["See documentation for more information."] =
+    "詳細については、ドキュメントを参照してください。";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "このルールがトリガーされたときに発生するアクションを選択します。";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "このルールを実行するトリガーを選択します。";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "トリガー変数とアクション変数を設定して、ルール概要を生成します。";
+$Definition["sentiment"] = "感情";
+$Definition["since"] = "以来";
+$Definition["Summary"] = "概要";
+$Definition["The action will be applied to only them if you proceed."] =
+    "続行すると、アクションはそれらのみに適用されます。";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "ルールが有効になると、アクションがそれらに適用されます。今後、トリガー条件を満たす他の <0 /> にもアクションが適用されるようになります。";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "現時点では、これはどの<0 />にも影響しません。今後、条件を満たすものに影響が出ます。";
+$Definition["Time since added to collection"] =
+    "コレクションに追加されてからの時間";
+$Definition["Time since post has had no comments"] =
+    "投稿にコメントがなくなってからの時間";
+$Definition["Time since Registration"] = "登録からの時間";
+$Definition["Time since post has had no activity"] =
+    "投稿にアクティビティがなくなってからの時間";
+$Definition["Time since question has been unanswered"] =
+    "質問が未回答になってからの時間";
+$Definition["Trigger"] = "トリガー";
+$Definition["Unsaved Changes"] = "未保存の変更";
+$Definition["Up to <0 /> ago."] = "<0 />前まで。";
+$Definition["upvote"] = "アップヴォート";
+$Definition["upvotes"] = "アップヴォート";
+$Definition["User Management"] = "ユーザー管理";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "現在条件に一致するユーザー：<0 />";
+$Definition["Value is not a valid integer."] = "値が有効な整数ではありません。";
+$Definition["View History"] = "履歴を表示する";
+$Definition["Votes on an idea"] = "アイデアに対する投票";
+$Definition["with"] = "と共に";
+$Definition["with reason"] = "理由付き";
+$Definition["with tag"] = "タグ付き";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "150を超える自動化ルールを追加することはできません。いくつかのルールを削除して再試行してください。";
+
+// Icon Management
+$Definition["No icons match those filters."] = "これらのフィルターに一致するアイコンがありません。";
+$Definition["Manage Icon"] = "アイコンを管理";
+$Definition["Manage Icons"] = "アイコンを管理";
+$Definition["Manage Icon helptext"] =
+    "ここでシステムアイコンと履歴アイコンを管理することができます。アップロードする際は、アイコンがSVG形式であること、viewBox属性が含まれていること、テーマ設定やユーザーインタラクションに基づいて動的に色付けできるようにカラー#000000を使用していることを確認してください。一度にアクティブにできるアイコンは各タイプ1つだけです。";
+$Definition["Upload New Icon"] = "新しいアイコンをアップロード";
+$Definition["Active Icon"] = "アクティブ アイコン";
+$Definition["New Icon"] = "新しいアイコン";
+$Definition["Icon Type"] = "アイコン タイプ";
+$Definition["Previous Icons"] = "以前のアイコン";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "アイコンの旧バージョンはここにあり、いつでも復元することができます。";
+$Definition["Set as Active"] = "アクティブに設定";
+$Definition["Uploaded <0/> by <1/>"] = "アップロード<0/>者<1/>：";
+$Definition["Icon Packs"] = "アイコンパック";
+$Definition["Download Active Icon Pack"] = "アクティブ アイコンパックをダウンロード";
+$Definition["Download System Icon Pack"] = "システム アイコンパックをダウンロード";
+$Definition["Upload Icon Pack"] = "アイコンパックをアップロード";
+$Definition["Preview Icon Pack"] = "アイコンパックをプレビュー";
+$Definition["Changed Icons"] = "変更されたアイコン";
+$Definition["Icon Name"] = "アイコン名";
+$Definition["All icons in this icon pack are currently active."] =
+    "アイコンパックのすべてのアイコンが現在アクティブです。";
+$Definition["Activate Icon Pack"] = "アクティブ アイコンパック";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "カスタムアイコンで上書きされたアイコンのみを表示する。";
+$Definition["System Icon"] = "システムアイコン";
+$Definition["Custom Icon"] = "カスタムアイコン";
+$Definition["Only show icons that are default system icons."] =
+    "デフォルトのシステムアイコンのみを表示する。";
+$Definition["Previews"] = "プレビュー";
+$Definition["Icon Size"] = "アイコンサイズ";
+$Definition["This is the actual size most icons render at."] =
+    "これはほとんどのアイコンの実際の表示サイズです。";
+$Definition["Preview Color"] = "プレビューカラー";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "この色がアイコンカラーのプレビューに使用されます。アップロードしたアイコンに #000000 が使用されている場合は、この色に置き換えられます。実際のアプリケーションでは、色は動的に表示されます。";
+$Definition["Escalation Name"] = "エスカレーション名";
+$Definition["Status on Creation"] = "作成状況";
+$Definition["Assignee"] = "被割り当て者";
+$Definition["Internal Comment"] = "内部コメント";
+$Definition["Set Post Visibility to Hidden"] = "投稿の表示設定を非表示にする";
+$Definition["Remove Method"] = "削除方法";
+$Definition["Wipe"] = "ワイプ";
+$Definition["Newest Post"] = "最も新しい投稿";
+$Definition["Oldest Post"] = "最も古い投稿";
+$Definition["Triage"] = "トリアージ";
+$Definition["Triage Dashboard"] = "トリアージダッシュボード";
+$Definition["Message Post Author"] = "メッセージ投稿の作成者";
+$Definition["Add Filter"] = "フィルターを追加";
+$Definition["Customer Support"] = "カスタマーサポート";
+$Definition["My Profile"] = "マイプロフィール";
+$Definition["Resolve post"] = "投稿を解決する";
+$Definition["View post in community"] = "コミュニティーの投稿を見る";
+$Definition["View Details"] = "詳細を見る";
+$Definition["Escalate"] = "エスカレート";
+$Definition["Posted by <0/> in <1/>"] = "<0/> が <1/> に投稿";
+$Definition["Show"] = "表示する";
+$Definition["View Escalation"] = "エスカレーションを見る";
+$Definition["# Reports"] = "報告数";
+$Definition["Last Reported"] = "直近の報告";
+$Definition["Report Reasons"] = "報告理由";
+$Definition["Last Modified"] = "直近の変更";
+$Definition["Last refreshed <0/> by <1/>."] = "<1/> が <0/> に最終更新済み。";
+
+$Definition["Moderation Content"] = "モデレーションコンテンツ";
+$Definition["AI Settings"] = "AI設定";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIPデプロイ";
+$Definition["Activity & Registration"] = "アクティビティと登録";
+$Definition["Content Settings"] = "コンテンツ設定";
+$Definition["Premoderation Settings"] = "事前モデレーション設定";
+$Definition["Escalation Rules"] = "エスカレーションルール";
+$Definition["Automation"] = "オートメーション";
+$Definition["Audit Log"] = "監査ログ";
+$Definition["Community Management"] = "コミュニティー管理";
+$Definition["Visualize Your Community"] = "コミュニティーを視覚化";
+$Definition["Customize your community"] = "コミュニティーをカスタマイズする";
+$Definition["Configuration & Addons"] = "構成とアドオン";
+$Definition["Are you sure you want to delete your %s?"] =
+    "本当に %s を削除しますか？";
+$Definition["Newest Report"] = "最も新しい報告";
+$Definition["Oldest Report"] = "最も古い報告";
+$Definition["Report Dismissed"] = "報告は却下されました";
+$Definition["Post Rejected"] = "投稿が拒否されました";
+$Definition["Escalated"] = "エスカレーション済み";
+$Definition["Reported by <0/>"] = "<0/> によって報告されました";
+$Definition["No report notes were provided by <0/>"] =
+    "<0/> から報告メモは提供されませんでした";
+$Definition["Create"] = "CreateFile";
+$Definition["Edited"] = "編集済み";
+$Definition["Newest Escalation"] = "最も新しいエスカレーション";
+$Definition["Oldest Escalation"] = "最も古いエスカレーション";
+$Definition["Escalations Dashboard"] = "エスカレーションダッシュボード";
+$Definition["On Hold"] = "保留中";
+$Definition["Done"] = "完了";
+$Definition["In Jira"] = "Jiraに";
+$Definition["In Zendesk"] = "Zendeskに";
+$Definition["Integrations"] = "統合";
+$Definition["Remove Post"] = "投稿を削除";
+$Definition["Escalated by <0/>"] = "<0/> によってエスカレーションされました";
+$Definition["Enter a title for this escalation"] =
+    "このエスカレーションのタイトルを入力する";
+$Definition["Escalated by <0/>"] = "<0/> によってエスカレーションされました";
+$Definition["Post Revision"] = "投稿の改訂";
+$Definition["Loader"] = "ローダー";
+$Definition["a month"] = "1か月";
+$Definition["%s ago"] = "%s 前";
+$Definition["Live"] = "ライブ";
+$Definition["Live Post"] = "ライブ投稿";
+$Definition["Remove Post"] = "投稿を削除";
+$Definition["Internal Comments"] = "内部コメント";
+$Definition["Add a comment"] = "コメントを追加する";
+$Definition["Live"] = "ライブ";
+$Definition["There are currently no comments on this post"] =
+    "この投稿には現在コメントがありません";
+$Definition["All comments on this post will appear here"] =
+    "この投稿へのコメントはすべてここに表示されます";
+$Definition["Reports for <0/>"] = "<0/> 向けの報告";
+$Definition["Live Post"] = "ライブ投稿";
+$Definition["There are currently no reports for this post."] =
+    "現在、この投稿に関する報告はありません。";
+$Definition["A list of reports associated with this post will appear here."] =
+    "この投稿に関連する報告のリストがここに表示されます。";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "報告の送信先を設定し、コミュニティーの報告理由を管理します。";
+$Definition["New Community Management System"] =
+    "新しいコミュニティー管理システム";
+$Definition["Enable Triage Dashboard"] = "トリアージダッシュボードの有効化";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "スタッフ権限を持つすべてのユーザーは、ディスカッションを閲覧し、解決済みまたは未解決としてマークすることができます。また、トリアージダッシュボードにアクセスして、カテゴリーのモデレーションを行うこともできます。";
+$Definition["Resolve All Discussions"] = "すべての議論を解決";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "「すべての投稿を解決」は、コミュニティー内の既存の投稿をすべて解決します。この一括操作では、Webhookやアナリティクスはトリガーされません。";
+$Definition["Resolve All"] = "すべて解決";
+$Definition["Required field"] = "必須フィールド";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "新しいコミュニティー管理システムでは、報告理由、エスカレーション、割り当て、自動化ルールをカスタマイズできます。これを有効にすると、新しいシステムを利用するための報告取得が変更されます。<0>詳細はこちら</0>。";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "これにより、コミュニティー内の既存の投稿がすべて解決となります。この一括操作では、Webhookやログ分析は実行されません。続行しますか？";
+$Definition["Reorder"] = "並べ替え";
+$Definition["Add Reason"] = "理由を追加";
+$Definition["Delete?"] = "削除しますか？";
+$Definition["Are you sure you want to delete this reason?"] =
+    "本当にこの理由を削除しますか？";
+$Definition["A concise name for the report reason."] =
+    "報告理由の簡潔な名称。";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "報告理由の一意のラベル。このラベルは保存後に変更できません。";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "報告者が投稿を報告する際に、正しい選択ができるようにするための報告理由の説明。";
+$Definition["The roles which can see this report reason."] =
+    "この報告理由を参照できるロール。";
+$Definition["Add Report Reason"] = "報告理由を追加";
+$Definition["Discard Changes?"] = "変更を破棄しますか？";
+$Definition["Are you sure you want to exit without saving?"] =
+    "本当に保存せずに終了しますか？";
+$Definition["Reorder Report Reasons"] = "報告理由を並び替え";
+$Definition["Edit Report Reason"] = "報告理由を編集";
+$Definition["Delete Report Reason"] = "報告理由を削除";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "カスタムディスカッションスレッドを使用するには、この設定を有効にする必要があります。";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "コミュニティーコンテンツが作成される前に、自動的にモデレーションするための設定を行います。自動スパム検出、特定のカテゴリーへの投稿に承認を求める設定、特定のキーワードやフレーズを使用した投稿に承認を求める設定など、様々なオプションがあります。";
+$Definition["Spam Detection"] = "スパム検出";
+$Definition["Learn more."] = "詳しく見る。";
+$Definition["documentation."] = "文書。";
+$Definition["Verify browsers of new members"] =
+    "新規メンバーのブラウザを確認する";
+$Definition["Challenge Cutoff Age"] = "チャレンジのカットオフ年齢";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Cloudflareのチャレンジを回避するための登録からの日数";
+$Definition["Save challenge cutoff age"] = "チャレンジのカットオフ年齢を保存する";
+$Definition["Premoderated Roles"] = "事前モデレーション済みのロール";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "「Approval.Require」権限を持つユーザーは、すべての投稿に対してモデレーターの承認が必要になります。";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "「確認済み」とマークされたユーザーは、この要件を回避できます。これらは「Approval.Require」を伴うロールです。";
+$Definition["No roles are currently set to require premoderation."] =
+    "現在、事前モデレーションを必要とするロールは設定されていません。";
+$Definition["Edit Roles"] = "ロールを編集";
+$Definition["Premoderated Categories"] = "事前モデレーション済みのカテゴリー";
+$Definition["No categories are currently set to require premoderation."] =
+    "現在、事前モデレーションを必要とするカテゴリーは設定されていません。";
+$Definition["Edit Categories"] = "カテゴリーを編集";
+$Definition["Premoderated Keywords"] = "事前モデレーション済みのキーワード";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "以下のキーワードまたはフレーズを含む投稿には、モデレーターの承認が必要になります。";
+$Definition["No keywords are currently set to require premoderation."] =
+    "現在、事前モデレーションを必要とするキーワードは設定されていません。";
+$Definition["Edit Keywords"] = "キーワードを編集";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Akismetを有効にすると、申請者登録および未確認ユーザーによるすべての投稿のスパムをフィルタリングできます。<0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Stopforumspamを有効にすると、コミュニティーユーザーを報告済みスパマーリストと照合し、投稿をスパムとして報告するか、完全に拒否します。報告と拒否の基準は、<0>アドオンの設定</0>で管理します。詳しくは <1/> をご覧ください";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "指定した日数未満の期間、コミュニティーに参加している未確認のメンバーには、スパムを防ぐためにCloudflare（Captchaまたはチェックボックス）チャレンジを完了することが求められます。<0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "以下のカテゴリーの %s はモデレーターの承認が必要です。";
+$Definition["Default Sort Order"] = "デフォルトの並べ替え順序";
+$Definition["Choose the order records are sorted by default."] =
+    "レコードがデフォルトでソートされる順序を選択します。";
+$Definition["Show OP Indicator"] = "OPインジケーターを表示";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "このオプションが有効な場合、オリジナル投稿者の返信にはOPインジケーターが表示されます。";
+$Definition["Show Badges"] = "バッジを表示";
+$Definition["Badges Limit"] = "バッジの制限";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "各投稿にユーザーのバッジを表示します。バッジは上位順に最大5個まで表示されます。";
+$Definition["event"] = "イベント";
+$Definition["<0/> <1/> more comments"] = "さらに<0/> <1/>件のコメント";
+$Definition["Export"] = "エクスポート";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "ホームページのタイトルは1文字から500文字の範囲でしか設定できません。";
+$Definition["Address Bar Color"] = "アドレスバーの色";
+$Definition["Meta Tags"] = "メタタグ";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "メタタグは、Google Search Consoleやその他のサービスでのドメイン認証に使用されます。必要なメタタグをソースからコピーして、新しい行に貼り付けます。";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "少しの時間、自分のサイトをここでどのように説明するかについて考えてください。サイトに意味のあるタイトルをつけ、簡潔な説明を加えることで、検索エンジンにおける位置づけが向上する可能性があります。";
+$Definition["Style Guides"] = "スタイルガイド";
+$Definition["Branding & Assets"] = "ブランディングとアセット";
+$Definition["Home Pages"] = "ホームページ";
+$Definition["Home Layout Settings"] = "ホームレイアウト設定";
+$Definition["Category Pages"] = "カテゴリページ";
+$Definition["Category Layout Settings"] = "カテゴリレイアウト設定";
+$Definition["Category List Pages"] = "カテゴリリストページ";
+$Definition["Posting Category Pages"] = "投稿カテゴリページ";
+$Definition["Nested Category Pages"] = "ネストされたカテゴリページ";
+$Definition["Discussion Pages"] = "ディスカッションページ";
+$Definition["Idea Pages"] = "アイデアページ";
+$Definition["Question Pages"] = "質問ページ";
+$Definition["Post Pages"] = "投稿ページ";
+$Definition["Post Layout Settings"] = "投稿レイアウト設定";
+$Definition["Create Post Pages"] = "投稿ページを作成";
+$Definition["Create Post Layout Settings"] = "投稿レイアウト設定を作成";
+$Definition["Event Pages"] = "イベントページ";
+$Definition["Event Layout Settings"] = "イベントレイアウト設定";
+$Definition["Knowledge Base Pages"] = "ナレッジベースページ";
+$Definition["Knowledge Base Layout Settings"] =
+    "ナレッジベースのレイアウト設定";
+$Definition["Knowledge Base Home Pages"] = "ナレッジベースホームページ";
+$Definition["Help Center Home Pages"] = "ヘルプセンターのホームページ";
+$Definition["Help Center Category Pages"] = "ヘルプセンターのカテゴリページ";
+$Definition["Help Center Article Pages"] = "ヘルプセンターの記事ページ";
+$Definition["Guide Article Pages"] = "ガイド記事のページ";
+$Definition["Layouts"] = "レイアウト";
+$Definition["Add Custom Layout"] = "カスタムレイアウトを追加";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "優先するレガシー最近の投稿レイアウトを選択します。";
+$Definition["Legacy Recent Posts Layouts"] = "レガシー最近の投稿レイアウト";
+$Definition["Change layout versions for the <0/>."] =
+    "<0/>のレイアウトバージョンを変更します。";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "詳細については、<0>ドキュメントを参照してください</0>。";
+$Definition["Change %s"] = "%sを変更";
+$Definition["Are you sure you want to use %s?"] =
+    "%sを使用してもよろしいですか？";
+$Definition["Legacy Home Layouts"] = "レガシーホームレイアウト";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "優先するレガシーホームレイアウトを選択します。";
+$Definition["Home Layout Version"] = "ホームレイアウトバージョン";
+$Definition["Custom Home Layouts"] = "カスタムホームレイアウト";
+$Definition["Legacy Category Layout"] = "レガシーカテゴリレイアウト";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "優先するレガシーカテゴリレイアウトを選択します。";
+$Definition["Category Layout Version"] = "カテゴリレイアウトバージョン";
+$Definition["Legacy Category Layouts"] = "レガシーカテゴリレイアウト";
+$Definition["Custom Category Layouts"] = "カスタムカテゴリレイアウト";
+$Definition["Legacy Post Layout"] = "レガシー投稿レイアウト";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "優先するレガシー投稿レイアウトを選択します。";
+$Definition["Post Layout Version"] = "投稿レイアウトバージョン";
+$Definition["Legacy Post Layouts"] = "レガシー投稿レイアウト";
+$Definition["Custom Post Layouts"] = "カスタム投稿レイアウト";
+$Definition["Legacy Create Post Layout"] = "レガシー投稿作成レイアウト";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "優先するレガシー投稿作成レイアウトを選択します。";
+$Definition["Create Post Layout Version"] = "投稿作成レイアウトバージョン";
+$Definition["Legacy Create Post Layouts"] = "レガシー投稿作成レイアウト";
+$Definition["Custom Create Post Layouts"] = "カスタム投稿作成レイアウト";
+$Definition["Legacy Event Layout"] = "レガシーイベントレイアウト";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "優先するレガシーイベントレイアウトを選択します。";
+$Definition["Event Layout Version"] = "イベントレイアウトバージョン";
+$Definition["Legacy Event Layouts"] = "レガシーイベントレイアウト";
+$Definition["Custom Event Layouts"] = "カスタムイベントレイアウト";
+$Definition["Created <0/> by <1/>."] = "<1/>によって<0/>が作成されました。";
+$Definition["Layout Options"] = "レイアウトオプション";
+$Definition["Contextual Description"] = "コンテキストの説明";
+$Definition["Skip to end of Carousel"] = "カルーセルの最後にスキップ";
+$Definition["Previous Slides"] = "前のスライド";
+$Definition["Next Slides"] = "次のスライド";
+$Definition["indicator navigation"] = "インジケーターナビゲーション";
+$Definition["<0/> new"] = "<0/>新規";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d枚のスライドが表示され、最初のスライドは全%d枚中の %d枚目です";
+$Definition["Unassigned"] = "未割り当て";
+$Definition["Apply Layout to Site Home Page"] =
+    "サイトのホームページにレイアウトを適用";
+$Definition["Set as default layout for specific subcommunities."] =
+    "特定のサブコミュニティに対してデフォルトレイアウトを設定します。";
+$Definition["Apply to specific categories."] = "特定のカテゴリに適用します。";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "このレイアウトはレイアウトテンプレートであるため削除できません。";
+$Definition["Delete Layout"] = "レイアウトを削除";
+$Definition["Are you sure you want to delete?"] =
+    "削除してもよろしいですか？";
+$Definition["Applied"] = "適用済み";
+$Definition["Applied as default"] = "デフォルトとして適用済み";
+$Definition["View Category"] = "カテゴリを表示";
+$Definition["Apply to specific subcommunities."] =
+    "特定のサブコミュニティに適用します。";
+$Definition["Unable to re-assign default template"] =
+    "デフォルトテンプレートを再割り当てできません";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "このレイアウトはテンプレートであり、このタイプのすべてのページにデフォルトとして割り当てられます。これをデフォルト設定から削除したり、特定のページに割り当てたりするには、別のレイアウトをデフォルトとして割り当てる必要があります。";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "このレイアウトは現在適用されているため削除できません。";
+$Definition["Set as default layout for all <0 />."] =
+    "すべての<0 />のデフォルトレイアウトとして設定します。";
+$Definition["Legacy Knowledge Base Layout"] = "レガシーナレッジベースレイアウト";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "優先するレガシーナレッジベースレイアウトを選択します。";
+$Definition["Knowledge Base Layout Version"] = "ナレッジベースレイアウトバージョン";
+$Definition["Legacy Knowledge Base Layouts"] = "レガシーナレッジベースレイアウト";
+$Definition["Custom Knowledge Base Layouts"] = "カスタムナレッジベースレイアウト";
+$Definition["Article Count"] = "記事数";
+$Definition["Legacy Layouts enabled"] = "レガシーレイアウトが有効";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "このレイアウトの変更は、カスタム レイアウトに切り替えるまで表示されないことに注意してください。";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "このレイアウトの変更は、<1/>ページでコミュニティをカスタム<0/>に切り替えるまで表示されません。";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "特定のナレッジベースのデフォルトレイアウトとして設定します。";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "このサイトでは、既存のユーザーとの接続は許可されていません。";
+$Definition["The username you entered has already been taken."] =
+    "入力したユーザー名は既に使用されています。";
+$Definition["There was an error fetching the connection data."] =
+    "接続データの取得にエラーがありました。";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "パスワードリセットリクエストの承認に失敗しました。もう一度リセットリクエストフォームの使用をお試しください。";
+$Definition["Invitation not found."] = "招待が見つかりませんでした。";
+
+$Definition['# of automation rules'] = '自動化ルールの数';
+$Definition['Add Template'] = 'テンプレートを追加';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'この自動化ルールが実行されたときに、誰がこのメールを受け取るかを選択';
+$Definition['Delete an email template.'] = 'メールテンプレートを削除します。';
+$Definition['Email Audience'] = 'メールオーディエンス';
+$Definition['Email Template'] = 'メールテンプレート';
+$Definition['Email Templates'] = 'メールテンプレート';
+$Definition['Email Template successfully deleted.'] = 'メールテンプレートが正常に削除されました。';
+$Definition['Email Template not enabled.'] = 'メールテンプレートは有効になっていません。';
+$Definition['Email template not found.'] = 'メールテンプレートが見つかりません。';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'メールテンプレート名はすでに存在します。続行するには一意の名前を入力してください。';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'メールテンプレートは、<0/>と組み合わせて、メンバーのアクティビティやその他のコミュニティトリガーに基づいてユーザーと連絡を取るために使用できます。';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'このオプションを有効にすると、ルールがトリガーされたときにフォローアップメールを送信できます。';
+$Definition['Impacted User'] = '影響を受けるユーザー';
+$Definition['Search and select one or more roles to receive this email'] = 'このメールを受け取るロールを1つ以上検索して選択してください';
+$Definition['Search and select one or more users to receive this email.'] = 'このメールを受け取るユーザーを1人以上検索して選択してください。';
+$Definition['Select Roles'] = 'ロールを選択';
+$Definition['Select User'] = 'ユーザーを選択';
+$Definition['Select the email template to send.'] = '送信するメールテンプレートを選択してください。';
+$Definition['Send an Email After This Rule Runs'] = 'このルール実行後にメールを送信';
+$Definition['Send email'] = 'メールを送信';
+$Definition['Send the email'] = 'メールを送信';
+$Definition['Send email to user'] = 'ユーザーにメールを送信';
+$Definition['Specific Roles'] = '特定のロール';
+$Definition['Specific Users'] = '特定のユーザー';
+$Definition['System email templates cannot be deleted.'] = 'システムメールテンプレートは削除できません。';
+$Definition['template name'] = 'テンプレート名';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'このページを使用してテンプレートを作成および管理し、<0/> を設定して、各メールをいつ、誰に送信するかを制御できます。';
+$Definition['View the full list of available placeholders.'] = '利用可能なプレースホルダーの一覧を表示します。';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'メール本文にもプレースホルダーを使用できます。メール送信時に、関連ユーザーや投稿情報に自動的に置き換えられます。例：こんにちは {user.name}! または {discussion.name} をチェックしてください。';
+$Definition['You cannot delete system emails'] = 'システムメールは削除できません';
+$Definition['You cannot delete a template that is used in automation rules.'] = '自動化ルールで使用されているテンプレートは削除できません。';
+$Definition['You will no longer receive community engagement emails.'] = 'コミュニティエンゲージメントメールは今後届きません。';
+$Definition['Delete Email Template'] = 'メールテンプレートを削除';
+$Definition["Template Styles"] = "テンプレートスタイル";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "<0>メール設定</0> ページで設定したデフォルトのメールスタイルを使用する場合は、フィールドを空のままにしてください。";

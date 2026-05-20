@@ -1699,3 +1699,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Baze znanja Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID ali URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} je sprejel/a {NotifyUserID,your} odgovor na vprašanje: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Mobilni logotip";
+$Definition["Banner Image"] = "Slika pasice";
+$Definition["Disable Forum Pages"] = "Onemogoči forumske strani";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Izberite privzeto obliko urejevalnika za objave v skupnosti.";
+$Definition["InputFormatter.Notes2"] =
+    "Urejevalnik bo pri urejanju starih objav samodejno zaznal obliko zapisa in naložil njihova prvotna pravila oblikovanja. Razen te izjeme bo imela prednost spodaj izbrana oblika objave.";
+$Definition["Formatting Posts"] = "Oblikovanje objav";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Določite obliko urejanja za mobilne naprave.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Če bi morale imeti mobilne naprave enako izkušnjo, navedite isto kot zgoraj. Če uporabniki poročajo o težavah z mobilnim urejanjem, je to dobra možnost za spremembo.";
+$Definition["Note:"] = "Opomba:";
+$Definition["Post Format"] = "Oblika objave";
+$Definition["Posting"] = "Objava";
+$Definition["Reinterpret All Posts As %s"] = "Ponovno interpretiraj vse objave kot %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Povejte uredniku, naj vse stare objave na novo interpretira kot %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Ta nastavitev bo veljala le, če je bil %s izbran kot oblika objave zgoraj.";
+$Definition["This option is to normalize the editor format"] =
+    "Ta možnost je namenjena normalizaciji formata urejevalnika; če se naložijo starejše objave, urejene z drugim formatom, kot je markdown ali BBCode, bo ta možnost prisilila %s.";
+
+$Definition["Mobile Format"] = "Mobilni format";
+$Definition["Enable Rich Quotes"] = "Omogoči obogatene ponudbe";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Uporabite naslednjo možnost, da omogočite narekovaje za Rich Editor. To bo veljalo samo, če je privzeti formater "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Privzeti nadomestni znak";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Naložite nadomestno sliko, ki bo prikazana, ko uporabniki v svoji objavi nimajo slike.";
+$Definition["Additional classes"] = "Dodatni razredi";
+$Definition["Apply additional classes on catalogue image."] =
+    "Uporabite dodatne razrede na sliki kataloga. Uporabite prostor, da ločite vsak razred.";
+$Definition["Category only"] = "Samo kategorija";
+$Definition["Display on category page only."] =
+    "Prikaz samo na strani kategorije. To ne bo vplivalo na seznam nedavnih razprav.";
+$Definition["Use Masonry display"] = "Uporabite zidarski zaslon";
+$Definition["Show an uploaded image on the Category page."] =
+    'Vsaka razprava bo prikazala naloženo sliko na strani s kategorijo. To velja le za kategorije z »Razprave« kot »Prikaži kot«.';
+$Definition["Upload Placeholder Image"] = "Naložite nadomestno sliko";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Pri shranjevanju vaših sprememb je prišlo do napake. Prosim poskusite ponovno.";
+$Definition["<0/> has been <1/>"] = "<0/> je bil <1/>";
+$Definition["enabled"] = "omogočeno";
+$Definition["disabled"] = "onemogočeno";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Te informacije bodo prikazane samo uporabnikom z dovoljenjem za ogled notranjih informacij";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "To so zasebni podatki in ne bodo posredovani drugim članom.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "To bo ustvarilo srečanje Zoom v imenu lastnika integracije Zoom in če ste registrirani uporabnik, vas bo dodal kot sogostitelja. Če niste registrirani uporabnik Zooma ali niste del organizacije, ki je vzpostavila integracijo, ima lahko ta dogodek omejeno funkcionalnost Zooma brez gostitelja.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Ne morete posodobiti Zoom URL-ja ali ID-ja tega dogodka.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom Meeting ID ali URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Dodaj oznako";
+$Definition["A post"] = "Objava";
+$Definition["A post has been added to a collection"] =
+    "Objava je bila dodana v zbirko";
+$Definition["A post has not had any activity"] =
+    "Objava ni imela nobene dejavnosti";
+$Definition["A question"] = "vprašanje";
+$Definition["A user has been registered"] = "Registriran je uporabnik";
+$Definition["A post has received"] = "Objava je bila prejeta";
+$Definition["Date field reached"] = "Doseženo polje z datumom";
+$Definition["A user registers or logs in with email domain:"] =
+    "Uporabnik se registrira ali prijavi z e-poštno domeno:";
+$Definition["A user registers or updates a profile field:"] =
+    "Uporabnik registrira ali posodobi polje profila:";
+$Definition["Add tags:"] = "Dodaj oznake:";
+$Definition["Add to collection:"] = "Dodaj v zbirko:";
+$Definition["An idea has received"] = "Prejeta ideja";
+$Definition["and"] = "in";
+$Definition["and assign to"] = "in dodelite";
+$Definition["and remove role"] = "in odstranite vlogo";
+$Definition["and remove from community"] = "in odstrani iz skupnosti";
+$Definition["Assign role:"] = "Dodeli vlogo:";
+$Definition["Assign/Remove role"] = "Dodeli/Odstrani vlogo";
+$Definition["Auto-run disabled."] = "Samodejni zagon onemogočen.";
+$Definition["Auto-run enabled."] = "Samodejni zagon omogočen.";
+$Definition["Automation rule successfully created."] =
+    "Pravilo avtomatizacije je bilo uspešno ustvarjeno.";
+$Definition["Automation rule successfully updated."] =
+    "Pravilo avtomatizacije je bilo uspešno posodobljeno.";
+$Definition["Bump post"] = "Izboklina";
+$Definition["Change the status of the idea to"] =
+    "Spremenite status ideje v";
+$Definition["Change status"] = "Spremeni status";
+$Definition["Close post"] = "Zapri objavo";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Komentarji, ki ustrezajo kriterijem zdaj: <0 />";
+$Definition["created by"] = "ustvaril";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Ustvarite in upravljajte avtomatizacije za enostavno upravljanje objav in uporabnikov.";
+$Definition["Create/Edit Automation Rule"] = "Ustvarite/uredite pravilo avtomatizacije";
+$Definition["Delete Rule"] = "Izbriši pravilo";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Razprave, ki ustrezajo kriterijem zdaj: <0 />";
+$Definition["Edit Rule"] = "Uredi pravilo";
+$Definition["Edit Variables"] = "Urejanje spremenljivk";
+$Definition["Escalate it"] = "Stopnjujte";
+$Definition["Escalate to GitHub"] = "Posredujte na GitHub";
+$Definition["Escalate to Zendesk"] = "Posredujte v Zendesk";
+$Definition["Expand"] = "Razširi";
+$Definition["Failed to disable the rule"] = "Pravila ni bilo mogoče onemogočiti";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Podatkov za predogled ni bilo mogoče naložiti. Preverite vrednosti sprožilca in dejanja.";
+$Definition["Follow categories:"] = "Sledite kategorijam:";
+$Definition["Follow category"] = "Sledite kategoriji";
+$Definition["for"] = "za";
+$Definition["has been unanswered"] = "je bilo brez odgovora";
+$Definition["has not received any comments"] = "ni prejel nobenih pripomb";
+$Definition["Last reported"] = "Nazadnje prijavljeno";
+$Definition["Maximum Limit Reached"] = "Največja omejitev je dosežena";
+$Definition["Move post"] = "Premakni objavo";
+$Definition["Move to category:"] = "Premakni se v kategorijo:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Polja z več izbirami se bodo sprožila, če uporabnik izpolnjuje KATERIKOLI merilo.";
+$Definition["New/Updated Email domain"] = "Nova/posodobljena e-poštna domena";
+$Definition["New/Updated Profile field"] = "Polje Nov/Posodobljen profil";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Opomba: dejanja ne bodo vplivala na <0 />, ki že imajo uporabljeno povezano dejanje.";
+$Definition["Post Management"] = "Upravljanje objav";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Objave zdaj ustrezajo kriterijem: <0 />";
+$Definition["Remove from collection"] = "Odstrani iz zbirke";
+$Definition["Remove from collection:"] = "Odstrani iz zbirke:";
+$Definition["Remove from default follow list"] =
+    "Odstrani s privzetega seznama spremljanja";
+$Definition["Remove from trigger collection"] =
+    "Odstrani iz zbirke sprožilcev";
+$Definition["report"] = "poročilo";
+$Definition["reports"] = "poročila";
+$Definition["Rule Action"] = "Pravilo Dejanje";
+$Definition["Rule may not be deleted while it is running"] =
+    "Pravila ni mogoče izbrisati, medtem ko se izvaja";
+$Definition["Rule may not be edited while it is running"] =
+    "Pravila med izvajanjem ni mogoče urejati";
+$Definition["Rule Name"] = "Ime pravila";
+$Definition["Rule status will apply once current run completes"] =
+    "Stanje pravila bo veljalo, ko bo trenutni zagon končan";
+$Definition["Rule Trigger"] = "Sprožilec pravila";
+$Definition["Running"] = "tek";
+$Definition["See documentation for more information."] =
+    "Za več informacij glejte dokumentacijo.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Izberite dejanje, ki se bo zgodilo, ko se sproži to pravilo.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Izberite sprožilec, ki bo povzročil zagon tega pravila.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Nastavite spremenljivko sprožilca in spremenljivko dejanja, da ustvarite povzetek pravila.";
+$Definition["sentiment"] = "čustvo";
+$Definition["since"] = "saj";
+$Definition["Summary"] = "Povzetek";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Če nadaljujete, bo dejanje uporabljeno samo zanje.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Dejanje bo veljalo zanje, ko bo pravilo omogočeno. V prihodnje bo dejanje uporabljeno tudi za druge <0 />, ki izpolnjujejo merila za sprožitev.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "To trenutno ne bo vplivalo na <0 />. To bo vplivalo na tiste, ki bodo v prihodnosti izpolnjevali merila.";
+$Definition["Time since added to collection"] =
+    "Čas od dodajanja v zbirko";
+$Definition["Time since post has had no comments"] =
+    "Čas, odkar objava ni imela komentarjev";
+$Definition["Time since Registration"] = "Čas od registracije";
+$Definition["Time since post has had no activity"] =
+    "Čas, odkar objava ni imela nobene dejavnosti";
+$Definition["Time since question has been unanswered"] =
+    "Čas, odkar vprašanje ni bilo odgovorjeno";
+$Definition["Trigger"] = "Sprožilec";
+$Definition["Unsaved Changes"] = "Neshranjene spremembe";
+$Definition["Up to <0 /> ago."] = "Do <0 /> nazaj.";
+$Definition["upvote"] = "glasovati za";
+$Definition["upvotes"] = "glasovi za";
+$Definition["User Management"] = "Upravljanje uporabnikov";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Uporabniki, ki zdaj ustrezajo kriterijem: <0 />";
+$Definition["Value is not a valid integer."] = "Vrednost ni veljavno celo število.";
+$Definition["View History"] = "Ogled zgodovine";
+$Definition["Votes on an idea"] = "Glasuje za idejo";
+$Definition["with"] = "z";
+$Definition["with reason"] = "z razlogom";
+$Definition["with tag"] = "z oznako";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Ne morete dodati več kot 150 pravil avtomatizacije. Izbrišite nekaj pravil in poskusite znova.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Nobena ikona ne ustreza tem filtrom.";
+$Definition["Manage Icon"] = "Upravljanje ikone";
+$Definition["Manage Icons"] = "Upravljanje ikon";
+$Definition["Manage Icon helptext"] =
+    "Tukaj lahko upravljate sistemske in zgodovinske ikone. Pri nalaganju se prepričajte, da je ikona v formatu SVG, vključuje atribut teme viewBox in uporablja barvo #000000, da zagotovite, da je lahko dinamično obarvana glede na nastavitve teme in interakcije uporabnika. Naenkrat je lahko aktivna samo ena ikona vsake vrste.";
+$Definition["Upload New Icon"] = "Naloži novo ikono";
+$Definition["Active Icon"] = "Aktivna ikona";
+$Definition["New Icon"] = "Nova ikona";
+$Definition["Icon Type"] = "Vrsta ikone";
+$Definition["Previous Icons"] = "Prejšnje ikone";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Prejšnje različice vaših ikon lahko najdete tukaj in jih kadar koli obnovite.";
+$Definition["Set as Active"] = "Nastavi kot aktivno";
+$Definition["Uploaded <0/> by <1/>"] = "Naložil <0/> avtor <1/>";
+$Definition["Icon Packs"] = "Paketi ikon";
+$Definition["Download Active Icon Pack"] = "Prenesite Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Prenesite sistemski paket ikon";
+$Definition["Upload Icon Pack"] = "Naloži paket ikon";
+$Definition["Preview Icon Pack"] = "Predogled paketa ikon";
+$Definition["Changed Icons"] = "Spremenjene ikone";
+$Definition["Icon Name"] = "Ime ikone";
+$Definition["All icons in this icon pack are currently active."] =
+    "Vse ikone v tem paketu ikon so trenutno aktivne.";
+$Definition["Activate Icon Pack"] = "Aktivirajte paket ikon";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Pokaži samo ikone, ki so bile preglasene z ikonami po meri.";
+$Definition["System Icon"] = "Sistemska ikona";
+$Definition["Custom Icon"] = "Ikona po meri";
+$Definition["Only show icons that are default system icons."] =
+    "Pokaži samo ikone, ki so privzete sistemske ikone.";
+$Definition["Previews"] = "Predogledi";
+$Definition["Icon Size"] = "Velikost ikone";
+$Definition["This is the actual size most icons render at."] =
+    "To je dejanska velikost večine ikon.";
+$Definition["Preview Color"] = "Barva predogleda";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Ta barva bo uporabljena za predogled barve ikone. Zamenjal bo vsako uporabo #000000 v vaših naloženih ikonah. V dejanski aplikaciji bodo barve dinamične.";
+$Definition["Escalation Name"] = "Ime eskalacije";
+$Definition["Status on Creation"] = "Stanje pri ustvarjanju";
+$Definition["Assignee"] = "Prejemnik";
+$Definition["Internal Comment"] = "Interni komentar";
+$Definition["Set Post Visibility to Hidden"] = "Nastavite Vidnost objave na Skrito";
+$Definition["Remove Method"] = "Odstrani metodo";
+$Definition["Wipe"] = "Obrišite";
+$Definition["Newest Post"] = "Najnovejša objava";
+$Definition["Oldest Post"] = "Najstarejša objava";
+$Definition["Triage"] = "Triaža";
+$Definition["Triage Dashboard"] = "Triažna nadzorna plošča";
+$Definition["Message Post Author"] = "Avtor objave sporočila";
+$Definition["Add Filter"] = "Dodaj filter";
+$Definition["Customer Support"] = "Podpora uporabnikom";
+$Definition["My Profile"] = "Moj profil";
+$Definition["Resolve post"] = "Razreši objavo";
+$Definition["View post in community"] = "Oglejte si objavo v skupnosti";
+$Definition["View Details"] = "Poglej podrobnosti";
+$Definition["Escalate"] = "Stopnjujejo";
+$Definition["Posted by <0/> in <1/>"] = "Objavil <0/> v <1/>";
+$Definition["Show"] = "Prikaži";
+$Definition["View Escalation"] = "Ogled eskalacije";
+$Definition["# Reports"] = "# Poročila";
+$Definition["Last Reported"] = "Nazadnje prijavljeno";
+$Definition["Report Reasons"] = "Prijavite razloge";
+$Definition["Last Modified"] = "Nazadnje spremenjeno";
+$Definition["Last refreshed <0/> by <1/>."] = "Nazadnje osvežil <0/> avtor <1/>.";
+
+$Definition["Moderation Content"] = "Vsebina moderiranja";
+$Definition["AI Settings"] = "Nastavitve AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP razporeditev";
+$Definition["Activity & Registration"] = "Aktivnost in registracija";
+$Definition["Content Settings"] = "Nastavitve vsebine";
+$Definition["Premoderation Settings"] = "Nastavitve premoderacije";
+$Definition["Escalation Rules"] = "Pravila stopnjevanja";
+$Definition["Automation"] = "Avtomatizacija";
+$Definition["Audit Log"] = "Dnevnik nadzora";
+$Definition["Community Management"] = "Upravljanje skupnosti";
+$Definition["Visualize Your Community"] = "Vizualizirajte svojo skupnost";
+$Definition["Customize your community"] = "Prilagodite svojo skupnost";
+$Definition["Configuration & Addons"] = "Konfiguracija in dodatki";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Ali ste prepričani, da želite izbrisati svoj %s?";
+$Definition["Newest Report"] = "Najnovejše poročilo";
+$Definition["Oldest Report"] = "Najstarejše poročilo";
+$Definition["Report Dismissed"] = "Poročilo zavrnjeno";
+$Definition["Post Rejected"] = "Objava zavrnjena";
+$Definition["Escalated"] = "Stopnjeno";
+$Definition["Reported by <0/>"] = "Prijavil <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "<0/> ni posredoval nobene opombe poročila";
+$Definition["Create"] = "Ustvari";
+$Definition["Edited"] = "Urejeno";
+$Definition["Newest Escalation"] = "Najnovejša eskalacija";
+$Definition["Oldest Escalation"] = "Najstarejša eskalacija";
+$Definition["Escalations Dashboard"] = "Nadzorna plošča za stopnjevanje";
+$Definition["On Hold"] = "Na čakanju";
+$Definition["Done"] = "Končano";
+$Definition["In Jira"] = "V Jiri";
+$Definition["In Zendesk"] = "V Zendesku";
+$Definition["Integrations"] = "Integracije";
+$Definition["Remove Post"] = "Odstrani objavo";
+$Definition["Escalated by <0/>"] = "Posredoval <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Vnesite naslov za to eskalacijo";
+$Definition["Escalated by <0/>"] = "Posredoval <0/>";
+$Definition["Post Revision"] = "Objavi revizijo";
+$Definition["Loader"] = "Nakladalec";
+$Definition["a month"] = "en mesec";
+$Definition["%s ago"] = "pred %s";
+$Definition["Live"] = "V živo";
+$Definition["Live Post"] = "Objava v živo";
+$Definition["Remove Post"] = "Odstrani objavo";
+$Definition["Internal Comments"] = "Interni komentarji";
+$Definition["Add a comment"] = "Dodajte komentar";
+$Definition["Live"] = "V živo";
+$Definition["There are currently no comments on this post"] =
+    "Na to objavo trenutno ni komentarjev";
+$Definition["All comments on this post will appear here"] =
+    "Vsi komentarji na to objavo bodo prikazani tukaj";
+$Definition["Reports for <0/>"] = "Poročila za <0/>";
+$Definition["Live Post"] = "Objava v živo";
+$Definition["There are currently no reports for this post."] =
+    "Za to objavo trenutno ni poročil.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Tukaj se prikaže seznam poročil, povezanih s to objavo.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Konfigurirajte, kam se pošiljajo poročila, in upravljajte razloge za poročila vaše skupnosti.";
+$Definition["New Community Management System"] =
+    "Nov sistem upravljanja skupnosti";
+$Definition["Enable Triage Dashboard"] = "Omogoči triažno nadzorno ploščo";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Vsi uporabniki z dovoljenjem osebja bodo lahko videli in označili razprave kot razrešene ali nerazrešene. Ti uporabniki bodo lahko dostopali tudi do triažne nadzorne plošče za moderiranje svojih kategorij.";
+$Definition["Resolve All Discussions"] = "Razreši vse razprave";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Razreši vse objave bo razrešil vse obstoječe objave v skupnosti. To množično dejanje ne bo sprožilo webhookov ali analitike.";
+$Definition["Resolve All"] = "Razreši vse";
+$Definition["Required field"] = "Obvezno polje";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Nov sistem upravljanja skupnosti omogoča prilagojene razloge za poročanje, eskalacije, dodelitve in pravila avtomatizacije. Če to omogočite, se poročanje o vnosu spremeni za uporabo novega sistema. <0>Preberi več</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "To bo razrešilo vse obstoječe objave v skupnosti. To množično dejanje ne bo sprožilo webhookov ali analitike dnevnika. Nadaljevati?";
+$Definition["Reorder"] = "Preuredite";
+$Definition["Add Reason"] = "Dodajte razlog";
+$Definition["Delete?"] = "izbrisati?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Ali ste prepričani, da želite izbrisati ta razlog?";
+$Definition["A concise name for the report reason."] =
+    "Jedrnato ime za razlog poročila.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Edinstvena oznaka za razlog poročila. Te oznake ni več mogoče spremeniti, ko je shranjena.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Pojasnilo razloga za prijavo, da bi boljši poročevalci naredili pravilno izbiro pri prijavi objave.";
+$Definition["The roles which can see this report reason."] =
+    "Vloge, ki lahko vidijo razlog za to poročilo.";
+$Definition["Add Report Reason"] = "Dodajte razlog za prijavo";
+$Definition["Discard Changes?"] = "Želite zavreči spremembe?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Ali ste prepričani, da želite zapustiti brez shranjevanja?";
+$Definition["Reorder Report Reasons"] = "Razlogi za ponovno naročilo poročila";
+$Definition["Edit Report Reason"] = "Uredi razlog za prijavo";
+$Definition["Delete Report Reason"] = "Izbriši razlog prijave";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Ta nastavitev mora biti omogočena, če želite uporabljati teme razprav po meri.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Konfigurirajte nastavitve za samodejno moderiranje vsebine skupnosti, še preden je ustvarjena. Možnosti vključujejo samodejno zaznavanje neželene pošte, zahtevanje odobritve za objavo v določenih kategorijah in zahtevanje odobritve za objavo z uporabo določenih ključnih besed ali fraz.";
+$Definition["Spam Detection"] = "Zaznavanje neželene pošte";
+$Definition["Learn more."] = "Več o tem.";
+$Definition["documentation."] = "dokumentacijo.";
+$Definition["Verify browsers of new members"] =
+    "Preverite brskalnike novih članov";
+$Definition["Challenge Cutoff Age"] = "Presečna starost izziva";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Število dni od registracije za obhod izziva Cloudflare";
+$Definition["Save challenge cutoff age"] = "Shrani mejno starost izziva";
+$Definition["Premoderated Roles"] = "Premoderirane vloge";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Uporabniki z dovoljenjem »Approval.Require« bodo potrebovali odobritev moderatorja za vse objave.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Uporabniki, označeni kot »Preverjeni«, bodo to zahtevo zaobšli. To so vloge z \"Approval.Require\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Trenutno ni nastavljena nobena vloga, ki bi zahtevala premoderacijo.";
+$Definition["Edit Roles"] = "Urejanje vlog";
+$Definition["Premoderated Categories"] = "Premoderirane kategorije";
+$Definition["No categories are currently set to require premoderation."] =
+    "Nobena kategorija trenutno ni nastavljena, da bi zahtevala premoderacijo.";
+$Definition["Edit Categories"] = "Urejanje kategorij";
+$Definition["Premoderated Keywords"] = "Premoderirane ključne besede";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Za objave s katero koli od naslednjih ključnih besed ali fraz je potrebna odobritev moderatorja.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Nobena ključna beseda trenutno ni nastavljena, da bi zahtevala premoderacijo.";
+$Definition["Edit Keywords"] = "Uredi ključne besede";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Omogočite Akismetu filtriranje neželene pošte v vseh objavah glede na registracije prosilcev in nepreverjene uporabnike. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Omogočite Stopforumspam, da preverite uporabnike skupnosti glede na seznam prijavljenih pošiljateljev neželene pošte in bodisi prijavite objavo kot neželeno pošto ali jih popolnoma zavrnete. Prag poročanja in zavrnitev se upravlja v nastavitvah dodatka <0></0> . Več o tem v <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Nepreverjeni člani, ki so v skupnosti manj kot določeno število dni, bodo pozvani, da opravijo izziv Cloudflare (Captcha ali Checkbox), da preprečijo neželeno pošto. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "Za %s v naslednjih kategorijah bo potrebna odobritev moderatorja.";
+$Definition["Default Sort Order"] = "Privzeti vrstni red";
+$Definition["Choose the order records are sorted by default."] =
+    "Izberite, da so zapisi naročil privzeto razvrščeni.";
+$Definition["Show OP Indicator"] = "Pokaži indikator OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Če je ta možnost omogočena, bodo imeli odgovori izvirnega avtorja indikator OP.";
+$Definition["Show Badges"] = "Prikaži značke";
+$Definition["Badges Limit"] = "Omejitev značk";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Pokažite značke uporabnikov na vsaki objavi. Prikazanih je lahko do največ 5 značk po vrstnem redu najvišje uvrstitve.";
+$Definition["event"] = "dogodek";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> več komentarjev";
+$Definition["Export"] = "Izvozi";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Naslovi domačih strani so lahko dolgi od 1 do 500 znakov";
+$Definition["Address Bar Color"] = "Barva naslovne vrstice";
+$Definition["Meta Tags"] = "Meta oznake";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta oznake se uporabljajo za preverjanje domene za Google Search Console in druge storitve. Kopirajte zahtevane metaoznake iz svojega vira in jih prilepite v novo vrstico.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Nekaj časa razmislite o tem, kako tukaj opisujete svoje spletno mesto. Če svojemu spletnemu mestu daste smiseln naslov in jedrnat opis, bi to lahko pripomoglo k vašemu položaju v iskalnikih.";
+$Definition["Style Guides"] = "Vodniki po slogu";
+$Definition["Branding & Assets"] = "Blagovna znamka in sredstva";
+$Definition["Home Pages"] = "Domače strani";
+$Definition["Home Layout Settings"] = "Nastavitve domače postavitve";
+$Definition["Category Pages"] = "Strani kategorije";
+$Definition["Category Layout Settings"] = "Nastavitve postavitve kategorije";
+$Definition["Category List Pages"] = "Strani s seznamom kategorij";
+$Definition["Posting Category Pages"] = "Objavljanje strani s kategorijami";
+$Definition["Nested Category Pages"] = "Strani z ugnezdenimi kategorijami";
+$Definition["Discussion Pages"] = "Strani za razprave";
+$Definition["Idea Pages"] = "Strani z idejami";
+$Definition["Question Pages"] = "Strani z vprašanji";
+$Definition["Post Pages"] = "Strani za objave";
+$Definition["Post Layout Settings"] = "Nastavitve postavitve objave";
+$Definition["Create Post Pages"] = "Ustvarite strani za objave";
+$Definition["Create Post Layout Settings"] = "Ustvari nastavitve postavitve objave";
+$Definition["Event Pages"] = "Strani dogodkov";
+$Definition["Event Layout Settings"] = "Nastavitve postavitve dogodka";
+$Definition["Knowledge Base Pages"] = "Strani baze znanja";
+$Definition["Knowledge Base Layout Settings"] =
+    "Nastavitve postavitve zbirke znanja";
+$Definition["Knowledge Base Home Pages"] = "Domače strani baze znanja";
+$Definition["Help Center Home Pages"] = "Domače strani centra za pomoč";
+$Definition["Help Center Category Pages"] = "Strani s kategorijami centra za pomoč";
+$Definition["Help Center Article Pages"] = "Strani s članki centra za pomoč";
+$Definition["Guide Article Pages"] = "Strani s članki vodnika";
+$Definition["Layouts"] = "Postavitve";
+$Definition["Add Custom Layout"] = "Dodajte postavitev po meri";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Izberite želeno postavitev starih objav.";
+$Definition["Legacy Recent Posts Layouts"] = "Podedovane postavitve nedavnih objav";
+$Definition["Change layout versions for the <0/>."] =
+    "Spremenite različice postavitve za <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Če želite izvedeti več, <0>glejte dokumentacijo</0> .";
+$Definition["Change %s"] = "Spremeni %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Ali ste prepričani, da želite uporabiti %s?";
+$Definition["Legacy Home Layouts"] = "Podedovane postavitve doma";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Izberite želeno postavitev Legacy Home.";
+$Definition["Home Layout Version"] = "Različica domače postavitve";
+$Definition["Custom Home Layouts"] = "Postavitev doma po meri";
+$Definition["Legacy Category Layout"] = "Podedovana postavitev kategorije";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Izberite želeno postavitev Legacy Category.";
+$Definition["Category Layout Version"] = "Različica postavitve kategorije";
+$Definition["Legacy Category Layouts"] = "Podedovane postavitve kategorij";
+$Definition["Custom Category Layouts"] = "Postavitve kategorij po meri";
+$Definition["Legacy Post Layout"] = "Podedovana postavitev objave";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Izberite želeno podedovano postavitev objave.";
+$Definition["Post Layout Version"] = "Različica postavitve objave";
+$Definition["Legacy Post Layouts"] = "Podedovane postavitve objav";
+$Definition["Custom Post Layouts"] = "Postavitve objav po meri";
+$Definition["Legacy Create Post Layout"] = "Legacy Create Post Layout";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Izberite želeno legacy Create Post Layout.";
+$Definition["Create Post Layout Version"] = "Ustvarite različico postavitve objave";
+$Definition["Legacy Create Post Layouts"] = "Legacy Ustvari postavitve objav";
+$Definition["Custom Create Post Layouts"] = "Ustvarite postavitve objav po meri";
+$Definition["Legacy Event Layout"] = "Podedovana postavitev dogodka";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Izberite želeno podedovano postavitev dogodka.";
+$Definition["Event Layout Version"] = "Različica postavitve dogodka";
+$Definition["Legacy Event Layouts"] = "Podedovane postavitve dogodkov";
+$Definition["Custom Event Layouts"] = "Postavitve dogodkov po meri";
+$Definition["Created <0/> by <1/>."] = "Ustvaril <0/> <1/>.";
+$Definition["Layout Options"] = "Možnosti postavitve";
+$Definition["Contextual Description"] = "Kontekstualni opis";
+$Definition["Skip to end of Carousel"] = "Preskoči na konec vrtiljaka";
+$Definition["Previous Slides"] = "Prejšnji diapozitivi";
+$Definition["Next Slides"] = "Naslednji diapozitivi";
+$Definition["indicator navigation"] = "indikatorska navigacija";
+$Definition["<0/> new"] = "<0/> novo";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d diapozitivov na zaslonu začetni diapozitiv %d od %d";
+$Definition["Unassigned"] = "Nedodeljen";
+$Definition["Apply Layout to Site Home Page"] =
+    "Uporabi postavitev za domačo stran mesta";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Nastavi kot privzeto postavitev za določene podskupnosti.";
+$Definition["Apply to specific categories."] = "Uporabi za določene kategorije.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Te postavitve ni mogoče izbrisati, ker je predloga postavitve.";
+$Definition["Delete Layout"] = "Izbriši postavitev";
+$Definition["Are you sure you want to delete?"] =
+    "Ali ste prepričani, da želite izbrisati?";
+$Definition["Applied"] = "Uporabljeno";
+$Definition["Applied as default"] = "Uporabljeno kot privzeto";
+$Definition["View Category"] = "Ogled kategorije";
+$Definition["Apply to specific subcommunities."] =
+    "Uporabite za določene podskupnosti.";
+$Definition["Unable to re-assign default template"] =
+    "Privzete predloge ni mogoče znova dodeliti";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Ta postavitev je predloga in je dodeljena kot privzeta za vse strani te vrste. Če jo želite odstraniti kot privzeto ali jo dodeliti določenim stranem, morate kot privzeto dodeliti drugo postavitev.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Te postavitve ni mogoče izbrisati, ker je trenutno uporabljena.";
+$Definition["Set as default layout for all <0 />."] =
+    "Nastavi kot privzeto postavitev za vse <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Podedovana postavitev zbirke znanja";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Izberite želeno postavitev podedovane zbirke znanja.";
+$Definition["Knowledge Base Layout Version"] = "Različica postavitve zbirke znanja";
+$Definition["Legacy Knowledge Base Layouts"] = "Podedovane postavitve baze znanja";
+$Definition["Custom Knowledge Base Layouts"] = "Postavitve baze znanja po meri";
+$Definition["Article Count"] = "Število členov";
+$Definition["Legacy Layouts enabled"] = "Podedovane postavitve so omogočene";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Upoštevajte, da ta sprememba postavitve ne bo vidna, dokler ne preklopite na postavitve po meri.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Ta sprememba postavitve ne bo vidna, dokler svoje skupnosti ne preklopite na <0/> po meri na strani <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Nastavi kot privzeto postavitev za posebne baze znanja.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Spletno mesto ne omogoča povezave z obstoječim uporabnikom.";
+$Definition["The username you entered has already been taken."] =
+    "Uporabniško ime, ki ste ga vnesli, je že zasedeno.";
+$Definition["There was an error fetching the connection data."] =
+    "Pri pridobivanju podatkov o povezavi je prišlo do napake.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Zahteve za ponastavitev gesla ni bilo mogoče preveriti. Poskusite znova uporabiti obrazec za zahtevo za ponastavitev.";
+$Definition["Invitation not found."] = "Povabila ni bilo mogoče najti.";
+
+$Definition['# of automation rules'] = '# pravil avtomatizacije';
+$Definition['Add Template'] = 'Dodaj predlogo';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Izberite, kdo naj prejme to e-poštno sporočilo, ko se izvede to pravilo avtomatizacije';
+$Definition['Delete an email template.'] = 'Izbriši predlogo e-poštnega sporočila.';
+$Definition['Email Audience'] = 'Ciljna skupina e-pošte';
+$Definition['Email Template'] = 'Predloga e-pošte';
+$Definition['Email Templates'] = 'Predloge e-poštnih sporočil';
+$Definition['Email Template successfully deleted.'] = 'Predloga e-pošte je bila uspešno izbrisana.';
+$Definition['Email Template not enabled.'] = 'Predloga e-pošte ni omogočena.';
+$Definition['Email template not found.'] = 'Predloge e-pošte ni bilo mogoče najti.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Ime predloge e-pošte že obstaja. Za nadaljevanje vnesite edinstveno ime.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Predloge e-poštnih sporočil se lahko uporabljajo skupaj z <0/> za komunikacijo z uporabniki na podlagi dejavnosti članov ali drugih sprožilcev skupnosti.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Omogočite to možnost, če želite poslati nadaljnje e-poštno sporočilo, ko se pravilo sproži.';
+$Definition['Impacted User'] = 'Prizadeti uporabnik';
+$Definition['Search and select one or more roles to receive this email'] = 'Poiščite in izberite eno ali več vlog, za katere želite prejemati to e-poštno sporočilo';
+$Definition['Search and select one or more users to receive this email.'] = 'Poiščite in izberite enega ali več uporabnikov, ki bodo prejeli to e-poštno sporočilo.';
+$Definition['Select Roles'] = 'Izberite vloge';
+$Definition['Select User'] = 'Izberite uporabnika';
+$Definition['Select the email template to send.'] = 'Izberite predlogo e-poštnega sporočila, ki jo želite poslati.';
+$Definition['Send an Email After This Rule Runs'] = 'Pošlji e-pošto po izvedbi tega pravila';
+$Definition['Send email'] = 'Pošlji e-pošto';
+$Definition['Send the email'] = 'Pošlji e-pošto';
+$Definition['Send email to user'] = 'Pošlji e-pošto uporabniku';
+$Definition['Specific Roles'] = 'Specifične vloge';
+$Definition['Specific Users'] = 'Določeni uporabniki';
+$Definition['System email templates cannot be deleted.'] = 'Predlog sistemskih e-poštnih sporočil ni mogoče izbrisati.';
+$Definition['template name'] = 'ime predloge';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Na tej strani lahko ustvarite in upravljate svoje predloge, nato pa konfigurirate <0/>, da nadzorujete, kdaj in komu je vsako e-poštno sporočilo poslano.';
+$Definition['View the full list of available placeholders.'] = 'Oglejte si celoten seznam razpoložljivih nadomestnih besedil.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'V vsebino e-poštnega sporočila lahko vključite tudi nadomestne besede – te bodo ob pošiljanju e-poštnega sporočila samodejno zamenjane z ustreznimi podatki o uporabniku ali objavi. Na primer Pozdravljeni {user.name}! ali Oglejte si {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Sistemskih e-poštnih sporočil ne morete izbrisati';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Predloge, ki se uporablja v pravilih avtomatizacije, ni mogoče izbrisati.';
+$Definition['You will no longer receive community engagement emails.'] = 'Ne boste več prejemali e-poštnih sporočil za sodelovanje v skupnosti.';
+$Definition['Delete Email Template'] = 'Izbriši predlogo e-pošte';
+$Definition["Template Styles"] = "Slogi predlog";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Če želite uporabiti privzete sloge e-pošte, kot so konfigurirani v <0>Nastavitvah e-pošte, pustite katero koli polje prazno.</0> stran.";

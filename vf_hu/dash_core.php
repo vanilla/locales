@@ -1700,3 +1700,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendesk tudásbázisok';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID vagy URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} elfogadta a(z) {NotifyUserID,your} választ a következő kérdésre: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Mobil logó";
+$Definition["Banner Image"] = "Szalagkép";
+$Definition["Disable Forum Pages"] = "Fórumoldalak letiltása";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Válaszd ki a szerkesztő alapértelmezett formátumát a közösségi bejegyzésekhez.";
+$Definition["InputFormatter.Notes2"] =
+    "A szerkesztő automatikusan felismeri a régi bejegyzések formátumát, és betölti az eredeti formázási szabályokat. Ezt a kivételt leszámítva az alább megjelölt bejegyzésformátum élvez elsőbbséget.";
+$Definition["Formatting Posts"] = "Posztok formázása";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Határozz meg egy szerkesztési formátumot mobilkészülékek számára.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Ha a mobilkészülékek használata azonos kell legyen, határozd meg ugyanazt, mint fent. Ha a felhasználók hibákat jelentenek mobilos szerkesztés közben, ezt a beállítást jó változtatni.";
+$Definition["Note:"] = "Megjegyzés: ";
+$Definition["Post Format"] = "Bejegyzésformátum";
+$Definition["Posting"] = "Közzététel";
+$Definition["Reinterpret All Posts As %s"] = "Minden bejegyzés újraértelmezése %sként";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Mondd meg a szerkesztőnek, hogy értelmezze újra az összes régi bejegyzést %s-ként.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Ez a beállítás csak akkor lép életbe, ha a %s a fenti bejegyzésformátumot választotta.";
+$Definition["This option is to normalize the editor format"] =
+    "Ez az opció a szerkesztő formátumának normalizálására szolgál. Ha régebbi, más formátummal szerkesztett bejegyzések, például markdown vagy BBCode töltődnek be, ez az opció kényszeríti a %s-t.";
+
+$Definition["Mobile Format"] = "Mobilformátum";
+$Definition["Enable Rich Quotes"] = "Rich idézetek engedélyezése";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Használd az alábbi opciót idézetek engedélyezéséhez a Rich szerkesztőben. Ez csak akkor lesz alkalmazva, ha az alapértelmezett formázó „Rich”.';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Alapértelmezett helyettesítő";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Töltsön fel egy helyettesítő képet, ami akkor jelenik meg, ha a felhasználók bejegyzésében nincs kép.";
+$Definition["Additional classes"] = "További órák";
+$Definition["Apply additional classes on catalogue image."] =
+    "Használjon további órákat a katalógus képén. Válassza el szóközzel az órákat.";
+$Definition["Category only"] = "Csak kategória";
+$Definition["Display on category page only."] =
+    "Csak a kategóriák oldalán jelenik meg. A legújabb beszélgetéseket nem érinti. ";
+$Definition["Use Masonry display"] = "Használja a Masonry kijelzőt.";
+$Definition["Show an uploaded image on the Category page."] =
+    'Minden beszélgetés egy feltöltött képet mutat a kategóriák oldalán. Ez csak azokra a kategóriákra, vonatkozik, ahol a „Beszélgetés” "Megjelenítés mint”-ként szerepel.';
+$Definition["Upload Placeholder Image"] = "Helyettesítő kép feltöltése";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Hiba történt a módosítások mentésekor. Kérlek próbáld újra.";
+$Definition["<0/> has been <1/>"] = "<0/> már <1/>";
+$Definition["enabled"] = "engedélyezve van";
+$Definition["disabled"] = "Tiltva";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Ezeket az információkat csak a belső információk megtekintésére jogosult felhasználók láthatják";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Ez privát információ, és nem osztjuk meg más tagokkal.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Ezzel létrehoz egy Zoom-megbeszélést a Zoom-integráció tulajdonosa nevében, és ha Ön regisztrált felhasználó, felveszi Önt társgazdaként. Ha Ön nem regisztrált Zoom-felhasználó, vagy nem tagja az integrációt beállító szervezetnek, akkor ennek az eseménynek a Zoom funkciói korlátozottak lehetnek a gazdagép nélkül.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Nem frissítheti ennek az eseménynek a nagyítási URL-jét vagy azonosítóját.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom Meeting ID vagy URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Címke hozzáadása";
+$Definition["A post"] = "Egy bejegyzés";
+$Definition["A post has been added to a collection"] =
+    "Egy bejegyzés hozzáadva egy gyűjteményhez";
+$Definition["A post has not had any activity"] =
+    "Egy bejegyzésnek nem volt tevékenysége";
+$Definition["A question"] = "Egy kérdés";
+$Definition["A user has been registered"] = "Felhasználó regisztrálva lett";
+$Definition["A post has received"] = "Bejegyzés érkezett";
+$Definition["Date field reached"] = "Dátum mező elérése";
+$Definition["A user registers or logs in with email domain:"] =
+    "A felhasználó e-mail domainnel regisztrál vagy jelentkezik be:";
+$Definition["A user registers or updates a profile field:"] =
+    "A felhasználó regisztrál vagy frissít egy profilmezőt:";
+$Definition["Add tags:"] = "Címkék hozzáadása:";
+$Definition["Add to collection:"] = "Hozzáadás a gyűjteményhez:";
+$Definition["An idea has received"] = "Ötlet érkezett";
+$Definition["and"] = "és";
+$Definition["and assign to"] = "és hozzárendelni";
+$Definition["and remove role"] = "és távolítsa el a szerepet";
+$Definition["and remove from community"] = "és távolítsa el a közösségből";
+$Definition["Assign role:"] = "Szerep hozzárendelése:";
+$Definition["Assign/Remove role"] = "Szerep hozzárendelése/eltávolítása";
+$Definition["Auto-run disabled."] = "Az automatikus futtatás letiltva.";
+$Definition["Auto-run enabled."] = "Automatikus futás engedélyezve.";
+$Definition["Automation rule successfully created."] =
+    "Az automatizálási szabály sikeresen létrehozva.";
+$Definition["Automation rule successfully updated."] =
+    "Az automatizálási szabály sikeresen frissítve.";
+$Definition["Bump post"] = "Bump post";
+$Definition["Change the status of the idea to"] =
+    "Módosítsa az ötlet állapotát erre:";
+$Definition["Change status"] = "Állapot módosítása";
+$Definition["Close post"] = "Bejegyzés bezárása";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "A feltételeknek megfelelő megjegyzések: <0 />";
+$Definition["created by"] = "által létrehozott";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Automatizálások létrehozása és kezelése a bejegyzések és a felhasználók egyszerű kezeléséhez.";
+$Definition["Create/Edit Automation Rule"] = "Automatizálási szabály létrehozása/szerkesztése";
+$Definition["Delete Rule"] = "Törölje a szabályt";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "A feltételeknek megfelelő megbeszélések: <0 />";
+$Definition["Edit Rule"] = "Szabály szerkesztése";
+$Definition["Edit Variables"] = "Változók szerkesztése";
+$Definition["Escalate it"] = "Eszkaláld";
+$Definition["Escalate to GitHub"] = "Eszkalálja a GitHubra";
+$Definition["Escalate to Zendesk"] = "Eszkalálja a Zendeskre";
+$Definition["Expand"] = "Bontsa ki";
+$Definition["Failed to disable the rule"] = "Nem sikerült letiltani a szabályt";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Nem sikerült betölteni az előnézeti adatokat. Kérjük, ellenőrizze az aktiválási és műveleti értékeket.";
+$Definition["Follow categories:"] = "Kövesse a kategóriákat:";
+$Definition["Follow category"] = "Kategória követése";
+$Definition["for"] = "számára";
+$Definition["has been unanswered"] = "válasz nélkül maradt";
+$Definition["has not received any comments"] = "nem kapott semmilyen megjegyzést";
+$Definition["Last reported"] = "Utoljára jelentették";
+$Definition["Maximum Limit Reached"] = "Maximális határ elérve";
+$Definition["Move post"] = "Bejegyzés áthelyezése";
+$Definition["Move to category:"] = "Ugrás a kategóriába:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "A többszörös kijelölésű mezők aktiválódnak, ha a felhasználó BÁRMELY feltételnek megfelel.";
+$Definition["New/Updated Email domain"] = "Új/frissített e-mail domain";
+$Definition["New/Updated Profile field"] = "Új/Frissített profil mező";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Megjegyzés: A műveletek nem érintik azokat a <0 />-t, amelyeknél már alkalmazták a kapcsolódó műveletet.";
+$Definition["Post Management"] = "Postakezelés";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "A feltételeknek megfelelő bejegyzések jelenleg: <0 />";
+$Definition["Remove from collection"] = "Eltávolítás a gyűjteményből";
+$Definition["Remove from collection:"] = "Eltávolítás a gyűjteményből:";
+$Definition["Remove from default follow list"] =
+    "Eltávolítás az alapértelmezett követési listáról";
+$Definition["Remove from trigger collection"] =
+    "Eltávolítás a triggergyűjteményből";
+$Definition["report"] = "jelentés";
+$Definition["reports"] = "jelentéseket";
+$Definition["Rule Action"] = "Szabály Akció";
+$Definition["Rule may not be deleted while it is running"] =
+    "A szabályt futás közben nem lehet törölni";
+$Definition["Rule may not be edited while it is running"] =
+    "A szabály futása közben nem szerkeszthető";
+$Definition["Rule Name"] = "Szabály neve";
+$Definition["Rule status will apply once current run completes"] =
+    "A szabály állapota akkor lép életbe, ha az aktuális futtatás befejeződik";
+$Definition["Rule Trigger"] = "Szabály trigger";
+$Definition["Running"] = "Futás";
+$Definition["See documentation for more information."] =
+    "További információért lásd a dokumentációt.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Válassza ki a szabály aktiválásakor végrehajtandó műveletet.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Válassza ki azt az eseményindítót, amely elindítja ezt a szabályt.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Állítsa be az aktiválási változót és a műveleti változót a szabályösszegzés létrehozásához.";
+$Definition["sentiment"] = "érzés";
+$Definition["since"] = "mivel";
+$Definition["Summary"] = "Összegzés";
+$Definition["The action will be applied to only them if you proceed."] =
+    "A művelet csak rájuk vonatkozik, ha folytatja.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "A művelet akkor vonatkozik rájuk, ha a szabály engedélyezve van. A jövőben a többi <0 />, aki megfelel az aktiválási feltételeknek, a művelet rájuk is vonatkozik.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Ez jelenleg nem érinti a <0 /> elemet. Ez a jövőben azokat érinti, akik megfelelnek a kritériumoknak.";
+$Definition["Time since added to collection"] =
+    "A gyűjteménybe való felvétel óta eltelt idő";
+$Definition["Time since post has had no comments"] =
+    "A bejegyzés óta eltelt idő nem tartalmazott megjegyzéseket";
+$Definition["Time since Registration"] = "Regisztráció óta eltelt idő";
+$Definition["Time since post has had no activity"] =
+    "A bejegyzés óta eltelt idő nem volt tevékenység";
+$Definition["Time since question has been unanswered"] =
+    "A kérdés óta eltelt idő megválaszolatlan";
+$Definition["Trigger"] = "Kioldó";
+$Definition["Unsaved Changes"] = "Nem mentett módosítások";
+$Definition["Up to <0 /> ago."] = "Legfeljebb <0 /> ezelőtt.";
+$Definition["upvote"] = "pozitív szavazat";
+$Definition["upvotes"] = "pozitív szavazatok";
+$Definition["User Management"] = "Felhasználókezelés";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "A feltételeknek megfelelő felhasználók jelenleg: <0 />";
+$Definition["Value is not a valid integer."] = "Az érték nem érvényes egész szám.";
+$Definition["View History"] = "Előzmények megtekintése";
+$Definition["Votes on an idea"] = "Szavazás egy ötletre";
+$Definition["with"] = "-vel";
+$Definition["with reason"] = "okkal";
+$Definition["with tag"] = "címkével";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Nem adhat hozzá 150-nél több automatizálási szabályt. Töröljön néhány szabályt, és próbálja újra.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Egyetlen ikon sem felel meg ezeknek a szűrőknek.";
+$Definition["Manage Icon"] = "Ikon kezelése";
+$Definition["Manage Icons"] = "Ikonok kezelése";
+$Definition["Manage Icon helptext"] =
+    "Itt kezelheti a rendszer- és előzményikonokat. Feltöltéskor győződjön meg arról, hogy az ikon SVG formátumú, tartalmaz egy viewBox attribútumot, és a #000000 színt használja annak érdekében, hogy dinamikusan színezhető legyen a témabeállítások és a felhasználói interakciók alapján. Minden típusból egyszerre csak egy ikon lehet aktív.";
+$Definition["Upload New Icon"] = "Új Ikon Feltöltése";
+$Definition["Active Icon"] = "Aktív ikon";
+$Definition["New Icon"] = "Új Ikon";
+$Definition["Icon Type"] = "Ikon típusa";
+$Definition["Previous Icons"] = "Előző ikonok";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Az ikonok korábbi verziói itt találhatók, és bármikor visszaállíthatók.";
+$Definition["Set as Active"] = "Beállítás aktívként";
+$Definition["Uploaded <0/> by <1/>"] = "Feltöltötte: <1/>: <0/>";
+$Definition["Icon Packs"] = "Ikoncsomagok";
+$Definition["Download Active Icon Pack"] = "Töltse le az aktív ikoncsomagot";
+$Definition["Download System Icon Pack"] = "Töltse le a System Icon Pack csomagot";
+$Definition["Upload Icon Pack"] = "Töltse fel az ikoncsomagot";
+$Definition["Preview Icon Pack"] = "Ikoncsomag előnézete";
+$Definition["Changed Icons"] = "Megváltozott ikonok";
+$Definition["Icon Name"] = "Ikon neve";
+$Definition["All icons in this icon pack are currently active."] =
+    "Az ikoncsomag összes ikonja jelenleg aktív.";
+$Definition["Activate Icon Pack"] = "Aktiválja az Icon Pack-et";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Csak azokat az ikonokat jelenítse meg, amelyek felül lettek írva egyéni ikonokkal.";
+$Definition["System Icon"] = "Rendszer ikon";
+$Definition["Custom Icon"] = "Egyéni ikon";
+$Definition["Only show icons that are default system icons."] =
+    "Csak azokat az ikonokat jelenítse meg, amelyek alapértelmezett rendszerikonok.";
+$Definition["Previews"] = "Előnézetek";
+$Definition["Icon Size"] = "Ikon mérete";
+$Definition["This is the actual size most icons render at."] =
+    "Ez a legtöbb ikon tényleges mérete.";
+$Definition["Preview Color"] = "Előnézet színe";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Ez a szín az ikon színének előnézetéhez lesz használva. Ez felváltja a #000000 bármilyen használatát a feltöltött ikonokban. A tényleges alkalmazásban a színek dinamikusak lesznek.";
+$Definition["Escalation Name"] = "Eszkaláció neve";
+$Definition["Status on Creation"] = "Létrehozás állapota";
+$Definition["Assignee"] = "Engedményes";
+$Definition["Internal Comment"] = "Belső megjegyzés";
+$Definition["Set Post Visibility to Hidden"] = "Állítsa a bejegyzés láthatóságát Rejtett értékre";
+$Definition["Remove Method"] = "Módszer eltávolítása";
+$Definition["Wipe"] = "Törölje le";
+$Definition["Newest Post"] = "Legújabb bejegyzés";
+$Definition["Oldest Post"] = "Legrégebbi bejegyzés";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Triage Dashboard";
+$Definition["Message Post Author"] = "Üzenetbejegyzés szerzője";
+$Definition["Add Filter"] = "Szűrő hozzáadása";
+$Definition["Customer Support"] = "Ügyfélszolgálat";
+$Definition["My Profile"] = "Saját profil";
+$Definition["Resolve post"] = "Bejegyzés feloldása";
+$Definition["View post in community"] = "Bejegyzés megtekintése a közösségben";
+$Definition["View Details"] = "Részletek megtekintése";
+$Definition["Escalate"] = "Eszkaláció";
+$Definition["Posted by <0/> in <1/>"] = "Közzétette: <0/> itt: <1/>";
+$Definition["Show"] = "Megmutat";
+$Definition["View Escalation"] = "Eszkaláció megtekintése";
+$Definition["# Reports"] = "# Jelentések";
+$Definition["Last Reported"] = "Utoljára jelentve";
+$Definition["Report Reasons"] = "Jelentés okai";
+$Definition["Last Modified"] = "Utoljára módosítva";
+$Definition["Last refreshed <0/> by <1/>."] = "Utoljára <0/> frissítette: <1/>.";
+
+$Definition["Moderation Content"] = "Moderálás Tartalom";
+$Definition["AI Settings"] = "AI beállítások";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP telepítés";
+$Definition["Activity & Registration"] = "Tevékenység és regisztráció";
+$Definition["Content Settings"] = "Tartalombeállítások";
+$Definition["Premoderation Settings"] = "Előremoderációs beállítások";
+$Definition["Escalation Rules"] = "Eszkalációs szabályok";
+$Definition["Automation"] = "Automatizálás";
+$Definition["Audit Log"] = "Ellenőrzési napló";
+$Definition["Community Management"] = "Közösségi menedzsment";
+$Definition["Visualize Your Community"] = "Képzeld el közösségedet";
+$Definition["Customize your community"] = "Testreszabhatja közösségét";
+$Definition["Configuration & Addons"] = "Konfiguráció és kiegészítők";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Biztos, hogy törölni szeretnéd a %s-t?";
+$Definition["Newest Report"] = "Legújabb jelentés";
+$Definition["Oldest Report"] = "Legrégebbi jelentés";
+$Definition["Report Dismissed"] = "Jelentés elutasítva";
+$Definition["Post Rejected"] = "Bejegyzés elutasítva";
+$Definition["Escalated"] = "Eszkalálódott";
+$Definition["Reported by <0/>"] = "Jelentette: <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "<0/> nem adott jelentést";
+$Definition["Create"] = "Létrehoz";
+$Definition["Edited"] = "Szerkesztette";
+$Definition["Newest Escalation"] = "Legújabb eszkaláció";
+$Definition["Oldest Escalation"] = "Legrégebbi eszkaláció";
+$Definition["Escalations Dashboard"] = "Escalations Dashboard";
+$Definition["On Hold"] = "Tartásban";
+$Definition["Done"] = "Kész";
+$Definition["In Jira"] = "Jirában";
+$Definition["In Zendesk"] = "A Zendeskben";
+$Definition["Integrations"] = "Integrációk";
+$Definition["Remove Post"] = "Hozzászólás eltávolítása";
+$Definition["Escalated by <0/>"] = "Eszkalálva: <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Adja meg az eszkaláció címét";
+$Definition["Escalated by <0/>"] = "Eszkalálva: <0/>";
+$Definition["Post Revision"] = "Revízió után";
+$Definition["Loader"] = "Rakodó";
+$Definition["a month"] = "egy hónap";
+$Definition["%s ago"] = "%s ezelőtt";
+$Definition["Live"] = "Élő";
+$Definition["Live Post"] = "Élő bejegyzés";
+$Definition["Remove Post"] = "Hozzászólás eltávolítása";
+$Definition["Internal Comments"] = "Belső megjegyzések";
+$Definition["Add a comment"] = "Megjegyzés hozzáadása";
+$Definition["Live"] = "Élő";
+$Definition["There are currently no comments on this post"] =
+    "Jelenleg nincsenek megjegyzések ehhez a bejegyzéshez";
+$Definition["All comments on this post will appear here"] =
+    "A bejegyzéshez fűzött összes megjegyzés itt fog megjelenni";
+$Definition["Reports for <0/>"] = "Jelentések a következőhöz: <0/>";
+$Definition["Live Post"] = "Élő bejegyzés";
+$Definition["There are currently no reports for this post."] =
+    "Jelenleg nincsenek jelentések ehhez a bejegyzéshez.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Itt fog megjelenni a bejegyzéshez kapcsolódó jelentések listája.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Konfigurálja a jelentések küldésének helyét, és kezelje a közösség jelentési okait.";
+$Definition["New Community Management System"] =
+    "Új közösségirányítási rendszer";
+$Definition["Enable Triage Dashboard"] = "A Triage Dashboard engedélyezése";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "A személyzeti engedéllyel rendelkező összes felhasználó láthatja és megjelölheti a megbeszéléseket megoldottként vagy megoldatlanként. Ezek a felhasználók hozzáférhetnek az osztályozási irányítópulthoz is, ahol moderálhatják kategóriáikat.";
+$Definition["Resolve All Discussions"] = "Az összes vita megoldása";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Az Összes bejegyzés feloldása a közösség összes meglévő bejegyzését feloldja. Ez a tömeges művelet nem indít el webhookot vagy elemzést.";
+$Definition["Resolve All"] = "Mindent megoldani";
+$Definition["Required field"] = "Kötelező mező";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Az új közösségi felügyeleti rendszer lehetővé teszi az egyéni jelentéstételi okokat, az eszkalációkat, a hozzárendeléseket és az automatizálási szabályokat. Ennek engedélyezése megváltoztatja a jelentéskészítést az új rendszer használatához. <0>További információ</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Ez megoldja a közösség összes meglévő bejegyzését. Ez a tömeges művelet nem aktiválja a webhookot vagy a naplóelemzést. Folytatja?";
+$Definition["Reorder"] = "Újrarendelés";
+$Definition["Add Reason"] = "Ok hozzáadása";
+$Definition["Delete?"] = "Töröl?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Biztosan törli ezt az okot?";
+$Definition["A concise name for the report reason."] =
+    "Tömör név a jelentés miatt.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Egyedi címke a jelentés miatt. Ez a címke mentés után nem módosítható.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "A jelentés okának magyarázata, hogy a riporterek helyesebben válasszanak egy bejegyzés bejelentésekor.";
+$Definition["The roles which can see this report reason."] =
+    "Azok a szerepkörök, amelyek ezt a jelentést láthatják.";
+$Definition["Add Report Reason"] = "Jelentés okának hozzáadása";
+$Definition["Discard Changes?"] = "Elveti a módosításokat?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Biztos, hogy mentés nélkül szeretne kilépni?";
+$Definition["Reorder Report Reasons"] = "A jelentés átrendezésének okai";
+$Definition["Edit Report Reason"] = "Jelentés okának szerkesztése";
+$Definition["Delete Report Reason"] = "A jelentés okának törlése";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Ezt a beállítást engedélyezni kell az egyéni vitaszálak használatához.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Konfigurálja a közösségi tartalmak létrehozása előtti automatikus moderálásához használt beállításokat. A lehetőségek közé tartozik az automatikus spamészlelés, bizonyos kategóriákban való közzététel jóváhagyása, valamint bizonyos kulcsszavak vagy kifejezések használatával történő közzététel jóváhagyása.";
+$Definition["Spam Detection"] = "Spam észlelése";
+$Definition["Learn more."] = "További információ.";
+$Definition["documentation."] = "dokumentáció.";
+$Definition["Verify browsers of new members"] =
+    "Az új tagok böngészőinek ellenőrzése";
+$Definition["Challenge Cutoff Age"] = "Challenge Cutoff Age";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "A regisztráció óta eltelt napok száma a Cloudflare kihívás megkerüléséhez";
+$Definition["Save challenge cutoff age"] = "Mentse a kihívás határidejét";
+$Definition["Premoderated Roles"] = "Előremoderált szerepek";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Az „Approval.Require” engedéllyel rendelkező felhasználóknak minden bejegyzéshez moderátor jóváhagyása szükséges.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Az „Ellenőrzött” megjelölésű felhasználók megkerülik ezt a követelményt. Ezek a „Jóváhagyás. Kötelező” szerepkörök";
+$Definition["No roles are currently set to require premoderation."] =
+    "Jelenleg nincs olyan szerepkör, amely előmoderálást igényelne.";
+$Definition["Edit Roles"] = "Szerepek szerkesztése";
+$Definition["Premoderated Categories"] = "Előremoderált kategóriák";
+$Definition["No categories are currently set to require premoderation."] =
+    "Jelenleg nincs olyan kategória, amely előmoderálást igényelne.";
+$Definition["Edit Categories"] = "Kategóriák szerkesztése";
+$Definition["Premoderated Keywords"] = "Előre moderált kulcsszavak";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Az alábbi kulcsszavakat vagy kifejezéseket tartalmazó bejegyzésekhez moderátor jóváhagyása szükséges.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Jelenleg nincs olyan kulcsszó, amely előmoderálást igényelne.";
+$Definition["Edit Keywords"] = "Kulcsszavak szerkesztése";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Engedélyezze az Akismetnek, hogy kiszűrje a kéretlen leveleket az összes bejegyzésben a jelentkezők regisztrációja és az ellenőrizetlen felhasználók alapján. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "A Stopforumspam engedélyezésével összevetheti a közösségi felhasználókat a bejelentett spamküldők listájával, és vagy spamként jelenti a bejegyzést, vagy egyenesen elutasítja őket. A jelentési és elutasítási küszöböt a <0>kiegészítő beállításai kezelik</0> . További információ: <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Azok a nem ellenőrzött tagok, akik a megadott számú napnál rövidebb ideig tartózkodnak a közösségben, a spam elkerülése érdekében Cloudflare (Captcha vagy Checkbox) kihívást fognak kérni. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s a következő kategóriákban moderátor jóváhagyást igényel.";
+$Definition["Default Sort Order"] = "Alapértelmezett rendezési sorrend";
+$Definition["Choose the order records are sorted by default."] =
+    "Válassza ki, hogy a rendelési rekordok alapértelmezés szerint legyenek rendezve.";
+$Definition["Show OP Indicator"] = "Mutasd az OP jelzőt";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Ha ez az opció be van kapcsolva, az eredeti posztertől érkező válaszok OP jelzést kapnak.";
+$Definition["Show Badges"] = "Jelvények megjelenítése";
+$Definition["Badges Limit"] = "Jelvények korlátja";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "A felhasználók jelvényeinek megjelenítése minden bejegyzésnél. Legfeljebb 5 jelvény jeleníthető meg a legmagasabb rangsor szerinti sorrendben.";
+$Definition["event"] = "esemény";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> további megjegyzés";
+$Definition["Export"] = "Export";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "A kezdőlap címe csak 1 és 500 karakter közötti lehet";
+$Definition["Address Bar Color"] = "Címsor színe";
+$Definition["Meta Tags"] = "Meta Tags";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "A metacímkéket a Google Search Console és más szolgáltatások domainellenőrzésére használják. Másolja ki a szükséges metacímkéket a forrásból, és illessze be egy új sorba.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Fordíts egy kis időt arra, hogy átgondold, miként mutatnád be az oldalad. Az oldalad megfelelő címe és leírása segíthet jobb helyezést elérni a keresőmotorokban.";
+$Definition["Style Guides"] = "Stílus útmutatók";
+$Definition["Branding & Assets"] = "Márkaépítés és eszközök";
+$Definition["Home Pages"] = "Kezdőlapok";
+$Definition["Home Layout Settings"] = "Otthoni elrendezés beállításai";
+$Definition["Category Pages"] = "Kategória oldalak";
+$Definition["Category Layout Settings"] = "Kategória elrendezési beállítások";
+$Definition["Category List Pages"] = "Kategórialista oldalak";
+$Definition["Posting Category Pages"] = "Kategória oldalak közzététele";
+$Definition["Nested Category Pages"] = "Beágyazott kategóriaoldalak";
+$Definition["Discussion Pages"] = "Vitaoldalak";
+$Definition["Idea Pages"] = "Ötletoldalak";
+$Definition["Question Pages"] = "Kérdés oldalak";
+$Definition["Post Pages"] = "Oldalak közzététele";
+$Definition["Post Layout Settings"] = "Hozzászólás elrendezési beállításai";
+$Definition["Create Post Pages"] = "Hozzon létre bejegyzési oldalakat";
+$Definition["Create Post Layout Settings"] = "Hozzon létre bejegyzéselrendezési beállításokat";
+$Definition["Event Pages"] = "Eseményoldalak";
+$Definition["Event Layout Settings"] = "Esemény elrendezési beállítások";
+$Definition["Knowledge Base Pages"] = "Tudásbázis oldalak";
+$Definition["Knowledge Base Layout Settings"] =
+    "Tudásbázis elrendezési beállításai";
+$Definition["Knowledge Base Home Pages"] = "Tudásbázis kezdőlapjai";
+$Definition["Help Center Home Pages"] = "Súgó kezdőlapjai";
+$Definition["Help Center Category Pages"] = "Súgó kategóriaoldalai";
+$Definition["Help Center Article Pages"] = "Súgó cikkoldalai";
+$Definition["Guide Article Pages"] = "Útmutató cikkoldalak";
+$Definition["Layouts"] = "Elrendezések";
+$Definition["Add Custom Layout"] = "Egyéni elrendezés hozzáadása";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Válassza ki a kívánt Legutóbbi bejegyzések elrendezést.";
+$Definition["Legacy Recent Posts Layouts"] = "Legacy Recent Posts Layouts";
+$Definition["Change layout versions for the <0/>."] =
+    "Módosítsa a <0/> elrendezési verzióit.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "További információért <0>tekintse meg a dokumentációt</0> .";
+$Definition["Change %s"] = "%s módosítása";
+$Definition["Are you sure you want to use %s?"] =
+    "Biztos, hogy használni szeretné a következőt: %s?";
+$Definition["Legacy Home Layouts"] = "Hagyományos otthoni elrendezések";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Válassza ki a kívánt örökölt otthoni elrendezést.";
+$Definition["Home Layout Version"] = "Otthoni elrendezési verzió";
+$Definition["Custom Home Layouts"] = "Egyedi otthoni elrendezések";
+$Definition["Legacy Category Layout"] = "Legacy kategória elrendezés";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Válassza ki a kívánt Legacy kategória elrendezést.";
+$Definition["Category Layout Version"] = "Kategória elrendezés verziója";
+$Definition["Legacy Category Layouts"] = "Régi kategóriaelrendezések";
+$Definition["Custom Category Layouts"] = "Egyedi kategória elrendezések";
+$Definition["Legacy Post Layout"] = "Legacy Post Layout";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Válassza ki a kívánt régi bejegyzéselrendezést.";
+$Definition["Post Layout Version"] = "Post Layout Version";
+$Definition["Legacy Post Layouts"] = "Örökös bejegyzéselrendezések";
+$Definition["Custom Post Layouts"] = "Egyedi bejegyzéselrendezések";
+$Definition["Legacy Create Post Layout"] = "Hagyományos bejegyzéselrendezés létrehozása";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Válassza ki az előnyben részesített régi bejegyzés létrehozási elrendezést.";
+$Definition["Create Post Layout Version"] = "Hozzon létre bejegyzéselrendezési verziót";
+$Definition["Legacy Create Post Layouts"] = "Hagyományos bejegyzéselrendezések létrehozása";
+$Definition["Custom Create Post Layouts"] = "Egyéni bejegyzéselrendezések létrehozása";
+$Definition["Legacy Event Layout"] = "Örökös eseményelrendezés";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Válassza ki a kívánt örökölt eseményelrendezést.";
+$Definition["Event Layout Version"] = "Esemény elrendezés verziója";
+$Definition["Legacy Event Layouts"] = "Régi eseményelrendezések";
+$Definition["Custom Event Layouts"] = "Egyedi eseményelrendezések";
+$Definition["Created <0/> by <1/>."] = "Létrehozta: <0/>, készítette: <1/>.";
+$Definition["Layout Options"] = "Elrendezési beállítások";
+$Definition["Contextual Description"] = "Kontextuális leírás";
+$Definition["Skip to end of Carousel"] = "Ugrás a Carousel végére";
+$Definition["Previous Slides"] = "Előző Diák";
+$Definition["Next Slides"] = "Következő diák";
+$Definition["indicator navigation"] = "indikátor navigáció";
+$Definition["<0/> new"] = "<0/> új";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d dia látható a kezdeti dián, %d/%d";
+$Definition["Unassigned"] = "Nincs hozzárendelve";
+$Definition["Apply Layout to Site Home Page"] =
+    "Elrendezés alkalmazása a webhely kezdőlapjára";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Beállítás alapértelmezett elrendezésként meghatározott alközösségek számára.";
+$Definition["Apply to specific categories."] = "Adott kategóriákra vonatkozik.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Ez az elrendezés nem törölhető, mert egy elrendezéssablon.";
+$Definition["Delete Layout"] = "Elrendezés törlése";
+$Definition["Are you sure you want to delete?"] =
+    "Biztosan törölni akarod?";
+$Definition["Applied"] = "Alkalmazott";
+$Definition["Applied as default"] = "Alapértelmezésként alkalmazva";
+$Definition["View Category"] = "Kategória megtekintése";
+$Definition["Apply to specific subcommunities."] =
+    "Jelentkezés adott alközösségekre.";
+$Definition["Unable to re-assign default template"] =
+    "Nem lehet újból hozzárendelni az alapértelmezett sablont";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Ez az elrendezés egy sablon, és alapértelmezettként van hozzárendelve az összes ilyen típusú oldalhoz. Az alapértelmezettként való eltávolításhoz vagy adott oldalakhoz való hozzárendeléséhez más elrendezést kell alapértelmezettként hozzárendelnie.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Ez az elrendezés nem törölhető, mert jelenleg alkalmazva van.";
+$Definition["Set as default layout for all <0 />."] =
+    "Beállítás alapértelmezett elrendezésként az összes <0 /> számára.";
+$Definition["Legacy Knowledge Base Layout"] = "Legacy Tudásbázis elrendezés";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Válassza ki a preferált Legacy Knowledge Base elrendezést.";
+$Definition["Knowledge Base Layout Version"] = "Tudásbázis elrendezési verziója";
+$Definition["Legacy Knowledge Base Layouts"] = "Örökös tudásbázis-elrendezések";
+$Definition["Custom Knowledge Base Layouts"] = "Egyedi tudásbázis-elrendezések";
+$Definition["Article Count"] = "Cikkszám";
+$Definition["Legacy Layouts enabled"] = "A régi elrendezések engedélyezve";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Vegye figyelembe, hogy ez az elrendezésmódosítás addig nem lesz látható, amíg nem vált át egyéni elrendezésekre.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Ez az elrendezésmódosítás mindaddig nem lesz látható, amíg a közösségedet egyéni <0/>-ra nem állítod a <1/> oldalon.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Beállítás alapértelmezett elrendezésként meghatározott tudásbázisokhoz.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Az oldal nem engedélyezi a meglévő felhasználókkal való kapcsolatfelvételt.";
+$Definition["The username you entered has already been taken."] =
+    "A megadott felhasználónév már foglalt.";
+$Definition["There was an error fetching the connection data."] =
+    "Hiba történt a kapcsolati adatok lekérésekor.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Nem sikerült hitelesíteni a jelszó-visszaállítási kérelmét. Próbálja meg újra használni a visszaállítási kérelem űrlapját.";
+$Definition["Invitation not found."] = "A meghívó nem található.";
+
+$Definition['# of automation rules'] = 'automatizálási szabályok száma';
+$Definition['Add Template'] = 'Sablon hozzáadása';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Válassza ki, hogy kinek kell ezt az e-mailt megkapnia, amikor ez az automatizálási szabály fut';
+$Definition['Delete an email template.'] = 'E-mail sablon törlése.';
+$Definition['Email Audience'] = 'E-mail közönség';
+$Definition['Email Template'] = 'E-mail sablon';
+$Definition['Email Templates'] = 'E-mail sablonok';
+$Definition['Email Template successfully deleted.'] = 'E-mail sablon sikeresen törölve.';
+$Definition['Email Template not enabled.'] = 'Az e-mail sablon nincs engedélyezve.';
+$Definition['Email template not found.'] = 'Nem található e-mail sablon.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Már létezik e-mail sablonnév. A folytatáshoz adjon meg egy egyedi nevet.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Az e-mail sablonok a <0/>-pal együtt használhatók a felhasználókkal való kommunikációhoz a tagok aktivitása vagy más közösségi események alapján.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Engedélyezze ezt a beállítást, ha e-mailt szeretne küldeni a szabály aktiválásakor.';
+$Definition['Impacted User'] = 'Érintett felhasználó';
+$Definition['Search and select one or more roles to receive this email'] = 'Keressen és válasszon ki egy vagy több szerepkört, amelyekhez ezt az e-mailt szeretné megkapni';
+$Definition['Search and select one or more users to receive this email.'] = 'Keressen és válasszon ki egy vagy több felhasználót, akik megkapják ezt az e-mailt.';
+$Definition['Select Roles'] = 'Szerepkörök kiválasztása';
+$Definition['Select User'] = 'Felhasználó kiválasztása';
+$Definition['Select the email template to send.'] = 'Válassza ki az elküldeni kívánt e-mail sablont.';
+$Definition['Send an Email After This Rule Runs'] = 'E-mail küldése a szabály futtatása után';
+$Definition['Send email'] = 'E-mail küldése';
+$Definition['Send the email'] = 'Küldd el az e-mailt';
+$Definition['Send email to user'] = 'E-mail küldése a felhasználónak';
+$Definition['Specific Roles'] = 'Specifikus szerepkörök';
+$Definition['Specific Users'] = 'Meghatározott felhasználók';
+$Definition['System email templates cannot be deleted.'] = 'A rendszer e-mail sablonokat nem lehet törölni.';
+$Definition['template name'] = 'sablon neve';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Ezen az oldalon létrehozhatja és kezelheti sablonjait, majd beállíthatja a <0/> elemet, hogy szabályozza, mikor és kinek küldje a rendszer az egyes e-maileket.';
+$Definition['View the full list of available placeholders.'] = 'Tekintse meg az elérhető helyőrzők teljes listáját.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Helyőrzőket is beilleszthetsz az e-mailek tartalmába – ezeket a rendszer automatikusan lecseréli a releváns felhasználói vagy bejegyzésadatokra az e-mail elküldésekor. Például: Szia {user.name}! vagy Nézd meg a {discussion.name} fórumot.';
+$Definition['You cannot delete system emails'] = 'Nem törölheti a rendszer e-mailjeit';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Nem törölhet olyan sablont, amelyet automatizálási szabályokban használnak.';
+$Definition['You will no longer receive community engagement emails.'] = 'A továbbiakban nem fogsz közösségi szerepvállalással kapcsolatos e-maileket kapni.';
+$Definition['Delete Email Template'] = 'E-mail sablon törlése';
+$Definition["Template Styles"] = "Sablonstílusok";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Hagyjon üresen bármelyik mezőt az alapértelmezett e-mail stílusok használatához, ahogyan az az <0>E-mail beállításoknál konfigurálva van.</0> oldal.";

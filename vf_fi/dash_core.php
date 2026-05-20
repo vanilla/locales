@@ -1654,3 +1654,650 @@ $Definition['You will no longer receive community engagement emails.'] = 'Et en�
 $Definition['Zoom Meeting ID or URL'] = 'Zoomaa kokouksen tunnus tai URL-osoite';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} hyväksyi {NotifyUserID,your} vastauksen kysymykseen: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Mobiili logo";
+$Definition["Banner Image"] = "Bannerin kuva";
+$Definition["Disable Forum Pages"] = "Poista foorumisivut käytöstä";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Valitse muokkaimen oletustietomuoto yhteisön julkaisuja varten.";
+$Definition["InputFormatter.Notes2"] =
+    "Muokkain havaitsee vanhojen julkaisujen tietomuodon automaattisesti muokkauksen yhteydessä ja lataa niiden alkuperäiset muokkaussäännöt. Alla valittu tietomuoto on etusijalla, edellä mainittu poikkeus pois lukien.";
+$Definition["Formatting Posts"] = "Julkaisujen muokkaaminen";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Määritä mobiililaitteiden muokkauksen tietomuoto";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Ota käyttöön yllä määritetty, jos mobiilikäyttäjillä kuuluisi olla sama kokemus. Tätä kannattaa muuttaa, jos käyttäjät tekevät ilmoituksia mobiilimuokkauksen ongelmista.";
+$Definition["Note:"] = "Huomio:";
+$Definition["Post Format"] = "Julkaisun muoto";
+$Definition["Posting"] = "Julkaiseminen";
+$Definition["Reinterpret All Posts As %s"] = "Tulkitse kaikki viestit uudelleen nimellä %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Pyydä editoria tulkitsemaan kaikki vanhat viestit uudelleen nimellä %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Tämä asetus tulee voimaan vain, jos %s on valittu yllä olevaksi viestimuodoksi.";
+$Definition["This option is to normalize the editor format"] =
+    "Tämä vaihtoehto on normalisoida editorin muoto, jos ladataan vanhemmat viestit, jotka on muokattu muulla muodossa, kuten markdown tai BBCode, tämä asetus pakottaa %s.";
+
+$Definition["Mobile Format"] = "Mobiililaitemuoto";
+$Definition["Enable Rich Quotes"] = "Salli rikastetut lainaukset";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Seuraavan vaihtoehdon avulla voit mahdollistaa lainausten käytön rikastetun tekstin muokkainta varten. Tätä voidaan käyttää vain, jos oletusmuokkaimen arvona on "Rikastettu".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Oletusarvoinen paikkamerkki";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Lataa paikkamerkkikuva, joka näytetään, jos käyttäjien julkaisussa ei ole kuvaa.";
+$Definition["Additional classes"] = "Lisäluokat";
+$Definition["Apply additional classes on catalogue image."] =
+    "Voit ottaa lisäluokat käyttöön katalogin kuvan kautta. Erottele luokat toisistaan välilyönnillä.";
+$Definition["Category only"] = "Vain kategoria";
+$Definition["Display on category page only."] =
+    "Näytä ainoastaan kategoriasivulla. Ei vaikuta uusiin keskustelulistoihin.";
+$Definition["Use Masonry display"] = "Käytä tiiliseinänäyttöä";
+$Definition["Show an uploaded image on the Category page."] =
+    'Jokainen keskustelu näyttää ladatun kuvan kategoriasivulla. Tämä pätee ainoastaan kategorioihin, joiden "Näytä tässä muodossa" -vaihtoehdoksi on asetettu "Keskustelu".';
+$Definition["Upload Placeholder Image"] = "Lataa paikkamerkin kuva";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Muutosten tallentamisessa tapahtui virhe. Yritä uudelleen.";
+$Definition["<0/> has been <1/>"] = "<0/> on ollut <1/>";
+$Definition["enabled"] = "käytössä";
+$Definition["disabled"] = "liikuntarajoitteinen";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Nämä tiedot näytetään vain käyttäjille, joilla on oikeus tarkastella sisäisiä tietoja";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Nämä ovat yksityisiä tietoja, eikä niitä jaeta muille jäsenille.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Tämä luo Zoom-kokouksen Zoom-integraation omistajan puolesta ja jos olet rekisteröitynyt käyttäjä, lisää sinut cohostiksi. Jos et ole rekisteröitynyt Zoom-käyttäjä tai et kuulu integraation määrittäneeseen organisaatioon, tällä tapahtumalla voi olla rajoitettu Zoom-toiminto ilman isäntä.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Et voi päivittää tämän tapahtuman zoomauksen URL-osoitetta tai tunnusta.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoomaa kokouksen tunnus tai URL-osoite";
+
+// Automation Rules
+$Definition["Add tag"] = "Lisää tunniste";
+$Definition["A post"] = "Viesti";
+$Definition["A post has been added to a collection"] =
+    "Viesti on lisätty kokoelmaan";
+$Definition["A post has not had any activity"] =
+    "Viestillä ei ole ollut toimintaa";
+$Definition["A question"] = "Kysymys";
+$Definition["A user has been registered"] = "Käyttäjä on rekisteröity";
+$Definition["A post has received"] = "Viesti on vastaanotettu";
+$Definition["Date field reached"] = "Päivämääräkenttä saavutettu";
+$Definition["A user registers or logs in with email domain:"] =
+    "Käyttäjä rekisteröityy tai kirjautuu sisään sähköpostin verkkotunnuksella:";
+$Definition["A user registers or updates a profile field:"] =
+    "Käyttäjä rekisteröi tai päivittää profiilikentän:";
+$Definition["Add tags:"] = "Lisää tunnisteita:";
+$Definition["Add to collection:"] = "Lisää kokoelmaan:";
+$Definition["An idea has received"] = "Idea on saapunut";
+$Definition["and"] = "ja";
+$Definition["and assign to"] = "ja määrätä";
+$Definition["and remove role"] = "ja poista rooli";
+$Definition["and remove from community"] = "ja poista yhteisöstä";
+$Definition["Assign role:"] = "Anna rooli:";
+$Definition["Assign/Remove role"] = "Määritä/poista rooli";
+$Definition["Auto-run disabled."] = "Automaattinen käynnistys pois käytöstä.";
+$Definition["Auto-run enabled."] = "Automaattinen käynnistys käytössä.";
+$Definition["Automation rule successfully created."] =
+    "Automaatiosäännön luominen onnistui.";
+$Definition["Automation rule successfully updated."] =
+    "Automaatiosäännön päivitys onnistui.";
+$Definition["Bump post"] = "Pohjaposti";
+$Definition["Change the status of the idea to"] =
+    "Muuta idean tilaksi";
+$Definition["Change status"] = "Muuta tilaa";
+$Definition["Close post"] = "Sulje viesti";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Kommentit, jotka vastaavat ehtoja nyt: <0 />";
+$Definition["created by"] = "luonut";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Luo ja hallitse automaatioita, joiden avulla voit hallita helposti viestejä ja käyttäjiä.";
+$Definition["Create/Edit Automation Rule"] = "Luo/muokkaa automatisointisääntöä";
+$Definition["Delete Rule"] = "Poista sääntö";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Kriteereitä vastaavat keskustelut nyt: <0 />";
+$Definition["Edit Rule"] = "Muokkaa sääntöä";
+$Definition["Edit Variables"] = "Muokkaa muuttujia";
+$Definition["Escalate it"] = "Eskaloi se";
+$Definition["Escalate to GitHub"] = "Lähetä GitHubiin";
+$Definition["Escalate to Zendesk"] = "Eskaloi Zendeskille";
+$Definition["Expand"] = "Laajentaa";
+$Definition["Failed to disable the rule"] = "Säännön poistaminen käytöstä epäonnistui";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Esikatselutietojen lataaminen epäonnistui. Tarkista laukaisu- ja toimintaarvot.";
+$Definition["Follow categories:"] = "Seuraa luokkia:";
+$Definition["Follow category"] = "Seuraa luokkaa";
+$Definition["for"] = "varten";
+$Definition["has been unanswered"] = "on jäänyt vastaamatta";
+$Definition["has not received any comments"] = "ei ole saanut kommentteja";
+$Definition["Last reported"] = "Viimeksi raportoitu";
+$Definition["Maximum Limit Reached"] = "Maksimiraja saavutettu";
+$Definition["Move post"] = "Siirrä viesti";
+$Definition["Move to category:"] = "Siirry luokkaan:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Monivalintakentät käynnistyvät, jos käyttäjä täyttää MINKÄÄN ehdoista.";
+$Definition["New/Updated Email domain"] = "Uusi/päivitetty sähköpostin verkkotunnus";
+$Definition["New/Updated Profile field"] = "Uusi/päivitetty profiili -kenttä";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Huomautus: Toiminnot eivät vaikuta kohteisiin <0 />, joihin liittyvä toiminto on jo otettu käyttöön.";
+$Definition["Post Management"] = "Postin hallinta";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Viestit, jotka vastaavat ehtoja nyt: <0 />";
+$Definition["Remove from collection"] = "Poista kokoelmasta";
+$Definition["Remove from collection:"] = "Poista kokoelmasta:";
+$Definition["Remove from default follow list"] =
+    "Poista oletusseurantaluettelosta";
+$Definition["Remove from trigger collection"] =
+    "Poista liipaisinkokoelmasta";
+$Definition["report"] = "raportti";
+$Definition["reports"] = "raportteja";
+$Definition["Rule Action"] = "Sääntötoiminta";
+$Definition["Rule may not be deleted while it is running"] =
+    "Sääntöä ei saa poistaa sen ollessa käynnissä";
+$Definition["Rule may not be edited while it is running"] =
+    "Sääntöä ei voi muokata sen ollessa käynnissä";
+$Definition["Rule Name"] = "Säännön nimi";
+$Definition["Rule status will apply once current run completes"] =
+    "Säännön tila tulee voimaan, kun nykyinen ajo on valmis";
+$Definition["Rule Trigger"] = "Säännön laukaisin";
+$Definition["Running"] = "Juoksemassa";
+$Definition["See documentation for more information."] =
+    "Katso lisätietoja dokumentaatiosta.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Valitse toiminto, joka tapahtuu, kun tämä sääntö käynnistyy.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Valitse triggeri, joka saa tämän säännön suorittamaan.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Aseta liipaisinmuuttuja ja toimintomuuttuja säännön yhteenvedon luomiseksi.";
+$Definition["sentiment"] = "tunne";
+$Definition["since"] = "koska";
+$Definition["Summary"] = "Yhteenveto";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Toiminto koskee vain heitä, jos jatkat.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Toiminto koskee niitä, kun sääntö on käytössä. Jatkossa toimintoa sovelletaan myös muihin <0 />, jotka täyttävät laukaisuehdot.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Tämä ei vaikuta mihinkään <0 /> juuri nyt. Se vaikuttaa jatkossa niihin, jotka täyttävät kriteerit.";
+$Definition["Time since added to collection"] =
+    "Aika kokoelmaan lisäämisestä";
+$Definition["Time since post has had no comments"] =
+    "Viestistä ei ole tullut kommentteja";
+$Definition["Time since Registration"] = "Aika rekisteröinnistä";
+$Definition["Time since post has had no activity"] =
+    "Viestin jälkeen ei ole ollut aktiivisuutta";
+$Definition["Time since question has been unanswered"] =
+    "Aika kysymyksestä on jäänyt vastaamatta";
+$Definition["Trigger"] = "Laukaista";
+$Definition["Unsaved Changes"] = "Tallentamattomat muutokset";
+$Definition["Up to <0 /> ago."] = "Jopa <0 /> sitten.";
+$Definition["upvote"] = "plusäänestys";
+$Definition["upvotes"] = "plus-ääniä";
+$Definition["User Management"] = "Käyttäjien hallinta";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Käyttäjät, jotka vastaavat ehtoja nyt: <0 />";
+$Definition["Value is not a valid integer."] = "Arvo ei ole kelvollinen kokonaisluku.";
+$Definition["View History"] = "Näytä historia";
+$Definition["Votes on an idea"] = "Äänestää ideasta";
+$Definition["with"] = "kanssa";
+$Definition["with reason"] = "syystä";
+$Definition["with tag"] = "tagilla";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Et voi lisätä enempää kuin 150 automatisointisääntöä. Poista joitakin sääntöjä ja yritä uudelleen.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Mikään kuvake ei vastaa näitä suodattimia.";
+$Definition["Manage Icon"] = "Hallitse kuvaketta";
+$Definition["Manage Icons"] = "Hallitse kuvakkeita";
+$Definition["Manage Icon helptext"] =
+    "Voit hallita järjestelmä- ja historiallisia kuvakkeita täällä. Kun lataat, varmista, että kuvake on SVG-muodossa, sisältää viewBox-attribuutin ja käyttää väriä #000000 varmistaakseen, että kuvake voidaan värjätä dynaamisesti teema-asetusten ja käyttäjien vuorovaikutuksen perusteella. Vain yksi kuvake kustakin tyypistä voi olla aktiivinen kerrallaan.";
+$Definition["Upload New Icon"] = "Lataa uusi kuvake";
+$Definition["Active Icon"] = "Aktiivinen kuvake";
+$Definition["New Icon"] = "Uusi kuvake";
+$Definition["Icon Type"] = "Kuvakkeen tyyppi";
+$Definition["Previous Icons"] = "Edelliset kuvakkeet";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Aiemmat versiot kuvakkeistasi löytyvät täältä ja ne voidaan palauttaa milloin tahansa.";
+$Definition["Set as Active"] = "Aseta aktiiviseksi";
+$Definition["Uploaded <0/> by <1/>"] = "Lähettäjä <0/>, lähettäjä <1/>";
+$Definition["Icon Packs"] = "Ikonipaketit";
+$Definition["Download Active Icon Pack"] = "Lataa Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Lataa System Icon Pack";
+$Definition["Upload Icon Pack"] = "Lataa kuvakepaketti";
+$Definition["Preview Icon Pack"] = "Esikatsele kuvakepakettia";
+$Definition["Changed Icons"] = "Vaihdettu kuvakkeet";
+$Definition["Icon Name"] = "Kuvakkeen nimi";
+$Definition["All icons in this icon pack are currently active."] =
+    "Kaikki tämän kuvakepaketin kuvakkeet ovat tällä hetkellä aktiivisia.";
+$Definition["Activate Icon Pack"] = "Aktivoi Icon Pack";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Näytä vain kuvakkeet, jotka on ohitettu mukautetuilla kuvakkeilla.";
+$Definition["System Icon"] = "Järjestelmän kuvake";
+$Definition["Custom Icon"] = "Mukautettu kuvake";
+$Definition["Only show icons that are default system icons."] =
+    "Näytä vain kuvakkeet, jotka ovat oletusjärjestelmän kuvakkeita.";
+$Definition["Previews"] = "Esikatselut";
+$Definition["Icon Size"] = "Kuvakkeen koko";
+$Definition["This is the actual size most icons render at."] =
+    "Tämä on useimpien kuvakkeiden todellinen koko.";
+$Definition["Preview Color"] = "Esikatseluväri";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Tätä väriä käytetään kuvakkeen värin esikatseluun. Se korvaa #000000 käytön lataamissasi kuvakkeissa. Varsinaisessa sovelluksessa värit ovat dynaamisia.";
+$Definition["Escalation Name"] = "Eskaloinnin nimi";
+$Definition["Status on Creation"] = "Luomisen tila";
+$Definition["Assignee"] = "Valtuutettu";
+$Definition["Internal Comment"] = "Sisäinen kommentti";
+$Definition["Set Post Visibility to Hidden"] = "Aseta Viestin näkyvyys -asetukseksi Piilotettu";
+$Definition["Remove Method"] = "Poista menetelmä";
+$Definition["Wipe"] = "Pyyhi";
+$Definition["Newest Post"] = "Uusin viesti";
+$Definition["Oldest Post"] = "Vanhin viesti";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Triage Dashboard";
+$Definition["Message Post Author"] = "Viestiviestin kirjoittaja";
+$Definition["Add Filter"] = "Lisää suodatin";
+$Definition["Customer Support"] = "Asiakastuki";
+$Definition["My Profile"] = "Oma profiili";
+$Definition["Resolve post"] = "Ratkaise viesti";
+$Definition["View post in community"] = "Näytä viesti yhteisössä";
+$Definition["View Details"] = "Näytä tiedot";
+$Definition["Escalate"] = "Eskaloida";
+$Definition["Posted by <0/> in <1/>"] = "Lähettäjä <0/> kohteessa <1/>";
+$Definition["Show"] = "Näytä";
+$Definition["View Escalation"] = "Näytä eskalaatio";
+$Definition["# Reports"] = "# Raportit";
+$Definition["Last Reported"] = "Viimeksi raportoitu";
+$Definition["Report Reasons"] = "Ilmoita syyt";
+$Definition["Last Modified"] = "Viimeksi muokattu";
+$Definition["Last refreshed <0/> by <1/>."] = "Viimeksi päivittänyt <0/>: <1/>.";
+
+$Definition["Moderation Content"] = "Moderointisisältö";
+$Definition["AI Settings"] = "AI-asetukset";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP käyttöönotto";
+$Definition["Activity & Registration"] = "Toiminta ja ilmoittautuminen";
+$Definition["Content Settings"] = "Sisältöasetukset";
+$Definition["Premoderation Settings"] = "Ennakkotilauksen asetukset";
+$Definition["Escalation Rules"] = "Eskalointisäännöt";
+$Definition["Automation"] = "Automaatio";
+$Definition["Audit Log"] = "Tarkastusloki";
+$Definition["Community Management"] = "Yhteisön hallinta";
+$Definition["Visualize Your Community"] = "Visualisoi yhteisösi";
+$Definition["Customize your community"] = "Mukauta yhteisöäsi";
+$Definition["Configuration & Addons"] = "Kokoonpano ja lisäosat";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Oletko varma, että haluat poistaa %s?";
+$Definition["Newest Report"] = "Uusin raportti";
+$Definition["Oldest Report"] = "Vanhin raportti";
+$Definition["Report Dismissed"] = "Raportti hylätty";
+$Definition["Post Rejected"] = "Viesti hylätty";
+$Definition["Escalated"] = "Eskaloitunut";
+$Definition["Reported by <0/>"] = "Ilmoittaja <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "<0/> ei toimittanut yhtään raporttia";
+$Definition["Create"] = "Luo";
+$Definition["Edited"] = "Muokattu";
+$Definition["Newest Escalation"] = "Uusin eskalaatio";
+$Definition["Oldest Escalation"] = "Vanhin eskalaatio";
+$Definition["Escalations Dashboard"] = "Escalations Dashboard";
+$Definition["On Hold"] = "Pidossa";
+$Definition["Done"] = "Tehty";
+$Definition["In Jira"] = "Jirassa";
+$Definition["In Zendesk"] = "Zendeskissä";
+$Definition["Integrations"] = "Integraatiot";
+$Definition["Remove Post"] = "Poista viesti";
+$Definition["Escalated by <0/>"] = "Eskaloitunut <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Anna tälle eskalaatiolle otsikko";
+$Definition["Escalated by <0/>"] = "Eskaloitunut <0/>";
+$Definition["Post Revision"] = "Lähetä versio";
+$Definition["Loader"] = "Loader";
+$Definition["a month"] = "kuukausi";
+$Definition["%s ago"] = "%s sitten";
+$Definition["Live"] = "Elää";
+$Definition["Live Post"] = "Live-postaus";
+$Definition["Remove Post"] = "Poista viesti";
+$Definition["Internal Comments"] = "Sisäiset kommentit";
+$Definition["Add a comment"] = "Lisää kommentti";
+$Definition["Live"] = "Elää";
+$Definition["There are currently no comments on this post"] =
+    "Tässä viestissä ei ole tällä hetkellä kommentteja";
+$Definition["All comments on this post will appear here"] =
+    "Kaikki tämän postauksen kommentit näkyvät täällä";
+$Definition["Reports for <0/>"] = "Raportit kohteelle <0/>";
+$Definition["Live Post"] = "Live-postaus";
+$Definition["There are currently no reports for this post."] =
+    "Tästä viestistä ei ole tällä hetkellä raportteja.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Tässä näkyy luettelo tähän viestiin liittyvistä raporteista.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Määritä raporttien lähetyspaikka ja hallitse yhteisösi ilmoitussyitä.";
+$Definition["New Community Management System"] =
+    "Uusi yhteisön hallintajärjestelmä";
+$Definition["Enable Triage Dashboard"] = "Ota Triage Dashboard käyttöön";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Kaikki käyttäjät, joilla on henkilöstön lupa, voivat nähdä ja merkitä keskustelut ratkaistuiksi tai ratkaisemattomiksi. Nämä käyttäjät voivat myös käyttää triage-hallintapaneelia valvoakseen luokkiaan.";
+$Definition["Resolve All Discussions"] = "Ratkaise kaikki keskustelut";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Ratkaise kaikki viestit ratkaisee kaikki olemassa olevat viestit yhteisössä. Tämä joukkotoiminto ei käynnistä webhookeja tai analytiikkaa.";
+$Definition["Resolve All"] = "Ratkaise kaikki";
+$Definition["Required field"] = "Pakollinen kenttä";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Uusi yhteisön hallintajärjestelmä mahdollistaa mukautetut raportointisyyt, eskalaatiot, toimeksiannot ja automaatiosäännöt. Tämän ottaminen käyttöön muuttaa raportointia uuden järjestelmän käyttöön. <0>Lue lisää</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Tämä ratkaisee kaikki yhteisön nykyiset viestit. Tämä joukkotoiminto ei käynnistä webhookeja tai lokianalytiikkaa. Jatkaa?";
+$Definition["Reorder"] = "Järjestä uudelleen";
+$Definition["Add Reason"] = "Lisää syy";
+$Definition["Delete?"] = "Poistaa?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Haluatko varmasti poistaa tämän syyn?";
+$Definition["A concise name for the report reason."] =
+    "Lyhyt nimi raportin syystä.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Ainutlaatuinen etiketti raportin syystä. Tätä tunnistetta ei voi muuttaa tallennuksen jälkeen.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Selitys raportin syystä, jotta toimittajat tekevät oikean valinnan postauksen raportoinnissa.";
+$Definition["The roles which can see this report reason."] =
+    "Roolit, jotka voivat nähdä tämän raportin syyn.";
+$Definition["Add Report Reason"] = "Lisää raportin syy";
+$Definition["Discard Changes?"] = "Hylätäänkö muutokset?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Haluatko varmasti poistua tallentamatta?";
+$Definition["Reorder Report Reasons"] = "Järjestä uudelleen raportin syyt";
+$Definition["Edit Report Reason"] = "Muokkaa raportin syytä";
+$Definition["Delete Report Reason"] = "Poista raportin syy";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Tämä asetus on otettava käyttöön, jotta voit käyttää mukautettuja keskustelusäikeitä.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Määritä asetukset, joilla yhteisön sisältöä valvotaan automaattisesti ennen sen luomista. Vaihtoehtoja ovat automaattiset roskapostin tunnistukset, hyväksynnän vaatiminen tiettyihin luokkiin kuuluville julkaisuille ja hyväksynnän vaatiminen tiettyjä avainsanoja tai lauseita käyttäville julkaisuille.";
+$Definition["Spam Detection"] = "Roskapostin tunnistus";
+$Definition["Learn more."] = "Lue lisää.";
+$Definition["documentation."] = "dokumentaatio.";
+$Definition["Verify browsers of new members"] =
+    "Tarkista uusien jäsenten selaimet";
+$Definition["Challenge Cutoff Age"] = "Haasteen raja-ikä";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Päivien määrä rekisteröinnistä ohittaa Cloudflare-haaste";
+$Definition["Save challenge cutoff age"] = "Tallenna haasteen ikäraja";
+$Definition["Premoderated Roles"] = "Premoderoidut roolit";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Käyttäjät, joilla on \"Approval.Require\" -käyttöoikeus, tarvitsevat valvojan hyväksynnän kaikille viesteille.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Vahvistetuiksi merkityt käyttäjät ohittavat tämän vaatimuksen. Nämä ovat rooleja, joissa on \"Approval.Require\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Mitään rooleja ei ole tällä hetkellä asetettu vaatimaan ennakkotarkistusta.";
+$Definition["Edit Roles"] = "Muokkaa rooleja";
+$Definition["Premoderated Categories"] = "Premoderoidut luokat";
+$Definition["No categories are currently set to require premoderation."] =
+    "Mitään luokkia ei ole tällä hetkellä asetettu vaatimaan ennakkotilausta.";
+$Definition["Edit Categories"] = "Muokkaa kategorioita";
+$Definition["Premoderated Keywords"] = "Ennalta moderoidut avainsanat";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Viestit, joissa on jokin seuraavista avainsanoista tai lauseista, vaativat valvojan hyväksynnän.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Mitään avainsanoja ei ole tällä hetkellä asetettu vaatimaan ennakkotarkistusta.";
+$Definition["Edit Keywords"] = "Muokkaa avainsanoja";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Salli Akismet suodattaa roskapostia kaikissa viesteissä hakijarekisteröityjen ja vahvistamattomien käyttäjien mukaan. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Ota Stopforumspam käyttöön tarkistaaksesi yhteisön käyttäjät ilmoitettujen roskapostittajien luetteloon ja joko ilmoittaa viestin roskapostiksi tai hylkää ne suoraan. Raportointi- ja hylkäyskynnykset hallitaan <0>lisäosan asetuksista</0> . Lue lisää aiheesta <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Vahvistamattomia jäseniä, jotka ovat olleet yhteisössä alle määritetyn määrän päiviä, kehotetaan suorittamaan Cloudflare (Captcha tai Checkbox) -haaste roskapostin estämiseksi. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s seuraavissa luokissa vaatii valvojan hyväksynnän.";
+$Definition["Default Sort Order"] = "Oletuslajittelujärjestys";
+$Definition["Choose the order records are sorted by default."] =
+    "Valitse, että tilaustietueet lajitellaan oletuksena.";
+$Definition["Show OP Indicator"] = "Näytä OP-ilmaisin";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Jos tämä vaihtoehto on käytössä, alkuperäisen julisteen vastauksissa on OP-ilmaisin.";
+$Definition["Show Badges"] = "Näytä merkit";
+$Definition["Badges Limit"] = "Merkkien raja";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Näytä käyttäjien merkit jokaisessa viestissä. Enintään 5 merkkiä voidaan näyttää korkeimman järjestyksen mukaan.";
+$Definition["event"] = "tapahtuma";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> muuta kommenttia";
+$Definition["Export"] = "Viedä";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Etusivun otsikoissa voi olla vain 1–500 merkkiä";
+$Definition["Address Bar Color"] = "Osoitepalkin väri";
+$Definition["Meta Tags"] = "Sisällönkuvauskentät";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Sisällönkuvauskenttiä käytetään verkkotunnuksen vahvistamiseen Google Search Consolessa ja muissa palveluissa. Kopioi tarvittavat sisällönkuvauskentät lähteestäsi ja liitä ne uudelle riville.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Pohdi hetkisen, kuinka kuvailet tässä sivustoasi. Jos sivustollasi on järkevä otsikko ja täsmällinen kuvaus, se voi parantaa sivustosi sijoitusta hakukoneissa.";
+$Definition["Style Guides"] = "Tyylioppaat";
+$Definition["Branding & Assets"] = "Brändäys ja omaisuus";
+$Definition["Home Pages"] = "Kotisivut";
+$Definition["Home Layout Settings"] = "Kotiasetteluasetukset";
+$Definition["Category Pages"] = "Luokkasivut";
+$Definition["Category Layout Settings"] = "Luokka-asetteluasetukset";
+$Definition["Category List Pages"] = "Luokkaluettelosivut";
+$Definition["Posting Category Pages"] = "Luokkasivujen lähettäminen";
+$Definition["Nested Category Pages"] = "Sisäkkäiset luokkasivut";
+$Definition["Discussion Pages"] = "Keskustelusivut";
+$Definition["Idea Pages"] = "Ideasivut";
+$Definition["Question Pages"] = "Kysymyssivut";
+$Definition["Post Pages"] = "Lähetä sivut";
+$Definition["Post Layout Settings"] = "Viestin asetteluasetukset";
+$Definition["Create Post Pages"] = "Luo viestisivuja";
+$Definition["Create Post Layout Settings"] = "Luo viestiasetteluasetukset";
+$Definition["Event Pages"] = "Tapahtumasivut";
+$Definition["Event Layout Settings"] = "Tapahtuman asetteluasetukset";
+$Definition["Knowledge Base Pages"] = "Tietokantasivut";
+$Definition["Knowledge Base Layout Settings"] =
+    "Knowledge Base -asetteluasetukset";
+$Definition["Knowledge Base Home Pages"] = "Tietokannan kotisivut";
+$Definition["Help Center Home Pages"] = "Ohjekeskuksen kotisivut";
+$Definition["Help Center Category Pages"] = "Ohjekeskuksen luokkasivut";
+$Definition["Help Center Article Pages"] = "Ohjekeskuksen artikkelisivut";
+$Definition["Guide Article Pages"] = "Ohjeartikkelisivut";
+$Definition["Layouts"] = "Asettelut";
+$Definition["Add Custom Layout"] = "Lisää mukautettu asettelu";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Valitse haluamasi Vanhojen viimeaikaisten viestien asettelu.";
+$Definition["Legacy Recent Posts Layouts"] = "Vanhat Viimeaikaisten viestien asettelut";
+$Definition["Change layout versions for the <0/>."] =
+    "Muuta sovelluksen <0/> asetteluversioita.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Lisätietoja on <0>asiakirjoissa</0> .";
+$Definition["Change %s"] = "Muuta %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Oletko varma, että haluat käyttää kohdetta %s?";
+$Definition["Legacy Home Layouts"] = "Vanhat kodin asettelut";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Valitse haluamasi Legacy Home Layout.";
+$Definition["Home Layout Version"] = "Kotiasetteluversio";
+$Definition["Custom Home Layouts"] = "Mukautetut kodin asettelut";
+$Definition["Legacy Category Layout"] = "Vanha luokan asettelu";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Valitse haluamasi Vanhojen kategorioiden asettelu.";
+$Definition["Category Layout Version"] = "Luokka-asetteluversio";
+$Definition["Legacy Category Layouts"] = "Vanhat luokkaasettelut";
+$Definition["Custom Category Layouts"] = "Mukautetut luokka-asettelut";
+$Definition["Legacy Post Layout"] = "Vanha viestiasettelu";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Valitse haluamasi Vanha viestiasettelu.";
+$Definition["Post Layout Version"] = "Viestin asetteluversio";
+$Definition["Legacy Post Layouts"] = "Vanhat viestiasettelut";
+$Definition["Custom Post Layouts"] = "Mukautetut viestiasettelut";
+$Definition["Legacy Create Post Layout"] = "Vanha Luo viestiasettelu";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Valitse haluamasi Vanha Luo viesti -asettelu.";
+$Definition["Create Post Layout Version"] = "Luo viestiasetteluversio";
+$Definition["Legacy Create Post Layouts"] = "Vanhat Luo viestiasettelut";
+$Definition["Custom Create Post Layouts"] = "Mukautetut viestiasettelut";
+$Definition["Legacy Event Layout"] = "Vanha tapahtuman asettelu";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Valitse haluamasi vanha tapahtumaasettelu.";
+$Definition["Event Layout Version"] = "Tapahtuman asetteluversio";
+$Definition["Legacy Event Layouts"] = "Vanhat tapahtuma-asettelut";
+$Definition["Custom Event Layouts"] = "Mukautetut tapahtuma-asettelut";
+$Definition["Created <0/> by <1/>."] = "Luonut <0/>, tekijä <1/>.";
+$Definition["Layout Options"] = "Asetteluvaihtoehdot";
+$Definition["Contextual Description"] = "Kontekstinen kuvaus";
+$Definition["Skip to end of Carousel"] = "Siirry karusellin loppuun";
+$Definition["Previous Slides"] = "Edelliset diat";
+$Definition["Next Slides"] = "Seuraavat diat";
+$Definition["indicator navigation"] = "ilmaisinnavigointi";
+$Definition["<0/> new"] = "<0/> uusi";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d diaa näytöllä aloitusdialla %d/%d";
+$Definition["Unassigned"] = "Ei määritetty";
+$Definition["Apply Layout to Site Home Page"] =
+    "Käytä asettelua sivuston kotisivulle";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Aseta oletusasettelu tietyille aliyhteisöille.";
+$Definition["Apply to specific categories."] = "Käytä tiettyihin luokkiin.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Tätä asettelua ei voi poistaa, koska se on asettelumalli.";
+$Definition["Delete Layout"] = "Poista asettelu";
+$Definition["Are you sure you want to delete?"] =
+    "Haluatko varmasti poistaa?";
+$Definition["Applied"] = "Sovellettu";
+$Definition["Applied as default"] = "Käytetty oletuksena";
+$Definition["View Category"] = "Näytä luokka";
+$Definition["Apply to specific subcommunities."] =
+    "Käytä tiettyihin alayhteisöihin.";
+$Definition["Unable to re-assign default template"] =
+    "Oletusmallia ei voi määrittää uudelleen";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Tämä asettelu on malli, ja se on määritetty oletusasetukseksi kaikille tämän tyyppisille sivuille. Jos haluat poistaa sen oletusasetukseksi tai määrittää sen tietyille sivuille, sinun on määritettävä eri asettelu oletukseksi.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Tätä asettelua ei voi poistaa, koska se on tällä hetkellä käytössä.";
+$Definition["Set as default layout for all <0 />."] =
+    "Aseta oletusasetukseksi kaikille <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Legacy Knowledge Base -asettelu";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Valitse haluamasi Legacy Knowledge Base -asettelu.";
+$Definition["Knowledge Base Layout Version"] = "Knowledge Base -asetteluversio";
+$Definition["Legacy Knowledge Base Layouts"] = "Vanhat tietokannan asettelut";
+$Definition["Custom Knowledge Base Layouts"] = "Mukautetut tietokannan asettelut";
+$Definition["Article Count"] = "Artikkelien määrä";
+$Definition["Legacy Layouts enabled"] = "Vanhat asettelut käytössä";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Huomaa, että tämä asettelun muutos ei ole näkyvissä, ennen kuin vaihdat mukautettuihin asetteluihin.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Tämä asettelun muutos ei näy, ennen kuin vaihdat yhteisösi mukautettuun <0/> <1/>-sivulla.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Aseta oletusasettelu tietyille tietokantoille.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Sivusto ei salli yhteyden muodostamista olemassa olevaan käyttäjään.";
+$Definition["The username you entered has already been taken."] =
+    "Antamasi käyttäjätunnus on jo käytössä.";
+$Definition["There was an error fetching the connection data."] =
+    "Yhteystietojen noutamisessa tapahtui virhe.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Salasanan palautuspyyntösi todennus epäonnistui. Yritä käyttää palautuspyyntölomaketta uudelleen.";
+$Definition["Invitation not found."] = "Kutsua ei löytynyt.";
+
+$Definition['# of automation rules'] = 'automaatiosääntöjen lukumäärä';
+$Definition['Add Template'] = 'Lisää mallipohja';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Valitse, kenen tulisi vastaanottaa tämä sähköposti, kun tämä automaatiosääntö suoritetaan';
+$Definition['Delete an email template.'] = 'Poista sähköpostimalli.';
+$Definition['Email Audience'] = 'Sähköpostin kohdeyleisölle';
+$Definition['Email Template'] = 'Sähköpostimalli';
+$Definition['Email Templates'] = 'Sähköpostipohjat';
+$Definition['Email Template successfully deleted.'] = 'Sähköpostimallin poistaminen onnistui.';
+$Definition['Email Template not enabled.'] = 'Sähköpostimalli ei ole käytössä.';
+$Definition['Email template not found.'] = 'Sähköpostipohjaa ei löytynyt.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Sähköpostimallin nimi on jo olemassa. Jatka antamalla yksilöllinen nimi.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Sähköpostipohjia voidaan käyttää yhdessä <0/>-elementin kanssa viestiäkseen käyttäjien kanssa jäsenten aktiivisuuden tai muiden yhteisön käynnistimien perusteella.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Ota tämä asetus käyttöön lähettääksesi seurantasähköpostin, kun sääntö käynnistetään.';
+$Definition['Impacted User'] = 'Vaikutuksen kohteena oleva käyttäjä';
+$Definition['Search and select one or more roles to receive this email'] = 'Hae ja valitse yksi tai useampi rooli tämän sähköpostin vastaanottamiseksi';
+$Definition['Search and select one or more users to receive this email.'] = 'Hae ja valitse yksi tai useampi käyttäjä tämän sähköpostin vastaanottamiseksi.';
+$Definition['Select Roles'] = 'Valitse roolit';
+$Definition['Select User'] = 'Valitse käyttäjä';
+$Definition['Select the email template to send.'] = 'Valitse lähetettävä sähköpostimalli.';
+$Definition['Send an Email After This Rule Runs'] = 'Lähetä sähköpostia tämän säännön suorittamisen jälkeen';
+$Definition['Send email'] = 'Lähetä sähköpostia';
+$Definition['Send the email'] = 'Lähetä sähköposti';
+$Definition['Send email to user'] = 'Lähetä sähköpostia käyttäjälle';
+$Definition['Specific Roles'] = 'Erityiset roolit';
+$Definition['Specific Users'] = 'Tietyt käyttäjät';
+$Definition['System email templates cannot be deleted.'] = 'Järjestelmän sähköpostipohjia ei voi poistaa.';
+$Definition['template name'] = 'mallin nimi';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Tämän sivun avulla voit luoda ja hallita mallejasi ja määrittää sitten <0/>-sähköpostin lähetysajankohdan ja vastaanottajan hallintaan.';
+$Definition['View the full list of available placeholders.'] = 'Näytä kaikki käytettävissä olevat paikkamerkit.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Voit myös lisätä sähköpostiviestien sisältöön paikkamerkkejä – ne korvataan automaattisesti asiaankuuluvilla käyttäjä- tai viestitiedoilla, kun sähköposti lähetetään. Esimerkiksi Hei {user.name}! tai Katso {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Et voi poistaa järjestelmäsähköposteja';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Et voi poistaa mallipohjaa, jota käytetään automaatiosäännöissä.';
+$Definition['You will no longer receive community engagement emails.'] = 'Et enää saa yhteisöaktiviteettiin liittyviä sähköposteja.';
+$Definition['Delete Email Template'] = 'Poista sähköpostimalli';
+$Definition["Template Styles"] = "Mallipohjan tyylit";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Jätä mikä tahansa kenttä tyhjäksi käyttääksesi oletusarvoisia sähköpostityylejä, jotka on määritetty kohdassa <0>Sähköpostiasetukset</0> sivu.";
