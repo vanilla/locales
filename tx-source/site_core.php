@@ -3787,3 +3787,6 @@ $Definition["Do you want to notify followers about this post?"] = "Do you want t
 $Definition["Yes, send notifications"] = "Yes, send notifications";
 $Definition["No, publish this post silently"] = "No, publish this post silently";
 $Definition["{Data.name} applied for membership."]= "{Data.name} applied for membership.";
+$Definition['Manage Knowledge Bases'] = 'Manage Knowledge Bases';
+$Definition['Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.'] = 'Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.';
+$Definition['View Original'] = 'View Original';
