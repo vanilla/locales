@@ -728,8 +728,10 @@ $Definition['Note: Actions will not affect <0 /> that already have the associate
 $Definition['Notes'] = '메모';
 $Definition['Note this layout change will not be visible until you switch to custom layouts.'] = '이 레이아웃 변경 사항은 사용자 지정 레이아웃으로 전환하기 전까지는 표시되지 않습니다.';
 $Definition['Notifications will appear here.'] = '알림은 여기 나타납니다. ';
-$Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
+$Definition['NotifyApplicant'] = '누군가 회원 가입을 신청할 때 알려주세요.';
 $Definition['Notify me when my questions have AI Suggested Answers'] = '내 질문에 AI가 제안한 답변이 있을 때 알려주세요';
+$Definition['Notify me when people comment on a discussion.'] = '토론에 댓글이 달리면 알려주세요.';
+$Definition['Notify me when people start new discussions.'] = '사람들이 새 토론을 시작할 때 알려주세요.';
 $Definition['Number input must be between'] = '숫자 입력은 다음 사이여야 합니다.';
 $Definition['Number input must be between 1 and 100.'] = '숫자는 1~100 사이로 입력해야 합니다.';
 $Definition['Number of %s listed per page.'] = '페이지당 나열된 %s 수';
