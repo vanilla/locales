@@ -1399,7 +1399,7 @@ $Definition['HeadlineFormat.EventRSVP'] = 'Anda telah mendaftar untuk <a href="{
 $Definition['HeadlineFormat.GroupApproved'] = 'Permintaan anda untuk menyertai <a href="{Url,html}">{Data.Name,text}</a> telah diluluskan.';
 $Definition['HeadlineFormat.GroupInvitation'] = 'Sila sertai kumpulan saya: <a href="{Url,html}">{Data.Name,text}</a> .';
 $Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username} telah meminta untuk menyertai {Data.Group}.';
-$Definition['HeadlineFormat.IdeaAuthorStatus'] = 'Status telah berubah untuk <a href="{Url,html}">{Data.Nama,teks}</a> .';
+$Definition['HeadlineFormat.IdeaAuthorStatus'] = 'Status telah berubah untuk <a href="{Url,html}">{Data.Name,text}</a> .';
 $Definition['HeadlineFormat.IdeaAuthorStatus.Story'] = 'Mengundi idea ini ialah {Data.Status}.';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} menyebut anda di <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.NewEvent'] = 'Acara Baharu: {Data.Name,text}';
