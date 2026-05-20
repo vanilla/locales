@@ -1,1543 +1,2307 @@
 <?php
 
-$Definition['"Accept Answer" if a suggestion answers your question.'] = '"קבל תשובה" אם הצעה עונה על שאלתך.';
-
-$Definition['# Reports'] = '# דוחות';
-
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" לא נמצא';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s גרסא %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s גרסא %2$s זמינה כעת';
-$Definition['%d slides on display initial slide %d of %d'] = '%d שקופיות בתצוגה השקף הראשוני %d מתוך %d';
-$Definition['%s ago'] = 'לפני %s';
-$Definition['%s in the following categories will require moderator approval.'] = '%s בקטגוריות הבאות ידרשו אישור מנחה.';
-$Definition['%s is not a valid email address'] = '%s היא לא כתובת דואר אלקטרוני תקינה';
-$Definition['%s is required'] = '%s נדרש';
-$Definition['%s item in queue'] = 'פריט %s בהמתנה';
-$Definition['%s level'] = 'רמה %s ';
-$Definition['%s levels'] = 'רמות %s';
-$Definition['%s must be numeric'] = '%s חייב להיות ערך מספרי';
-$Definition['%s site(s) found.'] = '%s אתר(ים) נמצא(ו)';
-$Definition['%s sources(s) found.'] = '%s מקור(ות) נמצא(ו)';
-$Definition['%s times'] = '%s פעמים';
-$Definition['%s unavailable'] = '%s אינו זמין';
-$Definition['%s user(s) found.'] = '%s משתמש(ים) נמצאו.';
-$Definition['%s user(s) will be affected by this action.'] = '%s משתמש(ים) יושפעו מפעולה זו';
-$Definition['%s user found.'] = 'נמצא משתמש %s.';
-$Definition['%s users found.'] = 'נמצאו %s משתמשים.';
+$Definition['%1$s version %2$s is available.'] =
+    '%1$s גרסא %2$s זמינה כעת';
+$Definition["%s is not a valid email address"] =
+    "%s היא לא כתובת דואר אלקטרוני תקינה";
+$Definition["%s is required"] = "%s נדרש";
+$Definition["%s item in queue"] = "פריט %s בהמתנה";
+$Definition["%s level"] = "רמה %s ";
+$Definition["%s levels"] = "רמות %s";
+$Definition["%s must be numeric"] = "%s חייב להיות ערך מספרי";
+$Definition["%s site(s) found."] = "%s אתר(ים) נמצא(ו)";
+$Definition["%s sources(s) found."] = "%s מקור(ות) נמצא(ו)";
+$Definition["%s times"] = "%s פעמים";
+$Definition["%s unavailable"] = "%s אינו זמין";
+$Definition["%s user found."] = "נמצא משתמש %s.";
+$Definition["%s users found."] = "נמצאו %s משתמשים.";
+$Definition["%s user(s) found."] = "%s משתמש(ים) נמצאו.";
+$Definition["%s user(s) will be affected by this action."] =
+    "%s משתמש(ים) יושפעו מפעולה זו";
 
-$Definition['(less)'] = '(פחות)';
-$Definition['(more)'] = '(יותר)';
+$Definition["<0/> will suggest answers on Q&A posts"] =
+    "<0/> יציע תשובות לפוסטים של שאלות ותשובות";
+$Definition["<0 /> will not suggest answers on Q&A posts"] =
+    "<0 /> לא יציע תשובות לפוסטים של שאלות ותשובות";
 
-$Definition['1 day'] = 'יום 1';
-$Definition['1 hour'] = 'שעה 1';
-$Definition['1 in 5 is recommended for most communities.'] = '1 מתוך 5 מומלץ לרוב הקהילות.';
-$Definition['1 in 20 is recommended for most communities.'] = '1 מכל 20 מומלץ לרוב הקהילות.';
-$Definition['1 month'] = 'חודש 1';
-$Definition['1 month after being sent'] = 'חודש מאז שנשלח';
-$Definition['1 week'] = 'שבוע 1';
-$Definition['1 week after being sent'] = 'שבוע מאז שנשלח';
-$Definition['2 weeks after being sent'] = 'שבועיים לאחר שנשלח';
-$Definition['4 hours'] = '4 שעות';
-$Definition['5 minutes'] = '5 דקות';
-$Definition['15 minutes'] = '15 דקות';
+$Definition["(less)"] = "(פחות)";
+$Definition["(more)"] = "(יותר)";
+$Definition["(YYYY-mm-dd)"] = "(YYYY-mm-dd)";
 
-$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> לא יציע תשובות לפוסטים של שאלות ותשובות';
-$Definition['<0/> <1/> more comments'] = '<0/> <1/> תגובות נוספות';
-$Definition['<0/> has been <1/>'] = '<0/> כבר <1/>';
-$Definition['<0/> new'] = '<0/> חדש';
-$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> יציע תשובות לפוסטים של שאלות ותשובות';
+$Definition["1 day"] = "יום 1";
+$Definition["1 hour"] = "שעה 1";
+$Definition["1 in 5 is recommended for most communities."] =
+    "1 מתוך 5 מומלץ לרוב הקהילות.";
+$Definition["1 in 20 is recommended for most communities."] =
+    "1 מכל 20 מומלץ לרוב הקהילות.";
+$Definition["1 month"] = "חודש 1";
+$Definition["1 month after being sent"] = "חודש מאז שנשלח";
+$Definition["1 week"] = "שבוע 1";
+$Definition["1 week after being sent"] = "שבוע מאז שנשלח";
+$Definition["2 weeks after being sent"] = "שבועיים לאחר שנשלח";
+$Definition["4 hours"] = "4 שעות";
+$Definition["5 minutes"] = "5 דקות";
+$Definition["15 minutes"] = "15 דקות";
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] לאישור כתובת הדוא"ל';
-$Definition['[%s] Invitation'] = '[%s] הזמנה';
-$Definition['[%s] Password Reset'] = '[%s] אפס סיסמא';
-$Definition['[%s] Password Reset Request'] = '[%s] בקשה לאיפוס סיסמא';
+$Definition["[%s] Confirm Your Email Address"] =
+    "[%s] לאישור כתובת הדוא\"ל";
+$Definition["[%s] Invitation"] = "[%s] הזמנה";
+$Definition["[%s] Password Reset"] = "[%s] אפס סיסמא";
+$Definition["[%s] Password Reset Request"] = "[%s] בקשה לאיפוס סיסמא";
+$Definition[
+    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
+] = 'הגעת למקסימום ניסיונות ההתחברות. אנא המתן %s ונסה שוב.';
 
-$Definition['a Badge'] = 'תג';
-$Definition['Abilites'] = 'יכולות';
-$Definition['Abilities'] = 'יכולות';
-$Definition['About %s'] = 'כ-%s';
-$Definition['About Email Digest'] = 'על אימייל תקציר';
-$Definition['About External Search'] = 'על חיפוש חיצוני';
-$Definition['About Theme Preview'] = 'אודות תצוגה מקדימה של ערכת נושא';
-$Definition['Above Main Content'] = 'מעל תוכן ראשי';
-$Definition['Accept Answer'] = 'קבל תשובה';
-$Definition['Accepted answer pageview ratio representing a deflected case'] = 'יחס תצוגת דף של תשובה מקובלת המייצג מקרה מוסט';
-$Definition['Accepted Answers'] = 'תשובות מקובלות';
-$Definition['Account Sync Failed'] = 'סנכרון החשבון נכשל';
-$Definition['A concise name for the report reason.'] = 'שם תמציתי מסיבה הדיווח.';
-$Definition['Action'] = 'פעולה';
-$Definition['Actions and Permissions'] = 'פעולות והרשאות';
-$Definition['Actions Based on Votes'] = 'פעולות המבסוסות על הצבעות';
-$Definition['Activate Icon Pack'] = 'הפעל חבילת אייקונים';
-$Definition['Active Icon'] = 'אייקון פעיל';
-$Definition['Activity & Registration'] = 'פעילות והרשמה';
+$Definition["a Badge"] = "תג";
+$Definition["A unique display name."] = "שם תצוגה ייחודי.";
+$Definition["A unique label name that cannot be changed once saved."] =
+    "שם תווית ייחודי שלא ניתן לשנות לאחר השמירה.";
+$Definition["Abilites"] = "יכולות";
+$Definition["Abilities"] = "יכולות";
+$Definition["About %s"] = "כ-%s";
+$Definition["About Email Digest"] = "על אימייל תקציר";
+$Definition["About External Search"] = "על חיפוש חיצוני";
+$Definition["About Theme Preview"] = "אודות תצוגה מקדימה של ערכת נושא";
+$Definition["Above Main Content"] = "מעל תוכן ראשי";
+$Definition["Accept Answer"] = "קבל תשובה";
+$Definition['"Accept Answer" if a suggestion answers your question.'] =
+    '"קבל תשובה" אם הצעה עונה על שאלתך.';
+$Definition["Account Sync Failed"] = "סנכרון החשבון נכשל";
+$Definition["Accepted answer pageview ratio representing a deflected case"] =
+    "יחס תצוגת דף של תשובה מקובלת המייצג מקרה מוסט";
+$Definition["Accepted Answers"] = "תשובות מקובלות";
+$Definition["Action"] = "פעולה";
+$Definition["Actions and Permissions"] = "פעולות והרשאות";
+$Definition["Actions Based on Votes"] = "פעולות המבסוסות על הצבעות";
+$Definition["activity(ies)"] = "פעילות/פעילויות";
 $Definition['activity\'s comment(s)'] = 'תגובה/תגובות לפעילות';
-$Definition['activity(ies)'] = 'פעילות/פעילויות';
-$Definition['Activity Item'] = 'פריט פעילות';
-$Definition['Activity item not found.'] = 'פריט פעילות אינו נמצא.';
-$Definition['Add a comment'] = 'הוסף תגובה';
-$Definition['Add a new Pocket to your site.'] = 'הוספת Pocket חדש לאתר שלך.';
-$Definition['Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event.'] = 'הוסף קישור זום או מזהה פגישה כדי לחבר את האירוע הזה ל-Zoom ולאפשר רישום בלחיצה אחת ולחצני הצטרפות. שים לב אם האירוע שלך מצריך הרשמה, לא תוכל לעדכן את מזהה הפגישה או הקישור שלך לאחר יצירת האירוע.';
-$Definition['Add Ban Rule'] = 'הוספת חוק איסור כניסה';
-$Definition['Add Category'] = 'הוספת קטגוריה';
-$Definition['Add Columns'] = 'הוסף עמודות';
-$Definition['Add Comments'] = 'הוספת תגובות';
-$Definition['Add Connection'] = 'הוספת חיבור';
-$Definition['Add Custom Layout'] = 'הוסף פריסה מותאמת אישית';
-$Definition['Added By'] = 'הוספת על ידי';
-$Definition['Add Field'] = 'הוספת שדה';
-$Definition['Add Filter'] = 'הוסף מסנן';
-$Definition['Add Info &amp; Create Account'] = 'הוסף מידע & צור חשבון';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'הוספת מידע לשדה כתובת דואר האלקטרוני כדי לעזור לתגובות (מומלץ)';
-$Definition['Adding & Editing Categories'] = 'הוספת ועריכת קטגוריות';
-$Definition['Add Interest'] = 'הוסף עניין';
-$Definition['Add Item'] = 'הוספת פריט';
-$Definition['Additional classes'] = 'מחלקות נוספות';
-$Definition['Addons'] = 'תוספים';
-$Definition['Addons Overview'] = 'תצוגת תוסף';
-$Definition['Add Reason'] = 'הוסף סיבה';
-$Definition['Add Report Reason'] = 'הוסף סיבה לדיווח';
-$Definition['Address Bar Color'] = 'צבע שורת הכתובת';
-$Definition['Add Role'] = 'הוספת תפקיד';
-$Definition['Add rule'] = 'הוספת חוק';
-$Definition['Add Tag'] = 'הוספת תגית';
-$Definition['Add tag'] = 'הוסף תג';
-$Definition['Add tags:'] = 'הוסף תגים:';
-$Definition['Add Theme'] = 'הוסף ערכת נושא';
-$Definition['Add to collection:'] = 'הוסף לאוסף:';
-$Definition['Add Token'] = 'הוסף טוקן';
-$Definition['Add User'] = 'הוספת משתמש';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'הוסף את הדומיינים המותאמים אישית של Kaltura כדי להפוך קישורים לסרטונים משובצים בדיונים, תגובות או מאמרים.';
-$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'הוסף את הדומיינים המותאמים אישית של Kaltura כדי להפוך קישורים לסרטונים מוטמעים בפוסטים, תגובות או מאמרים.';
-$Definition['Add your site to trusted domains.'] = 'ודא/י שהאתר שלך מתווסף ל-%s כשהטמעה זמינה.';
-$Definition['administrator'] = 'מנהל';
-$Definition['Advanced'] = 'מתקדם';
-$Definition['Advanced Category Settings'] = 'הגדרות מתקדמות לקטגוריה';
-$Definition['Advanced Editor Settings'] = 'הגדרות התקדמות לעורך';
-$Definition['Advanced Embed Settings'] = 'אפשרויות הטמעה מתקדמות';
-$Definition['Advanced Forum Settings'] = 'אפשרויות פורום מתקדמות';
-$Definition['AdvancedNotifications'] = 'התראות מתקדמות';
-$Definition['Advanced Options'] = 'אפשרויות מתקדמות';
-$Definition['Advanced Settings'] = 'הגדרות מתקדמות';
-$Definition['Advanced settings for embedded community elements'] = 'הגדרות מתקדמות לאלמנטים של קהילה מוטמעת';
-$Definition['After'] = 'אחרי';
-$Definition['AI Settings'] = 'הגדרות AI';
-$Definition['AI Suggested Answers'] = 'תשובות מוצעות בינה מלאכותית';
-$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'תשובות מוצעות בינה מלאכותית מספקת הצעות לתשובות המבוססות על פוסטים בקהילה ומאגרי ידע מקושרים. אתה יכול להפעיל או לכבות את זה בכל עת על ידי ביקור בהעדפות הפרופיל שלך.';
-$Definition['AI Suggestions are not enabled'] = 'הצעות AI אינן מופעלות';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'התרע/י בפני המשתמשים שאם ילחצו על בפוסט כלשהו, הוא יוביל אותם אל מחוץ לפורום.';
-$Definition['A list of reports associated with this post will appear here.'] = 'רשימה של דוחות הקשורים לפוסט זה תופיע כאן.';
-$Definition['Alive'] = 'בחיים';
+$Definition["Activity Item"] = "פריט פעילות";
+$Definition["Activity item not found."] = "פריט פעילות אינו נמצא.";
+$Definition["Add a new Pocket to your site."] =
+    "הוספת Pocket חדש לאתר שלך.";
+$Definition[
+    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
+] =
+    "הוסף קישור זום או מזהה פגישה כדי לחבר את האירוע הזה ל-Zoom ולאפשר רישום בלחיצה אחת ולחצני הצטרפות. שים לב אם האירוע שלך מצריך הרשמה, לא תוכל לעדכן את מזהה הפגישה או הקישור שלך לאחר יצירת האירוע.";
+$Definition["Add Ban Rule"] = "הוספת חוק איסור כניסה";
+$Definition["Add Category"] = "הוספת קטגוריה";
+$Definition["Add Columns"] = "הוסף עמודות";
+$Definition["Add Comments"] = "הוספת תגובות";
+$Definition["Add Connection"] = "הוספת חיבור";
+$Definition["Added By"] = "הוספת על ידי";
+$Definition["Add Field"] = "הוספת שדה";
+$Definition["Add Info &amp; Create Account"] = "הוסף מידע & צור חשבון";
+$Definition[
+    "Add information into the from field in email addresses to help with replies (recommended)."
+] =
+    "הוספת מידע לשדה כתובת דואר האלקטרוני כדי לעזור לתגובות (מומלץ)";
+$Definition["Add Interest"] = "הוסף עניין";
+$Definition["Adding & Editing Categories"] = "הוספת ועריכת קטגוריות";
+$Definition["Add Item"] = "הוספת פריט";
+$Definition["Addons"] = "תוספים";
+$Definition["Addons Overview"] = "תצוגת תוסף";
+$Definition["Add Role"] = "הוספת תפקיד";
+$Definition["Add rule"] = "הוספת חוק";
+$Definition["Add Tag"] = "הוספת תגית";
+$Definition["Add Theme"] = "הוסף ערכת נושא";
+$Definition["Add Token"] = "הוסף טוקן";
+$Definition["Add User"] = "הוספת משתמש";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
+] =
+    "הוסף את הדומיינים המותאמים אישית של Kaltura כדי להפוך קישורים לסרטונים משובצים בדיונים, תגובות או מאמרים.";
+$Definition[
+    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
+] =
+    "הוסף את הדומיינים המותאמים אישית של Kaltura כדי להפוך קישורים לסרטונים מוטמעים בפוסטים, תגובות או מאמרים.";
+$Definition["administrator"] = "מנהל";
+$Definition["Advanced"] = "מתקדם";
+$Definition["Advanced Category Settings"] = "הגדרות מתקדמות לקטגוריה";
+$Definition["Advanced Editor Settings"] = "הגדרות התקדמות לעורך";
+$Definition["Advanced Embed Settings"] = "אפשרויות הטמעה מתקדמות";
+$Definition["Advanced Forum Settings"] = "אפשרויות פורום מתקדמות";
+$Definition["AdvancedNotifications"] = "התראות מתקדמות";
+$Definition["Advanced Options"] = "אפשרויות מתקדמות";
+$Definition["Advanced Settings"] = "הגדרות מתקדמות";
+$Definition["Advanced settings for embedded community elements"] =
+    "הגדרות מתקדמות לאלמנטים של קהילה מוטמעת";
+$Definition["After"] = "אחרי";
+$Definition["AI Suggested Answers"] = "תשובות מוצעות בינה מלאכותית";
+$Definition["AI Suggestions are not enabled"] =
+    "הצעות AI אינן מופעלות";
+$Definition[
+    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
+] =
+    "תשובות מוצעות בינה מלאכותית מספקת הצעות לתשובות המבוססות על פוסטים בקהילה ומאגרי ידע מקושרים. אתה יכול להפעיל או לכבות את זה בכל עת על ידי ביקור בהעדפות הפרופיל שלך.";
+$Definition[
+    "Alert users if they click a link in a post that will lead them away from the forum. "
+] =
+    "התרע/י בפני המשתמשים שאם ילחצו על בפוסט כלשהו, הוא יוביל אותם אל מחוץ לפורום.";
+$Definition["Alive"] = "בחיים";
 $Definition['All %1$s'] = 'הכל %1$s';
-$Definition['All comments on this post will appear here'] = 'כל התגובות לפוסט זה יופיעו כאן';
-$Definition['All Dashboard Pages'] = 'כל עמודי לוח הבקרה';
-$Definition['All discussions in this category will be permanently deleted.'] = 'כל הדיונים בקטגוריה הזו יוסרו לצמיתות';
-$Definition['All Forum Pages'] = 'כל עמודי הפורום';
-$Definition['All icons in this icon pack are currently active.'] = 'כל הסמלים בחבילת הסמלים הזו פעילים כעת.';
-$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'כל התוכן שנכתב על ידי משתמש זה יוחלף בהודעה שמשתמש זה נמחק';
-$Definition['Allow embedded content'] = 'אפשר תוכן מוטמע';
-$Definition['Allow images'] = 'אפשר תמונות';
-$Definition['Allow new users to be registered through email.'] = 'אפשר למשתמשים חדשים להירשם באמצעות כתובת דוא"ל.';
-$Definition['Allow Third-Party Script Execution'] = 'אפשר ביצוע סקריפט של צד שלישי';
-$Definition['Allow this connection to issue API access tokens.'] = 'אפשר/י לחיבור זה להנפיק אסימוני גישה ל-API.';
-$Definition['Allow users to change their own avatars'] = 'אפשר למשתמשים לשנות את האווטר שלהם';
-$Definition['Allow users to dismiss this message'] = 'אפשר למשתמשים להתעלם מהודעה זו.';
-$Definition['All Pages'] = 'כל הדפים';
-$Definition['All Replies'] = 'כל התגובות';
-$Definition['All Time'] = 'כל הזמן';
-$Definition['All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories.'] = 'כל המשתמשים בעלי הרשאת הצוות יוכלו לראות ולסמן דיונים כפתורים או לא פתורים. משתמשים אלה יוכלו גם לגשת ללוח המחוונים של הטריאג\' כדי למתן את הקטגוריות שלהם.';
-$Definition['a month'] = 'חודש';
-$Definition['An answer in this the community thread was marked as accepted'] = 'תשובה בשרשור הקהילה הזה סומנה כמקובלת';
-$Definition['and'] = 'ו';
-$Definition['and assign to'] = 'ולהקצות ל';
-$Definition['and remove from community'] = 'ולהסיר מהקהילה';
-$Definition['and remove role'] = 'ולהסיר תפקיד';
-$Definition['An enabled message will be visible on the site.'] = 'הודעה זמינה תיראה באתר.';
-$Definition['An error occurred updating your privacy setting'] = 'אירעה שגיאה בעדכון הגדרות הפרטיות שלך';
-$Definition['An explanation of the report reason to better reporters make the correct selection when reporting a post.'] = 'הסבר על סיבת הדיווח לכתבים טובים יותר מבצעים את הבחירה הנכונה בעת דיווח על פוסט.';
-$Definition['An idea has received'] = 'רעיון התקבל';
-$Definition['Anonymize Analytics Data by Default'] = 'אנונימיז את נתוני Analytics כברירת מחדל';
-$Definition['Answers is not available if you have not accepted cookies.'] = 'תשובות לא זמינות אם לא קיבלת קובצי Cookie.';
-$Definition['API Label is required'] = 'נדרשת תווית API';
-$Definition['API Name'] = 'שם API';
-$Definition['API SSO Expand Permission'] = ' API SSO הרחב הרשאה';
-$Definition['API Status'] = 'סטטוס ה-API';
-$Definition['A post'] = 'פוסט';
-$Definition['A post has been added to a collection'] = 'פוסט נוסף לאוסף';
-$Definition['A post has not had any activity'] = 'לפוסט לא הייתה כל פעילות';
-$Definition['A post has received'] = 'התקבל פוסט';
-$Definition['Appearance'] = 'הופעה';
-$Definition['Applicant'] = 'מועמד';
-$Definition['applicant'] = 'מועמד';
-$Definition['Applicant Role'] = 'בחר את התפקיד שצריך להיות משוייך למועמדים חדשים. זה תקף רק אם יש לך את <b>האישור</b> שיטת רישות.';
-$Definition['Application'] = 'אפליקציה';
-$Definition['Application ID'] = 'מספר מזהה של היישום';
-$Definition['Applications'] = 'יישומים';
-$Definition['Application Secret'] = 'מזהה סודי של אפליקציה';
-$Definition['Applied'] = 'הוחל';
-$Definition['Applied as default'] = 'מוחל כברירת מחדל';
-$Definition['Applied by Administrator'] = 'אישור בידי מנהל';
-$Definition['Applied Manually'] = 'מאושר באופן ידני';
-$Definition['Applied On'] = 'תאריך';
-$Definition['Apply additional classes on catalogue image.'] = 'החל מחלקות נוספות על תמונת קטלוג. השתמש ברווח כדי להפריד כל מחלקה.';
-$Definition['Apply Layout to Site Home Page'] = 'החל פריסה על דף הבית של האתר';
-$Definition['Apply to specific categories.'] = 'החל על קטגוריות ספציפיות.';
-$Definition['Apply to specific subcommunities.'] = 'החל על תת-קהילות ספציפיות.';
-$Definition['Apply to subcategories'] = 'החל על קטגוריות משנה';
-$Definition['Approval'] = 'אישור';
-$Definition['A question'] = 'שאלה';
-$Definition['Archive Discussions'] = 'העברת דיונים לארכיון';
-$Definition['Are you sure you want to delete %s items forever?'] = 'האם ברצונך להסיר את %s הפריטים לצמיתות?';
-$Definition['Are you sure you want to delete 1 item forever?'] = 'האם  ברצונך להסיר את הפריט הזה לצמיתות?';
-$Definition['Are you sure you want to delete?'] = 'האם אתה בטוח שברצונך למחוק?';
-$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'האם  ברצונך להסיר את הסמל הזה? פעולה זו אינה הפיכה והיא תסיר את הסמל לכל המשתמשים שכבר קיבלו אותו.';
-$Definition['Are you sure you want to delete this category?'] = 'האם  ברצונך להסיר  את הקטגוריה הזו?';
-$Definition['Are you sure you want to delete this reason?'] = 'האם אתה בטוח שברצונך למחוק את הסיבה הזו?';
-$Definition['Are you sure you want to delete your %s?'] = 'האם אתה בטוח שברצונך למחוק את %s שלך?';
-$Definition['Are you sure you want to exit without saving?'] = 'האם אתה בטוח שברצונך לצאת מבלי לשמור?';
-$Definition['Are you sure you want to restore %s items?'] = 'האם ברצונך לשחזר את %s הפריטים האלו?';
-$Definition['Are you sure you want to restore 1 item?'] = 'האם ברצונך לשחזר את הפריט הזה?';
-$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'האם אתה בטוח שברצונך לבטל את כל התשובות המוצעות בינה מלאכותית? אתה יכול לבטל זאת בהגדרות הפרופיל שלך בכל עת.';
-$Definition['Are you sure you want to use %s?'] = 'האם אתה בטוח שברצונך להשתמש ב-%s?';
-$Definition['Article Count'] = 'ספירת מאמרים';
-$Definition['Assign/Remove role'] = 'הקצה/הסר תפקיד';
-$Definition['Assignee'] = 'נִמחֶה';
-$Definition['Assign role:'] = 'הקצה תפקיד:';
-$Definition['Assign to'] = 'משוייך אל';
-$Definition['Assistant Icon'] = 'סמל עוזר';
-$Definition['Assistant Name'] = 'שם עוזר';
-$Definition['Assistant Tone of Voice'] = 'עוזר טון קול';
-$Definition['At least one visible column is required. Show or add a visible column.'] = 'נדרשת לפחות עמודה אחת גלויה. הצג או הוסף עמודה גלויה.';
-$Definition['Audit Log'] = 'יומן ביקורת';
-$Definition['A unique display name.'] = 'שם תצוגה ייחודי.';
-$Definition['A unique label for the report reason. This label cannot be changed once saved.'] = 'תווית ייחודית מסיבה הדיווח. לא ניתן לשנות תווית זו לאחר השמירה.';
-$Definition['A unique label name that cannot be changed once saved.'] = 'שם תווית ייחודי שלא ניתן לשנות לאחר השמירה.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'גירסה קצרה יותר של הקטגוריה ב-URL שיאפשר SEO מיטבי.';
-$Definition['A user has been registered'] = 'משתמש נרשם';
-$Definition['A user registers or logs in with email domain:'] = 'משתמש נרשם או מתחבר עם דומיין דוא"ל:';
-$Definition['A user registers or updates a profile field:'] = 'משתמש רושם או מעדכן שדה פרופיל:';
-$Definition['Authors may always edit'] = 'כותבים תמיד יכולים לערוך';
-$Definition['Authors may edit for %s'] = 'כותבים יכולים לערוך במשך %s';
-$Definition['Authors may never edit'] = 'כותבים לא רשאים לערוך';
-$Definition['Auto-Fetch New Comments'] = 'טען אוטומטית הערות חדשות';
-$Definition['Auto-run disabled.'] = 'ההפעלה האוטומטית מושבתת.';
-$Definition['Auto-run enabled.'] = 'הפעלה אוטומטית מופעלת.';
-$Definition['Automatically Save Drafts'] = 'שמור טיוטות אוטומטית';
-$Definition['Automation'] = 'אוטומציה';
-$Definition['Automation rule successfully created.'] = 'כלל אוטומציה נוצר בהצלחה.';
-$Definition['Automation rule successfully updated.'] = 'כלל האוטומציה עודכן בהצלחה.';
-$Definition['Avatar Dimensions'] = 'מידות אווטר';
-$Definition['Avatars'] = 'אווטארים';
+$Definition["All Time"] = "כל הזמן";
+$Definition["All Dashboard Pages"] = "כל עמודי לוח הבקרה";
+$Definition["All discussions in this category will be permanently deleted."] =
+    "כל הדיונים בקטגוריה הזו יוסרו לצמיתות";
+$Definition["All Forum Pages"] = "כל עמודי הפורום";
+$Definition[
+    "All of the user content will be replaced with a message stating the user has been deleted."
+] =
+    "כל התוכן שנכתב על ידי משתמש זה יוחלף בהודעה שמשתמש זה נמחק";
+$Definition["Allow embedded content"] = "אפשר תוכן מוטמע";
+$Definition["Allow images"] = "אפשר תמונות";
+$Definition["Allow new users to be registered through email."] =
+    "אפשר למשתמשים חדשים להירשם באמצעות כתובת דוא\"ל.";
+$Definition["Allow this connection to issue API access tokens."] =
+    "אפשר/י לחיבור זה להנפיק אסימוני גישה ל-API.";
+$Definition["Allow Third-Party Script Execution"] =
+    "אפשר ביצוע סקריפט של צד שלישי";
+$Definition["Allow users to change their own avatars"] =
+    "אפשר למשתמשים לשנות את האווטר שלהם";
+$Definition["Allow users to dismiss this message"] =
+    "אפשר למשתמשים להתעלם מהודעה זו.";
+$Definition["All Pages"] = "כל הדפים";
+$Definition["All Replies"] = "כל התגובות";
+$Definition["An enabled message will be visible on the site."] =
+    "הודעה זמינה תיראה באתר.";
+$Definition["An answer in this the community thread was marked as accepted"] =
+    "תשובה בשרשור הקהילה הזה סומנה כמקובלת";
+$Definition["An error occurred updating your privacy setting"] =
+    "אירעה שגיאה בעדכון הגדרות הפרטיות שלך";
+$Definition["Anonymize Analytics Data by Default"] =
+    "אנונימיז את נתוני Analytics כברירת מחדל";
+$Definition["Answers is not available if you have not accepted cookies."] =
+    "תשובות לא זמינות אם לא קיבלת קובצי Cookie.";
+$Definition["API"] = "API";
+$Definition["API Label is required"] = "נדרשת תווית API";
+$Definition["API Name"] = "שם API";
+$Definition["API SSO Expand Permission"] = " API SSO הרחב הרשאה";
+$Definition["API Status"] = "סטטוס ה-API";
+$Definition["Appearance"] = "הופעה";
+$Definition["Applicant"] = "מועמד";
+$Definition["applicant"] = "מועמד";
+$Definition["Applicant Role"] =
+    "בחר את התפקיד שצריך להיות משוייך למועמדים חדשים. זה תקף רק אם יש לך את <b>האישור</b> שיטת רישות.";
+$Definition["Application"] = "אפליקציה";
+$Definition["Application ID"] = "מספר מזהה של היישום";
+$Definition["Applications"] = "יישומים";
+$Definition["Application Secret"] = "מזהה סודי של אפליקציה";
+$Definition["Applied by Administrator"] = "אישור בידי מנהל";
+$Definition["Applied Manually"] = "מאושר באופן ידני";
+$Definition["Applied On"] = "תאריך";
+$Definition["Apply to subcategories"] = "החל על קטגוריות משנה";
+$Definition["Approval"] = "אישור";
+$Definition["Archive Discussions"] = "העברת דיונים לארכיון";
+$Definition["Are you sure you want to delete %s items forever?"] =
+    "האם ברצונך להסיר את %s הפריטים לצמיתות?";
+$Definition["Are you sure you want to delete 1 item forever?"] =
+    "האם  ברצונך להסיר את הפריט הזה לצמיתות?";
+$Definition[
+    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
+] =
+    "האם  ברצונך להסיר את הסמל הזה? פעולה זו אינה הפיכה והיא תסיר את הסמל לכל המשתמשים שכבר קיבלו אותו.";
+$Definition["Are you sure you want to delete this category?"] =
+    "האם  ברצונך להסיר  את הקטגוריה הזו?";
+$Definition["Are you sure you want to restore %s items?"] =
+    "האם ברצונך לשחזר את %s הפריטים האלו?";
+$Definition["Are you sure you want to restore 1 item?"] =
+    "האם ברצונך לשחזר את הפריט הזה?";
+$Definition[
+    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
+] =
+    "האם אתה בטוח שברצונך לבטל את כל התשובות המוצעות בינה מלאכותית? אתה יכול לבטל זאת בהגדרות הפרופיל שלך בכל עת.";
+$Definition["Assistant Tone of Voice"] = "עוזר טון קול";
+$Definition["Assistant Icon"] = "סמל עוזר";
+$Definition["Assistant Name"] = "שם עוזר";
+$Definition[
+    "At least one visible column is required. Show or add a visible column."
+] = "נדרשת לפחות עמודה אחת גלויה. הצג או הוסף עמודה גלויה.";
+$Definition["A url-friendly version of the category name for better SEO."] =
+    "גירסה קצרה יותר של הקטגוריה ב-URL שיאפשר SEO מיטבי.";
+$Definition["Automatically Save Drafts"] = "שמור טיוטות אוטומטית";
+$Definition["Authors may always edit"] = "כותבים תמיד יכולים לערוך";
+$Definition["Authors may edit for %s"] = "כותבים יכולים לערוך במשך %s";
+$Definition["Authors may never edit"] = "כותבים לא רשאים לערוך";
+$Definition["Auto-Fetch New Comments"] = "טען אוטומטית הערות חדשות";
+$Definition["Avatar Dimensions"] = "מידות אווטר";
+$Definition["Avatars"] = "אווטארים";
 
-$Definition['Background Color'] = 'צבע רקע';
-$Definition['Back to all users'] = 'חזרה לכל המשתמשים';
-$Definition['Back to Mobile Site'] = 'חזרה לאתר הסלולרי';
-$Definition['Badge cannot be deleted.'] = 'אין אפשרות להסיר סמל זה';
-$Definition['Badge Class'] = 'סיווג תג';
-$Definition['Badge Class Level'] = 'רמת סיווג תג';
-$Definition['Badge deleted.'] = 'הסמל הוסר.';
-$Definition['Badge Name'] = 'שם';
-$Definition['BadgeRecipientsHeading'] = 'המקבלים הנצפים ביותר';
-$Definition['BadgeRequestColumnLabel'] = 'בקשה';
-$Definition['Badge Requests'] = 'בקשות לתגים';
-$Definition['Badge requests'] = 'בקשות לתג';
-$Definition['Badges Limit'] = 'מגבלת תגים';
-$Definition['Balanced'] = 'מְאוּזָן';
-$Definition['Ban Item'] = 'מוצר';
-$Definition['Ban List'] = 'רשימת החסומים';
-$Definition['Banner'] = 'באנר';
-$Definition['Banner Image'] = 'תמונת כרזה';
-$Definition['Banner Logo'] = 'לוגו באנר';
-$Definition['Banner Search Box'] = 'תיבת חיפוש כרזה';
-$Definition['Banner Title'] = 'כותרת הבאנר';
-$Definition['Banning'] = 'השעיה';
-$Definition['Banning Options'] = 'אפשרויות חסימה';
-$Definition['Ban Rule'] = 'חוק איסור כניסה';
-$Definition['Ban Rules'] = 'חוקי איסור כניסה';
-$Definition['Ban Type'] = 'סוג';
-$Definition['Basic Information'] = 'מידע בסיסי';
-$Definition['Before'] = 'לפני';
-$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'לפני הפעלת תכונה זו, אנא שים לב להשלכות הפוטנציאליות הבאות:';
-$Definition['Begin At'] = 'התחל ב';
-$Definition['Below Sidebar'] = 'מתחת לעמודה הצדדית';
-$Definition['Blocked'] = 'חסום';
-$Definition['Blog Comments'] = 'הערות בלוג';
-$Definition['Bookmark a discussion using its star icon.'] = 'שמירת הודעה למועדפים על ידי לחיצה על כוכב';
-$Definition['Branding & Assets'] = 'מיתוג ונכסים';
-$Definition['Browse Addons'] = 'עיון בתוספים';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'חיפוש לוגו חדש לבאנר אם ברצונך להחליף אותו:';
-$Definition['Browser Compatibility:'] = 'תאימות דפדפן:';
-$Definition['Bump post'] = 'פוסט בליטה';
-$Definition['Button Background Color'] = 'צבע רקע של כפתור ';
-$Definition['Button Text Color'] = 'צבע טקסט של כפתור ';
+$Definition["Background Color"] = "צבע רקע";
+$Definition["Back to all users"] = "חזרה לכל המשתמשים";
+$Definition["Back to Mobile Site"] = "חזרה לאתר הסלולרי";
+$Definition["Badge cannot be deleted."] = "אין אפשרות להסיר סמל זה";
+$Definition["Badge Class"] = "סיווג תג";
+$Definition["Badge Class Level"] = "רמת סיווג תג";
+$Definition["Badge deleted."] = "הסמל הוסר.";
+$Definition["Badge Name"] = "שם";
+$Definition["BadgeRecipientsHeading"] = "המקבלים הנצפים ביותר";
+$Definition["BadgeRequestColumnLabel"] = "בקשה";
+$Definition["Badge Requests"] = "בקשות לתגים";
+$Definition["Badge requests"] = "בקשות לתג";
+$Definition["Balanced"] = "מְאוּזָן";
+$Definition["Ban Item"] = "מוצר";
+$Definition["Ban List"] = "רשימת החסומים";
+$Definition["Banner"] = "באנר";
+$Definition["Banner Logo"] = "לוגו באנר";
+$Definition["Banner Title"] = "כותרת הבאנר";
+$Definition["Banner Search Box"] = "תיבת חיפוש כרזה";
+$Definition["Banning"] = "השעיה";
+$Definition["Banning Options"] = "אפשרויות חסימה";
+$Definition["Ban Rule"] = "חוק איסור כניסה";
+$Definition["Ban Rules"] = "חוקי איסור כניסה";
+$Definition["Ban Type"] = "סוג";
+$Definition["Basic Information"] = "מידע בסיסי";
+$Definition["Before"] = "לפני";
+$Definition[
+    "Before activating this feature, please be aware of the following potential implications:"
+] =
+    "לפני הפעלת תכונה זו, אנא שים לב להשלכות הפוטנציאליות הבאות:";
+$Definition["Begin At"] = "התחל ב";
+$Definition["Below Sidebar"] = "מתחת לעמודה הצדדית";
+$Definition["Blocked"] = "חסום";
+$Definition["Blog Comments"] = "הערות בלוג";
+$Definition["Bookmark a discussion using its star icon."] =
+    "שמירת הודעה למועדפים על ידי לחיצה על כוכב";
+$Definition["Browse Addons"] = "עיון בתוספים";
+$Definition["Browser Compatibility:"] = "תאימות דפדפן:";
+$Definition["Browse for a new banner logo if you would like to change it:"] =
+    "חיפוש לוגו חדש לבאנר אם ברצונך להחליף אותו:";
+$Definition["Button Background Color"] = "צבע רקע של כפתור ";
+$Definition["Button Text Color"] = "צבע טקסט של כפתור ";
 
-$Definition['Cannot build profile information if user is not defined.'] = 'לא ניתן לבנות עמוד פרופיל אם המשתמש אינו מוגדר';
-$Definition['Categories &amp; Discussions'] = 'קטגוריות &  דיונים';
-$Definition['Categories allow you to organize your posts.'] = 'קטגוריות מאפשרות לך לארגן את הפוסטים שלך.';
-$Definition['Categories are used to organize discussions.'] = 'קטגוריות משמשות לעזור למשתמשים לארגן את הדיונים שלהם בצורה שהיא מלאת משמעות עבור הקהילה שלך.';
-$Definition['Categories are used to organize posts.'] = 'קטגוריות משמשות כדי לעזור למשתמשים שלך לארגן את הפוסטים שלהם בצורה משמעותית עבור הקהילה שלך.';
-$Definition['Categories Layout'] = 'עיצוב הקטגוריות';
-$Definition['Categories to Exclude from AI Answers'] = 'קטגוריות להחרגה מתשובות AI';
-$Definition['Category Following'] = 'קטגוריה למעקב';
-$Definition['Category Layout Settings'] = 'הגדרות פריסת קטגוריה';
-$Definition['Category Layout Version'] = 'גרסת פריסת קטגוריה';
-$Definition['Category List Pages'] = 'דפי רשימת קטגוריות';
-$Definition['Category only'] = 'קטגוריה בלבד';
-$Definition['Category Page Layout'] = 'עיצוב עמוד הקטגוריות';
-$Definition['Category Pages'] = 'דפי קטגוריה';
-$Definition['Category Url:'] = 'קישור לקטגוריה:';
-$Definition['Censored Words'] = 'מילים מצונזרות';
-$Definition['Challenge Cutoff Age'] = 'גיל חתך אתגר';
-$Definition['Change %s'] = 'שנה %s';
-$Definition['Changed Icons'] = 'סמלים השתנו';
-$Definition['Change layout versions for the <0/>.'] = 'שנה גרסאות פריסה עבור <0/>.';
-$Definition['Change Log'] = 'רשומות שינויים';
-$Definition['Change status'] = 'שנה סטטוס';
-$Definition['Change the look of All Categories'] = 'באפשרותך לשנות את המראה של <b>כל הקטגוריות</b> <a href="%s">כאן</a>.';
-$Definition['Change the status of the idea to'] = 'שנה את הסטטוס של הרעיון ל';
-$Definition['Change the way that new users register with the site.'] = 'שינוי הדרך בה משתמשים חדשים נרשמים לאתר';
-$Definition['Change your banner'] = 'שינוי הבאנר שלך';
-$Definition['Changing the Discussions Menu Link'] = 'שינוי הקישור לתפריט הדיונים';
-$Definition['Check all permissions that apply for each role'] = 'סימון כל ההרשאות התקפות לכל תפקיד';
-$Definition['Check all permissions that apply to this role:'] = 'סימון כל ההרשאות התקפות לתפקיד זה:';
-$Definition['Check out my new community!'] = 'בדיקת הקהילה החדשה שלי!';
-$Definition['Check out the full list of video tutorials here.'] = 'בדיקת הרשימה המלאה של סרטוני ההדרכה כאן.';
+$Definition["Cannot build profile information if user is not defined."] =
+    "לא ניתן לבנות עמוד פרופיל אם המשתמש אינו מוגדר";
+$Definition["Categories &amp; Discussions"] = "קטגוריות &  דיונים";
+$Definition["Categories to Exclude from AI Answers"] =
+    "קטגוריות להחרגה מתשובות AI";
+$Definition["Categories are used to organize discussions."] =
+    "קטגוריות משמשות לעזור למשתמשים לארגן את הדיונים שלהם בצורה שהיא מלאת משמעות עבור הקהילה שלך.";
+$Definition["Categories are used to organize posts."] =
+    "קטגוריות משמשות כדי לעזור למשתמשים שלך לארגן את הפוסטים שלהם בצורה משמעותית עבור הקהילה שלך.";
+$Definition["Categories allow you to organize your posts."] =
+    "קטגוריות מאפשרות לך לארגן את הפוסטים שלך.";
+$Definition["Categories Layout"] = "עיצוב הקטגוריות";
+$Definition["Category Following"] = "קטגוריה למעקב";
+$Definition["Category Page Layout"] = "עיצוב עמוד הקטגוריות";
+$Definition["Category Url:"] = "קישור לקטגוריה:";
+$Definition["Censored Words"] = "מילים מצונזרות";
+$Definition["Change Log"] = "רשומות שינויים";
+$Definition["Change the look of All Categories"] =
+    'באפשרותך לשנות את המראה של <b>כל הקטגוריות</b> <a href="%s">כאן</a>.';
+$Definition["Change the way that new users register with the site."] =
+    "שינוי הדרך בה משתמשים חדשים נרשמים לאתר";
+$Definition["Change your banner"] = "שינוי הבאנר שלך";
+$Definition["Changing the Discussions Menu Link"] =
+    "שינוי הקישור לתפריט הדיונים";
+$Definition["Check all permissions that apply for each role"] =
+    "סימון כל ההרשאות התקפות לכל תפקיד";
+$Definition["Check all permissions that apply to this role:"] =
+    "סימון כל ההרשאות התקפות לתפקיד זה:";
+$Definition["Check out my new community!"] = "בדיקת הקהילה החדשה שלי!";
+$Definition["Check out the full list of video tutorials here."] =
+    "בדיקת הרשימה המלאה של סרטוני ההדרכה כאן.";
 $Definition['Check out the new community forum I\'ve just set up.'] = 'שלום לך,
 
 בקרו בפורום הקהילה החדש שפתחתי. זה אחלה מקום בשבילנו לצ\'וטט זה עם זה באינטרנט.';
-$Definition['Choose a locale pack'] = 'בחירת בחבילת השפה הזו.';
-$Definition['Choose Avatar'] = 'בחירת אווטר';
-$Definition['Choose how many records to display.'] = 'בחר כמה רשומות להציג.';
-$Definition['Choose the order records are sorted by default.'] = 'בחר רשומות ההזמנה ממוינות כברירת מחדל.';
-$Definition['Choose the preferred layout for the categories page.'] = 'בחירת עיצוב המועדף עליך לדף הקטגוריות.';
-$Definition['Choose the preferred layout for the discussions page.'] = 'בחירת עיצוב המועדף עליך לדף הדיונים.';
-$Definition['Choose the preferred Legacy Category Layout.'] = 'בחר את פריסת הקטגוריה מדור קודם.';
-$Definition['Choose the preferred Legacy Create Post Layout.'] = 'בחר את פריסת יצירת הפוסט המועדפת המועדפת.';
-$Definition['Choose the preferred Legacy Event Layout.'] = 'בחר את פריסת האירוע המועדפת המועדפת.';
-$Definition['Choose the preferred Legacy Home Layout.'] = 'בחר את פריסת הבית המועדפת מדור קודם.';
-$Definition['Choose the preferred Legacy Knowledge Base Layout.'] = 'בחר את פריסת מאגר הידע המועדף המועדף.';
-$Definition['Choose the preferred Legacy Post Layout.'] = 'בחר את פריסת הפוסט המועדפת המועדפת.';
-$Definition['Choose the preferred Legacy Recent Posts Layout.'] = 'בחר את פריסת הפוסטים האחרונים המועדפת.';
-$Definition['Choose when to load records from.'] = 'בחר מתי להעלות רשומות.';
-$Definition['Choose who can send out invitations to new members:'] = 'בחירה של מי שיכול לשלוח הזמנות למשתמשים חדשים:';
-$Definition['Classic table layout used by traditional forums'] = 'מבנה טבלאות קלאסי מפורום סטנדרטי';
-$Definition['Clean Spam'] = 'ניקוי ספאם';
-$Definition['Clear All'] = 'ניקוי הכל';
-$Definition['Click a tag name to edit. Click x to remove.'] = 'סמן תגיות על מנת לערוך אותן. בחר ב-x למחוק אותן.';
-$Definition['Click here to apply it.'] = 'לחצו לאישור.';
-$Definition['Click here to carry on.'] = 'לחצו להמשך';
-$Definition['Click here to carry on to your dashboard'] = 'לחצו כאן למעבר ללוח הבקרה שלך';
-$Definition['Client ID'] = 'מספר מזהה של לקוח';
-$Definition['Close post'] = 'סגור פוסט';
-$Definition['Colored'] = 'צבעוני';
-$Definition['Column Display Settings'] = 'הגדרות תצוגה בעמודה';
-$Definition['comment(s)'] = 'תגובות';
-$Definition['Comment  Body'] = 'גוף התגובה';
-$Definition['Comment Count'] = 'ספירת תגובות';
-$Definition['Comment Settings'] = 'הגדרת תגובות';
-$Definition['Comments Matching Criteria Now: <0 />'] = 'קריטריוני התאמת הערות עכשיו: <0 />';
-$Definition['Comments Page'] = 'עמוד תגובות';
-$Definition['Comments per Page'] = 'תגובות לעמוד';
-$Definition['Comment  Subject'] = 'נושא התגובה';
-$Definition['Community Discussion Categories'] = 'קטגוריות דיון בקהילה';
-$Definition['Community Management'] = 'ניהול קהילה';
-$Definition['Community Member Content'] = 'תוכן חברי קהילה';
-$Definition['Condition'] = 'מצב';
-$Definition['Condition Expression'] = 'ערך';
-$Definition['Condition Field'] = 'שדה';
-$Definition['Conditions'] = 'תנאים';
-$Definition['Condition Type'] = 'סוג';
-$Definition['Configuration & Addons'] = 'תצורה ותוספות';
-$Definition['Configuration settings for password fields in Vanilla'] = 'הגדרות תצורה עבור שדות סיסמה ב-Vanilla';
-$Definition['Configure an Authenticator'] = 'הגדרת \'מאמת\'';
-$Definition['Configure custom Kaltura domains'] = 'הגדר דומיינים מותאמים אישית של Kaltura';
-$Definition['Configure how nested categories are displayed to users.'] = 'הגדרת כיצד תת-קטגוריות מוצגות למשתמשים';
-$Definition['Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases.'] = 'הגדר הגדרות המשמשות לניהול אוטומטי של תוכן קהילתי עוד לפני שהוא נוצר. האפשרויות כוללות זיהוי אוטומטי של ספאם, דרישת אישור לפרסום בקטגוריות מסוימות ודרישת אישור לפרסום באמצעות מילות מפתח או ביטויים מסוימים.';
-$Definition['Configure where reports are sent and manage your community\'s report reasons.'] = 'הגדר לאן דוחות נשלחים ונהל את סיבות הדיווח של הקהילה שלך.';
-$Definition['Configuring Vanilla\'s Homepage'] = 'הגדרות של דף הבית של Vanilla';
-$Definition['Confirmation  Body'] = 'גוף האישור';
-$Definition['Confirm email addresses'] = 'משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)';
-$Definition['Connections'] = 'חיבורים';
-$Definition['Consumer Key'] = 'מפתח לקוח';
-$Definition['Consumer Secret'] = 'קוד סודי של לקוח';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'צור קשר עם צוות Vanilla כדי להפעיל את תצורת האתר של שאלות ותשובות. לאחר מכן הפעל את תוסף השאלות והתשובות בקטע <0/> של לוח המחוונים.';
-$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'צור קשר עם צוות Vanilla כדי להפעיל את תצורת האתר של שאלות ותשובות. לאחר מכן הפעל את תוסף השאלות והתשובות בחלק התוספות של לוח המחוונים.';
-$Definition['Content Curation'] = 'אוצרות תוכן';
-$Definition['Content flagged as spam is stored here for moderator review.'] = 'תוכן זה סומן כזבל וממתין לאישור של מנהל';
-$Definition['Content Flagging'] = 'סימון תוכן כזבל';
-$Definition['Content Security Domains'] = 'תחומי אבטחת תוכן';
-$Definition['Content Settings'] = 'הגדרות תוכן';
-$Definition['Content to Suggest'] = 'תוכן להצעה';
-$Definition['Contextual Description'] = 'תיאור הקשר';
-$Definition['Continue Replying'] = 'המשך להשיב';
-$Definition['Conversation Messages'] = 'הודעות בשיחה';
-$Definition['Conversations'] = 'שיחות';
-$Definition['Conversations Setup'] = 'הגדרות שיחות';
-$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'עלול להציג פגיעויות כמו Cross-Site Scripting (XSS) אם סקריפטים ראשוניים נפגעים.';
-$Definition['Could not find a theme identified by \'%s\''] = 'לא נמצאה ערכת צבעים בשם \'%s\'';
-$Definition['Could not instantiate mail function.'] = 'לא הצלחתי לאתחל את פעולת הדואר.';
-$Definition['Could not link the addon.'] = 'לא הצלחתי לשים קישור לתוסף.';
-$Definition['Could not open %s.'] = 'לא הצלחתי לפתוח את %s';
-$Definition['Could not open addon file. Addons must be zip files.'] = 'לא הצלחתי לפתוח את קובץ התוסף. קבצי תוסף חייבים להיות קבצי zip.';
-$Definition['Create'] = 'יצירה';
-$Definition['Create & organize discussion categories and manage your users.'] = 'וצירה וארגן קטגוריות לדיונים שונים וניהול המשתמשים שלך.';
-$Definition['Create/Edit Automation Rule'] = 'צור/ערוך כלל אוטומציה';
-$Definition['Create and manage automations to easily manage posts and users.'] = 'צור ונהל אוטומציות כדי לנהל בקלות פוסטים ומשתמשים.';
-$Definition['Created <0/> by <1/>.'] = 'נוצר <0/> על ידי <1/>.';
-$Definition['created by'] = 'נוצר על ידי';
-$Definition['Created new badge'] = 'יצירת סמל חדש';
-$Definition['CreateFile'] = 'יצירה';
-$Definition['Create Post Layout Settings'] = 'צור הגדרות פריסת פוסטים';
-$Definition['Create Post Layout Version'] = 'צור גרסת פריסת פוסט';
-$Definition['Create Post Pages'] = 'צור דפי פוסטים';
-$Definition['Create Zoom Meeting'] = 'צור פגישת זום';
-$Definition['Criteria'] = 'תנאי';
-$Definition['CssClass'] = 'סוג CSS';
-$Definition['Current Authenticator'] = 'מאמת הנוכחי';
-$Definition['Current File:'] = 'הקובץ הנוכחי:';
-$Definition['Current Mobile Theme'] = 'ערכת נושא נוכחית לנייד ';
-$Definition['Current Theme'] = 'ערכת הצבעים הנוכחית';
-$Definition['Custom Category Layouts'] = 'פריסות קטגוריה מותאמות אישית';
-$Definition['Custom Create Post Layouts'] = 'יצירת פריסות פוסטים בהתאמה אישית';
-$Definition['Customer Support'] = 'תמיכת לקוחות';
-$Definition['Custom Event Layouts'] = 'פריסות אירועים מותאמים אישית';
-$Definition['Custom Home Layouts'] = 'פריסות בית מותאמות אישית';
-$Definition['Custom Icon'] = 'סמל מותאם אישית';
-$Definition['Customize AI Persona'] = 'התאמה אישית של AI Persona';
-$Definition['Customize your community'] = 'התאם אישית את הקהילה שלך';
-$Definition['Custom Knowledge Base Layouts'] = 'פריסות בסיס ידע מותאמות אישית';
-$Definition['Custom Post Layouts'] = 'פריסות פוסטים מותאמות אישית';
-$Definition['Custom Recent Posts Layouts'] = 'פריסות פוסטים אחרונים מותאמים אישית';
-$Definition['Custom Themes'] = 'ערכות נושא מותאמות אישית';
 
-$Definition['Database Structure Upgrades'] = 'שדרוגים למבנה מסד הנתונים';
-$Definition['Date field reached'] = 'תאריך הגעה לשדה';
-$Definition['Date From'] = 'מתאריך';
-$Definition['Date To'] = 'לתאריך';
-$Definition['Debugger'] = 'debugger';
-$Definition['Debug Information'] = 'מידע debug';
-$Definition['Decline'] = 'דחה';
-$Definition['Default %s Permissions'] = 'הרשאות %s ברירת מחדל';
-$Definition['Default (%s)'] = 'ברירת מחדל Default (%s)';
-$Definition['Default <0/>'] = 'ברירת מחדל <0/>';
-$Definition['Default  Category'] = 'הקטגוריה שמוגדרת כברירת המחדל';
-$Definition['Default Category Permissions'] = 'הרשאות ברירת מחדל לקטגוריה';
-$Definition['Default Followed Categories'] = 'ברירת מחדל קטגוריות מעקב';
-$Definition['Default Interests Only'] = 'ברירת מחדל בלבד';
-$Definition['Default Locale'] = 'ברירת המחדל ללוקאליזציה';
-$Definition['Default placeholder'] = 'שומר מקום ברירת מחדל';
-$Definition['Default Roles'] = 'ברירת המחדל לתפקידים';
-$Definition['Default Sort Order'] = 'סדר מיון ברירת מחדל';
-$Definition['Default Type'] = 'סוג ברירת מחדל';
-$Definition['default type'] = 'ברירת מחדל';
-$Definition['Define your forum homepage'] = 'הגדרת הדף הראשי של הפורום';
-$Definition['Delete?'] = 'לִמְחוֹק?';
-$Definition['Delete Badge'] = 'הסרת סמל';
-$Definition['Delete Category'] = 'הסרת קטגוריה';
-$Definition['Delete Layout'] = 'מחק פריסה';
-$Definition['Delete moderation information'] = 'מחק מידע על ניהול';
-$Definition['Delete Report Reason'] = 'מחק את סיבת הדיווח';
-$Definition['Delete Role'] = 'הסרת תפקיד';
-$Definition['Delete Rule'] = 'מחק כלל';
-$Definition['Delete Theme'] = 'מחק ערכת נושא';
-$Definition['Delete User'] = 'הסרת משתמש';
-$Definition['Delete User: %s'] = 'הסרת משתמש: %s';
-$Definition['Deleting category...'] = 'מסיר קטגוריה...';
-$Definition['Deleting role...'] = 'מסיר תפקיד...';
-$Definition['Delivery Date'] = 'תאריך משלוח';
-$Definition['Description'] = 'תיאור';
-$Definition['Desktop Themes'] = 'ערכות נושא לשולחן עבודה';
-$Definition['Did You Know?'] = 'הידעת?';
-$Definition['Disable'] = 'כבה';
-$Definition['Disable Content Flagging'] = 'הפסקת אפשרות לסימון תוכן';
-$Definition['Disabled'] = 'כבוי';
-$Definition['disabled'] = 'נָכֶה';
+$Definition["Choose a locale pack"] = "בחירת בחבילת השפה הזו.";
+$Definition["Choose Avatar"] = "בחירת אווטר";
+$Definition["Choose the preferred layout for the categories page."] =
+    "בחירת עיצוב המועדף עליך לדף הקטגוריות.";
+$Definition["Choose the preferred layout for the discussions page."] =
+    "בחירת עיצוב המועדף עליך לדף הדיונים.";
+$Definition["Choose who can send out invitations to new members:"] =
+    "בחירה של מי שיכול לשלוח הזמנות למשתמשים חדשים:";
+$Definition["Choose how many records to display."] =
+    "בחר כמה רשומות להציג.";
+$Definition["Choose when to load records from."] =
+    "בחר מתי להעלות רשומות.";
+$Definition["Class"] = "Class";
+$Definition["Clear All"] = "ניקוי הכל";
+$Definition["Classic table layout used by traditional forums"] =
+    "מבנה טבלאות קלאסי מפורום סטנדרטי";
+$Definition["Clean Spam"] = "ניקוי ספאם";
+$Definition["Click a tag name to edit. Click x to remove."] =
+    "סמן תגיות על מנת לערוך אותן. בחר ב-x למחוק אותן.";
+$Definition["Click here to apply it."] = "לחצו לאישור.";
+$Definition["Click here to carry on."] = "לחצו להמשך";
+$Definition["Click here to carry on to your dashboard"] =
+    "לחצו כאן למעבר ללוח הבקרה שלך";
+$Definition["Client ID"] = "מספר מזהה של לקוח";
+$Definition["Colored"] = "צבעוני";
+$Definition["Column Display Settings"] = "הגדרות תצוגה בעמודה";
+$Definition["comment(s)"] = "תגובות";
+$Definition["Comment  Body"] = "גוף התגובה";
+$Definition["Comment Count"] = "ספירת תגובות";
+$Definition["Comment Settings"] = "הגדרת תגובות";
+$Definition["Comments Page"] = "עמוד תגובות";
+$Definition["Comments per Page"] = "תגובות לעמוד";
+$Definition["Comment  Subject"] = "נושא התגובה";
+$Definition["Community Discussion Categories"] =
+    "קטגוריות דיון בקהילה";
+$Definition["Community Member Content"] = "תוכן חברי קהילה";
+$Definition["Condition"] = "מצב";
+$Definition["Condition Expression"] = "ערך";
+$Definition["Condition Field"] = "שדה";
+$Definition["Conditions"] = "תנאים";
+$Definition["Condition Type"] = "סוג";
+$Definition["Configure an Authenticator"] = "הגדרת 'מאמת'";
+$Definition["Configuration settings for password fields in Vanilla"] =
+    "הגדרות תצורה עבור שדות סיסמה ב-Vanilla";
+$Definition["Configure custom Kaltura domains"] =
+    "הגדר דומיינים מותאמים אישית של Kaltura";
+$Definition["Configure how nested categories are displayed to users."] =
+    "הגדרת כיצד תת-קטגוריות מוצגות למשתמשים";
+$Definition['Configuring Vanilla\'s Homepage'] =
+    'הגדרות של דף הבית של Vanilla';
+$Definition["Confirmation  Body"] = "גוף האישור";
+$Definition["Confirm email addresses"] =
+    "משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)";
+$Definition["Connections"] = "חיבורים";
+$Definition["Consumer Key"] = "מפתח לקוח";
+$Definition["Consumer Secret"] = "קוד סודי של לקוח";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
+] =
+    "צור קשר עם צוות Vanilla כדי להפעיל את תצורת האתר של שאלות ותשובות. לאחר מכן הפעל את תוסף השאלות והתשובות בחלק התוספות של לוח המחוונים.";
+$Definition[
+    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
+] =
+    "צור קשר עם צוות Vanilla כדי להפעיל את תצורת האתר של שאלות ותשובות. לאחר מכן הפעל את תוסף השאלות והתשובות בקטע <0/> של לוח המחוונים.";
+$Definition["Content Curation"] = "אוצרות תוכן";
+$Definition["Content flagged as spam is stored here for moderator review."] =
+    "תוכן זה סומן כזבל וממתין לאישור של מנהל";
+$Definition["Content Flagging"] = "סימון תוכן כזבל";
+$Definition["Content Security Domains"] = "תחומי אבטחת תוכן";
+$Definition["Content to Suggest"] = "תוכן להצעה";
+$Definition["Continue Replying"] = "המשך להשיב";
+$Definition["Conversation Messages"] = "הודעות בשיחה";
+$Definition["Conversations"] = "שיחות";
+$Definition["Conversations Setup"] = "הגדרות שיחות";
+$Definition[
+    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
+] =
+    "עלול להציג פגיעויות כמו Cross-Site Scripting (XSS) אם סקריפטים ראשוניים נפגעים.";
+$Definition['Could not find a theme identified by \'%s\''] =
+    'לא נמצאה ערכת צבעים בשם \'%s\'';
+$Definition["Could not instantiate mail function."] =
+    "לא הצלחתי לאתחל את פעולת הדואר.";
+$Definition["Could not link the addon."] = "לא הצלחתי לשים קישור לתוסף.";
+$Definition["Could not open %s."] = "לא הצלחתי לפתוח את %s";
+$Definition["Could not open addon file. Addons must be zip files."] =
+    "לא הצלחתי לפתוח את קובץ התוסף. קבצי תוסף חייבים להיות קבצי zip.";
+$Definition["Create & organize discussion categories and manage your users."] =
+    "וצירה וארגן קטגוריות לדיונים שונים וניהול המשתמשים שלך.";
+$Definition["Created new badge"] = "יצירת סמל חדש";
+$Definition["Create Zoom Meeting"] = "צור פגישת זום";
+$Definition["CreateFile"] = "יצירה";
+$Definition["Criteria"] = "תנאי";
+$Definition["CSS"] = "CSS";
+$Definition["CssClass"] = "סוג CSS";
+$Definition["Current Authenticator"] = "מאמת הנוכחי";
+$Definition["Current File:"] = "הקובץ הנוכחי:";
+$Definition["Current Mobile Theme"] = "ערכת נושא נוכחית לנייד ";
+$Definition["Current Theme"] = "ערכת הצבעים הנוכחית";
+$Definition["Custom Themes"] = "ערכות נושא מותאמות אישית";
+$Definition["Customize AI Persona"] = "התאמה אישית של AI Persona";
+$Definition["Custom Recent Posts Layouts"] = "פריסות פוסטים אחרונים מותאמים אישית";
+
+$Definition["Database Structure Upgrades"] = "שדרוגים למבנה מסד הנתונים";
+$Definition["Date From"] = "מתאריך";
+$Definition["Date To"] = "לתאריך";
+$Definition["Debugger"] = "debugger";
+$Definition["Debug Information"] = "מידע debug";
+$Definition["Decline"] = "דחה";
+$Definition["Default (%s)"] = "ברירת מחדל Default (%s)";
+$Definition["Default <0/>"] = "ברירת מחדל <0/>";
+$Definition["Default %s Permissions"] = "הרשאות %s ברירת מחדל";
+$Definition["Default  Category"] = "הקטגוריה שמוגדרת כברירת המחדל";
+$Definition["Default Category Permissions"] = "הרשאות ברירת מחדל לקטגוריה";
+$Definition["Default Followed Categories"] = "ברירת מחדל קטגוריות מעקב";
+$Definition["Default Interests Only"] = "ברירת מחדל בלבד";
+$Definition["Default Locale"] = "ברירת המחדל ללוקאליזציה";
+$Definition["Default Roles"] = "ברירת המחדל לתפקידים";
+$Definition["default type"] = "ברירת מחדל";
+$Definition["Default Type"] = "סוג ברירת מחדל";
+$Definition["Define your forum homepage"] = "הגדרת הדף הראשי של הפורום";
+$Definition["Delete Badge"] = "הסרת סמל";
+$Definition["Delete Category"] = "הסרת קטגוריה";
+$Definition["Delete moderation information"] = "מחק מידע על ניהול";
+$Definition["Delete Role"] = "הסרת תפקיד";
+$Definition["Delete Theme"] = "מחק ערכת נושא";
+$Definition["Delete User"] = "הסרת משתמש";
+$Definition["Delete User: %s"] = "הסרת משתמש: %s";
+$Definition["Deleting category..."] = "מסיר קטגוריה...";
+$Definition["Deleting role..."] = "מסיר תפקיד...";
+$Definition["Delivery Date"] = "תאריך משלוח";
+$Definition["Description"] = "תיאור";
+$Definition["Desktop Themes"] = "ערכות נושא לשולחן עבודה";
+$Definition["Did You Know?"] = "הידעת?";
+$Definition["Disable"] = "כבה";
+$Definition["Disable Content Flagging"] = "הפסקת אפשרות לסימון תוכן";
+$Definition["Disabled"] = "כבוי";
 $Definition['Disabled %1$s'] = '%1$s מופסק';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'מופסק: pocket <b>לא</b> יוצג';
-$Definition['Disable Forum Pages'] = 'השבת את דפי הפורום';
-$Definition['Disable Signatures'] = 'הפסקת אפשרות להוספת חתימות';
-$Definition['Disable Tagging'] = 'הפסקת אפשרות להוספת תיוגים';
-$Definition['Discard Changes?'] = 'למחוק שינויים?';
-$Definition['Discard Reply'] = 'מחק את התשובה';
-$Definition['Discussion & Comment Editing'] = 'דיון & עריכת תגובה';
-$Definition['discussion(s)'] = 'דיונים';
-$Definition['Discussion  Body'] = 'גוף הדיון';
-$Definition['Discussion Pages'] = 'דפי דיון';
-$Definition['Discussions'] = 'אחרונים';
-$Definition['Discussions Layout'] = 'עיצוב הדיונים';
-$Definition['Discussions Matching Criteria Now: <0 />'] = 'קריטריוני התאמה לדיונים כעת: <0 />';
-$Definition['Discussions per Page'] = 'מספר דיונים לעמוד';
-$Definition['Discussion  Subject'] = 'נושא הדיון';
-$Definition['Dismissable'] = 'ניתן להסתרה';
-$Definition['Dismiss Answer'] = 'בטל את התשובה';
-$Definition['Display a searchbox on top of the banner image.'] = 'הצג תיבת חיפוש מעל תמונת הכרזה.';
-$Definition['Display content from followed categories'] = 'הצג תוכן מהקטגוריות שאחריהן';
-$Definition['Display in dashboard. (not recommended)'] = 'הצג בלוח הבקרה. (לא מומלץ)';
-$Definition['Display on category page only.'] = 'הצג בדף הקטגוריה בלבד. רשימת הדיונים האחרונים לא תושפע.';
-$Definition['Display Open Cases in Profile Page?'] = 'להציג תיקים פתוחים בדף הפרופיל?';
-$Definition['Display Options'] = 'אפשרויות תצוגה';
-$Definition['Display records from this category.'] = 'הצג רשומות מקטגוריה זו.';
-$Definition['Display records from this subcommunity'] = 'הצג רשומות מתת-קהילה זו';
-$Definition['Display records from this subcommunity.'] = 'הצג רשומות מתת -קהילה זו.';
-$Definition['Display root categories as headings.'] = 'הצג את קטגוריות הבסיס ככותרות.';
-$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'מציג את תמונת הכרזה מדף המיתוג באופן בולט בכל ערכת הנושא.';
-$Definition['documentation.'] = 'תיעוד.';
-$Definition['Don\'t display for embedded comments.'] = 'אל תציג על הודעות מוטמעות';
+$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
+    "מופסק: pocket <b>לא</b> יוצג";
+$Definition["Disable Signatures"] = "הפסקת אפשרות להוספת חתימות";
+$Definition["Disable Tagging"] = "הפסקת אפשרות להוספת תיוגים";
+$Definition["Discard Reply"] = "מחק את התשובה";
+$Definition["Discussion & Comment Editing"] = "דיון & עריכת תגובה";
+$Definition["Post & Comment Editing"] = "עריכת פוסטים והערות";
+$Definition["Discussions"] = "אחרונים";
+$Definition["discussion(s)"] = "דיונים";
+$Definition["Discussion  Body"] = "גוף הדיון";
+$Definition["Discussions Layout"] = "עיצוב הדיונים";
+$Definition["Discussions per Page"] = "מספר דיונים לעמוד";
+$Definition["Posts per Page"] = "פוסטים לכל עמוד";
+$Definition["Discussion  Subject"] = "נושא הדיון";
+$Definition["Dismissable"] = "ניתן להסתרה";
+$Definition["Dismiss Answer"] = "בטל את התשובה";
+$Definition["Display content from followed categories"] =
+    "הצג תוכן מהקטגוריות שאחריהן";
+$Definition["Display in dashboard. (not recommended)"] =
+    "הצג בלוח הבקרה. (לא מומלץ)";
+$Definition["Display Open Cases in Profile Page?"] =
+    "להציג תיקים פתוחים בדף הפרופיל?";
+$Definition["Display Options"] = "אפשרויות תצוגה";
+$Definition["Display records from this subcommunity"] =
+    "הצג רשומות מתת-קהילה זו";
+$Definition["Display root categories as headings."] =
+    "הצג את קטגוריות הבסיס ככותרות.";
+$Definition[
+    "Displays the banner image form the branding page prominently throughout the theme."
+] =
+    "מציג את תמונת הכרזה מדף המיתוג באופן בולט בכל ערכת הנושא.";
+$Definition["Display a searchbox on top of the banner image."] =
+    "הצג תיבת חיפוש מעל תמונת הכרזה.";
+$Definition["Display records from this category."] =
+    "הצג רשומות מקטגוריה זו.";
+$Definition["Display records from this subcommunity."] =
+    "הצג רשומות מתת -קהילה זו.";
+$Definition['Don\'t display for embedded comments.'] =
+    'אל תציג על הודעות מוטמעות';
 $Definition['Don\'t Refresh'] = 'אל תרענן';
 $Definition['Don\'t use Categories'] = 'אל תשתמש בקטגוריות';
-$Definition['Done'] = 'נַעֲשָׂה';
-$Definition['Do not display the categories in the side panel.'] = 'אל תציג את הקטגוריות בפאנל הצדדי';
-$Definition['Download Active Icon Pack'] = 'הורד את ערכת אייקונים פעילים';
-$Definition['Download Locale List'] = 'הורד את רשימת השפות';
-$Definition['DownloadLocalePack'] = 'הורדה';
-$Definition['Download Locale Pack'] = 'הורדה של חבילת השפות';
-$Definition['Download System Icon Pack'] = 'הורד את ערכת אייקוני מערכת';
+$Definition["Do not display the categories in the side panel."] =
+    "אל תציג את הקטגוריות בפאנל הצדדי";
+$Definition["Download Locale List"] = "הורד את רשימת השפות";
+$Definition["DownloadLocalePack"] = "הורדה";
+$Definition["Download Locale Pack"] = "הורדה של חבילת השפות";
 
-$Definition['Edit/Delete Log'] = 'ערוך / מחק לוג';
-$Definition['Edit Categories'] = 'ערוך קטגוריות';
-$Definition['Edit Category'] = 'ערוך קטגוריה';
-$Definition['Edit CSS'] = 'ערוך את ה-CSS';
-$Definition['Edit Default Categories'] = 'ערוך קטגוריות ברירת מחדל';
-$Definition['Edited'] = 'עָרוּך';
-$Definition['Edit HTML'] = 'ערוך HTML';
-$Definition['Edit Interest'] = 'ערוך עניין';
-$Definition['Edit Keywords'] = 'ערוך מילות מפתח';
-$Definition['Edit Message'] = 'ערוך הודעה';
-$Definition['Edit Report Reason'] = 'ערוך את סיבת הדוח';
-$Definition['Edit Role'] = 'ערוך תפקיד';
-$Definition['Edit Roles'] = 'ערוך תפקידים';
-$Definition['Edit Rule'] = 'ערוך כלל';
-$Definition['Edit User'] = 'ערוך משתמש';
-$Definition['Edit Variables'] = 'ערוך משתנים';
-$Definition['Email Confirmation Role'] = 'תקפיד אישור דואר אלקטרוני';
-$Definition['Email Digest'] = 'תקציר בדוא"ל';
-$Definition['Email Digest Logo'] = 'לוגו תקציר אימייל';
-$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'ווידג\'ט בקשת תקציר אימייל יהיה זמין כאשר תקציר האימייל מופעל.';
-$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'תקצירי אימייל יישלחו ביום הנבחר מדי שבוע. שינויים ביום שנקבע ישפיעו בשבוע הבא.';
-$Definition['Email Footer'] = 'כותרת תחתונה באימייל';
-$Definition['Email Styles'] = 'סגנונות אימייל';
-$Definition['Embed Comments'] = 'הטמעת הערות';
-$Definition['Embedding'] = 'הטבעה';
-$Definition['Embedding Documentation'] = 'תיעוד הטמעה';
-$Definition['Embedding is currently DISABLED.'] = 'הטמעה מנוטרלת.';
-$Definition['Embedding is currently ENABLED.'] = 'הטמעה מאופשרת.';
-$Definition['Embed Forum'] = 'הטמעת פורום';
-$Definition['Embed Modules'] = 'הטמעת מודולים';
-$Definition['Embed modules from your Vanilla forum into your site'] = 'הטמעת מודולים מפורום ה-Vanilla שלך לאתר שלך';
-$Definition['Embed My Forum'] = 'הטמע את הפורום שלי';
-$Definition['Embeds'] = 'הטמעות';
-$Definition['Embed Vanilla'] = 'הטמעת Vanilla';
-$Definition['Embed your entire Vanilla forum'] = 'הטמעת פורום Vanilla כולו';
-$Definition['Embed your forum in your web site'] = 'הטמעת הפורום שלך באתר שלך';
-$Definition['Enable'] = 'הפעלה';
-$Definition['Enable/Disable'] = 'הפעלה / הפסקה';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'אפשר לאדמין לסמן דיונים והערות.';
-$Definition['Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>'] = 'אפשר ל-Akismet לסנן דואר זבל בכל הפוסטים לפי רישומי מועמדים ומשתמשים לא מאומתים. <0/>';
-$Definition['Enable checkboxes on discussions and comments'] = 'אפשר תיבות סימון בנושאים ותגובות';
-$Definition['enabled'] = 'מופעל';
+$Definition["Edit/Delete Log"] = "ערוך / מחק לוג";
+$Definition["Edit Category"] = "ערוך קטגוריה";
+$Definition["Edit CSS"] = "ערוך את ה-CSS";
+$Definition["Edit Default Categories"] = "ערוך קטגוריות ברירת מחדל";
+$Definition["Edit HTML"] = "ערוך HTML";
+$Definition["Edit Interest"] = "ערוך עניין";
+$Definition["Edit Message"] = "ערוך הודעה";
+$Definition["Edit Role"] = "ערוך תפקיד";
+$Definition["Edit User"] = "ערוך משתמש";
+$Definition["Email Confirmation Role"] = "תקפיד אישור דואר אלקטרוני";
+$Definition["Email Digest"] = "תקציר בדוא\"ל";
+$Definition[
+    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
+] =
+    "ווידג'ט בקשת תקציר אימייל יהיה זמין כאשר תקציר האימייל מופעל.";
+$Definition["Email Digest Logo"] = "לוגו תקציר אימייל";
+$Definition[
+    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
+] =
+    "תקצירי אימייל יישלחו ביום הנבחר מדי שבוע. שינויים ביום שנקבע ישפיעו בשבוע הבא.";
+$Definition["Email Footer"] = "כותרת תחתונה באימייל";
+$Definition["Email Digest Logo"] = "לוגו תקציר אימייל";
+$Definition["Email Styles"] = "סגנונות אימייל";
+$Definition["Embed Comments"] = "הטמעת הערות";
+$Definition["Embedding"] = "הטבעה";
+$Definition["Embedding Documentation"] = "תיעוד הטמעה";
+$Definition["Embedding is currently DISABLED."] =
+    "הטמעה מנוטרלת.";
+$Definition["Embedding is currently ENABLED."] =
+    "הטמעה מאופשרת.";
+$Definition["Embed Forum"] = "הטמעת פורום";
+$Definition["Embed My Forum"] = "הטמע את הפורום שלי";
+$Definition["Embed Modules"] = "הטמעת מודולים";
+$Definition["Embed modules from your Vanilla forum into your site"] =
+    "הטמעת מודולים מפורום ה-Vanilla שלך לאתר שלך";
+$Definition["Embeds"] = "הטמעות";
+$Definition["Embed Vanilla"] = "הטמעת Vanilla";
+$Definition["Embed your entire Vanilla forum"] =
+    "הטמעת פורום Vanilla כולו";
+$Definition["Embed your forum in your web site"] =
+    "הטמעת הפורום שלך באתר שלך";
+$Definition["Enable"] = "הפעלה";
+$Definition["Enable/Disable"] = "הפעלה / הפסקה";
+$Definition["Enable admin checkboxes on discussions and comments."] =
+    "אפשר לאדמין לסמן דיונים והערות.";
+$Definition["Enable checkboxes on discussions and comments"] =
+    "אפשר תיבות סימון בנושאים ותגובות";
 $Definition['Enabled %1$s'] = '%1$s מופעל';
-$Definition['Enabled: The pocket will be displayed.'] = 'מופעל: Pocket הזה יוצג.';
-$Definition['Enable embedding to use blog comments.'] = 'על מנת שזה יעבוד, תצטרך לאפשר הטבעה.';
-$Definition['Enable Followup Notifications'] = 'הפעל התראות מעקב';
-$Definition['Enable HTML emails'] = 'נא לאפשר הודעות אימייל HTML  ';
-$Definition['Enable Image Upload Limit'] = 'אפשר הגבלת טעינת תמונה';
-$Definition['Enable link embeds in discussions and comments'] = 'אפשר הטמעת קישורים בדיונים והערות';
-$Definition['Enable link embeds in posts and comments'] = 'אפשר הטמעת קישורים בפוסטים ובתגובות';
-$Definition['Enable OpenID'] = 'הפעלת OpenID';
-$Definition['Enable Pocket Locations'] = 'אפשר מיקומי כיס';
-$Definition['Enable Private Communities'] = 'אפשר קהילות פרטיות';
-$Definition['Enable Product Integration'] = 'אפשר אינטגרציית מוצר';
-$Definition['Enable Rich Quotes'] = 'אפשר את Rich Quotes';
-$Definition['Enable sending notification emails'] = 'אפשר שליחת הודעות אימייל';
-$Definition['Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon\'s settings</0>. Learn more in the <1/>'] = 'אפשר Stopforumspam לבדוק משתמשי קהילה מול רשימה של שולחי דואר זבל מדווחים, או מדווח על הפוסט כדואר זבל או דוחה אותם על הסף. ספי הדיווח והדחיה מנוהלים בהגדרות <0>תוסף</0> . למידע נוסף ב-<1/>';
-$Definition['Enable Tagging'] = 'אפשר תיוג';
-$Definition['Enable this message'] = 'הפעלת הודעה זו.';
-$Definition['Enable this source'] = 'אפשר את המקור הזה';
-$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'אפשר לקבל תצוגה מקדימה של לוח המחוונים החדש שלנו לניהול משתמשים עם חיפוש משופר ואפשרויות תצורה חדשות.';
-$Definition['Enable to only show posts from categories a user follows.'] = 'אפשר להציג רק פוסטים מקטגוריות שמשתמש עוקב אחריהם.';
-$Definition['Enable Triage Dashboard'] = 'הפעל Triage Dashboard';
-$Definition['Enabling a Locale Pack'] = 'הפעלת חבילת שפות';
-$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'הפעלת תכונה זו תשנה את מדיניות אבטחת התוכן שלך כדי לתת אמון בסקריפטים נוספים שהוזרקו כתלות על ידי הסקריפטים המותאמים אישית שלך.';
-$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = 'הפעלת תכונה זו תשנה את מדיניות אבטחת התוכן (CSP) של האתר שלך כדי לאפשר לסקריפטים מאושרים ברשימת הדומיינים המהימנים הנוכחית שלך לטעון באופן דינמי סקריפטים אחרים, היא תוסיף הנחיה \'קפדנית-דינמית\' ל-CSP שלך ומציעה יותר גמישות בשילוב צד שלישי תוֹכֶן.';
-$Definition['Encourage your friends to join your new community!'] = 'עודד את חבריך להצטרף לקהילה החדשה שלך!';
-$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'כתיבת רשימה של אינדקסים מופרדים בפסיקים, המתחילים ב-1.';
-$Definition['Enter a title for this escalation'] = 'הזן כותרת להסלמה זו';
-$Definition['Enter numbers starting at 1.'] = 'כתיבת מספרים, התחילו ב-1.';
-$Definition['Enter the email address of the person you would like to invite:'] = 'כתיבת כתובת הדוא"ל של האדם אותו תרצו להזמין:';
-$Definition['Enter the url to the page you would like to use as your homepage'] = 'כתיבת ה-URL של הדף אותו תרצו להפוך לדף הבית שלכם.';
-$Definition['Enter the url to the page you would like to use as your homepage:'] = 'כתיבת ה-URL של הדף אותו תרצו להפוך לדף הבית שלכם:';
-$Definition['Error sending email. Please review the addresses and try again.'] = 'שגיאה במשלוח אימייל. נא לבדוק את הכתובות ולנסות שוב.';
-$Definition['Escalate'] = 'לְהַסלִים';
-$Definition['Escalated'] = 'הסלמה';
-$Definition['Escalated by <0/>'] = 'הסלמה על ידי <0/>';
-$Definition['Escalate it'] = 'להסלים את זה';
-$Definition['Escalate to GitHub'] = 'הסלמה אל GitHub';
-$Definition['Escalate to Zendesk'] = 'הסלמה לזנדסק';
-$Definition['Escalation Name'] = 'שם הסלמה';
-$Definition['Escalation Rules'] = 'כללי הסלמה';
-$Definition['Escalations Dashboard'] = 'לוח המחוונים של הסלמות';
-$Definition['Even More Help?'] = 'עוד יותר עזרה?';
-$Definition['event'] = 'מִקרֶה';
-$Definition['Event Layout Settings'] = 'הגדרות פריסת אירועים';
-$Definition['Event Layout Version'] = 'גרסת פריסת אירוע';
-$Definition['Event Log'] = 'יומן אירועים';
-$Definition['Event Name'] = 'שם האירוע';
-$Definition['Event Pages'] = 'דפי אירועים';
-$Definition['Every %s hour'] = 'כל שעה';
-$Definition['Every %s hours'] = 'כל %s שעות';
-$Definition['Every %s minute'] = 'כל דקה';
-$Definition['Every %s minutes'] = 'כל %s דקות';
-$Definition['Every %s second'] = 'כל שנייה';
-$Definition['Every %s seconds'] = 'כל %s שניות';
-$Definition['Every 1 minute'] = 'כל דקה ';
-$Definition['Every Page'] = 'כל עמוד';
-$Definition['Everything is ok.'] = 'הכול תקין.';
-$Definition['Excerpt Length'] = 'אורך הקטע';
-$Definition['Exclude archived discussions from the discussions list'] = 'אל תציג דיונים מהארכיון ברשימת הדיונים.';
-$Definition['Exclude Categories'] = 'אל תכלול קטגוריות';
-$Definition['Exclude Default Interests'] = 'אל תכלול תחומי ברירת מחדל';
-$Definition['Exclude these from the source'] = 'אל תכלול אותם מהמקור';
-$Definition['Existing members send invitations to new members.'] = 'משתמשים ותיקים יכולים לשלוח הזמנות למשתמשים חדשים.';
-$Definition['Exit'] = 'יציאה';
-$Definition['Exit Preview'] = 'יציאה מתצוגה מקדימה';
-$Definition['Expand'] = 'לְהַרְחִיב';
-$Definition['Export'] = 'יְצוּא';
-$Definition['External Search'] = 'חיפוש חיצוני';
-$Definition['External search replaces Vanilla’s out of the box search with a third party search provider of your choice.'] = 'חיפוש חיצוני מחליף את החיפוש מחוץ לקופסה של Vanilla בספק חיפוש של צד שלישי לבחירתך.';
+$Definition["Enabled: The pocket will be displayed."] =
+    "מופעל: Pocket הזה יוצג.";
+$Definition["Enable HTML emails"] = "נא לאפשר הודעות אימייל HTML  ";
+$Definition["Enable embedding to use blog comments."] =
+    "על מנת שזה יעבוד, תצטרך לאפשר הטבעה.";
+$Definition["Enable Image Upload Limit"] = "אפשר הגבלת טעינת תמונה";
+$Definition["Enable link embeds in discussions and comments"] =
+    "אפשר הטמעת קישורים בדיונים והערות";
+$Definition["Enable link embeds in posts and comments"] =
+    "אפשר הטמעת קישורים בפוסטים ובתגובות";
+$Definition["Enable OpenID"] = "הפעלת OpenID";
+$Definition["Enable Pocket Locations"] = "אפשר מיקומי כיס";
+$Definition["Enable Private Communities"] = "אפשר קהילות פרטיות";
+$Definition["Enable Product Integration"] = "אפשר אינטגרציית מוצר";
+$Definition["Enable Followup Notifications"] = "הפעל התראות מעקב";
+$Definition["Enable sending notification emails"] =
+    "אפשר שליחת הודעות אימייל";
+$Definition["Enable Tagging"] = "אפשר תיוג";
+$Definition["Enable this message"] = "הפעלת הודעה זו.";
+$Definition["Enable this source"] = "אפשר את המקור הזה";
+$Definition["Enable to only show posts from categories a user follows."] =
+    "אפשר להציג רק פוסטים מקטגוריות שמשתמש עוקב אחריהם.";
+$Definition[
+    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
+] =
+    "אפשר לקבל תצוגה מקדימה של לוח המחוונים החדש שלנו לניהול משתמשים עם חיפוש משופר ואפשרויות תצורה חדשות.";
+$Definition["Enabling a Locale Pack"] = "הפעלת חבילת שפות";
+$Definition[
+    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
+] =
+    "הפעלת תכונה זו תשנה את מדיניות אבטחת התוכן שלך כדי לתת אמון בסקריפטים נוספים שהוזרקו כתלות על ידי הסקריפטים המותאמים אישית שלך.";
+$Definition[
+    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
+] =
+    'הפעלת תכונה זו תשנה את מדיניות אבטחת התוכן (CSP) של האתר שלך כדי לאפשר לסקריפטים מאושרים ברשימת הדומיינים המהימנים הנוכחית שלך לטעון באופן דינמי סקריפטים אחרים, היא תוסיף הנחיה \'קפדנית-דינמית\' ל-CSP שלך ומציעה יותר גמישות בשילוב צד שלישי תוֹכֶן.';
+$Definition["Encourage your friends to join your new community!"] =
+    "עודד את חבריך להצטרף לקהילה החדשה שלך!";
+$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
+    "כתיבת רשימה של אינדקסים מופרדים בפסיקים, המתחילים ב-1.";
+$Definition["Enter numbers starting at 1."] = "כתיבת מספרים, התחילו ב-1.";
+$Definition["Enter the email address of the person you would like to invite:"] =
+    "כתיבת כתובת הדוא\"ל של האדם אותו תרצו להזמין:";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage"
+] = "כתיבת ה-URL של הדף אותו תרצו להפוך לדף הבית שלכם.";
+$Definition[
+    "Enter the url to the page you would like to use as your homepage:"
+] = "כתיבת ה-URL של הדף אותו תרצו להפוך לדף הבית שלכם:";
+$Definition["Error sending email. Please review the addresses and try again."] =
+    "שגיאה במשלוח אימייל. נא לבדוק את הכתובות ולנסות שוב.";
+$Definition["Even More Help?"] = "עוד יותר עזרה?";
+$Definition["Event Log"] = "יומן אירועים";
+$Definition["Event Name"] = "שם האירוע";
+$Definition["Every %s hour"] = "כל שעה";
+$Definition["Every %s hours"] = "כל %s שעות";
+$Definition["Every %s minute"] = "כל דקה";
+$Definition["Every %s minutes"] = "כל %s דקות";
+$Definition["Every %s second"] = "כל שנייה";
+$Definition["Every %s seconds"] = "כל %s שניות";
+$Definition["Every 1 minute"] = "כל דקה ";
+$Definition["Every Page"] = "כל עמוד";
+$Definition["Everything is ok."] = "הכול תקין.";
+$Definition["Excerpt Length"] = "אורך הקטע";
+$Definition["Exclude Categories"] = "אל תכלול קטגוריות";
+$Definition["Exclude Default Interests"] = "אל תכלול תחומי ברירת מחדל";
+$Definition["Exclude these from the source"] = "אל תכלול אותם מהמקור";
+$Definition["Exclude archived discussions from the discussions list"] =
+    "אל תציג דיונים מהארכיון ברשימת הדיונים.";
+$Definition["Existing members send invitations to new members."] =
+    "משתמשים ותיקים יכולים לשלוח הזמנות למשתמשים חדשים.";
+$Definition["Exit Preview"] = "יציאה מתצוגה מקדימה";
+$Definition["Exit"] = "יציאה";
+$Definition["External Search"] = "חיפוש חיצוני";
+$Definition[
+    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
+] =
+    "חיפוש חיצוני מחליף את החיפוש מחוץ לקופסה של Vanilla בספק חיפוש של צד שלישי לבחירתך.";
 
-$Definition['Facebook Connector'] = 'מחבר פייסבוק';
-$Definition['Facebook Settings'] = 'הגדרות פייסבוק.';
-$Definition['Failed to authenticate your password reset request. Try using the reset request form again.'] = 'אימות בקשת איפוס הסיסמה שלך נכשל. נסה להשתמש שוב בטופס בקשת האיפוס.';
-$Definition['Failed to disable the rule'] = 'השבתת הכלל נכשלה';
-$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'טעינת נתוני התצוגה המקדימה נכשלה. בדוק את ערכי הטריגר והפעולה שלך.';
-$Definition['Failure'] = 'נכשל';
-$Definition['Fallback Image'] = 'תמונת Fallback';
-$Definition['False'] = 'שֶׁקֶר';
-$Definition['Favicon'] = 'סמל';
-$Definition['FaviconBrowse'] = 'חיפוש סמל חדש אם ברצונך לשנות אותו:';
-$Definition['FaviconDescription'] = 'סמל המועדפים של האתר שלך מופיע בפס הכותרת של הדפדפן. הוא יוקטן באופן פרופורציונלי.';
-$Definition['Featured'] = 'מומלצים';
-$Definition['Featured Image'] = 'תמונה מוצגת';
-$Definition['Feature is not configured'] = 'התכונה לא מוגדרת';
-$Definition['FileUpload is currently OFF'] = 'העלאת קבצים לא פעילה';
-$Definition['FileUpload is currently ON'] = 'העלאת קבצים כרגע מופעלת ';
-$Definition['Filter'] = 'מסנן';
-$Definition['Filter By'] = 'סינון לפי';
-$Definition['Filter Results'] = 'תוצאות סינון';
-$Definition['Fingerprint'] = 'תביעת אצבע';
-$Definition['Finished'] = 'סיים';
-$Definition['First Visit'] = 'ביקור ראשון';
-$Definition['Flagged By'] = 'סומן בדגל על ידי ';
-$Definition['Flagged Content'] = 'תוכן מסומן';
-$Definition['Flood Control'] = 'מניעת הצפה';
-$Definition['Follow categories:'] = 'עקוב אחר קטגוריות:';
-$Definition['Follow category'] = 'עקוב אחר הקטגוריה';
-$Definition['Follow Up Delay'] = 'עיכוב מעקב';
-$Definition['Footer'] = 'כותרת תחתונה';
-$Definition['for'] = 'עֲבוּר';
-$Definition['Forbidden words'] = 'מילים אסורות';
-$Definition['Force the forum to only be accessible through this url'] = 'אפשר לגשת לפורום רק דרך הכתובת הבאה';
-$Definition['Force your forum to be viewed through the Remote Url'] = 'אפשר צפייה בפורום רק דרך הכתובת הבאה';
-$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'לדוגמה, כדי לאפשר yourdomain.com, www.yourdomain.com ו-help.yourdomain.com, תוסיף את *.yourdomain.com';
-$Definition['Formats'] = 'פורמטים';
-$Definition['Formatting Posts'] = 'עיצוב פוסטים';
-$Definition['Forum Data'] = 'נתוני פורום';
-$Definition['Forum Settings'] = 'הגדרות הפורום';
-$Definition['Frequency'] = 'תדירות';
-$Definition['Friendly and Personal'] = 'ידידותי ואישי';
-$Definition['From Email Address'] = 'מכתובת המייל';
-$Definition['From Name'] = 'מהשם';
-$Definition['Full post in email notifications'] = 'הפוסט המלא בהתראות במייל';
+$Definition["Facebook Connector"] = "מחבר פייסבוק";
+$Definition["Facebook Settings"] = "הגדרות פייסבוק.";
+$Definition["Failure"] = "נכשל";
+$Definition["Fallback Image"] = "תמונת Fallback";
+$Definition["False"] = "שֶׁקֶר";
+$Definition["Favicon"] = "סמל";
+$Definition["FaviconBrowse"] =
+    "חיפוש סמל חדש אם ברצונך לשנות אותו:";
+$Definition["FaviconDescription"] =
+    "סמל המועדפים של האתר שלך מופיע בפס הכותרת של הדפדפן. הוא יוקטן באופן פרופורציונלי.";
+$Definition["Feature is not configured"] = "התכונה לא מוגדרת";
+$Definition["Featured"] = "מומלצים";
+$Definition["Featured Image"] = "תמונה מוצגת";
+$Definition["FileUpload is currently OFF"] = "העלאת קבצים לא פעילה";
+$Definition["FileUpload is currently ON"] = "העלאת קבצים כרגע מופעלת ";
+$Definition["Filter"] = "מסנן";
+$Definition["Filter By"] = "סינון לפי";
+$Definition["Filter Results"] = "תוצאות סינון";
+$Definition["Finished"] = "סיים";
+$Definition["Fingerprint"] = "תביעת אצבע";
+$Definition["First Visit"] = "ביקור ראשון";
+$Definition["Flagged By"] = "סומן בדגל על ידי ";
+$Definition["Flagged Content"] = "תוכן מסומן";
+$Definition["Flood Control"] = "מניעת הצפה";
+$Definition["Forbidden words"] = "מילים אסורות";
+$Definition["Follow Up Delay"] = "עיכוב מעקב";
+$Definition[
+    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
+] =
+    "לדוגמה, כדי לאפשר yourdomain.com, www.yourdomain.com ו-help.yourdomain.com, תוסיף את *.yourdomain.com";
+$Definition["Force the forum to only be accessible through this url"] =
+    "אפשר לגשת לפורום רק דרך הכתובת הבאה";
+$Definition["Force your forum to be viewed through the Remote Url"] =
+    "אפשר צפייה בפורום רק דרך הכתובת הבאה";
+$Definition["Formats"] = "פורמטים";
+$Definition["Footer"] = "כותרת תחתונה";
+$Definition["Forum Data"] = "נתוני פורום";
+$Definition["Forum Settings"] = "הגדרות הפורום";
+$Definition["Frequency"] = "תדירות";
+$Definition["Friendly and Personal"] = "ידידותי ואישי";
+$Definition["From Email Address"] = "מכתובת המייל";
+$Definition["From Name"] = "מהשם";
+$Definition["Full post in email notifications"] =
+    "הפוסט המלא בהתראות במייל";
 
-$Definition['Garden'] = 'גן';
-$Definition['Garden.api.ssoIDPermission.description'] = 'תפקידים עם הרשאה זו יוכלו להרחיב מזהי SSO בשיחות API v2.';
-$Definition['Gave badge to users.'] = 'תן תג למשתמשים.';
-$Definition['Generate'] = 'יצירה';
-$Definition['Generate Client ID and Secret'] = 'יצירת מספר מזהה של משתמש וקוד סודי';
-$Definition['Generate import SQL only'] = 'צור SQL יבוא בלבד';
-$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'הפקת הצעות. תקבל הודעה כשהם מוכנים לבדיקה.';
-$Definition['Get More Applications'] = 'הוספת אפליקציות';
-$Definition['Get More Plugins'] = 'הוספת תוספות';
-$Definition['Get More Themes'] = 'הוספת ערכות נושא';
-$Definition['Getting Started'] = 'למתחילים';
-$Definition['Getting Started with Vanilla'] = 'איך להתחיל עם Vanilla';
-$Definition['give'] = 'לתת';
-$Definition['Give a Badge'] = 'לתת תג';
-$Definition['Given Indexes'] = 'אינדקסים';
-$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'שלום רב. אני עוזר ההצעות של AI שלך, כאן כדי לעזור לך למצוא מאמרים ופוסטים רלוונטיים כדי לענות על השאלות שלך. אנא אל תהסס לשאול כל שאלה שיש לך.';
-$Definition['guest'] = 'אורח';
-$Definition['Guest roles'] = 'סמן את כל התפקידים אשר צריכים לחול על אורח.';
-$Definition['Guide Article Pages'] = 'מדריך דפי מאמרים';
+$Definition["Garden"] = "גן";
+$Definition["Garden.api.ssoIDPermission.description"] =
+    "תפקידים עם הרשאה זו יוכלו להרחיב מזהי SSO בשיחות API v2.";
+$Definition["Gave badge to users."] = "תן תג למשתמשים.";
+$Definition["Generate"] = "יצירה";
+$Definition["Generate Client ID and Secret"] = "יצירת מספר מזהה של משתמש וקוד סודי";
+$Definition["Generate import SQL only"] = "צור SQL יבוא בלבד";
+$Definition[
+    "Generating Suggestions. You will be notified when they are ready for you to review."
+] =
+    "הפקת הצעות. תקבל הודעה כשהם מוכנים לבדיקה.";
+$Definition["Get More Applications"] = "הוספת אפליקציות";
+$Definition["Get More Plugins"] = "הוספת תוספות";
+$Definition["Get More Themes"] = "הוספת ערכות נושא";
+$Definition["Getting Started"] = "למתחילים";
+$Definition["Getting Started with Vanilla"] = "איך להתחיל עם Vanilla";
+$Definition["give"] = "לתת";
+$Definition["Give a Badge"] = "לתת תג";
+$Definition["Given Indexes"] = "אינדקסים";
+$Definition[
+    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
+] =
+    "שלום רב. אני עוזר ההצעות של AI שלך, כאן כדי לעזור לך למצוא מאמרים ופוסטים רלוונטיים כדי לענות על השאלות שלך. אנא אל תהסס לשאול כל שאלה שיש לך.";
+$Definition["guest"] = "אורח";
+$Definition["Guest roles"] =
+    "סמן את כל התפקידים אשר צריכים לחול על אורח.";
 
-$Definition['has been unanswered'] = 'לא נענתה';
-$Definition['Hash Algorithm'] = 'אלגוריתם Hash';
-$Definition['has not received any comments'] = 'לא קיבלו הערות';
-$Definition['Header'] = 'כותרת עליונה';
-$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} הוסיף חשבון עבור {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} שונתה {ActivityUserID,your} תמונת פרופיל.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} אשר את היישומים עבור {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
-$Definition['Heads Up!'] = 'הרימו ראש!';
-$Definition['Heads up!'] = 'זהירות!';
-$Definition['Height'] = 'גובה';
-$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = 'שלום לך! אני עוזר ההצעות של AI שלך, כאן כדי לעזור לך למצוא את המאמרים והפוסטים הטובים ביותר כדי לענות על השאלות שלך. אל תהסס לשאול כל דבר, אני כאן כדי להפוך את החיפוש שלך למהנה ואינפורמטיבי!';
-$Definition['Help &amp; Tutorials'] = 'עזרה & הדרכה';
-$Definition['Help Center Article Pages'] = 'דפי מאמרים במרכז העזרה';
-$Definition['Help Center Category Pages'] = 'דפי קטגוריות במרכז העזרה';
-$Definition['Help Center Home Pages'] = 'דפי הבית של מרכז העזרה';
+$Definition["Hash Algorithm"] = "אלגוריתם Hash";
+$Definition["HeadlineFormat.AddUser"] =
+    "{ActivityUserID,user} הוסיף חשבון עבור {RegardingUserID,user}.";
+$Definition["HeadlineFormat.PictureChange"] =
+    "{RegardingUserID,You} שונתה {ActivityUserID,your} תמונת פרופיל.";
+$Definition["HeadlineFormat.RegistrationApproval"] =
+    "{ActivityUserID,user} אשר את היישומים עבור {RegardingUserID,user}.";
+$Definition["HeadlineFormat.Status"] = "{ActivityUserID,user}";
+$Definition["HeadlineFormat.WallPost"] =
+    "{RegardingUserID,you} → {ActivityUserID,you}";
+$Definition["Heads up!"] = "זהירות!";
+$Definition["Heads Up!"] = "הרימו ראש!";
+$Definition["Header"] = "כותרת עליונה";
+$Definition["Height"] = "גובה";
+$Definition[
+    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
+] =
+    "שלום לך! אני עוזר ההצעות של AI שלך, כאן כדי לעזור לך למצוא את המאמרים והפוסטים הטובים ביותר כדי לענות על השאלות שלך. אל תהסס לשאול כל דבר, אני כאן כדי להפוך את החיפוש שלך למהנה ואינפורמטיבי!";
+$Definition["Help &amp; Tutorials"] = "עזרה & הדרכה";
 $Definition['Here\'s how to get started:'] = 'הדרך הקלה להתחיל:';
-$Definition['Hidden for everything!'] = 'מוסתר להכל!';
-$Definition['Hidden for mobile'] = 'מוסתר רק מטלפון סלולרי';
-$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'הסתר דיונים מדיונים וווידג\'טים אחרונים.';
-$Definition['Hide Pocket Locations'] = 'הסתר מיקומים של כיסים';
-$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'הסתר פוסטים מדף הפוסטים האחרונים ומהווידג\'טים.';
-$Definition['Hide signatures for guests'] = 'החבא חתימות עבור אורחים';
-$Definition['Hide signatures on embedded comments'] = 'החבא חתימות בתגובות מוטמעות';
-$Definition['Hide Suggestions'] = 'הסתר הצעות';
-$Definition['History'] = 'הִיסטוֹרִיָה';
-$Definition['Home Layout Settings'] = 'הגדרות פריסת הבית';
-$Definition['Home Layout Version'] = 'גרסת פריסת בית';
-$Definition['Homepage'] = 'דף הבית';
-$Definition['Home Pages'] = 'דפי בית';
-$Definition['Homepage Title'] = 'כותרת לדף הבית';
-$Definition['Homepage titles can only be between 1 and 500 characters'] = 'כותרות דף הבית יכולות להיות באורך של בין 1 ל-500 תווים בלבד';
-$Definition['Hot (score + activity)'] = 'חם (ציון + פעילות)';
-$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'עם זאת, זה בא עם אחריות מוגברת להבטיח את אבטחת האתר שלך.';
-$Definition['How the content is going to be filtered.'] = 'איך התוכן הולך להיות מסונן.';
-$Definition['How to use themes'] = 'איך להשתמש בערכות עיצוב';
-$Definition['HTML Emails'] = 'אימיילים HTML';
-$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'הגדרות אבטחת תעבורת HTTP מחמירה (HSTS)';
+$Definition["Hidden for everything!"] = "מוסתר להכל!";
+$Definition["Hidden for mobile"] = "מוסתר רק מטלפון סלולרי";
+$Definition["Hide discussions from Recent Discussions and Widgets."] =
+    "הסתר דיונים מדיונים וווידג'טים אחרונים.";
+$Definition["Hide posts from Recent Posts Page and Widgets."] =
+    "הסתר פוסטים מדף הפוסטים האחרונים ומהווידג'טים.";
+$Definition["Hide Pocket Locations"] = "הסתר מיקומים של כיסים";
+$Definition["Hide signatures for guests"] = "החבא חתימות עבור אורחים";
+$Definition["Hide signatures on embedded comments"] =
+    "החבא חתימות בתגובות מוטמעות";
+$Definition["Hide Suggestions"] = "הסתר הצעות";
+$Definition["History"] = "הִיסטוֹרִיָה";
+$Definition["Homepage"] = "דף הבית";
+$Definition["Homepage Title"] = "כותרת לדף הבית";
+$Definition["How the content is going to be filtered."] =
+    "איך התוכן הולך להיות מסונן.";
+$Definition["How to use themes"] = "איך להשתמש בערכות עיצוב";
+$Definition[
+    "However, this comes with increased responsibility to ensure the security of your site."
+] =
+    "עם זאת, זה בא עם אחריות מוגברת להבטיח את אבטחת האתר שלך.";
+$Definition["Html"] = "Html";
+$Definition["HTML Emails"] = "אימיילים HTML";
+$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
+    "הגדרות אבטחת תעבורת HTTP מחמירה (HSTS)";
+$Definition["Hot (score + activity)"] = "חם (ציון + פעילות)";
 
-$Definition['Icon Name'] = 'שם סמל';
-$Definition['Icon Packs'] = 'חבילות אייקונים';
-$Definition['Icon Size'] = 'גודל סמל';
-$Definition['Icon Type'] = 'סוג סמל';
-$Definition['Idea Pages'] = 'דפי רעיונות';
-$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'אם זה מופעל, התוכן המלא של הפוסטים יישלח בהודעות דוא"ל למשתמשים.';
-$Definition['If left empty, Email Logo is used.'] = 'אם נותר ריק, נעשה שימוש בלוגו של אימייל.';
-$Definition['If this option is enabled, replies from the Original Poster will have an OP indicator.'] = 'אם אפשרות זו מופעלת, לתשובות מהפוסטר המקורי יהיה מחוון OP.';
-$Definition['If you have a link to internal document in \'Link to Terms of Use\' above, \'Terms of Use Text\' will be ignored. Remove the link if you want to use this text.'] = 'אם יש לך קישור למסמך פנימי ב\'קישור לתנאי השימוש\' למעלה, \'טקסט תנאי השימוש\' יתעלם. הסר את הקישור אם ברצונך להשתמש בטקסט זה.';
-$Definition['Inbox Page'] = 'דף דואר נכנס';
-$Definition['Include Child Categories'] = 'כלול קטגוריות ילדים';
-$Definition['Include Featured Images'] = 'כלול תמונות נבחרות';
-$Definition['Include featured images with posts in email digest'] = 'כלול תמונות מוצגות עם פוסטים בתמצית הדוא"ל';
-$Definition['Include full post in email notifications'] = 'צירוף הודעה מלאה בהתראות דואר אלקטרוני';
-$Definition['Include internal profile fields'] = 'כלול שדות פרופיל פנימיים';
-$Definition['Include private profile fields'] = 'כלול שדות פרופיל פרטי';
-$Definition['Include Subcategories'] = 'צירוף תת-קטגוריות';
-$Definition['Include Subdomains'] = 'כלול דומיינים משניים';
-$Definition['Increased Security Risks:'] = 'סיכוני אבטחה מוגברים:';
-$Definition['Indexes'] = 'אינדקסים';
-$Definition['indicator navigation'] = 'ניווט מחוון';
-$Definition['Information'] = 'מידע';
-$Definition['In Jira'] = 'בג\'ירה';
-$Definition['InputFormatter.Notes1'] = 'בחירת פורמט ברירת מחדל עבור עריכה של הודעות בפורומים.';
-$Definition['InputFormatter.Notes2'] = 'העורך יזהה אוטומטית את ההודעות הישנות בעריכה שלהם ויטען אותן בפורמט מקורי לפי כללים. היוצא דופן, על ידי בחירת פורמט להצגה של ההודעה.';
-$Definition['Install Vanilla without a .htaccess file.'] = 'התקן את Vanilla בלי קובץ .htcaccess';
-$Definition['Integrate Banner Image'] = 'שלב תמונת כרזה';
-$Definition['Integrations'] = 'אינטגרציות';
-$Definition['Interest Name'] = 'שם עניין';
-$Definition['Interests & Suggested Content'] = 'תחומי עניין ותוכן מוצע';
-$Definition['Intermediate'] = 'ביניים';
-$Definition['Internal Comment'] = 'הערה פנימית';
-$Definition['Internal Comments'] = 'הערות פנימיות';
-$Definition['Internaltionalization & Localization'] = 'בין לאומיות & התאמות מקומיות';
-$Definition['Introducing Vanilla Reactions and Badges'] = 'ועכשיו - תגובות וסמלים בתוך Vanilla';
-$Definition['Introduction'] = 'מבוא';
-$Definition['Invalid category for deletion.'] = 'קטגוריה לא תקינה להסרה';
-$Definition['Invalid entry.'] = 'ערך לא חוקי.';
-$Definition['Invisibility Cloak Settings'] = 'הגדרות גלימת היעלמות';
-$Definition['Invitation Code'] = 'קוד הזמנה';
-$Definition['InvitationMessage'] = 'היי חבוב, 
+$Definition[
+    "If enabled, the full content of posts will be sent in email notifications to users."
+] =
+    "אם זה מופעל, התוכן המלא של הפוסטים יישלח בהודעות דוא\"ל למשתמשים.";
+$Definition["If left empty, Email Logo is used."] =
+    "אם נותר ריק, נעשה שימוש בלוגו של אימייל.";
+$Definition[
+    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
+] =
+    "אם יש לך קישור למסמך פנימי ב'קישור לתנאי השימוש' למעלה, 'טקסט תנאי השימוש' יתעלם. הסר את הקישור אם ברצונך להשתמש בטקסט זה.";
+$Definition["Inbox Page"] = "דף דואר נכנס";
+$Definition["Include Child Categories"] = "כלול קטגוריות ילדים";
+$Definition["Include full post in email notifications"] =
+    "צירוף הודעה מלאה בהתראות דואר אלקטרוני";
+$Definition["Include Featured Images"] = "כלול תמונות נבחרות";
+$Definition["Include featured images with posts in email digest"] =
+    "כלול תמונות מוצגות עם פוסטים בתמצית הדוא\"ל";
+$Definition["Include internal profile fields"] =
+    "כלול שדות פרופיל פנימיים";
+$Definition["Include private profile fields"] =
+    "כלול שדות פרופיל פרטי";
+$Definition["Include Subcategories"] = "צירוף תת-קטגוריות";
+$Definition["Include Subdomains"] = "כלול דומיינים משניים";
+$Definition["Increased Security Risks:"] = "סיכוני אבטחה מוגברים:";
+$Definition["Indexes"] = "אינדקסים";
+$Definition["Information"] = "מידע";
+$Definition["Install Vanilla without a .htaccess file."] =
+    "התקן את Vanilla בלי קובץ .htcaccess";
+$Definition["Integrate Banner Image"] = "שלב תמונת כרזה";
+$Definition["Interest Name"] = "שם עניין";
+$Definition["Interests & Suggested Content"] = "תחומי עניין ותוכן מוצע";
+$Definition["Intermediate"] = "ביניים";
+$Definition["Internaltionalization & Localization"] =
+    "בין לאומיות & התאמות מקומיות";
+$Definition["Introduction"] = "מבוא";
+$Definition["Introducing Vanilla Reactions and Badges"] =
+    "ועכשיו - תגובות וסמלים בתוך Vanilla";
+$Definition["Invalid category for deletion."] =
+    "קטגוריה לא תקינה להסרה";
+$Definition["Invalid entry."] = "ערך לא חוקי.";
+$Definition["Invisibility Cloak Settings"] = "הגדרות גלימת היעלמות";
+$Definition["Invitation Code"] = "קוד הזמנה";
+$Definition["InvitationMessage"] = 'היי חבוב, 
 בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
-$Definition['Invitation not found.'] = 'ההזמנה לא נמצאה.';
-$Definition['Invitations per month'] = 'הזמנות לחודש';
-$Definition['Invitations will expire'] = 'תוקפן של ההזמנות יפוג';
-$Definition['Invited by'] = 'הוזמן על ידי';
-$Definition['In Zendesk'] = 'בזנדסק';
-$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'נראה שערכת את ההודעה שלך. <0/> או <1/>.';
+$Definition["Invitations per month"] = "הזמנות לחודש";
+$Definition["Invitations will expire"] = "תוקפן של ההזמנות יפוג";
+$Definition["Invited by"] = "הוזמן על ידי";
+$Definition["It looks like you edited your post. <0/> or <1/>."] =
+    "נראה שערכת את ההודעה שלך. <0/> או <1/>.";
 
-$Definition['jsConnect Client Libraries'] = 'ספריות jsConnect Client';
-$Definition['jsConnect Documentation'] = 'תיעוד jsConnect';
+$Definition["JavaScript"] = "JavaScript";
+$Definition["jsConnect Client Libraries"] = "ספריות jsConnect Client";
+$Definition["jsConnect Documentation"] = "תיעוד jsConnect";
+$Definition["JS"] = "JS";
 
-$Definition['Key Type'] = 'סוג המפתח';
-$Definition['Key Value'] = 'ערך המפתח';
-$Definition['Keyword Blocker'] = 'חוסר מילות מפתח';
-$Definition['Knowledge Base Home Pages'] = 'דפי הבית של מאגר הידע';
-$Definition['Knowledge Base Layout Settings'] = 'הגדרות פריסת מאגר הידע';
-$Definition['Knowledge Base Layout Version'] = 'גרסת פריסת מאגר הידע';
-$Definition['Knowledge Base Pages'] = 'דפי מאגר הידע';
+$Definition["Key Type"] = "סוג המפתח";
+$Definition["Key Value"] = "ערך המפתח";
+$Definition["Keyword Blocker"] = "חוסר מילות מפתח";
 
-$Definition['Label'] = 'תווית';
-$Definition['Label is required'] = 'נדרשת תווית';
-$Definition['Label this Revision'] = 'תייג את התיקון';
-$Definition['Language Style'] = 'סגנון שפה';
-$Definition['Large images will be scaled down.'] = 'תמונות גדולות יוקטנו לרוחב מרבי של %spx ואורך מרבי של %spx. ';
-$Definition['Last Day'] = 'יום אחרון';
-$Definition['Last Modified'] = 'שונה לאחרונה';
-$Definition['Last Month'] = 'חודש שעבר';
-$Definition['Last refreshed <0/> by <1/>.'] = 'רענון אחרון <0/> על ידי <1/>.';
-$Definition['Last Reported'] = 'דיווח אחרון';
-$Definition['Last reported'] = 'דווח לאחרונה';
-$Definition['Last Visit'] = 'ביקור אחרון';
-$Definition['Last Week'] = 'שבוע שעבר';
+$Definition["Label"] = "תווית";
+$Definition["Label is required"] = "נדרשת תווית";
+$Definition["Label this Revision"] = "תייג את התיקון";
+$Definition["Language Style"] = "סגנון שפה";
+$Definition["Large images will be scaled down."] =
+    "תמונות גדולות יוקטנו לרוחב מרבי של %spx ואורך מרבי של %spx. ";
+$Definition["Last Visit"] = "ביקור אחרון";
+$Definition["Last Day"] = "יום אחרון";
+$Definition["Last Week"] = "שבוע שעבר";
+$Definition["Last Month"] = "חודש שעבר";
 $Definition['Layman\'s Terms'] = 'תנאי הדיוט';
-$Definition['Layout'] = 'פריסה';
-$Definition['Layout Options'] = 'אפשרויות פריסה';
-$Definition['Layouts'] = 'פריסות';
-$Definition['Learn more'] = 'למד עוד';
-$Definition['Learn more.'] = 'למידע נוסף.';
-$Definition['Learn more about HSTS at %s.'] = 'ניתן ללמוד עוד על  HSTS ב-%s.';
-$Definition['Legacy Category Layout'] = 'פריסת קטגוריה מדור קודם';
-$Definition['Legacy Category Layouts'] = 'פריסות קטגוריות מדור קודם';
-$Definition['Legacy Create Post Layout'] = 'מדור קודם צור פריסת פוסט';
-$Definition['Legacy Create Post Layouts'] = 'מדור קודם יצירת פריסות פוסטים';
-$Definition['Legacy Event Layout'] = 'פריסת אירוע מדור קודם';
-$Definition['Legacy Event Layouts'] = 'פריסות אירועים מדור קודם';
-$Definition['Legacy Home Layouts'] = 'פריסות בית מדור קודם';
-$Definition['Legacy Knowledge Base Layout'] = 'פריסת מאגר ידע מדור קודם';
-$Definition['Legacy Knowledge Base Layouts'] = 'פריסות מאגר ידע מדור קודם';
-$Definition['Legacy Layouts enabled'] = 'פריסות מדור קודם מופעלות';
-$Definition['Legacy Post Layout'] = 'פריסת פוסט מדור קודם';
-$Definition['Legacy Post Layouts'] = 'פריסות פוסטים מדור קודם';
-$Definition['Legacy Recent Posts Layout'] = 'פריסת פוסטים אחרונים מדור קודם';
-$Definition['Legacy Recent Posts Layouts'] = 'פריסות פוסטים אחרונים מדור קודם';
-$Definition['Level'] = 'רמה';
-$Definition['Level of Technical Language'] = 'רמת שפה טכנית';
-$Definition['Likes'] = 'לייקים';
-$Definition['Limit'] = 'לְהַגבִּיל';
-$Definition['Limits: 60 characters, no breaks.'] = 'מגבלות: 60 תווים, ללא הפסקות.';
-$Definition['Limit the pocket to one or more roles or permissions.'] = 'הגבל את הכיסים לאחד יותר תפקידים או הרשאות.';
-$Definition['Link Color'] = 'צבע קישור';
-$Definition['List of discussion IDs to delete.'] = 'רשימת מזהי דיונים למחיקה.';
-$Definition['Live'] = 'לִחיוֹת';
-$Definition['Live Post'] = 'פוסט חי';
-$Definition['Loader'] = 'מטעין';
-$Definition['Locale Key (Folder)'] = 'מפתח אזורי (תיקייה)';
-$Definition['Locale Name'] = 'שפה';
-$Definition['Locales'] = 'שפות';
-$Definition['Location'] = 'מיקום';
-$Definition['Locations'] = 'מיקומים';
-$Definition['Logo'] = 'לוגו';
-$Definition['LogoBrowse'] = 'חיפוש לוגו חדש לבאנר אם ברצונך להחליף אותו:';
+$Definition["Layout"] = "פריסה";
+$Definition["Learn more"] = "למד עוד";
+$Definition["Learn more about HSTS at %s."] = "ניתן ללמוד עוד על  HSTS ב-%s.";
+$Definition["Legacy Recent Posts Layout"] = "פריסת פוסטים אחרונים מדור קודם";
 
-$Definition['Maintenance Mode'] = 'מצב תחזוקה';
-$Definition['Make sure you select at least one item before continuing.'] = 'וודא שבחרת לפחות פריט אחד לפני שאתה ממשיך.';
-$Definition['Manage'] = 'ניהול';
-$Definition['Manage Applicants'] = 'ניהול מועמדים';
-$Definition['Manage Applications'] = 'ניהול אפליקציות';
-$Definition['Manage Badge Requests'] = 'ניהול בקשות לתגים';
-$Definition['Manage Badges'] = 'ניהול תגים';
-$Definition['Manage Categories'] = 'ניהול קטגוריות';
-$Definition['Manage Groups'] = 'נהל קבוצות';
-$Definition['Manage Icon'] = 'ניהול אייקון';
-$Definition['Manage Icon helptext'] = 'אתה יכול לנהל מערכת ואייקונים היסטוריים כאן. בעת ההעלאה, ודא שהסמל הוא בפורמט SVG, כולל מאפיין viewBox ומשתמש בצבע #000000 כדי להבטיח שניתן לצבוע אותו באופן דינמי על סמך הגדרות ערכת נושא ואינטראקציות משתמש. רק אייקון אחד מכל סוג יכול להיות פעיל בכל פעם.';
-$Definition['Manage Icons'] = 'נהל אייקונים';
-$Definition['Manage Messages'] = 'ניהול מסרים';
-$Definition['Manage Plugins'] = 'ניהול תוספות';
-$Definition['Manage Roles & Permissions'] = 'ניהול הרשאות ותפקידים';
-$Definition['Manage Spam'] = 'ניהול ספאם';
-$Definition['Manage Suggested Answer Sources'] = 'נהל מקורות תשובות מוצעים';
-$Definition['Manage Themes'] = 'ניהול ערכות נושא';
-$Definition['Manage Users'] = 'ניהול משתמשים';
-$Definition['Managing Categories'] = 'ניהול קטגוריות';
-$Definition['Manual'] = 'ידני';
-$Definition['Mark All Suggested Answers as Accepted'] = 'סמן את כל התשובות המוצעות כמקובלות';
-$Definition['Max %s length'] = 'אורך מקסימלי של %s';
-$Definition['Max Age'] = 'גיל מרבי';
-$Definition['Max Avatar Height'] = 'גובה אוואטר מקסימלי';
-$Definition['Max Avatar Width'] = 'רוחב אווטאר מקסימלי ';
-$Definition['Max Comment Length'] = 'אורך תגובה מקסימלי.';
-$Definition['Max height of %s'] = 'גובה מקסימלי של %s';
-$Definition['Max height of %s in pixels'] = 'גובה מקסימלי של %s בפיקסלים';
-$Definition['Maximum Category Display Depth'] = 'עומק תצוגת קטגוריות מקסימלי';
-$Definition['Maximum Limit Reached'] = 'הגבול המקסימלי הושג';
-$Definition['Maximum number of posts to be included in the email digest.'] = 'מספר מקסימלי של פוסטים שייכללו בתמצית האימייל.';
-$Definition['Max number of %s'] = 'כמות מקסימלית של %s';
-$Definition['Max number of images in signature'] = 'מספר תמונות מרבי בחתימה';
-$Definition['Max Post Length'] = 'אורך פוסט מקסימלי';
-$Definition['Max signature length'] = 'אורך חתימה מרבי';
-$Definition['member'] = 'רשום';
-$Definition['Member roles'] = 'סמן את כל התפקידים שאתה רוצה שישויכו למשתמשים חדשים/מאושרים.';
-$Definition['Membership'] = 'חברות';
-$Definition['Message'] = 'הודעה';
-$Definition['Message ID'] = 'ID של ההודעה';
-$Definition['Message Post Author'] = 'מחבר פוסט';
-$Definition['Messages'] = 'הודעות';
-$Definition['Meta Options'] = 'אפשרויות מטה';
-$Definition['Meta Tags'] = 'מטא תגים';
-$Definition['Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line.'] = 'מטא תגים משמשים לאימות דומיין עבור Google Search Console ושירותים אחרים. העתק את המטא תגים הנדרשים מהמקור שלך והדבק על שורה חדשה.';
-$Definition['Method'] = 'שיטה';
-$Definition['Min Post Length'] = 'אורך פוסט מינימלי';
-$Definition['minute(s)'] = 'דקות';
-$Definition['Mixed Layout'] = 'פריסה מעורבת';
-$Definition['Mobile Address Bar Color'] = 'צבע סרגל כתובת הנייד';
-$Definition['Mobile Banner Logo'] = 'לוגו כרזה לנייד';
-$Definition['Mobile Format'] = 'פורמט טלפון נייד';
-$Definition['MobileInputFormatter.Notes1'] = 'ציון פורמט עריכה עבור טלפונים ניידים.';
-$Definition['MobileInputFormatter.Notes2'] = 'אם טלפון נייד חווה את אותו הדבר, אנא בחרו את אותו הדבר מעל. אם משתמשים מדווחים על בעיות בעריכה מטלפונים ניידים, זו היא אפשרות טובה לשינוי.';
-$Definition['Mobile Logo'] = 'לוגו נייד';
-$Definition['Mobile Themes'] = 'ערכות נושא לנייד';
-$Definition['Moderation Content'] = 'תוכן ניהול';
-$Definition['moderator'] = 'הנהלה';
-$Definition['Moderators have permission to edit most content.'] = 'לעורכים אין הרשאות לערוך את רוב התוכן';
-$Definition['Modern Layout'] = 'תצוגה מודרנית';
-$Definition['Modern non-table-based layout'] = 'תצוגה מודרנית שאינה מבוססת על טבלאות';
-$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'שפה מורכבת יותר ועשויה להציג כמה מונחים ספציפיים לתעשייה, אך עדיין מובנת לרוב האנשים.';
-$Definition['More information'] = 'מידע נוסף';
-$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'שפה טכנית יותר ומונחים ספציפיים לתעשייה -- מניחה רמת טכנולוגיה גבוהה יותר של הבנה/היכרות עם הנושא.';
-$Definition['more than %s deep'] = 'יותר מ-%sעמוק';
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'עבור רוב הכיסים - אין צורך להציג בלוח הבקרה';
-$Definition['Move discussions in this category to a replacement category.'] = 'הזז את הדיונים מהקטגוריה הזו לקטגוריה חלופית.';
-$Definition['Move post'] = 'העבר את הפוסט';
-$Definition['Move to category:'] = 'מעבר לקטגוריה:';
-$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'שדות בחירה מרובים יופעלו אם המשתמש יעמוד באחד מהקריטריונים.';
-$Definition['My Invitations'] = 'ההזמנות שלי';
-$Definition['My Profile'] = 'הפרופיל שלי';
+$Definition["Level"] = "רמה";
+$Definition["Level of Technical Language"] = "רמת שפה טכנית";
+$Definition["Limits: 60 characters, no breaks."] =
+    "מגבלות: 60 תווים, ללא הפסקות.";
+$Definition["Link Color"] = "צבע קישור";
+$Definition["Likes"] = "לייקים";
+$Definition["Limit the pocket to one or more roles or permissions."] =
+    "הגבל את הכיסים לאחד יותר תפקידים או הרשאות.";
+$Definition["Limit"] = "לְהַגבִּיל";
+$Definition["List of discussion IDs to delete."] =
+    "רשימת מזהי דיונים למחיקה.";
+$Definition["Locale Key (Folder)"] = "מפתח אזורי (תיקייה)";
+$Definition["Locale Name"] = "שפה";
+$Definition["Locales"] = "שפות";
+$Definition["Location"] = "מיקום";
+$Definition["Locations"] = "מיקומים";
+$Definition["Logo"] = "לוגו";
+$Definition["LogoBrowse"] =
+    "חיפוש לוגו חדש לבאנר אם ברצונך להחליף אותו:";
 
-$Definition['Name of Interest'] = 'שם עניין';
-$Definition['Need More Help?'] = 'צריכים עזרה?';
-$Definition['Nested Category Pages'] = 'דפי קטגוריה מקוננים';
-$Definition['never'] = 'אף פעם';
-$Definition['Never - Users Must Refresh Page'] = 'לעולם לא - משתמשים חייבים לרענן את הדף';
-$Definition['Never display on mobile browsers.'] = 'לעולם עם תציג על דפדפן במכשיר סלולרי';
-$Definition['New/Updated Email domain'] = 'דומיין דוא"ל חדש/מעודכן';
-$Definition['New/Updated Profile field'] = 'שדה פרופיל חדש/מעודכן';
-$Definition['NewApplicantEmail'] = 'מומעד חדש:';
-$Definition['New comments in the last day'] = 'הערות חדשות מהיום האחרון';
-$Definition['New comments in the last week'] = 'הערות חדשות מהשבוע האחרון';
-$Definition['New Community Management System'] = 'מערכת ניהול קהילה חדשה';
-$Definition['New conversations in the last day'] = 'שיחות חדשות מהיום האחרון';
-$Definition['New conversations in the last week'] = 'שיחות חדשות מהשבוע האחרון';
-$Definition['New discussions in the last day'] = 'דיונים חדשים מהיום האחרון';
-$Definition['New discussions in the last week'] = 'דיונים חדשים מהשבוע האחרון';
-$Definition['Newest Escalation'] = 'ההסלמה החדשה ביותר';
-$Definition['Newest Post'] = 'הפוסט החדש ביותר';
-$Definition['Newest Report'] = 'הדוח החדש ביותר';
-$Definition['New Icon'] = 'סמל חדש';
-$Definition['New messages in the last day'] = 'הודעות חדשות מהיום האחרון';
-$Definition['New messages in the last week'] = 'הודעות חדשות מהשבוע האחרון';
-$Definition['New User Management'] = 'ניהול משתמשים חדש';
-$Definition['New users are only registered through SSO plugins.'] = 'משתמשים חדשים רשאים להרשם רק דרך תוספי ה-SSO';
-$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'משתמשים חדשים מאושרים רק על ידי אדמין (שזה אתה!)';
-$Definition['New users fill out a simple form and are granted access immediately.'] = 'משתמשים חדשים ממלאים טופס פשוט ומקבלים גישה מיד לאחר מכן.';
-$Definition['New users in the last day'] = 'משתמשים חדשים מהיום האחרון';
-$Definition['New users in the last week'] = 'משתמשים חדשים מהשבוע האחרון';
-$Definition['Next Slides'] = 'השקפים הבאים';
-$Definition['No Ban Rules Found'] = 'לא נמצאו כללי איסור';
-$Definition['No categories are currently set to require premoderation.'] = 'כרגע לא מוגדרות קטגוריות לדרוש ניהול מוקדם.';
-$Definition['No Change'] = 'אין שינוי';
-$Definition['No drafts.'] = 'אין טיוטות';
-$Definition['No further suggestions.'] = 'אין הצעות נוספות.';
-$Definition['No icons match those filters.'] = 'אין סמלים שתואמים למסננים האלה.';
-$Definition['No item options are available for Link display type.'] = 'אין אפשרויות פריט זמינות עבור סוג תצוגה של קישור.';
-$Definition['No Items Selected'] = 'לא נבחרו פריטים';
-$Definition['No keywords are currently set to require premoderation.'] = 'כרגע לא מוגדרות מילות מפתח לדרוש ניהול מוקדם.';
-$Definition['No report notes were provided by <0/>'] = 'לא סופקו הערות דיווח על ידי <0/>';
-$Definition['No results for %s.'] = 'אין תוצאות עבור <b>%s</b>.';
-$Definition['No roles are currently set to require premoderation.'] = 'כרגע לא מוגדרים תפקידים לדרוש ניהול מוקדם.';
-$Definition['Not Dismissable'] = 'לא ניתן להסתרה';
-$Definition['Note:'] = 'הערה:';
-$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'הערה: פעולות לא ישפיעו על <0 /> שכבר הוחלה בהן הפעולה המשויכת.';
-$Definition['Notes'] = 'הערות';
-$Definition['Note this layout change will not be visible until you switch to custom layouts.'] = 'שימו לב ששינוי פריסה זה לא יהיה גלוי עד שתעבור לפריסות מותאמות אישית.';
-$Definition['Notifications will appear here.'] = 'התראות יופיעו כאן';
-$Definition['NotifyApplicant'] = 'התרע לי כאשר מישהו מגיש בקשה לחברות.';
-$Definition['Notify me when my questions have AI Suggested Answers'] = 'הודע לי כאשר לשאלות שלי יש תשובות מוצעות בינה מלאכותית';
-$Definition['Notify me when people comment on a discussion.'] = 'תודיע לי כשמשתמשים מגיבים על דיון.';
-$Definition['Notify me when people start new discussions.'] = 'תודיע לי כשמשתמשים מתחילים דיון חדש.';
-$Definition['Not Spam'] = 'לא ספאם';
-$Definition['Number input must be between'] = 'קלט מספר חייב להיות בין';
-$Definition['Number input must be between 1 and 100.'] = 'קלט המספר חייב להיות בין 1 ל-100.';
-$Definition['Number of %s listed per page.'] = 'מספר %s הרשומים בעמוד.';
-$Definition['Number of blocked registrations'] = 'מספר ההרשמות שנחסמו';
-$Definition['Number of days before a follow-up email is automatically sent.'] = 'מספר הימים לפני שליחת דוא"ל מעקב באופן אוטומטי.';
-$Definition['Number of days since registration to bypass Cloudflare challenge'] = 'מספר הימים מאז ההרשמה כדי לעקוף את אתגר Cloudflare';
-$Definition['Number of posts'] = 'מספר פוסטים';
-$Definition['Number of posts from groups'] = 'מספר פוסטים מקבוצות';
+$Definition["Maintenance Mode"] = "מצב תחזוקה";
+$Definition["Make sure you select at least one item before continuing."] =
+    "וודא שבחרת לפחות פריט אחד לפני שאתה ממשיך.";
+$Definition["Add your site to trusted domains."] =
+    "ודא/י שהאתר שלך מתווסף ל-%s כשהטמעה זמינה.";
+$Definition["Manage"] = "ניהול";
+$Definition["Manage Applicants"] = "ניהול מועמדים";
+$Definition["Manage Applications"] = "ניהול אפליקציות";
+$Definition["Manage Badges"] = "ניהול תגים";
+$Definition["Manage Badge Requests"] = "ניהול בקשות לתגים";
+$Definition["Manage Categories"] = "ניהול קטגוריות";
+$Definition["Manage Groups"] = "נהל קבוצות";
+$Definition["Manage Messages"] = "ניהול מסרים";
+$Definition["Manage Plugins"] = "ניהול תוספות";
+$Definition["Manage Roles & Permissions"] = "ניהול הרשאות ותפקידים";
+$Definition["Manage Suggested Answer Sources"] =
+    "נהל מקורות תשובות מוצעים";
+$Definition["Manage Spam"] = "ניהול ספאם";
+$Definition["Manage Themes"] = "ניהול ערכות נושא";
+$Definition["Manage Users"] = "ניהול משתמשים";
+$Definition["Managing Categories"] = "ניהול קטגוריות";
+$Definition["Manual"] = "ידני";
+$Definition["Mark All Suggested Answers as Accepted"] =
+    "סמן את כל התשובות המוצעות כמקובלות";
+$Definition["Max %s length"] = "אורך מקסימלי של %s";
+$Definition["Max Age"] = "גיל מרבי";
+$Definition["Max Avatar Height"] = "גובה אוואטר מקסימלי";
+$Definition["Max Avatar Width"] = "רוחב אווטאר מקסימלי ";
+$Definition["Max Comment Length"] = "אורך תגובה מקסימלי.";
+$Definition["Max height of %s"] = "גובה מקסימלי של %s";
+$Definition["Max height of %s in pixels"] = "גובה מקסימלי של %s בפיקסלים";
+$Definition["Maximum Category Display Depth"] =
+    "עומק תצוגת קטגוריות מקסימלי";
+$Definition["Max number of %s"] = "כמות מקסימלית של %s";
+$Definition["Max number of images in signature"] =
+    "מספר תמונות מרבי בחתימה";
+$Definition["Maximum number of posts to be included in the email digest."] =
+    "מספר מקסימלי של פוסטים שייכללו בתמצית האימייל.";
+$Definition["Max Post Length"] = "אורך פוסט מקסימלי";
+$Definition["Max signature length"] = "אורך חתימה מרבי";
+$Definition["member"] = "רשום";
+$Definition["Member roles"] =
+    "סמן את כל התפקידים שאתה רוצה שישויכו למשתמשים חדשים/מאושרים.";
+$Definition["Membership"] = "חברות";
+$Definition["Message"] = "הודעה";
+$Definition["Message ID"] = "ID של ההודעה";
+$Definition["Messages"] = "הודעות";
+$Definition["Meta Options"] = "אפשרויות מטה";
+$Definition["Method"] = "שיטה";
+$Definition["Min Post Length"] = "אורך פוסט מינימלי";
+$Definition["minute(s)"] = "דקות";
+$Definition["Mixed Layout"] = "פריסה מעורבת";
+$Definition["Mobile Address Bar Color"] = "צבע סרגל כתובת הנייד";
+$Definition["Mobile Banner Logo"] = "לוגו כרזה לנייד";
+$Definition["Mobile Themes"] = "ערכות נושא לנייד";
+$Definition["moderator"] = "הנהלה";
+$Definition["Moderators have permission to edit most content."] =
+    "לעורכים אין הרשאות לערוך את רוב התוכן";
+$Definition["Modern Layout"] = "תצוגה מודרנית";
+$Definition["Modern non-table-based layout"] = "תצוגה מודרנית שאינה מבוססת על טבלאות";
+$Definition[
+    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
+] =
+    "שפה מורכבת יותר ועשויה להציג כמה מונחים ספציפיים לתעשייה, אך עדיין מובנת לרוב האנשים.";
+$Definition["More information"] = "מידע נוסף";
+$Definition[
+    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
+] =
+    "שפה טכנית יותר ומונחים ספציפיים לתעשייה -- מניחה רמת טכנולוגיה גבוהה יותר של הבנה/היכרות עם הנושא.";
+$Definition["more than %s deep"] = "יותר מ-%sעמוק";
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
+    'עבור רוב הכיסים - אין צורך להציג בלוח הבקרה';
+$Definition["Move discussions in this category to a replacement category."] =
+    "הזז את הדיונים מהקטגוריה הזו לקטגוריה חלופית.";
+$Definition["My Invitations"] = "ההזמנות שלי";
 
-$Definition['Oldest Escalation'] = 'ההסלמה הישנה ביותר';
-$Definition['Oldest Post'] = 'הפוסט הישן ביותר';
-$Definition['Oldest Report'] = 'הדוח הישן ביותר';
-$Definition['On'] = 'מופעל';
-$Definition['On Hold'] = 'בהמתנה';
-$Definition['Only Allow Each User To Post'] = 'אפשר למשתמש לפרסם';
-$Definition['Only display on mobile browsers.'] = 'הצג רק במכשירים ניידים';
-$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'זמינים רק שדות שהם תיבת סימון יחידה, תפריט נפתח של בחירה בודדת, תפריט נפתח של בחירה מרובת או מספרי. לאחר בחירת השדות, הם יופיעו למטה כך שתוכל לבחור תשובות ספציפיות עבור כל שדה פרופיל.';
-$Definition['Only Show Followed Categories'] = 'הצג רק קטגוריות במעקב';
-$Definition['Only show icons that are default system icons.'] = 'הצג רק אייקונים שהם סמלי מערכת ברירת מחדל.';
-$Definition['Only show icons that have been overridden with custom icons.'] = 'הצג רק סמלים שהוחלפו עם סמלים מותאמים אישית.';
-$Definition['Only visible to users with roles with permission.'] = 'גלוי רק למשתמשים בעלי תפקיד עם הרשאה.';
-$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'תיקים פתוחים יוצגו רק אם למשתמש יש חיבור תקף של Salesforce.';
-$Definition['Operation By'] = 'על ידי';
-$Definition['Organization'] = 'ארגון';
-$Definition['Organize'] = 'ניהול';
-$Definition['Organize Categories'] = 'ניהול קטגוריות';
-$Definition['Original Version'] = 'גרסה מקורית';
-$Definition['Or select an image on your computer (2mb max)'] = 'או לבחור תמונה ממחשב שלך (עד 2 מגה בייט)';
-$Definition['Or Spamblock For'] = 'או חסום עבור';
-$Definition['Other Themes'] = 'ערכות נושא אחרות';
-$Definition['Other Tutorials'] = 'מדריכים אחרים';
-$Definition['Outgoing Email'] = 'אימייל יוצא';
-$Definition['Outgoing Email Address'] = 'כתובת אימייל יוצא';
-$Definition['Outgoing Emails'] = 'מיילים יוצאים';
+$Definition["Name of Interest"] = "שם עניין";
+$Definition["Need More Help?"] = "צריכים עזרה?";
+$Definition["never"] = "אף פעם";
+$Definition["Never - Users Must Refresh Page"] =
+    "לעולם לא - משתמשים חייבים לרענן את הדף";
+$Definition["Never display on mobile browsers."] =
+    "לעולם עם תציג על דפדפן במכשיר סלולרי";
+$Definition["NewApplicantEmail"] = "מומעד חדש:";
+$Definition["New comments in the last day"] = "הערות חדשות מהיום האחרון";
+$Definition["New comments in the last week"] = "הערות חדשות מהשבוע האחרון";
+$Definition["New conversations in the last day"] =
+    "שיחות חדשות מהיום האחרון";
+$Definition["New conversations in the last week"] =
+    "שיחות חדשות מהשבוע האחרון";
+$Definition["New discussions in the last day"] =
+    "דיונים חדשים מהיום האחרון";
+$Definition["New discussions in the last week"] =
+    "דיונים חדשים מהשבוע האחרון";
+$Definition["New messages in the last day"] = "הודעות חדשות מהיום האחרון";
+$Definition["New messages in the last week"] = "הודעות חדשות מהשבוע האחרון";
+$Definition["New User Management"] = "ניהול משתמשים חדש";
+$Definition["New users are only registered through SSO plugins."] =
+    "משתמשים חדשים רשאים להרשם רק דרך תוספי ה-SSO";
+$Definition[
+    'New users are reviewed and approved by an administrator (that\'s you!).'
+] = 'משתמשים חדשים מאושרים רק על ידי אדמין (שזה אתה!)';
+$Definition[
+    "New users fill out a simple form and are granted access immediately."
+] = "משתמשים חדשים ממלאים טופס פשוט ומקבלים גישה מיד לאחר מכן.";
+$Definition["New users in the last day"] = "משתמשים חדשים מהיום האחרון";
+$Definition["New users in the last week"] = "משתמשים חדשים מהשבוע האחרון";
+$Definition["No Ban Rules Found"] = "לא נמצאו כללי איסור";
+$Definition["No Change"] = "אין שינוי";
+$Definition["No drafts."] = "אין טיוטות";
+$Definition["No further suggestions."] = "אין הצעות נוספות.";
+$Definition["No item options are available for Link display type."] =
+    "אין אפשרויות פריט זמינות עבור סוג תצוגה של קישור.";
+$Definition["No Items Selected"] = "לא נבחרו פריטים";
+$Definition["No results for %s."] = "אין תוצאות עבור <b>%s</b>.";
+$Definition["Not Dismissable"] = "לא ניתן להסתרה";
+$Definition["Notes"] = "הערות";
+$Definition["Notifications will appear here."] =
+    "התראות יופיעו כאן";
+$Definition["NotifyApplicant"] =
+    "התרע לי כאשר מישהו מגיש בקשה לחברות.";
+$Definition["Notify me when people comment on a discussion."] =
+    "תודיע לי כשמשתמשים מגיבים על דיון.";
+$Definition["Notify me when my questions have AI Suggested Answers"] =
+    "הודע לי כאשר לשאלות שלי יש תשובות מוצעות בינה מלאכותית";
+$Definition["Notify me when people start new discussions."] =
+    "תודיע לי כשמשתמשים מתחילים דיון חדש.";
+$Definition["Not Spam"] = "לא ספאם";
+$Definition["Number of %s listed per page."] = "מספר %s הרשומים בעמוד.";
+$Definition["Number of blocked registrations"] =
+    "מספר ההרשמות שנחסמו";
+$Definition["Number of days before a follow-up email is automatically sent."] =
+    "מספר הימים לפני שליחת דוא\"ל מעקב באופן אוטומטי.";
+$Definition["Number input must be between"] = "קלט מספר חייב להיות בין";
+$Definition["Number input must be between 1 and 100."] =
+    "קלט המספר חייב להיות בין 1 ל-100.";
+$Definition["Number of posts"] = "מספר פוסטים";
+$Definition["Number of posts from groups"] = "מספר פוסטים מקבוצות";
 
-$Definition['Page Color'] = 'צבע העמוד';
-$Definition['Pageview ratio representing a deflected case'] = 'יחס צפיות בדף המייצג רישיות שהסטה';
-$Definition['Page Views'] = 'צפיות בדף';
-$Definition['Password Minimum Length'] = 'אורך מינימום של סיסמה';
-$Definition['Password Options'] = 'אפשרויות לסיסמא';
-$Definition['Passwords'] = 'סיסמאות';
-$Definition['Past Events'] = 'אירועי עבר.';
-$Definition['Permission'] = 'הרשאה';
-$Definition['Permission.Category'] = 'קטגוריה';
-$Definition['Permissions'] = 'הרשאות';
-$Definition['permissions.admin'] = 'אדמין';
-$Definition['permissions.communityManager'] = 'מנהל קהילה';
-$Definition['permissions.everyone'] = 'כולם';
-$Definition['permissions.member'] = 'חבר';
-$Definition['permissions.moderator'] = 'מנהל';
-$Definition['Personal Info'] = 'מידע אישי';
-$Definition['Please Confirm'] = 'בבקשה אשר';
-$Definition['Please enter a unique API Label, this one has been used before'] = 'נא להזין תווית API ייחודית, זה היה בשימוש בעבר';
-$Definition['Plugin'] = 'תוספת';
-$Definition['Plugins'] = 'תוספות';
-$Definition['Pocket'] = 'כיס';
-$Definition['Pockets'] = 'כיסים';
-$Definition['Points'] = 'נקודות';
-$Definition['Polls'] = 'סקרים';
-$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'בעיות תאימות אפשריות עם דפדפנים ישנים יותר, המשפיעות על חווית המשתמש.';
-$Definition['Post & Comment Editing'] = 'עריכת פוסטים והערות';
-$Definition['Posted by <0/> in <1/>'] = 'פורסם על ידי <0/> ב-<1/>';
-$Definition['Post External Links'] = 'העלאת קישורים חיצוניים';
-$Definition['Post Format'] = 'פורמט ההודעה';
-$Definition['Posting'] = 'מפרסם';
-$Definition['Posting Category Pages'] = 'פרסום דפי קטגוריה';
-$Definition['Posting Settings'] = 'הגדרות הודעה';
-$Definition['Post Layout Settings'] = 'הגדרות פריסת פוסטים';
-$Definition['Post Layout Version'] = 'גרסת פריסת פוסט';
-$Definition['Post Management'] = 'ניהול פוסטים';
-$Definition['Post Pages'] = 'דפי פרסום';
-$Definition['Post Rejected'] = 'הפוסט נדחה';
-$Definition['Post Revision'] = 'פוסט עדכון';
-$Definition['Posts Matching Criteria Now: <0 />'] = 'קריטריוני התאמת פוסטים עכשיו: <0 />';
-$Definition['Posts per Page'] = 'פוסטים לכל עמוד';
-$Definition['Posts with any of the following keywords or phrases will required moderator approval.'] = 'פוסטים עם כל אחת ממילות המפתח או הביטויים הבאים ידרשו את אישור המנחה.';
-$Definition['Preload'] = 'טעינה מראש';
-$Definition['Premoderated Categories'] = 'קטגוריות מנוהלות מראש';
-$Definition['Premoderated Keywords'] = 'מילות מפתח מנוהלות מראש';
-$Definition['Premoderated Roles'] = 'תפקידים מודרכים מראש';
-$Definition['Premoderation Settings'] = 'הגדרות ניהול מוקדם';
-$Definition['Preview Color'] = 'צבע תצוגה מקדימה';
-$Definition['Preview Colors'] = 'תצוגה מקדימה של צבעים';
-$Definition['Preview Icon Pack'] = 'חבילת אייקונים תצוגה מקדימה';
-$Definition['Previews'] = 'תצוגות מקדימות';
-$Definition['Previous Icons'] = 'אייקונים קודמים';
-$Definition['Previous Slides'] = 'שקופיות קודמות';
-$Definition['Previous versions of your icons can be found here and restored at any time.'] = 'גרסאות קודמות של הסמלים שלך ניתן למצוא כאן ולשחזר בכל עת.';
-$Definition['Private Communities'] = 'קהילות פרטיות';
-$Definition['private conversation(s)'] = 'שיחה פרטית/שיחות פרטיות';
-$Definition['Private Key'] = 'מפתח פרטי';
-$Definition['Professional'] = 'מִקצוֹעִי';
-$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'יש להשמיט פרוטוקולים (לדוגמה https://) ונתיבים (לדוגמה yourdomain.com/some/path).';
-$Definition['Provider'] = 'ספק';
-$Definition['Public Key'] = 'מפתח פומבי';
+$Definition["On"] = "מופעל";
+$Definition["Only Allow Each User To Post"] = "אפשר למשתמש לפרסם";
+$Definition["Only display on mobile browsers."] =
+    "הצג רק במכשירים ניידים";
+$Definition[
+    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
+] =
+    'זמינים רק שדות שהם תיבת סימון יחידה, תפריט נפתח של בחירה בודדת, תפריט נפתח של בחירה מרובת או מספרי. לאחר בחירת השדות, הם יופיעו למטה כך שתוכל לבחור תשובות ספציפיות עבור כל שדה פרופיל.';
+$Definition["Only Show Followed Categories"] = "הצג רק קטגוריות במעקב";
+$Definition["Only visible to users with roles with permission."] =
+    "גלוי רק למשתמשים בעלי תפקיד עם הרשאה.";
+$Definition[
+    "Open cases will only display if the user has a valid Salesforce connection."
+] =
+    "תיקים פתוחים יוצגו רק אם למשתמש יש חיבור תקף של Salesforce.";
+$Definition["Operation By"] = "על ידי";
+$Definition["Organization"] = "ארגון";
+$Definition["Organize"] = "ניהול";
+$Definition["Organize Categories"] = "ניהול קטגוריות";
+$Definition["Original Version"] = "גרסה מקורית";
+$Definition["Or select an image on your computer (2mb max)"] =
+    "או לבחור תמונה ממחשב שלך (עד 2 מגה בייט)";
+$Definition["Or Spamblock For"] = "או חסום עבור";
+$Definition["Other Themes"] = "ערכות נושא אחרות";
+$Definition["Other Tutorials"] = "מדריכים אחרים";
+$Definition["Outgoing Email"] = "אימייל יוצא";
+$Definition["Outgoing Emails"] = "מיילים יוצאים";
+$Definition["Outgoing Email Address"] = "כתובת אימייל יוצא";
 
-$Definition['QnAFollowup.Feature.Enabled'] = 'תכונה זו שולחת דוא"ל למחברים של שאלות שנענות עליהן אין תשובה מקובלת.';
-$Definition['Question Pages'] = 'דפי שאלות';
+$Definition["Page Color"] = "צבע העמוד";
+$Definition["Page Views"] = "צפיות בדף";
+$Definition["Pageview ratio representing a deflected case"] =
+    "יחס צפיות בדף המייצג רישיות שהסטה";
+$Definition["Passwords"] = "סיסמאות";
+$Definition["Password Options"] = "אפשרויות לסיסמא";
+$Definition["Password Minimum Length"] = "אורך מינימום של סיסמה";
+$Definition["Past Events"] = "אירועי עבר.";
+$Definition["Permission"] = "הרשאה";
+$Definition["Permission.Category"] = "קטגוריה";
+$Definition["Permissions"] = "הרשאות";
+$Definition["permissions.everyone"] = "כולם";
+$Definition["permissions.member"] = "חבר";
+$Definition["permissions.moderator"] = "מנהל";
+$Definition["permissions.communityManager"] = "מנהל קהילה";
+$Definition["permissions.admin"] = "אדמין";
+$Definition["Personal Info"] = "מידע אישי";
+$Definition["Please Confirm"] = "בבקשה אשר";
+$Definition["Please enter a unique API Label, this one has been used before"] =
+    "נא להזין תווית API ייחודית, זה היה בשימוש בעבר";
+$Definition["Plugin"] = "תוספת";
+$Definition["Plugins"] = "תוספות";
+$Definition["Pocket"] = "כיס";
+$Definition["Pockets"] = "כיסים";
+$Definition["Points"] = "נקודות";
+$Definition["Polls"] = "סקרים";
+$Definition[
+    "Possible compatibility problems with older browsers, affecting user experience."
+] =
+    "בעיות תאימות אפשריות עם דפדפנים ישנים יותר, המשפיעות על חווית המשתמש.";
+$Definition["Post External Links"] = "העלאת קישורים חיצוניים";
+$Definition["Posting Settings"] = "הגדרות הודעה";
+$Definition["Preload"] = "טעינה מראש";
+$Definition["Preview Colors"] = "תצוגה מקדימה של צבעים";
+$Definition["Private Communities"] = "קהילות פרטיות";
+$Definition["private conversation(s)"] = "שיחה פרטית/שיחות פרטיות";
+$Definition["Private Key"] = "מפתח פרטי";
+$Definition["Professional"] = "מִקצוֹעִי";
+$Definition[
+    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
+] =
+    "יש להשמיט פרוטוקולים (לדוגמה https://) ונתיבים (לדוגמה yourdomain.com/some/path).";
+$Definition["Provider"] = "ספק";
+$Definition["Public Key"] = "מפתח פומבי";
 
-$Definition['Rank Changes'] = 'שינויים בדירוג';
-$Definition['Ranks'] = 'דרגות';
-$Definition['Re-Register API Key'] = 'רשום מחדש את ה-API Key';
-$Definition['Reaction Types'] = 'סוגי תגובות';
-$Definition['Read more in the documentation'] = 'קרא עוד בתיעוד';
-$Definition['Recalculate Counts'] = 'חשב מחדש את המספרים';
-$Definition['Recently Active Users'] = 'משתמשים פעילים מהזמן האחרון';
-$Definition['Recently Added'] = 'נוספו לאחרונה';
-$Definition['Recently Commented'] = 'הגיבו לאחרונה';
-$Definition['Recent News'] = 'חדשות מהזמן האחרון';
-$Definition['Recent Posts Layout Settings'] = 'הגדרות פריסת פוסטים אחרונים';
-$Definition['Recent Posts Layout Version'] = 'גרסת פריסת פוסטים אחרונים';
-$Definition['Recent Posts Pages'] = 'דפי פוסטים אחרונים';
-$Definition['Recipient'] = 'מקבל';
-$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'המידות המומלצות הן 400 פיקסלים על 300 פיקסלים או פחות עם יחס דומה.';
-$Definition['Record Content'] = 'תוכן';
-$Definition['Refresh Comments'] = 'רענן הערות';
-$Definition['Regenerate AI Suggestions'] = 'חידוש הצעות AI';
-$Definition['Regenerate Suggestions'] = 'חידוש הצעות';
-$Definition['Register for Membership'] = 'הרשמה כחבר';
-$Definition['Register IP'] = 'רשום IP';
-$Definition['Register Url'] = 'Url רשום';
-$Definition['Registration'] = 'הרשמה';
-$Definition['Registration is currently closed.'] = 'ההרשמה כרגע סגורה.';
-$Definition['Reinterpret All Posts As %s'] = 'פרש מחדש את כל הפוסטים כ-%s';
-$Definition['Reload the page to access recent updates.'] = 'טען מחדש את הדף כדי לגשת לעדכונים אחרונים.';
-$Definition['Reload the page to see recent updates.'] = 'טען מחדש את הדף כדי לראות עדכונים אחרונים.';
-$Definition['Remove Banner Logo'] = 'הסרת לוגו באנר';
-$Definition['Remove Email Logo'] = 'הסרת לוגו אימייל';
-$Definition['Remove Favicon'] = 'הסרת אייקון';
-$Definition['Remove from collection'] = 'הסר מהאוסף';
-$Definition['Remove from collection:'] = 'הסר מהאוסף:';
-$Definition['Remove from default follow list'] = 'הסר מרשימת המעקב כברירת מחדל';
-$Definition['Remove from trigger collection'] = 'הסר מאוסף הטריגרים';
-$Definition['Remove Method'] = 'הסר את השיטה';
-$Definition['Remove Post'] = 'הסר פוסט';
-$Definition['Reorder'] = 'סדר מחדש';
-$Definition['Reorder Columns'] = 'סדר מחדש את העמודות';
-$Definition['Reorder Report Reasons'] = 'סדר מחדש את סיבות הדוח';
-$Definition['Repeat'] = 'חזרה שנית';
-$Definition['Repeat Every'] = 'חזרה שוב כל';
-$Definition['Replace Image'] = 'החלפת תמונה';
-$Definition['Replacement Category'] = 'קטגוריה חלופית';
-$Definition['Replacement Role'] = 'תפקיד חלופי';
-$Definition['Reply  To'] = 'תגובה ל-';
-$Definition['reply to private conversation(s)'] = 'תשובה לשיחה פרטית/שיחות פרטיות';
-$Definition['report'] = 'דִוּוּחַ';
-$Definition['Report Dismissed'] = 'הדוח נדחה';
-$Definition['Reported by <0/>'] = 'דווח על ידי <0/>';
-$Definition['Report Reasons'] = 'דיווח סיבות';
-$Definition['reports'] = 'דוחות';
-$Definition['Reports for <0/>'] = 'דוחות עבור <0/>';
-$Definition['Request'] = 'בקשה';
-$Definition['Requests'] = 'בקשות';
-$Definition['Required field'] = 'שדה חובה';
-$Definition['Requires'] = 'דרישה';
-$Definition['Requires: '] = 'נדרשה:';
-$Definition['Require Terms of Service'] = 'דרוש מהמשתמשים להסכים לתנאי השירות (מומלץ)';
-$Definition['Require users to agree to the Terms of Service (recommended)'] = 'דרוש מהמשתמשים להסכים לתנאי השירות (מומלץ)';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)';
-$Definition['Rescan'] = 'סריקה מחדש';
-$Definition['Reset'] = 'איפוס';
-$Definition['Reset my password'] = 'איפוס את הסיסמה שלי';
-$Definition['Reset password and send email notification to user'] = 'איפוס הסיסמה ושליחתה בהודעה בדוא"ל למשתמש';
-$Definition['Resetting the password for %s.'] = 'מאפס סיסמה עבור %s.';
-$Definition['Reset to Default'] = 'אפס לברירת מחדל';
-$Definition['Resolve All'] = 'פתור הכל';
-$Definition['Resolve All Discussions'] = 'פתור את כל הדיונים';
-$Definition['Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics.'] = 'פתרון כל הפוסטים יפתור את כל הפוסטים הקיימים בקהילה. פעולה בכמות גדולה זו לא תפעיל webhooks או ניתוח נתונים.';
-$Definition['Resolve post'] = 'פתור פוסט';
-$Definition['Restart'] = 'התחל מתחדש';
-$Definition['Reveal Password'] = 'גלה סיסמה';
-$Definition['Revert'] = 'חזור';
-$Definition['Revert to Original Version'] = 'חזור לגרסה המקורית';
-$Definition['Revision Label:'] = 'תוית תיקון:';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'באמצעות האפשרות הבאה אפשר/י ציטוטים ל-Rich Editor. זה ייושם רק עם מעצב ברירת המחדל הוא "Rich".';
-$Definition['ROI Calculation Documentation'] = 'תיעוד חישוב ROI';
-$Definition['Role'] = 'תפקיד';
-$Definition['Role Applicants'] = 'מועמדים לתפקידים';
-$Definition['Role Name'] = 'שם התפקיד';
-$Definition['Role Permissions'] = 'הרשאות תפקיד';
-$Definition['RolePersonalInfo'] = 'תפקיד זה הוא מידע אישי. רק משתמשים עם הרשאה להציג מידע אישי יראו אותו.';
-$Definition['Role Request Status'] = 'סטאטוס נוכחי';
-$Definition['Roles & Permissions'] = 'תפקידים והרשאות';
-$Definition['Roles determine user\'s permissions.'] = 'לכל משתמש באתר יש לפחות תפקיד אחד מוגדר. התפקידים מאפשרים להגדיר מה מותר ואסור לכל משתמש לעשות.';
-$Definition['Role to Grant'] = 'התפקיד שיינתן';
-$Definition['Route'] = 'נתיב';
-$Definition['Routes'] = 'נתיבים';
-$Definition['RSVP'] = 'תשובתך בבקשה';
-$Definition['Rule Action'] = 'כלל פעולה';
-$Definition['Rule may not be deleted while it is running'] = 'לא ניתן למחוק כלל בזמן שהוא פועל';
-$Definition['Rule may not be edited while it is running'] = 'לא ניתן לערוך כלל בזמן שהוא פועל';
-$Definition['Rule Name'] = 'שם כלל';
-$Definition['Rules'] = 'חוקים';
-$Definition['Rule status will apply once current run completes'] = 'סטטוס הכלל יחול לאחר השלמת הריצה הנוכחית';
-$Definition['Rule Trigger'] = 'טריגר כלל';
-$Definition['Running'] = 'רִיצָה';
-$Definition['Run structure & data scripts'] = 'הרצת סקריפטים של מבנה ונתונים';
+$Definition["Rank Changes"] = "שינויים בדירוג";
+$Definition["Ranks"] = "דרגות";
+$Definition["Read more in the documentation"] =
+    "קרא עוד בתיעוד";
+$Definition["Re-Register API Key"] = "רשום מחדש את ה-API Key";
+$Definition["Register IP"] = "רשום IP";
+$Definition["Reaction Types"] = "סוגי תגובות";
+$Definition["Recalculate Counts"] = "חשב מחדש את המספרים";
+$Definition["Recently Active Users"] = "משתמשים פעילים מהזמן האחרון";
+$Definition["Recently Commented"] = "הגיבו לאחרונה";
+$Definition["Recently Added"] = "נוספו לאחרונה";
+$Definition["Recent News"] = "חדשות מהזמן האחרון";
+$Definition["Recent Posts Layout Settings"] = "הגדרות פריסת פוסטים אחרונים";
+$Definition["Recent Posts Pages"] = "דפי פוסטים אחרונים";
+$Definition["Recent Posts Layout Version"] = "גרסת פריסת פוסטים אחרונים";
 
-$Definition['Save Captured Definitions'] = 'שמירת הגדרות';
-$Definition['Save challenge cutoff age'] = 'שמור את גיל הפסקת האתגר';
-$Definition['Save Colors'] = 'שמירת צבעים';
-$Definition['Score Count'] = 'ספירת ציונים';
-$Definition['Search by user or role.'] = 'חיפור אחר משתמשים על בסיס שם או דואר אלקטרוני, אפשר להשתמש ב-% כעזר. באפשרותך לחפש משתמשים גם על ידי מספר מזהה , שם תפקיד, או “מושעים”.';
-$Definition['Search Query'] = 'שאילתת חיפוש';
-$Definition['Search Result In New Tab'] = 'תוצאת חיפוש בכרטיסייה חדשה';
-$Definition['Search results of members'] = 'תוצאות חיפוש של חברים';
-$Definition['SearchScope.Everywhere'] = 'בכל מקום';
-$Definition['seconds'] = 'שניות';
-$Definition['Security'] = 'אבטחה';
-$Definition['See also'] = 'צפיה גם';
-$Definition['See documentation for more information.'] = 'עיין בתיעוד למידע נוסף.';
-$Definition['See link'] = 'ראה קישור';
-$Definition['Select'] = 'בחירה';
-$Definition['Select a category'] = 'בחר קטגוריה';
-$Definition['Selection will affect the item options available.'] = 'הבחירה תשפיע על אפשרויות הפריט הזמינות.';
-$Definition['Select the action that will occur when this rule is triggered.'] = 'בחר את הפעולה שתתרחש כאשר כלל זה יופעל.';
-$Definition['Select the location of the pocket.'] = 'בחירת מיקום ל-Pocket.';
-$Definition['Select the trigger that will cause this rule to run.'] = 'בחר את הטריגר שיגרום לכלל זה לפעול.';
-$Definition['Select which columns are displayed on the manage users page list.'] = 'בחר אילו עמודות יוצגו ברשימת דפי ניהול משתמשים.';
-$Definition['Send %s a Message'] = 'שליחת הודעה ל-%s';
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'שליחת אימייל לאישור כאשר אנשים שולחים שאלה או מתחילים דיון דרך אימייל.';
-$Definition['Send Again'] = 'שליחה שוב';
-$Definition['Send a Test Email'] = 'שליחת אימייל ניסיון';
-$Definition['Send Invitations!'] = 'שליחת הזמנות!';
-$Definition['Send Test Digest'] = 'שלח סיכום בדיקה';
-$Definition['Send Test Email Digest'] = 'שלח תקציר אימייל לבדיקה';
-$Definition['Send users a welcome email.'] = 'שליחה למשתמשים אי-מייל עם הקבלה לפורום.';
-$Definition['sentiment'] = 'רֶגֶשׁ';
-$Definition['Sent To'] = 'שליחה אל';
-$Definition['Separate each word with a semi-colon ";"'] = 'הפרדת מילים באמצעות נקודה-פסיק ";"';
-$Definition['Set as Active'] = 'הגדר כפעיל';
-$Definition['Set as default layout for all <0 />.'] = 'הגדר כברירת מחדל עבור כל <0 />.';
-$Definition['Set as default layout for specific knowledge bases.'] = 'הגדר כפריסת ברירת מחדל עבור בסיסי ידע ספציפיים.';
-$Definition['Set as default layout for specific subcommunities.'] = 'הגדר כברירת מחדל עבור תת-קהילות ספציפיות.';
-$Definition['Set Post Visibility to Hidden'] = 'הגדר את נראות הפוסט לנסתר';
-$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'הגדר עניין זה כברירת מחדל כדי להציע לכל המשתמשים לעקוב אחר הקטגוריות והתגיות הממופות שלו.';
-$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'הגדר משתנה טריגר ומשתנה פעולה כדי ליצור סיכום כללים.';
-$Definition['Share Image'] = 'שיתוף תמונה';
-$Definition['Show'] = 'לְהַצִיג';
-$Definition['Show all categories'] = 'הצג את כל הקטגוריות';
-$Definition['Show an uploaded image on the Category page.'] = 'כל דיון יציג תמונה שהועלתה בדף הקטגוריה. זה חל רק על קטגוריות עם "דיונים" כמו "הצג כ". ';
-$Definition['Show Badges'] = 'הצג תגים';
-$Definition['Show Dismissed Suggestions'] = 'הצג הצעות שנדחו';
-$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'הצג לכל משתמש רשימה אישית של רעיונות שיצרו או הצביעו.';
-$Definition['Show OP Indicator'] = 'הצג מחוון OP';
-$Definition['Show Original Suggestions'] = 'הצג הצעות מקוריות';
-$Definition['Show Pocket Locations'] = 'הצגת מיקומי Pocket';
-$Definition['Show Suggestions'] = 'הצג הצעות';
-$Definition['Show users\' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking.'] = 'הצג את תגי המשתמשים בכל פוסט. ניתן להציג עד 5 תגים לכל היותר לפי סדר הדירוג הגבוה ביותר.';
-$Definition['Signatures'] = 'חתימות';
-$Definition['SignedOut'] = 'יצאת מהמערכת.';
-$Definition['Sign In Url'] = 'Urkl לכניסה';
-$Definition['since'] = 'מֵאָז';
-$Definition['Site Description'] = 'תיאור אתר';
-$Definition['Site Name'] = 'שם האתר';
-$Definition['Skip to end of Carousel'] = 'דלג לסוף הקרוסלה';
-$Definition['Slug'] = 'שם קישור';
-$Definition['SMTP Host'] = 'מארח SMTP';
-$Definition['SMTP Password'] = 'סיסמאת SMTP';
-$Definition['SMTP Security'] = 'אבטחת SMTP';
-$Definition['SMTP User'] = 'משתמש SMTP';
-$Definition['Social Connect'] = 'רשתות חברתיות';
-$Definition['Social Connect Addons'] = 'תוספי Social Connect';
-$Definition['Sort Order'] = 'מיון סדר';
-$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'מקורות שנבחרו כאן יהיו זמינים לתשובות AI Suggested.';
-$Definition['Spam Detection'] = 'איתור דואר זבל';
-$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'נא לפרט דומיין אחד לשורה. השתמשו ב-* בשביל התאמות לתו כללי.';
-$Definition['Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.'] = 'בזבז קצת זמן בנוגע לאיך לתאר את האתר שלך כאן. הענקת כותרת מלאת משמעות לאתר שלך ותיאור תמציתי יכול לעזור למיקום שלך במנועי חיפוש.';
-$Definition['Spoof'] = 'התחזות';
-$Definition['SSO Role'] = 'תפקיד SSO';
-$Definition['SSO roles are always passed through SSO.'] = 'תפקידי SSO מועברים תמיד דרך SSO.';
-$Definition['Start Discussions'] = 'התחל דיונים';
-$Definition['Start Private Conversations'] = 'התחל/י שיחות פרטיות';
-$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'התחל את שורת הנושא עם [כותרת באנר] המוגדרת במראה > מיתוג וקידום אתרים';
-$Definition['Start typing username'] = 'התחל להקליד שם משתמש';
-$Definition['State'] = 'מצב';
-$Definition['Statistics'] = 'סטטיסטיקות';
-$Definition['Status on Creation'] = 'סטטוס על הבריאה';
-$Definition['Strip Embeds'] = 'הסר הטמעות';
-$Definition['Style'] = 'סגנון';
-$Definition['Style Guides'] = 'מדריכי סגנון';
-$Definition['Styles'] = 'סגנונות';
-$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'הסגנונות והמראה החזותי הכללי של כל הודעות האימייל, כולל תקציר דוא"ל, נקבעים בכל האתר בדף הגדרות דוא"ל.';
-$Definition['Subcommunity'] = 'תת-קהילה';
-$Definition['Subject Line and Title'] = 'שורת נושא וכותרת';
-$Definition['subscribers'] = 'מנויים';
-$Definition['Suggested Answers Options'] = 'אפשרויות תשובות מוצעות';
-$Definition['Suggested Content'] = 'תוכן מוצע';
-$Definition['Suggested Discussion Title'] = 'כותרת דיון מוצעת';
-$Definition['Suggested Follows'] = 'עוקבים מוצעים';
-$Definition['Suggestions are only visible to you until you accept the answer'] = 'הצעות גלויות רק לך עד שתקבל את התשובה';
-$Definition['Suggestions may only be generated on questions'] = 'ניתן להפיק הצעות רק על שאלות';
-$Definition['Summary'] = 'תַקצִיר';
-$Definition['System Icon'] = 'סמל מערכת';
+$Definition[
+    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
+] =
+    "המידות המומלצות הן 400 פיקסלים על 300 פיקסלים או פחות עם יחס דומה.";
+$Definition["Record Content"] = "תוכן";
+$Definition["Recipient"] = "מקבל";
+$Definition["Refresh Comments"] = "רענן הערות";
+$Definition["Regenerate AI Suggestions"] = "חידוש הצעות AI";
+$Definition["Regenerate Suggestions"] = "חידוש הצעות";
+$Definition["Register for Membership"] = "הרשמה כחבר";
+$Definition["Register Url"] = "Url רשום";
+$Definition["Registration"] = "הרשמה";
+$Definition["Registration is currently closed."] =
+    "ההרשמה כרגע סגורה.";
+$Definition["Reload the page to see recent updates."] =
+    "טען מחדש את הדף כדי לראות עדכונים אחרונים.";
+$Definition["Reload the page to access recent updates."] =
+    "טען מחדש את הדף כדי לגשת לעדכונים אחרונים.";
+$Definition["Remove Banner Logo"] = "הסרת לוגו באנר";
+$Definition["Remove Email Logo"] = "הסרת לוגו אימייל";
+$Definition["Remove Favicon"] = "הסרת אייקון";
+$Definition["Reorder Columns"] = "סדר מחדש את העמודות";
+$Definition["Repeat"] = "חזרה שנית";
+$Definition["Repeat Every"] = "חזרה שוב כל";
+$Definition["Replace Image"] = "החלפת תמונה";
+$Definition["Replacement Category"] = "קטגוריה חלופית";
+$Definition["Replacement Role"] = "תפקיד חלופי";
+$Definition["Reply  To"] = "תגובה ל-";
+$Definition["reply to private conversation(s)"] =
+    "תשובה לשיחה פרטית/שיחות פרטיות";
+$Definition["Request"] = "בקשה";
+$Definition["Requests"] = "בקשות";
+$Definition["Requires"] = "דרישה";
+$Definition["Requires: "] = "נדרשה:";
+$Definition["Require Terms of Service"] =
+    "דרוש מהמשתמשים להסכים לתנאי השירות (מומלץ)";
+$Definition["Require users to confirm their email addresses (recommended)"] =
+    "משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)";
+$Definition["Require users to agree to the Terms of Service (recommended)"] =
+    "דרוש מהמשתמשים להסכים לתנאי השירות (מומלץ)";
+$Definition["Rescan"] = "סריקה מחדש";
+$Definition["Reset"] = "איפוס";
+$Definition["Reset my password"] = "איפוס את הסיסמה שלי";
+$Definition["Reset password and send email notification to user"] =
+    "איפוס הסיסמה ושליחתה בהודעה בדוא\"ל למשתמש";
+$Definition["Reset to Default"] = "אפס לברירת מחדל";
+$Definition["Resetting the password for %s."] =
+    "מאפס סיסמה עבור %s.";
+$Definition["Restart"] = "התחל מתחדש";
+$Definition["Reveal Password"] = "גלה סיסמה";
+$Definition["Revert"] = "חזור";
+$Definition["Revert to Original Version"] = "חזור לגרסה המקורית";
+$Definition["Revision Label:"] = "תוית תיקון:";
+$Definition["ROI Calculation Documentation"] = "תיעוד חישוב ROI";
+$Definition["Role"] = "תפקיד";
+$Definition["Assign to"] = "משוייך אל";
+$Definition["Role Applicants"] = "מועמדים לתפקידים";
+$Definition["Role Name"] = "שם התפקיד";
+$Definition["Role Permissions"] = "הרשאות תפקיד";
+$Definition["RolePersonalInfo"] =
+    "תפקיד זה הוא מידע אישי. רק משתמשים עם הרשאה להציג מידע אישי יראו אותו.";
+$Definition["Roles & Permissions"] = "תפקידים והרשאות";
+$Definition['Roles determine user\'s permissions.'] =
+    "לכל משתמש באתר יש לפחות תפקיד אחד מוגדר. התפקידים מאפשרים להגדיר מה מותר ואסור לכל משתמש לעשות.";
+$Definition["Role Request Status"] = "סטאטוס נוכחי";
+$Definition["Role to Grant"] = "התפקיד שיינתן";
+$Definition["Route"] = "נתיב";
+$Definition["Routes"] = "נתיבים";
+$Definition["Rules"] = "חוקים";
+$Definition["Run structure & data scripts"] = "הרצת סקריפטים של מבנה ונתונים";
+$Definition["RSVP"] = "תשובתך בבקשה";
 
-$Definition['Table Layout'] = 'עימוד הטבלה';
-$Definition['take away'] = 'לקחת';
-$Definition['Target All Users'] = 'מקד לכל המשתמשים';
-$Definition['Target Users'] = 'יעד משתמשים';
-$Definition['Technical'] = 'טכני';
-$Definition['Technical Jargon'] = 'ז\'רגון טכני';
-$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'אמור לעורך לפרש מחדש את כל הפוסטים הישנים כ-%s.';
-$Definition['Templates'] = 'תבניות';
-$Definition['Temporary (302)'] = 'זמני (302)';
-$Definition['Test Email'] = 'אימייל ניסיון';
-$Definition['Test email from %s'] = 'אימייל ניסיון מ-%s';
-$Definition['Test Email Message'] = '<p>זו הודעת אימייל לניסיון.</p>
+$Definition["Save Captured Definitions"] = "שמירת הגדרות";
+$Definition["Save Colors"] = "שמירת צבעים";
+$Definition["Score Count"] = "ספירת ציונים";
+$Definition["Search by user or role."] =
+    "חיפור אחר משתמשים על בסיס שם או דואר אלקטרוני, אפשר להשתמש ב-% כעזר. באפשרותך לחפש משתמשים גם על ידי מספר מזהה , שם תפקיד, או “מושעים”.";
+$Definition["Search Result In New Tab"] = "תוצאת חיפוש בכרטיסייה חדשה";
+$Definition["Search results of members"] = "תוצאות חיפוש של חברים";
+$Definition["Search Query"] = "שאילתת חיפוש";
+$Definition["SearchScope.Everywhere"] = "בכל מקום";
+$Definition["seconds"] = "שניות";
+$Definition["Security"] = "אבטחה";
+$Definition["See also"] = "צפיה גם";
+$Definition["See link"] = "ראה קישור";
+$Definition["Select"] = "בחירה";
+$Definition["Select a category"] = "בחר קטגוריה";
+$Definition["Select the location of the pocket."] =
+    "בחירת מיקום ל-Pocket.";
+$Definition[
+    "Select which columns are displayed on the manage users page list."
+] = "בחר אילו עמודות יוצגו ברשימת דפי ניהול משתמשים.";
+$Definition["Selection will affect the item options available."] =
+    "הבחירה תשפיע על אפשרויות הפריט הזמינות.";
+$Definition["Send %s a Message"] = "שליחת הודעה ל-%s";
+$Definition[
+    "Send a confirmation email when people ask a question or start a discussion over email."
+] =
+    "שליחת אימייל לאישור כאשר אנשים שולחים שאלה או מתחילים דיון דרך אימייל.";
+$Definition["Send Again"] = "שליחה שוב";
+$Definition["Send a Test Email"] = "שליחת אימייל ניסיון";
+$Definition["Send Test Digest"] = "שלח סיכום בדיקה";
+$Definition["Send Test Email Digest"] = "שלח תקציר אימייל לבדיקה";
+$Definition["Send Invitations!"] = "שליחת הזמנות!";
+$Definition["Send users a welcome email."] = "שליחה למשתמשים אי-מייל עם הקבלה לפורום.";
+$Definition["Sent To"] = "שליחה אל";
+$Definition['Separate each word with a semi-colon ";"'] =
+    'הפרדת מילים באמצעות נקודה-פסיק ";"';
+$Definition[
+    "Set this interest as default to suggest following its mapped categories and tags to all users."
+] =
+    "הגדר עניין זה כברירת מחדל כדי להציע לכל המשתמשים לעקוב אחר הקטגוריות והתגיות הממופות שלו.";
+$Definition["Share Image"] = "שיתוף תמונה";
+$Definition["Show all categories"] = "הצג את כל הקטגוריות";
+$Definition["Show Dismissed Suggestions"] = "הצג הצעות שנדחו";
+$Definition["Show Pocket Locations"] = "הצגת מיקומי Pocket";
+$Definition[
+    "Show each user a personalized list of ideas they’ve created or upvoted."
+] = "הצג לכל משתמש רשימה אישית של רעיונות שיצרו או הצביעו.";
+$Definition["Show Original Suggestions"] = "הצג הצעות מקוריות";
+$Definition["Show Suggestions"] = "הצג הצעות";
+$Definition["Signatures"] = "חתימות";
+$Definition["SignedOut"] = "יצאת מהמערכת.";
+$Definition["Sign In Url"] = "Urkl לכניסה";
+$Definition["Site Description"] = "תיאור אתר";
+$Definition["Site Name"] = "שם האתר";
+$Definition["Slug"] = "שם קישור";
+$Definition["SMTP Host"] = "מארח SMTP";
+$Definition["SMTP Password"] = "סיסמאת SMTP";
+$Definition["SMTP Port"] = "SMTP Port";
+$Definition["SMTP Security"] = "אבטחת SMTP";
+$Definition["SMTP User"] = "משתמש SMTP";
+$Definition["Social Connect"] = "רשתות חברתיות";
+$Definition["Social Connect Addons"] = "תוספי Social Connect";
+$Definition["Sort Order"] = "מיון סדר";
+$Definition[
+    "Sources that are selected here will be available to AI Suggested Answers."
+] = "מקורות שנבחרו כאן יהיו זמינים לתשובות AI Suggested.";
+$Definition["Specify one domain per line. Use * for wildcard matches."] =
+    "נא לפרט דומיין אחד לשורה. השתמשו ב-* בשביל התאמות לתו כללי.";
+$Definition["Spoof"] = "התחזות";
+$Definition["SSO Role"] = "תפקיד SSO";
+$Definition["SSO roles are always passed through SSO."] =
+    "תפקידי SSO מועברים תמיד דרך SSO.";
+$Definition["Start Discussions"] = "התחל דיונים";
+$Definition["Start Private Conversations"] = "התחל/י שיחות פרטיות";
+$Definition[
+    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
+] =
+    "התחל את שורת הנושא עם [כותרת באנר] המוגדרת במראה > מיתוג וקידום אתרים";
+$Definition["Start typing username"] = "התחל להקליד שם משתמש";
+$Definition["State"] = "מצב";
+$Definition["Statistics"] = "סטטיסטיקות";
+$Definition["Strip Embeds"] = "הסר הטמעות";
+$Definition["Strip Embeds"] = "הסר הטמעות";
+$Definition["Style"] = "סגנון";
+$Definition["Styles"] = "סגנונות";
+$Definition[
+    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
+] =
+    "הסגנונות והמראה החזותי הכללי של כל הודעות האימייל, כולל תקציר דוא\"ל, נקבעים בכל האתר בדף הגדרות דוא\"ל.";
+$Definition["Subcommunity"] = "תת-קהילה";
+$Definition["Subject Line and Title"] = "שורת נושא וכותרת";
+$Definition["subscribers"] = "מנויים";
+$Definition["Suggested Answers Options"] = "אפשרויות תשובות מוצעות";
+$Definition["Suggested Content"] = "תוכן מוצע";
+$Definition["Suggested Discussion Title"] = "כותרת דיון מוצעת";
+$Definition["Suggested Follows"] = "עוקבים מוצעים";
+$Definition["Suggestions are only visible to you until you accept the answer"] =
+    "הצעות גלויות רק לך עד שתקבל את התשובה";
+$Definition["Suggestions may only be generated on questions"] =
+    "ניתן להפיק הצעות רק על שאלות";
+
+$Definition["Table Layout"] = "עימוד הטבלה";
+$Definition["take away"] = "לקחת";
+$Definition["Target All Users"] = "מקד לכל המשתמשים";
+$Definition["Target Users"] = "יעד משתמשים";
+$Definition["Technical"] = "טכני";
+$Definition["Technical Jargon"] = "ז'רגון טכני";
+$Definition["Templates"] = "תבניות";
+$Definition["Temporary (302)"] = "זמני (302)";
+$Definition["Test Email"] = "אימייל ניסיון";
+$Definition["Test Digest"] = "Test Digest";
+$Definition["Test email from %s"] = "אימייל ניסיון מ-%s";
+$Definition["Test Email Message"] = '<p>זו הודעת אימייל לניסיון.</p>
 
 <p>ניתן להגדיר את מראה האימיילים של הפורום שלך ע"י ניווט לעמוד האימייל בלוח המחוונים.</p>';
-$Definition['Test Mode'] = 'מצב בדיקה: הכיס יוצג רק למנהלי כיסים.';
-$Definition['Test URL'] = 'URL לבדיקה';
-$Definition['Text Color'] = 'צבע הטקסט';
-$Definition['TextEnterEmails'] = 'הקלד כתובות דוא"ל המופרדות בפסיקים כאן';
-$Definition['Thanks for sticking with us for %s years.'] = 'תודה שנשארת איתנו בדבקות במשך %s שנים.';
-$Definition['Thanks for sticking with us for a full year.'] = 'תודה שנשארת איתנו בדבקות שנה שלמה.';
-$Definition['The %s badge has already been given to %s.'] = 'התג %s כבר ניתן ל-%s.';
-$Definition['The %s locale pack does not exist.'] = 'חבילת האיזור ה-%s לא קיימת.';
-$Definition['The %s table is not in the correct format.'] = 'טבלת ה-%s אינה בפורמט המתאים.';
-$Definition['The %s was already approved by %s on %s.'] = '%s כבר אושר בידי %s ב-%s.';
-$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'הפעולה תחול עליהם כאשר הכלל יופעל. בעתיד, <0 /> אחרים שעומדים בקריטריונים של טריגר יוחלו גם עליהם.';
-$Definition['The action will be applied to only them if you proceed.'] = 'הפעולה תוחל רק עליהם אם תמשיך.';
-$Definition['The Basics'] = 'הבסיס';
-$Definition['The client ID uniqely identifies the site.'] = 'מספר מזהה של הלקוח מזהה באופן מיוחד את האתר הזה. אתה יכול ליצור תעודת זהות חדשה בתחתית העמוד.';
-$Definition['The content you were looking for has been deleted.'] = 'התוכן שביקשת לראות כבר נמחק מן האתר.';
-$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'תמונת הבאנר המוגדרת כברירת מחדל ברחבי האתר. ניתן לעקוף זאת על בסיס כל קטגוריה.';
-$Definition['The default role has not been configured.'] = 'תפקיד ברירת המחדל עדיין לא הוגדר.';
-$Definition['The email address this test will be sent to.'] = 'כתובת האימייל שאליה בדיקה זו תישלח.';
-$Definition['The email has been sent.'] = 'אימייל זה נשלח.';
-$Definition['The first line of content in the email digest after the title.'] = 'שורת התוכן הראשונה בתמצית המייל אחרי הכותרת.';
-$Definition['The homepage title is displayed on your home page.'] = 'כותרת דף הבית מוצגת בדף הבית שלך. בחר כותרת שתרצה לראות מופיעה במנועי חיפוש.';
-$Definition['The homepage was saved successfully.'] = 'דף הבית נשמר בהצלחה.';
-$Definition['The invitation was removed successfully.'] = 'ההזמנה הוסרה בהצלחה.';
-$Definition['The invitation was sent successfully.'] = 'ההזמנה נשלחה בהצלחה.';
-$Definition['The Key in the XML payload to designate %s.'] = 'המפתח בעומס ה- XML לייעוד %s.';
-$Definition['Theme Editor'] = 'עורך ערכות נושא';
-$Definition['ThemeEditor.Copy'] = '<0/> העתק';
-$Definition['Theme Options'] = 'אפשרויות של ערכת הנושא';
-$Definition['Themes'] = 'ערכות נושא';
-$Definition['Theming Documentation'] = 'תיעוד ערכת נושא ';
-$Definition['Theming Overview'] = 'סקירה של ערכות נושא';
-$Definition['The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>.'] = 'מערכת ניהול הקהילה החדשה מאפשרת סיבות דיווח מותאמות אישית, הסלמות, הקצאות וכללי אוטומציה. הפעלת זה משנה את צריכת הדיווח לשימוש במערכת החדשה. <0>קרא עוד</0> .';
-$Definition['The next three email digest delivery dates'] = 'שלושת תאריכי המסירה הבאים של תקציר האימייל';
-$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'אירעה שגיאה בהעלאת התמונה. את לוגו האימייל שלך אפשר להעלות באחד מסוגי הקובץ הבאים: gif, jpg, png';
-$Definition['There are currently %s applicants.'] = 'יש כרגע %s מועמדים.';
-$Definition['There are currently %s requests.'] = 'יש כרגע %s בקשות.';
-$Definition['There are currently no applicants.'] = 'כרגע אין מועמדים.';
-$Definition['There are currently no comments on this post'] = 'כרגע אין תגובות לפוסט הזה';
-$Definition['There are currently no reports for this post.'] = 'כרגע אין דיווחים לפוסט זה.';
-$Definition['There are currently no requests.'] = 'אין כרגע אף בקשה.';
-$Definition['There are no items awaiting moderation at this time.'] = 'אין כרגע הודעות שדורשות טיפול של המנהל.';
-$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'כבר יש חשבון בפורום עם כתובת הדוא"ל שסופקה. בבקשה צור חשבון חדש, או שתכניס את הפרטים של החשבון הקיים.';
-$Definition['There is currently %s applicant.'] = 'יש כרגע מועמד %s.';
-$Definition['There is currently %s request.'] = 'יש כרגע בקשה %s.';
-$Definition['There was an error fetching the connection data.'] = 'אירעה שגיאה באחזור נתוני החיבור.';
-$Definition['There was an error saving your changes. Please try again.'] = 'אירעה שגיאה בשמירת השינויים שלך. בבקשה נסה שוב.';
-$Definition['The roles which can see this report reason.'] = 'התפקידים שיכולים לראות את הסיבה לדיווח הזה.';
-$Definition['The secret secures the sign in process.'] = 'הסוד מאבטח את תהליך ההתחברות <b>אל</b> תביא לאף אחד את הסוד שלך.';
-$Definition['The site description usually appears in search engines.'] = 'תיאור האתר מופיע בדרך כלל במנועי חיפוש. אתה צריך לנסות לכתוב תיאור באורך שלך 100-150 תווים.';
-$Definition['The site does not allow you to connect with an existing user.'] = 'האתר לא מאפשר לך להתחבר למשתמש קיים.';
-$Definition['The site is currently undergoing scheduled maintenance.'] = 'האתר כרגע תחת תחזוקה.';
-$Definition['The specified url code is already in use by another category.'] = 'קוד ה-Url שציינת כבר נמצא בשימושה של קטגוריה אחרת.';
-$Definition['The structure was successfully executed.'] = 'המבנה הזה יצא לפועל בהצלחה.';
-$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'תקציר הבדיקה יפיק תוכן כאילו היה זה המשתמש שמקבל את התקציר.';
-$Definition['The update was not successful.'] = 'העדכון לא הצליח.';
-$Definition['The update was successful.'] = 'העדכון עבר בהצלחה.';
-$Definition['The url that users go to to register for a new account.'] = 'הכתובת אליה מופנים המשתמשים כדי להירשם לחשבון חדש.';
-$Definition['The url that users use to register for a new account.'] = 'הכתובת בה המשתמשים נרשמים כדי לקבל חשבון חדש.';
-$Definition['The url that users use to sign in.'] = 'הכתובת בה המשתמשים נכנסים לפורום.';
-$Definition['The URL where users can sign up for new accounts on your site'] = 'ה-URL דרכו משתמשים ייצרו חשבונות חדשים לאתר שלך';
-$Definition['The URL where users sign in on your site'] = 'ה-URL בו משתמשים יכנסו את פרטי החשבון';
-$Definition['The URL where users sign out of your site'] = 'ה-URL בו משתמשים יתנתקו מהחשבון';
-$Definition['The user and all related content has been deleted.'] = 'המשתמש וכול המידע הקשור בו נמחקו.';
-$Definition['The user content will be completely deleted.'] = 'המידע של המשתמש יימחק לחלוטין.';
-$Definition['The user content will remain untouched.'] = 'לא יבוצעו שינויים במידע של המתמש.';
-$Definition['The user has been created successfully'] = 'חשבון המשתמש נוצר בהצלחה.';
-$Definition['The user has been deleted.'] = 'חשבון המשתמש נמחק.';
-$Definition['The username you entered has already been taken.'] = 'שם המשתמש שהזנת כבר תפוס.';
-$Definition['This action cannot be undone.'] = 'לא ניתן לבטל את ביצוע הפעולה.';
-$Definition['This category has custom permissions.'] = 'לקטגוריה זו יש הרשאות מיוחדות.';
-$Definition['This category is archived.'] = 'הקטגוריה הזו נמצאת בארכיון.';
-$Definition['This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.'] = 'צבע זה ישמש לתצוגה מקדימה של צבע הסמל. זה יחליף כל שימוש של #000000 בסמלים שהעלית. ביישום בפועל, הצבעים יהיו דינמיים.';
-$Definition['This connection is in test-mode.'] = 'החיבור נמצא במצב ניסיון.';
-$Definition['This controls how the responses are phrased and spelled.'] = 'זה שולט על אופן הניסוח והאיות של התגובות.';
-$Definition['This Database'] = 'מאגר הנתונים';
-$Definition['This forum is currently set to invitation only mode.'] = 'הפורום כרגע במצב בו הוא פתוח למשתמשים חדשים רק דרך הזמנות.';
-$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'תמונה זו תופיע בבאנר של קטגוריה זו ובווידג\'טים של קטגוריות בעת שימוש באפשרויות סגנון "תמונה" ו/או "רקע". המידות המומלצות הן בערך 1000px על 400px או יחס דומה.';
-$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'תמונה זו תשמש ברשימות קטגוריות ובווידג\'טים בעת שימוש באפשרות הסגנון "אייקון".';
-$Definition['This information will only be shown to users with permission to view internal info'] = 'מידע זה יוצג רק למשתמשים בעלי הרשאה לצפות במידע פנימי';
-$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'זהו סיכום שנוצר בינה מלאכותית מפוסט הדיון הנזכר שעשוי לענות על השאלה. הסיכום נוצר באופן שישמש כתשובה מקובלת.';
-$Definition['This is a parent category that does not allow discussions.'] = 'קטגוריה זו היא קטגורית על, ולא ניתן לפתוח בה דיונים.';
-$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'זה לא הכרחי ברוב האתרים מלבד אלה המשתמשים בתכונות כמו AdSense ו-Google Tag Manager.';
-$Definition['This is private information and will not be shared with other members.'] = 'זהו מידע פרטי ולא ישותף עם חברים אחרים.';
-$Definition['This is the actual size most icons render at.'] = 'זהו הגודל האמיתי שבו רוב הסמלים מוצגים.';
-$Definition['This is the first time you\'ve visited the discussion forums.'] = 'זו הפעם הראשונה בה אתה מבקר בפורום.';
-$Definition['This layout cannot be deleted because it is a layout template.'] = 'לא ניתן למחוק פריסה זו מכיוון שהיא תבנית פריסה.';
-$Definition['This layout cannot be deleted because it is currently applied.'] = 'לא ניתן למחוק פריסה זו מכיוון שהיא מוחלת כעת.';
-$Definition['This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.'] = 'שינוי פריסה זה לא יהיה גלוי עד שתעביר את הקהילה שלך ל-<0/> מותאם אישית בדף <1/>.';
-$Definition['This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default.'] = 'פריסה זו היא תבנית והיא מוקצית כברירת מחדל עבור כל הדפים מסוג זה. כדי להסיר אותו כברירת מחדל או להקצות אותו לדפים ספציפיים, עליך להקצות פריסה אחרת כברירת מחדל.';
-$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'זה עשוי לשמש כדי לכלול תוכן כגון שם הארגון והכתובת בתמצית הדוא"ל.';
-$Definition['This name will be shown in the community.'] = 'שם זה יוצג בקהילה.';
-$Definition['This option is to normalize the editor format'] = 'אפשרות זו היא לנרמל את פורמט העורך, אם פוסטים ישנים יותר שנערכו בפורמט אחר, כגון markdown או BBCode, נטענות, אפשרות זו תכפה על %s.';
-$Definition['This page requires Javascript.'] = 'ניתן להציג את הדף רק באמצעות Javascript.';
-$Definition['This pocket is an ad.'] = 'הכיס הזה הוא מודעה.';
-$Definition['This setting must be enabled to use Custom Discussion Threads.'] = 'הגדרה זו חייבת להיות מופעלת כדי להשתמש בשרשורי דיון מותאמים אישית.';
-$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'הגדרה זו תיכנס לתוקף רק אם %s נבחר כפורמט הפוסט לעיל.';
-$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'לא ניתן למחוק ערכת נושא זו מכיוון שזו ערכת הנושא הנמצאת בשימוש כעת.';
-$Definition['This theme has additional options.'] = 'לערכת הנושא הזאת יש אפשרויות נוספות בדף ה%s';
-$Definition['This theme has customizable text.'] = 'בערכת הנושא הזאת יש מלל שאתה יכול להתאים אישית.';
-$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'פעולה זו תיצור פגישת זום מטעם הבעלים של שילוב Zoom ואם אתה משתמש רשום, הוסף אותך כמארח משותף. אם אינך משתמש זום רשום או לא חלק מהארגון שהגדיר את האינטגרציה, ייתכן שלאירוע זה תהיה פונקציונליות זום מוגבלת ללא המארח.';
-$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = 'זה ינחה משתמשים אחרים עם שאלות דומות לתשובות הנכונות מהר יותר ויציג את התשובה המוצעת בינה מלאכותית ויקשר את החומר הנזכר למשתמשים אחרים. הצעות גלויות רק לך עד שתקבל את התשובה.';
-$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'זה לא ישפיע על אף <0 /> כרגע. זה ישפיע על אלה שעומדים בקריטריונים בעתיד.';
-$Definition['This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?'] = 'זה יפתור את כל הפוסטים הקיימים בקהילה. פעולה בכמות גדולה זו לא תפעיל webhooks או ניתוח יומנים. לְהַמשִׁיך?';
-$Definition['Threshold'] = 'סף';
-$Definition['Thumbnails'] = 'תמונות מקדימות';
-$Definition['Thumbnail Size'] = 'גודל תמונה ממוזערת';
-$Definition['Time'] = 'שעה';
-$Definition['Timeframe'] = 'מסגרת זמן';
-$Definition['Time since added to collection'] = 'הזמן מאז התווסף לאוסף';
-$Definition['Time since post has had no activity'] = 'הזמן מאז הפוסט לא הייתה פעילות';
-$Definition['Time since post has had no comments'] = 'לזמן מאז הפוסט לא היו תגובות';
-$Definition['Time since question has been unanswered'] = 'זמן מאז השאלה לא נענה';
-$Definition['Time since Registration'] = 'זמן מאז ההרשמה';
-$Definition['Title Color'] = 'צבע הכותרת';
-$Definition['Title Color (Hover)'] = 'צבע כותרת (רחף)';
-$Definition['Titles'] = 'כותרות';
-$Definition['Token Name'] = 'שם טוקן';
-$Definition['To learn more, <0>see the documentation</0>.'] = 'למידע נוסף, <0>עיין בתיעוד</0> .';
-$Definition['Touch Icon'] = 'אייקון מגע';
-$Definition['Triage'] = 'טריאז\'';
-$Definition['Triage Dashboard'] = 'לוח מחוונים של טריאג\'';
-$Definition['Trigger'] = 'לְהַפְעִיל';
-$Definition['True'] = 'נָכוֹן';
-$Definition['Truncate the initial discussion text to this many words.'] = 'קצר את טקסט הדיון הראשוני למספר זה של מילים.';
-$Definition['Trusted Domains'] = 'דומיינים מהימנים';
-$Definition['trusted domains'] = 'תחומים מהימנים';
-$Definition['Turn OFF'] = 'כיבוי';
-$Definition['Turn off AI Suggested Answers'] = 'כבה את הצעות AI';
-$Definition['Turn off for now'] = 'כבה לעת עתה';
-$Definition['Twitter Connector'] = 'מחבר טוויטר';
+$Definition["Test Mode"] =
+    "מצב בדיקה: הכיס יוצג רק למנהלי כיסים.";
+$Definition["Test URL"] = "URL לבדיקה";
+$Definition["Text Color"] = "צבע הטקסט";
+$Definition["TextEnterEmails"] =
+    "הקלד כתובות דוא\"ל המופרדות בפסיקים כאן";
+$Definition["The %s badge has already been given to %s."] =
+    "התג %s כבר ניתן ל-%s.";
+$Definition["The %s locale pack does not exist."] =
+    "חבילת האיזור ה-%s לא קיימת.";
+$Definition["The %s table is not in the correct format."] =
+    "טבלת ה-%s אינה בפורמט המתאים.";
+$Definition["The %s was already approved by %s on %s."] =
+    "%s כבר אושר בידי %s ב-%s.";
+$Definition["Thanks for sticking with us for a full year."] =
+    "תודה שנשארת איתנו בדבקות שנה שלמה.";
+$Definition["Thanks for sticking with us for %s years."] =
+    "תודה שנשארת איתנו בדבקות במשך %s שנים.";
+$Definition["The Basics"] = "הבסיס";
+$Definition["The client ID uniqely identifies the site."] =
+    "מספר מזהה של הלקוח מזהה באופן מיוחד את האתר הזה. אתה יכול ליצור תעודת זהות חדשה בתחתית העמוד.";
+$Definition["The content you were looking for has been deleted."] =
+    "התוכן שביקשת לראות כבר נמחק מן האתר.";
+$Definition[
+    "The default banner image across the site. This can be overridden on a per category basis."
+] =
+    "תמונת הבאנר המוגדרת כברירת מחדל ברחבי האתר. ניתן לעקוף זאת על בסיס כל קטגוריה.";
+$Definition["The default role has not been configured."] =
+    "תפקיד ברירת המחדל עדיין לא הוגדר.";
+$Definition["The email address this test will be sent to."] =
+    "כתובת האימייל שאליה בדיקה זו תישלח.";
+$Definition["The email has been sent."] = "אימייל זה נשלח.";
+$Definition["The first line of content in the email digest after the title."] =
+    "שורת התוכן הראשונה בתמצית המייל אחרי הכותרת.";
+$Definition["The homepage title is displayed on your home page."] =
+    "כותרת דף הבית מוצגת בדף הבית שלך. בחר כותרת שתרצה לראות מופיעה במנועי חיפוש.";
+$Definition["The homepage was saved successfully."] =
+    "דף הבית נשמר בהצלחה.";
+$Definition["The invitation was removed successfully."] =
+    "ההזמנה הוסרה בהצלחה.";
+$Definition["The invitation was sent successfully."] =
+    "ההזמנה נשלחה בהצלחה.";
+$Definition["The Key in the XML payload to designate %s."] =
+    "המפתח בעומס ה- XML לייעוד %s.";
+$Definition[
+    "The test digest will generate content as if it were this user receiving the digest."
+] =
+    "תקציר הבדיקה יפיק תוכן כאילו היה זה המשתמש שמקבל את התקציר.";
+$Definition["Theme Editor"] = "עורך ערכות נושא";
+$Definition["Theme Options"] = "אפשרויות של ערכת הנושא";
+$Definition["Themes"] = "ערכות נושא";
+$Definition["ThemeEditor.Copy"] = "<0/> העתק";
+$Definition["Theming Documentation"] = "תיעוד ערכת נושא ";
+$Definition["Theming Overview"] = "סקירה של ערכות נושא";
+$Definition[
+    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
+] =
+    'אירעה שגיאה בהעלאת התמונה. את לוגו האימייל שלך אפשר להעלות באחד מסוגי הקובץ הבאים: gif, jpg, png';
+$Definition["There are currently no applicants."] =
+    "כרגע אין מועמדים.";
+$Definition["There is currently %s applicant."] =
+    "יש כרגע מועמד %s.";
+$Definition["There are currently %s applicants."] =
+    "יש כרגע %s מועמדים.";
+$Definition["There are currently no requests."] =
+    "אין כרגע אף בקשה.";
+$Definition["There is currently %s request."] =
+    "יש כרגע בקשה %s.";
+$Definition["There are currently %s requests."] =
+    "יש כרגע %s בקשות.";
+$Definition["There are no items awaiting moderation at this time."] =
+    "אין כרגע הודעות שדורשות טיפול של המנהל.";
+$Definition[
+    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
+] =
+    "כבר יש חשבון בפורום עם כתובת הדוא\"ל שסופקה. בבקשה צור חשבון חדש, או שתכניס את הפרטים של החשבון הקיים.";
+$Definition["The next three email digest delivery dates"] =
+    "שלושת תאריכי המסירה הבאים של תקציר האימייל";
+$Definition["The secret secures the sign in process."] =
+    "הסוד מאבטח את תהליך ההתחברות <b>אל</b> תביא לאף אחד את הסוד שלך.";
+$Definition["The site description usually appears in search engines."] =
+    "תיאור האתר מופיע בדרך כלל במנועי חיפוש. אתה צריך לנסות לכתוב תיאור באורך שלך 100-150 תווים.";
+$Definition["The site is currently undergoing scheduled maintenance."] =
+    "האתר כרגע תחת תחזוקה.";
+$Definition["The specified url code is already in use by another category."] =
+    "קוד ה-Url שציינת כבר נמצא בשימושה של קטגוריה אחרת.";
+$Definition["The structure was successfully executed."] =
+    "המבנה הזה יצא לפועל בהצלחה.";
+$Definition["The update was not successful."] =
+    "העדכון לא הצליח.";
+$Definition["The update was successful."] = "העדכון עבר בהצלחה.";
+$Definition["The url that users go to to register for a new account."] =
+    "הכתובת אליה מופנים המשתמשים כדי להירשם לחשבון חדש.";
+$Definition["The url that users use to register for a new account."] =
+    "הכתובת בה המשתמשים נרשמים כדי לקבל חשבון חדש.";
+$Definition["The url that users use to sign in."] =
+    "הכתובת בה המשתמשים נכנסים לפורום.";
+$Definition["The URL where users can sign up for new accounts on your site"] =
+    "ה-URL דרכו משתמשים ייצרו חשבונות חדשים לאתר שלך";
+$Definition["The URL where users sign in on your site"] =
+    "ה-URL בו משתמשים יכנסו את פרטי החשבון";
+$Definition["The URL where users sign out of your site"] =
+    "ה-URL בו משתמשים יתנתקו מהחשבון";
+$Definition["The user and all related content has been deleted."] =
+    "המשתמש וכול המידע הקשור בו נמחקו.";
+$Definition["The user content will be completely deleted."] =
+    "המידע של המשתמש יימחק לחלוטין.";
+$Definition["The user content will remain untouched."] =
+    "לא יבוצעו שינויים במידע של המתמש.";
+$Definition["The user has been created successfully"] =
+    "חשבון המשתמש נוצר בהצלחה.";
+$Definition["The user has been deleted."] = "חשבון המשתמש נמחק.";
+$Definition["This action cannot be undone."] = "לא ניתן לבטל את ביצוע הפעולה.";
+$Definition[
+    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
+] =
+    "זה לא הכרחי ברוב האתרים מלבד אלה המשתמשים בתכונות כמו AdSense ו-Google Tag Manager.";
+$Definition[
+    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
+] =
+    "זהו סיכום שנוצר בינה מלאכותית מפוסט הדיון הנזכר שעשוי לענות על השאלה. הסיכום נוצר באופן שישמש כתשובה מקובלת.";
+$Definition["This category has custom permissions."] =
+    "לקטגוריה זו יש הרשאות מיוחדות.";
+$Definition["This category is archived."] = "הקטגוריה הזו נמצאת בארכיון.";
+$Definition["This connection is in test-mode."] =
+    "החיבור נמצא במצב ניסיון.";
+$Definition["This controls how the responses are phrased and spelled."] =
+    "זה שולט על אופן הניסוח והאיות של התגובות.";
+$Definition["This Database"] = "מאגר הנתונים";
+$Definition["QnAFollowup.Feature.Enabled"] =
+    "תכונה זו שולחת דוא\"ל למחברים של שאלות שנענות עליהן אין תשובה מקובלת.";
+$Definition["This forum is currently set to invitation only mode."] =
+    "הפורום כרגע במצב בו הוא פתוח למשתמשים חדשים רק דרך הזמנות.";
+$Definition[
+    'This image will be used in category lists and widgets when using the "Icon" style option.'
+] =
+    'תמונה זו תשמש ברשימות קטגוריות ובווידג\'טים בעת שימוש באפשרות הסגנון "אייקון".';
+$Definition[
+    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
+] =
+    'תמונה זו תופיע בבאנר של קטגוריה זו ובווידג\'טים של קטגוריות בעת שימוש באפשרויות סגנון "תמונה" ו/או "רקע". המידות המומלצות הן בערך 1000px על 400px או יחס דומה.';
+$Definition["This is a parent category that does not allow discussions."] =
+    "קטגוריה זו היא קטגורית על, ולא ניתן לפתוח בה דיונים.";
+$Definition['This is the first time you\'ve visited the discussion forums.'] =
+    'זו הפעם הראשונה בה אתה מבקר בפורום.';
+$Definition[
+    "This may be used to include content such as organization name and address in the email digest."
+] =
+    "זה עשוי לשמש כדי לכלול תוכן כגון שם הארגון והכתובת בתמצית הדוא\"ל.";
+$Definition["This name will be shown in the community."] =
+    "שם זה יוצג בקהילה.";
+$Definition["This page requires Javascript."] =
+    "ניתן להציג את הדף רק באמצעות Javascript.";
+$Definition["This pocket is an ad."] = "הכיס הזה הוא מודעה.";
+$Definition[
+    "This theme cannot be deleted because it is the currently applied theme"
+] = "לא ניתן למחוק ערכת נושא זו מכיוון שזו ערכת הנושא הנמצאת בשימוש כעת.";
+$Definition["This theme has additional options."] =
+    "לערכת הנושא הזאת יש אפשרויות נוספות בדף ה%s";
+$Definition["This theme has customizable text."] =
+    "בערכת הנושא הזאת יש מלל שאתה יכול להתאים אישית.";
+$Definition[
+    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
+] =
+    "זה ינחה משתמשים אחרים עם שאלות דומות לתשובות הנכונות מהר יותר ויציג את התשובה המוצעת בינה מלאכותית ויקשר את החומר הנזכר למשתמשים אחרים. הצעות גלויות רק לך עד שתקבל את התשובה.";
+$Definition["Threshold"] = "סף";
+$Definition["Thumbnails"] = "תמונות מקדימות";
+$Definition["Thumbnail Size"] = "גודל תמונה ממוזערת";
+$Definition["Time"] = "שעה";
+$Definition["Timeframe"] = "מסגרת זמן";
+$Definition["Titles"] = "כותרות";
+$Definition["Title Color"] = "צבע הכותרת";
+$Definition["Title Color (Hover)"] = "צבע כותרת (רחף)";
+$Definition["Token Name"] = "שם טוקן";
+$Definition["Touch Icon"] = "אייקון מגע";
+$Definition["True"] = "נָכוֹן";
+$Definition["Truncate the initial discussion text to this many words."] =
+    "קצר את טקסט הדיון הראשוני למספר זה של מילים.";
+$Definition["trusted domains"] = "תחומים מהימנים";
+$Definition["Trusted Domains"] = "דומיינים מהימנים";
+$Definition["Turn OFF"] = "כיבוי";
+$Definition["Turn off AI Suggested Answers"] = "כבה את הצעות AI";
+$Definition["Turn off for now"] = "כבה לעת עתה";
+$Definition["Twitter Connector"] = "מחבר טוויטר";
 
-$Definition['Unable to re-assign default template'] = 'לא ניתן להקצות מחדש תבנית ברירת מחדל';
-$Definition['Unassigned'] = 'לא הוקצה';
-$Definition['unconfirmed'] = 'לא מאושר';
-$Definition['Undo Accept Answer'] = 'בטל קבל תשובה';
-$Definition['Uninvite'] = 'ביטול הזמנה';
-$Definition['Universal Code'] = 'קוד אוניברסלי';
-$Definition['Universal Forum Embed Code'] = 'קוד הטמעה של הפורום העולמי';
-$Definition['Unlimited'] = 'לא מוגבל';
-$Definition['Unsaved Changes'] = 'שינויים שלא נשמרו';
-$Definition['Untitled'] = 'ללא כותרת';
-$Definition['Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>'] = 'חברים לא מאומתים שהיו בקהילה פחות ממספר הימים שצוין יתבקשו להשלים אתגר Cloudflare (Captcha או Checkbox) כדי למנוע דואר זבל. <0/>';
-$Definition['Upcoming Events'] = 'אירועים קרובים';
-$Definition['Upload a placeholder image for catalogue post.'] = 'העלה תמונת שומר מקום שתוצג כאשר למשתמשים אין תמונה בפוסט שלהם.';
-$Definition['Uploaded <0/> by <1/>'] = 'הועלה <0/> על ידי <1/>';
-$Definition['Upload Icon Pack'] = 'העלה חבילת אייקונים';
-$Definition['Upload New Email Logo'] = 'העלה לוגו אימייל חדש';
-$Definition['Upload New Icon'] = 'העלה סמל חדש';
-$Definition['Upload Placeholder Image'] = 'העלה תמונת שומר מקום';
-$Definition['Up to <0 /> ago.'] = 'עד לפני <0 />.';
-$Definition['Up to a maximum of 100 items may be displayed.'] = 'ניתן להציג עד 100 פריטים לכל היותר.';
-$Definition['upvote'] = 'להצביע בעד';
-$Definition['upvotes'] = 'הצבעות בעד';
-$Definition['Use AI Suggestions in Q&A'] = 'השתמש בהצעות AI בשאלות ותשובות';
-$Definition['Use an SMTP server to send email'] = 'תשתמש בשרת SMTP כדי לשלוח מיילים.';
-$Definition['Use asterisks for wildcards'] = 'השתמש בכוכביות עבור תוויות כלליות, לדוגמא "*@gmail.com"';
-$Definition['Use British English Spelling'] = 'השתמש באיות באנגלית בריטי';
-$Definition['Use Categories'] = 'תשתמש בקטגוריות.';
-$Definition['Use categories to organize discussions'] = 'תשתמש בקטגוריות כדי להפריד בין הדיונים';
-$Definition['Use Facebook names for usernames.'] = 'השתמש בשמות בפייסבוק כשמות המשתמשים.';
-$Definition['Use Masonry display'] = 'השתמש בתצוגת מלבנים';
-$Definition['User Count'] = 'משתמשים';
-$Definition['UserDelete'] = 'הסרת תוכן משתמש';
-$Definition['User Deleted'] = 'משתמש הוסר';
-$Definition['UserDeleteMessage'] = 'הסרת המשתמש והסרה לחלוטין של כל תוכן המשתמש. זה עלול לגרום לדיונים להפוך לקטועים. האפשרות הטובה ביותר להסרת ספאם.';
-$Definition['UserDeletionPrompt'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
-$Definition['UserKeep'] = 'שמור את תוכן המשתמש';
-$Definition['UserKeepMessage'] = 'הסרת המשתמש ולשמור על תוכן המשתמש.';
-$Definition['User Management'] = 'ניהול משתמשים';
-$Definition['Username or UserID to Spoof'] = 'שם משתמש או UserID ל-Spoof';
-$Definition['User Preferences'] = 'העדפות המשתמש';
-$Definition['User Registration Settings'] = 'הגדרות לרישום חשבונות';
-$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'משתמשים יכולים לעקוב אחר קטגוריות כדי להירשם להתראות על פוסטים חדשים. בחר באילו קטגוריות משתמשים חדשים צריכים לעקוב כברירת מחדל.';
-$Definition['Users marked as "Verified" will bypass this requirement. These are are the roles with "Approval.Require"'] = 'משתמשים שסומנו כ"מאומת" יעקפו את הדרישה הזו. אלו הם התפקידים עם "אישור. דורש"';
-$Definition['Users Matching Criteria Now: <0 />'] = 'קריטריוני התאמת משתמשים עכשיו: <0 />';
-$Definition['Users that get this reaction get %+d point.'] = 'משתמשים אשר מקבלים תגובה זאת יקבלו %+d נקודות.';
-$Definition['Users that get this reaction get %+d points.'] = 'משתמשים המקבלים את התגובה הזאת מקבלים  %+d נקודות.';
-$Definition['User successfully added.'] = 'המשתמש נוסף בהצלחה.';
-$Definition['User successfully updated.'] = 'המשתמש עודכן בהצלחה.';
-$Definition['User Summary'] = 'תקציר המתשתמש';
-$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'משתמשים ישויכו לתפקיד הזה עד שהם יאמתו את כתובת האימייל שלהם.';
-$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'המשתמשים ינותבו לכתובת URL זו לאחר שיקבלו הזמנה. זו יכולה להיות כתובת URL שלמה או נתיב לניתוב מחדש בתוך האתר.';
-$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'המשתמשים לא יוזהרו כשייכנסו לקישורים שתואמים דומיינים מהימנים.';
-$Definition['Users with the "Approval.Require" permission will require moderator approval for all posts.'] = 'משתמשים עם הרשאת "Approval.Require" ידרשו אישור מנחה עבור כל הפוסטים.';
-$Definition['Users with the no ads permission will not see this pocket.'] = 'משתמשים עם הרשאת "ללא פרסומות" לא יציגו את Pocket הזה.';
-$Definition['UserWipe'] = 'תוכן משתמש ריק';
-$Definition['UserWipeMessage'] = 'מחק  את המשתמש והחלף את כל התוכן של המשתמש באמצעות הודעה המצהירה כי המשתמש נמחק. זה מעניק סימן ויזואלי שישנו מידע חסר.';
-$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'משתמש בשפה טכנית ביותר ובמונחים ספציפיים לתעשייה המיועדים לבעלי הבנה עמוקה של הנושא.';
-$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'משתמש במונחים ספציפיים לתעשייה במידת הצורך, אך מספק גם הסברים להגדרות כדי להבטיח בהירות.';
-$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'משתמש בשפה פשוטה ויומיומית שכל אחד יכול להבין, ללא קשר לרקע או מומחיותו.';
-$Definition['Use the content at this url as your homepage.'] = 'בחירת הדף שאנשים יראו כאשר יבקרו: <strong style="white-space: nowrap;">%s</strong>';
-$Definition['Use Vanilla as a commenting system in your site'] = 'הוסף את Vanilla כמערכת התגובות באתר שלך.';
-$Definition['Use weekly community email digest'] = 'השתמש בתמצית דוא"ל שבועית של הקהילה';
+$Definition["unconfirmed"] = "לא מאושר";
+$Definition["Undo Accept Answer"] = "בטל קבל תשובה";
+$Definition["Uninvite"] = "ביטול הזמנה";
+$Definition["Universal Code"] = "קוד אוניברסלי";
+$Definition["Universal Forum Embed Code"] = "קוד הטמעה של הפורום העולמי";
+$Definition["Unlimited"] = "לא מוגבל";
+$Definition["Up to a maximum of 100 items may be displayed."] =
+    "ניתן להציג עד 100 פריטים לכל היותר.";
+$Definition["Upload New Email Logo"] = "העלה לוגו אימייל חדש";
+$Definition["Upcoming Events"] = "אירועים קרובים";
+$Definition["Use an SMTP server to send email"] =
+    "תשתמש בשרת SMTP כדי לשלוח מיילים.";
+$Definition["Use asterisks for wildcards"] =
+    'השתמש בכוכביות עבור תוויות כלליות, לדוגמא "*@gmail.com"';
+$Definition["Use British English Spelling"] = "השתמש באיות באנגלית בריטי";
+$Definition["Use Categories"] = "תשתמש בקטגוריות.";
+$Definition["Use categories to organize discussions"] =
+    "תשתמש בקטגוריות כדי להפריד בין הדיונים";
+$Definition["Use Facebook names for usernames."] =
+    "השתמש בשמות בפייסבוק כשמות המשתמשים.";
+$Definition["Use AI Suggestions in Q&A"] = "השתמש בהצעות AI בשאלות ותשובות";
+$Definition["User Count"] = "משתמשים";
+$Definition["UserDelete"] = "הסרת תוכן משתמש";
+$Definition["User Deleted"] = "משתמש הוסר";
+$Definition["User Preferences"] = "העדפות המשתמש";
+$Definition[
+    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
+] =
+    "משתמש בשפה טכנית ביותר ובמונחים ספציפיים לתעשייה המיועדים לבעלי הבנה עמוקה של הנושא.";
+$Definition[
+    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
+] =
+    "משתמש במונחים ספציפיים לתעשייה במידת הצורך, אך מספק גם הסברים להגדרות כדי להבטיח בהירות.";
+$Definition[
+    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
+] =
+    "משתמש בשפה פשוטה ויומיומית שכל אחד יכול להבין, ללא קשר לרקע או מומחיותו.";
+$Definition["UserDeleteMessage"] =
+    'הסרת המשתמש והסרה לחלוטין של כל תוכן המשתמש. זה עלול לגרום לדיונים להפוך לקטועים. האפשרות הטובה ביותר להסרת ספאם.';
+$Definition["UserDeletionPrompt"] =
+    "בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו')";
+$Definition["UserKeep"] = "שמור את תוכן המשתמש";
+$Definition["UserKeepMessage"] =
+    'הסרת המשתמש ולשמור על תוכן המשתמש.';
+$Definition["Username or UserID to Spoof"] = "שם משתמש או UserID ל-Spoof";
+$Definition["User Registration Settings"] = "הגדרות לרישום חשבונות";
+$Definition["User successfully added."] = "המשתמש נוסף בהצלחה.";
+$Definition["User successfully updated."] = "המשתמש עודכן בהצלחה.";
+$Definition[
+    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
+] =
+    "משתמשים יכולים לעקוב אחר קטגוריות כדי להירשם להתראות על פוסטים חדשים. בחר באילו קטגוריות משתמשים חדשים צריכים לעקוב כברירת מחדל.";
+$Definition["Users that get this reaction get %+d point."] =
+    "משתמשים אשר מקבלים תגובה זאת יקבלו %+d נקודות.";
+$Definition["Users that get this reaction get %+d points."] =
+    "משתמשים המקבלים את התגובה הזאת מקבלים  %+d נקודות.";
+$Definition[
+    "Users will not be warned when following links that match a Trusted Domain."
+] =
+    "המשתמשים לא יוזהרו כשייכנסו לקישורים שתואמים דומיינים מהימנים.";
+$Definition[
+    "Users will be redirected to this URL after accepting an invitation."
+] =
+    "המשתמשים ינותבו לכתובת URL זו לאחר שיקבלו הזמנה. זו יכולה להיות כתובת URL שלמה או נתיב לניתוב מחדש בתוך האתר.";
+$Definition["User Summary"] = "תקציר המתשתמש";
+$Definition[
+    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
+] =
+    'משתמשים ישויכו לתפקיד הזה עד שהם יאמתו את כתובת האימייל שלהם.';
+$Definition["Users with the no ads permission will not see this pocket."] =
+    "משתמשים עם הרשאת \"ללא פרסומות\" לא יציגו את Pocket הזה.";
+$Definition["UserWipe"] = "תוכן משתמש ריק";
+$Definition["UserWipeMessage"] =
+    'מחק  את המשתמש והחלף את כל התוכן של המשתמש באמצעות הודעה המצהירה כי המשתמש נמחק. זה מעניק סימן ויזואלי שישנו מידע חסר.';
+$Definition["Use the content at this url as your homepage."] =
+    'בחירת הדף שאנשים יראו כאשר יבקרו: <strong style="white-space: nowrap;">%s</strong>';
+$Definition["Use Vanilla as a commenting system in your site"] =
+    "הוסף את Vanilla כמערכת התגובות באתר שלך.";
+$Definition["Use weekly community email digest"] =
+    "השתמש בתמצית דוא\"ל שבועית של הקהילה";
+$Definition["Untitled"] = "ללא כותרת";
 
-$Definition['Value is not a valid integer.'] = 'ערך אינו מספר שלם חוקי.';
-$Definition['Value or Pattern'] = 'ערך או דפוס';
-$Definition['Vanilla.Archive.Description'] = 'אתה יכול לבחור להכניס לארכיון דיוני פורום הישנים יותר מתאריך מסויים. דיונים בארכיון הם נעולים, מה שלא מאפשר בהם פרסומים נוספים.';
-$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'הנח קטגוריות מקוננות ברשימה והפרד בפסיק כאשר הן %1$s';
-$Definition['Vanilla is installed!'] = 'Vanilla הותקנה בהצלחה!';
-$Definition['Verified!'] = 'מאושר!';
-$Definition['Verify browsers of new members'] = 'אמת דפדפנים של חברים חדשים';
-$Definition['Version'] = 'גרסה';
-$Definition['Version %s'] = 'גרסה  %s';
-$Definition['version %s'] = 'גרסה %s';
-$Definition['Version %s Installer'] = 'התקנה לגרסה %s';
-$Definition['View browser compatibility chart'] = 'הצג תרשים תאימות לדפדפן';
-$Definition['View Category'] = 'הצג קטגוריה';
-$Definition['View Count'] = 'ספירת צפיות';
-$Definition['View Details'] = 'הצג פרטים';
-$Definition['View Escalation'] = 'הצג הסלמה';
-$Definition['View History'] = 'הצג היסטוריה';
-$Definition['View in context '] = 'צפה בהקשר';
-$Definition['View Page'] = 'צפיה בעמוד';
-$Definition['View post in community'] = 'צפה בפוסט בקהילה';
-$Definition['VIP Deploy'] = 'פריסת VIP';
-$Definition['Visit Site'] = 'בקר באתר';
-$Definition['Visualize Your Community'] = 'דמיינו את הקהילה שלכם';
-$Definition['Votes on an idea'] = 'הצבעות על רעיון';
-
-$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'אזהרה: כול המידה של יאבד. אין שום דרך לשחזר את המידע לאחר המחיקה.';
-$Definition['Warning: deleting is permanent'] = 'אזהרה: מחיקת פריטים מסירה אותם מהרשימה הזאת ואי אפשר להחזיר אותם.';
-$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'הזהר/י את המשתמשים אם קישור בפוסט כלשהו יגרום להם שיעזבו את הפורום';
-$Definition['Weekly Email Digest '] = 'תקציר אימייל שבועי';
-$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'קַבָּלַת פָּנִים. אני עוזר ההצעות של AI שלך, כלי מבוסס למידת מכונה שנועד לאתר ולהציע מאמרים ופוסטים רלוונטיים בתגובה לשאילתות שלך. אנא הזן את שאלותיך ואספק את המידע המתאים ביותר.';
-$Definition['Welcome to Vanilla!'] = 'ברוך הבא ל-Vanilla!';
-$Definition['Welcome to your Dashboard'] = 'ברוך הבא ללוח הבקרה שלך';
-$Definition['We only accept urls that begin with http:// or https://'] = 'לא יתקבלו כתובות URL שלא מתחילות ב- http:// או ב- https://';
-$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Vanilla עושה שימוש בשרת הדוא"ל המקומי כברירת מחדל. אם ברצונך להגדיר שרת SMTP אחר לשליחת הודעות, עשה זאת למטה.';
+$Definition["Value or Pattern"] = "ערך או דפוס";
+$Definition["Vanilla.Archive.Description"] =
+    "אתה יכול לבחור להכניס לארכיון דיוני פורום הישנים יותר מתאריך מסויים. דיונים בארכיון הם נעולים, מה שלא מאפשר בהם פרסומים נוספים.";
+$Definition["Vanilla.Categories.MaxDisplayDepth"] =
+    'הנח קטגוריות מקוננות ברשימה והפרד בפסיק כאשר הן %1$s';
+$Definition["Vanilla is installed!"] = "Vanilla הותקנה בהצלחה!";
+$Definition["Verified!"] = "מאושר!";
+$Definition["Version"] = "גרסה";
+$Definition["Version %s"] = "גרסה  %s";
+$Definition["version %s"] = "גרסה %s";
+$Definition["Version %s Installer"] = "התקנה לגרסה %s";
+$Definition["View browser compatibility chart"] =
+    "הצג תרשים תאימות לדפדפן";
+$Definition["View Count"] = "ספירת צפיות";
+$Definition["View in context "] = "צפה בהקשר";
+$Definition["View Page"] = "צפיה בעמוד";
+$Definition["Visit Site"] = "בקר באתר";
+$Definition[
+    "Warn users if a link in a post will cause them to leave the forum"
+] = "הזהר/י את המשתמשים אם קישור בפוסט כלשהו יגרום להם שיעזבו את הפורום";
+$Definition[
+    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
+] =
+    "אזהרה: כול המידה של יאבד. אין שום דרך לשחזר את המידע לאחר המחיקה.";
+$Definition["Warning: deleting is permanent"] =
+    "אזהרה: מחיקת פריטים מסירה אותם מהרשימה הזאת ואי אפשר להחזיר אותם.";
+$Definition["Weekly Email Digest "] = "תקציר אימייל שבועי";
+$Definition["Welcome to Vanilla!"] = "ברוך הבא ל-Vanilla!";
+$Definition["Welcome to your Dashboard"] = "ברוך הבא ללוח הבקרה שלך";
+$Definition["We only accept urls that begin with http:// or https://"] =
+    "לא יתקבלו כתובות URL שלא מתחילות ב- http:// או ב- https://";
+$Definition[
+    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
+] =
+    "Vanilla עושה שימוש בשרת הדוא\"ל המקומי כברירת מחדל. אם ברצונך להגדיר שרת SMTP אחר לשליחת הודעות, עשה זאת למטה.";
+$Definition[
+    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
+] =
+    "קַבָּלַת פָּנִים. אני עוזר ההצעות של AI שלך, כלי מבוסס למידת מכונה שנועד לאתר ולהציע מאמרים ופוסטים רלוונטיים בתגובה לשאילתות שלך. אנא הזן את שאלותיך ואספק את המידע המתאים ביותר.";
 $Definition['What\'s the Buzz?'] = 'על מה כול הרעש?';
-$Definition['When enabled, search result will open in a new browser tab.'] = 'כאשר מופעל, תוצאת החיפוש תיפתח בכרטיסיית דפדפן חדשה.';
-$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'כאשר מופעל, הקהילה שלך תציג הצעות AI בשאלות ותשובות. <0/>';
-$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'כאשר הגדרה זו מופעלת, פרטי המשתמש בנתוני Analytics יהיו אנונימיים כברירת מחדל, עד שהמשתמש יסכים לקובצי Cookie של Analytics. <0>למידע נוסף</0>';
-$Definition['Where is your Community Forum?'] = 'איפה הפורום?';
+$Definition["When enabled, search result will open in a new browser tab."] =
+    "כאשר מופעל, תוצאת החיפוש תיפתח בכרטיסיית דפדפן חדשה.";
+$Definition[
+    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
+] = "כאשר מופעל, הקהילה שלך תציג הצעות AI בשאלות ותשובות. <0/>";
+$Definition[
+    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
+] =
+    "כאשר הגדרה זו מופעלת, פרטי המשתמש בנתוני Analytics יהיו אנונימיים כברירת מחדל, עד שהמשתמש יסכים לקובצי Cookie של Analytics. <0>למידע נוסף</0>";
+$Definition["Where is your Community Forum?"] =
+    "איפה הפורום?";
 $Definition['Who\'s Online Settings'] = 'הגדרות להצגה של מי מחובר';
-$Definition['Why am I seeing AI Suggested Answers?'] = 'מדוע אני רואה תשובות מוצעות בינה מלאכותית?';
-$Definition['Why am I seeing this?'] = 'למה אני רואה את זה?';
-$Definition['Why do you want to join?'] = 'למה אתה רוצה להצטרך לפורום';
-$Definition['Will you be attending?'] = 'האם בכוונתך להשתתף?';
-$Definition['Wipe'] = 'לְנַגֵב';
-$Definition['with'] = 'עִם';
-$Definition['Within'] = 'בתוך';
-$Definition['with reason'] = 'בְּצֶדֶק';
-$Definition['with tag'] = 'עם תג';
-$Definition['Word Count'] = 'מספר מילים';
-$Definition['WordPress Plugin'] = 'תוסף ל-Wordpress';
+$Definition["Why am I seeing AI Suggested Answers?"] =
+    "מדוע אני רואה תשובות מוצעות בינה מלאכותית?";
+$Definition["Why am I seeing this?"] = "למה אני רואה את זה?";
+$Definition["Why do you want to join?"] = "למה אתה רוצה להצטרך לפורום";
+$Definition["Within"] = "בתוך";
+$Definition["Will you be attending?"] = "האם בכוונתך להשתתף?";
+$Definition["WordPress Plugin"] = "תוסף ל-Wordpress";
+$Definition["Word Count"] = "מספר מילים";
 
-$Definition['Yes, the following information can be changed later.'] = 'כן, ניתן לשנות את הפרטים הבאים אחר כך.';
-$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'הגעת למקסימום ניסיונות ההתחברות. אנא המתן %s ונסה שוב.';
-$Definition['You are connected as %s.'] = 'הנכם מחוברים כ- %s.';
-$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'אתה עוזב את דף הגדרות הדוא"ל מבלי לשמור את השינויים שלך. ודא שהעדכונים שלך נשמרים לפני היציאה.';
-$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'הנך עוזב/ת את עורך ערכת הנושא מבלי לשמור את השינויים שלך. יש לוודא שהעדכונים שלך נשמרו לפני היציאה.';
-$Definition['You are not allowed to use suggestions'] = 'אינך רשאי להשתמש בהצעות';
-$Definition['You are previewing the %s theme.'] = 'הנך צופה בהצגה מקדימה של ערכת הנושא %s.';
-$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'סימון התיבה אשר בסמוך למשתמש אשר פרסם את הספאם כדי להביא להם באן ולמחוק את כל הפרסומים שלהם. <b>עשה זאת רק אם הנך בטוח שהם ספאמרים.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'אם אי פעם ננעלת מחוץ לפורום שלך אתה תמיד יכול להתחבר מחדש על ידי שימוש באימייל ונילה המקורי שלך ובסיסמה ב <a href="%1$s">%1$s</a>';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'כלי זה מאפשר לחסום כתובות IP, ספקי אי-מייל, ומילים מסויימות של משתמשים שונים.';
-$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'ניתן לשנות את ה-HTML וה-CSS של ערכת הנושא בדף הבא %s.';
-$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'אם כבר יש ברשותך חשבון אנא הכנס את פרטיו, אחרת ניתן ליצור חשבון חדש.';
-$Definition['You can make the categories page your homepage.'] = 'באפשרותך להפוך את דף הקטגוריות שלך לדף הבית שלך <a href="%s">כאן</a>.';
-$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'לא ניתן להוסיף יותר מ-150 כללי אוטומציה. מחק כמה כללים ונסה שוב.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'אי-אפשר להפסיק את פעולת התוספת  %1$s בגלל שהתוספת  %2$s זקוקה לה כדי להמשיך לעבוד.';
-$Definition['You cannot remove the only remaining category that allows discussions'] = 'לא ניתן להסיר את הקטגוריה האחרונה שנשארה שמאפשרת דיונים.';
-$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'לא ניתן לעדכן את כתובת ה-URL או המזהה הזום של האירוע הזה.';
-$Definition['You can protect your site with an HTTP username/password during development.'] = 'באפשרותך להגן על האתר שלך באמצעות שם משתמש או סיסמה ב- HTTP במהלך הפיתוח.';
-$Definition['You can search for users by username or email, wildcards are implied.'] = 'אתה יכול לחפש משתמשים לפי שם משתמש או דוא"ל, תווים כלליים נרמזים.';
-$Definition['You can send emails in plain text by disabling the toggle below.'] = 'ניתן לשלוח אימיילים בטקסט רגיל ע"י השבתת הכפתור הדו-מצבי שלמטה.';
-$Definition['You can specify an allow list of trusted domains.'] = 'אתה יכול לציין רשימה של דומיינים מהימנים בטוחים להפניות מחדש ולהטמעה.';
-$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'אתה יכול לציין רשימת אישורים של דומיינים מהימנים (לדוגמה yourdomain.com) שמהם בטוח לטעון JavaScript.';
-$Definition['You have %s invitations left for this month.'] = 'נותרו לך %s הזמנות החודש.';
-$Definition['You have successfully saved interest: <0/>'] = 'שמרת בהצלחה ריבית: <0/>';
-$Definition['You must be authenticated in order to use this form.'] = 'עליכם להתחבר לחשבון שלך כדי להשתמש בטופס הזה';
-$Definition['You must manually apply this rank.'] = 'עליכם לאשר ידנית את הדרגה הזו.';
-$Definition['You must provide at least one recipient'] = 'יש להוסיף לפחות נמען אחד.';
-$Definition['You must specify an admin password.'] = 'בחירת סיסמה לחשבון הניהול.';
-$Definition['You must specify an admin username.'] = 'בחירת שם משתמש לחשבון הניהול.';
-$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'לקובץ ההגדרות שלך אין את ההרשאות הנכונות. PHP צריך להיות מסוגל לקרוא ולכתוב לקובץ הבא: <code>%s</code>';
-$Definition['Your default locale won\'t display properly'] = 'איזור ברירת המחדל שלך לא יוצג כראוי עד שזה יאופשר למטה. אנא אפשר את הבאים: %s.';
-$Definition['Your Email'] = 'כתובת דואר אלקטרוני';
-$Definition['Your inbox is empty.'] = 'תיבת הדואר שלך ריקה.';
-$Definition['Your invitations were sent successfully.'] = 'ההזמנות נשלחו בהצלחה';
-$Definition['Your Password'] = 'סיסמה שלך';
+$Definition["Yes, the following information can be changed later."] =
+    "כן, ניתן לשנות את הפרטים הבאים אחר כך.";
+$Definition["You are connected as %s."] = "הנכם מחוברים כ- %s.";
+$Definition["You are not allowed to use suggestions"] =
+    "אינך רשאי להשתמש בהצעות";
+$Definition["You are previewing the %s theme."] =
+    "הנך צופה בהצגה מקדימה של ערכת הנושא %s.";
+$Definition[
+    "You can also ban the users that posted the spam and delete all of their posts."
+] =
+    "סימון התיבה אשר בסמוך למשתמש אשר פרסם את הספאם כדי להביא להם באן ולמחוק את כל הפרסומים שלהם. <b>עשה זאת רק אם הנך בטוח שהם ספאמרים.</b>";
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
+    'אם אי פעם ננעלת מחוץ לפורום שלך אתה תמיד יכול להתחבר מחדש על ידי שימוש באימייל ונילה המקורי שלך ובסיסמה ב <a href="%1$s">%1$s</a>';
+$Definition[
+    "You can ban IP addresses, email domains, and words from usernames using this tool."
+] =
+    "כלי זה מאפשר לחסום כתובות IP, ספקי אי-מייל, ומילים מסויימות של משתמשים שונים.";
+$Definition[
+    "You can customize the HTML and CSS for this theme on the %s page."
+] = "ניתן לשנות את ה-HTML וה-CSS של ערכת הנושא בדף הבא %s.";
+$Definition[
+    "You can either create a new account, or enter your credentials if you have an existing account."
+] =
+    "אם כבר יש ברשותך חשבון אנא הכנס את פרטיו, אחרת ניתן ליצור חשבון חדש.";
+$Definition["You can make the categories page your homepage."] =
+    'באפשרותך להפוך את דף הקטגוריות שלך לדף הבית שלך <a href="%s">כאן</a>.';
+$Definition[
+    "You can search for users by username or email, wildcards are implied."
+] = "אתה יכול לחפש משתמשים לפי שם משתמש או דוא\"ל, תווים כלליים נרמזים.";
+$Definition["You can specify an allow list of trusted domains."] =
+    "אתה יכול לציין רשימה של דומיינים מהימנים בטוחים להפניות מחדש ולהטמעה.";
+$Definition["You can specify an allow list of trusted domains. (CSP)"] =
+    "אתה יכול לציין רשימת אישורים של דומיינים מהימנים (לדוגמה yourdomain.com) שמהם בטוח לטעון JavaScript.";
+$Definition[
+    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
+] =
+    'אי-אפשר להפסיק את פעולת התוספת  %1$s בגלל שהתוספת  %2$s זקוקה לה כדי להמשיך לעבוד.';
+$Definition[
+    "You cannot remove the only remaining category that allows discussions"
+] = "לא ניתן להסיר את הקטגוריה האחרונה שנשארה שמאפשרת דיונים.";
+$Definition[
+    "You can protect your site with an HTTP username/password during development."
+] =
+    "באפשרותך להגן על האתר שלך באמצעות שם משתמש או סיסמה ב- HTTP במהלך הפיתוח.";
+$Definition[
+    "You can send emails in plain text by disabling the toggle below."
+] = "ניתן לשלוח אימיילים בטקסט רגיל ע\"י השבתת הכפתור הדו-מצבי שלמטה.";
+$Definition["You have %s invitations left for this month."] =
+    "נותרו לך %s הזמנות החודש.";
+$Definition["You have successfully saved interest: <0/>"] =
+    "שמרת בהצלחה ריבית: <0/>";
+$Definition["You must be authenticated in order to use this form."] =
+    "עליכם להתחבר לחשבון שלך כדי להשתמש בטופס הזה";
+$Definition["You must manually apply this rank."] =
+    "עליכם לאשר ידנית את הדרגה הזו.";
+$Definition["You must provide at least one recipient"] =
+    "יש להוסיף לפחות נמען אחד.";
+$Definition["You must specify an admin password."] =
+    "בחירת סיסמה לחשבון הניהול.";
+$Definition["You must specify an admin username."] =
+    "בחירת שם משתמש לחשבון הניהול.";
+$Definition[
+    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
+] =
+    "לקובץ ההגדרות שלך אין את ההרשאות הנכונות. PHP צריך להיות מסוגל לקרוא ולכתוב לקובץ הבא: <code>%s</code>";
+$Definition['Your default locale won\'t display properly'] =
+    'איזור ברירת המחדל שלך לא יוצג כראוי עד שזה יאופשר למטה. אנא אפשר את הבאים: %s.';
+$Definition["Your Email"] = "כתובת דואר אלקטרוני";
+$Definition["Your inbox is empty."] = "תיבת הדואר שלך ריקה.";
+$Definition["Your invitations were sent successfully."] =
+    "ההזמנות נשלחו בהצלחה";
+$Definition["Your Password"] = "סיסמה שלך";
+$Definition[
+    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "הנך עוזב/ת את עורך ערכת הנושא מבלי לשמור את השינויים שלך. יש לוודא שהעדכונים שלך נשמרו לפני היציאה.";
+$Definition[
+    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
+] =
+    "אתה עוזב את דף הגדרות הדוא\"ל מבלי לשמור את השינויים שלך. ודא שהעדכונים שלך נשמרים לפני היציאה.";
 
-$Definition['Zendesk Knowledge Bases'] = 'מאגרי ידע של Zendesk';
-$Definition['Zoom Meeting ID or URL'] = 'מזהה פגישה זום או כתובת אתר';
+$Definition["Zendesk Knowledge Bases"] = "מאגרי ידע של Zendesk";
+
+$Definition["Mobile Logo"] = "לוגו נייד";
+$Definition["Banner Image"] = "תמונת כרזה";
+$Definition["Disable Forum Pages"] = "השבת את דפי הפורום";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "בחירת פורמט ברירת מחדל עבור עריכה של הודעות בפורומים.";
+$Definition["InputFormatter.Notes2"] =
+    "העורך יזהה אוטומטית את ההודעות הישנות בעריכה שלהם ויטען אותן בפורמט מקורי לפי כללים. היוצא דופן, על ידי בחירת פורמט להצגה של ההודעה.";
+$Definition["Formatting Posts"] = "עיצוב פוסטים";
+$Definition["MobileInputFormatter.Notes1"] =
+    "ציון פורמט עריכה עבור טלפונים ניידים.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "אם טלפון נייד חווה את אותו הדבר, אנא בחרו את אותו הדבר מעל. אם משתמשים מדווחים על בעיות בעריכה מטלפונים ניידים, זו היא אפשרות טובה לשינוי.";
+$Definition["Note:"] = "הערה:";
+$Definition["Post Format"] = "פורמט ההודעה";
+$Definition["Posting"] = "מפרסם";
+$Definition["Reinterpret All Posts As %s"] = "פרש מחדש את כל הפוסטים כ-%s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "אמור לעורך לפרש מחדש את כל הפוסטים הישנים כ-%s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "הגדרה זו תיכנס לתוקף רק אם %s נבחר כפורמט הפוסט לעיל.";
+$Definition["This option is to normalize the editor format"] =
+    "אפשרות זו היא לנרמל את פורמט העורך, אם פוסטים ישנים יותר שנערכו בפורמט אחר, כגון markdown או BBCode, נטענות, אפשרות זו תכפה על %s.";
+
+$Definition["Mobile Format"] = "פורמט טלפון נייד";
+$Definition["Enable Rich Quotes"] = "אפשר את Rich Quotes";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'באמצעות האפשרות הבאה אפשר/י ציטוטים ל-Rich Editor. זה ייושם רק עם מעצב ברירת המחדל הוא "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "שומר מקום ברירת מחדל";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "העלה תמונת שומר מקום שתוצג כאשר למשתמשים אין תמונה בפוסט שלהם.";
+$Definition["Additional classes"] = "מחלקות נוספות";
+$Definition["Apply additional classes on catalogue image."] =
+    "החל מחלקות נוספות על תמונת קטלוג. השתמש ברווח כדי להפריד כל מחלקה.";
+$Definition["Category only"] = "קטגוריה בלבד";
+$Definition["Display on category page only."] =
+    "הצג בדף הקטגוריה בלבד. רשימת הדיונים האחרונים לא תושפע.";
+$Definition["Use Masonry display"] = "השתמש בתצוגת מלבנים";
+$Definition["Show an uploaded image on the Category page."] =
+    'כל דיון יציג תמונה שהועלתה בדף הקטגוריה. זה חל רק על קטגוריות עם "דיונים" כמו "הצג כ". ';
+$Definition["Upload Placeholder Image"] = "העלה תמונת שומר מקום";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "אירעה שגיאה בשמירת השינויים שלך. בבקשה נסה שוב.";
+$Definition["<0/> has been <1/>"] = "<0/> כבר <1/>";
+$Definition["enabled"] = "מופעל";
+$Definition["disabled"] = "נָכֶה";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "מידע זה יוצג רק למשתמשים בעלי הרשאה לצפות במידע פנימי";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "זהו מידע פרטי ולא ישותף עם חברים אחרים.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "פעולה זו תיצור פגישת זום מטעם הבעלים של שילוב Zoom ואם אתה משתמש רשום, הוסף אותך כמארח משותף. אם אינך משתמש זום רשום או לא חלק מהארגון שהגדיר את האינטגרציה, ייתכן שלאירוע זה תהיה פונקציונליות זום מוגבלת ללא המארח.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'לא ניתן לעדכן את כתובת ה-URL או המזהה הזום של האירוע הזה.';
+
+$Definition["Zoom Meeting ID or URL"] = "מזהה פגישה זום או כתובת אתר";
+
+// Automation Rules
+$Definition["Add tag"] = "הוסף תג";
+$Definition["A post"] = "פוסט";
+$Definition["A post has been added to a collection"] =
+    "פוסט נוסף לאוסף";
+$Definition["A post has not had any activity"] =
+    "לפוסט לא הייתה כל פעילות";
+$Definition["A question"] = "שאלה";
+$Definition["A user has been registered"] = "משתמש נרשם";
+$Definition["A post has received"] = "התקבל פוסט";
+$Definition["Date field reached"] = "תאריך הגעה לשדה";
+$Definition["A user registers or logs in with email domain:"] =
+    "משתמש נרשם או מתחבר עם דומיין דוא\"ל:";
+$Definition["A user registers or updates a profile field:"] =
+    "משתמש רושם או מעדכן שדה פרופיל:";
+$Definition["Add tags:"] = "הוסף תגים:";
+$Definition["Add to collection:"] = "הוסף לאוסף:";
+$Definition["An idea has received"] = "רעיון התקבל";
+$Definition["and"] = "ו";
+$Definition["and assign to"] = "ולהקצות ל";
+$Definition["and remove role"] = "ולהסיר תפקיד";
+$Definition["and remove from community"] = "ולהסיר מהקהילה";
+$Definition["Assign role:"] = "הקצה תפקיד:";
+$Definition["Assign/Remove role"] = "הקצה/הסר תפקיד";
+$Definition["Auto-run disabled."] = "ההפעלה האוטומטית מושבתת.";
+$Definition["Auto-run enabled."] = "הפעלה אוטומטית מופעלת.";
+$Definition["Automation rule successfully created."] =
+    "כלל אוטומציה נוצר בהצלחה.";
+$Definition["Automation rule successfully updated."] =
+    "כלל האוטומציה עודכן בהצלחה.";
+$Definition["Bump post"] = "פוסט בליטה";
+$Definition["Change the status of the idea to"] =
+    "שנה את הסטטוס של הרעיון ל";
+$Definition["Change status"] = "שנה סטטוס";
+$Definition["Close post"] = "סגור פוסט";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "קריטריוני התאמת הערות עכשיו: <0 />";
+$Definition["created by"] = "נוצר על ידי";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "צור ונהל אוטומציות כדי לנהל בקלות פוסטים ומשתמשים.";
+$Definition["Create/Edit Automation Rule"] = "צור/ערוך כלל אוטומציה";
+$Definition["Delete Rule"] = "מחק כלל";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "קריטריוני התאמה לדיונים כעת: <0 />";
+$Definition["Edit Rule"] = "ערוך כלל";
+$Definition["Edit Variables"] = "ערוך משתנים";
+$Definition["Escalate it"] = "להסלים את זה";
+$Definition["Escalate to GitHub"] = "הסלמה אל GitHub";
+$Definition["Escalate to Zendesk"] = "הסלמה לזנדסק";
+$Definition["Expand"] = "לְהַרְחִיב";
+$Definition["Failed to disable the rule"] = "השבתת הכלל נכשלה";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "טעינת נתוני התצוגה המקדימה נכשלה. בדוק את ערכי הטריגר והפעולה שלך.";
+$Definition["Follow categories:"] = "עקוב אחר קטגוריות:";
+$Definition["Follow category"] = "עקוב אחר הקטגוריה";
+$Definition["for"] = "עֲבוּר";
+$Definition["has been unanswered"] = "לא נענתה";
+$Definition["has not received any comments"] = "לא קיבלו הערות";
+$Definition["Last reported"] = "דווח לאחרונה";
+$Definition["Maximum Limit Reached"] = "הגבול המקסימלי הושג";
+$Definition["Move post"] = "העבר את הפוסט";
+$Definition["Move to category:"] = "מעבר לקטגוריה:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "שדות בחירה מרובים יופעלו אם המשתמש יעמוד באחד מהקריטריונים.";
+$Definition["New/Updated Email domain"] = "דומיין דוא\"ל חדש/מעודכן";
+$Definition["New/Updated Profile field"] = "שדה פרופיל חדש/מעודכן";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "הערה: פעולות לא ישפיעו על <0 /> שכבר הוחלה בהן הפעולה המשויכת.";
+$Definition["Post Management"] = "ניהול פוסטים";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "קריטריוני התאמת פוסטים עכשיו: <0 />";
+$Definition["Remove from collection"] = "הסר מהאוסף";
+$Definition["Remove from collection:"] = "הסר מהאוסף:";
+$Definition["Remove from default follow list"] =
+    "הסר מרשימת המעקב כברירת מחדל";
+$Definition["Remove from trigger collection"] =
+    "הסר מאוסף הטריגרים";
+$Definition["report"] = "דִוּוּחַ";
+$Definition["reports"] = "דוחות";
+$Definition["Rule Action"] = "כלל פעולה";
+$Definition["Rule may not be deleted while it is running"] =
+    "לא ניתן למחוק כלל בזמן שהוא פועל";
+$Definition["Rule may not be edited while it is running"] =
+    "לא ניתן לערוך כלל בזמן שהוא פועל";
+$Definition["Rule Name"] = "שם כלל";
+$Definition["Rule status will apply once current run completes"] =
+    "סטטוס הכלל יחול לאחר השלמת הריצה הנוכחית";
+$Definition["Rule Trigger"] = "טריגר כלל";
+$Definition["Running"] = "רִיצָה";
+$Definition["See documentation for more information."] =
+    "עיין בתיעוד למידע נוסף.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "בחר את הפעולה שתתרחש כאשר כלל זה יופעל.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "בחר את הטריגר שיגרום לכלל זה לפעול.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "הגדר משתנה טריגר ומשתנה פעולה כדי ליצור סיכום כללים.";
+$Definition["sentiment"] = "רֶגֶשׁ";
+$Definition["since"] = "מֵאָז";
+$Definition["Summary"] = "תַקצִיר";
+$Definition["The action will be applied to only them if you proceed."] =
+    "הפעולה תוחל רק עליהם אם תמשיך.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "הפעולה תחול עליהם כאשר הכלל יופעל. בעתיד, <0 /> אחרים שעומדים בקריטריונים של טריגר יוחלו גם עליהם.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "זה לא ישפיע על אף <0 /> כרגע. זה ישפיע על אלה שעומדים בקריטריונים בעתיד.";
+$Definition["Time since added to collection"] =
+    "הזמן מאז התווסף לאוסף";
+$Definition["Time since post has had no comments"] =
+    "לזמן מאז הפוסט לא היו תגובות";
+$Definition["Time since Registration"] = "זמן מאז ההרשמה";
+$Definition["Time since post has had no activity"] =
+    "הזמן מאז הפוסט לא הייתה פעילות";
+$Definition["Time since question has been unanswered"] =
+    "זמן מאז השאלה לא נענה";
+$Definition["Trigger"] = "לְהַפְעִיל";
+$Definition["Unsaved Changes"] = "שינויים שלא נשמרו";
+$Definition["Up to <0 /> ago."] = "עד לפני <0 />.";
+$Definition["upvote"] = "להצביע בעד";
+$Definition["upvotes"] = "הצבעות בעד";
+$Definition["User Management"] = "ניהול משתמשים";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "קריטריוני התאמת משתמשים עכשיו: <0 />";
+$Definition["Value is not a valid integer."] = "ערך אינו מספר שלם חוקי.";
+$Definition["View History"] = "הצג היסטוריה";
+$Definition["Votes on an idea"] = "הצבעות על רעיון";
+$Definition["with"] = "עִם";
+$Definition["with reason"] = "בְּצֶדֶק";
+$Definition["with tag"] = "עם תג";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "לא ניתן להוסיף יותר מ-150 כללי אוטומציה. מחק כמה כללים ונסה שוב.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "אין סמלים שתואמים למסננים האלה.";
+$Definition["Manage Icon"] = "ניהול אייקון";
+$Definition["Manage Icons"] = "נהל אייקונים";
+$Definition["Manage Icon helptext"] =
+    "אתה יכול לנהל מערכת ואייקונים היסטוריים כאן. בעת ההעלאה, ודא שהסמל הוא בפורמט SVG, כולל מאפיין viewBox ומשתמש בצבע #000000 כדי להבטיח שניתן לצבוע אותו באופן דינמי על סמך הגדרות ערכת נושא ואינטראקציות משתמש. רק אייקון אחד מכל סוג יכול להיות פעיל בכל פעם.";
+$Definition["Upload New Icon"] = "העלה סמל חדש";
+$Definition["Active Icon"] = "אייקון פעיל";
+$Definition["New Icon"] = "סמל חדש";
+$Definition["Icon Type"] = "סוג סמל";
+$Definition["Previous Icons"] = "אייקונים קודמים";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "גרסאות קודמות של הסמלים שלך ניתן למצוא כאן ולשחזר בכל עת.";
+$Definition["Set as Active"] = "הגדר כפעיל";
+$Definition["Uploaded <0/> by <1/>"] = "הועלה <0/> על ידי <1/>";
+$Definition["Icon Packs"] = "חבילות אייקונים";
+$Definition["Download Active Icon Pack"] = "הורד את ערכת אייקונים פעילים";
+$Definition["Download System Icon Pack"] = "הורד את ערכת אייקוני מערכת";
+$Definition["Upload Icon Pack"] = "העלה חבילת אייקונים";
+$Definition["Preview Icon Pack"] = "חבילת אייקונים תצוגה מקדימה";
+$Definition["Changed Icons"] = "סמלים השתנו";
+$Definition["Icon Name"] = "שם סמל";
+$Definition["All icons in this icon pack are currently active."] =
+    "כל הסמלים בחבילת הסמלים הזו פעילים כעת.";
+$Definition["Activate Icon Pack"] = "הפעל חבילת אייקונים";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "הצג רק סמלים שהוחלפו עם סמלים מותאמים אישית.";
+$Definition["System Icon"] = "סמל מערכת";
+$Definition["Custom Icon"] = "סמל מותאם אישית";
+$Definition["Only show icons that are default system icons."] =
+    "הצג רק אייקונים שהם סמלי מערכת ברירת מחדל.";
+$Definition["Previews"] = "תצוגות מקדימות";
+$Definition["Icon Size"] = "גודל סמל";
+$Definition["This is the actual size most icons render at."] =
+    "זהו הגודל האמיתי שבו רוב הסמלים מוצגים.";
+$Definition["Preview Color"] = "צבע תצוגה מקדימה";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "צבע זה ישמש לתצוגה מקדימה של צבע הסמל. זה יחליף כל שימוש של #000000 בסמלים שהעלית. ביישום בפועל, הצבעים יהיו דינמיים.";
+$Definition["Escalation Name"] = "שם הסלמה";
+$Definition["Status on Creation"] = "סטטוס על הבריאה";
+$Definition["Assignee"] = "נִמחֶה";
+$Definition["Internal Comment"] = "הערה פנימית";
+$Definition["Set Post Visibility to Hidden"] = "הגדר את נראות הפוסט לנסתר";
+$Definition["Remove Method"] = "הסר את השיטה";
+$Definition["Wipe"] = "לְנַגֵב";
+$Definition["Newest Post"] = "הפוסט החדש ביותר";
+$Definition["Oldest Post"] = "הפוסט הישן ביותר";
+$Definition["Triage"] = "טריאז'";
+$Definition["Triage Dashboard"] = "לוח מחוונים של טריאג'";
+$Definition["Message Post Author"] = "מחבר פוסט";
+$Definition["Add Filter"] = "הוסף מסנן";
+$Definition["Customer Support"] = "תמיכת לקוחות";
+$Definition["My Profile"] = "הפרופיל שלי";
+$Definition["Resolve post"] = "פתור פוסט";
+$Definition["View post in community"] = "צפה בפוסט בקהילה";
+$Definition["View Details"] = "הצג פרטים";
+$Definition["Escalate"] = "לְהַסלִים";
+$Definition["Posted by <0/> in <1/>"] = "פורסם על ידי <0/> ב-<1/>";
+$Definition["Show"] = "לְהַצִיג";
+$Definition["View Escalation"] = "הצג הסלמה";
+$Definition["# Reports"] = "# דוחות";
+$Definition["Last Reported"] = "דיווח אחרון";
+$Definition["Report Reasons"] = "דיווח סיבות";
+$Definition["Last Modified"] = "שונה לאחרונה";
+$Definition["Last refreshed <0/> by <1/>."] = "רענון אחרון <0/> על ידי <1/>.";
+
+$Definition["Moderation Content"] = "תוכן ניהול";
+$Definition["AI Settings"] = "הגדרות AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "פריסת VIP";
+$Definition["Activity & Registration"] = "פעילות והרשמה";
+$Definition["Content Settings"] = "הגדרות תוכן";
+$Definition["Premoderation Settings"] = "הגדרות ניהול מוקדם";
+$Definition["Escalation Rules"] = "כללי הסלמה";
+$Definition["Automation"] = "אוטומציה";
+$Definition["Audit Log"] = "יומן ביקורת";
+$Definition["Community Management"] = "ניהול קהילה";
+$Definition["Visualize Your Community"] = "דמיינו את הקהילה שלכם";
+$Definition["Customize your community"] = "התאם אישית את הקהילה שלך";
+$Definition["Configuration & Addons"] = "תצורה ותוספות";
+$Definition["Are you sure you want to delete your %s?"] =
+    "האם אתה בטוח שברצונך למחוק את %s שלך?";
+$Definition["Newest Report"] = "הדוח החדש ביותר";
+$Definition["Oldest Report"] = "הדוח הישן ביותר";
+$Definition["Report Dismissed"] = "הדוח נדחה";
+$Definition["Post Rejected"] = "הפוסט נדחה";
+$Definition["Escalated"] = "הסלמה";
+$Definition["Reported by <0/>"] = "דווח על ידי <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "לא סופקו הערות דיווח על ידי <0/>";
+$Definition["Create"] = "יצירה";
+$Definition["Edited"] = "עָרוּך";
+$Definition["Newest Escalation"] = "ההסלמה החדשה ביותר";
+$Definition["Oldest Escalation"] = "ההסלמה הישנה ביותר";
+$Definition["Escalations Dashboard"] = "לוח המחוונים של הסלמות";
+$Definition["On Hold"] = "בהמתנה";
+$Definition["Done"] = "נַעֲשָׂה";
+$Definition["In Jira"] = "בג'ירה";
+$Definition["In Zendesk"] = "בזנדסק";
+$Definition["Integrations"] = "אינטגרציות";
+$Definition["Remove Post"] = "הסר פוסט";
+$Definition["Escalated by <0/>"] = "הסלמה על ידי <0/>";
+$Definition["Enter a title for this escalation"] =
+    "הזן כותרת להסלמה זו";
+$Definition["Escalated by <0/>"] = "הסלמה על ידי <0/>";
+$Definition["Post Revision"] = "פוסט עדכון";
+$Definition["Loader"] = "מטעין";
+$Definition["a month"] = "חודש";
+$Definition["%s ago"] = "לפני %s";
+$Definition["Live"] = "לִחיוֹת";
+$Definition["Live Post"] = "פוסט חי";
+$Definition["Remove Post"] = "הסר פוסט";
+$Definition["Internal Comments"] = "הערות פנימיות";
+$Definition["Add a comment"] = "הוסף תגובה";
+$Definition["Live"] = "לִחיוֹת";
+$Definition["There are currently no comments on this post"] =
+    "כרגע אין תגובות לפוסט הזה";
+$Definition["All comments on this post will appear here"] =
+    "כל התגובות לפוסט זה יופיעו כאן";
+$Definition["Reports for <0/>"] = "דוחות עבור <0/>";
+$Definition["Live Post"] = "פוסט חי";
+$Definition["There are currently no reports for this post."] =
+    "כרגע אין דיווחים לפוסט זה.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "רשימה של דוחות הקשורים לפוסט זה תופיע כאן.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "הגדר לאן דוחות נשלחים ונהל את סיבות הדיווח של הקהילה שלך.";
+$Definition["New Community Management System"] =
+    "מערכת ניהול קהילה חדשה";
+$Definition["Enable Triage Dashboard"] = "הפעל Triage Dashboard";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "כל המשתמשים בעלי הרשאת הצוות יוכלו לראות ולסמן דיונים כפתורים או לא פתורים. משתמשים אלה יוכלו גם לגשת ללוח המחוונים של הטריאג' כדי למתן את הקטגוריות שלהם.";
+$Definition["Resolve All Discussions"] = "פתור את כל הדיונים";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "פתרון כל הפוסטים יפתור את כל הפוסטים הקיימים בקהילה. פעולה בכמות גדולה זו לא תפעיל webhooks או ניתוח נתונים.";
+$Definition["Resolve All"] = "פתור הכל";
+$Definition["Required field"] = "שדה חובה";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "מערכת ניהול הקהילה החדשה מאפשרת סיבות דיווח מותאמות אישית, הסלמות, הקצאות וכללי אוטומציה. הפעלת זה משנה את צריכת הדיווח לשימוש במערכת החדשה. <0>קרא עוד</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "זה יפתור את כל הפוסטים הקיימים בקהילה. פעולה בכמות גדולה זו לא תפעיל webhooks או ניתוח יומנים. לְהַמשִׁיך?";
+$Definition["Reorder"] = "סדר מחדש";
+$Definition["Add Reason"] = "הוסף סיבה";
+$Definition["Delete?"] = "לִמְחוֹק?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "האם אתה בטוח שברצונך למחוק את הסיבה הזו?";
+$Definition["A concise name for the report reason."] =
+    "שם תמציתי מסיבה הדיווח.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "תווית ייחודית מסיבה הדיווח. לא ניתן לשנות תווית זו לאחר השמירה.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "הסבר על סיבת הדיווח לכתבים טובים יותר מבצעים את הבחירה הנכונה בעת דיווח על פוסט.";
+$Definition["The roles which can see this report reason."] =
+    "התפקידים שיכולים לראות את הסיבה לדיווח הזה.";
+$Definition["Add Report Reason"] = "הוסף סיבה לדיווח";
+$Definition["Discard Changes?"] = "למחוק שינויים?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "האם אתה בטוח שברצונך לצאת מבלי לשמור?";
+$Definition["Reorder Report Reasons"] = "סדר מחדש את סיבות הדוח";
+$Definition["Edit Report Reason"] = "ערוך את סיבת הדוח";
+$Definition["Delete Report Reason"] = "מחק את סיבת הדיווח";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "הגדרה זו חייבת להיות מופעלת כדי להשתמש בשרשורי דיון מותאמים אישית.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "הגדר הגדרות המשמשות לניהול אוטומטי של תוכן קהילתי עוד לפני שהוא נוצר. האפשרויות כוללות זיהוי אוטומטי של ספאם, דרישת אישור לפרסום בקטגוריות מסוימות ודרישת אישור לפרסום באמצעות מילות מפתח או ביטויים מסוימים.";
+$Definition["Spam Detection"] = "איתור דואר זבל";
+$Definition["Learn more."] = "למידע נוסף.";
+$Definition["documentation."] = "תיעוד.";
+$Definition["Verify browsers of new members"] =
+    "אמת דפדפנים של חברים חדשים";
+$Definition["Challenge Cutoff Age"] = "גיל חתך אתגר";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "מספר הימים מאז ההרשמה כדי לעקוף את אתגר Cloudflare";
+$Definition["Save challenge cutoff age"] = "שמור את גיל הפסקת האתגר";
+$Definition["Premoderated Roles"] = "תפקידים מודרכים מראש";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "משתמשים עם הרשאת \"Approval.Require\" ידרשו אישור מנחה עבור כל הפוסטים.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "משתמשים שסומנו כ\"מאומת\" יעקפו את הדרישה הזו. אלו הם התפקידים עם \"אישור. דורש\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "כרגע לא מוגדרים תפקידים לדרוש ניהול מוקדם.";
+$Definition["Edit Roles"] = "ערוך תפקידים";
+$Definition["Premoderated Categories"] = "קטגוריות מנוהלות מראש";
+$Definition["No categories are currently set to require premoderation."] =
+    "כרגע לא מוגדרות קטגוריות לדרוש ניהול מוקדם.";
+$Definition["Edit Categories"] = "ערוך קטגוריות";
+$Definition["Premoderated Keywords"] = "מילות מפתח מנוהלות מראש";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "פוסטים עם כל אחת ממילות המפתח או הביטויים הבאים ידרשו את אישור המנחה.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "כרגע לא מוגדרות מילות מפתח לדרוש ניהול מוקדם.";
+$Definition["Edit Keywords"] = "ערוך מילות מפתח";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "אפשר ל-Akismet לסנן דואר זבל בכל הפוסטים לפי רישומי מועמדים ומשתמשים לא מאומתים. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "אפשר Stopforumspam לבדוק משתמשי קהילה מול רשימה של שולחי דואר זבל מדווחים, או מדווח על הפוסט כדואר זבל או דוחה אותם על הסף. ספי הדיווח והדחיה מנוהלים בהגדרות <0>תוסף</0> . למידע נוסף ב-<1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "חברים לא מאומתים שהיו בקהילה פחות ממספר הימים שצוין יתבקשו להשלים אתגר Cloudflare (Captcha או Checkbox) כדי למנוע דואר זבל. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s בקטגוריות הבאות ידרשו אישור מנחה.";
+$Definition["Default Sort Order"] = "סדר מיון ברירת מחדל";
+$Definition["Choose the order records are sorted by default."] =
+    "בחר רשומות ההזמנה ממוינות כברירת מחדל.";
+$Definition["Show OP Indicator"] = "הצג מחוון OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "אם אפשרות זו מופעלת, לתשובות מהפוסטר המקורי יהיה מחוון OP.";
+$Definition["Show Badges"] = "הצג תגים";
+$Definition["Badges Limit"] = "מגבלת תגים";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "הצג את תגי המשתמשים בכל פוסט. ניתן להציג עד 5 תגים לכל היותר לפי סדר הדירוג הגבוה ביותר.";
+$Definition["event"] = "מִקרֶה";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> תגובות נוספות";
+$Definition["Export"] = "יְצוּא";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "כותרות דף הבית יכולות להיות באורך של בין 1 ל-500 תווים בלבד";
+$Definition["Address Bar Color"] = "צבע שורת הכתובת";
+$Definition["Meta Tags"] = "מטא תגים";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "מטא תגים משמשים לאימות דומיין עבור Google Search Console ושירותים אחרים. העתק את המטא תגים הנדרשים מהמקור שלך והדבק על שורה חדשה.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "בזבז קצת זמן בנוגע לאיך לתאר את האתר שלך כאן. הענקת כותרת מלאת משמעות לאתר שלך ותיאור תמציתי יכול לעזור למיקום שלך במנועי חיפוש.";
+$Definition["Style Guides"] = "מדריכי סגנון";
+$Definition["Branding & Assets"] = "מיתוג ונכסים";
+$Definition["Home Pages"] = "דפי בית";
+$Definition["Home Layout Settings"] = "הגדרות פריסת הבית";
+$Definition["Category Pages"] = "דפי קטגוריה";
+$Definition["Category Layout Settings"] = "הגדרות פריסת קטגוריה";
+$Definition["Category List Pages"] = "דפי רשימת קטגוריות";
+$Definition["Posting Category Pages"] = "פרסום דפי קטגוריה";
+$Definition["Nested Category Pages"] = "דפי קטגוריה מקוננים";
+$Definition["Discussion Pages"] = "דפי דיון";
+$Definition["Idea Pages"] = "דפי רעיונות";
+$Definition["Question Pages"] = "דפי שאלות";
+$Definition["Post Pages"] = "דפי פרסום";
+$Definition["Post Layout Settings"] = "הגדרות פריסת פוסטים";
+$Definition["Create Post Pages"] = "צור דפי פוסטים";
+$Definition["Create Post Layout Settings"] = "צור הגדרות פריסת פוסטים";
+$Definition["Event Pages"] = "דפי אירועים";
+$Definition["Event Layout Settings"] = "הגדרות פריסת אירועים";
+$Definition["Knowledge Base Pages"] = "דפי מאגר הידע";
+$Definition["Knowledge Base Layout Settings"] =
+    "הגדרות פריסת מאגר הידע";
+$Definition["Knowledge Base Home Pages"] = "דפי הבית של מאגר הידע";
+$Definition["Help Center Home Pages"] = "דפי הבית של מרכז העזרה";
+$Definition["Help Center Category Pages"] = "דפי קטגוריות במרכז העזרה";
+$Definition["Help Center Article Pages"] = "דפי מאמרים במרכז העזרה";
+$Definition["Guide Article Pages"] = "מדריך דפי מאמרים";
+$Definition["Layouts"] = "פריסות";
+$Definition["Add Custom Layout"] = "הוסף פריסה מותאמת אישית";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "בחר את פריסת הפוסטים האחרונים המועדפת.";
+$Definition["Legacy Recent Posts Layouts"] = "פריסות פוסטים אחרונים מדור קודם";
+$Definition["Change layout versions for the <0/>."] =
+    "שנה גרסאות פריסה עבור <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "למידע נוסף, <0>עיין בתיעוד</0> .";
+$Definition["Change %s"] = "שנה %s";
+$Definition["Are you sure you want to use %s?"] =
+    "האם אתה בטוח שברצונך להשתמש ב-%s?";
+$Definition["Legacy Home Layouts"] = "פריסות בית מדור קודם";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "בחר את פריסת הבית המועדפת מדור קודם.";
+$Definition["Home Layout Version"] = "גרסת פריסת בית";
+$Definition["Custom Home Layouts"] = "פריסות בית מותאמות אישית";
+$Definition["Legacy Category Layout"] = "פריסת קטגוריה מדור קודם";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "בחר את פריסת הקטגוריה מדור קודם.";
+$Definition["Category Layout Version"] = "גרסת פריסת קטגוריה";
+$Definition["Legacy Category Layouts"] = "פריסות קטגוריות מדור קודם";
+$Definition["Custom Category Layouts"] = "פריסות קטגוריה מותאמות אישית";
+$Definition["Legacy Post Layout"] = "פריסת פוסט מדור קודם";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "בחר את פריסת הפוסט המועדפת המועדפת.";
+$Definition["Post Layout Version"] = "גרסת פריסת פוסט";
+$Definition["Legacy Post Layouts"] = "פריסות פוסטים מדור קודם";
+$Definition["Custom Post Layouts"] = "פריסות פוסטים מותאמות אישית";
+$Definition["Legacy Create Post Layout"] = "מדור קודם צור פריסת פוסט";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "בחר את פריסת יצירת הפוסט המועדפת המועדפת.";
+$Definition["Create Post Layout Version"] = "צור גרסת פריסת פוסט";
+$Definition["Legacy Create Post Layouts"] = "מדור קודם יצירת פריסות פוסטים";
+$Definition["Custom Create Post Layouts"] = "יצירת פריסות פוסטים בהתאמה אישית";
+$Definition["Legacy Event Layout"] = "פריסת אירוע מדור קודם";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "בחר את פריסת האירוע המועדפת המועדפת.";
+$Definition["Event Layout Version"] = "גרסת פריסת אירוע";
+$Definition["Legacy Event Layouts"] = "פריסות אירועים מדור קודם";
+$Definition["Custom Event Layouts"] = "פריסות אירועים מותאמים אישית";
+$Definition["Created <0/> by <1/>."] = "נוצר <0/> על ידי <1/>.";
+$Definition["Layout Options"] = "אפשרויות פריסה";
+$Definition["Contextual Description"] = "תיאור הקשר";
+$Definition["Skip to end of Carousel"] = "דלג לסוף הקרוסלה";
+$Definition["Previous Slides"] = "שקופיות קודמות";
+$Definition["Next Slides"] = "השקפים הבאים";
+$Definition["indicator navigation"] = "ניווט מחוון";
+$Definition["<0/> new"] = "<0/> חדש";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d שקופיות בתצוגה השקף הראשוני %d מתוך %d";
+$Definition["Unassigned"] = "לא הוקצה";
+$Definition["Apply Layout to Site Home Page"] =
+    "החל פריסה על דף הבית של האתר";
+$Definition["Set as default layout for specific subcommunities."] =
+    "הגדר כברירת מחדל עבור תת-קהילות ספציפיות.";
+$Definition["Apply to specific categories."] = "החל על קטגוריות ספציפיות.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "לא ניתן למחוק פריסה זו מכיוון שהיא תבנית פריסה.";
+$Definition["Delete Layout"] = "מחק פריסה";
+$Definition["Are you sure you want to delete?"] =
+    "האם אתה בטוח שברצונך למחוק?";
+$Definition["Applied"] = "הוחל";
+$Definition["Applied as default"] = "מוחל כברירת מחדל";
+$Definition["View Category"] = "הצג קטגוריה";
+$Definition["Apply to specific subcommunities."] =
+    "החל על תת-קהילות ספציפיות.";
+$Definition["Unable to re-assign default template"] =
+    "לא ניתן להקצות מחדש תבנית ברירת מחדל";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "פריסה זו היא תבנית והיא מוקצית כברירת מחדל עבור כל הדפים מסוג זה. כדי להסיר אותו כברירת מחדל או להקצות אותו לדפים ספציפיים, עליך להקצות פריסה אחרת כברירת מחדל.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "לא ניתן למחוק פריסה זו מכיוון שהיא מוחלת כעת.";
+$Definition["Set as default layout for all <0 />."] =
+    "הגדר כברירת מחדל עבור כל <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "פריסת מאגר ידע מדור קודם";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "בחר את פריסת מאגר הידע המועדף המועדף.";
+$Definition["Knowledge Base Layout Version"] = "גרסת פריסת מאגר הידע";
+$Definition["Legacy Knowledge Base Layouts"] = "פריסות מאגר ידע מדור קודם";
+$Definition["Custom Knowledge Base Layouts"] = "פריסות בסיס ידע מותאמות אישית";
+$Definition["Article Count"] = "ספירת מאמרים";
+$Definition["Legacy Layouts enabled"] = "פריסות מדור קודם מופעלות";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "שימו לב ששינוי פריסה זה לא יהיה גלוי עד שתעבור לפריסות מותאמות אישית.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "שינוי פריסה זה לא יהיה גלוי עד שתעביר את הקהילה שלך ל-<0/> מותאם אישית בדף <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "הגדר כפריסת ברירת מחדל עבור בסיסי ידע ספציפיים.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "האתר לא מאפשר לך להתחבר למשתמש קיים.";
+$Definition["The username you entered has already been taken."] =
+    "שם המשתמש שהזנת כבר תפוס.";
+$Definition["There was an error fetching the connection data."] =
+    "אירעה שגיאה באחזור נתוני החיבור.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "אימות בקשת איפוס הסיסמה שלך נכשל. נסה להשתמש שוב בטופס בקשת האיפוס.";
+$Definition["Invitation not found."] = "ההזמנה לא נמצאה.";
+
+$Definition['# of automation rules'] = 'מספר כללי אוטומציה';
+$Definition['Add Template'] = 'הוסף תבנית';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'בחר מי יקבל את האימייל הזה כאשר כלל אוטומציה זה מופעל';
+$Definition['Delete an email template.'] = 'מחיקת תבנית דוא"ל.';
+$Definition['Email Audience'] = 'קהל דוא"ל';
+$Definition['Email Template'] = 'תבנית דוא"ל';
+$Definition['Email Templates'] = 'תבניות דוא"ל';
+$Definition['Email Template successfully deleted.'] = 'תבנית האימייל נמחקה בהצלחה.';
+$Definition['Email Template not enabled.'] = 'תבנית הדוא"ל אינה מופעלת.';
+$Definition['Email template not found.'] = 'תבנית הדוא"ל לא נמצאה.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'שם תבנית האימייל כבר קיים. הזן שם ייחודי כדי להמשיך.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'ניתן להשתמש בתבניות דוא"ל בשילוב עם <0/> כדי לתקשר עם משתמשים על סמך פעילות חברים או טריגרים אחרים של הקהילה.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'הפעל אפשרות זו כדי לשלוח הודעת דוא"ל מעקב כאשר הכלל מופעל.';
+$Definition['Impacted User'] = 'משתמש מושפע';
+$Definition['Search and select one or more roles to receive this email'] = 'חפש ובחר תפקיד אחד או יותר כדי לקבל דוא"ל זה';
+$Definition['Search and select one or more users to receive this email.'] = 'חפש ובחר משתמש אחד או יותר כדי לקבל אימייל זה.';
+$Definition['Select Roles'] = 'בחירת תפקידים';
+$Definition['Select User'] = 'בחר משתמש';
+$Definition['Select the email template to send.'] = 'בחר את תבנית הדוא"ל לשליחה.';
+$Definition['Send an Email After This Rule Runs'] = 'שלח אימייל לאחר הפעלת כלל זה';
+$Definition['Send email'] = 'שלח אימייל';
+$Definition['Send the email'] = 'שלח את האימייל';
+$Definition['Send email to user'] = 'שלח אימייל למשתמש';
+$Definition['Specific Roles'] = 'תפקידים ספציפיים';
+$Definition['Specific Users'] = 'משתמשים ספציפיים';
+$Definition['System email templates cannot be deleted.'] = 'לא ניתן למחוק תבניות דוא"ל של המערכת.';
+$Definition['template name'] = 'שם התבנית';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'השתמש בדף זה כדי ליצור ולנהל את התבניות שלך, לאחר מכן הגדר את <0/> שלך לשלוט מתי כל אימייל נשלח ולמי.';
+$Definition['View the full list of available placeholders.'] = 'צפה ברשימה המלאה של מצייני המיקום הזמינים.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'ניתן גם לכלול מצייני מיקום בתוכן האימייל שלך - אלה יוחלפו אוטומטית בפרטי משתמש או פוסט רלוונטיים כאשר האימייל יישלח. לדוגמה, שלום {user.name}! או בדוק את {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'לא ניתן למחוק הודעות דוא"ל של המערכת';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'לא ניתן למחוק תבנית שנמצאת בשימוש בכללי אוטומציה.';
+$Definition['You will no longer receive community engagement emails.'] = 'לא תקבלו יותר מיילים בנושא מעורבות קהילתית.';
+$Definition['Delete Email Template'] = 'מחיקת תבנית דוא"ל';
+$Definition["Template Styles"] = "סגנונות תבנית";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "השאר כל שדה ריק כדי להשתמש בסגנונות ברירת המחדל של הדוא\"ל כפי שהוגדרו בהגדרות דוא\"ל <0></0> עַמוּד.";
