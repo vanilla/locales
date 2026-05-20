@@ -1397,7 +1397,7 @@ $Definition['HeadlineFormat.EventCancelled'] = '{Data.Name,text} telah dibatalka
 $Definition['HeadlineFormat.EventReminder'] = 'Peringatan: {Data.Name,text} bermula dalam 1 hari';
 $Definition['HeadlineFormat.EventRSVP'] = 'Anda telah mendaftar untuk <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.GroupApproved'] = 'Permintaan anda untuk menyertai <a href="{Url,html}">{Data.Name,text}</a> telah diluluskan.';
-$Definition['HeadlineFormat.GroupInvitation'] = 'Sila sertai kumpulan saya: <a href="{Url,html}">{Data.Nama,teks}</a> .';
+$Definition['HeadlineFormat.GroupInvitation'] = 'Sila sertai kumpulan saya: <a href="{Url,html}">{Data.Name,text}</a> .';
 $Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username} telah meminta untuk menyertai {Data.Group}.';
 $Definition['HeadlineFormat.IdeaAuthorStatus'] = 'Status telah berubah untuk <a href="{Url,html}">{Data.Nama,teks}</a> .';
 $Definition['HeadlineFormat.IdeaAuthorStatus.Story'] = 'Mengundi idea ini ialah {Data.Status}.';
@@ -3623,6 +3623,6 @@ $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cou
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} perbincangan baharu dalam <strong>{GroupName}</strong>';
 $Definition['{Data.name} applied for membership.'] = '{Data.name} telah memohon keahlian.';
 $Definition['{Data.name} has been escalated and assigned to you.'] = '{Data.name} telah dimajukan dan diberikan kepada anda.';
-$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.namapelapor,teks} melaporkan {Data.nama,teks}.';
+$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,text} melaporkan {Data.name,text}.';
 $Definition['{Username} has requested to join {Group}.'] = '{Username} telah meminta untuk bergabung dengan {Group}.';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} memulakan perbincangan baharu dalam {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';

@@ -2225,7 +2225,7 @@ $Definition['Please select a reason for reporting this content.'] = 'Hle kgetha 
 $Definition['Please set required trigger values to see the preview.'] = 'Hle beakanya dikelo tša go hlohleletša tše di nyakegago go bona ponelopele.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Hle ema ge o sa romelwa go gongwe. Ge eba o sa romelwe go gongwe, kgotla <a href="%s">mo</a>.';
 $Definition['PluralHeadlineFormat.Answer'] = 'Go na le <strong>{bala}</strong> dikarabo tše mpsha tša potšišo ya gago: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['PluralHeadlineFormat.Comment'] = 'Go na le <strong>{bala}</strong> ditshwayotshwayo tše mpsha poledišanong: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['PluralHeadlineFormat.Comment'] = 'Go na le <strong>{count}</strong> ditshwayotshwayo tše mpsha poledišanong: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['PluralHeadlineFormat.GroupJoinRequest'] = '{count} badiriši ba kgopetše go tsenela {Data.Group}.';
 $Definition['Points'] = 'Dintlha';
 $Definition['Poll'] = 'Lesolo';
@@ -3664,6 +3664,6 @@ $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cou
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} dipoledišano tše mpsha ka go <strong>{GroupName}</strong>';
 $Definition['{Data.name} applied for membership.'] = '{Data.name} e dirile kgopelo ya boleloko.';
 $Definition['{Data.name} has been escalated and assigned to you.'] = '{Data.name} e okeleditšwe gomme e abetšwe wena.';
-$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.Leina la motlatšamotlatša,sengwalwa} e begile {Data.leina,sengwalwa}.';
+$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,text} e begile {Data.name,text}.';
 $Definition['{Username} has requested to join {Group}.'] = '{Username} o kgopetše go tsenela {Group}.';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} e thomile poledišano ye mpsha go {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.';

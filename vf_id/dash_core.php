@@ -1701,4 +1701,4 @@ $Definition['You will no longer receive community engagement emails.'] = 'Anda t
 $Definition['Zendesk Knowledge Bases'] = 'Basis Pengetahuan Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'ID atau URL Rapat Zoom';
 
-$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Anda} menerima jawaban {NotifyUserID,Anda} untuk sebuah pertanyaan: <a href="{Url,html}">{Data.Name,teks}</a>';
+$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} menerima jawaban {NotifyUserID,your} untuk sebuah pertanyaan: <a href="{Url,html}">{Data.Name,teks}</a>';

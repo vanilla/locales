@@ -3669,7 +3669,7 @@ $Definition['Zendesk - Create Ticket'] = 'Zendesk - 티켓 생성';
 $Definition['Zip'] = '지퍼';
 $Definition['Z to A'] = 'Z에서 A까지';
 
-$Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} 님이 <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a> 그룹에서 <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName</a> } 님에게 공지사항을 전달했습니다.';
+$Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} 님이 <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a> 그룹에서 <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> 님에게 공지사항을 전달했습니다.';
 $Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}님이 {Data.KnowledgeBaseName,text}의 문서 <a href="{Url,html}">{Data.Name,text}</a> 를 수정했습니다.';
 $Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}님이 {Data.KnowledgeBaseName,text}에 새 글 <a href="{Url,html}">{Data.Name,text}</a> 을 게시했습니다.';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User}가 답변을 제안했습니다. 확인해보세요.';
