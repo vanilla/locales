@@ -909,7 +909,7 @@ $Definition['EmailPassword'] = 'Tha %2$s air am facal-faire agad ath-shuidheacha
   Url: %4$s';
 $Definition['Emails'] = 'Post-d';
 $Definition['Email Source'] = 'Post-d';
-$Definition['EmailStory.GroupApproved'] = 'Chaidh an t-iarrtas agad airson a dhol còmhla ri {Ainm} aontachadh.';
+$Definition['EmailStory.GroupApproved'] = 'Chaidh an t-iarrtas agad airson a dhol còmhla ri {Name} aontachadh.';
 $Definition['EmailStory.GroupInvitation'] = 'You\'ve been invited to join {Name}.';
 $Definition['EmailStory.GroupJoinRequest'] = 'Tha {Username} air iarraidh a dhol a-steach do {Name}.';
 $Definition['EmailStory.IdeaAuthorStatus'] = 'Is e {Status} a’ bhòtadh airson a’ bheachd.';

@@ -3985,7 +3985,7 @@ $Definition['Zip'] = 'Zip（ジップ）';
 $Definition['Z to A'] = '降順';
 
 $Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} が<a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a>を<a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>で発表しました';
-$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} が {Data.KnowledgeBaseName, <a href="{Url,html}">text} の記事 {Data.Name,text}</a>を編集しました。';
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} が {Data.KnowledgeBaseName,text} の記事 <a href="{Url,html}">{Data.Name,text}</a>を編集しました。';
 $Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} が {Data.KnowledgeBaseName,text} に新しい記事<a href="{Url,html}">{Data.Name,text}</a>を投稿しました。';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User}が回答を提案しています: 確認してください';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user}が<strong>{GroupName}</strong>にお知らせを投稿しました';

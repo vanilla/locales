@@ -3646,8 +3646,8 @@ $Definition['Zendesk - Create Ticket'] = 'Zendesk - Bilet Oluştur';
 $Definition['Z to A'] = 'Z\'den A\'ya';
 
 $Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user}, <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a> grubunda <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> duyurusunu yaptı.';
-$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}, {Data.KnowledgeBaseName,text} içindeki <a href="{Url,html}">{Data.Name,</a> text} makalesini düzenledi.';
-$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}, {Data.KnowledgeBaseName,text} içinde <a href="{Url,html}">{Data.Name,</a> text} numaralı yeni bir makale yayınladı.';
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}, {Data.KnowledgeBaseName,text} içindeki <a href="{Url,html}">{Data.Name,text}</a> makalesini düzenledi.';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user}, {Data.KnowledgeBaseName,text} içinde <a href="{Url,html}">{Data.Name,text}</a> numaralı yeni bir makale yayınladı.';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} yanıtlar önerdi: kontrol edin';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} , <strong>{GroupName}</strong>\'de bir duyuru yayınladı.';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} yeni bir tartışma başlattı <strong>{DiscussionName}</strong>';

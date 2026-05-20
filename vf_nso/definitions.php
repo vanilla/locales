@@ -5,7 +5,7 @@
   'Name' => 'Sesotho sa Leboa / Northern Sotho',
   'EnName' => 'Northern Sotho',
   'Description' => 'Official Northern Sotho language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/nso/">here</a>.',
-  'Version' => '2026.05.20-04:001043',
+  'Version' => '2026.05.20-04:001137',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/nso/',
   'License' => 'CC BY-SA 4.0',

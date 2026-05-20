@@ -3681,8 +3681,8 @@ $Definition['Zendesk - Create Ticket'] = 'Zendesk - 建立工單';
 $Definition['Z to A'] = 'Z 到 A';
 
 $Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} 已在<a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>中宣告<a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a>';
-$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} 編輯了<a href="{Url,html}">{Data.KnowledgeBaseName,text}</a>中的文章 {Data.Name,text}。';
-$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} 在 {Data.KnowledgeBaseName,text} 發布了一篇新文章<a href="{Url,html}">{Data.Name,</a> text}。';
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} 編輯了{Data.KnowledgeBaseName,text}中的文章 <a href="{Url,html}">{Data.Name,text}</a>。';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} 在 {Data.KnowledgeBaseName,text} 發布了一篇新文章<a href="{Url,html}">{Data.Name,text}</a>。';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} 有建議的答案：查看一下';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} 在<strong>{GroupName}</strong>中發布了公告';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} 發起了新討論<strong>{DiscussionName}</strong>';

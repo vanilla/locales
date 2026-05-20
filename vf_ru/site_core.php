@@ -1078,7 +1078,7 @@ Email: %6$s
 $Definition['Emails'] = 'Электронные письма';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Использовать в качестве отправителя следующий адрес электронной почты:';
 $Definition['Email Source'] = 'Электронная почта';
-$Definition['EmailStory.GroupApproved'] = 'Ваша заявка на присоединение к {Имя} одобрена.';
+$Definition['EmailStory.GroupApproved'] = 'Ваша заявка на присоединение к {Name} одобрена.';
 $Definition['EmailStory.GroupInvitation'] = 'Вас пригласили присоединиться к {Name}.';
 $Definition['EmailStory.GroupJoinRequest'] = '{Username} подал заявку на присоединение к {Name} .';
 $Definition['EmailStory.IdeaAuthorStatus'] = 'Голосование за эту идею завершено {Статус}.';

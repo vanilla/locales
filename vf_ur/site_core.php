@@ -3655,8 +3655,8 @@ $Definition['Zip'] = 'زپ';
 $Definition['Z to A'] = 'Z سے A';
 
 $Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} نے <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName} میں {</a> <a href=\'{Data.DiscussionUrl,htmlencode}\'>Data.DiscussionName}</a> کا اعلان کیا ہے';
-$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} نے <a href="{Url,html}">{Data.KnowledgeBaseName,text} میں مضمون {</a> Data.Name,text} میں ترمیم کی ہے۔';
-$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} نے {Data.KnowledgeBaseName,text} میں ایک نیا مضمون <a href="{Url,html}">{Data.Name,</a> text} پوسٹ کیا ہے۔';
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} نے <a href="{Url,html}">{Data.Name,text}</a> مضمون میں {Data.KnowledgeBaseName,text} میں ترمیم کی ہے۔';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} نے ایک نیا مضمون <a href="{Url,html}">{Data.Name,text}</a> {Data.KnowledgeBaseName,text} میں پوسٹ کیا ہے۔';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} نے جوابات تجویز کیے ہیں: اسے چیک کریں۔';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} نے <strong>{GroupName}</strong> میں ایک اعلان پوسٹ کیا';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} نے ایک نئی بحث شروع کی <strong>{DiscussionName}</strong>';
