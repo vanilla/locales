@@ -3739,7 +3739,7 @@ $Definition['Z to A'] = 'Z к A';
 
 $Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = 'Пользователь с идентификатором {ActivityUserID,user} объявил о <a href=\'{Data.DiscussionUrl,htmlencode}\'>встрече с пользователем {Data.DiscussionName}</a> в группе <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}.</a>';
 $Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = 'Пользователь с идентификатором {ActivityUserID,user} отредактировал статью <a href="{Url,html}">{Data.Name,text}</a> в {Data.KnowledgeBaseName,text}.';
-$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = 'Пользователь с идентификатором {ActivityUserID,user} опубликовал новую статью в разделе { <a href="{Url,html}">Data.Name,</a> text}.';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} опубликовал новую статью <a href="{Url,html}">{Data.Name,text}</a> в {Data.KnowledgeBaseName,text}';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} предложил ответы: проверьте';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} опубликовал объявление в <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} начал новую дискуссию <strong>{DiscussionName}</strong>';
