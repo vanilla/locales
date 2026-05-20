@@ -1066,6 +1066,13 @@ $Definition['EmailPassword'] = '%2$s さんが %3$s に パスワードをリセ
 $Definition['Emails'] = 'メール';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'アプリケーションから送信されるメールの送信元には、以下の名前とメールアドレスが使用されます';
 $Definition['Email Source'] = 'メールアドレス';
+$Definition['EmailStory.GroupApproved'] = '{Name}への参加リクエストが承認されました。';
+$Definition['EmailStory.GroupInvitation'] = 'あなたは{Name}へ招待されました。';
+$Definition['EmailStory.GroupJoinRequest'] = '{Username}が{Name}への参加をリクエストしました。';
+$Definition['EmailStory.IdeaAuthorStatus'] = 'アイデアへの投票は{Status}です。';
+$Definition['EmailStory.IdeaVoterStatus'] = 'アイデアへの投票は{Status}です。';
+$Definition['EmailStory.RoleRequest.Approved'] = 'あなたの申請は承認されました。';
+$Definition['EmailStory.RoleRequest.Denied'] = 'あなたの申請は拒否されました。';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -1493,13 +1500,21 @@ $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user}が{Da
 $Definition['HeadlineFormat.EventCancelled'] = '{Data.Name,text}がキャンセルされました。';
 $Definition['HeadlineFormat.EventReminder'] = 'リマインダー：{Data.Name,text}は1日後に開始します';
 $Definition['HeadlineFormat.EventRSVP'] = '<a href="{Url,html}">{Data.Name,text}</a>に登録しました';
+$Definition['HeadlineFormat.GroupApproved'] = '<a href="{Url,html}">{Data.Name,text}</a>への参加リクエストが承認されました。';
+$Definition['HeadlineFormat.GroupInvitation'] = '私のグループに参加してください：<a href="{Url,html}">{Data.Name,text}</a>。';
+$Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username}が{Data.Group}への参加をリクエストしました。';
+$Definition['HeadlineFormat.IdeaAuthorStatus'] = '<a href="{Url,html}">{Data.Name,text}</a>のステータスが変更されました。';
+$Definition['HeadlineFormat.IdeaAuthorStatus.Story'] = 'アイデアへの投票は{Data.Status}です。';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} が<a href="{Url,html}">{Data.Name,text}</a>で、あなたについて語っています。';
 $Definition['HeadlineFormat.NewEvent'] = '新規イベント：{Data.Name,text}';
 $Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User}があなたの<a href="{Url,url}">壁に</a>コメントしました。';
 $Definition['HeadlineFormat.NotifyWallPost'] = '<a href="{Url,url}">{ActivityUserID,User}があなたの壁に</a>投稿されました。';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = ' {RegardingUserID,You} が {ActivityUserID,user}のプロフィール写真を変更しました。 ';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}さんが参加しました。';
+$Definition['HeadlineFormat.RoleRequest.Approved'] = 'あなたは<b>{Data.role}</b>ロールに追加されました。';
+$Definition['HeadlineFormat.RoleRequest.Denied'] = 'あなたの<b>{Data.role}</b>ロールへの申請は拒否されました。';
 $Definition['HeadlineFormat.Unban'] = ' {RegardingUserID,You} が {ActivityUserID,you}の禁止を解きました。';
+$Definition['HeadlineFormat.Unban.Notification'] = 'あなたのバンは解除されました。';
 $Definition['HeadlineFormat.UpdatedEvent'] = '更新イベント：{Data.Name,text}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} が {RegardingUserID,you}に警告しました。';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'あなたは警告を受けました。';
@@ -1534,12 +1549,12 @@ $Definition['Hide comment author information and replace comment content with'] 
 $Definition['Hide my online status from other members'] = 'オンライン ステータスを他のメンバーに非表示にする';
 $Definition['Hide previous quotes'] = '« 以前の引用を隠す';
 $Definition['Hide Results'] = '結果を隠す';
+$Definition['Hide shadow banned user content'] = 'シャドウバン中のユーザーのコンテンツを非表示';
 $Definition['Hide signatures?'] = '署名を隠しますか？';
 $Definition['Hide signatures always'] = '常に署名を隠す';
 $Definition['Hide signatures on my mobile device'] = 'モバイルデバイス上で署名を隠す';
 $Definition['Hide this content'] = 'このコンテンツを非表示にする
 ';
-$Definition['Hide troll content'] = '荒らしのコンテンツを非表示';
 $Definition['his'] = '彼の';
 $Definition['History By Rule'] = 'ルールによる履歴
 ';
@@ -1822,6 +1837,7 @@ $Definition['Left Headers'] = '左ヘッダー';
 $Definition['Legacy'] = 'レガシー';
 $Definition['Length'] = '長さ';
 $Definition['Level %s'] = 'レベル%s ';
+$Definition['Lift Shadow Ban'] = 'シャドウバン解除';
 $Definition['Like'] = 'いいね';
 $Definition['Limited Time'] = '期間限定
 ';
@@ -1883,6 +1899,7 @@ $Definition['Manage Drafts and Scheduled Content'] = '下書きとスケジュ�
 $Definition['Manage Followed Categories'] = 'フォローされているカテゴリの管理';
 $Definition['Manage Followed Content'] = 'フォローしたコンテンツの管理';
 $Definition['Manage how groups work across your community.'] = 'コミュニティの中でグループにできることを管理できます。';
+$Definition['Manage Knowledge Bases'] = 'ナレッジベースを管理';
 $Definition['Manage Members'] = 'メンバーの管理';
 $Definition['Manage Sources'] = 'ソースの管理
 ';
@@ -1893,7 +1910,6 @@ $Definition['Manually set user password with no email notification'] = 'メー�
 ';
 $Definition['Mark All Read'] = 'すべて既読にする';
 $Definition['Mark All Viewed'] = '全てを既読にする';
-$Definition['Mark as Troll'] = 'スパムとして通報';
 $Definition['Mark Category Viewed'] = '閲覧したカテゴリーに印をつける';
 $Definition['Marking as spam cannot be undone.'] = 'どれかを「スパム」としてマークすると、完全に削除されることになります。あなたのフォーラムをきれいに保つために、削除することはいい方法です。';
 $Definition['Mark Pending'] = '保留マーク';
@@ -2023,6 +2039,7 @@ $Definition['Multi-select fields will trigger if the user meets ANY of the crite
 $Definition['Mute'] = '消音';
 $Definition['Muted'] = 'ミュート
 ';
+$Definition['Mute this post'] = 'この投稿をミュートする';
 $Definition['My Account'] = 'マイアカウント';
 $Definition['My Account Tab'] = 'マイアカウント タブ';
 $Definition['My answer is accepted'] = '私の答えが承認されました';
@@ -2093,6 +2110,7 @@ $Definition['New Email'] = '新しいメールアドレス
 $Definition['Newest'] = '最新';
 $Definition['Newest Members'] = '最も新しいメンバー';
 $Definition['New Event'] = '新しいイベント';
+$Definition['New Event in {Data.GroupName,text}: {Data.EventName,text}'] = '{Data.GroupName,text} に新しいイベントが発生しました: {Data.EventName,text}';
 $Definition['new events'] = '新しいイベント';
 $Definition['New Field'] = '新しいフィールド
 ';
@@ -2442,6 +2460,9 @@ $Definition['Please select a reason for reporting this content.'] = 'このコ�
 $Definition['Please set required trigger values to see the preview.'] = 'プレビューを表示するには、必要なトリガー値を設定してください。
 ';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '出力先が変更されるまでお待ち下さい。もし、出力先が変更されない時には、<a href="%s">こちら</a>をクリックして下さい。';
+$Definition['PluralHeadlineFormat.Answer'] = 'あなたの質問に対して新しい回答が<strong>{count}</strong>件あります：<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['PluralHeadlineFormat.Comment'] = 'ディスカッションに新しいコメントが<strong>{count}</strong>件あります：<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['PluralHeadlineFormat.GroupJoinRequest'] = '{count}人のユーザーが{Data.Group}への参加をリクエストしました。';
 $Definition['Points'] = 'ポイント';
 $Definition['Poll'] = '投票';
 $Definition['poll'] = '投票';
@@ -2801,6 +2822,7 @@ $Definition['RoleID'] = 'ロールID';
 $Definition['Role Preview'] = 'ロールのプレビュー';
 $Definition['Roles'] = 'ロール';
 $Definition['roles'] = '役割';
+$Definition['RoutesWarning'] = '各ページ読み込み時に、システムはこのルート一覧を確認し、リダイレクトが発生するかどうかを判断します。そのため、ルートの追加ごとにページリクエストの処理時間がわずかに増加します。最適なパフォーマンスを維持するため、カスタムルートはできるだけ最小限に保つことを推奨します。';
 $Definition['Row'] = '行';
 $Definition['Row Options'] = '行オプション';
 $Definition['Rows'] = '行';
@@ -2949,6 +2971,8 @@ $Definition['Set trigger variable and action variable to generate a rule summary
 $Definition['Seventh Anniversary'] = '7周年';
 $Definition['Severity'] = '深刻度';
 $Definition['Shadow'] = 'シャドウ';
+$Definition['Shadow Ban'] = 'シャドウバン';
+$Definition['Shadow Banned'] = 'シャドウバン中';
 $Definition['Share'] = 'シェア';
 $Definition['Shared Accounts'] = '共有アカウント';
 $Definition['Share In Message'] = 'メッセージで共有';
@@ -2971,8 +2995,8 @@ $Definition['Show popular tags'] = '一般的なタグを表示する';
 $Definition['Show previous quotes'] = '» 以前の引用を表示';
 $Definition['Show profile publicly'] = 'プロフィールを公開';
 $Definition['Show Schema'] = 'スキーマを表示';
+$Definition['Show shadow banned user content'] = 'シャドウバン中のユーザーのコンテンツを表示';
 $Definition['Show this content'] = 'このコンテンツを表示';
-$Definition['Show troll content'] = '荒らしコンテンツを表示';
 $Definition['Show unfollowed categories'] = 'フォローされていないカテゴリーを表示する';
 $Definition['Sign-In URL'] = 'サインインURL';
 $Definition['Sign-Out URL'] = 'サインアウトURL';
@@ -3109,6 +3133,7 @@ $Definition['Tablet'] = 'タブレット';
 $Definition['Tabs'] = 'タブ';
 $Definition['Tag'] = 'タグ';
 $Definition['Tag added successfully'] = 'タグが正常に追加されました';
+$Definition['Tag creation from this field is disabled because <0>scoped tagging is enabled</0>. To create or manage tags, go to the <1/> page.'] = 'このフィールドからのタグ作成は、<0>スコープ付きタグ付けが有効になっているため</0>無効になっています。タグを作成または管理するには、<1/>ページに移動してください。';
 $Definition['Tagged'] = 'タグ付けされた';
 $Definition['Tagged with '] = 'タグ付けされている';
 $Definition['Tagged with "%s"'] = '｢%s｣でタグ付けされている';
@@ -3289,7 +3314,7 @@ $Definition['This text will display as the location.'] = 'このテキストは�
 $Definition['This user\'s profile is private.'] = 'このユーザーのプロフィールは非公開です。';
 $Definition['This user has been banned'] = 'このユーザーは禁止されています';
 $Definition['This user has been deleted.'] = 'このユーザーは削除されました。';
-$Definition['This user has been marked as a troll.'] = 'このユーザーはスパムとして報告されています。';
+$Definition['This user has been shadow banned.'] = 'このユーザーはシャドウバンされています。';
 $Definition['This user has been verified as a non-spammer.'] = 'このユーザーは、非スパマーと検証されています。';
 $Definition['This user has not been verified as a non-spammer.'] = 'このユーザーはスパマーではないことが確認されていません。';
 $Definition['This user has not commented yet.'] = 'このユーザーはまだコメントしていません。';
@@ -3365,8 +3390,7 @@ $Definition['Trending'] = 'トレンド';
 $Definition['Trending Posts'] = 'トレンドの投稿';
 $Definition['Triage'] = 'トリアージ';
 $Definition['Trigger Delay'] = 'トリガー遅延';
-$Definition['Troll'] = 'スパムユーザー';
-$Definition['Troll.Content'] = '<b>荒らし</b> <ul> <li>このユーザーは荒らしとしてマークされています。</li> <li>このユーザーのコンテンツは、モデレーターと荒らしユーザーのみに表示されています。</li> <li>このメッセージは荒らしユーザーには表示されません。</li> </ul>';
+$Definition['Troll.Content'] = '<b>シャドウバン中</b> <ul> <li>このユーザーはシャドウバンされています。シャドウバンにより、このユーザーのコンテンツ（投稿やコメントなど）は、他のユーザーへの表示が制限され、通知されることもありません。ユーザーは引き続きプラットフォームを利用できますが、その投稿は他のユーザーには表示されにくくなります。</li></ul>';
 $Definition['Try adjusting your filters.'] = 'フィルターを調整してみてください。';
 $Definition['Try Again'] = '再試行';
 $Definition['Turn ON'] = 'オンにする';
@@ -3415,7 +3439,6 @@ $Definition['Unlink'] = 'リンク解除';
 $Definition['Unlink from Post Type'] = '投稿タイプからリンクを解除';
 $Definition['Unlock Premium Features'] = 'プレミアム機能のロック解除';
 $Definition['Unlock premium features and take your discussions to the next level'] = 'プレミアム機能のロックを解除して、ディスカッションを次のレベルに引き上げましょう';
-$Definition['Unmark as Troll'] = '通報を取り下げ';
 $Definition['Unmute'] = '消音を解除';
 $Definition['Unordered list'] = '順序なしリスト';
 $Definition['Unpin'] = 'ピンを外す';
@@ -3509,6 +3532,7 @@ $Definition['Username or email'] = 'ユーザー名またはメールアドレ�
 $Definition['Usernames'] = 'ユーザー名';
 $Definition['User Not Found'] = 'ユーザーが見つかりません';
 $Definition['User not found.'] = '申し訳ありません、あなたの入力したメールアドレス／ユーザー名に関するアカウントが見当たりません。';
+$Definition['Use Routes with Caution'] = 'ルートの使用には注意してください';
 $Definition['Users'] = 'ユーザー';
 $Definition['users apply for membership.'] = 'ユーザーがメンバーシップを申請。';
 $Definition['Users Count'] = 'ユーザーのカウント';
@@ -3589,6 +3613,7 @@ $Definition['View More'] = 'もっと見る';
 $Definition['view more'] = 'さらに見る';
 $Definition['View More Posts'] = '投稿をさらに見る';
 $Definition['View New Post'] = '新しい投稿を見る';
+$Definition['View Original'] = '元の表示';
 $Definition['View Original Discussion'] = '元のディスカッションを表示';
 $Definition['View Post'] = '投稿を表示します';
 $Definition['View Profile'] = 'プロファイルを表示する';
@@ -3779,9 +3804,9 @@ $Definition['You aren\'t allowed to %s this group.'] = 'あなたはこのグル
 $Definition['You are no longer following <0/>'] = '<0/> をフォローしていません';
 $Definition['You are not allowed to ban a user that has higher permissions than you.'] = '自分よりも高い権限を持つユーザーを禁止することはできません。';
 $Definition['You are not allowed to ban a user with the same permission level as you.'] = '自分と同じ権限を持つユーザーを禁止することはできません。';
-$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] = 'あなたよりも高い権限を持つユーザーを、荒らしとしてマークすることはできません。';
-$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] = 'あなたと同等の権限レベルのユーザーを、荒らしとしてマークすることはできません。';
 $Definition['You are not allowed to post in categories with a display type of %s.'] = '表示タイプが %s のカテゴリに投稿することはできません。';
+$Definition['You are not allowed to shadow ban a user that has higher permissions than you.'] = '自分より高い権限を持つユーザーをシャドウバンすることはできません。';
+$Definition['You are not allowed to shadow ban a user with the same permission level as you.'] = '自分と同じ権限レベルを持つユーザーをシャドウバンすることはできません。';
 $Definition['You are not allowed to warn a user with higher permissions than you.'] = '自分よりも高い権限を持つユーザーに、警告を行うことはできません。';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] = '自分と同じ権限レベルを持つユーザーに、警告を行うことはできません。';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = '%1$sを終了しています。リンクをクリックして%2$sに進んでください。
@@ -3959,10 +3984,16 @@ $Definition['Zendesk - Create Ticket'] = 'Zendesk - チケットを作成';
 $Definition['Zip'] = 'Zip（ジップ）';
 $Definition['Z to A'] = '降順';
 
+$Definition['{ActivityUserID,user} has announced <a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a> in <a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>'] = '{ActivityUserID,user} が<a href=\'{Data.DiscussionUrl,htmlencode}\'>{Data.DiscussionName}</a>を<a href=\'{Data.GroupUrl,htmlencode}\'>{Data.GroupName}</a>で発表しました';
+$Definition['{ActivityUserID,user} has edited the article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} が {Data.KnowledgeBaseName,text} の記事 <a href="{Url,html}">{Data.Name,text}</a>を編集しました。';
+$Definition['{ActivityUserID,user} has posted a new article <a href="{Url,html}">{Data.Name,text}</a> in {Data.KnowledgeBaseName,text}'] = '{ActivityUserID,user} が {Data.KnowledgeBaseName,text} に新しい記事<a href="{Url,html}">{Data.Name,text}</a>を投稿しました。';
 $Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User}が回答を提案しています: 確認してください';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user}が<strong>{GroupName}</strong>にお知らせを投稿しました';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user}が新しいディスカッション<strong>{DiscussionName}</strong>を開始しました';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong>に{count}件の新しいお知らせ';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong>に{count}件の新しいディスカッション';
+$Definition['{Data.name} applied for membership.'] = '{Data.name}がメンバーシップを申請しました。';
+$Definition['{Data.name} has been escalated and assigned to you.'] = '{Data.name} がエスカレーションされ、あなたに割り当てられました。';
+$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,text} が {Data.name,text} を報告しました。';
 $Definition['{Username} has requested to join {Group}.'] = '{Username}が{Group}への参加をリクエストしました。';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username}が{GroupName}で新しいディスカッションを開始しました：<a href=\'{DiscussionUrl}\'>{DiscussionName}</a>。';
