@@ -2122,7 +2122,7 @@ $Definition['Username already exists.'] = 'Username already exists.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Username can only contain letters, numbers, and underscores.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
 $Definition['UsernameError'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
-$Definition['{Username} has requested to join {Group}.'] = '{Username} has requested to join {Group}.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} has requested to join {roup}.';
 $Definition['Username or email'] = 'Username or email';
 $Definition['User Not Found'] = 'User Not Found';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
@@ -2758,8 +2758,6 @@ $Definition['HeadlineFormat.RoleRequest.Approved'] = 'You\'ve been added to the 
 $Definition['HeadlineFormat.RoleRequest.Denied'] = 'Your application to the <b>{Data.role}</b> role was denied.';
 $Definition['HeadlineFormat.GroupInvitation'] = 'Please join my group: <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.GroupApproved'] = 'Your request to join <a href="{Url,html}">{Data.Name,text}</a> has been approved.';
-$Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username,text} has requested to join <a href="{Url,html}">{Data.Name,text}</a>.';
-$Definition['PluralHeadlineFormat.GroupJoinRequest'] = '<strong>{count}</strong> users have requested to join <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['EmailStory.GroupApproved'] = 'Your request to join {Name} has been approved.';
 $Definition['EmailStory.GroupInvitation'] = 'You\'ve been invited to join {Name}.';
 $Definition['EmailStory.GroupJoinRequest'] = '{Username} has requested to join {Name}.';
@@ -2769,3 +2767,6 @@ $Definition['HeadlineFormat.IdeaAuthorStatus'] = 'The status has changed for <a 
 $Definition['HeadlineFormat.IdeaAuthorStatus.Story'] = 'Voting for the idea is {Data.Status}.';
 $Definition['EmailStory.IdeaAuthorStatus'] = 'Voting for the idea is {Status}.';
 $Definition['EmailStory.IdeaVoterStatus'] = 'Voting for the idea is {Status}.';
+$Definition["PluralHeadlineFormat.Answer"] = 'There are <strong>{count}</strong> new answers to your question: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.GroupJoinRequest'] = '{Data.Username} has requested to join {Data.Group}.';
+$Definition["PluralHeadlineFormat.GroupJoinRequest"] = "{count} users have requested to join {Data.Group}.";
