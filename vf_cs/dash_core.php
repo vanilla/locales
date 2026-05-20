@@ -1274,4 +1274,4 @@ $Definition['You will no longer receive community engagement emails.'] = 'Již n
 $Definition['Zendesk Knowledge Bases'] = 'Zendesk znalostní báze';
 $Definition['Zoom Meeting ID or URL'] = 'Přiblížit ID nebo URL schůzky';
 
-$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Vy} jste přijali odpověď uživatele {NotifyUserID,Vaše} na otázku: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} jste přijali odpověď uživatele {NotifyUserID,your} na otázku: <a href="{Url,html}">{Data.Name,text}</a>';

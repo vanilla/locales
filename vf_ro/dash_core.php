@@ -1700,4 +1700,4 @@ $Definition['You will no longer receive community engagement emails.'] = 'Nu ve�
 $Definition['Zendesk Knowledge Bases'] = 'Baze de cunoștințe Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID sau URL';
 
-$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Ați acceptat răspunsul {NotifyUserID,al dvs.} la întrebarea: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} a acceptat răspunsul {NotifyUserID,your} la o întrebare: <a href="{Url,html}">{Data.Name,text}</a>';

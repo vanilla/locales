@@ -2213,7 +2213,7 @@ $Definition['Please select a reason for reporting this content.'] = 'Wybierz pow
 $Definition['Please set required trigger values to see the preview.'] = 'Aby zobaczyć podgląd, ustaw wymagane wartości wyzwalacza.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Zaczekaj chwilę na przekierowanie. Jeśli nie nastąpi, kliknij <a href="%s">tutaj</a>.';
 $Definition['PluralHeadlineFormat.Answer'] = 'Jest <strong>{count}</strong> nowych odpowiedzi na Twoje pytanie: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['PluralHeadlineFormat.Comment'] = 'Liczba nowych komentarzy w dyskusji: <a href="{Url,html}">{Data.Name,text}:</a> <strong>{count</strong> }';
+$Definition['PluralHeadlineFormat.Comment'] = 'Liczba nowych komentarzy w dyskusji: <a href="{Url,html}">{Data.Name,text}:</a> <strong>{count}</strong>';
 $Definition['PluralHeadlineFormat.GroupJoinRequest'] = '{count} użytkowników poprosiło o dołączenie do grupy {Data.Group}.';
 $Definition['Points'] = 'Punktów';
 $Definition['Poll'] = 'Ankieta';

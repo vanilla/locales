@@ -5,7 +5,7 @@
   'Name' => 'Svenska / Swedish',
   'EnName' => 'Swedish',
   'Description' => 'Official Swedish language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/sv/">here</a>.',
-  'Version' => '2026.05.20-04:001043',
+  'Version' => '2026.05.20-04:001209',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/sv/',
   'License' => 'CC BY-SA 4.0',

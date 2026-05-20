@@ -1706,4 +1706,4 @@ $Definition['You will no longer receive community engagement emails.'] = 'O ka s
 $Definition['Zendesk Knowledge Bases'] = 'Metheo ya Tsebo ya Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom ID ya Kopano goba URL';
 
-$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Wena} o amogetše {NotifyUserID,ya gago} karabo ya potšišo: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} o amogetše {NotifyUserID,your} karabo ya potšišo: <a href="{Url,html}">{Data.Name,text}</a>';

@@ -3649,7 +3649,7 @@ $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} بدأ مناقشة جديدة <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = 'إعلانات {count} الجديدة في <strong>{GroupName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} مناقشات جديدة في <strong>{GroupName}</strong>';
-$Definition['{Data.name} applied for membership.'] = '{اسم البيانات} تقدم بطلب للحصول على العضوية.';
+$Definition['{Data.name} applied for membership.'] = '{Data.name} تقدم بطلب للحصول على العضوية.';
 $Definition['{Data.name} has been escalated and assigned to you.'] = 'تم تصعيد {Data.name} وإسنادها إليك.';
 $Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,text} أبلغ عن {Data.name,text}.';
 $Definition['{Username} has requested to join {Group}.'] = 'طلب {Username} الانضمام إلى {Group}.';

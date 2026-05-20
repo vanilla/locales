@@ -3587,6 +3587,6 @@ $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cou
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} nye diskusjoner i <strong>{GroupName}</strong>';
 $Definition['{Data.name} applied for membership.'] = '{Data.name} søkte om medlemskap.';
 $Definition['{Data.name} has been escalated and assigned to you.'] = '{Data.name} har blitt eskalert og tildelt deg.';
-$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,tekst} rapporterte {Data.name,tekst}.';
+$Definition['{Data.reporterName,text} reported {Data.name,text}.'] = '{Data.reporterName,text} rapporterte {Data.name,text}.';
 $Definition['{Username} has requested to join {Group}.'] = '{Username} har bedt om å bli med i {Group}.';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} startet en ny diskusjon i {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
