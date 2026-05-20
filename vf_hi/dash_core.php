@@ -1,2281 +1,1559 @@
 <?php
 
+$Definition['"Accept Answer" if a suggestion answers your question.'] = 'यदि कोई सुझाव आपके प्रश्न का उत्तर देता है तो "उत्तर स्वीकार करें" पर क्लिक करें।';
+
+$Definition['# Reports'] = '# रिपोर्ट';
+
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" नहीं मिला।';
-$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s संस्करण %2$s';
-$Definition['%1$s version %2$s is available.'] =
-    '%1$s वर्श़न %2$s उपलब्ध है.';
-$Definition["%s is not a valid email address"] =
-    "%s एक मान्य ईमेल पता नहीं है";
-$Definition["%s is required"] = "%s आवश्यक है";
-$Definition["%s item in queue"] = "%s आइटम प्रतीक्षा में हैं ";
-$Definition["%s level"] = "%s स्तर";
-$Definition["%s levels"] = "%s स्तर";
-$Definition["%s must be numeric"] = "%s संख्यात्मक होना चाहिए";
-$Definition["%s site(s) found."] = "%s साइट(टें) मिली।";
-$Definition["%s sources(s) found."] = "%s स्रोत (s) मिले";
-$Definition["%s times"] = "%s समय";
-$Definition["%s unavailable"] = "%s अनुपलब्ध है";
-$Definition["%s user found."] = "%s उपयोगकर्ता मिले।";
-$Definition["%s users found."] = "%s उपयोगकर्ता मिले।";
-$Definition["%s user(s) found."] = " %s उपयोगकर्ता मिले।";
-$Definition["%s user(s) will be affected by this action."] =
-    "%s उपयोगकर्ता इस कार्य से प्रभावित होंगे।";
+$Definition['%1$s version %2$s is available.'] = '%1$s वर्श़न %2$s उपलब्ध है.';
+$Definition['%d slides on display initial slide %d of %d'] = '%d स्लाइड्स प्रदर्शन पर %d में से %d आरंभिक स्लाइड';
+$Definition['%s ago'] = '%s पहले';
+$Definition['%s in the following categories will require moderator approval.'] = 'निम्नलिखित श्रेणियों में %s को मॉडरेटर की स्वीकृति की आवश्यकता होगी।';
+$Definition['%s is not a valid email address'] = '%s एक मान्य ईमेल पता नहीं है';
+$Definition['%s is required'] = '%s आवश्यक है';
+$Definition['%s item in queue'] = '%s आइटम प्रतीक्षा में हैं ';
+$Definition['%s level'] = '%s स्तर';
+$Definition['%s levels'] = '%s स्तर';
+$Definition['%s must be numeric'] = '%s संख्यात्मक होना चाहिए';
+$Definition['%s site(s) found.'] = '%s साइट(टें) मिली।';
+$Definition['%s sources(s) found.'] = '%s स्रोत (s) मिले';
+$Definition['%s times'] = '%s समय';
+$Definition['%s unavailable'] = '%s अनुपलब्ध है';
+$Definition['%s user(s) found.'] = ' %s उपयोगकर्ता मिले।';
+$Definition['%s user(s) will be affected by this action.'] = '%s उपयोगकर्ता इस कार्य से प्रभावित होंगे।';
+$Definition['%s user found.'] = '%s उपयोगकर्ता मिले।';
+$Definition['%s users found.'] = '%s उपयोगकर्ता मिले।';
 
-$Definition["<0/> will suggest answers on Q&A posts"] =
-    "<0/> प्रश्नोत्तर पोस्ट पर उत्तर सुझाएगा";
-$Definition["<0 /> will not suggest answers on Q&A posts"] =
-    "<0 /> प्रश्नोत्तर पोस्ट पर उत्तर सुझाएगा नहीं";
+$Definition['(less)'] = '(कम)';
+$Definition['(more)'] = '(ज़्यादा)';
 
-$Definition["(less)"] = "(कम)";
-$Definition["(more)"] = "(ज़्यादा)";
-$Definition["(YYYY-mm-dd)"] = "(YYYY-mm-dd)";
+$Definition['1 day'] = '1 दिन';
+$Definition['1 hour'] = '1 घंटा';
+$Definition['1 in 5 is recommended for most communities.'] = 'अधिकांश समुदायों के लिए 5 में से 1 की अनुशंसा की जाती है।';
+$Definition['1 in 20 is recommended for most communities.'] = 'अधिकांश समुदायों के लिए 20 में से 1 की सिफारिश की जाती है।';
+$Definition['1 month'] = '1 माह';
+$Definition['1 month after being sent'] = 'भेजे जाने के 1 महीने बाद';
+$Definition['1 week'] = '1 सप्ताह';
+$Definition['1 week after being sent'] = 'भेजे जाने के 1 हफ्ते बाद';
+$Definition['2 weeks after being sent'] = 'भेजे जाने के 2 हफ्ते बाद';
+$Definition['4 hours'] = '4 घंटे';
+$Definition['5 minutes'] = '5 मिनट';
+$Definition['15 minutes'] = '15 मिनट';
 
-$Definition["1 day"] = "1 दिन";
-$Definition["1 hour"] = "1 घंटा";
-$Definition["1 in 5 is recommended for most communities."] =
-    "अधिकांश समुदायों के लिए 5 में से 1 की अनुशंसा की जाती है।";
-$Definition["1 in 20 is recommended for most communities."] =
-    "अधिकांश समुदायों के लिए 20 में से 1 की सिफारिश की जाती है।";
-$Definition["1 month"] = "1 माह";
-$Definition["1 month after being sent"] = "भेजे जाने के 1 महीने बाद";
-$Definition["1 week"] = "1 सप्ताह";
-$Definition["1 week after being sent"] = "भेजे जाने के 1 हफ्ते बाद";
-$Definition["2 weeks after being sent"] = "भेजे जाने के 2 हफ्ते बाद";
-$Definition["4 hours"] = "4 घंटे";
-$Definition["5 minutes"] = "5 मिनट";
-$Definition["15 minutes"] = "15 मिनट";
+$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> प्रश्नोत्तर पोस्ट पर उत्तर सुझाएगा नहीं';
+$Definition['<0/> <1/> more comments'] = '<0/> <1/> अधिक टिप्पणियाँ';
+$Definition['<0/> has been <1/>'] = '<0/> को <1/> कर दिया गया है';
+$Definition['<0/> new'] = '<0/> नया';
+$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> प्रश्नोत्तर पोस्ट पर उत्तर सुझाएगा';
 
-$Definition["[%s] Confirm Your Email Address"] =
-    "[%s] अपने ईमेल पते की पुष्टि करें";
-$Definition["[%s] Invitation"] = "[%s] निमंत्रण";
-$Definition["[%s] Password Reset"] = "[%s] पासवर्ड रीसेट";
-$Definition["[%s] Password Reset Request"] = "[%s] पासवर्ड रीसेट अनुरोध";
-$Definition[
-    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
-] = 'आप अधिकतम लॉगिन प्रयासों तक पहुँच चुके हैं। कृपया %s प्रतीक्षा करें और पुन: प्रयास करें।';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] अपने ईमेल पते की पुष्टि करें';
+$Definition['[%s] Invitation'] = '[%s] निमंत्रण';
+$Definition['[%s] Password Reset'] = '[%s] पासवर्ड रीसेट';
+$Definition['[%s] Password Reset Request'] = '[%s] पासवर्ड रीसेट अनुरोध';
 
-$Definition["a Badge"] = "बैज";
-$Definition["A unique display name."] = "एक अद्वितीय प्रदर्शन नाम.";
-$Definition["A unique label name that cannot be changed once saved."] =
-    "एक अद्वितीय लेबल नाम जिसे एक बार सहेजे जाने के बाद बदला नहीं जा सकता.";
-$Definition["Abilites"] = "क्षमताओं";
-$Definition["Abilities"] = "क्षमताओं";
-$Definition["About %s"] = "%s के बारे में";
-$Definition["About Email Digest"] = "ईमेल डाइजेस्ट के बारे में";
-$Definition["About External Search"] = "बाहरी खोज के बारे में";
-$Definition["About Theme Preview"] = "थीम पूर्वावलोकन के बारे में";
-$Definition["Above Main Content"] = "मुख्य कंटेंट के ऊपर ";
-$Definition["Accept Answer"] = "उत्तर स्वीकार करें";
-$Definition['"Accept Answer" if a suggestion answers your question.'] =
-    'यदि कोई सुझाव आपके प्रश्न का उत्तर देता है तो "उत्तर स्वीकार करें" पर क्लिक करें।';
-$Definition["Account Sync Failed"] = "खाता सिंक विफल रहा";
-$Definition["Accepted answer pageview ratio representing a deflected case"] =
-    "स्वीकृत उत्तर पृष्ठ दृश्य अनुपात एक विचलित मामले का प्रतिनिधित्व करता है";
-$Definition["Accepted Answers"] = "स्वीकृत उत्तर";
-$Definition["Action"] = "क्रिया";
-$Definition["Actions and Permissions"] = "क्रियाएँ और अनुमतियाँ";
-$Definition["Actions Based on Votes"] = "वोट पर आधारित करवाई";
-$Definition["activity(ies)"] = "गतिविधि(याँ)";
+$Definition['a Badge'] = 'बैज';
+$Definition['Abilites'] = 'क्षमताओं';
+$Definition['Abilities'] = 'क्षमताओं';
+$Definition['About %s'] = '%s के बारे में';
+$Definition['About Email Digest'] = 'ईमेल डाइजेस्ट के बारे में';
+$Definition['About External Search'] = 'बाहरी खोज के बारे में';
+$Definition['About Theme Preview'] = 'थीम पूर्वावलोकन के बारे में';
+$Definition['Above Main Content'] = 'मुख्य कंटेंट के ऊपर ';
+$Definition['Accept Answer'] = 'उत्तर स्वीकार करें';
+$Definition['Accepted answer pageview ratio representing a deflected case'] = 'स्वीकृत उत्तर पृष्ठ दृश्य अनुपात एक विचलित मामले का प्रतिनिधित्व करता है';
+$Definition['Accepted Answers'] = 'स्वीकृत उत्तर';
+$Definition['Account Sync Failed'] = 'खाता सिंक विफल रहा';
+$Definition['A concise name for the report reason.'] = 'रिपोर्ट कारण के लिए संक्षिप्त नाम.';
+$Definition['Action'] = 'क्रिया';
+$Definition['Actions and Permissions'] = 'क्रियाएँ और अनुमतियाँ';
+$Definition['Actions Based on Votes'] = 'वोट पर आधारित करवाई';
+$Definition['Activate Icon Pack'] = 'आइकन पैक सक्रिय करें';
+$Definition['Active Icon'] = 'सक्रिय चिह्न';
+$Definition['Activity & Registration'] = 'गतिविधि और पंजीकरण';
 $Definition['activity\'s comment(s)'] = 'गतिविधि की टिप्पणियाँ';
-$Definition["Activity Item"] = "गतिविधि आइटम";
-$Definition["Activity item not found."] = "गतिविधि आइटम नहीं मिला।";
-$Definition["Add a new Pocket to your site."] =
-    "अपनी साइट पर एक नया पॉकेट डालें।";
-$Definition[
-    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
-] =
-    "इस इवेंट को ज़ूम से कनेक्ट करने के लिए ज़ूम लिंक या मीटिंग आईडी जोड़ें और वन-क्लिक रजिस्ट्रेशन और जॉइन बटन सक्षम करें। ध्यान दें कि अगर आपके इवेंट के लिए रजिस्ट्रेशन की आवश्यकता है, तो आप इवेंट बनाने के बाद अपनी मीटिंग आईडी या लिंक को अपडेट नहीं कर सकते।";
-$Definition["Add Ban Rule"] = "प्रतिबन्ध के नियम जोड़ें";
-$Definition["Add Category"] = "श्रेणी जोड़े";
-$Definition["Add Columns"] = "कॉलम जोड़ें";
-$Definition["Add Comments"] = "टिप्पणी लिखें";
-$Definition["Add Connection"] = "कनेक्शन जोड़ें ";
-$Definition["Added By"] = "द्वारा जोड़ा";
-$Definition["Add Field"] = "क्षेत्र जोड़ें";
-$Definition["Add Info &amp; Create Account"] = "जानकारी  जोड़ें & अकाउंट बनाएं";
-$Definition[
-    "Add information into the from field in email addresses to help with replies (recommended)."
-] =
-    "जवाब देने में सहायता (अनुशंसित) हेतु  ईमेल पतों के फ़ील्ड से जानकारी जोड़ें  ";
-$Definition["Add Interest"] = "रुचि जोड़ें";
-$Definition["Adding & Editing Categories"] = "श्रेणियाँ को जोड़ना और संपादित करना";
-$Definition["Add Item"] = "आइटम जोडें";
-$Definition["Addons"] = "ऐड-ऑन";
-$Definition["Addons Overview"] = "ऐडऑन की समीक्षा";
-$Definition["Add Role"] = "भूमिका जोड़ें";
-$Definition["Add rule"] = "नियम जोड़ें";
-$Definition["Add Tag"] = "टैग जोडें";
-$Definition["Add Theme"] = "थीम जोड़ें";
-$Definition["Add Token"] = "टोकन जोड़ें";
-$Definition["Add User"] = "उपयोगकर्ता जोड़ें";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
-] =
-    "चर्चाओं, टिप्पणियों या लेखों में लिंक को एम्बेड किए गए वीडियो में बदलने के लिए अपना कस्टम कल्टुरा डोमेन जोड़ें।";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
-] =
-    "पोस्ट, टिप्पणियों या लेखों में लिंक को एम्बेडेड वीडियो में बदलने के लिए अपना कस्टम कल्टुरा डोमेन जोड़ें।";
-$Definition["administrator"] = "प्रबंधक";
-$Definition["Advanced"] = "विकसित";
-$Definition["Advanced Category Settings"] = "उन्नत श्रेणी सेटिंग्स";
-$Definition["Advanced Editor Settings"] = "उन्नत संपादक सेटिंग";
-$Definition["Advanced Embed Settings"] = "उन्नत एंबेड सेटिंग्स";
-$Definition["Advanced Forum Settings"] = "एडवांस फोरम सेटिंग";
-$Definition["AdvancedNotifications"] = "एडवांस सूचनाएं";
-$Definition["Advanced Options"] = "एडवांस विकल्प";
-$Definition["Advanced Settings"] = "एडवांस सेटिंग्स";
-$Definition["Advanced settings for embedded community elements"] =
-    "एम्बेडेड सामुदायिक तत्वों के लिए एडवांस सेटिंग";
-$Definition["After"] = "बाद";
-$Definition["AI Suggested Answers"] = "AI सुझाए गए उत्तर";
-$Definition["AI Suggestions are not enabled"] =
-    "AI सुझाव सक्षम नहीं हैं";
-$Definition[
-    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
-] =
-    "AI सुझाए गए उत्तर समुदाय पोस्ट और लिंक किए गए ज्ञान आधारों के आधार पर सुझाए गए उत्तर प्रदान करते हैं। आप अपनी प्रोफ़ाइल प्राथमिकताओं पर जाकर इसे कभी भी चालू या बंद कर सकते हैं।";
-$Definition[
-    "Alert users if they click a link in a post that will lead them away from the forum. "
-] =
-    "यदि उपयोगकर्ता पोस्ट मे ऐसे लिंक पर क्लिक करते हैं जो उन्हें फोरम से दूर करेगी तो उन्हें सचेत करें।";
-$Definition["Alive"] = "क्रियाशील";
+$Definition['activity(ies)'] = 'गतिविधि(याँ)';
+$Definition['Activity Item'] = 'गतिविधि आइटम';
+$Definition['Activity item not found.'] = 'गतिविधि आइटम नहीं मिला।';
+$Definition['Add a comment'] = 'एक टिप्पणी जोड़ने';
+$Definition['Add a new Pocket to your site.'] = 'अपनी साइट पर एक नया पॉकेट डालें।';
+$Definition['Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event.'] = 'इस इवेंट को ज़ूम से कनेक्ट करने के लिए ज़ूम लिंक या मीटिंग आईडी जोड़ें और वन-क्लिक रजिस्ट्रेशन और जॉइन बटन सक्षम करें। ध्यान दें कि अगर आपके इवेंट के लिए रजिस्ट्रेशन की आवश्यकता है, तो आप इवेंट बनाने के बाद अपनी मीटिंग आईडी या लिंक को अपडेट नहीं कर सकते।';
+$Definition['Add Ban Rule'] = 'प्रतिबन्ध के नियम जोड़ें';
+$Definition['Add Category'] = 'श्रेणी जोड़े';
+$Definition['Add Columns'] = 'कॉलम जोड़ें';
+$Definition['Add Comments'] = 'टिप्पणी लिखें';
+$Definition['Add Connection'] = 'कनेक्शन जोड़ें ';
+$Definition['Add Custom Layout'] = 'कस्टम लेआउट जोड़ें';
+$Definition['Added By'] = 'द्वारा जोड़ा';
+$Definition['Add Field'] = 'क्षेत्र जोड़ें';
+$Definition['Add Filter'] = 'फ़िल्टर जोड़ें';
+$Definition['Add Info &amp; Create Account'] = 'जानकारी  जोड़ें & अकाउंट बनाएं';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'जवाब देने में सहायता (अनुशंसित) हेतु  ईमेल पतों के फ़ील्ड से जानकारी जोड़ें  ';
+$Definition['Adding & Editing Categories'] = 'श्रेणियाँ को जोड़ना और संपादित करना';
+$Definition['Add Interest'] = 'रुचि जोड़ें';
+$Definition['Add Item'] = 'आइटम जोडें';
+$Definition['Additional classes'] = 'अतिरिक्त क्लासेस';
+$Definition['Addons'] = 'ऐड-ऑन';
+$Definition['Addons Overview'] = 'ऐडऑन की समीक्षा';
+$Definition['Add Reason'] = 'कारण जोड़ें';
+$Definition['Add Report Reason'] = 'रिपोर्ट का कारण जोड़ें';
+$Definition['Address Bar Color'] = 'पता बार का रंग';
+$Definition['Add Role'] = 'भूमिका जोड़ें';
+$Definition['Add rule'] = 'नियम जोड़ें';
+$Definition['Add Tag'] = 'टैग जोडें';
+$Definition['Add tag'] = 'टैग जोड़ें';
+$Definition['Add tags:'] = 'टैगों को जोड़ें:';
+$Definition['Add Theme'] = 'थीम जोड़ें';
+$Definition['Add to collection:'] = 'संग्रह में जोड़ें:';
+$Definition['Add Token'] = 'टोकन जोड़ें';
+$Definition['Add User'] = 'उपयोगकर्ता जोड़ें';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'चर्चाओं, टिप्पणियों या लेखों में लिंक को एम्बेड किए गए वीडियो में बदलने के लिए अपना कस्टम कल्टुरा डोमेन जोड़ें।';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'पोस्ट, टिप्पणियों या लेखों में लिंक को एम्बेडेड वीडियो में बदलने के लिए अपना कस्टम कल्टुरा डोमेन जोड़ें।';
+$Definition['Add your site to trusted domains.'] = 'सुनिश्चित करें कि एम्बेडिंग सक्षम होने पर आपकी साइट को %s मे शामिल किया गया है।';
+$Definition['administrator'] = 'प्रबंधक';
+$Definition['Advanced'] = 'विकसित';
+$Definition['Advanced Category Settings'] = 'उन्नत श्रेणी सेटिंग्स';
+$Definition['Advanced Editor Settings'] = 'उन्नत संपादक सेटिंग';
+$Definition['Advanced Embed Settings'] = 'उन्नत एंबेड सेटिंग्स';
+$Definition['Advanced Forum Settings'] = 'एडवांस फोरम सेटिंग';
+$Definition['AdvancedNotifications'] = 'एडवांस सूचनाएं';
+$Definition['Advanced Options'] = 'एडवांस विकल्प';
+$Definition['Advanced Settings'] = 'एडवांस सेटिंग्स';
+$Definition['Advanced settings for embedded community elements'] = 'एम्बेडेड सामुदायिक तत्वों के लिए एडवांस सेटिंग';
+$Definition['After'] = 'बाद';
+$Definition['AI Settings'] = 'एआई सेटिंग्स';
+$Definition['AI Suggested Answers'] = 'AI सुझाए गए उत्तर';
+$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'AI सुझाए गए उत्तर समुदाय पोस्ट और लिंक किए गए ज्ञान आधारों के आधार पर सुझाए गए उत्तर प्रदान करते हैं। आप अपनी प्रोफ़ाइल प्राथमिकताओं पर जाकर इसे कभी भी चालू या बंद कर सकते हैं।';
+$Definition['AI Suggestions are not enabled'] = 'AI सुझाव सक्षम नहीं हैं';
+$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'यदि उपयोगकर्ता पोस्ट मे ऐसे लिंक पर क्लिक करते हैं जो उन्हें फोरम से दूर करेगी तो उन्हें सचेत करें।';
+$Definition['A list of reports associated with this post will appear here.'] = 'इस पोस्ट से संबंधित रिपोर्टों की सूची यहां दिखाई देगी।';
+$Definition['Alive'] = 'क्रियाशील';
 $Definition['All %1$s'] = 'सभी %1$s';
-$Definition["All Time"] = "पूरे समय";
-$Definition["All Dashboard Pages"] = "सभी डैशबोर्ड पृष्ठ";
-$Definition["All discussions in this category will be permanently deleted."] =
-    "इस श्रेणी की सभी चर्चाओं को स्थायी रूप से हटा दिया जाएगा।";
-$Definition["All Forum Pages"] = "सभी फोरम पेज";
-$Definition[
-    "All of the user content will be replaced with a message stating the user has been deleted."
-] =
-    "यूजर के सभी कंटेंट को हटा दिया जाएगा और 'यूजर हटाए गए' का संदेश दिखेगा.";
-$Definition["Allow embedded content"] = "एम्बेडेड सामग्री की अनुमति दें";
-$Definition["Allow images"] = "तस्वीरों की अनुमति दें";
-$Definition["Allow new users to be registered through email."] =
-    "नए यूज़र्स को ईमेल के माध्यम से पंजीकृत होने की अनुमति दें.";
-$Definition["Allow this connection to issue API access tokens."] =
-    "इस कनेक्शन को API एक्सेस टोकन जारी करने की अनुमति दें।";
-$Definition["Allow Third-Party Script Execution"] =
-    "तृतीय-पक्ष स्क्रिप्ट निष्पादन की अनुमति दें";
-$Definition["Allow users to change their own avatars"] =
-    "उपयोगकर्ताओं को अपना स्वयं का अवतार बदलने की अनुमति दें";
-$Definition["Allow users to dismiss this message"] =
-    "उपयोगकर्ताओं को इस संदेश को ख़ारिज करने की अनुमति दें।";
-$Definition["All Pages"] = "सारे पृष्ठ";
-$Definition["All Replies"] = "सभी उत्तर";
-$Definition["An enabled message will be visible on the site."] =
-    "साइट पर एक इनेबल्ड मैसेज दिखाई देगा।";
-$Definition["An answer in this the community thread was marked as accepted"] =
-    "इस समुदाय सूत्र में एक उत्तर को स्वीकृत के रूप में चिह्नित किया गया था";
-$Definition["An error occurred updating your privacy setting"] =
-    "आपकी गोपनीयता सेटिंग अपडेट करते समय कोई त्रुटि हुई";
-$Definition["Anonymize Analytics Data by Default"] =
-    "डिफ़ॉल्ट रूप से एनालिटिक्स डेटा को अज्ञात करें";
-$Definition["Answers is not available if you have not accepted cookies."] =
-    "यदि आपने कुकीज़ स्वीकार नहीं की हैं तो उत्तर उपलब्ध नहीं है।";
-$Definition["API"] = "API";
-$Definition["API Label is required"] = "एपीआई लेबल आवश्यक है";
-$Definition["API Name"] = "एपीआई नाम";
-$Definition["API SSO Expand Permission"] = "API SSO विस्तार की अनुमति ";
-$Definition["API Status"] = "API स्थिति";
-$Definition["Appearance"] = "दिखावट";
-$Definition["Applicant"] = "आवेदक";
-$Definition["applicant"] = "आवेदक";
-$Definition["Applicant Role"] =
-    "उस भूमिका को चुनें जिसे नए आवेदकों के लिए लागू किया जाना चाहिए। यह केवल तभी लागू होता है जब आपके पास <b> स्वीकृति </b> पंजीकरण विधि हो।";
-$Definition["Application"] = "आवेदन";
-$Definition["Application ID"] = "आवेदन आईडी";
-$Definition["Applications"] = "एप्लीकेशन";
-$Definition["Application Secret"] = "ऐप्लीकेशन सीक्रेट";
-$Definition["Applied by Administrator"] = "प्रशासक द्वारा लागू किया गया";
-$Definition["Applied Manually"] = "मैन्युअल रूप से लागू किया गया";
-$Definition["Applied On"] = "तिथि";
-$Definition["Apply to subcategories"] = "उपश्रेणियों पर लागू करें";
-$Definition["Approval"] = "मंजूरी";
-$Definition["Archive Discussions"] = "विचार-विमर्श आर्काइव करें";
-$Definition["Are you sure you want to delete %s items forever?"] =
-    "क्या आप वाकई %s आइटम हमेशा के लिए हटाना चाहते हैं?";
-$Definition["Are you sure you want to delete 1 item forever?"] =
-    "क्या आप निश्चय ही 1 आइटम को हमेशा के लिए हटाना चाहते हैं?";
-$Definition[
-    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
-] =
-    "क्या आप निश्चय ही इस बैज को हटाना चाहते हैं? यह अपरिवर्तनीय है और सभी यूज़र्स जिनके पास बैज है उनसे हटाया जायेगा. ";
-$Definition["Are you sure you want to delete this category?"] =
-    "क्या आप निश्चय ही इस श्रेणी को हटाना चाहते हैं?";
-$Definition["Are you sure you want to restore %s items?"] =
-    "क्या आप वास्तव में %s आइटम वापस लाना चाहते हैं?";
-$Definition["Are you sure you want to restore 1 item?"] =
-    "क्या आप वाकई 1 आइटम को पुनर्स्थापित करना चाहते हैं?";
-$Definition[
-    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
-] =
-    "क्या आप वाकई सभी AI सुझाए गए उत्तरों को बंद करना चाहते हैं? आप किसी भी समय अपनी प्रोफ़ाइल सेटिंग में जाकर इसे पूर्ववत कर सकते हैं।";
-$Definition["Assistant Tone of Voice"] = "सहायक की आवाज़ का लहज़ा";
-$Definition["Assistant Icon"] = "सहायक चिह्न";
-$Definition["Assistant Name"] = "सहायक का नाम";
-$Definition[
-    "At least one visible column is required. Show or add a visible column."
-] = "कम से कम एक दृश्यमान स्तंभ आवश्यक है. दृश्यमान कॉलम दिखाएँ या जोड़ें.";
-$Definition["A url-friendly version of the category name for better SEO."] =
-    "बेहतर एसईओ के लिए श्रेणी के नाम का एक यूआरएल-फ्रेंडली वर्श़न.";
-$Definition["Automatically Save Drafts"] = "स्वचालित रूप से ड्राफ़्ट सहेजें";
-$Definition["Authors may always edit"] = "लेखक हमेशा संपादित कर सकते हैं";
-$Definition["Authors may edit for %s"] = "लेखक %s के लिए संपादन कर सकता है";
-$Definition["Authors may never edit"] = "लेखक कभी भी संपादित नहीं कर सकते हैं";
-$Definition["Auto-Fetch New Comments"] = "ऑटो-फेच नई टिप्पणियाँ";
-$Definition["Avatar Dimensions"] = "अवतार के आयाम";
-$Definition["Avatars"] = "अवतार";
+$Definition['All comments on this post will appear here'] = 'इस पोस्ट पर सभी टिप्पणियाँ यहाँ दिखाई देंगी';
+$Definition['All Dashboard Pages'] = 'सभी डैशबोर्ड पृष्ठ';
+$Definition['All discussions in this category will be permanently deleted.'] = 'इस श्रेणी की सभी चर्चाओं को स्थायी रूप से हटा दिया जाएगा।';
+$Definition['All Forum Pages'] = 'सभी फोरम पेज';
+$Definition['All icons in this icon pack are currently active.'] = 'इस आइकन पैक के सभी आइकन वर्तमान में सक्रिय हैं।';
+$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'यूजर के सभी कंटेंट को हटा दिया जाएगा और \'यूजर हटाए गए\' का संदेश दिखेगा.';
+$Definition['Allow embedded content'] = 'एम्बेडेड सामग्री की अनुमति दें';
+$Definition['Allow images'] = 'तस्वीरों की अनुमति दें';
+$Definition['Allow new users to be registered through email.'] = 'नए यूज़र्स को ईमेल के माध्यम से पंजीकृत होने की अनुमति दें.';
+$Definition['Allow Third-Party Script Execution'] = 'तृतीय-पक्ष स्क्रिप्ट निष्पादन की अनुमति दें';
+$Definition['Allow this connection to issue API access tokens.'] = 'इस कनेक्शन को API एक्सेस टोकन जारी करने की अनुमति दें।';
+$Definition['Allow users to change their own avatars'] = 'उपयोगकर्ताओं को अपना स्वयं का अवतार बदलने की अनुमति दें';
+$Definition['Allow users to dismiss this message'] = 'उपयोगकर्ताओं को इस संदेश को ख़ारिज करने की अनुमति दें।';
+$Definition['All Pages'] = 'सारे पृष्ठ';
+$Definition['All Replies'] = 'सभी उत्तर';
+$Definition['All Time'] = 'पूरे समय';
+$Definition['All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories.'] = 'स्टाफ़ की अनुमति वाले सभी उपयोगकर्ता चर्चाओं को देख सकेंगे और उन्हें हल या अनसुलझे के रूप में चिह्नित कर सकेंगे। ये उपयोगकर्ता अपनी श्रेणियों को मॉडरेट करने के लिए ट्राइएज डैशबोर्ड तक भी पहुँच सकेंगे।';
+$Definition['a month'] = 'एक महीना';
+$Definition['An answer in this the community thread was marked as accepted'] = 'इस समुदाय सूत्र में एक उत्तर को स्वीकृत के रूप में चिह्नित किया गया था';
+$Definition['and'] = 'और';
+$Definition['and assign to'] = 'और असाइन करें';
+$Definition['and remove from community'] = 'और समुदाय से हटा दें';
+$Definition['and remove role'] = 'और भूमिका हटाएँ';
+$Definition['An enabled message will be visible on the site.'] = 'साइट पर एक इनेबल्ड मैसेज दिखाई देगा।';
+$Definition['An error occurred updating your privacy setting'] = 'आपकी गोपनीयता सेटिंग अपडेट करते समय कोई त्रुटि हुई';
+$Definition['An explanation of the report reason to better reporters make the correct selection when reporting a post.'] = 'रिपोर्ट के कारण की व्याख्या ताकि रिपोर्टर किसी पोस्ट की रिपोर्ट करते समय सही चयन कर सकें।';
+$Definition['An idea has received'] = 'एक विचार प्राप्त हुआ है';
+$Definition['Anonymize Analytics Data by Default'] = 'डिफ़ॉल्ट रूप से एनालिटिक्स डेटा को अज्ञात करें';
+$Definition['Answers is not available if you have not accepted cookies.'] = 'यदि आपने कुकीज़ स्वीकार नहीं की हैं तो उत्तर उपलब्ध नहीं है।';
+$Definition['API Label is required'] = 'एपीआई लेबल आवश्यक है';
+$Definition['API Name'] = 'एपीआई नाम';
+$Definition['API SSO Expand Permission'] = 'API SSO विस्तार की अनुमति ';
+$Definition['API Status'] = 'API स्थिति';
+$Definition['A post'] = 'एक पोस्ट';
+$Definition['A post has been added to a collection'] = 'एक पोस्ट को संग्रह में जोड़ दिया गया है';
+$Definition['A post has not had any activity'] = 'किसी पोस्ट पर कोई गतिविधि नहीं हुई';
+$Definition['A post has received'] = 'एक पोस्ट प्राप्त हुआ है';
+$Definition['Appearance'] = 'दिखावट';
+$Definition['Applicant'] = 'आवेदक';
+$Definition['applicant'] = 'आवेदक';
+$Definition['Applicant Role'] = 'उस भूमिका को चुनें जिसे नए आवेदकों के लिए लागू किया जाना चाहिए। यह केवल तभी लागू होता है जब आपके पास <b> स्वीकृति </b> पंजीकरण विधि हो।';
+$Definition['Application'] = 'आवेदन';
+$Definition['Application ID'] = 'आवेदन आईडी';
+$Definition['Applications'] = 'एप्लीकेशन';
+$Definition['Application Secret'] = 'ऐप्लीकेशन सीक्रेट';
+$Definition['Applied'] = 'लागू';
+$Definition['Applied as default'] = 'डिफ़ॉल्ट रूप से लागू किया गया';
+$Definition['Applied by Administrator'] = 'प्रशासक द्वारा लागू किया गया';
+$Definition['Applied Manually'] = 'मैन्युअल रूप से लागू किया गया';
+$Definition['Applied On'] = 'तिथि';
+$Definition['Apply additional classes on catalogue image.'] = 'कैटलॉग इमेज पर अतिरिक्त क्लासेस लगाएँ। प्रत्येक क्लास को अलग करने के लिए स्पेस का उपयोग करें।';
+$Definition['Apply Layout to Site Home Page'] = 'साइट होम पेज पर लेआउट लागू करें';
+$Definition['Apply to specific categories.'] = 'विशिष्ट श्रेणियों पर लागू करें.';
+$Definition['Apply to specific subcommunities.'] = 'विशिष्ट उपसमुदायों पर लागू करें.';
+$Definition['Apply to subcategories'] = 'उपश्रेणियों पर लागू करें';
+$Definition['Approval'] = 'मंजूरी';
+$Definition['A question'] = 'एक प्रश्न';
+$Definition['Archive Discussions'] = 'विचार-विमर्श आर्काइव करें';
+$Definition['Are you sure you want to delete %s items forever?'] = 'क्या आप वाकई %s आइटम हमेशा के लिए हटाना चाहते हैं?';
+$Definition['Are you sure you want to delete 1 item forever?'] = 'क्या आप निश्चय ही 1 आइटम को हमेशा के लिए हटाना चाहते हैं?';
+$Definition['Are you sure you want to delete?'] = 'क्या आप आश्वस्त है कि आपको डिलीट करना है?';
+$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'क्या आप निश्चय ही इस बैज को हटाना चाहते हैं? यह अपरिवर्तनीय है और सभी यूज़र्स जिनके पास बैज है उनसे हटाया जायेगा. ';
+$Definition['Are you sure you want to delete this category?'] = 'क्या आप निश्चय ही इस श्रेणी को हटाना चाहते हैं?';
+$Definition['Are you sure you want to delete this reason?'] = 'क्या आप वाकई इस कारण को हटाना चाहते हैं?';
+$Definition['Are you sure you want to delete your %s?'] = 'क्या आप वाकई अपना %s हटाना चाहते हैं?';
+$Definition['Are you sure you want to exit without saving?'] = 'क्या आप वाकई बिना सहेजे बाहर निकलना चाहते हैं?';
+$Definition['Are you sure you want to restore %s items?'] = 'क्या आप वास्तव में %s आइटम वापस लाना चाहते हैं?';
+$Definition['Are you sure you want to restore 1 item?'] = 'क्या आप वाकई 1 आइटम को पुनर्स्थापित करना चाहते हैं?';
+$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'क्या आप वाकई सभी AI सुझाए गए उत्तरों को बंद करना चाहते हैं? आप किसी भी समय अपनी प्रोफ़ाइल सेटिंग में जाकर इसे पूर्ववत कर सकते हैं।';
+$Definition['Are you sure you want to use %s?'] = 'क्या आप वाकई %s का उपयोग करना चाहते हैं?';
+$Definition['Article Count'] = 'लेख संख्या';
+$Definition['Assign/Remove role'] = 'भूमिका असाइन करें/हटाएँ';
+$Definition['Assignee'] = 'संपत्ति-भागी';
+$Definition['Assign role:'] = 'भूमिका निर्दिष्ट करें:';
+$Definition['Assign to'] = 'के लिए आवंटित';
+$Definition['Assistant Icon'] = 'सहायक चिह्न';
+$Definition['Assistant Name'] = 'सहायक का नाम';
+$Definition['Assistant Tone of Voice'] = 'सहायक की आवाज़ का लहज़ा';
+$Definition['At least one visible column is required. Show or add a visible column.'] = 'कम से कम एक दृश्यमान स्तंभ आवश्यक है. दृश्यमान कॉलम दिखाएँ या जोड़ें.';
+$Definition['Audit Log'] = 'ऑडिट लॉग';
+$Definition['A unique display name.'] = 'एक अद्वितीय प्रदर्शन नाम.';
+$Definition['A unique label for the report reason. This label cannot be changed once saved.'] = 'रिपोर्ट कारण के लिए एक अद्वितीय लेबल। एक बार सहेजे जाने के बाद इस लेबल को बदला नहीं जा सकता।';
+$Definition['A unique label name that cannot be changed once saved.'] = 'एक अद्वितीय लेबल नाम जिसे एक बार सहेजे जाने के बाद बदला नहीं जा सकता.';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'बेहतर एसईओ के लिए श्रेणी के नाम का एक यूआरएल-फ्रेंडली वर्श़न.';
+$Definition['A user has been registered'] = 'एक उपयोगकर्ता पंजीकृत किया गया है';
+$Definition['A user registers or logs in with email domain:'] = 'कोई उपयोगकर्ता ईमेल डोमेन के साथ पंजीकरण या लॉग इन करता है:';
+$Definition['A user registers or updates a profile field:'] = 'कोई उपयोगकर्ता प्रोफ़ाइल फ़ील्ड पंजीकृत या अद्यतन करता है:';
+$Definition['Authors may always edit'] = 'लेखक हमेशा संपादित कर सकते हैं';
+$Definition['Authors may edit for %s'] = 'लेखक %s के लिए संपादन कर सकता है';
+$Definition['Authors may never edit'] = 'लेखक कभी भी संपादित नहीं कर सकते हैं';
+$Definition['Auto-Fetch New Comments'] = 'ऑटो-फेच नई टिप्पणियाँ';
+$Definition['Auto-run disabled.'] = 'स्वतः-रन अक्षम.';
+$Definition['Auto-run enabled.'] = 'स्वतः-रन सक्षम.';
+$Definition['Automatically Save Drafts'] = 'स्वचालित रूप से ड्राफ़्ट सहेजें';
+$Definition['Automation'] = 'स्वचालन';
+$Definition['Automation rule successfully created.'] = 'स्वचालन नियम सफलतापूर्वक बनाया गया.';
+$Definition['Automation rule successfully updated.'] = 'स्वचालन नियम सफलतापूर्वक अद्यतन किया गया.';
+$Definition['Avatar Dimensions'] = 'अवतार के आयाम';
+$Definition['Avatars'] = 'अवतार';
 
-$Definition["Background Color"] = "पृष्ठभूमि का रंग";
-$Definition["Back to all users"] = "सभी उपयोगकर्ता पर वापस जाएं ";
-$Definition["Back to Mobile Site"] = "वापस मोबाइल साइट पर";
-$Definition["Badge cannot be deleted."] = "बैज हटाया नहीं जा सकता।";
-$Definition["Badge Class"] = "बैज क्लास";
-$Definition["Badge Class Level"] = "बैज क्लास का स्तर";
-$Definition["Badge deleted."] = "बैज हटाया गया.";
-$Definition["Badge Name"] = "नाम";
-$Definition["BadgeRecipientsHeading"] = "सबसे हाल के प्राप्तकर्ता";
-$Definition["BadgeRequestColumnLabel"] = "निवेदन";
-$Definition["Badge Requests"] = "बैज अनुरोध";
-$Definition["Badge requests"] = "बैज अनुरोध";
-$Definition["Balanced"] = "संतुलित";
-$Definition["Ban Item"] = "आइटम";
-$Definition["Ban List"] = "प्रतिबंध सूची";
-$Definition["Banner"] = "बैनर";
-$Definition["Banner Logo"] = "बैनर लोगो";
-$Definition["Banner Title"] = "बैनर शीर्षक";
-$Definition["Banner Search Box"] = "बैनर खोज बॉक्स";
-$Definition["Banning"] = "प्रतिबंध लगाना";
-$Definition["Banning Options"] = "प्रतिबंध के विकल्प";
-$Definition["Ban Rule"] = "नियम को प्रतिबंधित करें";
-$Definition["Ban Rules"] = "नियमों को प्रतिबंधित करें";
-$Definition["Ban Type"] = "प्रकार";
-$Definition["Basic Information"] = "बुनियादी जानकारी";
-$Definition["Before"] = "पहले";
-$Definition[
-    "Before activating this feature, please be aware of the following potential implications:"
-] =
-    "इस सुविधा को सक्रिय करने से पहले, कृपया निम्नलिखित संभावित प्रभावों से अवगत रहें:";
-$Definition["Begin At"] = "से शुरू होगा";
-$Definition["Below Sidebar"] = "साइडबार के नीचे";
-$Definition["Blocked"] = "अवरोधित";
-$Definition["Blog Comments"] = "ब्लॉग टिप्पणियाँ";
-$Definition["Bookmark a discussion using its star icon."] =
-    "चर्चा को बुकमार्क करने के लिए उसके स्टार आइकन का उपयोग करें।";
-$Definition["Browse Addons"] = "एडऑन ब्राउज़ करें";
-$Definition["Browser Compatibility:"] = "ब्राउज़र संगतता:";
-$Definition["Browse for a new banner logo if you would like to change it:"] =
-    "यदि आप इसे बदलना चाहते हैं तो एक नए बैनर लोगो के लिए ब्राउज़ करें:";
-$Definition["Button Background Color"] = "बटन बैक्ग्राउन्ड कलर";
-$Definition["Button Text Color"] = "बटन टेक्स्ट रंग";
+$Definition['Background Color'] = 'पृष्ठभूमि का रंग';
+$Definition['Back to all users'] = 'सभी उपयोगकर्ता पर वापस जाएं ';
+$Definition['Back to Mobile Site'] = 'वापस मोबाइल साइट पर';
+$Definition['Badge cannot be deleted.'] = 'बैज हटाया नहीं जा सकता।';
+$Definition['Badge Class'] = 'बैज क्लास';
+$Definition['Badge Class Level'] = 'बैज क्लास का स्तर';
+$Definition['Badge deleted.'] = 'बैज हटाया गया.';
+$Definition['Badge Name'] = 'नाम';
+$Definition['BadgeRecipientsHeading'] = 'सबसे हाल के प्राप्तकर्ता';
+$Definition['BadgeRequestColumnLabel'] = 'निवेदन';
+$Definition['Badge Requests'] = 'बैज अनुरोध';
+$Definition['Badge requests'] = 'बैज अनुरोध';
+$Definition['Badges Limit'] = 'बैज सीमा';
+$Definition['Balanced'] = 'संतुलित';
+$Definition['Ban Item'] = 'आइटम';
+$Definition['Ban List'] = 'प्रतिबंध सूची';
+$Definition['Banner'] = 'बैनर';
+$Definition['Banner Image'] = 'बैनर इमेज';
+$Definition['Banner Logo'] = 'बैनर लोगो';
+$Definition['Banner Search Box'] = 'बैनर खोज बॉक्स';
+$Definition['Banner Title'] = 'बैनर शीर्षक';
+$Definition['Banning'] = 'प्रतिबंध लगाना';
+$Definition['Banning Options'] = 'प्रतिबंध के विकल्प';
+$Definition['Ban Rule'] = 'नियम को प्रतिबंधित करें';
+$Definition['Ban Rules'] = 'नियमों को प्रतिबंधित करें';
+$Definition['Ban Type'] = 'प्रकार';
+$Definition['Basic Information'] = 'बुनियादी जानकारी';
+$Definition['Before'] = 'पहले';
+$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'इस सुविधा को सक्रिय करने से पहले, कृपया निम्नलिखित संभावित प्रभावों से अवगत रहें:';
+$Definition['Begin At'] = 'से शुरू होगा';
+$Definition['Below Sidebar'] = 'साइडबार के नीचे';
+$Definition['Blocked'] = 'अवरोधित';
+$Definition['Blog Comments'] = 'ब्लॉग टिप्पणियाँ';
+$Definition['Bookmark a discussion using its star icon.'] = 'चर्चा को बुकमार्क करने के लिए उसके स्टार आइकन का उपयोग करें।';
+$Definition['Branding & Assets'] = 'ब्रांडिंग और परिसंपत्तियां';
+$Definition['Browse Addons'] = 'एडऑन ब्राउज़ करें';
+$Definition['Browse for a new banner logo if you would like to change it:'] = 'यदि आप इसे बदलना चाहते हैं तो एक नए बैनर लोगो के लिए ब्राउज़ करें:';
+$Definition['Browser Compatibility:'] = 'ब्राउज़र संगतता:';
+$Definition['Bump post'] = 'बम्प पोस्ट';
+$Definition['Button Background Color'] = 'बटन बैक्ग्राउन्ड कलर';
+$Definition['Button Text Color'] = 'बटन टेक्स्ट रंग';
 
-$Definition["Cannot build profile information if user is not defined."] =
-    "यदि उपयोगकर्ता परिभाषित नहीं है तो प्रोफ़ाइल जानकारी का निर्माण नहीं हो सकता।";
-$Definition["Categories &amp; Discussions"] = "श्रेणियाँ और परिचर्चाएं";
-$Definition["Categories to Exclude from AI Answers"] =
-    "AI उत्तरों से बाहर रखी जाने वाली श्रेणियाँ";
-$Definition["Categories are used to organize discussions."] =
-    "श्रेणियों का उपयोग आपके उपयोगकर्ताओं को अपने समुदाय को सही तरीके से अपनी चर्चाओं को व्यवस्थित करने में मदद करता है।";
-$Definition["Categories are used to organize posts."] =
-    "श्रेणियों का उपयोग आपके उपयोगकर्ताओं को अपने पोस्ट को इस तरह व्यवस्थित करने में मदद करने के लिए किया जाता है जो आपके समुदाय के लिए सार्थक हो।";
-$Definition["Categories allow you to organize your posts."] =
-    "श्रेणियाँ आपको अपनी पोस्ट व्यवस्थित करने की सुविधा देती हैं।";
-$Definition["Categories Layout"] = "श्रेणियों का लेआउट";
-$Definition["Category Following"] = "उत्तरगामी श्रेणी
-";
-$Definition["Category Page Layout"] = "श्रेणी पेज लेआउट";
-$Definition["Category Url:"] = "श्रेणी url:";
-$Definition["Censored Words"] = "सेंसर शब्द";
-$Definition["Change Log"] = "लॉग बदलें ";
-$Definition["Change the look of All Categories"] =
-    'आप <b>सभी श्रेणियाँ </b> पेज<a href="%s"> का रूप यहाँ बदल सकते हैं</a>. ';
-$Definition["Change the way that new users register with the site."] =
-    "साइट के साथ नए उपयोगकर्ता रजिस्टर करने का तरीका बदलें।";
-$Definition["Change your banner"] = "अपना बैनर बदलें";
-$Definition["Changing the Discussions Menu Link"] =
-    "चर्चा के मेनू लिंक को बदलना ";
-$Definition["Check all permissions that apply for each role"] =
-    "प्रत्येक भूमिका के लिए लागू होने वाली सभी अनुमतियों की जाँच करें";
-$Definition["Check all permissions that apply to this role:"] =
-    "इस भूमिका पर लागू होने वाली सभी अनुमतियों की जाँच करें:";
-$Definition["Check out my new community!"] = "मेरा नया समुदाय देखें!";
-$Definition["Check out the full list of video tutorials here."] =
-    "यहां वीडियो ट्यूटोरियल की पूरी सूची देखें।";
+$Definition['Cannot build profile information if user is not defined.'] = 'यदि उपयोगकर्ता परिभाषित नहीं है तो प्रोफ़ाइल जानकारी का निर्माण नहीं हो सकता।';
+$Definition['Categories &amp; Discussions'] = 'श्रेणियाँ और परिचर्चाएं';
+$Definition['Categories allow you to organize your posts.'] = 'श्रेणियाँ आपको अपनी पोस्ट व्यवस्थित करने की सुविधा देती हैं।';
+$Definition['Categories are used to organize discussions.'] = 'श्रेणियों का उपयोग आपके उपयोगकर्ताओं को अपने समुदाय को सही तरीके से अपनी चर्चाओं को व्यवस्थित करने में मदद करता है।';
+$Definition['Categories are used to organize posts.'] = 'श्रेणियों का उपयोग आपके उपयोगकर्ताओं को अपने पोस्ट को इस तरह व्यवस्थित करने में मदद करने के लिए किया जाता है जो आपके समुदाय के लिए सार्थक हो।';
+$Definition['Categories Layout'] = 'श्रेणियों का लेआउट';
+$Definition['Categories to Exclude from AI Answers'] = 'AI उत्तरों से बाहर रखी जाने वाली श्रेणियाँ';
+$Definition['Category Following'] = 'उत्तरगामी श्रेणी
+';
+$Definition['Category Layout Settings'] = 'श्रेणी लेआउट सेटिंग्स';
+$Definition['Category Layout Version'] = 'श्रेणी लेआउट संस्करण';
+$Definition['Category List Pages'] = 'श्रेणी सूची पृष्ठ';
+$Definition['Category only'] = 'केवल श्रेणी';
+$Definition['Category Page Layout'] = 'श्रेणी पेज लेआउट';
+$Definition['Category Pages'] = 'श्रेणी पृष्ठ';
+$Definition['Category Url:'] = 'श्रेणी url:';
+$Definition['Censored Words'] = 'सेंसर शब्द';
+$Definition['Challenge Cutoff Age'] = 'चुनौती कटऑफ आयु';
+$Definition['Change %s'] = '%s बदलें';
+$Definition['Changed Icons'] = 'परिवर्तित चिह्न';
+$Definition['Change layout versions for the <0/>.'] = '<0/> के लिए लेआउट संस्करण बदलें.';
+$Definition['Change Log'] = 'लॉग बदलें ';
+$Definition['Change status'] = 'स्थिति बदलें';
+$Definition['Change the look of All Categories'] = 'आप <b>सभी श्रेणियाँ </b> पेज<a href="%s"> का रूप यहाँ बदल सकते हैं</a>. ';
+$Definition['Change the status of the idea to'] = 'विचार की स्थिति बदलें';
+$Definition['Change the way that new users register with the site.'] = 'साइट के साथ नए उपयोगकर्ता रजिस्टर करने का तरीका बदलें।';
+$Definition['Change your banner'] = 'अपना बैनर बदलें';
+$Definition['Changing the Discussions Menu Link'] = 'चर्चा के मेनू लिंक को बदलना ';
+$Definition['Check all permissions that apply for each role'] = 'प्रत्येक भूमिका के लिए लागू होने वाली सभी अनुमतियों की जाँच करें';
+$Definition['Check all permissions that apply to this role:'] = 'इस भूमिका पर लागू होने वाली सभी अनुमतियों की जाँच करें:';
+$Definition['Check out my new community!'] = 'मेरा नया समुदाय देखें!';
+$Definition['Check out the full list of video tutorials here.'] = 'यहां वीडियो ट्यूटोरियल की पूरी सूची देखें।';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'नमस्कार मित्र
 
 मेरे द्वारा अभी स्थापित किए गए नए सामुदायिक फोरम को देखें। यह हमारे लिए ऑनलाइन एक दूसरे के साथ चैट करने के लिए एक बेहतरीन जगह है';
+$Definition['Choose a locale pack'] = 'एक लोकल पैक चुनें';
+$Definition['Choose Avatar'] = 'अवतार चुनें';
+$Definition['Choose how many records to display.'] = 'चुनें कि कितने रिकॉर्ड प्रदर्शित करने हैं।';
+$Definition['Choose the order records are sorted by default.'] = 'डिफ़ॉल्ट रूप से रिकॉर्ड को सॉर्ट करने का क्रम चुनें.';
+$Definition['Choose the preferred layout for the categories page.'] = 'कैटेगरी पेज के लिए पसंदीदा लेआउट चुनें';
+$Definition['Choose the preferred layout for the discussions page.'] = 'चर्चा पेज के लिए पसंदीदा लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Category Layout.'] = 'पसंदीदा लीगेसी श्रेणी लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Create Post Layout.'] = 'पसंदीदा लीगेसी क्रिएट पोस्ट लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Event Layout.'] = 'पसंदीदा लीगेसी इवेंट लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Home Layout.'] = 'पसंदीदा लीगेसी होम लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Knowledge Base Layout.'] = 'पसंदीदा लीगेसी नॉलेज बेस लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Post Layout.'] = 'पसंदीदा लीगेसी पोस्ट लेआउट चुनें.';
+$Definition['Choose the preferred Legacy Recent Posts Layout.'] = 'पसंदीदा लीगेसी हाल के पोस्ट लेआउट चुनें.';
+$Definition['Choose when to load records from.'] = 'चुनें कि कब से रिकॉर्ड लोड करना है।';
+$Definition['Choose who can send out invitations to new members:'] = 'यह चुनें कि कौन नए सदस्यों को निमंत्रण भेज सकता है:';
+$Definition['Class'] = 'क्लास';
+$Definition['Classic table layout used by traditional forums'] = 'पारंपरिक फोरम द्वारा प्रयुक्त क्लासिक टेबल लेआउट';
+$Definition['Clean Spam'] = 'स्पैम साफ करें';
+$Definition['Clear All'] = 'सभी साफ करें';
+$Definition['Click a tag name to edit. Click x to remove.'] = 'संपादित करने के लिए एक टैग के नाम पर क्लिक करें। हटाने के लिए x पर क्लिक करें';
+$Definition['Click here to apply it.'] = 'इसे लागू करने के लिए यहाँ क्लिक करें। ';
+$Definition['Click here to carry on.'] = 'जारी रखने के लिए यहाँ क्लिक करें ।';
+$Definition['Click here to carry on to your dashboard'] = 'अपने डैशबोर्ड पर जाने के लिए यहाँ क्लिक करें';
+$Definition['Client ID'] = 'क्लाइंट आईडी';
+$Definition['Close post'] = 'पोस्ट बंद करें';
+$Definition['Colored'] = 'रंगीन';
+$Definition['Column Display Settings'] = 'कॉलम प्रदर्शन सेटिंग्स';
+$Definition['comment(s)'] = 'टिप्पणी(ओं)';
+$Definition['Comment  Body'] = 'टिप्पणी बॉडी';
+$Definition['Comment Count'] = 'टिप्पणी संख्या';
+$Definition['Comment Settings'] = 'टिप्पणी सेटिंग्स';
+$Definition['Comments Matching Criteria Now: <0 />'] = 'टिप्पणियाँ मिलान मानदंड अब: <0 />';
+$Definition['Comments Page'] = 'टिप्पणियाँ पेज';
+$Definition['Comments per Page'] = 'कमेंट प्रति पेज ';
+$Definition['Comment  Subject'] = 'टिप्पणी विषय';
+$Definition['Community Discussion Categories'] = 'सामुदायिक चर्चा श्रेणियाँ';
+$Definition['Community Management'] = 'सामुदायिक प्रबंधन';
+$Definition['Community Member Content'] = 'समुदाय सदस्य सामग्री';
+$Definition['Condition'] = 'शर्त';
+$Definition['Condition Expression'] = 'मूल्य';
+$Definition['Condition Field'] = 'क्षेत्र';
+$Definition['Conditions'] = 'शर्तेँ';
+$Definition['Condition Type'] = 'प्रकार';
+$Definition['Configuration & Addons'] = 'कॉन्फ़िगरेशन और ऐडऑन';
+$Definition['Configuration settings for password fields in Vanilla'] = 'वेनिला में पासवर्ड फ़ील्ड के लिए कॉन्फ़िगरेशन सेटिंग्स';
+$Definition['Configure an Authenticator'] = 'किसी प्रमाणक को कॉन्फ़िगर करें';
+$Definition['Configure custom Kaltura domains'] = 'कस्टम कल्टुरा डोमेन कॉन्फ़िगर करें';
+$Definition['Configure how nested categories are displayed to users.'] = 'कॉन्फ़िगर करें कि उपयोगकर्ताओं को नेस्टेड श्रेणियां कैसे प्रदर्शित की जाती हैं।';
+$Definition['Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases.'] = 'समुदाय सामग्री को बनाए जाने से पहले ही स्वचालित रूप से मॉडरेट करने के लिए उपयोग की जाने वाली सेटिंग्स कॉन्फ़िगर करें। विकल्पों में स्वचालित स्पैम पहचान, कुछ श्रेणियों में पोस्ट करने के लिए अनुमोदन की आवश्यकता, और कुछ कीवर्ड या वाक्यांशों का उपयोग करके पोस्ट करने के लिए अनुमोदन की आवश्यकता शामिल है।';
+$Definition['Configure where reports are sent and manage your community\'s report reasons.'] = 'कॉन्फ़िगर करें कि रिपोर्ट कहाँ भेजी जाएँ और अपने समुदाय के रिपोर्ट कारणों को प्रबंधित करें.';
+$Definition['Configuring Vanilla\'s Homepage'] = 'वेनिला के होमपेज को कॉन्फ़िगर जा रहा है';
+$Definition['Confirmation  Body'] = 'पुष्टिकरण का निकाय';
+$Definition['Confirm email addresses'] = 'उपयोगकर्ताओं को अपने ईमेल पते की पुष्टि करने की ज़रूरत है (अनुशंसित)';
+$Definition['Connections'] = 'कनेक्शन';
+$Definition['Consumer Key'] = 'उपभोक्ता कुंजी';
+$Definition['Consumer Secret'] = 'उपभोक्ता राज़';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'Q&A साइट कॉन्फ़िगरेशन सक्षम करने के लिए वेनिला स्टाफ़ से संपर्क करें। फिर डैशबोर्ड के <0/> अनुभाग में Q&A ऐडऑन सक्षम करें।';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'Q&A साइट कॉन्फ़िगरेशन सक्षम करने के लिए वेनिला स्टाफ़ से संपर्क करें। फिर डैशबोर्ड के ऐडऑन अनुभाग में Q&A ऐडऑन सक्षम करें।';
+$Definition['Content Curation'] = 'सामग्री निरीक्षण';
+$Definition['Content flagged as spam is stored here for moderator review.'] = 'स्पैम के रूप में चिह्नित सामग्रियों को मॉडरेटर की समीक्षा के लिए यहाँ संग्रहीत किया जाता है।';
+$Definition['Content Flagging'] = 'कंटेंट फ़्लैगिंग';
+$Definition['Content Security Domains'] = 'सामग्री सुरक्षा डोमेन';
+$Definition['Content Settings'] = 'सामग्री समायोजन';
+$Definition['Content to Suggest'] = 'सुझाने के लिए सामग्री';
+$Definition['Contextual Description'] = 'प्रासंगिक विवरण';
+$Definition['Continue Replying'] = 'उत्तर देना जारी रखें';
+$Definition['Conversation Messages'] = 'वार्तालाप संदेश';
+$Definition['Conversations'] = 'बातचीत';
+$Definition['Conversations Setup'] = 'हस्ताक्षर {maxLength} अक्षरों तक लंबे हो सकते हैं।';
+$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'यदि प्रारंभिक स्क्रिप्ट से समझौता किया जाता है तो क्रॉस-साइट स्क्रिप्टिंग (XSS) जैसी कमजोरियाँ आ सकती हैं।';
+$Definition['Could not find a theme identified by \'%s\''] = '\'%s\' द्वारा पहचाना गया विषय नहीं मिल सका';
+$Definition['Could not instantiate mail function.'] = 'मेल फंक्शन को दिखलाया नही जा सकता।';
+$Definition['Could not link the addon.'] = 'ऐडऑन लिंक नहीं किया जा सका';
+$Definition['Could not open %s.'] = '%s नहीं खोला जा सका।';
+$Definition['Could not open addon file. Addons must be zip files.'] = 'ऐडऑन फ़ाइल खोला नहीं जा सका. ऐडऑन को ज़िप फ़ाइल के रूप में होना चाहिए.';
+$Definition['Create'] = 'तैयार करें ';
+$Definition['Create & organize discussion categories and manage your users.'] = 'चर्चा श्रेणियाँ बनाएँ और आयोजित करें और अपने यूज़र्स को प्रबंधित करें.';
+$Definition['Create/Edit Automation Rule'] = 'स्वचालन नियम बनाएं/संपादित करें';
+$Definition['Create and manage automations to easily manage posts and users.'] = 'पोस्ट और उपयोगकर्ताओं को आसानी से प्रबंधित करने के लिए स्वचालन बनाएं और प्रबंधित करें.';
+$Definition['Created <0/> by <1/>.'] = '<0/> द्वारा <1/> बनाया गया.';
+$Definition['created by'] = 'के द्वारा बनाई गई';
+$Definition['Created new badge'] = 'नए बैज बनाएं';
+$Definition['CreateFile'] = 'तैयार करें ';
+$Definition['Create Post Layout Settings'] = 'पोस्ट लेआउट सेटिंग बनाएं';
+$Definition['Create Post Layout Version'] = 'पोस्ट लेआउट संस्करण बनाएँ';
+$Definition['Create Post Pages'] = 'पोस्ट पेज बनाएं';
+$Definition['Create Zoom Meeting'] = 'ज़ूम मीटिंग बनाएँ';
+$Definition['Criteria'] = 'मानदंड';
+$Definition['CssClass'] = 'CSS वर्ग';
+$Definition['Current Authenticator'] = 'वर्तमान प्रमाणक';
+$Definition['Current File:'] = 'मौजूदा फ़ाइल:';
+$Definition['Current Mobile Theme'] = 'वर्तमान मोबाइल थीम';
+$Definition['Current Theme'] = 'मौजूदा थीम';
+$Definition['Custom Category Layouts'] = 'कस्टम श्रेणी लेआउट';
+$Definition['Custom Create Post Layouts'] = 'कस्टम पोस्ट लेआउट बनाएँ';
+$Definition['Customer Support'] = 'ग्राहक सहेयता';
+$Definition['Custom Event Layouts'] = 'कस्टम इवेंट लेआउट';
+$Definition['Custom Home Layouts'] = 'कस्टम होम लेआउट';
+$Definition['Custom Icon'] = 'कस्टम आइकन';
+$Definition['Customize AI Persona'] = 'AI व्यक्तित्व को अनुकूलित करें';
+$Definition['Customize your community'] = 'अपने समुदाय को अनुकूलित करें';
+$Definition['Custom Knowledge Base Layouts'] = 'कस्टम नॉलेज बेस लेआउट';
+$Definition['Custom Post Layouts'] = 'कस्टम पोस्ट लेआउट';
+$Definition['Custom Recent Posts Layouts'] = 'कस्टम हाल ही के पोस्ट लेआउट';
+$Definition['Custom Themes'] = 'कस्टम थीम';
 
-$Definition["Choose a locale pack"] = "एक लोकल पैक चुनें";
-$Definition["Choose Avatar"] = "अवतार चुनें";
-$Definition["Choose the preferred layout for the categories page."] =
-    "कैटेगरी पेज के लिए पसंदीदा लेआउट चुनें";
-$Definition["Choose the preferred layout for the discussions page."] =
-    "चर्चा पेज के लिए पसंदीदा लेआउट चुनें.";
-$Definition["Choose who can send out invitations to new members:"] =
-    "यह चुनें कि कौन नए सदस्यों को निमंत्रण भेज सकता है:";
-$Definition["Choose how many records to display."] =
-    "चुनें कि कितने रिकॉर्ड प्रदर्शित करने हैं।";
-$Definition["Choose when to load records from."] =
-    "चुनें कि कब से रिकॉर्ड लोड करना है।";
-$Definition["Class"] = "क्लास";
-$Definition["Clear All"] = "सभी साफ करें";
-$Definition["Classic table layout used by traditional forums"] =
-    "पारंपरिक फोरम द्वारा प्रयुक्त क्लासिक टेबल लेआउट";
-$Definition["Clean Spam"] = "स्पैम साफ करें";
-$Definition["Click a tag name to edit. Click x to remove."] =
-    "संपादित करने के लिए एक टैग के नाम पर क्लिक करें। हटाने के लिए x पर क्लिक करें";
-$Definition["Click here to apply it."] = "इसे लागू करने के लिए यहाँ क्लिक करें। ";
-$Definition["Click here to carry on."] = "जारी रखने के लिए यहाँ क्लिक करें ।";
-$Definition["Click here to carry on to your dashboard"] =
-    "अपने डैशबोर्ड पर जाने के लिए यहाँ क्लिक करें";
-$Definition["Client ID"] = "क्लाइंट आईडी";
-$Definition["Colored"] = "रंगीन";
-$Definition["Column Display Settings"] = "कॉलम प्रदर्शन सेटिंग्स";
-$Definition["comment(s)"] = "टिप्पणी(ओं)";
-$Definition["Comment  Body"] = "टिप्पणी बॉडी";
-$Definition["Comment Count"] = "टिप्पणी संख्या";
-$Definition["Comment Settings"] = "टिप्पणी सेटिंग्स";
-$Definition["Comments Page"] = "टिप्पणियाँ पेज";
-$Definition["Comments per Page"] = "कमेंट प्रति पेज ";
-$Definition["Comment  Subject"] = "टिप्पणी विषय";
-$Definition["Community Discussion Categories"] =
-    "सामुदायिक चर्चा श्रेणियाँ";
-$Definition["Community Member Content"] = "समुदाय सदस्य सामग्री";
-$Definition["Condition"] = "शर्त";
-$Definition["Condition Expression"] = "मूल्य";
-$Definition["Condition Field"] = "क्षेत्र";
-$Definition["Conditions"] = "शर्तेँ";
-$Definition["Condition Type"] = "प्रकार";
-$Definition["Configure an Authenticator"] = "किसी प्रमाणक को कॉन्फ़िगर करें";
-$Definition["Configuration settings for password fields in Vanilla"] =
-    "वेनिला में पासवर्ड फ़ील्ड के लिए कॉन्फ़िगरेशन सेटिंग्स";
-$Definition["Configure custom Kaltura domains"] =
-    "कस्टम कल्टुरा डोमेन कॉन्फ़िगर करें";
-$Definition["Configure how nested categories are displayed to users."] =
-    "कॉन्फ़िगर करें कि उपयोगकर्ताओं को नेस्टेड श्रेणियां कैसे प्रदर्शित की जाती हैं।";
-$Definition['Configuring Vanilla\'s Homepage'] =
-    'वेनिला के होमपेज को कॉन्फ़िगर जा रहा है';
-$Definition["Confirmation  Body"] = "पुष्टिकरण का निकाय";
-$Definition["Confirm email addresses"] =
-    "उपयोगकर्ताओं को अपने ईमेल पते की पुष्टि करने की ज़रूरत है (अनुशंसित)";
-$Definition["Connections"] = "कनेक्शन";
-$Definition["Consumer Key"] = "उपभोक्ता कुंजी";
-$Definition["Consumer Secret"] = "उपभोक्ता राज़";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
-] =
-    "Q&A साइट कॉन्फ़िगरेशन सक्षम करने के लिए वेनिला स्टाफ़ से संपर्क करें। फिर डैशबोर्ड के ऐडऑन अनुभाग में Q&A ऐडऑन सक्षम करें।";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
-] =
-    "Q&A साइट कॉन्फ़िगरेशन सक्षम करने के लिए वेनिला स्टाफ़ से संपर्क करें। फिर डैशबोर्ड के <0/> अनुभाग में Q&A ऐडऑन सक्षम करें।";
-$Definition["Content Curation"] = "सामग्री निरीक्षण";
-$Definition["Content flagged as spam is stored here for moderator review."] =
-    "स्पैम के रूप में चिह्नित सामग्रियों को मॉडरेटर की समीक्षा के लिए यहाँ संग्रहीत किया जाता है।";
-$Definition["Content Flagging"] = "कंटेंट फ़्लैगिंग";
-$Definition["Content Security Domains"] = "सामग्री सुरक्षा डोमेन";
-$Definition["Content to Suggest"] = "सुझाने के लिए सामग्री";
-$Definition["Continue Replying"] = "उत्तर देना जारी रखें";
-$Definition["Conversation Messages"] = "वार्तालाप संदेश";
-$Definition["Conversations"] = "बातचीत";
-$Definition["Conversations Setup"] = "हस्ताक्षर {maxLength} अक्षरों तक लंबे हो सकते हैं।";
-$Definition[
-    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
-] =
-    "यदि प्रारंभिक स्क्रिप्ट से समझौता किया जाता है तो क्रॉस-साइट स्क्रिप्टिंग (XSS) जैसी कमजोरियाँ आ सकती हैं।";
-$Definition['Could not find a theme identified by \'%s\''] =
-    '\'%s\' द्वारा पहचाना गया विषय नहीं मिल सका';
-$Definition["Could not instantiate mail function."] =
-    "मेल फंक्शन को दिखलाया नही जा सकता।";
-$Definition["Could not link the addon."] = "ऐडऑन लिंक नहीं किया जा सका";
-$Definition["Could not open %s."] = "%s नहीं खोला जा सका।";
-$Definition["Could not open addon file. Addons must be zip files."] =
-    "ऐडऑन फ़ाइल खोला नहीं जा सका. ऐडऑन को ज़िप फ़ाइल के रूप में होना चाहिए.";
-$Definition["Create & organize discussion categories and manage your users."] =
-    "चर्चा श्रेणियाँ बनाएँ और आयोजित करें और अपने यूज़र्स को प्रबंधित करें.";
-$Definition["Created new badge"] = "नए बैज बनाएं";
-$Definition["Create Zoom Meeting"] = "ज़ूम मीटिंग बनाएँ";
-$Definition["CreateFile"] = "तैयार करें ";
-$Definition["Criteria"] = "मानदंड";
-$Definition["CSS"] = "CSS";
-$Definition["CssClass"] = "CSS वर्ग";
-$Definition["Current Authenticator"] = "वर्तमान प्रमाणक";
-$Definition["Current File:"] = "मौजूदा फ़ाइल:";
-$Definition["Current Mobile Theme"] = "वर्तमान मोबाइल थीम";
-$Definition["Current Theme"] = "मौजूदा थीम";
-$Definition["Custom Themes"] = "कस्टम थीम";
-$Definition["Customize AI Persona"] = "AI व्यक्तित्व को अनुकूलित करें";
-$Definition["Custom Recent Posts Layouts"] = "कस्टम हाल ही के पोस्ट लेआउट";
-
-$Definition["Database Structure Upgrades"] = "डाटाबेस संरचना अपग्रेड";
-$Definition["Date From"] = "तिथि से";
-$Definition["Date To"] = "तिथि तक";
-$Definition["Debugger"] = "डीबगर";
-$Definition["Debug Information"] = "डिबग जानकारी";
-$Definition["Decline"] = "इन्कार";
-$Definition["Default (%s)"] = "डिफ़ॉल्ट (%s)";
-$Definition["Default <0/>"] = "डिफ़ॉल्ट <0/>";
-$Definition["Default %s Permissions"] = "डिफ़ॉल्ट %s अनुमतियाँ ";
-$Definition["Default  Category"] = "डिफ़ॉल्ट श्रेणी";
-$Definition["Default Category Permissions"] = "डिफ़ॉल्ट श्रेणी की अनुमति ";
-$Definition["Default Followed Categories"] = "डिफ़ॉल्ट अनुसरण की गई श्रेणियाँ";
-$Definition["Default Interests Only"] = "केवल डिफ़ॉल्ट हित";
-$Definition["Default Locale"] = "डिफ़ॉल्ट लोकेल";
-$Definition["Default Roles"] = "डिफ़ॉल्ट ";
-$Definition["default type"] = "डिफॉल्ट";
-$Definition["Default Type"] = "डिफ़ॉल्ट प्रकार";
-$Definition["Define your forum homepage"] = "अपने फ़ोरम का मुखपृष्ठ निर्धारित करें";
-$Definition["Delete Badge"] = "बैज हटाएं";
-$Definition["Delete Category"] = "श्रेणी हटाएँ";
-$Definition["Delete moderation information"] = "मॉडरेशन जानकारी को मिटाएँ ";
-$Definition["Delete Role"] = "भूमिका हटाएँ";
-$Definition["Delete Theme"] = "थीम हटाएँ";
-$Definition["Delete User"] = "यूज़र हटाएँ";
-$Definition["Delete User: %s"] = "उपयोगकर्ता हटाएं: %s";
-$Definition["Deleting category..."] = "श्रेणी हटा रहा है...";
-$Definition["Deleting role..."] = "भूमिका हटा रहे हैं...";
-$Definition["Delivery Date"] = "डिलीवरी की तारीख";
-$Definition["Description"] = "विवरण";
-$Definition["Desktop Themes"] = "डेस्कटॉप थीम्स";
-$Definition["Did You Know?"] = "क्या आप जानते थे?";
-$Definition["Disable"] = "अक्षम";
-$Definition["Disable Content Flagging"] = "सामग्री फ़्लैग करना अक्षम करें";
-$Definition["Disabled"] = "निष्क्रिय";
+$Definition['Database Structure Upgrades'] = 'डाटाबेस संरचना अपग्रेड';
+$Definition['Date field reached'] = 'दिनांक फ़ील्ड पहुँच गया';
+$Definition['Date From'] = 'तिथि से';
+$Definition['Date To'] = 'तिथि तक';
+$Definition['Debugger'] = 'डीबगर';
+$Definition['Debug Information'] = 'डिबग जानकारी';
+$Definition['Decline'] = 'इन्कार';
+$Definition['Default %s Permissions'] = 'डिफ़ॉल्ट %s अनुमतियाँ ';
+$Definition['Default (%s)'] = 'डिफ़ॉल्ट (%s)';
+$Definition['Default <0/>'] = 'डिफ़ॉल्ट <0/>';
+$Definition['Default  Category'] = 'डिफ़ॉल्ट श्रेणी';
+$Definition['Default Category Permissions'] = 'डिफ़ॉल्ट श्रेणी की अनुमति ';
+$Definition['Default Followed Categories'] = 'डिफ़ॉल्ट अनुसरण की गई श्रेणियाँ';
+$Definition['Default Interests Only'] = 'केवल डिफ़ॉल्ट हित';
+$Definition['Default Locale'] = 'डिफ़ॉल्ट लोकेल';
+$Definition['Default placeholder'] = 'डिफ़ॉल्ट प्लेसहोल्डर';
+$Definition['Default Roles'] = 'डिफ़ॉल्ट ';
+$Definition['Default Sort Order'] = 'डिफ़ॉल्ट सॉर्ट क्रम';
+$Definition['Default Type'] = 'डिफ़ॉल्ट प्रकार';
+$Definition['default type'] = 'डिफॉल्ट';
+$Definition['Define your forum homepage'] = 'अपने फ़ोरम का मुखपृष्ठ निर्धारित करें';
+$Definition['Delete?'] = 'मिटाना?';
+$Definition['Delete Badge'] = 'बैज हटाएं';
+$Definition['Delete Category'] = 'श्रेणी हटाएँ';
+$Definition['Delete Layout'] = 'लेआउट हटाएं';
+$Definition['Delete moderation information'] = 'मॉडरेशन जानकारी को मिटाएँ ';
+$Definition['Delete Report Reason'] = 'रिपोर्ट का कारण हटाएं';
+$Definition['Delete Role'] = 'भूमिका हटाएँ';
+$Definition['Delete Rule'] = 'नियम हटाएँ';
+$Definition['Delete Theme'] = 'थीम हटाएँ';
+$Definition['Delete User'] = 'यूज़र हटाएँ';
+$Definition['Delete User: %s'] = 'उपयोगकर्ता हटाएं: %s';
+$Definition['Deleting category...'] = 'श्रेणी हटा रहा है...';
+$Definition['Deleting role...'] = 'भूमिका हटा रहे हैं...';
+$Definition['Delivery Date'] = 'डिलीवरी की तारीख';
+$Definition['Description'] = 'विवरण';
+$Definition['Desktop Themes'] = 'डेस्कटॉप थीम्स';
+$Definition['Did You Know?'] = 'क्या आप जानते थे?';
+$Definition['Disable'] = 'अक्षम';
+$Definition['Disable Content Flagging'] = 'सामग्री फ़्लैग करना अक्षम करें';
+$Definition['Disabled'] = 'निष्क्रिय';
+$Definition['disabled'] = 'अक्षम';
 $Definition['Disabled %1$s'] = 'अक्षम %1$s';
-$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
-    "अक्षम: पॉकेट<b> प्रदर्शित नहीं </b> होगी.";
-$Definition["Disable Signatures"] = "हस्ताक्षर अक्षम करें";
-$Definition["Disable Tagging"] = "टैगिंग अक्षम करें";
-$Definition["Discard Reply"] = "उत्तर छोड़ें";
-$Definition["Discussion & Comment Editing"] = "चर्चा और टिप्पणी का संपादन";
-$Definition["Post & Comment Editing"] = "पोस्ट और टिप्पणी संपादन";
-$Definition["Discussions"] = "चर्चाएं";
-$Definition["discussion(s)"] = "चर्चा(एँ)";
-$Definition["Discussion  Body"] = "चर्चा का निकाय";
-$Definition["Discussions Layout"] = "चर्चा लेआउट";
-$Definition["Discussions per Page"] = "प्रति पेज चर्चाएँ";
-$Definition["Posts per Page"] = "प्रति पेज पोस्ट";
-$Definition["Discussion  Subject"] = "चर्चा का विषय";
-$Definition["Dismissable"] = "ख़ारिज करने योग्य है";
-$Definition["Dismiss Answer"] = "उत्तर ख़ारिज करें";
-$Definition["Display content from followed categories"] =
-    "अनुसरण की गई श्रेणियों की सामग्री प्रदर्शित करें";
-$Definition["Display in dashboard. (not recommended)"] =
-    "डैशबोर्ड पर प्रदर्शित करें. (अनुशंसित नहीं है)";
-$Definition["Display Open Cases in Profile Page?"] =
-    "प्रोफ़ाइल पृष्ठ में खुले मामले प्रदर्शित करें?";
-$Definition["Display Options"] = "प्रदर्शन चुनाव";
-$Definition["Display records from this subcommunity"] =
-    "इस उपसमुदाय से रिकॉर्ड प्रदर्शित करें";
-$Definition["Display root categories as headings."] =
-    "शीर्ष श्रेणियाें को शीर्षकों के रूप में प्रदर्शित करें.";
-$Definition[
-    "Displays the banner image form the branding page prominently throughout the theme."
-] =
-    "विशेषरूप से पूरे थीम के दौरान ब्रांडिंग पृष्ठ के बैनर इमेज को प्रदर्शित करता है।";
-$Definition["Display a searchbox on top of the banner image."] =
-    "बैनर इमेज के शीर्ष पर एक खोज बॉक्स प्रदर्शित करें।";
-$Definition["Display records from this category."] =
-    "इस श्रेणी से रिकॉर्ड प्रदर्शित करें।";
-$Definition["Display records from this subcommunity."] =
-    "इस उपसमुदाय से रिकॉर्ड प्रदर्शित करें।";
-$Definition['Don\'t display for embedded comments.'] =
-    'एम्बेडेड टिप्पणियों के लिए प्रदर्शित न करें';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'अक्षम: पॉकेट<b> प्रदर्शित नहीं </b> होगी.';
+$Definition['Disable Forum Pages'] = 'फोरम पेज अक्षम करें';
+$Definition['Disable Signatures'] = 'हस्ताक्षर अक्षम करें';
+$Definition['Disable Tagging'] = 'टैगिंग अक्षम करें';
+$Definition['Discard Changes?'] = 'परिवर्तनों को निरस्त करें?';
+$Definition['Discard Reply'] = 'उत्तर छोड़ें';
+$Definition['Discussion & Comment Editing'] = 'चर्चा और टिप्पणी का संपादन';
+$Definition['discussion(s)'] = 'चर्चा(एँ)';
+$Definition['Discussion  Body'] = 'चर्चा का निकाय';
+$Definition['Discussion Pages'] = 'चर्चा पृष्ठ';
+$Definition['Discussions'] = 'चर्चाएं';
+$Definition['Discussions Layout'] = 'चर्चा लेआउट';
+$Definition['Discussions Matching Criteria Now: <0 />'] = 'चर्चाएँ अब मानदंड से मेल खाती हैं: <0 />';
+$Definition['Discussions per Page'] = 'प्रति पेज चर्चाएँ';
+$Definition['Discussion  Subject'] = 'चर्चा का विषय';
+$Definition['Dismissable'] = 'ख़ारिज करने योग्य है';
+$Definition['Dismiss Answer'] = 'उत्तर ख़ारिज करें';
+$Definition['Display a searchbox on top of the banner image.'] = 'बैनर इमेज के शीर्ष पर एक खोज बॉक्स प्रदर्शित करें।';
+$Definition['Display content from followed categories'] = 'अनुसरण की गई श्रेणियों की सामग्री प्रदर्शित करें';
+$Definition['Display in dashboard. (not recommended)'] = 'डैशबोर्ड पर प्रदर्शित करें. (अनुशंसित नहीं है)';
+$Definition['Display on category page only.'] = 'श्रेणी पृष्ठ पर ही दिखाएँ। हाल के चर्चाओं की सूची प्रभावित नहीं होगी।';
+$Definition['Display Open Cases in Profile Page?'] = 'प्रोफ़ाइल पृष्ठ में खुले मामले प्रदर्शित करें?';
+$Definition['Display Options'] = 'प्रदर्शन चुनाव';
+$Definition['Display records from this category.'] = 'इस श्रेणी से रिकॉर्ड प्रदर्शित करें।';
+$Definition['Display records from this subcommunity'] = 'इस उपसमुदाय से रिकॉर्ड प्रदर्शित करें';
+$Definition['Display records from this subcommunity.'] = 'इस उपसमुदाय से रिकॉर्ड प्रदर्शित करें।';
+$Definition['Display root categories as headings.'] = 'शीर्ष श्रेणियाें को शीर्षकों के रूप में प्रदर्शित करें.';
+$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'विशेषरूप से पूरे थीम के दौरान ब्रांडिंग पृष्ठ के बैनर इमेज को प्रदर्शित करता है।';
+$Definition['documentation.'] = 'दस्तावेज़ीकरण.';
+$Definition['Don\'t display for embedded comments.'] = 'एम्बेडेड टिप्पणियों के लिए प्रदर्शित न करें';
 $Definition['Don\'t Refresh'] = 'रिफ्रेश न करें';
 $Definition['Don\'t use Categories'] = 'श्रेणियाँ का उपयोग न करें';
-$Definition["Do not display the categories in the side panel."] =
-    "साइड पैनल में श्रेणियां प्रदर्शित न करें।";
-$Definition["Download Locale List"] = "स्थानीय सूची डाउनलोड करें";
-$Definition["DownloadLocalePack"] = "डाउनलोड";
-$Definition["Download Locale Pack"] = "लोकल पैक डाउनलोड करें";
+$Definition['Done'] = 'हो गया';
+$Definition['Do not display the categories in the side panel.'] = 'साइड पैनल में श्रेणियां प्रदर्शित न करें।';
+$Definition['Download Active Icon Pack'] = 'सक्रिय आइकन पैक डाउनलोड करें';
+$Definition['Download Locale List'] = 'स्थानीय सूची डाउनलोड करें';
+$Definition['DownloadLocalePack'] = 'डाउनलोड';
+$Definition['Download Locale Pack'] = 'लोकल पैक डाउनलोड करें';
+$Definition['Download System Icon Pack'] = 'सिस्टम आइकन पैक डाउनलोड करें';
 
-$Definition["Edit/Delete Log"] = "लॉग संपादित करें/हटाएँ";
-$Definition["Edit Category"] = "श्रेणी संपादित करें";
-$Definition["Edit CSS"] = "CSS संपादित करें";
-$Definition["Edit Default Categories"] = "डिफ़ॉल्ट श्रेणियाँ संपादित करें";
-$Definition["Edit HTML"] = "HTML एडिट करें ";
-$Definition["Edit Interest"] = "रुचि संपादित करें";
-$Definition["Edit Message"] = "संदेश संपादित करें";
-$Definition["Edit Role"] = "भूमिका संपादित करें";
-$Definition["Edit User"] = "यूजर संपादित करें";
-$Definition["Email Confirmation Role"] = "ईमेल पुष्टिकरण भूमिका";
-$Definition["Email Digest"] = "ईमेल डाइजेस्ट";
-$Definition[
-    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
-] =
-    "ईमेल डाइजेस्ट सक्षम होने पर ईमेल डाइजेस्ट प्रॉम्प्ट विजेट उपलब्ध होगा।";
-$Definition["Email Digest Logo"] = "ईमेल डाइजेस्ट लोगो";
-$Definition[
-    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
-] =
-    "ईमेल डाइजेस्ट हर सप्ताह चुने गए दिन भेजे जाएंगे। निर्धारित दिन में किए गए परिवर्तन अगले सप्ताह प्रभावी होंगे।";
-$Definition["Email Footer"] = "ईमेल पाद लेख";
-$Definition["Email Digest Logo"] = "ईमेल डाइजेस्ट लोगो";
-$Definition["Email Styles"] = "ईमेल स्टाइल";
-$Definition["Embed Comments"] = "टिप्पणियाँ एम्बेड करें";
-$Definition["Embedding"] = "एम्बेडिंग";
-$Definition["Embedding Documentation"] = "एम्बेड करने के दस्तावेज़";
-$Definition["Embedding is currently DISABLED."] =
-    "वर्तमान में एम्बेडिंग अक्षम है।";
-$Definition["Embedding is currently ENABLED."] =
-    "वर्तमान में एम्बेडिंग सक्रिय है।";
-$Definition["Embed Forum"] = "फोरम एम्बेड करें";
-$Definition["Embed My Forum"] = "मेरे फ़ोरम को एम्बेड करें";
-$Definition["Embed Modules"] = "मॉड्यूल एम्बेड करें";
-$Definition["Embed modules from your Vanilla forum into your site"] =
-    "अपनी साइट में अपने वनिला फोरम से मॉड्यूल एम्बेड करें";
-$Definition["Embeds"] = "एम्बेड";
-$Definition["Embed Vanilla"] = "वनीला एम्बेड ";
-$Definition["Embed your entire Vanilla forum"] =
-    "अपने पूरे वेनिला फोरम को समाविष्ट करें";
-$Definition["Embed your forum in your web site"] =
-    "अपनी वेब साइट में अपने फोरम को एम्बेड करें";
-$Definition["Enable"] = "सक्षम करें";
-$Definition["Enable/Disable"] = "सक्षम / अक्षम";
-$Definition["Enable admin checkboxes on discussions and comments."] =
-    "चर्चा और टिप्पणियों पर एडमिन के चेकबॉक्स सक्षम करें.";
-$Definition["Enable checkboxes on discussions and comments"] =
-    "चर्चाओं और टिप्पणियों पर चेकबॉक्स सक्षम करें";
+$Definition['Edit/Delete Log'] = 'लॉग संपादित करें/हटाएँ';
+$Definition['Edit Categories'] = 'श्रेणियाँ संपादित करें';
+$Definition['Edit Category'] = 'श्रेणी संपादित करें';
+$Definition['Edit CSS'] = 'CSS संपादित करें';
+$Definition['Edit Default Categories'] = 'डिफ़ॉल्ट श्रेणियाँ संपादित करें';
+$Definition['Edited'] = 'संपादित';
+$Definition['Edit HTML'] = 'HTML एडिट करें ';
+$Definition['Edit Interest'] = 'रुचि संपादित करें';
+$Definition['Edit Keywords'] = 'कीवर्ड संपादित करें';
+$Definition['Edit Message'] = 'संदेश संपादित करें';
+$Definition['Edit Report Reason'] = 'रिपोर्ट का कारण संपादित करें';
+$Definition['Edit Role'] = 'भूमिका संपादित करें';
+$Definition['Edit Roles'] = 'भूमिकाएँ संपादित करें';
+$Definition['Edit Rule'] = 'नियम संपादित करें';
+$Definition['Edit User'] = 'यूजर संपादित करें';
+$Definition['Edit Variables'] = 'चर संपादित करें';
+$Definition['Email Confirmation Role'] = 'ईमेल पुष्टिकरण भूमिका';
+$Definition['Email Digest'] = 'ईमेल डाइजेस्ट';
+$Definition['Email Digest Logo'] = 'ईमेल डाइजेस्ट लोगो';
+$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'ईमेल डाइजेस्ट सक्षम होने पर ईमेल डाइजेस्ट प्रॉम्प्ट विजेट उपलब्ध होगा।';
+$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'ईमेल डाइजेस्ट हर सप्ताह चुने गए दिन भेजे जाएंगे। निर्धारित दिन में किए गए परिवर्तन अगले सप्ताह प्रभावी होंगे।';
+$Definition['Email Footer'] = 'ईमेल पाद लेख';
+$Definition['Email Styles'] = 'ईमेल स्टाइल';
+$Definition['Embed Comments'] = 'टिप्पणियाँ एम्बेड करें';
+$Definition['Embedding'] = 'एम्बेडिंग';
+$Definition['Embedding Documentation'] = 'एम्बेड करने के दस्तावेज़';
+$Definition['Embedding is currently DISABLED.'] = 'वर्तमान में एम्बेडिंग अक्षम है।';
+$Definition['Embedding is currently ENABLED.'] = 'वर्तमान में एम्बेडिंग सक्रिय है।';
+$Definition['Embed Forum'] = 'फोरम एम्बेड करें';
+$Definition['Embed Modules'] = 'मॉड्यूल एम्बेड करें';
+$Definition['Embed modules from your Vanilla forum into your site'] = 'अपनी साइट में अपने वनिला फोरम से मॉड्यूल एम्बेड करें';
+$Definition['Embed My Forum'] = 'मेरे फ़ोरम को एम्बेड करें';
+$Definition['Embeds'] = 'एम्बेड';
+$Definition['Embed Vanilla'] = 'वनीला एम्बेड ';
+$Definition['Embed your entire Vanilla forum'] = 'अपने पूरे वेनिला फोरम को समाविष्ट करें';
+$Definition['Embed your forum in your web site'] = 'अपनी वेब साइट में अपने फोरम को एम्बेड करें';
+$Definition['Enable'] = 'सक्षम करें';
+$Definition['Enable/Disable'] = 'सक्षम / अक्षम';
+$Definition['Enable admin checkboxes on discussions and comments.'] = 'चर्चा और टिप्पणियों पर एडमिन के चेकबॉक्स सक्षम करें.';
+$Definition['Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>'] = 'आवेदक पंजीकरण और असत्यापित उपयोगकर्ताओं द्वारा सभी पोस्ट में स्पैम को फ़िल्टर करने के लिए Akismet को सक्षम करें। <0/>';
+$Definition['Enable checkboxes on discussions and comments'] = 'चर्चाओं और टिप्पणियों पर चेकबॉक्स सक्षम करें';
+$Definition['enabled'] = 'सक्रिय';
 $Definition['Enabled %1$s'] = 'सक्षम% %1$s';
-$Definition["Enabled: The pocket will be displayed."] =
-    "सक्रिय: पॉकेट प्रदर्शित किया जाएगा।";
-$Definition["Enable HTML emails"] = "HTML ईमेल सक्रीय करें";
-$Definition["Enable embedding to use blog comments."] =
-    "इसे काम करने के लिए, आपको एम्बेडिंग सक्रिय करना आवश्यक है।";
-$Definition["Enable Image Upload Limit"] = "छवि अपलोड की सीमा सक्षम करें";
-$Definition["Enable link embeds in discussions and comments"] =
-    "चर्चाओं और टिप्पणियों में लिंक एम्बेड सक्षम करें";
-$Definition["Enable link embeds in posts and comments"] =
-    "पोस्ट और टिप्पणियों में लिंक एम्बेड सक्षम करें";
-$Definition["Enable OpenID"] = "OpenID सक्षम करें";
-$Definition["Enable Pocket Locations"] = "पॉकेट स्थान सक्षम करें";
-$Definition["Enable Private Communities"] = "निजी कम्युनिटी को सक्षम करें";
-$Definition["Enable Product Integration"] = "उत्पाद इंटीग्रेशन को एम्बेड करें";
-$Definition["Enable Followup Notifications"] = "फ़ॉलोअप सूचनाएं सक्षम करें";
-$Definition["Enable sending notification emails"] =
-    "अधिसूचना ईमेल भेजना सक्षम करें";
-$Definition["Enable Tagging"] = "टैगिंग सक्रीय करें";
-$Definition["Enable this message"] = "इस संदेश को सक्षम करें";
-$Definition["Enable this source"] = "इस स्रोत को सक्षम करें";
-$Definition["Enable to only show posts from categories a user follows."] =
-    "उपयोगकर्ता द्वारा अनुसरण की जाने वाली श्रेणियों से केवल पोस्ट दिखाने के लिए सक्षम करें।";
-$Definition[
-    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
-] =
-    "बेहतर खोज और नए कॉन्फ़िगरेशन विकल्पों के साथ हमारे नए उपयोगकर्ता प्रबंधन डैशबोर्ड का पूर्वावलोकन प्राप्त करने में सक्षम करें।";
-$Definition["Enabling a Locale Pack"] = "लोकल पैक चालू करें";
-$Definition[
-    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
-] =
-    "इस सुविधा को सक्षम करने से आपकी कस्टम स्क्रिप्ट द्वारा निर्भरता के रूप में इंजेक्ट की गई अतिरिक्त स्क्रिप्ट पर भरोसा करने के लिए आपकी सामग्री सुरक्षा नीति संशोधित हो जाएगी।";
-$Definition[
-    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
-] =
-    'इस सुविधा को सक्षम करने से आपकी साइट की सामग्री सुरक्षा नीति (सीएसपी) संशोधित हो जाएगी ताकि आपकी वर्तमान विश्वसनीय डोमेन सूची में स्वीकृत स्क्रिप्ट को अन्य स्क्रिप्ट को गतिशील रूप से लोड करने की अनुमति मिल सके, यह आपके सीएसपी में एक \'सख्त-गतिशील\' निर्देश जोड़ देगा जो तृतीय-पक्ष को शामिल करने में अधिक लचीलेपन की पेशकश करेगा। सामग्री।';
-$Definition["Encourage your friends to join your new community!"] =
-    "दोस्तों को अपने नए समुदाय में शामिल होने के लिए प्रोत्साहित करें!";
-$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
-    "1 पर शुरू होने वाली, अनुक्रमित अल्पविराम-सीमांकित सूची दर्ज करें।";
-$Definition["Enter numbers starting at 1."] = "1 से शुरू कर संख्याएँ दर्ज करें.";
-$Definition["Enter the email address of the person you would like to invite:"] =
-    "उस व्यक्ति का ईमेल पता दर्ज करें जिसे आप आमंत्रित करना चाहते हैं:";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage"
-] = "उस पेज पर url दर्ज करें जिसे आप अपने होमपेज के रूप में उपयोग करना चाहते हैं.";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage:"
-] = "उस पेज पर url दर्ज करें जिसे आप अपने होमपेज के रूप में उपयोग करना चाहते हैं:";
-$Definition["Error sending email. Please review the addresses and try again."] =
-    "ईमेल भेजने में त्रुटि हुई.  कृपया ईमेल पता जांचें और पुनः प्रयास करें.";
-$Definition["Even More Help?"] = "और भी सहायता चाहिए?";
-$Definition["Event Log"] = "इवेंट लॉग";
-$Definition["Event Name"] = "इवेंट का नाम";
-$Definition["Every %s hour"] = "प्रत्येक घंटे";
-$Definition["Every %s hours"] = "हर %s घंटे";
-$Definition["Every %s minute"] = "हर मिनट";
-$Definition["Every %s minutes"] = "हर %s मिनट ";
-$Definition["Every %s second"] = "हर पल";
-$Definition["Every %s seconds"] = "हर %s सेकंड";
-$Definition["Every 1 minute"] = "हर 1 मिनट में";
-$Definition["Every Page"] = "हर पेज";
-$Definition["Everything is ok."] = "सब कुछ ठीक है.";
-$Definition["Excerpt Length"] = "अंश लंबाई";
-$Definition["Exclude Categories"] = "श्रेणियाँ बहिष्कृत करें";
-$Definition["Exclude Default Interests"] = "डिफ़ॉल्ट ब्याज को बाहर रखें";
-$Definition["Exclude these from the source"] = "इन्हें स्रोत से बाहर रखें";
-$Definition["Exclude archived discussions from the discussions list"] =
-    "चर्चा सूची से संग्रहीत चर्चा को बाहर रखें";
-$Definition["Existing members send invitations to new members."] =
-    "मौजूदा सदस्य नए सदस्यों को निमंत्रण भेजते हैं।";
-$Definition["Exit Preview"] = "पूर्वावलोकन से बाहर निकलें";
-$Definition["Exit"] = "बाहर निकलें  ";
-$Definition["External Search"] = "बाहरी खोज";
-$Definition[
-    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
-] =
-    "बाहरी खोज वेनिला की आउट-ऑफ़-द-बॉक्स खोज को आपकी पसंद के तीसरे पक्ष के खोज प्रदाता से बदल देती है।";
+$Definition['Enabled: The pocket will be displayed.'] = 'सक्रिय: पॉकेट प्रदर्शित किया जाएगा।';
+$Definition['Enable embedding to use blog comments.'] = 'इसे काम करने के लिए, आपको एम्बेडिंग सक्रिय करना आवश्यक है।';
+$Definition['Enable Followup Notifications'] = 'फ़ॉलोअप सूचनाएं सक्षम करें';
+$Definition['Enable HTML emails'] = 'HTML ईमेल सक्रीय करें';
+$Definition['Enable Image Upload Limit'] = 'छवि अपलोड की सीमा सक्षम करें';
+$Definition['Enable link embeds in discussions and comments'] = 'चर्चाओं और टिप्पणियों में लिंक एम्बेड सक्षम करें';
+$Definition['Enable link embeds in posts and comments'] = 'पोस्ट और टिप्पणियों में लिंक एम्बेड सक्षम करें';
+$Definition['Enable OpenID'] = 'OpenID सक्षम करें';
+$Definition['Enable Pocket Locations'] = 'पॉकेट स्थान सक्षम करें';
+$Definition['Enable Private Communities'] = 'निजी कम्युनिटी को सक्षम करें';
+$Definition['Enable Product Integration'] = 'उत्पाद इंटीग्रेशन को एम्बेड करें';
+$Definition['Enable Rich Quotes'] = 'Rich Quotes सक्षम करें';
+$Definition['Enable sending notification emails'] = 'अधिसूचना ईमेल भेजना सक्षम करें';
+$Definition['Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon\'s settings</0>. Learn more in the <1/>'] = 'रिपोर्ट किए गए स्पैमर की सूची के विरुद्ध समुदाय उपयोगकर्ताओं की जांच करने के लिए स्टॉपफोरमस्पैम को सक्षम करें, और या तो पोस्ट को स्पैम के रूप में रिपोर्ट करें या उन्हें सीधे अस्वीकार करें। रिपोर्टिंग और अस्वीकार करने की सीमाएँ <0>एडऑन की सेटिंग में प्रबंधित की जाती हैं</0> . अधिक जानकारी के लिए <1/> देखें';
+$Definition['Enable Tagging'] = 'टैगिंग सक्रीय करें';
+$Definition['Enable this message'] = 'इस संदेश को सक्षम करें';
+$Definition['Enable this source'] = 'इस स्रोत को सक्षम करें';
+$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'बेहतर खोज और नए कॉन्फ़िगरेशन विकल्पों के साथ हमारे नए उपयोगकर्ता प्रबंधन डैशबोर्ड का पूर्वावलोकन प्राप्त करने में सक्षम करें।';
+$Definition['Enable to only show posts from categories a user follows.'] = 'उपयोगकर्ता द्वारा अनुसरण की जाने वाली श्रेणियों से केवल पोस्ट दिखाने के लिए सक्षम करें।';
+$Definition['Enable Triage Dashboard'] = 'ट्राइएज डैशबोर्ड सक्षम करें';
+$Definition['Enabling a Locale Pack'] = 'लोकल पैक चालू करें';
+$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'इस सुविधा को सक्षम करने से आपकी कस्टम स्क्रिप्ट द्वारा निर्भरता के रूप में इंजेक्ट की गई अतिरिक्त स्क्रिप्ट पर भरोसा करने के लिए आपकी सामग्री सुरक्षा नीति संशोधित हो जाएगी।';
+$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = 'इस सुविधा को सक्षम करने से आपकी साइट की सामग्री सुरक्षा नीति (सीएसपी) संशोधित हो जाएगी ताकि आपकी वर्तमान विश्वसनीय डोमेन सूची में स्वीकृत स्क्रिप्ट को अन्य स्क्रिप्ट को गतिशील रूप से लोड करने की अनुमति मिल सके, यह आपके सीएसपी में एक \'सख्त-गतिशील\' निर्देश जोड़ देगा जो तृतीय-पक्ष को शामिल करने में अधिक लचीलेपन की पेशकश करेगा। सामग्री।';
+$Definition['Encourage your friends to join your new community!'] = 'दोस्तों को अपने नए समुदाय में शामिल होने के लिए प्रोत्साहित करें!';
+$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = '1 पर शुरू होने वाली, अनुक्रमित अल्पविराम-सीमांकित सूची दर्ज करें।';
+$Definition['Enter a title for this escalation'] = 'इस वृद्धि के लिए एक शीर्षक दर्ज करें';
+$Definition['Enter numbers starting at 1.'] = '1 से शुरू कर संख्याएँ दर्ज करें.';
+$Definition['Enter the email address of the person you would like to invite:'] = 'उस व्यक्ति का ईमेल पता दर्ज करें जिसे आप आमंत्रित करना चाहते हैं:';
+$Definition['Enter the url to the page you would like to use as your homepage'] = 'उस पेज पर url दर्ज करें जिसे आप अपने होमपेज के रूप में उपयोग करना चाहते हैं.';
+$Definition['Enter the url to the page you would like to use as your homepage:'] = 'उस पेज पर url दर्ज करें जिसे आप अपने होमपेज के रूप में उपयोग करना चाहते हैं:';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'ईमेल भेजने में त्रुटि हुई.  कृपया ईमेल पता जांचें और पुनः प्रयास करें.';
+$Definition['Escalate'] = 'आगे बढ़ाएं';
+$Definition['Escalated'] = 'तना हुआ';
+$Definition['Escalated by <0/>'] = '<0/> द्वारा बढ़ाया गया';
+$Definition['Escalate it'] = 'इसे आगे बढाएं';
+$Definition['Escalate to GitHub'] = 'GitHub पर आगे बढ़ाएँ';
+$Definition['Escalate to Zendesk'] = 'Zendesk तक बढ़ाएँ';
+$Definition['Escalation Name'] = 'एस्केलेशन नाम';
+$Definition['Escalation Rules'] = 'वृद्धि नियम';
+$Definition['Escalations Dashboard'] = 'एस्केलेशन डैशबोर्ड';
+$Definition['Even More Help?'] = 'और भी सहायता चाहिए?';
+$Definition['event'] = 'आयोजन';
+$Definition['Event Layout Settings'] = 'इवेंट लेआउट सेटिंग्स';
+$Definition['Event Layout Version'] = 'इवेंट लेआउट संस्करण';
+$Definition['Event Log'] = 'इवेंट लॉग';
+$Definition['Event Name'] = 'इवेंट का नाम';
+$Definition['Event Pages'] = 'इवेंट पेज';
+$Definition['Every %s hour'] = 'प्रत्येक घंटे';
+$Definition['Every %s hours'] = 'हर %s घंटे';
+$Definition['Every %s minute'] = 'हर मिनट';
+$Definition['Every %s minutes'] = 'हर %s मिनट ';
+$Definition['Every %s second'] = 'हर पल';
+$Definition['Every %s seconds'] = 'हर %s सेकंड';
+$Definition['Every 1 minute'] = 'हर 1 मिनट में';
+$Definition['Every Page'] = 'हर पेज';
+$Definition['Everything is ok.'] = 'सब कुछ ठीक है.';
+$Definition['Excerpt Length'] = 'अंश लंबाई';
+$Definition['Exclude archived discussions from the discussions list'] = 'चर्चा सूची से संग्रहीत चर्चा को बाहर रखें';
+$Definition['Exclude Categories'] = 'श्रेणियाँ बहिष्कृत करें';
+$Definition['Exclude Default Interests'] = 'डिफ़ॉल्ट ब्याज को बाहर रखें';
+$Definition['Exclude these from the source'] = 'इन्हें स्रोत से बाहर रखें';
+$Definition['Existing members send invitations to new members.'] = 'मौजूदा सदस्य नए सदस्यों को निमंत्रण भेजते हैं।';
+$Definition['Exit'] = 'बाहर निकलें  ';
+$Definition['Exit Preview'] = 'पूर्वावलोकन से बाहर निकलें';
+$Definition['Expand'] = 'बढ़ाना';
+$Definition['Export'] = 'निर्यात';
+$Definition['External Search'] = 'बाहरी खोज';
+$Definition['External search replaces Vanilla’s out of the box search with a third party search provider of your choice.'] = 'बाहरी खोज वेनिला की आउट-ऑफ़-द-बॉक्स खोज को आपकी पसंद के तीसरे पक्ष के खोज प्रदाता से बदल देती है।';
 
-$Definition["Facebook Connector"] = "Facebook कनेक्टर";
-$Definition["Facebook Settings"] = "फेसबुक सेटिंग्स";
-$Definition["Failure"] = "विफलता";
-$Definition["Fallback Image"] = "फ़ॉलबैक छवि";
-$Definition["False"] = "असत्य";
-$Definition["Favicon"] = "फ़ेविकॉन";
-$Definition["FaviconBrowse"] =
-    "यदि आप इसे बदलना चाहते हैं, तो एक नए फ़ेविकॉन के लिए ब्राउज़ करें:";
-$Definition["FaviconDescription"] =
-    "आपकी साइट का फ़ेविकॉन आपके ब्राउज़र के शीर्षक बार में दिखाई देता है। इसे उचित रूप से घटाया जाएगा।";
-$Definition["Feature is not configured"] = "सुविधा कॉन्फ़िगर नहीं की गई है";
-$Definition["Featured"] = "प्रदर्शित";
-$Definition["Featured Image"] = "फीचर्ड चित्र";
-$Definition["FileUpload is currently OFF"] = "FileUpload वर्तमान में बंद है";
-$Definition["FileUpload is currently ON"] = "FileUpload अभी जारी है";
-$Definition["Filter"] = "फ़िल्टर";
-$Definition["Filter By"] = "फिल्टर के द्वारा";
-$Definition["Filter Results"] = "परिणाम फ़िल्टर करें";
-$Definition["Finished"] = "ख़त्म हुआ";
-$Definition["Fingerprint"] = "अंगुली की छाप";
-$Definition["First Visit"] = "पहली विज़िट";
-$Definition["Flagged By"] = "फ़्लैग किया गया";
-$Definition["Flagged Content"] = "फ़्लैग की गई सामग्री";
-$Definition["Flood Control"] = "बाढ़ नियंत्रण";
-$Definition["Forbidden words"] = "वर्जित शब्द";
-$Definition["Follow Up Delay"] = "देरी का पालन करें";
-$Definition[
-    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
-] =
-    "उदाहरण के लिए, yourdomain.com, www.yourdomain.com, और help.yourdomain.com को अनुमति देने के लिए, आपको *.yourdomain.com जोड़ना होगा";
-$Definition["Force the forum to only be accessible through this url"] =
-    "इस url के ज़रिये फ़ोरम को सिर्फ़ एक्सेस करने के लिए बाध्य करें";
-$Definition["Force your forum to be viewed through the Remote Url"] =
-    "अपने फोरम को दूरस्थ Url के माध्यम से देखने के लिए बाध्य करें";
-$Definition["Formats"] = "प्रारूप";
-$Definition["Footer"] = "फ़ुटर";
-$Definition["Forum Data"] = "फ़ोरम डेटा";
-$Definition["Forum Settings"] = "फोरम सेंटिग्स";
-$Definition["Frequency"] = "आवृत्ति";
-$Definition["Friendly and Personal"] = "दोस्ताना और व्यक्तिगत";
-$Definition["From Email Address"] = "ईमेल पते से";
-$Definition["From Name"] = "नाम से";
-$Definition["Full post in email notifications"] =
-    "ईमेल नोटिफिकेशन में पूरी पोस्ट";
+$Definition['Facebook Connector'] = 'Facebook कनेक्टर';
+$Definition['Facebook Settings'] = 'फेसबुक सेटिंग्स';
+$Definition['Failed to authenticate your password reset request. Try using the reset request form again.'] = 'आपके पासवर्ड रीसेट अनुरोध को प्रमाणित करने में विफल रहा. रीसेट अनुरोध फ़ॉर्म का पुनः उपयोग करके देखें.';
+$Definition['Failed to disable the rule'] = 'नियम अक्षम करने में विफल';
+$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'पूर्वावलोकन डेटा लोड करने में विफल। कृपया अपने ट्रिगर और कार्रवाई मान जांचें।';
+$Definition['Failure'] = 'विफलता';
+$Definition['Fallback Image'] = 'फ़ॉलबैक छवि';
+$Definition['False'] = 'असत्य';
+$Definition['Favicon'] = 'फ़ेविकॉन';
+$Definition['FaviconBrowse'] = 'यदि आप इसे बदलना चाहते हैं, तो एक नए फ़ेविकॉन के लिए ब्राउज़ करें:';
+$Definition['FaviconDescription'] = 'आपकी साइट का फ़ेविकॉन आपके ब्राउज़र के शीर्षक बार में दिखाई देता है। इसे उचित रूप से घटाया जाएगा।';
+$Definition['Featured'] = 'प्रदर्शित';
+$Definition['Featured Image'] = 'फीचर्ड चित्र';
+$Definition['Feature is not configured'] = 'सुविधा कॉन्फ़िगर नहीं की गई है';
+$Definition['FileUpload is currently OFF'] = 'FileUpload वर्तमान में बंद है';
+$Definition['FileUpload is currently ON'] = 'FileUpload अभी जारी है';
+$Definition['Filter'] = 'फ़िल्टर';
+$Definition['Filter By'] = 'फिल्टर के द्वारा';
+$Definition['Filter Results'] = 'परिणाम फ़िल्टर करें';
+$Definition['Fingerprint'] = 'अंगुली की छाप';
+$Definition['Finished'] = 'ख़त्म हुआ';
+$Definition['First Visit'] = 'पहली विज़िट';
+$Definition['Flagged By'] = 'फ़्लैग किया गया';
+$Definition['Flagged Content'] = 'फ़्लैग की गई सामग्री';
+$Definition['Flood Control'] = 'बाढ़ नियंत्रण';
+$Definition['Follow categories:'] = 'श्रेणियाँ का पालन करें:';
+$Definition['Follow category'] = 'श्रेणी का अनुसरण करें';
+$Definition['Follow Up Delay'] = 'देरी का पालन करें';
+$Definition['Footer'] = 'फ़ुटर';
+$Definition['for'] = 'के लिए';
+$Definition['Forbidden words'] = 'वर्जित शब्द';
+$Definition['Force the forum to only be accessible through this url'] = 'इस url के ज़रिये फ़ोरम को सिर्फ़ एक्सेस करने के लिए बाध्य करें';
+$Definition['Force your forum to be viewed through the Remote Url'] = 'अपने फोरम को दूरस्थ Url के माध्यम से देखने के लिए बाध्य करें';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'उदाहरण के लिए, yourdomain.com, www.yourdomain.com, और help.yourdomain.com को अनुमति देने के लिए, आपको *.yourdomain.com जोड़ना होगा';
+$Definition['Formats'] = 'प्रारूप';
+$Definition['Formatting Posts'] = 'पोस्ट को फ़ॉर्मेट कर रहे हैं';
+$Definition['Forum Data'] = 'फ़ोरम डेटा';
+$Definition['Forum Settings'] = 'फोरम सेंटिग्स';
+$Definition['Frequency'] = 'आवृत्ति';
+$Definition['Friendly and Personal'] = 'दोस्ताना और व्यक्तिगत';
+$Definition['From Email Address'] = 'ईमेल पते से';
+$Definition['From Name'] = 'नाम से';
+$Definition['Full post in email notifications'] = 'ईमेल नोटिफिकेशन में पूरी पोस्ट';
 
-$Definition["Garden"] = "उद्यान";
-$Definition["Garden.api.ssoIDPermission.description"] =
-    "इस अनुमति से संबंध रखने वाले कार्य, API v2 कॉल में SSO ID का विस्तार करने में सक्षम होंगे।";
-$Definition["Gave badge to users."] = "उपयोगकर्ताओं को बैज दिये।";
-$Definition["Generate"] = "जेनेरेट करें";
-$Definition["Generate Client ID and Secret"] = "ग्राहक  ID और गुप्तता जनरेट करें";
-$Definition["Generate import SQL only"] = "केवल इम्पोर्ट SQL को उत्पन्न करें";
-$Definition[
-    "Generating Suggestions. You will be notified when they are ready for you to review."
-] =
-    "सुझाव तैयार करना। जब वे आपकी समीक्षा के लिए तैयार होंगे तो आपको सूचित कर दिया जाएगा।";
-$Definition["Get More Applications"] = "अधिक आवेदन प्राप्त करें";
-$Definition["Get More Plugins"] = "अधिक प्लगइन्स प्राप्त करें";
-$Definition["Get More Themes"] = "और अधिक थीमें प्राप्त करें";
-$Definition["Getting Started"] = "शुरू करना";
-$Definition["Getting Started with Vanilla"] = "वेनिला के साथ शुरुआत";
-$Definition["give"] = "दें";
-$Definition["Give a Badge"] = "एक बैज दें";
-$Definition["Given Indexes"] = "दिये गए इंडेक्स";
-$Definition[
-    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
-] =
-    "नमस्कार। मैं आपका AI सुझाव सहायक हूँ, जो आपके प्रश्नों के उत्तर देने के लिए प्रासंगिक लेख और पोस्ट खोजने में आपकी सहायता करने के लिए यहाँ हूँ। कृपया अपने मन में कोई भी प्रश्न पूछने के लिए स्वतंत्र महसूस करें।";
-$Definition["guest"] = "मेहमान";
-$Definition["Guest roles"] =
-    "सभी भूमिकाओं की जांच करें जो मेहमानों पर लागू होनी चाहिए।";
+$Definition['Garden'] = 'उद्यान';
+$Definition['Garden.api.ssoIDPermission.description'] = 'इस अनुमति से संबंध रखने वाले कार्य, API v2 कॉल में SSO ID का विस्तार करने में सक्षम होंगे।';
+$Definition['Gave badge to users.'] = 'उपयोगकर्ताओं को बैज दिये।';
+$Definition['Generate'] = 'जेनेरेट करें';
+$Definition['Generate Client ID and Secret'] = 'ग्राहक  ID और गुप्तता जनरेट करें';
+$Definition['Generate import SQL only'] = 'केवल इम्पोर्ट SQL को उत्पन्न करें';
+$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'सुझाव तैयार करना। जब वे आपकी समीक्षा के लिए तैयार होंगे तो आपको सूचित कर दिया जाएगा।';
+$Definition['Get More Applications'] = 'अधिक आवेदन प्राप्त करें';
+$Definition['Get More Plugins'] = 'अधिक प्लगइन्स प्राप्त करें';
+$Definition['Get More Themes'] = 'और अधिक थीमें प्राप्त करें';
+$Definition['Getting Started'] = 'शुरू करना';
+$Definition['Getting Started with Vanilla'] = 'वेनिला के साथ शुरुआत';
+$Definition['give'] = 'दें';
+$Definition['Give a Badge'] = 'एक बैज दें';
+$Definition['Given Indexes'] = 'दिये गए इंडेक्स';
+$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'नमस्कार। मैं आपका AI सुझाव सहायक हूँ, जो आपके प्रश्नों के उत्तर देने के लिए प्रासंगिक लेख और पोस्ट खोजने में आपकी सहायता करने के लिए यहाँ हूँ। कृपया अपने मन में कोई भी प्रश्न पूछने के लिए स्वतंत्र महसूस करें।';
+$Definition['guest'] = 'मेहमान';
+$Definition['Guest roles'] = 'सभी भूमिकाओं की जांच करें जो मेहमानों पर लागू होनी चाहिए।';
+$Definition['Guide Article Pages'] = 'गाइड लेख पृष्ठ';
 
-$Definition["Hash Algorithm"] = "हैश अल्गोरिथम";
-$Definition["HeadlineFormat.AddUser"] =
-    "{ActivityUserID,user} added an account for {RegardingUserID,user}।";
-$Definition["HeadlineFormat.PictureChange"] =
-    "{RegardingUserID,You} ने {ActivityUserID,your}प्रोफ़ाइल तस्वीर बदल दिया।";
-$Definition["HeadlineFormat.RegistrationApproval"] =
-    "{ActivityUserID,user} ने {RegardingUserID,user} के लिए आवेदन स्वीकृत किए।";
-$Definition["HeadlineFormat.Status"] = "{ActivityUserID,user}";
-$Definition["HeadlineFormat.WallPost"] =
-    "{RegardingUserID,you} → {ActivityUserID,you}";
-$Definition["Heads up!"] = "सचेत!";
-$Definition["Heads Up!"] = "सचेत!";
-$Definition["Header"] = "हेडर";
-$Definition["Height"] = "ऊँचाई";
-$Definition[
-    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
-] =
-    "नमस्ते! मैं आपका AI सुझाव सहायक हूँ, जो आपके सवालों के जवाब देने के लिए सबसे अच्छे लेख और पोस्ट खोजने में आपकी मदद करने के लिए यहाँ हूँ। बेझिझक कुछ भी पूछें, मैं आपकी खोज को मज़ेदार और जानकारीपूर्ण बनाने के लिए यहाँ हूँ!";
-$Definition["Help &amp; Tutorials"] = "मदद & ट्यूटोरियल्स";
+$Definition['has been unanswered'] = 'अनुत्तरित रहा';
+$Definition['Hash Algorithm'] = 'हैश अल्गोरिथम';
+$Definition['has not received any comments'] = 'कोई टिप्पणी नहीं मिली';
+$Definition['Header'] = 'हेडर';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}।';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} ने {ActivityUserID,your}प्रोफ़ाइल तस्वीर बदल दिया।';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} ने {RegardingUserID,user} के लिए आवेदन स्वीकृत किए।';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
+$Definition['Heads Up!'] = 'सचेत!';
+$Definition['Heads up!'] = 'सचेत!';
+$Definition['Height'] = 'ऊँचाई';
+$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = 'नमस्ते! मैं आपका AI सुझाव सहायक हूँ, जो आपके सवालों के जवाब देने के लिए सबसे अच्छे लेख और पोस्ट खोजने में आपकी मदद करने के लिए यहाँ हूँ। बेझिझक कुछ भी पूछें, मैं आपकी खोज को मज़ेदार और जानकारीपूर्ण बनाने के लिए यहाँ हूँ!';
+$Definition['Help &amp; Tutorials'] = 'मदद & ट्यूटोरियल्स';
+$Definition['Help Center Article Pages'] = 'सहायता केंद्र लेख पृष्ठ';
+$Definition['Help Center Category Pages'] = 'सहायता केंद्र श्रेणी पृष्ठ';
+$Definition['Help Center Home Pages'] = 'सहायता केंद्र होम पेज';
 $Definition['Here\'s how to get started:'] = 'यहाँ बताया गया है कि शुरुआत कैसे करें:';
-$Definition["Hidden for everything!"] = "सभी के लिए अदृष्ट!";
-$Definition["Hidden for mobile"] = "मोबाइल के लिए  अदृष्ट है ";
-$Definition["Hide discussions from Recent Discussions and Widgets."] =
-    "हाल की चर्चाओं और विजेट्स से चर्चाओं को छिपाएं।";
-$Definition["Hide posts from Recent Posts Page and Widgets."] =
-    "हाल के पोस्ट पृष्ठ और विजेट से पोस्ट छिपाएं।";
-$Definition["Hide Pocket Locations"] = "पॉकेट स्थान छिपाएँ";
-$Definition["Hide signatures for guests"] = "मेहमानों के लिए हस्ताक्षर छिपाएँ";
-$Definition["Hide signatures on embedded comments"] =
-    "एम्बेडेड कमेंट्स पर सिग्नेचर छिपाएं";
-$Definition["Hide Suggestions"] = "सुझाव छिपाएं";
-$Definition["History"] = "इतिहास";
-$Definition["Homepage"] = "मुखपृष्ठ";
-$Definition["Homepage Title"] = "होमपेज शीर्षक";
-$Definition["How the content is going to be filtered."] =
-    "सामग्री को कैसे फ़िल्टर किया जाएगा.";
-$Definition["How to use themes"] = "थीम का उपयोग कैसे करें";
-$Definition[
-    "However, this comes with increased responsibility to ensure the security of your site."
-] =
-    "हालाँकि, यह आपकी साइट की सुरक्षा सुनिश्चित करने की बढ़ी हुई ज़िम्मेदारी के साथ आता है।";
-$Definition["Html"] = "HTML";
-$Definition["HTML Emails"] = "HTML ई-मेल्स";
-$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
-    "HTTP सख्त परिवहन सुरक्षा (HSTS) सेटिंग्स";
-$Definition["Hot (score + activity)"] = "हॉट (स्कोर + गतिविधि)";
+$Definition['Hidden for everything!'] = 'सभी के लिए अदृष्ट!';
+$Definition['Hidden for mobile'] = 'मोबाइल के लिए  अदृष्ट है ';
+$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'हाल की चर्चाओं और विजेट्स से चर्चाओं को छिपाएं।';
+$Definition['Hide Pocket Locations'] = 'पॉकेट स्थान छिपाएँ';
+$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'हाल के पोस्ट पृष्ठ और विजेट से पोस्ट छिपाएं।';
+$Definition['Hide signatures for guests'] = 'मेहमानों के लिए हस्ताक्षर छिपाएँ';
+$Definition['Hide signatures on embedded comments'] = 'एम्बेडेड कमेंट्स पर सिग्नेचर छिपाएं';
+$Definition['Hide Suggestions'] = 'सुझाव छिपाएं';
+$Definition['History'] = 'इतिहास';
+$Definition['Home Layout Settings'] = 'होम लेआउट सेटिंग्स';
+$Definition['Home Layout Version'] = 'होम लेआउट संस्करण';
+$Definition['Homepage'] = 'मुखपृष्ठ';
+$Definition['Home Pages'] = 'होम पेजेस';
+$Definition['Homepage Title'] = 'होमपेज शीर्षक';
+$Definition['Homepage titles can only be between 1 and 500 characters'] = 'होमपेज शीर्षक केवल 1 से 500 अक्षरों के बीच हो सकते हैं';
+$Definition['Hot (score + activity)'] = 'हॉट (स्कोर + गतिविधि)';
+$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'हालाँकि, यह आपकी साइट की सुरक्षा सुनिश्चित करने की बढ़ी हुई ज़िम्मेदारी के साथ आता है।';
+$Definition['How the content is going to be filtered.'] = 'सामग्री को कैसे फ़िल्टर किया जाएगा.';
+$Definition['How to use themes'] = 'थीम का उपयोग कैसे करें';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'HTML ई-मेल्स';
+$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'HTTP सख्त परिवहन सुरक्षा (HSTS) सेटिंग्स';
 
-$Definition[
-    "If enabled, the full content of posts will be sent in email notifications to users."
-] =
-    "सक्षम होने पर, पोस्ट की पूरी सामग्री उपयोगकर्ताओं को ईमेल सूचनाओं में भेजी जाएगी।";
-$Definition["If left empty, Email Logo is used."] =
-    "यदि खाली छोड़ दिया जाए तो ईमेल लोगो का उपयोग किया जाता है।";
-$Definition[
-    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
-] =
-    "यदि आपके पास ऊपर 'उपयोग की शर्तों से लिंक' में आंतरिक दस्तावेज़ का लिंक है, तो 'उपयोग की शर्तों का पाठ' अनदेखा कर दिया जाएगा। यदि आप इस पाठ का उपयोग करना चाहते हैं तो लिंक हटा दें।";
-$Definition["Inbox Page"] = "इनबॉक्स पृष्ठ";
-$Definition["Include Child Categories"] = "बाल श्रेणियां शामिल करें";
-$Definition["Include full post in email notifications"] =
-    "ईमेल सूचना में पूरी पोस्ट शामिल करें";
-$Definition["Include Featured Images"] = "चुनिंदा छवियाँ शामिल करें";
-$Definition["Include featured images with posts in email digest"] =
-    "ईमेल डाइजेस्ट में पोस्ट के साथ चुनिंदा चित्र शामिल करें";
-$Definition["Include internal profile fields"] =
-    "आंतरिक प्रोफ़ाइल फ़ील्ड शामिल करें";
-$Definition["Include private profile fields"] =
-    "निजी प्रोफ़ाइल फ़ील्ड शामिल करें";
-$Definition["Include Subcategories"] = "उपश्रेणियाँ शामिल करें";
-$Definition["Include Subdomains"] = "उप डोमेन शामिल करें";
-$Definition["Increased Security Risks:"] = "सुरक्षा जोखिम में वृद्धि:";
-$Definition["Indexes"] = " विषय सूचियाँ ";
-$Definition["Information"] = "सूचना";
-$Definition["Install Vanilla without a .htaccess file."] =
-    ".Htaccess फ़ाइल के बिना वेनिला स्थापित करें।";
-$Definition["Integrate Banner Image"] = "बैनर इमेज को इंटीग्रेट करें";
-$Definition["Interest Name"] = "रुचि का नाम";
-$Definition["Interests & Suggested Content"] = "रुचियां और सुझाई गई सामग्री";
-$Definition["Intermediate"] = "मध्यवर्ती";
-$Definition["Internaltionalization & Localization"] =
-    "अंतर्राष्ट्रीयकरण और लोकलाइज़ेशन";
-$Definition["Introduction"] = "परिचय";
-$Definition["Introducing Vanilla Reactions and Badges"] =
-    "वेनिला रियेक्शंस और बैज का परिचय";
-$Definition["Invalid category for deletion."] =
-    "हटाने के लिए अमान्य श्रेणी.";
-$Definition["Invalid entry."] = "अमान्य प्रविष्टि।";
-$Definition["Invisibility Cloak Settings"] = "अदृश्य क्लॉक सेटिंग्स";
-$Definition["Invitation Code"] = "निमंत्रण कोड";
-$Definition["InvitationMessage"] = 'नमस्ते पाल!
+$Definition['Icon Name'] = 'आइकन का नाम';
+$Definition['Icon Packs'] = 'आइकन पैक';
+$Definition['Icon Size'] = 'आइकन का आकार';
+$Definition['Icon Type'] = 'आइकन प्रकार';
+$Definition['Idea Pages'] = 'विचार पृष्ठ';
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'सक्षम होने पर, पोस्ट की पूरी सामग्री उपयोगकर्ताओं को ईमेल सूचनाओं में भेजी जाएगी।';
+$Definition['If left empty, Email Logo is used.'] = 'यदि खाली छोड़ दिया जाए तो ईमेल लोगो का उपयोग किया जाता है।';
+$Definition['If this option is enabled, replies from the Original Poster will have an OP indicator.'] = 'यदि यह विकल्प सक्षम है, तो मूल पोस्टर के उत्तरों में OP सूचक होगा।';
+$Definition['If you have a link to internal document in \'Link to Terms of Use\' above, \'Terms of Use Text\' will be ignored. Remove the link if you want to use this text.'] = 'यदि आपके पास ऊपर \'उपयोग की शर्तों से लिंक\' में आंतरिक दस्तावेज़ का लिंक है, तो \'उपयोग की शर्तों का पाठ\' अनदेखा कर दिया जाएगा। यदि आप इस पाठ का उपयोग करना चाहते हैं तो लिंक हटा दें।';
+$Definition['Inbox Page'] = 'इनबॉक्स पृष्ठ';
+$Definition['Include Child Categories'] = 'बाल श्रेणियां शामिल करें';
+$Definition['Include Featured Images'] = 'चुनिंदा छवियाँ शामिल करें';
+$Definition['Include featured images with posts in email digest'] = 'ईमेल डाइजेस्ट में पोस्ट के साथ चुनिंदा चित्र शामिल करें';
+$Definition['Include full post in email notifications'] = 'ईमेल सूचना में पूरी पोस्ट शामिल करें';
+$Definition['Include internal profile fields'] = 'आंतरिक प्रोफ़ाइल फ़ील्ड शामिल करें';
+$Definition['Include private profile fields'] = 'निजी प्रोफ़ाइल फ़ील्ड शामिल करें';
+$Definition['Include Subcategories'] = 'उपश्रेणियाँ शामिल करें';
+$Definition['Include Subdomains'] = 'उप डोमेन शामिल करें';
+$Definition['Increased Security Risks:'] = 'सुरक्षा जोखिम में वृद्धि:';
+$Definition['Indexes'] = ' विषय सूचियाँ ';
+$Definition['indicator navigation'] = 'संकेतक नेविगेशन';
+$Definition['Information'] = 'सूचना';
+$Definition['In Jira'] = 'जीरा में';
+$Definition['InputFormatter.Notes1'] = 'समुदाय में पोस्ट के लिए संपादक के डिफ़ॉल्ट प्रारूप का चयन करें.';
+$Definition['InputFormatter.Notes2'] = 'संपादक पुरानी पोस्टों को संपादित करते समय उनके प्रारूप का स्वतः पता लगाएगा और उनके मूल स्वरूपण नियमों को लोड करेगा। इस अपवाद के अतिरिक्त, नीचे चयनित पोस्ट प्रारूप को प्राथमिकता दी जाएगी।';
+$Definition['Install Vanilla without a .htaccess file.'] = '.Htaccess फ़ाइल के बिना वेनिला स्थापित करें।';
+$Definition['Integrate Banner Image'] = 'बैनर इमेज को इंटीग्रेट करें';
+$Definition['Integrations'] = 'एकीकरण';
+$Definition['Interest Name'] = 'रुचि का नाम';
+$Definition['Interests & Suggested Content'] = 'रुचियां और सुझाई गई सामग्री';
+$Definition['Intermediate'] = 'मध्यवर्ती';
+$Definition['Internal Comment'] = 'आंतरिक टिप्पणी';
+$Definition['Internal Comments'] = 'आंतरिक टिप्पणियाँ';
+$Definition['Internaltionalization & Localization'] = 'अंतर्राष्ट्रीयकरण और लोकलाइज़ेशन';
+$Definition['Introducing Vanilla Reactions and Badges'] = 'वेनिला रियेक्शंस और बैज का परिचय';
+$Definition['Introduction'] = 'परिचय';
+$Definition['Invalid category for deletion.'] = 'हटाने के लिए अमान्य श्रेणी.';
+$Definition['Invalid entry.'] = 'अमान्य प्रविष्टि।';
+$Definition['Invisibility Cloak Settings'] = 'अदृश्य क्लॉक सेटिंग्स';
+$Definition['Invitation Code'] = 'निमंत्रण कोड';
+$Definition['InvitationMessage'] = 'नमस्ते पाल!
 
 मेरे द्वारा अभी स्थापित किए गए नए कम्युनिटी फोरम को देखो। यह हमारे लिए एक दूसरे के साथ ऑनलाइन चैट करने के लिए एक शानदार जगह है।
 
 लॉग इन करने के लिए नीचे दिए गए लिंक पर जाएँ।';
-$Definition["Invitations per month"] = "निमंत्रण प्रति माह";
-$Definition["Invitations will expire"] = "निमंत्रण समाप्त हो जाएँगें";
-$Definition["Invited by"] = "द्वारा आमंत्रित";
-$Definition["It looks like you edited your post. <0/> or <1/>."] =
-    "ऐसा लगता है कि आपने अपनी पोस्ट संपादित की है. <0/> या <1/>.";
+$Definition['Invitation not found.'] = 'आमंत्रण नहीं मिला.';
+$Definition['Invitations per month'] = 'निमंत्रण प्रति माह';
+$Definition['Invitations will expire'] = 'निमंत्रण समाप्त हो जाएँगें';
+$Definition['Invited by'] = 'द्वारा आमंत्रित';
+$Definition['In Zendesk'] = 'Zendesk में';
+$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'ऐसा लगता है कि आपने अपनी पोस्ट संपादित की है. <0/> या <1/>.';
 
-$Definition["JavaScript"] = "जावास्क्रिप्ट";
-$Definition["jsConnect Client Libraries"] = "jsConnect क्लाइंट लाइब्रेरीज़";
-$Definition["jsConnect Documentation"] = "jsConnect डॉक्यूमेंटेशन";
-$Definition["JS"] = "JS";
+$Definition['JavaScript'] = 'जावास्क्रिप्ट';
+$Definition['jsConnect Client Libraries'] = 'jsConnect क्लाइंट लाइब्रेरीज़';
+$Definition['jsConnect Documentation'] = 'jsConnect डॉक्यूमेंटेशन';
 
-$Definition["Key Type"] = "मुख्य प्रकार ";
-$Definition["Key Value"] = "मौलिक मूल्य";
-$Definition["Keyword Blocker"] = "कीवर्ड ब्लॉकर";
+$Definition['Key Type'] = 'मुख्य प्रकार ';
+$Definition['Key Value'] = 'मौलिक मूल्य';
+$Definition['Keyword Blocker'] = 'कीवर्ड ब्लॉकर';
+$Definition['Knowledge Base Home Pages'] = 'ज्ञानकोष होम पेज';
+$Definition['Knowledge Base Layout Settings'] = 'ज्ञानकोष लेआउट सेटिंग्स';
+$Definition['Knowledge Base Layout Version'] = 'ज्ञान आधार लेआउट संस्करण';
+$Definition['Knowledge Base Pages'] = 'ज्ञान आधार पृष्ठ';
 
-$Definition["Label"] = "लेबल करें";
-$Definition["Label is required"] = "लेबल आवश्यक है";
-$Definition["Label this Revision"] = "इस संशोधन को लेबल करें";
-$Definition["Language Style"] = "भाषा शैली";
-$Definition["Large images will be scaled down."] =
-    "बड़ी छवियों को %spx की अधिकतम चौड़ाई और %spx की अधिकतम ऊँचाई तक घटाया जाएगा।";
-$Definition["Last Visit"] = "पिछली विजि़ट ";
-$Definition["Last Day"] = "आखरी दिन";
-$Definition["Last Week"] = "पिछले सप्ताह";
-$Definition["Last Month"] = "पिछला महीना";
+$Definition['Label'] = 'लेबल करें';
+$Definition['Label is required'] = 'लेबल आवश्यक है';
+$Definition['Label this Revision'] = 'इस संशोधन को लेबल करें';
+$Definition['Language Style'] = 'भाषा शैली';
+$Definition['Large images will be scaled down.'] = 'बड़ी छवियों को %spx की अधिकतम चौड़ाई और %spx की अधिकतम ऊँचाई तक घटाया जाएगा।';
+$Definition['Last Day'] = 'आखरी दिन';
+$Definition['Last Modified'] = 'अंतिम संशोधित';
+$Definition['Last Month'] = 'पिछला महीना';
+$Definition['Last refreshed <0/> by <1/>.'] = 'अंतिम बार <0/> को <1/> द्वारा ताज़ा किया गया.';
+$Definition['Last Reported'] = 'अंतिम रिपोर्ट';
+$Definition['Last reported'] = 'अंतिम रिपोर्ट';
+$Definition['Last Visit'] = 'पिछली विजि़ट ';
+$Definition['Last Week'] = 'पिछले सप्ताह';
 $Definition['Layman\'s Terms'] = 'जटिल पारिभाषिक शब्दों की जगह सामान्य भाषा का प्रयोग';
-$Definition["Layout"] = "लेआउट";
-$Definition["Learn more"] = "और अधिक जानें";
-$Definition["Learn more about HSTS at %s."] = "%s पर HSTS के बारे मे और जानें।";
-$Definition["Legacy Recent Posts Layout"] = "विरासत हाल की पोस्ट लेआउट";
+$Definition['Layout'] = 'लेआउट';
+$Definition['Layout Options'] = 'लेआउट विकल्प';
+$Definition['Layouts'] = 'लेआउट';
+$Definition['Learn more'] = 'और अधिक जानें';
+$Definition['Learn more.'] = 'और अधिक जानें।';
+$Definition['Learn more about HSTS at %s.'] = '%s पर HSTS के बारे मे और जानें।';
+$Definition['Legacy Category Layout'] = 'विरासत श्रेणी लेआउट';
+$Definition['Legacy Category Layouts'] = 'विरासत श्रेणी लेआउट';
+$Definition['Legacy Create Post Layout'] = 'विरासत पोस्ट लेआउट बनाएँ';
+$Definition['Legacy Create Post Layouts'] = 'विरासत पोस्ट लेआउट बनाएँ';
+$Definition['Legacy Event Layout'] = 'विरासत घटना लेआउट';
+$Definition['Legacy Event Layouts'] = 'विरासत घटना लेआउट';
+$Definition['Legacy Home Layouts'] = 'विरासत गृह लेआउट';
+$Definition['Legacy Knowledge Base Layout'] = 'विरासत ज्ञान आधार लेआउट';
+$Definition['Legacy Knowledge Base Layouts'] = 'विरासत ज्ञान आधार लेआउट';
+$Definition['Legacy Layouts enabled'] = 'लीगेसी लेआउट सक्षम';
+$Definition['Legacy Post Layout'] = 'विरासत पोस्ट लेआउट';
+$Definition['Legacy Post Layouts'] = 'विरासत पोस्ट लेआउट';
+$Definition['Legacy Recent Posts Layout'] = 'विरासत हाल की पोस्ट लेआउट';
+$Definition['Legacy Recent Posts Layouts'] = 'विरासत हाल के पोस्ट लेआउट';
+$Definition['Level'] = 'स्तर';
+$Definition['Level of Technical Language'] = 'तकनीकी भाषा का स्तर';
+$Definition['Likes'] = 'को यह पसंद है';
+$Definition['Limit'] = 'आप LIMIT';
+$Definition['Limits: 60 characters, no breaks.'] = 'सीमाएँ: 60 अक्षर, कोई विराम नहीं।';
+$Definition['Limit the pocket to one or more roles or permissions.'] = 'पॉकेट को एक या अधिक भूमिकाओं या अनुमतियों तक सीमित करें।';
+$Definition['Link Color'] = 'लिंक रंग';
+$Definition['List of discussion IDs to delete.'] = 'हटाए जाने वाले चर्चा आईडी की सूची.';
+$Definition['Live'] = 'रहना';
+$Definition['Live Post'] = 'लाइव पोस्ट';
+$Definition['Loader'] = 'लोडर';
+$Definition['Locale Key (Folder)'] = 'लोकेल कुंजी (फ़ोल्डर)';
+$Definition['Locale Name'] = 'लोकेल नाम';
+$Definition['Locales'] = 'लोकेल';
+$Definition['Location'] = 'स्थान';
+$Definition['Locations'] = 'स्थान';
+$Definition['Logo'] = 'लोगो';
+$Definition['LogoBrowse'] = 'यदि आप इसे बदलना चाहते हैं तो एक नए बैनर लोगो के लिए ब्राउज़ करें:';
 
-$Definition["Level"] = "स्तर";
-$Definition["Level of Technical Language"] = "तकनीकी भाषा का स्तर";
-$Definition["Limits: 60 characters, no breaks."] =
-    "सीमाएँ: 60 अक्षर, कोई विराम नहीं।";
-$Definition["Link Color"] = "लिंक रंग";
-$Definition["Likes"] = "को यह पसंद है";
-$Definition["Limit the pocket to one or more roles or permissions."] =
-    "पॉकेट को एक या अधिक भूमिकाओं या अनुमतियों तक सीमित करें।";
-$Definition["Limit"] = "आप LIMIT";
-$Definition["List of discussion IDs to delete."] =
-    "हटाए जाने वाले चर्चा आईडी की सूची.";
-$Definition["Locale Key (Folder)"] = "लोकेल कुंजी (फ़ोल्डर)";
-$Definition["Locale Name"] = "लोकेल नाम";
-$Definition["Locales"] = "लोकेल";
-$Definition["Location"] = "स्थान";
-$Definition["Locations"] = "स्थान";
-$Definition["Logo"] = "लोगो";
-$Definition["LogoBrowse"] =
-    "यदि आप इसे बदलना चाहते हैं तो एक नए बैनर लोगो के लिए ब्राउज़ करें:";
+$Definition['Maintenance Mode'] = 'रखरखाव मोड';
+$Definition['Make sure you select at least one item before continuing.'] = 'सुनिश्चित करें कि आप जारी रखने से पहले कम से कम एक आइटम का चयन करें।';
+$Definition['Manage'] = 'प्रबंधित';
+$Definition['Manage Applicants'] = 'आवेदकों को प्रबंधित करें';
+$Definition['Manage Applications'] = 'एप्लिकेशन प्रबंधन';
+$Definition['Manage Badge Requests'] = 'बैज अनुरोध को प्रबंधित करें';
+$Definition['Manage Badges'] = 'बैज प्रबंधित करें';
+$Definition['Manage Categories'] = 'श्रेणियाँ प्रबंधित करें';
+$Definition['Manage Groups'] = 'समूह प्रबंधित करें';
+$Definition['Manage Icon'] = 'प्रबंधित करें चिह्न';
+$Definition['Manage Icon helptext'] = 'आप यहां सिस्टम और ऐतिहासिक आइकन प्रबंधित कर सकते हैं। अपलोड करते समय, सुनिश्चित करें कि आइकन SVG प्रारूप में है, इसमें viewBox विशेषता शामिल है, और यह सुनिश्चित करने के लिए रंग #000000 का उपयोग करता है कि इसे थीम सेटिंग और उपयोगकर्ता इंटरैक्शन के आधार पर गतिशील रूप से रंगीन किया जा सकता है। प्रत्येक प्रकार का केवल एक आइकन एक समय में सक्रिय हो सकता है।';
+$Definition['Manage Icons'] = 'आइकन प्रबंधित करें';
+$Definition['Manage Messages'] = 'संदेश प्रबंधित करें';
+$Definition['Manage Plugins'] = 'प्लगइन प्रबंधित करें';
+$Definition['Manage Roles & Permissions'] = 'भूमिकाएँ और अनुमतियाँ प्रबंधित करें';
+$Definition['Manage Spam'] = 'स्पैम प्रबंधित करें';
+$Definition['Manage Suggested Answer Sources'] = 'सुझाए गए उत्तर स्रोतों का प्रबंधन करें';
+$Definition['Manage Themes'] = 'थीम मैनेज करें';
+$Definition['Manage Users'] = 'उपयोगकर्ताओं को प्रबंधित करें';
+$Definition['Managing Categories'] = 'कैटेगरी प्रबंध';
+$Definition['Manual'] = 'नियमावली';
+$Definition['Mark All Suggested Answers as Accepted'] = 'सभी सुझाए गए उत्तरों को स्वीकृत के रूप में चिह्नित करें';
+$Definition['Max %s length'] = 'अधिकतम %s लंबाई';
+$Definition['Max Age'] = 'अधिकतम उम्र';
+$Definition['Max Avatar Height'] = 'अवतार की अधिकतम ऊँचाई';
+$Definition['Max Avatar Width'] = 'अवतार की अधिकतम चौड़ाई';
+$Definition['Max Comment Length'] = 'टिप्पणी की अधिकतम लंबाई';
+$Definition['Max height of %s'] = '%s की अधिकतम ऊंचाई';
+$Definition['Max height of %s in pixels'] = 'पिक्सल में %s की अधिकतम ऊँचाई';
+$Definition['Maximum Category Display Depth'] = 'अधिकतम श्रेणी प्रदर्शन गहनता';
+$Definition['Maximum Limit Reached'] = 'अधिकतम सीमा तक पहुँच गया';
+$Definition['Maximum number of posts to be included in the email digest.'] = 'ईमेल डाइजेस्ट में शामिल की जाने वाली पोस्ट की अधिकतम संख्या.';
+$Definition['Max number of %s'] = '%s की अधिकतम संख्या';
+$Definition['Max number of images in signature'] = 'सिग्नेचर में इमेज की अधिकतम संख्या';
+$Definition['Max Post Length'] = 'पोस्ट की अधिकतम लम्बाई';
+$Definition['Max signature length'] = 'सिग्नेचर की अधिकतम लम्बाई';
+$Definition['member'] = 'सदस्य';
+$Definition['Member roles'] = 'उन सभी भूमिकाओं का चयन करें जिन्हें नए/स्वीकृत यूजर्स पर लागू किया जाना चाहिए।
+';
+$Definition['Membership'] = 'सदस्यता';
+$Definition['Message'] = 'संदेश';
+$Definition['Message ID'] = 'संदेश ID';
+$Definition['Message Post Author'] = 'संदेश पोस्ट लेखक';
+$Definition['Messages'] = 'संदेश';
+$Definition['Meta Options'] = 'मेटा विकल्प';
+$Definition['Meta Tags'] = 'मेटा टैग';
+$Definition['Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line.'] = 'मेटा टैग का उपयोग Google सर्च कंसोल और अन्य सेवाओं के लिए डोमेन सत्यापन के लिए किया जाता है। अपने स्रोत से आवश्यक मेटा टैग कॉपी करें और एक नई लाइन पर पेस्ट करें।';
+$Definition['Method'] = 'तरीका';
+$Definition['Min Post Length'] = 'पोस्ट की न्यूनतम लम्बाई';
+$Definition['minute(s)'] = 'मिनट ';
+$Definition['Mixed Layout'] = 'मिश्रित लेआउट';
+$Definition['Mobile Address Bar Color'] = 'मोबाइल पता बार कलर';
+$Definition['Mobile Banner Logo'] = 'मोबाइल बैनर लोगो';
+$Definition['Mobile Format'] = 'मोबाइल फॉर्मेट ';
+$Definition['MobileInputFormatter.Notes1'] = 'मोबाइल डिवाइस के लिए एक संपादन प्रारूप निर्दिष्ट करें।';
+$Definition['MobileInputFormatter.Notes2'] = 'यदि मोबाइल डिवाइसों में समान अनुभव होना चाहिए, तो ऊपर जैसा ही उल्लिखित करें। यदि उपयोगकर्ता मोबाइल संपादन में समस्याओं की रिपोर्ट करते हैं, तो यह बदलने का एक अच्छा विकल्प है।';
+$Definition['Mobile Logo'] = 'मोबाइल लोगो';
+$Definition['Mobile Themes'] = 'मोबाइल थीम्स';
+$Definition['Moderation Content'] = 'मॉडरेशन सामग्री';
+$Definition['moderator'] = 'मॉडरेटर';
+$Definition['Moderators have permission to edit most content.'] = 'मध्यस्थों के पास अधिकांश सामग्री को संपादित करने की अनुमति है।';
+$Definition['Modern Layout'] = 'आधुनिक लेआउट';
+$Definition['Modern non-table-based layout'] = 'आधुनिक बिना-टेबल-आधारित लेआउट';
+$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'अधिक जटिल भाषा और कुछ उद्योग-विशिष्ट शब्द शामिल हो सकते हैं, लेकिन फिर भी अधिकांश लोगों के लिए समझने योग्य है।';
+$Definition['More information'] = 'और भी जानकारी';
+$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'अधिक तकनीकी भाषा और उद्योग-विशिष्ट शब्द - विषय-वस्तु के साथ उच्च स्तर की समझ/परिचितता की अपेक्षा रखते हैं।';
+$Definition['more than %s deep'] = '%s से ज्यादा गहरा है';
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'अधिकांश पॉकेट को डैशबोर्ड में प्रदर्शित नहीं किया जाना चाहिए।';
+$Definition['Move discussions in this category to a replacement category.'] = 'इस श्रेणी में चर्चाओं को प्रतिस्थापन श्रेणी में ले जाएँ.';
+$Definition['Move post'] = 'पोस्ट ले जाएँ';
+$Definition['Move to category:'] = 'श्रेणी पर जाएँ:';
+$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'यदि उपयोगकर्ता किसी भी मानदंड को पूरा करता है तो बहु-चयन फ़ील्ड सक्रिय हो जाएंगे।';
+$Definition['My Invitations'] = 'मेरा निमंत्रण';
+$Definition['My Profile'] = 'मेरी प्रोफाइल';
 
-$Definition["Maintenance Mode"] = "रखरखाव मोड";
-$Definition["Make sure you select at least one item before continuing."] =
-    "सुनिश्चित करें कि आप जारी रखने से पहले कम से कम एक आइटम का चयन करें।";
-$Definition["Add your site to trusted domains."] =
-    "सुनिश्चित करें कि एम्बेडिंग सक्षम होने पर आपकी साइट को %s मे शामिल किया गया है।";
-$Definition["Manage"] = "प्रबंधित";
-$Definition["Manage Applicants"] = "आवेदकों को प्रबंधित करें";
-$Definition["Manage Applications"] = "एप्लिकेशन प्रबंधन";
-$Definition["Manage Badges"] = "बैज प्रबंधित करें";
-$Definition["Manage Badge Requests"] = "बैज अनुरोध को प्रबंधित करें";
-$Definition["Manage Categories"] = "श्रेणियाँ प्रबंधित करें";
-$Definition["Manage Groups"] = "समूह प्रबंधित करें";
-$Definition["Manage Messages"] = "संदेश प्रबंधित करें";
-$Definition["Manage Plugins"] = "प्लगइन प्रबंधित करें";
-$Definition["Manage Roles & Permissions"] = "भूमिकाएँ और अनुमतियाँ प्रबंधित करें";
-$Definition["Manage Suggested Answer Sources"] =
-    "सुझाए गए उत्तर स्रोतों का प्रबंधन करें";
-$Definition["Manage Spam"] = "स्पैम प्रबंधित करें";
-$Definition["Manage Themes"] = "थीम मैनेज करें";
-$Definition["Manage Users"] = "उपयोगकर्ताओं को प्रबंधित करें";
-$Definition["Managing Categories"] = "कैटेगरी प्रबंध";
-$Definition["Manual"] = "नियमावली";
-$Definition["Mark All Suggested Answers as Accepted"] =
-    "सभी सुझाए गए उत्तरों को स्वीकृत के रूप में चिह्नित करें";
-$Definition["Max %s length"] = "अधिकतम %s लंबाई";
-$Definition["Max Age"] = "अधिकतम उम्र";
-$Definition["Max Avatar Height"] = "अवतार की अधिकतम ऊँचाई";
-$Definition["Max Avatar Width"] = "अवतार की अधिकतम चौड़ाई";
-$Definition["Max Comment Length"] = "टिप्पणी की अधिकतम लंबाई";
-$Definition["Max height of %s"] = "%s की अधिकतम ऊंचाई";
-$Definition["Max height of %s in pixels"] = "पिक्सल में %s की अधिकतम ऊँचाई";
-$Definition["Maximum Category Display Depth"] =
-    "अधिकतम श्रेणी प्रदर्शन गहनता";
-$Definition["Max number of %s"] = "%s की अधिकतम संख्या";
-$Definition["Max number of images in signature"] =
-    "सिग्नेचर में इमेज की अधिकतम संख्या";
-$Definition["Maximum number of posts to be included in the email digest."] =
-    "ईमेल डाइजेस्ट में शामिल की जाने वाली पोस्ट की अधिकतम संख्या.";
-$Definition["Max Post Length"] = "पोस्ट की अधिकतम लम्बाई";
-$Definition["Max signature length"] = "सिग्नेचर की अधिकतम लम्बाई";
-$Definition["member"] = "सदस्य";
-$Definition["Member roles"] =
-    "उन सभी भूमिकाओं का चयन करें जिन्हें नए/स्वीकृत यूजर्स पर लागू किया जाना चाहिए।
-";
-$Definition["Membership"] = "सदस्यता";
-$Definition["Message"] = "संदेश";
-$Definition["Message ID"] = "संदेश ID";
-$Definition["Messages"] = "संदेश";
-$Definition["Meta Options"] = "मेटा विकल्प";
-$Definition["Method"] = "तरीका";
-$Definition["Min Post Length"] = "पोस्ट की न्यूनतम लम्बाई";
-$Definition["minute(s)"] = "मिनट ";
-$Definition["Mixed Layout"] = "मिश्रित लेआउट";
-$Definition["Mobile Address Bar Color"] = "मोबाइल पता बार कलर";
-$Definition["Mobile Banner Logo"] = "मोबाइल बैनर लोगो";
-$Definition["Mobile Themes"] = "मोबाइल थीम्स";
-$Definition["moderator"] = "मॉडरेटर";
-$Definition["Moderators have permission to edit most content."] =
-    "मध्यस्थों के पास अधिकांश सामग्री को संपादित करने की अनुमति है।";
-$Definition["Modern Layout"] = "आधुनिक लेआउट";
-$Definition["Modern non-table-based layout"] = "आधुनिक बिना-टेबल-आधारित लेआउट";
-$Definition[
-    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
-] =
-    "अधिक जटिल भाषा और कुछ उद्योग-विशिष्ट शब्द शामिल हो सकते हैं, लेकिन फिर भी अधिकांश लोगों के लिए समझने योग्य है।";
-$Definition["More information"] = "और भी जानकारी";
-$Definition[
-    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
-] =
-    "अधिक तकनीकी भाषा और उद्योग-विशिष्ट शब्द - विषय-वस्तु के साथ उच्च स्तर की समझ/परिचितता की अपेक्षा रखते हैं।";
-$Definition["more than %s deep"] = "%s से ज्यादा गहरा है";
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
-    'अधिकांश पॉकेट को डैशबोर्ड में प्रदर्शित नहीं किया जाना चाहिए।';
-$Definition["Move discussions in this category to a replacement category."] =
-    "इस श्रेणी में चर्चाओं को प्रतिस्थापन श्रेणी में ले जाएँ.";
-$Definition["My Invitations"] = "मेरा निमंत्रण";
+$Definition['Name of Interest'] = 'रुचि का नाम';
+$Definition['Need More Help?'] = 'क्या और मदद चाहिये?';
+$Definition['Nested Category Pages'] = 'नेस्टेड श्रेणी पृष्ठ';
+$Definition['never'] = 'कभी नहीं';
+$Definition['Never - Users Must Refresh Page'] = 'कभी नहीं - उपयोगकर्ता पेज को रिफ्रेश करना चाहिए';
+$Definition['Never display on mobile browsers.'] = 'कभी भी मोबाइल ब्राउज़र पर प्रदर्शित न करें।';
+$Definition['New/Updated Email domain'] = 'नया/अपडेट किया गया ईमेल डोमेन';
+$Definition['New/Updated Profile field'] = 'नया/अपडेट किया गया प्रोफ़ाइल फ़ील्ड';
+$Definition['NewApplicantEmail'] = 'नए आवेदक:';
+$Definition['New comments in the last day'] = 'पिछले दिन की नई टिप्पणियाँ';
+$Definition['New comments in the last week'] = 'पिछले सप्ताह में नई टिप्पणियाँ';
+$Definition['New Community Management System'] = 'नई सामुदायिक प्रबंधन प्रणाली';
+$Definition['New conversations in the last day'] = 'पिछले दिन की नई बातचीत';
+$Definition['New conversations in the last week'] = 'पिछले सप्ताह की नई बातचीत';
+$Definition['New discussions in the last day'] = 'अंतिम दिन की नई चर्चाएँ ';
+$Definition['New discussions in the last week'] = 'अंतिम सप्ताह में नई चर्चा';
+$Definition['Newest Escalation'] = 'नवीनतम वृद्धि';
+$Definition['Newest Post'] = 'नवीनतम पोस्ट';
+$Definition['Newest Report'] = 'नवीनतम रिपोर्ट';
+$Definition['New Icon'] = 'नया आइकन';
+$Definition['New messages in the last day'] = 'अंतिम दिन में नए संदेश';
+$Definition['New messages in the last week'] = 'गत सप्ताह के नए संदेश';
+$Definition['New User Management'] = 'नया उपयोगकर्ता प्रबंधन';
+$Definition['New users are only registered through SSO plugins.'] = 'नए यूज़र्स केवल एसएसओ प्लगइन के माध्यम से ही पंजीकृत हैं.';
+$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'नए उपयोगकर्ताओं की समीक्षा की जाती है और उन्हें एक प्रशासक द्वारा अनुमोदित किया जाता है (जो आप हैं!)।';
+$Definition['New users fill out a simple form and are granted access immediately.'] = 'नए उपयोगकर्ता एक सरल फॉर्म को भरते हैं और उन्हें तुरंत एक्सेस दे दी जाती है.';
+$Definition['New users in the last day'] = 'पिछले दिन के नए उपयोगकर्ता';
+$Definition['New users in the last week'] = 'पिछले सप्ताह में नए उपयोगकर्ता';
+$Definition['Next Slides'] = 'अगली स्लाइड्स';
+$Definition['No Ban Rules Found'] = 'कोई बैन नियम नहीं मिला';
+$Definition['No categories are currently set to require premoderation.'] = 'वर्तमान में किसी भी श्रेणी को पूर्व-संशोधन की आवश्यकता नहीं है।';
+$Definition['No Change'] = 'कोई परिवर्तन नहीं';
+$Definition['No drafts.'] = 'कोई ड्राफ्ट नहीं।';
+$Definition['No further suggestions.'] = 'कोई और सुझाव नहीं.';
+$Definition['No icons match those filters.'] = 'कोई भी आइकन उन फ़िल्टर से मेल नहीं खाता.';
+$Definition['No item options are available for Link display type.'] = 'लिंक प्रदर्शन प्रकार के लिए कोई आइटम विकल्प उपलब्ध नहीं है।';
+$Definition['No Items Selected'] = 'कोई आइटम नहीं चुना गया';
+$Definition['No keywords are currently set to require premoderation.'] = 'वर्तमान में कोई भी कीवर्ड प्रीमॉडरेशन की आवश्यकता के लिए निर्धारित नहीं है।';
+$Definition['No report notes were provided by <0/>'] = '<0/> द्वारा कोई रिपोर्ट नोट उपलब्ध नहीं कराया गया';
+$Definition['No results for %s.'] = '<b>%s</b> के लिए कोई परिणाम नहीं।';
+$Definition['No roles are currently set to require premoderation.'] = 'वर्तमान में किसी भी भूमिका के लिए पूर्व-मॉडरेशन की आवश्यकता नहीं है।';
+$Definition['Not Dismissable'] = 'ख़ारिज करने योग्य नहीं है';
+$Definition['Note:'] = 'नोट: ';
+$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'ध्यान दें: क्रियाएँ उन <0 /> को प्रभावित नहीं करेंगी जिन पर पहले से ही संबंधित क्रिया लागू है।';
+$Definition['Notes'] = 'टिप्पणियाँ';
+$Definition['Note this layout change will not be visible until you switch to custom layouts.'] = 'ध्यान रखें कि यह लेआउट परिवर्तन तब तक दिखाई नहीं देगा जब तक आप कस्टम लेआउट पर स्विच नहीं करते।';
+$Definition['Notifications will appear here.'] = 'सूचनाएं यहां दिखाई देंगी';
+$Definition['NotifyApplicant'] = 'सदस्यता के लिए आवेदन करने पर मुझे सूचित करें।';
+$Definition['Notify me when my questions have AI Suggested Answers'] = 'जब मेरे प्रश्नों के उत्तर AI द्वारा सुझाए गए हों तो मुझे सूचित करें';
+$Definition['Notify me when people comment on a discussion.'] = 'जब लोग चर्चा पर टिप्पणी करते हैं तो मुझे सूचित करें।';
+$Definition['Notify me when people start new discussions.'] = 'जब लोग नई चर्चा शुरू करते हैं तो मुझे सूचित करें।';
+$Definition['Not Spam'] = 'स्पैम नहीं';
+$Definition['Number input must be between'] = 'संख्या इनपुट निम्न के बीच होना चाहिए';
+$Definition['Number input must be between 1 and 100.'] = 'नंबर इनपुट 1 और 100 के बीच होना चाहिए.';
+$Definition['Number of %s listed per page.'] = 'प्रति पेज सूचीबद्ध %s की संख्या।';
+$Definition['Number of blocked registrations'] = 'अवरुद्ध पंजीकरणों की संख्या';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'एक अनुवर्ती ईमेल से पहले दिनों की संख्या स्वचालित रूप से भेजी जाती है।';
+$Definition['Number of days since registration to bypass Cloudflare challenge'] = 'क्लाउडफ्लेयर चुनौती को बायपास करने के लिए पंजीकरण के बाद से दिनों की संख्या';
+$Definition['Number of posts'] = 'पदों की संख्या';
+$Definition['Number of posts from groups'] = 'समूहों से पोस्ट की संख्या';
 
-$Definition["Name of Interest"] = "रुचि का नाम";
-$Definition["Need More Help?"] = "क्या और मदद चाहिये?";
-$Definition["never"] = "कभी नहीं";
-$Definition["Never - Users Must Refresh Page"] =
-    "कभी नहीं - उपयोगकर्ता पेज को रिफ्रेश करना चाहिए";
-$Definition["Never display on mobile browsers."] =
-    "कभी भी मोबाइल ब्राउज़र पर प्रदर्शित न करें।";
-$Definition["NewApplicantEmail"] = "नए आवेदक:";
-$Definition["New comments in the last day"] = "पिछले दिन की नई टिप्पणियाँ";
-$Definition["New comments in the last week"] = "पिछले सप्ताह में नई टिप्पणियाँ";
-$Definition["New conversations in the last day"] =
-    "पिछले दिन की नई बातचीत";
-$Definition["New conversations in the last week"] =
-    "पिछले सप्ताह की नई बातचीत";
-$Definition["New discussions in the last day"] =
-    "अंतिम दिन की नई चर्चाएँ ";
-$Definition["New discussions in the last week"] =
-    "अंतिम सप्ताह में नई चर्चा";
-$Definition["New messages in the last day"] = "अंतिम दिन में नए संदेश";
-$Definition["New messages in the last week"] = "गत सप्ताह के नए संदेश";
-$Definition["New User Management"] = "नया उपयोगकर्ता प्रबंधन";
-$Definition["New users are only registered through SSO plugins."] =
-    "नए यूज़र्स केवल एसएसओ प्लगइन के माध्यम से ही पंजीकृत हैं.";
-$Definition[
-    'New users are reviewed and approved by an administrator (that\'s you!).'
-] = 'नए उपयोगकर्ताओं की समीक्षा की जाती है और उन्हें एक प्रशासक द्वारा अनुमोदित किया जाता है (जो आप हैं!)।';
-$Definition[
-    "New users fill out a simple form and are granted access immediately."
-] = "नए उपयोगकर्ता एक सरल फॉर्म को भरते हैं और उन्हें तुरंत एक्सेस दे दी जाती है.";
-$Definition["New users in the last day"] = "पिछले दिन के नए उपयोगकर्ता";
-$Definition["New users in the last week"] = "पिछले सप्ताह में नए उपयोगकर्ता";
-$Definition["No Ban Rules Found"] = "कोई बैन नियम नहीं मिला";
-$Definition["No Change"] = "कोई परिवर्तन नहीं";
-$Definition["No drafts."] = "कोई ड्राफ्ट नहीं।";
-$Definition["No further suggestions."] = "कोई और सुझाव नहीं.";
-$Definition["No item options are available for Link display type."] =
-    "लिंक प्रदर्शन प्रकार के लिए कोई आइटम विकल्प उपलब्ध नहीं है।";
-$Definition["No Items Selected"] = "कोई आइटम नहीं चुना गया";
-$Definition["No results for %s."] = "<b>%s</b> के लिए कोई परिणाम नहीं।";
-$Definition["Not Dismissable"] = "ख़ारिज करने योग्य नहीं है";
-$Definition["Notes"] = "टिप्पणियाँ";
-$Definition["Notifications will appear here."] =
-    "सूचनाएं यहां दिखाई देंगी";
-$Definition["NotifyApplicant"] =
-    "सदस्यता के लिए आवेदन करने पर मुझे सूचित करें।";
-$Definition["Notify me when people comment on a discussion."] =
-    "जब लोग चर्चा पर टिप्पणी करते हैं तो मुझे सूचित करें।";
-$Definition["Notify me when my questions have AI Suggested Answers"] =
-    "जब मेरे प्रश्नों के उत्तर AI द्वारा सुझाए गए हों तो मुझे सूचित करें";
-$Definition["Notify me when people start new discussions."] =
-    "जब लोग नई चर्चा शुरू करते हैं तो मुझे सूचित करें।";
-$Definition["Not Spam"] = "स्पैम नहीं";
-$Definition["Number of %s listed per page."] = "प्रति पेज सूचीबद्ध %s की संख्या।";
-$Definition["Number of blocked registrations"] =
-    "अवरुद्ध पंजीकरणों की संख्या";
-$Definition["Number of days before a follow-up email is automatically sent."] =
-    "एक अनुवर्ती ईमेल से पहले दिनों की संख्या स्वचालित रूप से भेजी जाती है।";
-$Definition["Number input must be between"] = "संख्या इनपुट निम्न के बीच होना चाहिए";
-$Definition["Number input must be between 1 and 100."] =
-    "नंबर इनपुट 1 और 100 के बीच होना चाहिए.";
-$Definition["Number of posts"] = "पदों की संख्या";
-$Definition["Number of posts from groups"] = "समूहों से पोस्ट की संख्या";
+$Definition['Oldest Escalation'] = 'सबसे पुराना उन्नयन';
+$Definition['Oldest Post'] = 'सबसे पुराना पोस्ट';
+$Definition['Oldest Report'] = 'सबसे पुरानी रिपोर्ट';
+$Definition['On'] = 'पर';
+$Definition['On Hold'] = 'होल्ड पर';
+$Definition['Only Allow Each User To Post'] = 'केवल प्रत्येक उपयोगकर्ता को पोस्ट करने की अनुमति दें';
+$Definition['Only display on mobile browsers.'] = 'केवल मोबाइल ब्राउज़र पर प्रदर्शित करें।';
+$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'केवल वे फ़ील्ड उपलब्ध हैं जो सिंगल चेकबॉक्स, सिंगल-सिलेक्ट ड्रॉपडाउन, मल्टी-सिलेक्ट ड्रॉपडाउन या संख्यात्मक ड्रॉपडाउन हैं। फ़ील्ड चुने जाने के बाद, वे नीचे दिखाई देंगे ताकि आप प्रत्येक प्रोफ़ाइल फ़ील्ड के लिए विशिष्ट उत्तर चुन सकें।';
+$Definition['Only Show Followed Categories'] = 'केवल अनुसरण की गई श्रेणियाँ दिखाएँ';
+$Definition['Only show icons that are default system icons.'] = 'केवल वे आइकन दिखाएं जो डिफ़ॉल्ट सिस्टम आइकन हैं.';
+$Definition['Only show icons that have been overridden with custom icons.'] = 'केवल वे आइकन दिखाएं जिन्हें कस्टम आइकन से ओवरराइड किया गया हो.';
+$Definition['Only visible to users with roles with permission.'] = 'केवल अनुमति वाले रोल के उपयोगकर्ताओं को दिखाई देगा।';
+$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'खुले मामले केवल तभी प्रदर्शित होंगे जब उपयोगकर्ता के पास वैध Salesforce कनेक्शन हो।';
+$Definition['Operation By'] = 'इसके अनुसार';
+$Definition['Organization'] = 'संगठन';
+$Definition['Organize'] = 'सुव्यवस्थित करें';
+$Definition['Organize Categories'] = 'श्रेणियाँ व्यवस्थित करें';
+$Definition['Original Version'] = 'मूल संस्करण';
+$Definition['Or select an image on your computer (2mb max)'] = 'या अपने कंप्यूटर पर एक तस्वीर चुनें (अधिकतम 2mb)';
+$Definition['Or Spamblock For'] = 'या स्पैम को ब्लॉक के लिए';
+$Definition['Other Themes'] = 'अन्य थीमें';
+$Definition['Other Tutorials'] = 'अन्य  शिक्षण';
+$Definition['Outgoing Email'] = 'बाहर जाने वाले ईमेल';
+$Definition['Outgoing Email Address'] = 'बाहर जाने वाले ईमेल पता';
+$Definition['Outgoing Emails'] = 'आउटगोइंग ईमेल';
 
-$Definition["On"] = "पर";
-$Definition["Only Allow Each User To Post"] = "केवल प्रत्येक उपयोगकर्ता को पोस्ट करने की अनुमति दें";
-$Definition["Only display on mobile browsers."] =
-    "केवल मोबाइल ब्राउज़र पर प्रदर्शित करें।";
-$Definition[
-    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
-] =
-    'केवल वे फ़ील्ड उपलब्ध हैं जो सिंगल चेकबॉक्स, सिंगल-सिलेक्ट ड्रॉपडाउन, मल्टी-सिलेक्ट ड्रॉपडाउन या संख्यात्मक ड्रॉपडाउन हैं। फ़ील्ड चुने जाने के बाद, वे नीचे दिखाई देंगे ताकि आप प्रत्येक प्रोफ़ाइल फ़ील्ड के लिए विशिष्ट उत्तर चुन सकें।';
-$Definition["Only Show Followed Categories"] = "केवल अनुसरण की गई श्रेणियाँ दिखाएँ";
-$Definition["Only visible to users with roles with permission."] =
-    "केवल अनुमति वाले रोल के उपयोगकर्ताओं को दिखाई देगा।";
-$Definition[
-    "Open cases will only display if the user has a valid Salesforce connection."
-] =
-    "खुले मामले केवल तभी प्रदर्शित होंगे जब उपयोगकर्ता के पास वैध Salesforce कनेक्शन हो।";
-$Definition["Operation By"] = "इसके अनुसार";
-$Definition["Organization"] = "संगठन";
-$Definition["Organize"] = "सुव्यवस्थित करें";
-$Definition["Organize Categories"] = "श्रेणियाँ व्यवस्थित करें";
-$Definition["Original Version"] = "मूल संस्करण";
-$Definition["Or select an image on your computer (2mb max)"] =
-    "या अपने कंप्यूटर पर एक तस्वीर चुनें (अधिकतम 2mb)";
-$Definition["Or Spamblock For"] = "या स्पैम को ब्लॉक के लिए";
-$Definition["Other Themes"] = "अन्य थीमें";
-$Definition["Other Tutorials"] = "अन्य  शिक्षण";
-$Definition["Outgoing Email"] = "बाहर जाने वाले ईमेल";
-$Definition["Outgoing Emails"] = "आउटगोइंग ईमेल";
-$Definition["Outgoing Email Address"] = "बाहर जाने वाले ईमेल पता";
+$Definition['Page Color'] = 'पृष्ठ रंग';
+$Definition['Pageview ratio representing a deflected case'] = 'पृष्ठ दृश्य अनुपात एक विक्षेपित मामले का प्रतिनिधित्व करता है';
+$Definition['Page Views'] = 'पेज को देखा गया';
+$Definition['Password Minimum Length'] = 'पासवर्ड न्यूनतम लंबाई';
+$Definition['Password Options'] = 'पासवर्ड के विकल्प';
+$Definition['Passwords'] = 'पासवर्डों';
+$Definition['Past Events'] = 'पुराने कार्यक्रम';
+$Definition['Permission'] = 'अनुमति';
+$Definition['Permission.Category'] = 'श्रेणी';
+$Definition['Permissions'] = 'अनुमतियाँ';
+$Definition['permissions.admin'] = 'प्रबंधक';
+$Definition['permissions.communityManager'] = 'सामुदायिक प्रबंधक ';
+$Definition['permissions.everyone'] = 'सभी ';
+$Definition['permissions.member'] = 'सदस्य';
+$Definition['permissions.moderator'] = 'मॉडरेटर';
+$Definition['Personal Info'] = 'निजी जानकारी';
+$Definition['Please Confirm'] = 'कृपया पुष्टि करें';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'कृपया एक अद्वितीय एपीआई लेबल दर्ज करें, यह पहले इस्तेमाल किया जा चुका है';
+$Definition['Plugin'] = 'प्लगइन';
+$Definition['Plugins'] = 'प्लगइन ';
+$Definition['Pocket'] = 'पॉकेट ';
+$Definition['Pockets'] = 'पॉकेट';
+$Definition['Points'] = 'अंक';
+$Definition['Polls'] = 'पोल्स';
+$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'पुराने ब्राउज़र के साथ संभावित संगतता समस्याएँ, जो उपयोगकर्ता अनुभव को प्रभावित कर रही हैं।';
+$Definition['Post & Comment Editing'] = 'पोस्ट और टिप्पणी संपादन';
+$Definition['Posted by <0/> in <1/>'] = '<0/> द्वारा <1/> में पोस्ट किया गया';
+$Definition['Post External Links'] = 'बाहरी लिंक पोस्ट करें';
+$Definition['Post Format'] = 'पोस्ट प्रारूप';
+$Definition['Posting'] = 'पोस्ट कर रहे हैं';
+$Definition['Posting Category Pages'] = 'श्रेणी पृष्ठ पोस्ट करना';
+$Definition['Posting Settings'] = 'पोस्ट करने की सेटिंग';
+$Definition['Post Layout Settings'] = 'पोस्ट लेआउट सेटिंग्स';
+$Definition['Post Layout Version'] = 'पोस्ट लेआउट संस्करण';
+$Definition['Post Management'] = 'पोस्ट प्रबंधन';
+$Definition['Post Pages'] = 'पोस्ट पेज';
+$Definition['Post Rejected'] = 'पोस्ट अस्वीकृत';
+$Definition['Post Revision'] = 'पोस्ट संशोधन';
+$Definition['Posts Matching Criteria Now: <0 />'] = 'अब मानदंड से मेल खाते पोस्ट: <0 />';
+$Definition['Posts per Page'] = 'प्रति पेज पोस्ट';
+$Definition['Posts with any of the following keywords or phrases will required moderator approval.'] = 'निम्नलिखित में से किसी भी कीवर्ड या वाक्यांश वाले पोस्ट के लिए मॉडरेटर की स्वीकृति आवश्यक होगी।';
+$Definition['Preload'] = 'प्रीलोड';
+$Definition['Premoderated Categories'] = 'पूर्वनिर्धारित श्रेणियाँ';
+$Definition['Premoderated Keywords'] = 'प्रीमॉडरेटिड कीवर्ड';
+$Definition['Premoderated Roles'] = 'पूर्वनिर्धारित भूमिकाएँ';
+$Definition['Premoderation Settings'] = 'प्रीमॉडरेशन सेटिंग्स';
+$Definition['Preview Color'] = 'पूर्वावलोकन रंग';
+$Definition['Preview Colors'] = 'रंग का पूर्वावलोकन करें';
+$Definition['Preview Icon Pack'] = 'पूर्वावलोकन आइकन पैक';
+$Definition['Previews'] = 'झलकियां';
+$Definition['Previous Icons'] = 'पिछले चिह्न';
+$Definition['Previous Slides'] = 'पिछली स्लाइड्स';
+$Definition['Previous versions of your icons can be found here and restored at any time.'] = 'आपके आइकन के पिछले संस्करण यहां पाए जा सकते हैं और किसी भी समय पुनर्स्थापित किए जा सकते हैं।';
+$Definition['Private Communities'] = 'निजी समुदाय';
+$Definition['private conversation(s)'] = 'निजी वार्तालाप';
+$Definition['Private Key'] = 'निजी कुंजी';
+$Definition['Professional'] = 'पेशेवर';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'प्रोटोकॉल (उदा. https://) और पाथ (उदा. yourdomain.com/some/path) हटा दिए जाने चाहिए.';
+$Definition['Provider'] = 'प्रदाता';
+$Definition['Public Key'] = 'सार्वजनिक कुंजी';
 
-$Definition["Page Color"] = "पृष्ठ रंग";
-$Definition["Page Views"] = "पेज को देखा गया";
-$Definition["Pageview ratio representing a deflected case"] =
-    "पृष्ठ दृश्य अनुपात एक विक्षेपित मामले का प्रतिनिधित्व करता है";
-$Definition["Passwords"] = "पासवर्डों";
-$Definition["Password Options"] = "पासवर्ड के विकल्प";
-$Definition["Password Minimum Length"] = "पासवर्ड न्यूनतम लंबाई";
-$Definition["Past Events"] = "पुराने कार्यक्रम";
-$Definition["Permission"] = "अनुमति";
-$Definition["Permission.Category"] = "श्रेणी";
-$Definition["Permissions"] = "अनुमतियाँ";
-$Definition["permissions.everyone"] = "सभी ";
-$Definition["permissions.member"] = "सदस्य";
-$Definition["permissions.moderator"] = "मॉडरेटर";
-$Definition["permissions.communityManager"] = "सामुदायिक प्रबंधक ";
-$Definition["permissions.admin"] = "प्रबंधक";
-$Definition["Personal Info"] = "निजी जानकारी";
-$Definition["Please Confirm"] = "कृपया पुष्टि करें";
-$Definition["Please enter a unique API Label, this one has been used before"] =
-    "कृपया एक अद्वितीय एपीआई लेबल दर्ज करें, यह पहले इस्तेमाल किया जा चुका है";
-$Definition["Plugin"] = "प्लगइन";
-$Definition["Plugins"] = "प्लगइन ";
-$Definition["Pocket"] = "पॉकेट ";
-$Definition["Pockets"] = "पॉकेट";
-$Definition["Points"] = "अंक";
-$Definition["Polls"] = "पोल्स";
-$Definition[
-    "Possible compatibility problems with older browsers, affecting user experience."
-] =
-    "पुराने ब्राउज़र के साथ संभावित संगतता समस्याएँ, जो उपयोगकर्ता अनुभव को प्रभावित कर रही हैं।";
-$Definition["Post External Links"] = "बाहरी लिंक पोस्ट करें";
-$Definition["Posting Settings"] = "पोस्ट करने की सेटिंग";
-$Definition["Preload"] = "प्रीलोड";
-$Definition["Preview Colors"] = "रंग का पूर्वावलोकन करें";
-$Definition["Private Communities"] = "निजी समुदाय";
-$Definition["private conversation(s)"] = "निजी वार्तालाप";
-$Definition["Private Key"] = "निजी कुंजी";
-$Definition["Professional"] = "पेशेवर";
-$Definition[
-    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
-] =
-    "प्रोटोकॉल (उदा. https://) और पाथ (उदा. yourdomain.com/some/path) हटा दिए जाने चाहिए.";
-$Definition["Provider"] = "प्रदाता";
-$Definition["Public Key"] = "सार्वजनिक कुंजी";
+$Definition['QnAFollowup.Feature.Enabled'] = 'यह सुविधा उन प्रश्नों के लेखकों को ईमेल भेजती है जिनके पास स्वीकृत उत्तर नहीं है।';
+$Definition['Question Pages'] = 'प्रश्न पृष्ठ';
 
-$Definition["Rank Changes"] = "रैंक परिवर्तन";
-$Definition["Ranks"] = "रैंक";
-$Definition["Read more in the documentation"] =
-    "दस्तावेज़ में अधिक पढ़ें";
-$Definition["Re-Register API Key"] = "API कुंजी को पंजीकृत करें";
-$Definition["Register IP"] = "आईपी पंजीकरण करें";
-$Definition["Reaction Types"] = "प्रतिक्रिया प्रकार";
-$Definition["Recalculate Counts"] = "गिनती पुनः गणना करें";
-$Definition["Recently Active Users"] = "हाल ही में सक्रिय यूज़र्स";
-$Definition["Recently Commented"] = "हाल ही में टिप्पणी की गई";
-$Definition["Recently Added"] = "हाल ही में जोड़ा";
-$Definition["Recent News"] = "ताज़ा ख़बर ";
-$Definition["Recent Posts Layout Settings"] = "हाल ही के पोस्ट लेआउट सेटिंग्स";
-$Definition["Recent Posts Pages"] = "हाल के पोस्ट पेज";
-$Definition["Recent Posts Layout Version"] = "हाल के पोस्ट लेआउट संस्करण";
+$Definition['Rank Changes'] = 'रैंक परिवर्तन';
+$Definition['Ranks'] = 'रैंक';
+$Definition['Re-Register API Key'] = 'API कुंजी को पंजीकृत करें';
+$Definition['Reaction Types'] = 'प्रतिक्रिया प्रकार';
+$Definition['Read more in the documentation'] = 'दस्तावेज़ में अधिक पढ़ें';
+$Definition['Recalculate Counts'] = 'गिनती पुनः गणना करें';
+$Definition['Recently Active Users'] = 'हाल ही में सक्रिय यूज़र्स';
+$Definition['Recently Added'] = 'हाल ही में जोड़ा';
+$Definition['Recently Commented'] = 'हाल ही में टिप्पणी की गई';
+$Definition['Recent News'] = 'ताज़ा ख़बर ';
+$Definition['Recent Posts Layout Settings'] = 'हाल ही के पोस्ट लेआउट सेटिंग्स';
+$Definition['Recent Posts Layout Version'] = 'हाल के पोस्ट लेआउट संस्करण';
+$Definition['Recent Posts Pages'] = 'हाल के पोस्ट पेज';
+$Definition['Recipient'] = 'प्राप्तकर्ता';
+$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'अनुशंसित आयाम 400px x 300px या उससे छोटे तथा समान अनुपात वाले हैं।';
+$Definition['Record Content'] = 'सामग्री';
+$Definition['Refresh Comments'] = 'टिप्पणियाँ रिफ्रेश करें';
+$Definition['Regenerate AI Suggestions'] = 'AI सुझाव पुनर्जीवित करें';
+$Definition['Regenerate Suggestions'] = 'सुझाव पुनर्जीवित करें';
+$Definition['Register for Membership'] = 'सदस्यता के लिए पंजीकरण करें';
+$Definition['Register IP'] = 'आईपी पंजीकरण करें';
+$Definition['Register Url'] = 'Url पंजीकृत करें';
+$Definition['Registration'] = 'पंजीकरण';
+$Definition['Registration is currently closed.'] = 'वर्तमान में पंजीकरण बंद है.';
+$Definition['Reinterpret All Posts As %s'] = 'सभी पोस्ट को %s . के रूप में पुनर्व्याख्या करें';
+$Definition['Reload the page to access recent updates.'] = 'हाल के अद्यतनों तक पहुँचने के लिए पृष्ठ को पुनः लोड करें।';
+$Definition['Reload the page to see recent updates.'] = 'हाल के अपडेट देखने के लिए पृष्ठ को पुनः लोड करें।';
+$Definition['Remove Banner Logo'] = 'बैनर लोगो हटाएँ ';
+$Definition['Remove Email Logo'] = 'ईमेल लोगो हटाएं';
+$Definition['Remove Favicon'] = 'फेविकॉन निकालें';
+$Definition['Remove from collection'] = 'संग्रह से निकालें';
+$Definition['Remove from collection:'] = 'संग्रह से निकालें:';
+$Definition['Remove from default follow list'] = 'डिफ़ॉल्ट फ़ॉलो सूची से निकालें';
+$Definition['Remove from trigger collection'] = 'ट्रिगर संग्रह से निकालें';
+$Definition['Remove Method'] = 'विधि निकालें';
+$Definition['Remove Post'] = 'पोस्ट हटाएँ';
+$Definition['Reorder'] = 'पुन: व्यवस्थित करें';
+$Definition['Reorder Columns'] = 'कॉलम पुनः व्यवस्थित करें';
+$Definition['Reorder Report Reasons'] = 'रिपोर्ट के कारणों को पुनः क्रमित करें';
+$Definition['Repeat'] = 'दोहराएँ';
+$Definition['Repeat Every'] = 'प्रत्येक को दोहराएँ  ';
+$Definition['Replace Image'] = 'तस्वीर बदलें';
+$Definition['Replacement Category'] = 'रिप्लेसमेंट श्रेणी';
+$Definition['Replacement Role'] = 'रिप्लेसमेंट भूमिका';
+$Definition['Reply  To'] = 'जवाब दें';
+$Definition['reply to private conversation(s)'] = 'निजी वार्तालापों का जवाब दें';
+$Definition['report'] = 'प्रतिवेदन';
+$Definition['Report Dismissed'] = 'रिपोर्ट खारिज';
+$Definition['Reported by <0/>'] = '<0/> द्वारा रिपोर्ट किया गया';
+$Definition['Report Reasons'] = 'रिपोर्ट के कारण';
+$Definition['reports'] = 'रिपोर्टों';
+$Definition['Reports for <0/>'] = '<0/> के लिए रिपोर्ट';
+$Definition['Request'] = 'निवेदन';
+$Definition['Requests'] = 'अनुरोध';
+$Definition['Required field'] = 'आवश्यक क्षेत्र';
+$Definition['Requires'] = 'आवश्यक है';
+$Definition['Requires: '] = 'आवश्यक है:';
+$Definition['Require Terms of Service'] = 'उपयोगकर्ताओं को सेवा की शर्तों से सहमत होना आवश्यक है (अनुशंसित)';
+$Definition['Require users to agree to the Terms of Service (recommended)'] = 'उपयोगकर्ताओं को सेवा की शर्तों से सहमत होना आवश्यक है (अनुशंसित)';
+$Definition['Require users to confirm their email addresses (recommended)'] = 'उपयोगकर्ताओं को अपने ईमेल पते की पुष्टि करने की ज़रूरत है (अनुशंसित)';
+$Definition['Rescan'] = 'पुन: स्कैन';
+$Definition['Reset'] = 'रिसेट करें';
+$Definition['Reset my password'] = 'पासवर्ड रीसेट करें';
+$Definition['Reset password and send email notification to user'] = 'पासवर्ड रीसेट करें और उपयोगकर्ता को ईमेल अधिसूचना भेजें';
+$Definition['Resetting the password for %s.'] = '%s के लिए पासवर्ड रीसेट हो रहा है।';
+$Definition['Reset to Default'] = 'वितथ पर ले जाएं';
+$Definition['Resolve All'] = 'सभी समाधान करें';
+$Definition['Resolve All Discussions'] = 'सभी चर्चाएँ हल करें';
+$Definition['Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics.'] = 'सभी पोस्ट हल करने से समुदाय में सभी मौजूदा पोस्ट हल हो जाएंगी। यह बल्क कार्रवाई वेबहुक या एनालिटिक्स को ट्रिगर नहीं करेगी।';
+$Definition['Resolve post'] = 'पोस्ट हल करें';
+$Definition['Restart'] = 'पुनः आरंभ करें';
+$Definition['Reveal Password'] = 'पासवर्ड पता करें';
+$Definition['Revert'] = 'रिवर्ट करें';
+$Definition['Revert to Original Version'] = 'मूल संस्करण में रिवर्ट करें';
+$Definition['Revision Label:'] = 'रिवीज़न लेबल:';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'रिच एडिटर में उद्धरण सक्रिय करने के लिए निम्नलिखित विकल्प का उपयोग करें। यह केवल तभी लागू होगा जब डिफ़ॉल्ट फ़ॉर्मेटर "रिच" हो।';
+$Definition['ROI Calculation Documentation'] = 'ROI गणना दस्तावेज़ीकरण';
+$Definition['Role'] = 'रोल';
+$Definition['Role Applicants'] = 'भूमिका आवेदक';
+$Definition['Role Name'] = 'रोल का नाम';
+$Definition['Role Permissions'] = 'भूमिका की अनुमतियाँ';
+$Definition['RolePersonalInfo'] = 'यह भूमिका व्यक्तिगत जानकारी है। केवल व्यक्तिगत जानकारी देखने की अनुमति वाले उपयोगकर्ता इसे देखेंगे।';
+$Definition['Role Request Status'] = 'स्थिति';
+$Definition['Roles & Permissions'] = 'भूमिकाएँ और स्वीकृतियाँ';
+$Definition['Roles determine user\'s permissions.'] = 'आपकी साइट के प्रत्येक उपयोगकर्ता को कम से कम एक भूमिका सौंपी जाती है। रोल्स का उपयोग यह निर्धारित करने के लिए किया जाता है कि उपयोगकर्ताओं को क्या करने की अनुमति है।';
+$Definition['Role to Grant'] = 'भूमिका प्रदान करें';
+$Definition['Route'] = 'रूट';
+$Definition['Routes'] = 'मार्गों';
+$Definition['RSVP'] = 'कृपया पुष्टि करें ';
+$Definition['Rule Action'] = 'नियम कार्रवाई';
+$Definition['Rule may not be deleted while it is running'] = 'नियम को चलते समय हटाया नहीं जा सकता';
+$Definition['Rule may not be edited while it is running'] = 'नियम को चलते समय संपादित नहीं किया जा सकता';
+$Definition['Rule Name'] = 'नियम का नाम';
+$Definition['Rules'] = 'नियम';
+$Definition['Rule status will apply once current run completes'] = 'वर्तमान रन पूरा होने पर नियम की स्थिति लागू होगी';
+$Definition['Rule Trigger'] = 'नियम ट्रिगर';
+$Definition['Running'] = 'दौड़ना';
+$Definition['Run structure & data scripts'] = 'संरचना और डेटा स्क्रिप्ट चलाएँ';
 
-$Definition[
-    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
-] =
-    "अनुशंसित आयाम 400px x 300px या उससे छोटे तथा समान अनुपात वाले हैं।";
-$Definition["Record Content"] = "सामग्री";
-$Definition["Recipient"] = "प्राप्तकर्ता";
-$Definition["Refresh Comments"] = "टिप्पणियाँ रिफ्रेश करें";
-$Definition["Regenerate AI Suggestions"] = "AI सुझाव पुनर्जीवित करें";
-$Definition["Regenerate Suggestions"] = "सुझाव पुनर्जीवित करें";
-$Definition["Register for Membership"] = "सदस्यता के लिए पंजीकरण करें";
-$Definition["Register Url"] = "Url पंजीकृत करें";
-$Definition["Registration"] = "पंजीकरण";
-$Definition["Registration is currently closed."] =
-    "वर्तमान में पंजीकरण बंद है.";
-$Definition["Reload the page to see recent updates."] =
-    "हाल के अपडेट देखने के लिए पृष्ठ को पुनः लोड करें।";
-$Definition["Reload the page to access recent updates."] =
-    "हाल के अद्यतनों तक पहुँचने के लिए पृष्ठ को पुनः लोड करें।";
-$Definition["Remove Banner Logo"] = "बैनर लोगो हटाएँ ";
-$Definition["Remove Email Logo"] = "ईमेल लोगो हटाएं";
-$Definition["Remove Favicon"] = "फेविकॉन निकालें";
-$Definition["Reorder Columns"] = "कॉलम पुनः व्यवस्थित करें";
-$Definition["Repeat"] = "दोहराएँ";
-$Definition["Repeat Every"] = "प्रत्येक को दोहराएँ  ";
-$Definition["Replace Image"] = "तस्वीर बदलें";
-$Definition["Replacement Category"] = "रिप्लेसमेंट श्रेणी";
-$Definition["Replacement Role"] = "रिप्लेसमेंट भूमिका";
-$Definition["Reply  To"] = "जवाब दें";
-$Definition["reply to private conversation(s)"] =
-    "निजी वार्तालापों का जवाब दें";
-$Definition["Request"] = "निवेदन";
-$Definition["Requests"] = "अनुरोध";
-$Definition["Requires"] = "आवश्यक है";
-$Definition["Requires: "] = "आवश्यक है:";
-$Definition["Require Terms of Service"] =
-    "उपयोगकर्ताओं को सेवा की शर्तों से सहमत होना आवश्यक है (अनुशंसित)";
-$Definition["Require users to confirm their email addresses (recommended)"] =
-    "उपयोगकर्ताओं को अपने ईमेल पते की पुष्टि करने की ज़रूरत है (अनुशंसित)";
-$Definition["Require users to agree to the Terms of Service (recommended)"] =
-    "उपयोगकर्ताओं को सेवा की शर्तों से सहमत होना आवश्यक है (अनुशंसित)";
-$Definition["Rescan"] = "पुन: स्कैन";
-$Definition["Reset"] = "रिसेट करें";
-$Definition["Reset my password"] = "पासवर्ड रीसेट करें";
-$Definition["Reset password and send email notification to user"] =
-    "पासवर्ड रीसेट करें और उपयोगकर्ता को ईमेल अधिसूचना भेजें";
-$Definition["Reset to Default"] = "वितथ पर ले जाएं";
-$Definition["Resetting the password for %s."] =
-    "%s के लिए पासवर्ड रीसेट हो रहा है।";
-$Definition["Restart"] = "पुनः आरंभ करें";
-$Definition["Reveal Password"] = "पासवर्ड पता करें";
-$Definition["Revert"] = "रिवर्ट करें";
-$Definition["Revert to Original Version"] = "मूल संस्करण में रिवर्ट करें";
-$Definition["Revision Label:"] = "रिवीज़न लेबल:";
-$Definition["ROI Calculation Documentation"] = "ROI गणना दस्तावेज़ीकरण";
-$Definition["Role"] = "रोल";
-$Definition["Assign to"] = "के लिए आवंटित";
-$Definition["Role Applicants"] = "भूमिका आवेदक";
-$Definition["Role Name"] = "रोल का नाम";
-$Definition["Role Permissions"] = "भूमिका की अनुमतियाँ";
-$Definition["RolePersonalInfo"] =
-    "यह भूमिका व्यक्तिगत जानकारी है। केवल व्यक्तिगत जानकारी देखने की अनुमति वाले उपयोगकर्ता इसे देखेंगे।";
-$Definition["Roles & Permissions"] = "भूमिकाएँ और स्वीकृतियाँ";
-$Definition['Roles determine user\'s permissions.'] =
-    "आपकी साइट के प्रत्येक उपयोगकर्ता को कम से कम एक भूमिका सौंपी जाती है। रोल्स का उपयोग यह निर्धारित करने के लिए किया जाता है कि उपयोगकर्ताओं को क्या करने की अनुमति है।";
-$Definition["Role Request Status"] = "स्थिति";
-$Definition["Role to Grant"] = "भूमिका प्रदान करें";
-$Definition["Route"] = "रूट";
-$Definition["Routes"] = "मार्गों";
-$Definition["Rules"] = "नियम";
-$Definition["Run structure & data scripts"] = "संरचना और डेटा स्क्रिप्ट चलाएँ";
-$Definition["RSVP"] = "कृपया पुष्टि करें ";
+$Definition['Save Captured Definitions'] = 'पकड़ी गई परिभाषाएँ सहेजे';
+$Definition['Save challenge cutoff age'] = 'चुनौती कटऑफ आयु सहेजें';
+$Definition['Save Colors'] = 'रंग सहेजें';
+$Definition['Score Count'] = 'स्कोर गिनती';
+$Definition['Search by user or role.'] = 'नाम या ईमेल द्वारा उपयोगकर्ताओं के लिए खोज करें, वैकल्पिक रूप से % का उपयोग वाइल्डकार्ड के रूप में करें।
+आप उपयोगकर्ता आईडी, किसी भूमिका का नाम, या “प्रतिबंधित”';
+$Definition['Search Query'] = 'प्रश्न खोजना';
+$Definition['Search Result In New Tab'] = 'नए टैब में खोज परिणाम';
+$Definition['Search results of members'] = 'सदस्यों के खोज परिणाम';
+$Definition['SearchScope.Everywhere'] = 'हर जगह';
+$Definition['seconds'] = 'सेकंड';
+$Definition['Security'] = 'सुरक्षा';
+$Definition['See also'] = 'यह भी देखें';
+$Definition['See documentation for more information.'] = 'अधिक जानकारी के लिए दस्तावेज़ देखें.';
+$Definition['See link'] = 'लिंक देखें';
+$Definition['Select'] = 'चुनें';
+$Definition['Select a category'] = 'एक श्रेणी चुनें';
+$Definition['Selection will affect the item options available.'] = 'चयन उपलब्ध आइटम विकल्पों को प्रभावित करेगा।';
+$Definition['Select the action that will occur when this rule is triggered.'] = 'वह कार्रवाई चुनें जो इस नियम के लागू होने पर घटित होगी.';
+$Definition['Select the location of the pocket.'] = 'पॉकेट का स्थान चुनें।';
+$Definition['Select the trigger that will cause this rule to run.'] = 'उस ट्रिगर का चयन करें जो इस नियम को चलाएगा.';
+$Definition['Select which columns are displayed on the manage users page list.'] = 'चुनें कि उपयोगकर्ता प्रबंधित करें पृष्ठ सूची पर कौन से कॉलम प्रदर्शित होते हैं।';
+$Definition['Send %s a Message'] = '%s को संदेश भेजें';
+$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'जब लोग सवाल पूछते हैं या ईमेल पर चर्चा शुरू करते हैं, तो एक पुष्टिकरण ईमेल भेजें।';
+$Definition['Send Again'] = 'पुन: भेजें';
+$Definition['Send a Test Email'] = 'एक परीक्षण ईमेल भेजें';
+$Definition['Send Invitations!'] = 'निमंत्रण भेजें!';
+$Definition['Send Test Digest'] = 'टेस्ट डाइजेस्ट भेजें';
+$Definition['Send Test Email Digest'] = 'परीक्षण ईमेल डाइजेस्ट भेजें';
+$Definition['Send users a welcome email.'] = 'उपयोगकर्ताओं को एक स्वागत ईमेल भेजें।';
+$Definition['sentiment'] = 'भाव';
+$Definition['Sent To'] = 'को भेजा गया';
+$Definition['Separate each word with a semi-colon ";"'] = 'प्रत्येक शब्द को सेमिकॉलन ";" से अलग करें ';
+$Definition['Set as Active'] = 'सक्रिय के रूप में सेट करें';
+$Definition['Set as default layout for all <0 />.'] = 'सभी <0 /> के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.';
+$Definition['Set as default layout for specific knowledge bases.'] = 'विशिष्ट ज्ञान आधारों के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.';
+$Definition['Set as default layout for specific subcommunities.'] = 'विशिष्ट उपसमुदायों के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.';
+$Definition['Set Post Visibility to Hidden'] = 'पोस्ट दृश्यता को छुपाएँ पर सेट करें';
+$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'सभी उपयोगकर्ताओं को इसकी मैप की गई श्रेणियों और टैग का अनुसरण करने का सुझाव देने के लिए इस रुचि को डिफ़ॉल्ट के रूप में सेट करें।';
+$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'नियम सारांश उत्पन्न करने के लिए ट्रिगर चर और क्रिया चर सेट करें.';
+$Definition['Share Image'] = 'इमेज शेयर करें';
+$Definition['Show'] = 'दिखाओ';
+$Definition['Show all categories'] = 'सभी श्रेणियाँ दिखाएँ';
+$Definition['Show an uploaded image on the Category page.'] = 'प्रत्येक चर्चा श्रेणी पृष्ठ पर अपलोड की गई इमेज दिखाएगी। यह केवल "इस रूप में दिखाएँ" वाली "चर्चाओं" पर लागू होता है।';
+$Definition['Show Badges'] = 'बैज दिखाएं';
+$Definition['Show Dismissed Suggestions'] = 'खारिज किए गए सुझाव दिखाएं';
+$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'प्रत्येक उपयोगकर्ता को उनके द्वारा बनाए गए या अपवोट किए गए विचारों की एक व्यक्तिगत सूची दिखाएं।';
+$Definition['Show OP Indicator'] = 'ओपी संकेतक दिखाएं';
+$Definition['Show Original Suggestions'] = 'मूल सुझाव दिखाएं';
+$Definition['Show Pocket Locations'] = 'पॉकेट स्थान दिखाएँ ';
+$Definition['Show Suggestions'] = 'सुझावों को दिखाओ';
+$Definition['Show users\' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking.'] = 'प्रत्येक पोस्ट पर उपयोगकर्ताओं के बैज दिखाएँ। उच्चतम रैंकिंग के क्रम में अधिकतम 5 बैज प्रदर्शित किए जा सकते हैं।';
+$Definition['Signatures'] = 'हस्ताक्षर';
+$Definition['SignedOut'] = 'आप साइन आउट हैं.';
+$Definition['Sign In Url'] = 'साइन इन यूआरएल';
+$Definition['since'] = 'तब से';
+$Definition['Site Description'] = 'साइट का वर्णन';
+$Definition['Site Name'] = 'साइट का नाम';
+$Definition['Skip to end of Carousel'] = 'कैरोसेल के अंत तक जाएं';
+$Definition['Slug'] = 'सुस्त';
+$Definition['SMTP Host'] = 'SMTP होस्ट';
+$Definition['SMTP Password'] = 'SMTP पासवर्ड';
+$Definition['SMTP Port'] = 'SMTP पोर्ट';
+$Definition['SMTP Security'] = 'SMTP सुरक्षा';
+$Definition['SMTP User'] = 'SMTP यूजर';
+$Definition['Social Connect'] = 'सोशल मीडिया';
+$Definition['Social Connect Addons'] = 'सोशल कनेक्ट एडऑन';
+$Definition['Sort Order'] = 'क्रमबद्ध करने का ऑर्डर';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'यहां चयनित स्रोत AI सुझाए गए उत्तरों के लिए उपलब्ध होंगे।';
+$Definition['Spam Detection'] = 'स्पैम का पता लगाना';
+$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'प्रत्येक पंक्ति मे एक डोमेन उल्लिखित करें। वाइल्डकार्ड मिलान के लिए * का प्रयोग करें।';
+$Definition['Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.'] = 'थोड़ा समय यह सोचने में व्यतीत करें कि आप अपनी साइट का वर्णन यहाँ कैसे करते हैं।
+अपनी साइट को एक उचित शीर्षक और संक्षिप्त विवरण देने से सर्च इंजन में आपकी पोज़ीशन में मदद मिल सकती है।';
+$Definition['Spoof'] = 'नकली';
+$Definition['SSO Role'] = 'एसएसओ की भूमिका';
+$Definition['SSO roles are always passed through SSO.'] = 'एसएसओ भूमिकाएं हमेशा एसएसओ के माध्यम से पारित की जाती हैं।';
+$Definition['Start Discussions'] = 'परिचर्चा शुरू करें';
+$Definition['Start Private Conversations'] = 'निजी बातचीत शुरू करें';
+$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'डाइजेस्ट विषय पंक्ति को उपस्थिति > ब्रांडिंग और एसईओ में सेट [बैनर शीर्षक] के साथ प्रारंभ करें';
+$Definition['Start typing username'] = 'उपयोक्तानाम लिखना प्रारंभ करें';
+$Definition['State'] = 'अवस्था';
+$Definition['Statistics'] = 'आंकड़े';
+$Definition['Status on Creation'] = 'निर्माण पर स्थिति';
+$Definition['Strip Embeds'] = 'स्ट्रिप के एम्बेड';
+$Definition['Style'] = 'स्टाइल';
+$Definition['Style Guides'] = 'शैली मार्गदर्शिकाएँ';
+$Definition['Styles'] = 'स्टाइल्स';
+$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'ईमेल डाइजेस्ट सहित सभी ईमेल की शैलियाँ और सामान्य दृश्य उपस्थिति, ईमेल सेटिंग्स पृष्ठ पर साइट-व्यापी सेट की गई हैं।';
+$Definition['Subcommunity'] = 'उपसमुदाय';
+$Definition['Subject Line and Title'] = 'विषय पंक्ति और शीर्षक';
+$Definition['subscribers'] = 'ग्राहकों';
+$Definition['Suggested Answers Options'] = 'सुझाए गए उत्तर विकल्प';
+$Definition['Suggested Content'] = 'सुझाई गई सामग्री';
+$Definition['Suggested Discussion Title'] = 'सुझाया गया चर्चा शीर्षक';
+$Definition['Suggested Follows'] = 'सुझाए गए अनुसरण';
+$Definition['Suggestions are only visible to you until you accept the answer'] = 'सुझाव आपको केवल तब तक दिखाई देंगे जब तक आप उत्तर स्वीकार नहीं कर लेते';
+$Definition['Suggestions may only be generated on questions'] = 'सुझाव केवल प्रश्नों पर ही दिए जा सकते हैं';
+$Definition['Summary'] = 'सारांश';
+$Definition['System Icon'] = 'सिस्टम आइकन';
 
-$Definition["Save Captured Definitions"] = "पकड़ी गई परिभाषाएँ सहेजे";
-$Definition["Save Colors"] = "रंग सहेजें";
-$Definition["Score Count"] = "स्कोर गिनती";
-$Definition["Search by user or role."] =
-    "नाम या ईमेल द्वारा उपयोगकर्ताओं के लिए खोज करें, वैकल्पिक रूप से % का उपयोग वाइल्डकार्ड के रूप में करें।
-आप उपयोगकर्ता आईडी, किसी भूमिका का नाम, या “प्रतिबंधित”";
-$Definition["Search Result In New Tab"] = "नए टैब में खोज परिणाम";
-$Definition["Search results of members"] = "सदस्यों के खोज परिणाम";
-$Definition["Search Query"] = "प्रश्न खोजना";
-$Definition["SearchScope.Everywhere"] = "हर जगह";
-$Definition["seconds"] = "सेकंड";
-$Definition["Security"] = "सुरक्षा";
-$Definition["See also"] = "यह भी देखें";
-$Definition["See link"] = "लिंक देखें";
-$Definition["Select"] = "चुनें";
-$Definition["Select a category"] = "एक श्रेणी चुनें";
-$Definition["Select the location of the pocket."] =
-    "पॉकेट का स्थान चुनें।";
-$Definition[
-    "Select which columns are displayed on the manage users page list."
-] = "चुनें कि उपयोगकर्ता प्रबंधित करें पृष्ठ सूची पर कौन से कॉलम प्रदर्शित होते हैं।";
-$Definition["Selection will affect the item options available."] =
-    "चयन उपलब्ध आइटम विकल्पों को प्रभावित करेगा।";
-$Definition["Send %s a Message"] = "%s को संदेश भेजें";
-$Definition[
-    "Send a confirmation email when people ask a question or start a discussion over email."
-] =
-    "जब लोग सवाल पूछते हैं या ईमेल पर चर्चा शुरू करते हैं, तो एक पुष्टिकरण ईमेल भेजें।";
-$Definition["Send Again"] = "पुन: भेजें";
-$Definition["Send a Test Email"] = "एक परीक्षण ईमेल भेजें";
-$Definition["Send Test Digest"] = "टेस्ट डाइजेस्ट भेजें";
-$Definition["Send Test Email Digest"] = "परीक्षण ईमेल डाइजेस्ट भेजें";
-$Definition["Send Invitations!"] = "निमंत्रण भेजें!";
-$Definition["Send users a welcome email."] = "उपयोगकर्ताओं को एक स्वागत ईमेल भेजें।";
-$Definition["Sent To"] = "को भेजा गया";
-$Definition['Separate each word with a semi-colon ";"'] =
-    'प्रत्येक शब्द को सेमिकॉलन ";" से अलग करें ';
-$Definition[
-    "Set this interest as default to suggest following its mapped categories and tags to all users."
-] =
-    "सभी उपयोगकर्ताओं को इसकी मैप की गई श्रेणियों और टैग का अनुसरण करने का सुझाव देने के लिए इस रुचि को डिफ़ॉल्ट के रूप में सेट करें।";
-$Definition["Share Image"] = "इमेज शेयर करें";
-$Definition["Show all categories"] = "सभी श्रेणियाँ दिखाएँ";
-$Definition["Show Dismissed Suggestions"] = "खारिज किए गए सुझाव दिखाएं";
-$Definition["Show Pocket Locations"] = "पॉकेट स्थान दिखाएँ ";
-$Definition[
-    "Show each user a personalized list of ideas they’ve created or upvoted."
-] = "प्रत्येक उपयोगकर्ता को उनके द्वारा बनाए गए या अपवोट किए गए विचारों की एक व्यक्तिगत सूची दिखाएं।";
-$Definition["Show Original Suggestions"] = "मूल सुझाव दिखाएं";
-$Definition["Show Suggestions"] = "सुझावों को दिखाओ";
-$Definition["Signatures"] = "हस्ताक्षर";
-$Definition["SignedOut"] = "आप साइन आउट हैं.";
-$Definition["Sign In Url"] = "साइन इन यूआरएल";
-$Definition["Site Description"] = "साइट का वर्णन";
-$Definition["Site Name"] = "साइट का नाम";
-$Definition["Slug"] = "सुस्त";
-$Definition["SMTP Host"] = "SMTP होस्ट";
-$Definition["SMTP Password"] = "SMTP पासवर्ड";
-$Definition["SMTP Port"] = "SMTP पोर्ट";
-$Definition["SMTP Security"] = "SMTP सुरक्षा";
-$Definition["SMTP User"] = "SMTP यूजर";
-$Definition["Social Connect"] = "सोशल मीडिया";
-$Definition["Social Connect Addons"] = "सोशल कनेक्ट एडऑन";
-$Definition["Sort Order"] = "क्रमबद्ध करने का ऑर्डर";
-$Definition[
-    "Sources that are selected here will be available to AI Suggested Answers."
-] = "यहां चयनित स्रोत AI सुझाए गए उत्तरों के लिए उपलब्ध होंगे।";
-$Definition["Specify one domain per line. Use * for wildcard matches."] =
-    "प्रत्येक पंक्ति मे एक डोमेन उल्लिखित करें। वाइल्डकार्ड मिलान के लिए * का प्रयोग करें।";
-$Definition["Spoof"] = "नकली";
-$Definition["SSO Role"] = "एसएसओ की भूमिका";
-$Definition["SSO roles are always passed through SSO."] =
-    "एसएसओ भूमिकाएं हमेशा एसएसओ के माध्यम से पारित की जाती हैं।";
-$Definition["Start Discussions"] = "परिचर्चा शुरू करें";
-$Definition["Start Private Conversations"] = "निजी बातचीत शुरू करें";
-$Definition[
-    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
-] =
-    "डाइजेस्ट विषय पंक्ति को उपस्थिति > ब्रांडिंग और एसईओ में सेट [बैनर शीर्षक] के साथ प्रारंभ करें";
-$Definition["Start typing username"] = "उपयोक्तानाम लिखना प्रारंभ करें";
-$Definition["State"] = "अवस्था";
-$Definition["Statistics"] = "आंकड़े";
-$Definition["Strip Embeds"] = "स्ट्रिप के एम्बेड";
-$Definition["Strip Embeds"] = "स्ट्रिप के एम्बेड";
-$Definition["Style"] = "स्टाइल";
-$Definition["Styles"] = "स्टाइल्स";
-$Definition[
-    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
-] =
-    "ईमेल डाइजेस्ट सहित सभी ईमेल की शैलियाँ और सामान्य दृश्य उपस्थिति, ईमेल सेटिंग्स पृष्ठ पर साइट-व्यापी सेट की गई हैं।";
-$Definition["Subcommunity"] = "उपसमुदाय";
-$Definition["Subject Line and Title"] = "विषय पंक्ति और शीर्षक";
-$Definition["subscribers"] = "ग्राहकों";
-$Definition["Suggested Answers Options"] = "सुझाए गए उत्तर विकल्प";
-$Definition["Suggested Content"] = "सुझाई गई सामग्री";
-$Definition["Suggested Discussion Title"] = "सुझाया गया चर्चा शीर्षक";
-$Definition["Suggested Follows"] = "सुझाए गए अनुसरण";
-$Definition["Suggestions are only visible to you until you accept the answer"] =
-    "सुझाव आपको केवल तब तक दिखाई देंगे जब तक आप उत्तर स्वीकार नहीं कर लेते";
-$Definition["Suggestions may only be generated on questions"] =
-    "सुझाव केवल प्रश्नों पर ही दिए जा सकते हैं";
-
-$Definition["Table Layout"] = "टेबल लेआउट";
-$Definition["take away"] = "ले जाओ";
-$Definition["Target All Users"] = "सभी उपयोगकर्ताओं को लक्षित करें";
-$Definition["Target Users"] = "लक्षित उपयोगकर्ता";
-$Definition["Technical"] = "तकनीकी";
-$Definition["Technical Jargon"] = "तकनीकी शब्दावली";
-$Definition["Templates"] = "टेम्प्लेट";
-$Definition["Temporary (302)"] = "अस्थायी (302)";
-$Definition["Test Email"] = "टेस्ट ईमेल";
-$Definition["Test Digest"] = "परीक्षण डाइजेस्ट";
-$Definition["Test email from %s"] = "%s से ईमेल का परीक्षण करें";
-$Definition["Test Email Message"] = '<p>यह एक परीक्षण ईमेल संदेश है. 
+$Definition['Table Layout'] = 'टेबल लेआउट';
+$Definition['take away'] = 'ले जाओ';
+$Definition['Target All Users'] = 'सभी उपयोगकर्ताओं को लक्षित करें';
+$Definition['Target Users'] = 'लक्षित उपयोगकर्ता';
+$Definition['Technical'] = 'तकनीकी';
+$Definition['Technical Jargon'] = 'तकनीकी शब्दावली';
+$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'संपादक को सभी पुरानी पोस्ट को %s के रूप में फिर से व्याख्या करने के लिए कहें।';
+$Definition['Templates'] = 'टेम्प्लेट';
+$Definition['Temporary (302)'] = 'अस्थायी (302)';
+$Definition['Test Digest'] = 'परीक्षण डाइजेस्ट';
+$Definition['Test Email'] = 'टेस्ट ईमेल';
+$Definition['Test email from %s'] = '%s से ईमेल का परीक्षण करें';
+$Definition['Test Email Message'] = '<p>यह एक परीक्षण ईमेल संदेश है. 
 </p>
 
 <p>आप डैशबोर्ड पर ईमेल पेज को नेविगेट कर अपने फोरम के ईमेल को दिखाया जाना कॉन्फ़िगर कर सकते हैं.</p>';
-$Definition["Test Mode"] =
-    "टेस्ट मोड: पॉकेट केवल पॉकेट जेब व्यवस्थापकों के लिए ही प्रदर्शित की जाएगी.";
-$Definition["Test URL"] = "टेस्ट URL";
-$Definition["Text Color"] = "टेक्स्ट का रंग";
-$Definition["TextEnterEmails"] =
-    "यहां अल्पविराम द्वारा अलग किए गए ईमेल पते टाइप करें";
-$Definition["The %s badge has already been given to %s."] =
-    "%s बैज पहले से ही %s को दे दिया गया है।";
-$Definition["The %s locale pack does not exist."] =
-    "%s लोकेल पैक मौजूद नही है।";
-$Definition["The %s table is not in the correct format."] =
-    "%s तालिका सही प्रारूप में नहीं है.";
-$Definition["The %s was already approved by %s on %s."] =
-    "%s को %s पहले ही %s द्वारा अनुमोदित कर दिया गया था।";
-$Definition["Thanks for sticking with us for a full year."] =
-    "पुरे वर्ष हमारे साथ जुड़े रहने के लिए धन्यवाद।  ";
-$Definition["Thanks for sticking with us for %s years."] =
-    "%s वर्षों से हमारे साथ जुड़े रहने के लिए धन्यवाद।";
-$Definition["The Basics"] = "मूल बातें";
-$Definition["The client ID uniqely identifies the site."] =
-    "क्लाइंट आईडी विशिष्ट रूप से साइट की पहचान करती है. आप इस पेज के नीचे स्थित बटन से एक नई आईडी बना सकते हैं.";
-$Definition["The content you were looking for has been deleted."] =
-    "जिस कंटेंट को आप खोज रहे थे, वह हटा दी गई है।";
-$Definition[
-    "The default banner image across the site. This can be overridden on a per category basis."
-] =
-    "पूरी साइट पर डिफ़ॉल्ट बैनर छवि। इसे प्रति श्रेणी के आधार पर ओवरराइड किया जा सकता है।";
-$Definition["The default role has not been configured."] =
-    "डिफ़ॉल्ट भूमिका कॉन्फ़िगर नहीं की गई है।";
-$Definition["The email address this test will be sent to."] =
-    "वह ईमेल पता जिस पर यह परीक्षण भेजा जाएगा.";
-$Definition["The email has been sent."] = "ईमेल भेज दिया गया है।";
-$Definition["The first line of content in the email digest after the title."] =
-    "शीर्षक के बाद ईमेल डाइजेस्ट में सामग्री की पहली पंक्ति।";
-$Definition["The homepage title is displayed on your home page."] =
-    "होमपेज का शीर्षक आपके होम पेज पर प्रदर्शित होता है। एक शीर्षक चुनें जिसे आप खोज इंजन में दिखाना चाहते हैं।";
-$Definition["The homepage was saved successfully."] =
-    "होमपेज सफलतापूर्वक सहेजा गया.";
-$Definition["The invitation was removed successfully."] =
-    "आमंत्रण सफलतापूर्वक हटा दिया गया.";
-$Definition["The invitation was sent successfully."] =
-    "आमंत्रण सफलतापूर्वक भेज दिया गया था।";
-$Definition["The Key in the XML payload to designate %s."] =
-    "XML पेलोड में कुंजी %s को नामित करने के लिए।";
-$Definition[
-    "The test digest will generate content as if it were this user receiving the digest."
-] =
-    "परीक्षण डाइजेस्ट ऐसी सामग्री उत्पन्न करेगा मानो यह उपयोगकर्ता ही डाइजेस्ट प्राप्त कर रहा हो।";
-$Definition["Theme Editor"] = "थीम सम्पादक";
-$Definition["Theme Options"] = "थीम के विकल्प";
-$Definition["Themes"] = "थीम्स";
-$Definition["ThemeEditor.Copy"] = "<0/> कॉपी";
-$Definition["Theming Documentation"] = "थीम के दस्तावेज़";
-$Definition["Theming Overview"] = "थिमिंग ओवरव्यू";
-$Definition[
-    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
-] =
-    'इमेज अपलोड करने में एक त्रुटि हुई है. आपका ईमेल लोगो निम्न में से किसी एक फ़ाइल प्रकार में अपलोड किया जा सकता है: gif, jpg, png';
-$Definition["There are currently no applicants."] =
-    "वर्तमान में कोई आवेदक नहीं है।";
-$Definition["There is currently %s applicant."] =
-    "वर्तमान में %s आवेदक है।";
-$Definition["There are currently %s applicants."] =
-    "वर्तमान में %s आवेदक हैं।";
-$Definition["There are currently no requests."] =
-    "वर्तमान को कोई भी अनुरोध नहीं हैं।";
-$Definition["There is currently %s request."] =
-    "वर्तमान में %s अनुरोध है।";
-$Definition["There are currently %s requests."] =
-    "वर्तमान में %s अनुरोध हैं।";
-$Definition["There are no items awaiting moderation at this time."] =
-    "इस समय मॉडरेशन की प्रतीक्षा में कोई आइटम नहीं है.";
-$Definition[
-    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
-] =
-    "आपके ईमेल पते का उपयोग करते हुए इस फोरम में पहले से ही एक खाता है।
-कृपया एक नया खाता बनाएं, या मौजूदा खाते के लिए क्रेडेंशियल दर्ज करें।";
-$Definition["The next three email digest delivery dates"] =
-    "अगली तीन ईमेल डाइजेस्ट डिलीवरी तिथियाँ";
-$Definition["The secret secures the sign in process."] =
-    "रहस्य प्रक्रिया में संकेत को सुरक्षित करता है। किसी को भी रहस्य <b>नही बताएँ।</b>";
-$Definition["The site description usually appears in search engines."] =
-    "साइट का विवरण अक्सर खोज इंजन में दिखाई देता है। आपको 100-150 अक्षर लम्बा वर्णन रखने की कोशिश करनी चाहिए है।";
-$Definition["The site is currently undergoing scheduled maintenance."] =
-    "वर्तमान में यह साइट निर्धारित रखरखाव से गुजर रही है।";
-$Definition["The specified url code is already in use by another category."] =
-    "निर्दिष्ट url कोड पहले से ही किसी अन्य श्रेणी द्वारा उपयोग में है.";
-$Definition["The structure was successfully executed."] =
-    "संरचना को सफलतापूर्वक निष्पादित किया गया था।";
-$Definition["The update was not successful."] =
-    "अद्यतन सफल नहीं था।";
-$Definition["The update was successful."] = "अद्यतन सफल रहा.";
-$Definition["The url that users go to to register for a new account."] =
-    "जिस url पर उपयोगकर्ता नए अकाउंट के लिए रजिस्टर करने जाते हैं।  ";
-$Definition["The url that users use to register for a new account."] =
-    "url जिसका उपयोग उपयोगकर्ता एक नए खाते के पंजीकरण करने के लिए करते हैं।";
-$Definition["The url that users use to sign in."] =
-    "वह url जिसका उपयोग उपयोगकर्ता साइन इन करने के लिए करते हैं।";
-$Definition["The URL where users can sign up for new accounts on your site"] =
-    "वह URL जहां उपयोगकर्ता आपकी साइट पर नए खातों के लिए साइन अप कर सकते हैं";
-$Definition["The URL where users sign in on your site"] =
-    "वह URL जहाँ यूज़र्स आपकी साइट पर साइन इन करते हैं";
-$Definition["The URL where users sign out of your site"] =
-    "वह URL जहां उपयोगकर्ता आपकी साइट से साइन आउट करते हैं";
-$Definition["The user and all related content has been deleted."] =
-    "यूज़र और सभी संबंधित सामग्री हटा दी गई है.";
-$Definition["The user content will be completely deleted."] =
-    "उपयोगकर्ता सामग्री पूरी तरह से हटा दी जाएगी।";
-$Definition["The user content will remain untouched."] =
-    "यूजर कंटेंट में कोई बदलाव नहीं होगा";
-$Definition["The user has been created successfully"] =
-    "उपयोगकर्ता को सफलतापूर्वक बना दिया गया है";
-$Definition["The user has been deleted."] = "यूज़र को हटा दिया गया है.";
-$Definition["This action cannot be undone."] = "इस प्रक्रिया को असंपादित नहीं किया जा सकता है. ";
-$Definition[
-    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
-] =
-    "ऐडसेंस और गूगल टैग मैनेजर जैसी सुविधाओं का उपयोग करने वाली साइटों को छोड़कर अधिकांश साइटों पर यह आवश्यक नहीं है।";
-$Definition[
-    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
-] =
-    "यह संदर्भित चर्चा पोस्ट से एक AI जनरेटेड सारांश है जो प्रश्न का उत्तर दे सकता है। सारांश को इस तरह से बनाया गया है कि इसे स्वीकृत उत्तर के रूप में इस्तेमाल किया जा सके।";
-$Definition["This category has custom permissions."] =
-    "इस श्रेणी में  तदनुकूल अनुमतियाँ हैं.";
-$Definition["This category is archived."] = "यह श्रेणी संग्रहीत है।";
-$Definition["This connection is in test-mode."] =
-    "यह कनेक्शन अभी परीक्षण मोड में है।";
-$Definition["This controls how the responses are phrased and spelled."] =
-    "यह नियंत्रित करता है कि उत्तरों को किस प्रकार लिखा और लिखा जाएगा।";
-$Definition["This Database"] = "यह डेटाबेस";
-$Definition["QnAFollowup.Feature.Enabled"] =
-    "यह सुविधा उन प्रश्नों के लेखकों को ईमेल भेजती है जिनके पास स्वीकृत उत्तर नहीं है।";
-$Definition["This forum is currently set to invitation only mode."] =
-    "यह फोरम वर्तमान में केवल आमंत्रण मोड पर सेट है।";
-$Definition[
-    'This image will be used in category lists and widgets when using the "Icon" style option.'
-] =
-    '"आइकन" शैली विकल्प का उपयोग करते समय इस छवि का उपयोग श्रेणी सूचियों और विजेट्स में किया जाएगा।';
-$Definition[
-    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
-] =
-    '"छवि" और/या "पृष्ठभूमि" शैली विकल्पों का उपयोग करते समय यह छवि इस श्रेणी के बैनर और श्रेणी विजेट में दिखाई देगी। अनुशंसित आयाम लगभग 1000px गुणा 400px या समान अनुपात हैं।';
-$Definition["This is a parent category that does not allow discussions."] =
-    "यह एक मूल श्रेणी है जो परिचर्चा की अनुमति नही देती है।";
-$Definition['This is the first time you\'ve visited the discussion forums.'] =
-    'यह पहली बार है जब आप परिचर्चा फ़ोरम पर गए हैं।';
-$Definition[
-    "This may be used to include content such as organization name and address in the email digest."
-] =
-    "इसका उपयोग ईमेल डाइजेस्ट में संगठन का नाम और पता जैसी सामग्री शामिल करने के लिए किया जा सकता है।";
-$Definition["This name will be shown in the community."] =
-    "यह नाम समुदाय में दिखाया जाएगा.";
-$Definition["This page requires Javascript."] =
-    "इस पृष्ठ के लिए Javascript आवश्यक है।";
-$Definition["This pocket is an ad."] = "यह पॉकेट एक विज्ञापन है.";
-$Definition[
-    "This theme cannot be deleted because it is the currently applied theme"
-] = "इस थीम को हटाया नहीं जा सकता क्योंकि यह वर्तमान में उपयोग में है।";
-$Definition["This theme has additional options."] =
-    "इस थीम में %s पेज पर अतिरिक्त विकल्प हैं।";
-$Definition["This theme has customizable text."] =
-    "इस थीम में टेक्स्ट को आप कस्टमाइज़ कर सकते हैं.";
-$Definition[
-    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
-] =
-    "इससे समान प्रश्नों वाले अन्य उपयोगकर्ताओं को सही उत्तरों तक तेज़ी से मार्गदर्शन मिलेगा और AI सुझाए गए उत्तर प्रदर्शित होंगे और अन्य उपयोगकर्ताओं को देखने के लिए संदर्भित सामग्री को लिंक किया जाएगा। सुझाव केवल तब तक आपको दिखाई देंगे जब तक आप उत्तर स्वीकार नहीं करते।";
-$Definition["Threshold"] = "थ्रेशोल्ड";
-$Definition["Thumbnails"] = "थंबनेल्स";
-$Definition["Thumbnail Size"] = "थंबनेल का आकार";
-$Definition["Time"] = "समय";
-$Definition["Timeframe"] = "समय सीमा";
-$Definition["Titles"] = "शीर्षकों";
-$Definition["Title Color"] = "शीर्षक रंग";
-$Definition["Title Color (Hover)"] = "शीर्षक रंग (होवर)";
-$Definition["Token Name"] = "टोकन का नाम";
-$Definition["Touch Icon"] = "स्पर्श आइकन";
-$Definition["True"] = "सत्य";
-$Definition["Truncate the initial discussion text to this many words."] =
-    "प्रारंभिक चर्चा के टेक्स्ट को कई शब्दों में विभाजित करें।";
-$Definition["trusted domains"] = "विश्वसनीय डोमेन";
-$Definition["Trusted Domains"] = "विश्वसनीय डोमेन";
-$Definition["Turn OFF"] = "बन्द करें";
-$Definition["Turn off AI Suggested Answers"] = "AI सुझाए गए उत्तर बंद करें";
-$Definition["Turn off for now"] = "अभी के लिए बंद करें";
-$Definition["Twitter Connector"] = "Twitter कनेक्टर";
+$Definition['Test Mode'] = 'टेस्ट मोड: पॉकेट केवल पॉकेट जेब व्यवस्थापकों के लिए ही प्रदर्शित की जाएगी.';
+$Definition['Test URL'] = 'टेस्ट URL';
+$Definition['Text Color'] = 'टेक्स्ट का रंग';
+$Definition['TextEnterEmails'] = 'यहां अल्पविराम द्वारा अलग किए गए ईमेल पते टाइप करें';
+$Definition['Thanks for sticking with us for %s years.'] = '%s वर्षों से हमारे साथ जुड़े रहने के लिए धन्यवाद।';
+$Definition['Thanks for sticking with us for a full year.'] = 'पुरे वर्ष हमारे साथ जुड़े रहने के लिए धन्यवाद।  ';
+$Definition['The %s badge has already been given to %s.'] = '%s बैज पहले से ही %s को दे दिया गया है।';
+$Definition['The %s locale pack does not exist.'] = '%s लोकेल पैक मौजूद नही है।';
+$Definition['The %s table is not in the correct format.'] = '%s तालिका सही प्रारूप में नहीं है.';
+$Definition['The %s was already approved by %s on %s.'] = '%s को %s पहले ही %s द्वारा अनुमोदित कर दिया गया था।';
+$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'नियम सक्षम होने पर उन पर कार्रवाई लागू होगी। भविष्य में, अन्य <0 /> जो ट्रिगर मानदंड को पूरा करते हैं, उन पर भी कार्रवाई लागू होगी।';
+$Definition['The action will be applied to only them if you proceed.'] = 'यदि आप आगे बढ़ेंगे तो कार्रवाई केवल उन पर ही लागू होगी।';
+$Definition['The Basics'] = 'मूल बातें';
+$Definition['The client ID uniqely identifies the site.'] = 'क्लाइंट आईडी विशिष्ट रूप से साइट की पहचान करती है. आप इस पेज के नीचे स्थित बटन से एक नई आईडी बना सकते हैं.';
+$Definition['The content you were looking for has been deleted.'] = 'जिस कंटेंट को आप खोज रहे थे, वह हटा दी गई है।';
+$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'पूरी साइट पर डिफ़ॉल्ट बैनर छवि। इसे प्रति श्रेणी के आधार पर ओवरराइड किया जा सकता है।';
+$Definition['The default role has not been configured.'] = 'डिफ़ॉल्ट भूमिका कॉन्फ़िगर नहीं की गई है।';
+$Definition['The email address this test will be sent to.'] = 'वह ईमेल पता जिस पर यह परीक्षण भेजा जाएगा.';
+$Definition['The email has been sent.'] = 'ईमेल भेज दिया गया है।';
+$Definition['The first line of content in the email digest after the title.'] = 'शीर्षक के बाद ईमेल डाइजेस्ट में सामग्री की पहली पंक्ति।';
+$Definition['The homepage title is displayed on your home page.'] = 'होमपेज का शीर्षक आपके होम पेज पर प्रदर्शित होता है। एक शीर्षक चुनें जिसे आप खोज इंजन में दिखाना चाहते हैं।';
+$Definition['The homepage was saved successfully.'] = 'होमपेज सफलतापूर्वक सहेजा गया.';
+$Definition['The invitation was removed successfully.'] = 'आमंत्रण सफलतापूर्वक हटा दिया गया.';
+$Definition['The invitation was sent successfully.'] = 'आमंत्रण सफलतापूर्वक भेज दिया गया था।';
+$Definition['The Key in the XML payload to designate %s.'] = 'XML पेलोड में कुंजी %s को नामित करने के लिए।';
+$Definition['Theme Editor'] = 'थीम सम्पादक';
+$Definition['ThemeEditor.Copy'] = '<0/> कॉपी';
+$Definition['Theme Options'] = 'थीम के विकल्प';
+$Definition['Themes'] = 'थीम्स';
+$Definition['Theming Documentation'] = 'थीम के दस्तावेज़';
+$Definition['Theming Overview'] = 'थिमिंग ओवरव्यू';
+$Definition['The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>.'] = 'नया समुदाय प्रबंधन सिस्टम कस्टम रिपोर्टिंग कारणों, एस्केलेशन, असाइनमेंट और ऑटोमेशन नियमों की अनुमति देता है। इसे सक्षम करने से नए सिस्टम का उपयोग करने के लिए रिपोर्टिंग इनटेक बदल जाता है। <0>और पढ़ें</0> .';
+$Definition['The next three email digest delivery dates'] = 'अगली तीन ईमेल डाइजेस्ट डिलीवरी तिथियाँ';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'इमेज अपलोड करने में एक त्रुटि हुई है. आपका ईमेल लोगो निम्न में से किसी एक फ़ाइल प्रकार में अपलोड किया जा सकता है: gif, jpg, png';
+$Definition['There are currently %s applicants.'] = 'वर्तमान में %s आवेदक हैं।';
+$Definition['There are currently %s requests.'] = 'वर्तमान में %s अनुरोध हैं।';
+$Definition['There are currently no applicants.'] = 'वर्तमान में कोई आवेदक नहीं है।';
+$Definition['There are currently no comments on this post'] = 'इस पोस्ट पर फिलहाल कोई टिप्पणी नहीं है';
+$Definition['There are currently no reports for this post.'] = 'इस पोस्ट के लिए फिलहाल कोई रिपोर्ट नहीं है।';
+$Definition['There are currently no requests.'] = 'वर्तमान को कोई भी अनुरोध नहीं हैं।';
+$Definition['There are no items awaiting moderation at this time.'] = 'इस समय मॉडरेशन की प्रतीक्षा में कोई आइटम नहीं है.';
+$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'आपके ईमेल पते का उपयोग करते हुए इस फोरम में पहले से ही एक खाता है।
+कृपया एक नया खाता बनाएं, या मौजूदा खाते के लिए क्रेडेंशियल दर्ज करें।';
+$Definition['There is currently %s applicant.'] = 'वर्तमान में %s आवेदक है।';
+$Definition['There is currently %s request.'] = 'वर्तमान में %s अनुरोध है।';
+$Definition['There was an error fetching the connection data.'] = 'कनेक्शन डेटा प्राप्त करते समय त्रुटि हुई.';
+$Definition['There was an error saving your changes. Please try again.'] = 'आपके परिवर्तन सहेजने में त्रुटि हुई थी. कृपया पुन: प्रयास करें।';
+$Definition['The roles which can see this report reason.'] = 'भूमिकाएँ जो इस रिपोर्ट को देख सकती हैं कारण।';
+$Definition['The secret secures the sign in process.'] = 'रहस्य प्रक्रिया में संकेत को सुरक्षित करता है। किसी को भी रहस्य <b>नही बताएँ।</b>';
+$Definition['The site description usually appears in search engines.'] = 'साइट का विवरण अक्सर खोज इंजन में दिखाई देता है। आपको 100-150 अक्षर लम्बा वर्णन रखने की कोशिश करनी चाहिए है।';
+$Definition['The site does not allow you to connect with an existing user.'] = 'यह साइट आपको किसी मौजूदा उपयोगकर्ता से जुड़ने की अनुमति नहीं देती है।';
+$Definition['The site is currently undergoing scheduled maintenance.'] = 'वर्तमान में यह साइट निर्धारित रखरखाव से गुजर रही है।';
+$Definition['The specified url code is already in use by another category.'] = 'निर्दिष्ट url कोड पहले से ही किसी अन्य श्रेणी द्वारा उपयोग में है.';
+$Definition['The structure was successfully executed.'] = 'संरचना को सफलतापूर्वक निष्पादित किया गया था।';
+$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'परीक्षण डाइजेस्ट ऐसी सामग्री उत्पन्न करेगा मानो यह उपयोगकर्ता ही डाइजेस्ट प्राप्त कर रहा हो।';
+$Definition['The update was not successful.'] = 'अद्यतन सफल नहीं था।';
+$Definition['The update was successful.'] = 'अद्यतन सफल रहा.';
+$Definition['The url that users go to to register for a new account.'] = 'जिस url पर उपयोगकर्ता नए अकाउंट के लिए रजिस्टर करने जाते हैं।  ';
+$Definition['The url that users use to register for a new account.'] = 'url जिसका उपयोग उपयोगकर्ता एक नए खाते के पंजीकरण करने के लिए करते हैं।';
+$Definition['The url that users use to sign in.'] = 'वह url जिसका उपयोग उपयोगकर्ता साइन इन करने के लिए करते हैं।';
+$Definition['The URL where users can sign up for new accounts on your site'] = 'वह URL जहां उपयोगकर्ता आपकी साइट पर नए खातों के लिए साइन अप कर सकते हैं';
+$Definition['The URL where users sign in on your site'] = 'वह URL जहाँ यूज़र्स आपकी साइट पर साइन इन करते हैं';
+$Definition['The URL where users sign out of your site'] = 'वह URL जहां उपयोगकर्ता आपकी साइट से साइन आउट करते हैं';
+$Definition['The user and all related content has been deleted.'] = 'यूज़र और सभी संबंधित सामग्री हटा दी गई है.';
+$Definition['The user content will be completely deleted.'] = 'उपयोगकर्ता सामग्री पूरी तरह से हटा दी जाएगी।';
+$Definition['The user content will remain untouched.'] = 'यूजर कंटेंट में कोई बदलाव नहीं होगा';
+$Definition['The user has been created successfully'] = 'उपयोगकर्ता को सफलतापूर्वक बना दिया गया है';
+$Definition['The user has been deleted.'] = 'यूज़र को हटा दिया गया है.';
+$Definition['The username you entered has already been taken.'] = 'आपके द्वारा प्रविष्ट उपयोगकर्ता नाम पहले ही ले लिया गया है।';
+$Definition['This action cannot be undone.'] = 'इस प्रक्रिया को असंपादित नहीं किया जा सकता है. ';
+$Definition['This category has custom permissions.'] = 'इस श्रेणी में  तदनुकूल अनुमतियाँ हैं.';
+$Definition['This category is archived.'] = 'यह श्रेणी संग्रहीत है।';
+$Definition['This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.'] = 'इस रंग का उपयोग आइकन रंग का पूर्वावलोकन करने के लिए किया जाएगा। यह आपके अपलोड किए गए आइकन में #000000 के किसी भी उपयोग को प्रतिस्थापित करेगा। वास्तविक एप्लिकेशन में, रंग गतिशील होंगे।';
+$Definition['This connection is in test-mode.'] = 'यह कनेक्शन अभी परीक्षण मोड में है।';
+$Definition['This controls how the responses are phrased and spelled.'] = 'यह नियंत्रित करता है कि उत्तरों को किस प्रकार लिखा और लिखा जाएगा।';
+$Definition['This Database'] = 'यह डेटाबेस';
+$Definition['This forum is currently set to invitation only mode.'] = 'यह फोरम वर्तमान में केवल आमंत्रण मोड पर सेट है।';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = '"छवि" और/या "पृष्ठभूमि" शैली विकल्पों का उपयोग करते समय यह छवि इस श्रेणी के बैनर और श्रेणी विजेट में दिखाई देगी। अनुशंसित आयाम लगभग 1000px गुणा 400px या समान अनुपात हैं।';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = '"आइकन" शैली विकल्प का उपयोग करते समय इस छवि का उपयोग श्रेणी सूचियों और विजेट्स में किया जाएगा।';
+$Definition['This information will only be shown to users with permission to view internal info'] = 'यह जानकारी केवल उन उपयोगकर्ताओं को दिखाई जाएगी जिनके पास आंतरिक जानकारी देखने की अनुमति है';
+$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'यह संदर्भित चर्चा पोस्ट से एक AI जनरेटेड सारांश है जो प्रश्न का उत्तर दे सकता है। सारांश को इस तरह से बनाया गया है कि इसे स्वीकृत उत्तर के रूप में इस्तेमाल किया जा सके।';
+$Definition['This is a parent category that does not allow discussions.'] = 'यह एक मूल श्रेणी है जो परिचर्चा की अनुमति नही देती है।';
+$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'ऐडसेंस और गूगल टैग मैनेजर जैसी सुविधाओं का उपयोग करने वाली साइटों को छोड़कर अधिकांश साइटों पर यह आवश्यक नहीं है।';
+$Definition['This is private information and will not be shared with other members.'] = 'यह निजी जानकारी है और अन्य सदस्यों के साथ साझा नहीं की जाएगी।';
+$Definition['This is the actual size most icons render at.'] = 'यह वास्तविक आकार है जिस पर अधिकांश आइकन प्रस्तुत होते हैं।';
+$Definition['This is the first time you\'ve visited the discussion forums.'] = 'यह पहली बार है जब आप परिचर्चा फ़ोरम पर गए हैं।';
+$Definition['This layout cannot be deleted because it is a layout template.'] = 'इस लेआउट को हटाया नहीं जा सकता क्योंकि यह एक लेआउट टेम्पलेट है।';
+$Definition['This layout cannot be deleted because it is currently applied.'] = 'यह लेआउट हटाया नहीं जा सकता क्योंकि यह वर्तमान में लागू है.';
+$Definition['This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.'] = 'यह लेआउट परिवर्तन तब तक दिखाई नहीं देगा जब तक आप अपने समुदाय को <1/> पृष्ठ में कस्टम <0/> पर स्विच नहीं करते.';
+$Definition['This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default.'] = 'यह लेआउट एक टेम्प्लेट है और इसे इस प्रकार के सभी पेजों के लिए डिफ़ॉल्ट के रूप में असाइन किया गया है। इसे डिफ़ॉल्ट के रूप में हटाने या इसे विशिष्ट पेजों को असाइन करने के लिए, आपको डिफ़ॉल्ट के रूप में एक अलग लेआउट असाइन करना होगा।';
+$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'इसका उपयोग ईमेल डाइजेस्ट में संगठन का नाम और पता जैसी सामग्री शामिल करने के लिए किया जा सकता है।';
+$Definition['This name will be shown in the community.'] = 'यह नाम समुदाय में दिखाया जाएगा.';
+$Definition['This option is to normalize the editor format'] = 'यह विकल्प संपादक प्रारूप को सामान्य करने के लिए है, यदि मार्कडाउन या बीबीसीओडी जैसे किसी अन्य प्रारूप के साथ संपादित पुराने पोस्ट लोड होते हैं, तो यह विकल्प %s को बाध्य करेगा।';
+$Definition['This page requires Javascript.'] = 'इस पृष्ठ के लिए Javascript आवश्यक है।';
+$Definition['This pocket is an ad.'] = 'यह पॉकेट एक विज्ञापन है.';
+$Definition['This setting must be enabled to use Custom Discussion Threads.'] = 'कस्टम चर्चा थ्रेड का उपयोग करने के लिए यह सेटिंग सक्षम होनी चाहिए।';
+$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'यह सेटिंग केवल तभी प्रभावी होगी जब %s को उपरोक्त पोस्ट प्रारूप के रूप में चुना गया था।';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'इस थीम को हटाया नहीं जा सकता क्योंकि यह वर्तमान में उपयोग में है।';
+$Definition['This theme has additional options.'] = 'इस थीम में %s पेज पर अतिरिक्त विकल्प हैं।';
+$Definition['This theme has customizable text.'] = 'इस थीम में टेक्स्ट को आप कस्टमाइज़ कर सकते हैं.';
+$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'यह ज़ूम इंटीग्रेशन स्वामी की ओर से एक ज़ूम मीटिंग बनाएगा और यदि आप पंजीकृत उपयोगकर्ता हैं, तो आपको सह-होस्ट के रूप में जोड़ देगा। यदि आप पंजीकृत ज़ूम उपयोगकर्ता नहीं हैं या एकीकरण सेट अप करने वाले संगठन का हिस्सा नहीं हैं, तो इस इवेंट में होस्ट के बिना ज़ूम कार्यक्षमता सीमित हो सकती है।';
+$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = 'इससे समान प्रश्नों वाले अन्य उपयोगकर्ताओं को सही उत्तरों तक तेज़ी से मार्गदर्शन मिलेगा और AI सुझाए गए उत्तर प्रदर्शित होंगे और अन्य उपयोगकर्ताओं को देखने के लिए संदर्भित सामग्री को लिंक किया जाएगा। सुझाव केवल तब तक आपको दिखाई देंगे जब तक आप उत्तर स्वीकार नहीं करते।';
+$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'इसका अभी किसी <0 /> पर कोई असर नहीं पड़ेगा। इसका असर भविष्य में उन पर पड़ेगा जो इस मानदंड को पूरा करते हैं।';
+$Definition['This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?'] = 'इससे समुदाय में सभी मौजूदा पोस्ट हल हो जाएंगी। यह बल्क कार्रवाई वेबहुक या लॉग एनालिटिक्स को ट्रिगर नहीं करेगी। जारी रखें?';
+$Definition['Threshold'] = 'थ्रेशोल्ड';
+$Definition['Thumbnails'] = 'थंबनेल्स';
+$Definition['Thumbnail Size'] = 'थंबनेल का आकार';
+$Definition['Time'] = 'समय';
+$Definition['Timeframe'] = 'समय सीमा';
+$Definition['Time since added to collection'] = 'संग्रह में जोड़े जाने के बाद से अब तक का समय';
+$Definition['Time since post has had no activity'] = 'वह समय जब से पोस्ट पर कोई गतिविधि नहीं हुई है';
+$Definition['Time since post has had no comments'] = 'पोस्ट पर कोई टिप्पणी नहीं होने के बाद से';
+$Definition['Time since question has been unanswered'] = 'प्रश्न का उत्तर कब से नहीं मिला';
+$Definition['Time since Registration'] = 'पंजीकरण के बाद से समय';
+$Definition['Title Color'] = 'शीर्षक रंग';
+$Definition['Title Color (Hover)'] = 'शीर्षक रंग (होवर)';
+$Definition['Titles'] = 'शीर्षकों';
+$Definition['Token Name'] = 'टोकन का नाम';
+$Definition['To learn more, <0>see the documentation</0>.'] = 'अधिक जानने के लिए, <0>दस्तावेज़ देखें</0> .';
+$Definition['Touch Icon'] = 'स्पर्श आइकन';
+$Definition['Triage'] = 'ट्राइएज';
+$Definition['Triage Dashboard'] = 'ट्राइएज डैशबोर्ड';
+$Definition['Trigger'] = 'चालू कर देना';
+$Definition['True'] = 'सत्य';
+$Definition['Truncate the initial discussion text to this many words.'] = 'प्रारंभिक चर्चा के टेक्स्ट को कई शब्दों में विभाजित करें।';
+$Definition['Trusted Domains'] = 'विश्वसनीय डोमेन';
+$Definition['trusted domains'] = 'विश्वसनीय डोमेन';
+$Definition['Turn OFF'] = 'बन्द करें';
+$Definition['Turn off AI Suggested Answers'] = 'AI सुझाए गए उत्तर बंद करें';
+$Definition['Turn off for now'] = 'अभी के लिए बंद करें';
+$Definition['Twitter Connector'] = 'Twitter कनेक्टर';
 
-$Definition["unconfirmed"] = "अपुष्ट";
-$Definition["Undo Accept Answer"] = "पूर्ववत करें उत्तर स्वीकार करें";
-$Definition["Uninvite"] = "आमंत्रण रद्द करें";
-$Definition["Universal Code"] = "यूनिवर्सल कोड";
-$Definition["Universal Forum Embed Code"] = "यूनिवर्सल फोरम एम्बेड कोड";
-$Definition["Unlimited"] = "असीमित";
-$Definition["Up to a maximum of 100 items may be displayed."] =
-    "अधिकतम 100 आइटम प्रदर्शित किए जा सकते हैं।";
-$Definition["Upload New Email Logo"] = "नया ईमेल लोगो अपलोड करें";
-$Definition["Upcoming Events"] = "आगामी इवेंट";
-$Definition["Use an SMTP server to send email"] =
-    "ईमेल भेजने के लिए एक SMTP सर्वर का उपयोग करें";
-$Definition["Use asterisks for wildcards"] =
-    'वाइल्डकार्ड के लिए तारांकन का उपयोग करें, जैसे "*@gmail.com"';
-$Definition["Use British English Spelling"] = "ब्रिटिश अंग्रेजी वर्तनी का प्रयोग करें";
-$Definition["Use Categories"] = "श्रेणियों का उपयोग करें";
-$Definition["Use categories to organize discussions"] =
-    "चर्चाओं को व्यवस्थित करने के लिए श्रेणियों का उपयोग करें";
-$Definition["Use Facebook names for usernames."] =
-    "उपयोगकर्ता के नाम के लिए फेसबुक के नाम का उपयोग करें।";
-$Definition["Use AI Suggestions in Q&A"] = "प्रश्नोत्तर में AI सुझावों का उपयोग करें";
-$Definition["User Count"] = "यूज़र्स";
-$Definition["UserDelete"] = "यूज़र सामग्री हटाएँ";
-$Definition["User Deleted"] = "उपयोगकर्ता को हटा दिया गया";
-$Definition["User Preferences"] = "उपयोगकर्ता वरीयताएं";
-$Definition[
-    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
-] =
-    "इसमें अत्यधिक तकनीकी भाषा और उद्योग-विशिष्ट शब्दों का प्रयोग किया गया है, जो विषय-वस्तु की गहरी समझ रखने वालों के लिए है।";
-$Definition[
-    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
-] =
-    "जहां आवश्यक हो, वहां उद्योग-विशिष्ट शब्दों का प्रयोग किया जाता है, लेकिन स्पष्टता सुनिश्चित करने के लिए परिभाषाओं की व्याख्या भी प्रदान की जाती है।";
-$Definition[
-    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
-] =
-    "सरल, रोजमर्रा की भाषा का प्रयोग करें जिसे कोई भी व्यक्ति समझ सकता है, चाहे उसकी पृष्ठभूमि या विशेषज्ञता कुछ भी हो।";
-$Definition["UserDeleteMessage"] =
-    'उपयोगकर्ता को हटा दें और उपयोगकर्ता की सभी सामग्री को पूरी तरह से हटा दें। इससे चर्चाएँ स्थगित हो सकता है। स्पैम हटाने का सबसे अच्छा विकल्प।';
-$Definition["UserDeletionPrompt"] =
-    "चुनें कि %s (टिप्पणी, संदेश, आदि) के लिए उपयोगकर्ता खाते से जुड़ी सभी सामग्री को कैसे संभालना है।";
-$Definition["UserKeep"] = "उपयोगकर्ता सामग्री रखें";
-$Definition["UserKeepMessage"] =
-    'उपयोगकर्ता को हटाएं लेकिन उपयोगकर्ता की सामग्री को बनाए रखें।';
-$Definition["Username or UserID to Spoof"] = "स्पूफ़ करने के लिए उपयोगकर्ता नाम या उपयोगकर्ता आईडी";
-$Definition["User Registration Settings"] = "उपयोगकर्ता पंजीकरण सेटिंग्स";
-$Definition["User successfully added."] = "उपयोगकर्ता सफलतापूर्वक जोड़ा गया।";
-$Definition["User successfully updated."] = "उपयोगकर्ता सफलतापूर्वक अपडेट किया गया।";
-$Definition[
-    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
-] =
-    "उपयोगकर्ता नए पोस्ट के लिए सूचनाओं की सदस्यता लेने के लिए श्रेणियों का अनुसरण कर सकते हैं। चुनें कि नए उपयोगकर्ताओं को डिफ़ॉल्ट रूप से किन श्रेणियों का अनुसरण करना चाहिए।";
-$Definition["Users that get this reaction get %+d point."] =
-    "इस प्रतिक्रिया को प्राप्त करने वाले उपयोगकर्ताओं को %+d अंक मिलता है।";
-$Definition["Users that get this reaction get %+d points."] =
-    "यह प्रतिक्रिया प्राप्त करने वाले उपयोगकर्ताओं को %+d अंक मिलते हैं।";
-$Definition[
-    "Users will not be warned when following links that match a Trusted Domain."
-] =
-    "विश्वसनीय डोमेन से मेल खाते लिंक को फॉलो करने पर उपयोगकर्ताओं को चेतावनी नही दी जाएगी।";
-$Definition[
-    "Users will be redirected to this URL after accepting an invitation."
-] =
-    "आमंत्रण स्वीकार करने के बाद सभी यूजर को इस URL पर फिर से निर्देशित कर दिया जाएगा। यह साइट के अंदर फिर से निर्देशित करने के लिए, एक पूरा URL या एक पथ हो सकता है।";
-$Definition["User Summary"] = "यूजर का सारांश 
-";
-$Definition[
-    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
-] =
-    'जब तक वे अपने ईमेल पते की पुष्टि नहीं कर लेते, तब तक उपयोगकर्ताओं को इस भूमिका को सौंपा जाएगा।';
-$Definition["Users with the no ads permission will not see this pocket."] =
-    "बिना विज्ञापन अनुमति वाले उपयोगकर्ता इस पॉकेट को नहीं देखेंगे।";
-$Definition["UserWipe"] = "ब्लैंक यूज़र कंटेन्ट  ";
-$Definition["UserWipeMessage"] =
-    'यूजर को हटा दें और उपयोगकर्ता के सभी कंटेंट को एक संदेश के साथ बदल दें, जिसमें यह बताया गया हो कि यूजर को हटा दिया गया है। यह एक दृश्य संकेत देता है कि जानकारी उपलब्ध नहीं है।';
-$Definition["Use the content at this url as your homepage."] =
-    'जब वे विज़िट करें, तो वह पेज चुनें जिसे लोगों को देखना चाहिए: <strong style="white-space: nowrap;">%s</strong>';
-$Definition["Use Vanilla as a commenting system in your site"] =
-    "अपनी साइट में वेनिला को एक टिप्पणी प्रणाली के रूप में उपयोग करें";
-$Definition["Use weekly community email digest"] =
-    "साप्ताहिक सामुदायिक ईमेल डाइजेस्ट का उपयोग करें";
-$Definition["Untitled"] = "बिना शीर्षक के";
+$Definition['Unable to re-assign default template'] = 'डिफ़ॉल्ट टेम्पलेट को पुनः असाइन करने में असमर्थ';
+$Definition['Unassigned'] = 'सौंपे नहीं गए';
+$Definition['unconfirmed'] = 'अपुष्ट';
+$Definition['Undo Accept Answer'] = 'पूर्ववत करें उत्तर स्वीकार करें';
+$Definition['Uninvite'] = 'आमंत्रण रद्द करें';
+$Definition['Universal Code'] = 'यूनिवर्सल कोड';
+$Definition['Universal Forum Embed Code'] = 'यूनिवर्सल फोरम एम्बेड कोड';
+$Definition['Unlimited'] = 'असीमित';
+$Definition['Unsaved Changes'] = 'सहेजे न गए परिवर्तन';
+$Definition['Untitled'] = 'बिना शीर्षक के';
+$Definition['Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>'] = 'असत्यापित सदस्य जो निर्दिष्ट दिनों से कम समय से समुदाय में हैं, उन्हें स्पैम को रोकने के लिए क्लाउडफ्लेयर (कैप्चा या चेकबॉक्स) चुनौती को पूरा करने के लिए कहा जाएगा। <0/>';
+$Definition['Upcoming Events'] = 'आगामी इवेंट';
+$Definition['Upload a placeholder image for catalogue post.'] = 'एक प्लेसहोल्डर इमेज अपलोड करें जो उपयोगकर्ताओं की पोस्ट में इमेज नहीं होने पर दिखाई देगी।';
+$Definition['Uploaded <0/> by <1/>'] = '<0/> द्वारा <1/> अपलोड किया गया';
+$Definition['Upload Icon Pack'] = 'आइकन पैक अपलोड करें';
+$Definition['Upload New Email Logo'] = 'नया ईमेल लोगो अपलोड करें';
+$Definition['Upload New Icon'] = 'नया आइकन अपलोड करें';
+$Definition['Upload Placeholder Image'] = 'प्लेसहोल्डर इमेज अपलोड करें';
+$Definition['Up to <0 /> ago.'] = '<0 /> तक पहले.';
+$Definition['Up to a maximum of 100 items may be displayed.'] = 'अधिकतम 100 आइटम प्रदर्शित किए जा सकते हैं।';
+$Definition['upvote'] = 'वोट दें';
+$Definition['upvotes'] = 'अपवोट';
+$Definition['Use AI Suggestions in Q&A'] = 'प्रश्नोत्तर में AI सुझावों का उपयोग करें';
+$Definition['Use an SMTP server to send email'] = 'ईमेल भेजने के लिए एक SMTP सर्वर का उपयोग करें';
+$Definition['Use asterisks for wildcards'] = 'वाइल्डकार्ड के लिए तारांकन का उपयोग करें, जैसे "*@gmail.com"';
+$Definition['Use British English Spelling'] = 'ब्रिटिश अंग्रेजी वर्तनी का प्रयोग करें';
+$Definition['Use Categories'] = 'श्रेणियों का उपयोग करें';
+$Definition['Use categories to organize discussions'] = 'चर्चाओं को व्यवस्थित करने के लिए श्रेणियों का उपयोग करें';
+$Definition['Use Facebook names for usernames.'] = 'उपयोगकर्ता के नाम के लिए फेसबुक के नाम का उपयोग करें।';
+$Definition['Use Masonry display'] = 'मेसनरी डिस्प्ले का उपयोग करें';
+$Definition['User Count'] = 'यूज़र्स';
+$Definition['UserDelete'] = 'यूज़र सामग्री हटाएँ';
+$Definition['User Deleted'] = 'उपयोगकर्ता को हटा दिया गया';
+$Definition['UserDeleteMessage'] = 'उपयोगकर्ता को हटा दें और उपयोगकर्ता की सभी सामग्री को पूरी तरह से हटा दें। इससे चर्चाएँ स्थगित हो सकता है। स्पैम हटाने का सबसे अच्छा विकल्प।';
+$Definition['UserDeletionPrompt'] = 'चुनें कि %s (टिप्पणी, संदेश, आदि) के लिए उपयोगकर्ता खाते से जुड़ी सभी सामग्री को कैसे संभालना है।';
+$Definition['UserKeep'] = 'उपयोगकर्ता सामग्री रखें';
+$Definition['UserKeepMessage'] = 'उपयोगकर्ता को हटाएं लेकिन उपयोगकर्ता की सामग्री को बनाए रखें।';
+$Definition['User Management'] = 'प्रयोक्ता प्रबंधन';
+$Definition['Username or UserID to Spoof'] = 'स्पूफ़ करने के लिए उपयोगकर्ता नाम या उपयोगकर्ता आईडी';
+$Definition['User Preferences'] = 'उपयोगकर्ता वरीयताएं';
+$Definition['User Registration Settings'] = 'उपयोगकर्ता पंजीकरण सेटिंग्स';
+$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'उपयोगकर्ता नए पोस्ट के लिए सूचनाओं की सदस्यता लेने के लिए श्रेणियों का अनुसरण कर सकते हैं। चुनें कि नए उपयोगकर्ताओं को डिफ़ॉल्ट रूप से किन श्रेणियों का अनुसरण करना चाहिए।';
+$Definition['Users marked as "Verified" will bypass this requirement. These are are the roles with "Approval.Require"'] = '"सत्यापित" के रूप में चिह्नित उपयोगकर्ता इस आवश्यकता को दरकिनार कर देंगे। ये "अनुमोदन.आवश्यकता" वाली भूमिकाएँ हैं';
+$Definition['Users Matching Criteria Now: <0 />'] = 'उपयोगकर्ता मिलान मानदंड अब: <0 />';
+$Definition['Users that get this reaction get %+d point.'] = 'इस प्रतिक्रिया को प्राप्त करने वाले उपयोगकर्ताओं को %+d अंक मिलता है।';
+$Definition['Users that get this reaction get %+d points.'] = 'यह प्रतिक्रिया प्राप्त करने वाले उपयोगकर्ताओं को %+d अंक मिलते हैं।';
+$Definition['User successfully added.'] = 'उपयोगकर्ता सफलतापूर्वक जोड़ा गया।';
+$Definition['User successfully updated.'] = 'उपयोगकर्ता सफलतापूर्वक अपडेट किया गया।';
+$Definition['User Summary'] = 'यूजर का सारांश 
+';
+$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'जब तक वे अपने ईमेल पते की पुष्टि नहीं कर लेते, तब तक उपयोगकर्ताओं को इस भूमिका को सौंपा जाएगा।';
+$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'आमंत्रण स्वीकार करने के बाद सभी यूजर को इस URL पर फिर से निर्देशित कर दिया जाएगा। यह साइट के अंदर फिर से निर्देशित करने के लिए, एक पूरा URL या एक पथ हो सकता है।';
+$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'विश्वसनीय डोमेन से मेल खाते लिंक को फॉलो करने पर उपयोगकर्ताओं को चेतावनी नही दी जाएगी।';
+$Definition['Users with the "Approval.Require" permission will require moderator approval for all posts.'] = '"Approval.Require" अनुमति वाले उपयोगकर्ताओं को सभी पोस्ट के लिए मॉडरेटर की स्वीकृति की आवश्यकता होगी।';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'बिना विज्ञापन अनुमति वाले उपयोगकर्ता इस पॉकेट को नहीं देखेंगे।';
+$Definition['UserWipe'] = 'ब्लैंक यूज़र कंटेन्ट  ';
+$Definition['UserWipeMessage'] = 'यूजर को हटा दें और उपयोगकर्ता के सभी कंटेंट को एक संदेश के साथ बदल दें, जिसमें यह बताया गया हो कि यूजर को हटा दिया गया है। यह एक दृश्य संकेत देता है कि जानकारी उपलब्ध नहीं है।';
+$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'इसमें अत्यधिक तकनीकी भाषा और उद्योग-विशिष्ट शब्दों का प्रयोग किया गया है, जो विषय-वस्तु की गहरी समझ रखने वालों के लिए है।';
+$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'जहां आवश्यक हो, वहां उद्योग-विशिष्ट शब्दों का प्रयोग किया जाता है, लेकिन स्पष्टता सुनिश्चित करने के लिए परिभाषाओं की व्याख्या भी प्रदान की जाती है।';
+$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'सरल, रोजमर्रा की भाषा का प्रयोग करें जिसे कोई भी व्यक्ति समझ सकता है, चाहे उसकी पृष्ठभूमि या विशेषज्ञता कुछ भी हो।';
+$Definition['Use the content at this url as your homepage.'] = 'जब वे विज़िट करें, तो वह पेज चुनें जिसे लोगों को देखना चाहिए: <strong style="white-space: nowrap;">%s</strong>';
+$Definition['Use Vanilla as a commenting system in your site'] = 'अपनी साइट में वेनिला को एक टिप्पणी प्रणाली के रूप में उपयोग करें';
+$Definition['Use weekly community email digest'] = 'साप्ताहिक सामुदायिक ईमेल डाइजेस्ट का उपयोग करें';
 
-$Definition["Value or Pattern"] = "मान या पैटर्न";
-$Definition["Vanilla.Archive.Description"] =
-    "आप एक निश्चित तिथि से अधिक पुराने फ़ोरम चर्चाओं को संग्रह चुन सकते हैं। संग्रहीत चर्चाएं प्रभावी रूप से बंद हैं, जिससे कोई नई पोस्ट नहीं हो सकती है।";
-$Definition["Vanilla.Categories.MaxDisplayDepth"] =
-    'नेस्टेड श्रेणियों को अल्पविराम-सीमांकित सूची में रखें जब वे हों
+$Definition['Value is not a valid integer.'] = 'मान एक वैध पूर्णांक नहीं है.';
+$Definition['Value or Pattern'] = 'मान या पैटर्न';
+$Definition['Vanilla.Archive.Description'] = 'आप एक निश्चित तिथि से अधिक पुराने फ़ोरम चर्चाओं को संग्रह चुन सकते हैं। संग्रहीत चर्चाएं प्रभावी रूप से बंद हैं, जिससे कोई नई पोस्ट नहीं हो सकती है।';
+$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'नेस्टेड श्रेणियों को अल्पविराम-सीमांकित सूची में रखें जब वे हों
 %1$s';
-$Definition["Vanilla is installed!"] = "वेनिला स्थापित किया गया!";
-$Definition["Verified!"] = "सत्यापित!";
-$Definition["Version"] = "संस्करण";
-$Definition["Version %s"] = "संस्करण %s";
-$Definition["version %s"] = "वर्श़न %s";
-$Definition["Version %s Installer"] = "वर्श़न %s इंस्टॉलर ";
-$Definition["View browser compatibility chart"] =
-    "ब्राउज़र संगतता चार्ट देखें";
-$Definition["View Count"] = "देखे जाने की संख्या";
-$Definition["View in context "] = "संदर्भ में देखें";
-$Definition["View Page"] = "पेज देखें ";
-$Definition["Visit Site"] = "साइट विज़िट करें";
-$Definition[
-    "Warn users if a link in a post will cause them to leave the forum"
-] = "यदि पोस्ट का लिंक उपयोगकर्ताओं के फोरम छोड़ने का कारण बने तो उन्हें चेतावनी दें";
-$Definition[
-    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
-] =
-    "चेतावनी: आपका सारा डेटा खो जाएगा। एक बार जब आप हटाते हैं, तो किसी भी तरह की कोई रिकवरी नहीं होती है।";
-$Definition["Warning: deleting is permanent"] =
-    "चेतावनी: हटाए गए आइटम इस सूची से हटा दिए गए हैं और उन्हें वापस नहीं लाया जा सकता है.";
-$Definition["Weekly Email Digest "] = "साप्ताहिक ईमेल डाइजेस्ट";
-$Definition["Welcome to Vanilla!"] = "वैनिला में स्वागत है!";
-$Definition["Welcome to your Dashboard"] = "आपका डैशबोर्ड पर स्वागत है";
-$Definition["We only accept urls that begin with http:// or https://"] =
-    "हम केवल उन url को स्वीकार करते हैं जो http:// या https:// से शुरू होते हैं";
-$Definition[
-    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
-] =
-    "हम डिफ़ॉल्ट रूप से ईमेल भेजने के लिए स्थानीय मेल सर्वर का उपयोग करने का प्रयास करेंगे। यदि आप एक अलग SMTP मेल सर्वर का उपयोग करना चाहते हैं, तो आप इसे नीचे कॉन्फ़िगर कर सकते हैं।";
-$Definition[
-    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
-] =
-    "आपका स्वागत है। मैं आपका AI सुझाव सहायक हूँ, एक मशीन लर्निंग-आधारित उपकरण जिसे आपके प्रश्नों के उत्तर में प्रासंगिक लेख और पोस्ट ढूँढने और सुझाव देने के लिए डिज़ाइन किया गया है। कृपया अपने प्रश्न दर्ज करें और मैं सबसे उपयुक्त जानकारी प्रदान करूँगा।";
+$Definition['Vanilla is installed!'] = 'वेनिला स्थापित किया गया!';
+$Definition['Verified!'] = 'सत्यापित!';
+$Definition['Verify browsers of new members'] = 'नए सदस्यों के ब्राउज़र सत्यापित करें';
+$Definition['Version'] = 'संस्करण';
+$Definition['Version %s'] = 'संस्करण %s';
+$Definition['version %s'] = 'वर्श़न %s';
+$Definition['Version %s Installer'] = 'वर्श़न %s इंस्टॉलर ';
+$Definition['View browser compatibility chart'] = 'ब्राउज़र संगतता चार्ट देखें';
+$Definition['View Category'] = 'श्रेणी देखें';
+$Definition['View Count'] = 'देखे जाने की संख्या';
+$Definition['View Details'] = 'विवरण देखें';
+$Definition['View Escalation'] = 'एस्केलेशन देखें';
+$Definition['View History'] = 'इतिहास देखें';
+$Definition['View in context '] = 'संदर्भ में देखें';
+$Definition['View Page'] = 'पेज देखें ';
+$Definition['View post in community'] = 'समुदाय में पोस्ट देखें';
+$Definition['VIP Deploy'] = 'वीआईपी तैनाती';
+$Definition['Visit Site'] = 'साइट विज़िट करें';
+$Definition['Visualize Your Community'] = 'अपने समुदाय की कल्पना करें';
+$Definition['Votes on an idea'] = 'किसी विचार पर वोट';
+
+$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'चेतावनी: आपका सारा डेटा खो जाएगा। एक बार जब आप हटाते हैं, तो किसी भी तरह की कोई रिकवरी नहीं होती है।';
+$Definition['Warning: deleting is permanent'] = 'चेतावनी: हटाए गए आइटम इस सूची से हटा दिए गए हैं और उन्हें वापस नहीं लाया जा सकता है.';
+$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'यदि पोस्ट का लिंक उपयोगकर्ताओं के फोरम छोड़ने का कारण बने तो उन्हें चेतावनी दें';
+$Definition['Weekly Email Digest '] = 'साप्ताहिक ईमेल डाइजेस्ट';
+$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'आपका स्वागत है। मैं आपका AI सुझाव सहायक हूँ, एक मशीन लर्निंग-आधारित उपकरण जिसे आपके प्रश्नों के उत्तर में प्रासंगिक लेख और पोस्ट ढूँढने और सुझाव देने के लिए डिज़ाइन किया गया है। कृपया अपने प्रश्न दर्ज करें और मैं सबसे उपयुक्त जानकारी प्रदान करूँगा।';
+$Definition['Welcome to Vanilla!'] = 'वैनिला में स्वागत है!';
+$Definition['Welcome to your Dashboard'] = 'आपका डैशबोर्ड पर स्वागत है';
+$Definition['We only accept urls that begin with http:// or https://'] = 'हम केवल उन url को स्वीकार करते हैं जो http:// या https:// से शुरू होते हैं';
+$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'हम डिफ़ॉल्ट रूप से ईमेल भेजने के लिए स्थानीय मेल सर्वर का उपयोग करने का प्रयास करेंगे। यदि आप एक अलग SMTP मेल सर्वर का उपयोग करना चाहते हैं, तो आप इसे नीचे कॉन्फ़िगर कर सकते हैं।';
 $Definition['What\'s the Buzz?'] = 'क्या चल रहा है?';
-$Definition["When enabled, search result will open in a new browser tab."] =
-    "सक्षम होने पर, खोज परिणाम एक नए ब्राउज़र टैब में खुल जाएगा।";
-$Definition[
-    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
-] = "सक्षम होने पर, आपके समुदाय में प्रश्नोत्तर में AI सुझाव दिखाए जाएंगे। <0/>";
-$Definition[
-    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
-] =
-    "जब यह सेटिंग सक्षम हो जाती है, तो Analytics डेटा में उपयोगकर्ता विवरण डिफ़ॉल्ट रूप से अज्ञात हो जाएगा, जब तक कि उपयोगकर्ता Analytics कुकीज़ के लिए सहमति नहीं देता। <0>और जानें</0>";
-$Definition["Where is your Community Forum?"] =
-    "आपका कम्यूनिटी फोरम कहां है?";
+$Definition['When enabled, search result will open in a new browser tab.'] = 'सक्षम होने पर, खोज परिणाम एक नए ब्राउज़र टैब में खुल जाएगा।';
+$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'सक्षम होने पर, आपके समुदाय में प्रश्नोत्तर में AI सुझाव दिखाए जाएंगे। <0/>';
+$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'जब यह सेटिंग सक्षम हो जाती है, तो Analytics डेटा में उपयोगकर्ता विवरण डिफ़ॉल्ट रूप से अज्ञात हो जाएगा, जब तक कि उपयोगकर्ता Analytics कुकीज़ के लिए सहमति नहीं देता। <0>और जानें</0>';
+$Definition['Where is your Community Forum?'] = 'आपका कम्यूनिटी फोरम कहां है?';
 $Definition['Who\'s Online Settings'] = 'कौन ऑनलाइन है की सेटिंग्स';
-$Definition["Why am I seeing AI Suggested Answers?"] =
-    "मुझे AI सुझाए गए उत्तर क्यों दिखाई दे रहे हैं?";
-$Definition["Why am I seeing this?"] = "मैं यह क्यों देख रहा हूं?";
-$Definition["Why do you want to join?"] = "आप क्यों शामिल होना चाहते हैं?";
-$Definition["Within"] = "अंदर";
-$Definition["Will you be attending?"] = "क्या आप शामिल हो रहे हैं?";
-$Definition["WordPress Plugin"] = "वर्डप्रेस प्लगइन";
-$Definition["Word Count"] = "शब्दों की संख्या";
+$Definition['Why am I seeing AI Suggested Answers?'] = 'मुझे AI सुझाए गए उत्तर क्यों दिखाई दे रहे हैं?';
+$Definition['Why am I seeing this?'] = 'मैं यह क्यों देख रहा हूं?';
+$Definition['Why do you want to join?'] = 'आप क्यों शामिल होना चाहते हैं?';
+$Definition['Will you be attending?'] = 'क्या आप शामिल हो रहे हैं?';
+$Definition['Wipe'] = 'पोंछना';
+$Definition['with'] = 'साथ';
+$Definition['Within'] = 'अंदर';
+$Definition['with reason'] = 'कारण सहित';
+$Definition['with tag'] = 'टैग के साथ';
+$Definition['Word Count'] = 'शब्दों की संख्या';
+$Definition['WordPress Plugin'] = 'वर्डप्रेस प्लगइन';
 
-$Definition["Yes, the following information can be changed later."] =
-    "हां, निम्नलिखित जानकारी बाद में बदली जा सकती है।";
-$Definition["You are connected as %s."] = "आप %s के रूप में जुड़े हुए हैं.";
-$Definition["You are not allowed to use suggestions"] =
-    "आपको सुझावों का उपयोग करने की अनुमति नहीं है";
-$Definition["You are previewing the %s theme."] =
-    "आप %s थीम का पूर्वावलोकन कर रहे हैं।";
-$Definition[
-    "You can also ban the users that posted the spam and delete all of their posts."
-] =
-    "उस यूज़र जिसने स्पैम पोस्ट किये थे उन्हें प्रतिबंधित करने और उनकी सारी पोस्टों को हटाने के लिए उसके समीप स्थित बॉक्स को चेक करें. <b>ऐसा तभी करें जब आप आश्वस्त हों कि ये स्पैमर हैं.</b>";
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
-    'यदि आप कभी अपने फ़ोरम से लॉक आउट हो जाते हैं तो आप अपने मूल Vanilla ईमेल और पासवर्ड का उपयोग करके <a href="%1$s">%1$s</a> पर कभी भी लॉग इन कर सकते हैं।';
-$Definition[
-    "You can ban IP addresses, email domains, and words from usernames using this tool."
-] =
-    "आप इस उपकरण का उपयोग करके उपयोगकर्ता नाम से आईपी पते, ईमेल डोमेन और शब्दों पर प्रतिबंध लगा सकते हैं।";
-$Definition[
-    "You can customize the HTML and CSS for this theme on the %s page."
-] = "आप %s पृष्ठ पर इस थीम के लिए HTML और CSS को कस्टमाइज़ कर सकते हैं.";
-$Definition[
-    "You can either create a new account, or enter your credentials if you have an existing account."
-] =
-    " यदि आपके पास कोई मौजूदा खाता है, तो अपनी डिटेल्स दर्ज कर सकते हैं या तो आप एक नया खाता बना सकते हैं.";
-$Definition["You can make the categories page your homepage."] =
-    'आप अपनी श्रेणियों के पेज को अपना होमपेज <a href="%s">यहां </a> बना सकते हैं।';
-$Definition[
-    "You can search for users by username or email, wildcards are implied."
-] = "आप उपयोगकर्ता नाम या ईमेल द्वारा उपयोगकर्ताओं को खोज सकते हैं, वाइल्डकार्ड निहित हैं।";
-$Definition["You can specify an allow list of trusted domains."] =
-    "आप विश्वसनीय डोमेन की एक सूची निर्दिष्ट कर सकते हैं जो रीडायरेक्ट और एम्बेडिंग के लिए सुरक्षित हैं।";
-$Definition["You can specify an allow list of trusted domains. (CSP)"] =
-    "आप विश्वसनीय डोमेन (उदा. yourdomain.com) की अनुमति सूची निर्दिष्ट कर सकते हैं जो जावास्क्रिप्ट को लोड करने के लिए सुरक्षित हैं।";
-$Definition[
-    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
-] =
-    'आप% %1$s प्लगइन को अक्षम नहीं कर सकते क्योंकि% %2$s प्लगइन को कार्य करने के लिए इसकी आवश्यकता होती है.';
-$Definition[
-    "You cannot remove the only remaining category that allows discussions"
-] = "आप केवल शेष बची श्रेणी को नहीं हटा सकते हैं जो चर्चाओं की अनुमति देती है";
-$Definition[
-    "You can protect your site with an HTTP username/password during development."
-] =
-    "आप डेवलपमेंट के दौरान अपनी साइट को एक HTTP यूजरनेम/ पासवर्ड से सुरक्षित कर सकते हैं।";
-$Definition[
-    "You can send emails in plain text by disabling the toggle below."
-] = "आप नीचे टॉगल को अक्षम करके सादे टेक्स्ट में ईमेल को भेज सकते हैं।";
-$Definition["You have %s invitations left for this month."] =
-    "आपके पास इस महीने के लिए %s निमंत्रण बचे हैं।";
-$Definition["You have successfully saved interest: <0/>"] =
-    "आपने सफलतापूर्वक ब्याज सहेज लिया है: <0/>";
-$Definition["You must be authenticated in order to use this form."] =
-    "इस फॉर्म का उपयोग करने के लिए आपको प्रमाणित होना चाहिए।";
-$Definition["You must manually apply this rank."] =
-    "आपको इस रैंक को मैन्युअल रूप से लागू करना चाहिए।";
-$Definition["You must provide at least one recipient"] =
-    "आपको कम से कम एक प्राप्तकर्ता उपलब्ध कराना होगा";
-$Definition["You must specify an admin password."] =
-    "आपको एक एडमिन पासवर्ड निर्दिष्ट करना होगा.";
-$Definition["You must specify an admin username."] =
-    "आपको एक व्यवस्थापक उपयोगकर्ता नाम निर्दिष्ट करना होगा।";
-$Definition[
-    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
-] =
-    "आपकी कॉन्फ़िगरेशन फ़ाइल में सही अनुमति नहीं है। PHP को इस फ़ाइल को पढ़ने और लिखने में सक्षम होना चाहिए: <code>%s</code>";
-$Definition['Your default locale won\'t display properly'] =
-    'आपका डिफ़ॉल्ट स्थान तब तक ठीक से प्रदर्शित नहीं होगा जब तक यह नीचे सक्षम नहीं है. कृपया निम्नलिखित को सक्षम करें: %s. ';
-$Definition["Your Email"] = "आपका ईमेल";
-$Definition["Your inbox is empty."] = "आपका इनबॉक्स खाली है.";
-$Definition["Your invitations were sent successfully."] =
-    "आपके निमंत्रण सफलतापूर्वक भेजे गए थे।";
-$Definition["Your Password"] = "आपका पासवर्ड";
-$Definition[
-    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "आप अपने परिवर्तनों को सहेजे बिना थीम संपादक को छोड़ रहे हैं। सुनिश्चित कर लें कि बाहर निकलने से पहले आपके अपडेट सहेज लिए गए हैं।";
-$Definition[
-    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "आप अपने परिवर्तनों को सहेजे बिना ईमेल सेटिंग पृष्ठ छोड़ रहे हैं। सुनिश्चित करें कि बाहर निकलने से पहले आपके अपडेट सहेजे गए हैं।";
+$Definition['Yes, the following information can be changed later.'] = 'हां, निम्नलिखित जानकारी बाद में बदली जा सकती है।';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'आप अधिकतम लॉगिन प्रयासों तक पहुँच चुके हैं। कृपया %s प्रतीक्षा करें और पुन: प्रयास करें।';
+$Definition['You are connected as %s.'] = 'आप %s के रूप में जुड़े हुए हैं.';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'आप अपने परिवर्तनों को सहेजे बिना ईमेल सेटिंग पृष्ठ छोड़ रहे हैं। सुनिश्चित करें कि बाहर निकलने से पहले आपके अपडेट सहेजे गए हैं।';
+$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'आप अपने परिवर्तनों को सहेजे बिना थीम संपादक को छोड़ रहे हैं। सुनिश्चित कर लें कि बाहर निकलने से पहले आपके अपडेट सहेज लिए गए हैं।';
+$Definition['You are not allowed to use suggestions'] = 'आपको सुझावों का उपयोग करने की अनुमति नहीं है';
+$Definition['You are previewing the %s theme.'] = 'आप %s थीम का पूर्वावलोकन कर रहे हैं।';
+$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'उस यूज़र जिसने स्पैम पोस्ट किये थे उन्हें प्रतिबंधित करने और उनकी सारी पोस्टों को हटाने के लिए उसके समीप स्थित बॉक्स को चेक करें. <b>ऐसा तभी करें जब आप आश्वस्त हों कि ये स्पैमर हैं.</b>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'यदि आप कभी अपने फ़ोरम से लॉक आउट हो जाते हैं तो आप अपने मूल Vanilla ईमेल और पासवर्ड का उपयोग करके <a href="%1$s">%1$s</a> पर कभी भी लॉग इन कर सकते हैं।';
+$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'आप इस उपकरण का उपयोग करके उपयोगकर्ता नाम से आईपी पते, ईमेल डोमेन और शब्दों पर प्रतिबंध लगा सकते हैं।';
+$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'आप %s पृष्ठ पर इस थीम के लिए HTML और CSS को कस्टमाइज़ कर सकते हैं.';
+$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = ' यदि आपके पास कोई मौजूदा खाता है, तो अपनी डिटेल्स दर्ज कर सकते हैं या तो आप एक नया खाता बना सकते हैं.';
+$Definition['You can make the categories page your homepage.'] = 'आप अपनी श्रेणियों के पेज को अपना होमपेज <a href="%s">यहां </a> बना सकते हैं।';
+$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'आप 150 से ज़्यादा ऑटोमेशन नियम नहीं जोड़ सकते। कुछ नियम हटाएँ और फिर से कोशिश करें।';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'आप% %1$s प्लगइन को अक्षम नहीं कर सकते क्योंकि% %2$s प्लगइन को कार्य करने के लिए इसकी आवश्यकता होती है.';
+$Definition['You cannot remove the only remaining category that allows discussions'] = 'आप केवल शेष बची श्रेणी को नहीं हटा सकते हैं जो चर्चाओं की अनुमति देती है';
+$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'आप इस ईवेंट का ज़ूम यूआरएल या आईडी अपडेट नहीं कर सकते.';
+$Definition['You can protect your site with an HTTP username/password during development.'] = 'आप डेवलपमेंट के दौरान अपनी साइट को एक HTTP यूजरनेम/ पासवर्ड से सुरक्षित कर सकते हैं।';
+$Definition['You can search for users by username or email, wildcards are implied.'] = 'आप उपयोगकर्ता नाम या ईमेल द्वारा उपयोगकर्ताओं को खोज सकते हैं, वाइल्डकार्ड निहित हैं।';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'आप नीचे टॉगल को अक्षम करके सादे टेक्स्ट में ईमेल को भेज सकते हैं।';
+$Definition['You can specify an allow list of trusted domains.'] = 'आप विश्वसनीय डोमेन की एक सूची निर्दिष्ट कर सकते हैं जो रीडायरेक्ट और एम्बेडिंग के लिए सुरक्षित हैं।';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'आप विश्वसनीय डोमेन (उदा. yourdomain.com) की अनुमति सूची निर्दिष्ट कर सकते हैं जो जावास्क्रिप्ट को लोड करने के लिए सुरक्षित हैं।';
+$Definition['You have %s invitations left for this month.'] = 'आपके पास इस महीने के लिए %s निमंत्रण बचे हैं।';
+$Definition['You have successfully saved interest: <0/>'] = 'आपने सफलतापूर्वक ब्याज सहेज लिया है: <0/>';
+$Definition['You must be authenticated in order to use this form.'] = 'इस फॉर्म का उपयोग करने के लिए आपको प्रमाणित होना चाहिए।';
+$Definition['You must manually apply this rank.'] = 'आपको इस रैंक को मैन्युअल रूप से लागू करना चाहिए।';
+$Definition['You must provide at least one recipient'] = 'आपको कम से कम एक प्राप्तकर्ता उपलब्ध कराना होगा';
+$Definition['You must specify an admin password.'] = 'आपको एक एडमिन पासवर्ड निर्दिष्ट करना होगा.';
+$Definition['You must specify an admin username.'] = 'आपको एक व्यवस्थापक उपयोगकर्ता नाम निर्दिष्ट करना होगा।';
+$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'आपकी कॉन्फ़िगरेशन फ़ाइल में सही अनुमति नहीं है। PHP को इस फ़ाइल को पढ़ने और लिखने में सक्षम होना चाहिए: <code>%s</code>';
+$Definition['Your default locale won\'t display properly'] = 'आपका डिफ़ॉल्ट स्थान तब तक ठीक से प्रदर्शित नहीं होगा जब तक यह नीचे सक्षम नहीं है. कृपया निम्नलिखित को सक्षम करें: %s. ';
+$Definition['Your Email'] = 'आपका ईमेल';
+$Definition['Your inbox is empty.'] = 'आपका इनबॉक्स खाली है.';
+$Definition['Your invitations were sent successfully.'] = 'आपके निमंत्रण सफलतापूर्वक भेजे गए थे।';
+$Definition['Your Password'] = 'आपका पासवर्ड';
 
-$Definition["Zendesk Knowledge Bases"] = "Zendesk ज्ञानकोष";
-
-$Definition["Mobile Logo"] = "मोबाइल लोगो";
-$Definition["Banner Image"] = "बैनर इमेज";
-$Definition["Disable Forum Pages"] = "फोरम पेज अक्षम करें";
-
-// Posting settings
-$Definition["InputFormatter.Notes1"] =
-    "समुदाय में पोस्ट के लिए संपादक के डिफ़ॉल्ट प्रारूप का चयन करें.";
-$Definition["InputFormatter.Notes2"] =
-    "संपादक पुरानी पोस्टों को संपादित करते समय उनके प्रारूप का स्वतः पता लगाएगा और उनके मूल स्वरूपण नियमों को लोड करेगा। इस अपवाद के अतिरिक्त, नीचे चयनित पोस्ट प्रारूप को प्राथमिकता दी जाएगी।";
-$Definition["Formatting Posts"] = "पोस्ट को फ़ॉर्मेट कर रहे हैं";
-$Definition["MobileInputFormatter.Notes1"] =
-    "मोबाइल डिवाइस के लिए एक संपादन प्रारूप निर्दिष्ट करें।";
-$Definition["MobileInputFormatter.Notes2"] =
-    "यदि मोबाइल डिवाइसों में समान अनुभव होना चाहिए, तो ऊपर जैसा ही उल्लिखित करें। यदि उपयोगकर्ता मोबाइल संपादन में समस्याओं की रिपोर्ट करते हैं, तो यह बदलने का एक अच्छा विकल्प है।";
-$Definition["Note:"] = "नोट: ";
-$Definition["Post Format"] = "पोस्ट प्रारूप";
-$Definition["Posting"] = "पोस्ट कर रहे हैं";
-$Definition["Reinterpret All Posts As %s"] = "सभी पोस्ट को %s . के रूप में पुनर्व्याख्या करें";
-$Definition["Tell the editor to reinterpret all old posts as %s."] =
-    "संपादक को सभी पुरानी पोस्ट को %s के रूप में फिर से व्याख्या करने के लिए कहें।";
-$Definition[
-    "This setting will only take effect if %s was chosen as the Post Format above."
-] =
-    "यह सेटिंग केवल तभी प्रभावी होगी जब %s को उपरोक्त पोस्ट प्रारूप के रूप में चुना गया था।";
-$Definition["This option is to normalize the editor format"] =
-    "यह विकल्प संपादक प्रारूप को सामान्य करने के लिए है, यदि मार्कडाउन या बीबीसीओडी जैसे किसी अन्य प्रारूप के साथ संपादित पुराने पोस्ट लोड होते हैं, तो यह विकल्प %s को बाध्य करेगा।";
-
-$Definition["Mobile Format"] = "मोबाइल फॉर्मेट ";
-$Definition["Enable Rich Quotes"] = "Rich Quotes सक्षम करें";
-$Definition["RichEditor.QuoteEnable.Notes"] =
-    'रिच एडिटर में उद्धरण सक्रिय करने के लिए निम्नलिखित विकल्प का उपयोग करें। यह केवल तभी लागू होगा जब डिफ़ॉल्ट फ़ॉर्मेटर "रिच" हो।';
-
-// Catalogue Display Plugin/Formats
-$Definition["Default placeholder"] = "डिफ़ॉल्ट प्लेसहोल्डर";
-$Definition["Upload a placeholder image for catalogue post."] =
-    "एक प्लेसहोल्डर इमेज अपलोड करें जो उपयोगकर्ताओं की पोस्ट में इमेज नहीं होने पर दिखाई देगी।";
-$Definition["Additional classes"] = "अतिरिक्त क्लासेस";
-$Definition["Apply additional classes on catalogue image."] =
-    "कैटलॉग इमेज पर अतिरिक्त क्लासेस लगाएँ। प्रत्येक क्लास को अलग करने के लिए स्पेस का उपयोग करें।";
-$Definition["Category only"] = "केवल श्रेणी";
-$Definition["Display on category page only."] =
-    "श्रेणी पृष्ठ पर ही दिखाएँ। हाल के चर्चाओं की सूची प्रभावित नहीं होगी।";
-$Definition["Use Masonry display"] = "मेसनरी डिस्प्ले का उपयोग करें";
-$Definition["Show an uploaded image on the Category page."] =
-    'प्रत्येक चर्चा श्रेणी पृष्ठ पर अपलोड की गई इमेज दिखाएगी। यह केवल "इस रूप में दिखाएँ" वाली "चर्चाओं" पर लागू होता है।';
-$Definition["Upload Placeholder Image"] = "प्लेसहोल्डर इमेज अपलोड करें";
-
-// Profile Fields
-$Definition["There was an error saving your changes. Please try again."] =
-    "आपके परिवर्तन सहेजने में त्रुटि हुई थी. कृपया पुन: प्रयास करें।";
-$Definition["<0/> has been <1/>"] = "<0/> को <1/> कर दिया गया है";
-$Definition["enabled"] = "सक्रिय";
-$Definition["disabled"] = "अक्षम";
-
-$Definition[
-    "This information will only be shown to users with permission to view internal info"
-] =
-    "यह जानकारी केवल उन उपयोगकर्ताओं को दिखाई जाएगी जिनके पास आंतरिक जानकारी देखने की अनुमति है";
-$Definition[
-    "This is private information and will not be shared with other members."
-] = "यह निजी जानकारी है और अन्य सदस्यों के साथ साझा नहीं की जाएगी।";
-
-$Definition[
-    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
-] =
-    "यह ज़ूम इंटीग्रेशन स्वामी की ओर से एक ज़ूम मीटिंग बनाएगा और यदि आप पंजीकृत उपयोगकर्ता हैं, तो आपको सह-होस्ट के रूप में जोड़ देगा। यदि आप पंजीकृत ज़ूम उपयोगकर्ता नहीं हैं या एकीकरण सेट अप करने वाले संगठन का हिस्सा नहीं हैं, तो इस इवेंट में होस्ट के बिना ज़ूम कार्यक्षमता सीमित हो सकती है।";
-$Definition['You cannot update this event\'s Zoom URL or ID.'] =
-    'आप इस ईवेंट का ज़ूम यूआरएल या आईडी अपडेट नहीं कर सकते.';
-
-$Definition["Zoom Meeting ID or URL"] = "ज़ूम मीटिंग आईडी या यूआरएल";
-
-// Automation Rules
-$Definition["Add tag"] = "टैग जोड़ें";
-$Definition["A post"] = "एक पोस्ट";
-$Definition["A post has been added to a collection"] =
-    "एक पोस्ट को संग्रह में जोड़ दिया गया है";
-$Definition["A post has not had any activity"] =
-    "किसी पोस्ट पर कोई गतिविधि नहीं हुई";
-$Definition["A question"] = "एक प्रश्न";
-$Definition["A user has been registered"] = "एक उपयोगकर्ता पंजीकृत किया गया है";
-$Definition["A post has received"] = "एक पोस्ट प्राप्त हुआ है";
-$Definition["Date field reached"] = "दिनांक फ़ील्ड पहुँच गया";
-$Definition["A user registers or logs in with email domain:"] =
-    "कोई उपयोगकर्ता ईमेल डोमेन के साथ पंजीकरण या लॉग इन करता है:";
-$Definition["A user registers or updates a profile field:"] =
-    "कोई उपयोगकर्ता प्रोफ़ाइल फ़ील्ड पंजीकृत या अद्यतन करता है:";
-$Definition["Add tags:"] = "टैगों को जोड़ें:";
-$Definition["Add to collection:"] = "संग्रह में जोड़ें:";
-$Definition["An idea has received"] = "एक विचार प्राप्त हुआ है";
-$Definition["and"] = "और";
-$Definition["and assign to"] = "और असाइन करें";
-$Definition["and remove role"] = "और भूमिका हटाएँ";
-$Definition["and remove from community"] = "और समुदाय से हटा दें";
-$Definition["Assign role:"] = "भूमिका निर्दिष्ट करें:";
-$Definition["Assign/Remove role"] = "भूमिका असाइन करें/हटाएँ";
-$Definition["Auto-run disabled."] = "स्वतः-रन अक्षम.";
-$Definition["Auto-run enabled."] = "स्वतः-रन सक्षम.";
-$Definition["Automation rule successfully created."] =
-    "स्वचालन नियम सफलतापूर्वक बनाया गया.";
-$Definition["Automation rule successfully updated."] =
-    "स्वचालन नियम सफलतापूर्वक अद्यतन किया गया.";
-$Definition["Bump post"] = "बम्प पोस्ट";
-$Definition["Change the status of the idea to"] =
-    "विचार की स्थिति बदलें";
-$Definition["Change status"] = "स्थिति बदलें";
-$Definition["Close post"] = "पोस्ट बंद करें";
-$Definition["Comments Matching Criteria Now: <0 />"] =
-    "टिप्पणियाँ मिलान मानदंड अब: <0 />";
-$Definition["created by"] = "के द्वारा बनाई गई";
-$Definition["Create and manage automations to easily manage posts and users."] =
-    "पोस्ट और उपयोगकर्ताओं को आसानी से प्रबंधित करने के लिए स्वचालन बनाएं और प्रबंधित करें.";
-$Definition["Create/Edit Automation Rule"] = "स्वचालन नियम बनाएं/संपादित करें";
-$Definition["Delete Rule"] = "नियम हटाएँ";
-$Definition["Discussions Matching Criteria Now: <0 />"] =
-    "चर्चाएँ अब मानदंड से मेल खाती हैं: <0 />";
-$Definition["Edit Rule"] = "नियम संपादित करें";
-$Definition["Edit Variables"] = "चर संपादित करें";
-$Definition["Escalate it"] = "इसे आगे बढाएं";
-$Definition["Escalate to GitHub"] = "GitHub पर आगे बढ़ाएँ";
-$Definition["Escalate to Zendesk"] = "Zendesk तक बढ़ाएँ";
-$Definition["Expand"] = "बढ़ाना";
-$Definition["Failed to disable the rule"] = "नियम अक्षम करने में विफल";
-$Definition[
-    "Failed to load the preview data. Please check your trigger and action values."
-] =
-    "पूर्वावलोकन डेटा लोड करने में विफल। कृपया अपने ट्रिगर और कार्रवाई मान जांचें।";
-$Definition["Follow categories:"] = "श्रेणियाँ का पालन करें:";
-$Definition["Follow category"] = "श्रेणी का अनुसरण करें";
-$Definition["for"] = "के लिए";
-$Definition["has been unanswered"] = "अनुत्तरित रहा";
-$Definition["has not received any comments"] = "कोई टिप्पणी नहीं मिली";
-$Definition["Last reported"] = "अंतिम रिपोर्ट";
-$Definition["Maximum Limit Reached"] = "अधिकतम सीमा तक पहुँच गया";
-$Definition["Move post"] = "पोस्ट ले जाएँ";
-$Definition["Move to category:"] = "श्रेणी पर जाएँ:";
-$Definition[
-    "Multi-select fields will trigger if the user meets ANY of the criteria."
-] = "यदि उपयोगकर्ता किसी भी मानदंड को पूरा करता है तो बहु-चयन फ़ील्ड सक्रिय हो जाएंगे।";
-$Definition["New/Updated Email domain"] = "नया/अपडेट किया गया ईमेल डोमेन";
-$Definition["New/Updated Profile field"] = "नया/अपडेट किया गया प्रोफ़ाइल फ़ील्ड";
-$Definition[
-    "Note: Actions will not affect <0 /> that already have the associated action applied."
-] =
-    "ध्यान दें: क्रियाएँ उन <0 /> को प्रभावित नहीं करेंगी जिन पर पहले से ही संबंधित क्रिया लागू है।";
-$Definition["Post Management"] = "पोस्ट प्रबंधन";
-$Definition["Posts Matching Criteria Now: <0 />"] =
-    "अब मानदंड से मेल खाते पोस्ट: <0 />";
-$Definition["Remove from collection"] = "संग्रह से निकालें";
-$Definition["Remove from collection:"] = "संग्रह से निकालें:";
-$Definition["Remove from default follow list"] =
-    "डिफ़ॉल्ट फ़ॉलो सूची से निकालें";
-$Definition["Remove from trigger collection"] =
-    "ट्रिगर संग्रह से निकालें";
-$Definition["report"] = "प्रतिवेदन";
-$Definition["reports"] = "रिपोर्टों";
-$Definition["Rule Action"] = "नियम कार्रवाई";
-$Definition["Rule may not be deleted while it is running"] =
-    "नियम को चलते समय हटाया नहीं जा सकता";
-$Definition["Rule may not be edited while it is running"] =
-    "नियम को चलते समय संपादित नहीं किया जा सकता";
-$Definition["Rule Name"] = "नियम का नाम";
-$Definition["Rule status will apply once current run completes"] =
-    "वर्तमान रन पूरा होने पर नियम की स्थिति लागू होगी";
-$Definition["Rule Trigger"] = "नियम ट्रिगर";
-$Definition["Running"] = "दौड़ना";
-$Definition["See documentation for more information."] =
-    "अधिक जानकारी के लिए दस्तावेज़ देखें.";
-$Definition["Select the action that will occur when this rule is triggered."] =
-    "वह कार्रवाई चुनें जो इस नियम के लागू होने पर घटित होगी.";
-$Definition["Select the trigger that will cause this rule to run."] =
-    "उस ट्रिगर का चयन करें जो इस नियम को चलाएगा.";
-$Definition[
-    "Set trigger variable and action variable to generate a rule summary."
-] = "नियम सारांश उत्पन्न करने के लिए ट्रिगर चर और क्रिया चर सेट करें.";
-$Definition["sentiment"] = "भाव";
-$Definition["since"] = "तब से";
-$Definition["Summary"] = "सारांश";
-$Definition["The action will be applied to only them if you proceed."] =
-    "यदि आप आगे बढ़ेंगे तो कार्रवाई केवल उन पर ही लागू होगी।";
-$Definition[
-    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
-] =
-    "नियम सक्षम होने पर उन पर कार्रवाई लागू होगी। भविष्य में, अन्य <0 /> जो ट्रिगर मानदंड को पूरा करते हैं, उन पर भी कार्रवाई लागू होगी।";
-$Definition[
-    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
-] =
-    "इसका अभी किसी <0 /> पर कोई असर नहीं पड़ेगा। इसका असर भविष्य में उन पर पड़ेगा जो इस मानदंड को पूरा करते हैं।";
-$Definition["Time since added to collection"] =
-    "संग्रह में जोड़े जाने के बाद से अब तक का समय";
-$Definition["Time since post has had no comments"] =
-    "पोस्ट पर कोई टिप्पणी नहीं होने के बाद से";
-$Definition["Time since Registration"] = "पंजीकरण के बाद से समय";
-$Definition["Time since post has had no activity"] =
-    "वह समय जब से पोस्ट पर कोई गतिविधि नहीं हुई है";
-$Definition["Time since question has been unanswered"] =
-    "प्रश्न का उत्तर कब से नहीं मिला";
-$Definition["Trigger"] = "चालू कर देना";
-$Definition["Unsaved Changes"] = "सहेजे न गए परिवर्तन";
-$Definition["Up to <0 /> ago."] = "<0 /> तक पहले.";
-$Definition["upvote"] = "वोट दें";
-$Definition["upvotes"] = "अपवोट";
-$Definition["User Management"] = "प्रयोक्ता प्रबंधन";
-$Definition["Users Matching Criteria Now: <0 />"] =
-    "उपयोगकर्ता मिलान मानदंड अब: <0 />";
-$Definition["Value is not a valid integer."] = "मान एक वैध पूर्णांक नहीं है.";
-$Definition["View History"] = "इतिहास देखें";
-$Definition["Votes on an idea"] = "किसी विचार पर वोट";
-$Definition["with"] = "साथ";
-$Definition["with reason"] = "कारण सहित";
-$Definition["with tag"] = "टैग के साथ";
-$Definition[
-    "You cannot add more than 150 automation rules. Delete some rules and try again."
-] =
-    "आप 150 से ज़्यादा ऑटोमेशन नियम नहीं जोड़ सकते। कुछ नियम हटाएँ और फिर से कोशिश करें।";
-
-// Icon Management
-$Definition["No icons match those filters."] = "कोई भी आइकन उन फ़िल्टर से मेल नहीं खाता.";
-$Definition["Manage Icon"] = "प्रबंधित करें चिह्न";
-$Definition["Manage Icons"] = "आइकन प्रबंधित करें";
-$Definition["Manage Icon helptext"] =
-    "आप यहां सिस्टम और ऐतिहासिक आइकन प्रबंधित कर सकते हैं। अपलोड करते समय, सुनिश्चित करें कि आइकन SVG प्रारूप में है, इसमें viewBox विशेषता शामिल है, और यह सुनिश्चित करने के लिए रंग #000000 का उपयोग करता है कि इसे थीम सेटिंग और उपयोगकर्ता इंटरैक्शन के आधार पर गतिशील रूप से रंगीन किया जा सकता है। प्रत्येक प्रकार का केवल एक आइकन एक समय में सक्रिय हो सकता है।";
-$Definition["Upload New Icon"] = "नया आइकन अपलोड करें";
-$Definition["Active Icon"] = "सक्रिय चिह्न";
-$Definition["New Icon"] = "नया आइकन";
-$Definition["Icon Type"] = "आइकन प्रकार";
-$Definition["Previous Icons"] = "पिछले चिह्न";
-$Definition[
-    "Previous versions of your icons can be found here and restored at any time."
-] =
-    "आपके आइकन के पिछले संस्करण यहां पाए जा सकते हैं और किसी भी समय पुनर्स्थापित किए जा सकते हैं।";
-$Definition["Set as Active"] = "सक्रिय के रूप में सेट करें";
-$Definition["Uploaded <0/> by <1/>"] = "<0/> द्वारा <1/> अपलोड किया गया";
-$Definition["Icon Packs"] = "आइकन पैक";
-$Definition["Download Active Icon Pack"] = "सक्रिय आइकन पैक डाउनलोड करें";
-$Definition["Download System Icon Pack"] = "सिस्टम आइकन पैक डाउनलोड करें";
-$Definition["Upload Icon Pack"] = "आइकन पैक अपलोड करें";
-$Definition["Preview Icon Pack"] = "पूर्वावलोकन आइकन पैक";
-$Definition["Changed Icons"] = "परिवर्तित चिह्न";
-$Definition["Icon Name"] = "आइकन का नाम";
-$Definition["All icons in this icon pack are currently active."] =
-    "इस आइकन पैक के सभी आइकन वर्तमान में सक्रिय हैं।";
-$Definition["Activate Icon Pack"] = "आइकन पैक सक्रिय करें";
-$Definition["Only show icons that have been overridden with custom icons."] =
-    "केवल वे आइकन दिखाएं जिन्हें कस्टम आइकन से ओवरराइड किया गया हो.";
-$Definition["System Icon"] = "सिस्टम आइकन";
-$Definition["Custom Icon"] = "कस्टम आइकन";
-$Definition["Only show icons that are default system icons."] =
-    "केवल वे आइकन दिखाएं जो डिफ़ॉल्ट सिस्टम आइकन हैं.";
-$Definition["Previews"] = "झलकियां";
-$Definition["Icon Size"] = "आइकन का आकार";
-$Definition["This is the actual size most icons render at."] =
-    "यह वास्तविक आकार है जिस पर अधिकांश आइकन प्रस्तुत होते हैं।";
-$Definition["Preview Color"] = "पूर्वावलोकन रंग";
-$Definition[
-    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
-] =
-    "इस रंग का उपयोग आइकन रंग का पूर्वावलोकन करने के लिए किया जाएगा। यह आपके अपलोड किए गए आइकन में #000000 के किसी भी उपयोग को प्रतिस्थापित करेगा। वास्तविक एप्लिकेशन में, रंग गतिशील होंगे।";
-$Definition["Escalation Name"] = "एस्केलेशन नाम";
-$Definition["Status on Creation"] = "निर्माण पर स्थिति";
-$Definition["Assignee"] = "संपत्ति-भागी";
-$Definition["Internal Comment"] = "आंतरिक टिप्पणी";
-$Definition["Set Post Visibility to Hidden"] = "पोस्ट दृश्यता को छुपाएँ पर सेट करें";
-$Definition["Remove Method"] = "विधि निकालें";
-$Definition["Wipe"] = "पोंछना";
-$Definition["Newest Post"] = "नवीनतम पोस्ट";
-$Definition["Oldest Post"] = "सबसे पुराना पोस्ट";
-$Definition["Triage"] = "ट्राइएज";
-$Definition["Triage Dashboard"] = "ट्राइएज डैशबोर्ड";
-$Definition["Message Post Author"] = "संदेश पोस्ट लेखक";
-$Definition["Add Filter"] = "फ़िल्टर जोड़ें";
-$Definition["Customer Support"] = "ग्राहक सहेयता";
-$Definition["My Profile"] = "मेरी प्रोफाइल";
-$Definition["Resolve post"] = "पोस्ट हल करें";
-$Definition["View post in community"] = "समुदाय में पोस्ट देखें";
-$Definition["View Details"] = "विवरण देखें";
-$Definition["Escalate"] = "आगे बढ़ाएं";
-$Definition["Posted by <0/> in <1/>"] = "<0/> द्वारा <1/> में पोस्ट किया गया";
-$Definition["Show"] = "दिखाओ";
-$Definition["View Escalation"] = "एस्केलेशन देखें";
-$Definition["# Reports"] = "# रिपोर्ट";
-$Definition["Last Reported"] = "अंतिम रिपोर्ट";
-$Definition["Report Reasons"] = "रिपोर्ट के कारण";
-$Definition["Last Modified"] = "अंतिम संशोधित";
-$Definition["Last refreshed <0/> by <1/>."] = "अंतिम बार <0/> को <1/> द्वारा ताज़ा किया गया.";
-
-$Definition["Moderation Content"] = "मॉडरेशन सामग्री";
-$Definition["AI Settings"] = "एआई सेटिंग्स";
-$Definition["OAuth2"] = "OAuth2";
-$Definition["VIP Deploy"] = "वीआईपी तैनाती";
-$Definition["Activity & Registration"] = "गतिविधि और पंजीकरण";
-$Definition["Content Settings"] = "सामग्री समायोजन";
-$Definition["Premoderation Settings"] = "प्रीमॉडरेशन सेटिंग्स";
-$Definition["Escalation Rules"] = "वृद्धि नियम";
-$Definition["Automation"] = "स्वचालन";
-$Definition["Audit Log"] = "ऑडिट लॉग";
-$Definition["Community Management"] = "सामुदायिक प्रबंधन";
-$Definition["Visualize Your Community"] = "अपने समुदाय की कल्पना करें";
-$Definition["Customize your community"] = "अपने समुदाय को अनुकूलित करें";
-$Definition["Configuration & Addons"] = "कॉन्फ़िगरेशन और ऐडऑन";
-$Definition["Are you sure you want to delete your %s?"] =
-    "क्या आप वाकई अपना %s हटाना चाहते हैं?";
-$Definition["Newest Report"] = "नवीनतम रिपोर्ट";
-$Definition["Oldest Report"] = "सबसे पुरानी रिपोर्ट";
-$Definition["Report Dismissed"] = "रिपोर्ट खारिज";
-$Definition["Post Rejected"] = "पोस्ट अस्वीकृत";
-$Definition["Escalated"] = "तना हुआ";
-$Definition["Reported by <0/>"] = "<0/> द्वारा रिपोर्ट किया गया";
-$Definition["No report notes were provided by <0/>"] =
-    "<0/> द्वारा कोई रिपोर्ट नोट उपलब्ध नहीं कराया गया";
-$Definition["Create"] = "तैयार करें ";
-$Definition["Edited"] = "संपादित";
-$Definition["Newest Escalation"] = "नवीनतम वृद्धि";
-$Definition["Oldest Escalation"] = "सबसे पुराना उन्नयन";
-$Definition["Escalations Dashboard"] = "एस्केलेशन डैशबोर्ड";
-$Definition["On Hold"] = "होल्ड पर";
-$Definition["Done"] = "हो गया";
-$Definition["In Jira"] = "जीरा में";
-$Definition["In Zendesk"] = "Zendesk में";
-$Definition["Integrations"] = "एकीकरण";
-$Definition["Remove Post"] = "पोस्ट हटाएँ";
-$Definition["Escalated by <0/>"] = "<0/> द्वारा बढ़ाया गया";
-$Definition["Enter a title for this escalation"] =
-    "इस वृद्धि के लिए एक शीर्षक दर्ज करें";
-$Definition["Escalated by <0/>"] = "<0/> द्वारा बढ़ाया गया";
-$Definition["Post Revision"] = "पोस्ट संशोधन";
-$Definition["Loader"] = "लोडर";
-$Definition["a month"] = "एक महीना";
-$Definition["%s ago"] = "%s पहले";
-$Definition["Live"] = "रहना";
-$Definition["Live Post"] = "लाइव पोस्ट";
-$Definition["Remove Post"] = "पोस्ट हटाएँ";
-$Definition["Internal Comments"] = "आंतरिक टिप्पणियाँ";
-$Definition["Add a comment"] = "एक टिप्पणी जोड़ने";
-$Definition["Live"] = "रहना";
-$Definition["There are currently no comments on this post"] =
-    "इस पोस्ट पर फिलहाल कोई टिप्पणी नहीं है";
-$Definition["All comments on this post will appear here"] =
-    "इस पोस्ट पर सभी टिप्पणियाँ यहाँ दिखाई देंगी";
-$Definition["Reports for <0/>"] = "<0/> के लिए रिपोर्ट";
-$Definition["Live Post"] = "लाइव पोस्ट";
-$Definition["There are currently no reports for this post."] =
-    "इस पोस्ट के लिए फिलहाल कोई रिपोर्ट नहीं है।";
-$Definition["A list of reports associated with this post will appear here."] =
-    "इस पोस्ट से संबंधित रिपोर्टों की सूची यहां दिखाई देगी।";
-$Definition[
-    "Configure where reports are sent and manage your community's report reasons."
-] =
-    "कॉन्फ़िगर करें कि रिपोर्ट कहाँ भेजी जाएँ और अपने समुदाय के रिपोर्ट कारणों को प्रबंधित करें.";
-$Definition["New Community Management System"] =
-    "नई सामुदायिक प्रबंधन प्रणाली";
-$Definition["Enable Triage Dashboard"] = "ट्राइएज डैशबोर्ड सक्षम करें";
-$Definition[
-    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
-] =
-    "स्टाफ़ की अनुमति वाले सभी उपयोगकर्ता चर्चाओं को देख सकेंगे और उन्हें हल या अनसुलझे के रूप में चिह्नित कर सकेंगे। ये उपयोगकर्ता अपनी श्रेणियों को मॉडरेट करने के लिए ट्राइएज डैशबोर्ड तक भी पहुँच सकेंगे।";
-$Definition["Resolve All Discussions"] = "सभी चर्चाएँ हल करें";
-$Definition[
-    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
-] =
-    "सभी पोस्ट हल करने से समुदाय में सभी मौजूदा पोस्ट हल हो जाएंगी। यह बल्क कार्रवाई वेबहुक या एनालिटिक्स को ट्रिगर नहीं करेगी।";
-$Definition["Resolve All"] = "सभी समाधान करें";
-$Definition["Required field"] = "आवश्यक क्षेत्र";
-$Definition[
-    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
-] =
-    "नया समुदाय प्रबंधन सिस्टम कस्टम रिपोर्टिंग कारणों, एस्केलेशन, असाइनमेंट और ऑटोमेशन नियमों की अनुमति देता है। इसे सक्षम करने से नए सिस्टम का उपयोग करने के लिए रिपोर्टिंग इनटेक बदल जाता है। <0>और पढ़ें</0> .";
-$Definition[
-    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
-] =
-    "इससे समुदाय में सभी मौजूदा पोस्ट हल हो जाएंगी। यह बल्क कार्रवाई वेबहुक या लॉग एनालिटिक्स को ट्रिगर नहीं करेगी। जारी रखें?";
-$Definition["Reorder"] = "पुन: व्यवस्थित करें";
-$Definition["Add Reason"] = "कारण जोड़ें";
-$Definition["Delete?"] = "मिटाना?";
-$Definition["Are you sure you want to delete this reason?"] =
-    "क्या आप वाकई इस कारण को हटाना चाहते हैं?";
-$Definition["A concise name for the report reason."] =
-    "रिपोर्ट कारण के लिए संक्षिप्त नाम.";
-$Definition[
-    "A unique label for the report reason. This label cannot be changed once saved."
-] =
-    "रिपोर्ट कारण के लिए एक अद्वितीय लेबल। एक बार सहेजे जाने के बाद इस लेबल को बदला नहीं जा सकता।";
-$Definition[
-    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
-] =
-    "रिपोर्ट के कारण की व्याख्या ताकि रिपोर्टर किसी पोस्ट की रिपोर्ट करते समय सही चयन कर सकें।";
-$Definition["The roles which can see this report reason."] =
-    "भूमिकाएँ जो इस रिपोर्ट को देख सकती हैं कारण।";
-$Definition["Add Report Reason"] = "रिपोर्ट का कारण जोड़ें";
-$Definition["Discard Changes?"] = "परिवर्तनों को निरस्त करें?";
-$Definition["Are you sure you want to exit without saving?"] =
-    "क्या आप वाकई बिना सहेजे बाहर निकलना चाहते हैं?";
-$Definition["Reorder Report Reasons"] = "रिपोर्ट के कारणों को पुनः क्रमित करें";
-$Definition["Edit Report Reason"] = "रिपोर्ट का कारण संपादित करें";
-$Definition["Delete Report Reason"] = "रिपोर्ट का कारण हटाएं";
-$Definition["This setting must be enabled to use Custom Discussion Threads."] =
-    "कस्टम चर्चा थ्रेड का उपयोग करने के लिए यह सेटिंग सक्षम होनी चाहिए।";
-$Definition[
-    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
-] =
-    "समुदाय सामग्री को बनाए जाने से पहले ही स्वचालित रूप से मॉडरेट करने के लिए उपयोग की जाने वाली सेटिंग्स कॉन्फ़िगर करें। विकल्पों में स्वचालित स्पैम पहचान, कुछ श्रेणियों में पोस्ट करने के लिए अनुमोदन की आवश्यकता, और कुछ कीवर्ड या वाक्यांशों का उपयोग करके पोस्ट करने के लिए अनुमोदन की आवश्यकता शामिल है।";
-$Definition["Spam Detection"] = "स्पैम का पता लगाना";
-$Definition["Learn more."] = "और अधिक जानें।";
-$Definition["documentation."] = "दस्तावेज़ीकरण.";
-$Definition["Verify browsers of new members"] =
-    "नए सदस्यों के ब्राउज़र सत्यापित करें";
-$Definition["Challenge Cutoff Age"] = "चुनौती कटऑफ आयु";
-$Definition[
-    "Number of days since registration to bypass Cloudflare challenge"
-] = "क्लाउडफ्लेयर चुनौती को बायपास करने के लिए पंजीकरण के बाद से दिनों की संख्या";
-$Definition["Save challenge cutoff age"] = "चुनौती कटऑफ आयु सहेजें";
-$Definition["Premoderated Roles"] = "पूर्वनिर्धारित भूमिकाएँ";
-$Definition[
-    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
-] =
-    "\"Approval.Require\" अनुमति वाले उपयोगकर्ताओं को सभी पोस्ट के लिए मॉडरेटर की स्वीकृति की आवश्यकता होगी।";
-$Definition[
-    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
-] =
-    "\"सत्यापित\" के रूप में चिह्नित उपयोगकर्ता इस आवश्यकता को दरकिनार कर देंगे। ये \"अनुमोदन.आवश्यकता\" वाली भूमिकाएँ हैं";
-$Definition["No roles are currently set to require premoderation."] =
-    "वर्तमान में किसी भी भूमिका के लिए पूर्व-मॉडरेशन की आवश्यकता नहीं है।";
-$Definition["Edit Roles"] = "भूमिकाएँ संपादित करें";
-$Definition["Premoderated Categories"] = "पूर्वनिर्धारित श्रेणियाँ";
-$Definition["No categories are currently set to require premoderation."] =
-    "वर्तमान में किसी भी श्रेणी को पूर्व-संशोधन की आवश्यकता नहीं है।";
-$Definition["Edit Categories"] = "श्रेणियाँ संपादित करें";
-$Definition["Premoderated Keywords"] = "प्रीमॉडरेटिड कीवर्ड";
-$Definition[
-    "Posts with any of the following keywords or phrases will required moderator approval."
-] =
-    "निम्नलिखित में से किसी भी कीवर्ड या वाक्यांश वाले पोस्ट के लिए मॉडरेटर की स्वीकृति आवश्यक होगी।";
-$Definition["No keywords are currently set to require premoderation."] =
-    "वर्तमान में कोई भी कीवर्ड प्रीमॉडरेशन की आवश्यकता के लिए निर्धारित नहीं है।";
-$Definition["Edit Keywords"] = "कीवर्ड संपादित करें";
-$Definition[
-    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
-] =
-    "आवेदक पंजीकरण और असत्यापित उपयोगकर्ताओं द्वारा सभी पोस्ट में स्पैम को फ़िल्टर करने के लिए Akismet को सक्षम करें। <0/>";
-$Definition[
-    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
-] =
-    "रिपोर्ट किए गए स्पैमर की सूची के विरुद्ध समुदाय उपयोगकर्ताओं की जांच करने के लिए स्टॉपफोरमस्पैम को सक्षम करें, और या तो पोस्ट को स्पैम के रूप में रिपोर्ट करें या उन्हें सीधे अस्वीकार करें। रिपोर्टिंग और अस्वीकार करने की सीमाएँ <0>एडऑन की सेटिंग में प्रबंधित की जाती हैं</0> . अधिक जानकारी के लिए <1/> देखें";
-$Definition[
-    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
-] =
-    "असत्यापित सदस्य जो निर्दिष्ट दिनों से कम समय से समुदाय में हैं, उन्हें स्पैम को रोकने के लिए क्लाउडफ्लेयर (कैप्चा या चेकबॉक्स) चुनौती को पूरा करने के लिए कहा जाएगा। <0/>";
-$Definition["%s in the following categories will require moderator approval."] =
-    "निम्नलिखित श्रेणियों में %s को मॉडरेटर की स्वीकृति की आवश्यकता होगी।";
-$Definition["Default Sort Order"] = "डिफ़ॉल्ट सॉर्ट क्रम";
-$Definition["Choose the order records are sorted by default."] =
-    "डिफ़ॉल्ट रूप से रिकॉर्ड को सॉर्ट करने का क्रम चुनें.";
-$Definition["Show OP Indicator"] = "ओपी संकेतक दिखाएं";
-$Definition[
-    "If this option is enabled, replies from the Original Poster will have an OP indicator."
-] =
-    "यदि यह विकल्प सक्षम है, तो मूल पोस्टर के उत्तरों में OP सूचक होगा।";
-$Definition["Show Badges"] = "बैज दिखाएं";
-$Definition["Badges Limit"] = "बैज सीमा";
-$Definition[
-    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
-] =
-    "प्रत्येक पोस्ट पर उपयोगकर्ताओं के बैज दिखाएँ। उच्चतम रैंकिंग के क्रम में अधिकतम 5 बैज प्रदर्शित किए जा सकते हैं।";
-$Definition["event"] = "आयोजन";
-$Definition["<0/> <1/> more comments"] = "<0/> <1/> अधिक टिप्पणियाँ";
-$Definition["Export"] = "निर्यात";
-
-$Definition["Homepage titles can only be between 1 and 500 characters"] =
-    "होमपेज शीर्षक केवल 1 से 500 अक्षरों के बीच हो सकते हैं";
-$Definition["Address Bar Color"] = "पता बार का रंग";
-$Definition["Meta Tags"] = "मेटा टैग";
-$Definition[
-    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
-] =
-    "मेटा टैग का उपयोग Google सर्च कंसोल और अन्य सेवाओं के लिए डोमेन सत्यापन के लिए किया जाता है। अपने स्रोत से आवश्यक मेटा टैग कॉपी करें और एक नई लाइन पर पेस्ट करें।";
-$Definition[
-    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
-] =
-    "थोड़ा समय यह सोचने में व्यतीत करें कि आप अपनी साइट का वर्णन यहाँ कैसे करते हैं।
-अपनी साइट को एक उचित शीर्षक और संक्षिप्त विवरण देने से सर्च इंजन में आपकी पोज़ीशन में मदद मिल सकती है।";
-$Definition["Style Guides"] = "शैली मार्गदर्शिकाएँ";
-$Definition["Branding & Assets"] = "ब्रांडिंग और परिसंपत्तियां";
-$Definition["Home Pages"] = "होम पेजेस";
-$Definition["Home Layout Settings"] = "होम लेआउट सेटिंग्स";
-$Definition["Category Pages"] = "श्रेणी पृष्ठ";
-$Definition["Category Layout Settings"] = "श्रेणी लेआउट सेटिंग्स";
-$Definition["Category List Pages"] = "श्रेणी सूची पृष्ठ";
-$Definition["Posting Category Pages"] = "श्रेणी पृष्ठ पोस्ट करना";
-$Definition["Nested Category Pages"] = "नेस्टेड श्रेणी पृष्ठ";
-$Definition["Discussion Pages"] = "चर्चा पृष्ठ";
-$Definition["Idea Pages"] = "विचार पृष्ठ";
-$Definition["Question Pages"] = "प्रश्न पृष्ठ";
-$Definition["Post Pages"] = "पोस्ट पेज";
-$Definition["Post Layout Settings"] = "पोस्ट लेआउट सेटिंग्स";
-$Definition["Create Post Pages"] = "पोस्ट पेज बनाएं";
-$Definition["Create Post Layout Settings"] = "पोस्ट लेआउट सेटिंग बनाएं";
-$Definition["Event Pages"] = "इवेंट पेज";
-$Definition["Event Layout Settings"] = "इवेंट लेआउट सेटिंग्स";
-$Definition["Knowledge Base Pages"] = "ज्ञान आधार पृष्ठ";
-$Definition["Knowledge Base Layout Settings"] =
-    "ज्ञानकोष लेआउट सेटिंग्स";
-$Definition["Knowledge Base Home Pages"] = "ज्ञानकोष होम पेज";
-$Definition["Help Center Home Pages"] = "सहायता केंद्र होम पेज";
-$Definition["Help Center Category Pages"] = "सहायता केंद्र श्रेणी पृष्ठ";
-$Definition["Help Center Article Pages"] = "सहायता केंद्र लेख पृष्ठ";
-$Definition["Guide Article Pages"] = "गाइड लेख पृष्ठ";
-$Definition["Layouts"] = "लेआउट";
-$Definition["Add Custom Layout"] = "कस्टम लेआउट जोड़ें";
-$Definition["Choose the preferred Legacy Recent Posts Layout."] =
-    "पसंदीदा लीगेसी हाल के पोस्ट लेआउट चुनें.";
-$Definition["Legacy Recent Posts Layouts"] = "विरासत हाल के पोस्ट लेआउट";
-$Definition["Change layout versions for the <0/>."] =
-    "<0/> के लिए लेआउट संस्करण बदलें.";
-$Definition["To learn more, <0>see the documentation</0>."] =
-    "अधिक जानने के लिए, <0>दस्तावेज़ देखें</0> .";
-$Definition["Change %s"] = "%s बदलें";
-$Definition["Are you sure you want to use %s?"] =
-    "क्या आप वाकई %s का उपयोग करना चाहते हैं?";
-$Definition["Legacy Home Layouts"] = "विरासत गृह लेआउट";
-$Definition["Choose the preferred Legacy Home Layout."] =
-    "पसंदीदा लीगेसी होम लेआउट चुनें.";
-$Definition["Home Layout Version"] = "होम लेआउट संस्करण";
-$Definition["Custom Home Layouts"] = "कस्टम होम लेआउट";
-$Definition["Legacy Category Layout"] = "विरासत श्रेणी लेआउट";
-$Definition["Choose the preferred Legacy Category Layout."] =
-    "पसंदीदा लीगेसी श्रेणी लेआउट चुनें.";
-$Definition["Category Layout Version"] = "श्रेणी लेआउट संस्करण";
-$Definition["Legacy Category Layouts"] = "विरासत श्रेणी लेआउट";
-$Definition["Custom Category Layouts"] = "कस्टम श्रेणी लेआउट";
-$Definition["Legacy Post Layout"] = "विरासत पोस्ट लेआउट";
-$Definition["Choose the preferred Legacy Post Layout."] =
-    "पसंदीदा लीगेसी पोस्ट लेआउट चुनें.";
-$Definition["Post Layout Version"] = "पोस्ट लेआउट संस्करण";
-$Definition["Legacy Post Layouts"] = "विरासत पोस्ट लेआउट";
-$Definition["Custom Post Layouts"] = "कस्टम पोस्ट लेआउट";
-$Definition["Legacy Create Post Layout"] = "विरासत पोस्ट लेआउट बनाएँ";
-$Definition["Choose the preferred Legacy Create Post Layout."] =
-    "पसंदीदा लीगेसी क्रिएट पोस्ट लेआउट चुनें.";
-$Definition["Create Post Layout Version"] = "पोस्ट लेआउट संस्करण बनाएँ";
-$Definition["Legacy Create Post Layouts"] = "विरासत पोस्ट लेआउट बनाएँ";
-$Definition["Custom Create Post Layouts"] = "कस्टम पोस्ट लेआउट बनाएँ";
-$Definition["Legacy Event Layout"] = "विरासत घटना लेआउट";
-$Definition["Choose the preferred Legacy Event Layout."] =
-    "पसंदीदा लीगेसी इवेंट लेआउट चुनें.";
-$Definition["Event Layout Version"] = "इवेंट लेआउट संस्करण";
-$Definition["Legacy Event Layouts"] = "विरासत घटना लेआउट";
-$Definition["Custom Event Layouts"] = "कस्टम इवेंट लेआउट";
-$Definition["Created <0/> by <1/>."] = "<0/> द्वारा <1/> बनाया गया.";
-$Definition["Layout Options"] = "लेआउट विकल्प";
-$Definition["Contextual Description"] = "प्रासंगिक विवरण";
-$Definition["Skip to end of Carousel"] = "कैरोसेल के अंत तक जाएं";
-$Definition["Previous Slides"] = "पिछली स्लाइड्स";
-$Definition["Next Slides"] = "अगली स्लाइड्स";
-$Definition["indicator navigation"] = "संकेतक नेविगेशन";
-$Definition["<0/> new"] = "<0/> नया";
-$Definition["%d slides on display initial slide %d of %d"] =
-    "%d स्लाइड्स प्रदर्शन पर %d में से %d आरंभिक स्लाइड";
-$Definition["Unassigned"] = "सौंपे नहीं गए";
-$Definition["Apply Layout to Site Home Page"] =
-    "साइट होम पेज पर लेआउट लागू करें";
-$Definition["Set as default layout for specific subcommunities."] =
-    "विशिष्ट उपसमुदायों के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.";
-$Definition["Apply to specific categories."] = "विशिष्ट श्रेणियों पर लागू करें.";
-$Definition["This layout cannot be deleted because it is a layout template."] =
-    "इस लेआउट को हटाया नहीं जा सकता क्योंकि यह एक लेआउट टेम्पलेट है।";
-$Definition["Delete Layout"] = "लेआउट हटाएं";
-$Definition["Are you sure you want to delete?"] =
-    "क्या आप आश्वस्त है कि आपको डिलीट करना है?";
-$Definition["Applied"] = "लागू";
-$Definition["Applied as default"] = "डिफ़ॉल्ट रूप से लागू किया गया";
-$Definition["View Category"] = "श्रेणी देखें";
-$Definition["Apply to specific subcommunities."] =
-    "विशिष्ट उपसमुदायों पर लागू करें.";
-$Definition["Unable to re-assign default template"] =
-    "डिफ़ॉल्ट टेम्पलेट को पुनः असाइन करने में असमर्थ";
-$Definition[
-    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
-] =
-    "यह लेआउट एक टेम्प्लेट है और इसे इस प्रकार के सभी पेजों के लिए डिफ़ॉल्ट के रूप में असाइन किया गया है। इसे डिफ़ॉल्ट के रूप में हटाने या इसे विशिष्ट पेजों को असाइन करने के लिए, आपको डिफ़ॉल्ट के रूप में एक अलग लेआउट असाइन करना होगा।";
-$Definition["This layout cannot be deleted because it is currently applied."] =
-    "यह लेआउट हटाया नहीं जा सकता क्योंकि यह वर्तमान में लागू है.";
-$Definition["Set as default layout for all <0 />."] =
-    "सभी <0 /> के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.";
-$Definition["Legacy Knowledge Base Layout"] = "विरासत ज्ञान आधार लेआउट";
-$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
-    "पसंदीदा लीगेसी नॉलेज बेस लेआउट चुनें.";
-$Definition["Knowledge Base Layout Version"] = "ज्ञान आधार लेआउट संस्करण";
-$Definition["Legacy Knowledge Base Layouts"] = "विरासत ज्ञान आधार लेआउट";
-$Definition["Custom Knowledge Base Layouts"] = "कस्टम नॉलेज बेस लेआउट";
-$Definition["Article Count"] = "लेख संख्या";
-$Definition["Legacy Layouts enabled"] = "लीगेसी लेआउट सक्षम";
-$Definition[
-    "Note this layout change will not be visible until you switch to custom layouts."
-] =
-    "ध्यान रखें कि यह लेआउट परिवर्तन तब तक दिखाई नहीं देगा जब तक आप कस्टम लेआउट पर स्विच नहीं करते।";
-$Definition[
-    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
-] =
-    "यह लेआउट परिवर्तन तब तक दिखाई नहीं देगा जब तक आप अपने समुदाय को <1/> पृष्ठ में कस्टम <0/> पर स्विच नहीं करते.";
-$Definition["Set as default layout for specific knowledge bases."] =
-    "विशिष्ट ज्ञान आधारों के लिए डिफ़ॉल्ट लेआउट के रूप में सेट करें.";
-$Definition["The site does not allow you to connect with an existing user."] =
-    "यह साइट आपको किसी मौजूदा उपयोगकर्ता से जुड़ने की अनुमति नहीं देती है।";
-$Definition["The username you entered has already been taken."] =
-    "आपके द्वारा प्रविष्ट उपयोगकर्ता नाम पहले ही ले लिया गया है।";
-$Definition["There was an error fetching the connection data."] =
-    "कनेक्शन डेटा प्राप्त करते समय त्रुटि हुई.";
-$Definition[
-    "Failed to authenticate your password reset request. Try using the reset request form again."
-] =
-    "आपके पासवर्ड रीसेट अनुरोध को प्रमाणित करने में विफल रहा. रीसेट अनुरोध फ़ॉर्म का पुनः उपयोग करके देखें.";
-$Definition["Invitation not found."] = "आमंत्रण नहीं मिला.";
+$Definition['Zendesk Knowledge Bases'] = 'Zendesk ज्ञानकोष';
+$Definition['Zoom Meeting ID or URL'] = 'ज़ूम मीटिंग आईडी या यूआरएल';

@@ -1,2265 +1,1545 @@
 <?php
 
+$Definition['"Accept Answer" if a suggestion answers your question.'] = '“ยอมรับคำตอบ” หากข้อเสนอแนะตอบคำถามของคุณ';
+
+$Definition['# Reports'] = '# รายงาน';
+
 $Definition['%1$s "%2$s" not found.'] = '%1$s  "%2$s" ไม่พบข้อมูล';
-$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s เวอร์ชั่น %2$s';
-$Definition['%1$s version %2$s is available.'] =
-    '%1$s เวอร์ชั่น %2$s พร้อมใช้งาน';
-$Definition["%s is not a valid email address"] =
-    "อีเมล %s ไม่ถูกต้อง";
-$Definition["%s is required"] = "โปรดระบุ %s";
-$Definition["%s item in queue"] = "%s รายการในคิว";
-$Definition["%s level"] = "%s เลเวล";
-$Definition["%s levels"] = "%s เลเวล";
-$Definition["%s must be numeric"] = "%s ต้องเป็นตัวเลข";
-$Definition["%s site(s) found."] = "พบ %s ไซต์";
-$Definition["%s sources(s) found."] = "พบ %s แหล่ง";
-$Definition["%s times"] = "%s ครั้ง";
-$Definition["%s unavailable"] = "%s ไม่พร้อมใช้งาน";
-$Definition["%s user found."] = "พบผู้ใช้ %s";
-$Definition["%s users found."] = "พบผู้ใช้ %s";
-$Definition["%s user(s) found."] = "พบ %s ผู้ใช้";
-$Definition["%s user(s) will be affected by this action."] =
-    "ผู้ใช้จำนวน %s คนจะโดนผลกระทบจากการกระทำนี้";
+$Definition['%1$s version %2$s is available.'] = '%1$s เวอร์ชั่น %2$s พร้อมใช้งาน';
+$Definition['%d slides on display initial slide %d of %d'] = '%d สไลด์บนจอแสดงผล สไลด์เริ่มต้น %d จาก %d';
+$Definition['%s ago'] = '%s ที่ผ่านมา';
+$Definition['%s in the following categories will require moderator approval.'] = '%s ในหมวดหมู่ต่อไปนี้จะต้องได้รับอนุมัติจากผู้ดูแลระบบ';
+$Definition['%s is not a valid email address'] = 'อีเมล %s ไม่ถูกต้อง';
+$Definition['%s is required'] = 'โปรดระบุ %s';
+$Definition['%s item in queue'] = '%s รายการในคิว';
+$Definition['%s level'] = '%s เลเวล';
+$Definition['%s levels'] = '%s เลเวล';
+$Definition['%s must be numeric'] = '%s ต้องเป็นตัวเลข';
+$Definition['%s site(s) found.'] = 'พบ %s ไซต์';
+$Definition['%s sources(s) found.'] = 'พบ %s แหล่ง';
+$Definition['%s times'] = '%s ครั้ง';
+$Definition['%s unavailable'] = '%s ไม่พร้อมใช้งาน';
+$Definition['%s user(s) found.'] = 'พบ %s ผู้ใช้';
+$Definition['%s user(s) will be affected by this action.'] = 'ผู้ใช้จำนวน %s คนจะโดนผลกระทบจากการกระทำนี้';
+$Definition['%s user found.'] = 'พบผู้ใช้ %s';
+$Definition['%s users found.'] = 'พบผู้ใช้ %s';
 
-$Definition["<0/> will suggest answers on Q&A posts"] =
-    "<0/> จะแนะนำคำตอบในโพสต์ถาม-ตอบ";
-$Definition["<0 /> will not suggest answers on Q&A posts"] =
-    "<0 /> จะไม่แนะนำคำตอบในโพสต์ Q&A";
+$Definition['(less)'] = '(น้อยกว่า)';
+$Definition['(more)'] = '(มากกว่า)';
+$Definition['(YYYY-mm-dd)'] = '(ปี-เดือน-วันที่)';
 
-$Definition["(less)"] = "(น้อยกว่า)";
-$Definition["(more)"] = "(มากกว่า)";
-$Definition["(YYYY-mm-dd)"] = "(ปี-เดือน-วันที่)";
+$Definition['1 day'] = '1 วัน';
+$Definition['1 hour'] = '1 ชั่วโมง';
+$Definition['1 in 5 is recommended for most communities.'] = '1 ใน 5 แนะนำสำหรับชุมชนส่วนใหญ่';
+$Definition['1 in 20 is recommended for most communities.'] = 'แนะนำให้อยู่ที่ 1 ใน 20 สำหรับชุมชนส่วนใหญ่';
+$Definition['1 month'] = '1 เดือน';
+$Definition['1 month after being sent'] = '1 เดือนหลังจากส่ง';
+$Definition['1 week'] = '1 สัปดาห์';
+$Definition['1 week after being sent'] = '1 สัปดาห์หลังจากส่ง';
+$Definition['2 weeks after being sent'] = '2 สัปดาห์หลังจากส่ง';
+$Definition['4 hours'] = '4 ชั่วโมง';
+$Definition['5 minutes'] = '5 นาที';
+$Definition['15 minutes'] = '15 นาที';
 
-$Definition["1 day"] = "1 วัน";
-$Definition["1 hour"] = "1 ชั่วโมง";
-$Definition["1 in 5 is recommended for most communities."] =
-    "1 ใน 5 แนะนำสำหรับชุมชนส่วนใหญ่";
-$Definition["1 in 20 is recommended for most communities."] =
-    "แนะนำให้อยู่ที่ 1 ใน 20 สำหรับชุมชนส่วนใหญ่";
-$Definition["1 month"] = "1 เดือน";
-$Definition["1 month after being sent"] = "1 เดือนหลังจากส่ง";
-$Definition["1 week"] = "1 สัปดาห์";
-$Definition["1 week after being sent"] = "1 สัปดาห์หลังจากส่ง";
-$Definition["2 weeks after being sent"] = "2 สัปดาห์หลังจากส่ง";
-$Definition["4 hours"] = "4 ชั่วโมง";
-$Definition["5 minutes"] = "5 นาที";
-$Definition["15 minutes"] = "15 นาที";
+$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> จะไม่แนะนำคำตอบในโพสต์ Q&A';
+$Definition['<0/> <1/> more comments'] = '<0/> <1/> ความเห็นเพิ่มเติม';
+$Definition['<0/> has been <1/>'] = '<0/> เป็น <1/>';
+$Definition['<0/> new'] = '<0/> ใหม่';
+$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> จะแนะนำคำตอบในโพสต์ถาม-ตอบ';
 
-$Definition["[%s] Confirm Your Email Address"] =
-    "[%s] ยืนยันอีเมลของคุณ";
-$Definition["[%s] Invitation"] = "[%s] คำเชิญ";
-$Definition["[%s] Password Reset"] = "[%s] รีเซ็ตรหัสผ่าน";
-$Definition["[%s] Password Reset Request"] = "[%s] คำขอรีเซ็ตรหัสผ่าน";
-$Definition[
-    'You\'ve reached the maximum login attempts. Please wait %s and try again.'
-] = 'คุณพยายามเข้าสู่ระบบครบจำนวนสูงสุดแล้ว โปรดรอ %s แล้วลองอีกครั้ง';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] ยืนยันอีเมลของคุณ';
+$Definition['[%s] Invitation'] = '[%s] คำเชิญ';
+$Definition['[%s] Password Reset'] = '[%s] รีเซ็ตรหัสผ่าน';
+$Definition['[%s] Password Reset Request'] = '[%s] คำขอรีเซ็ตรหัสผ่าน';
 
-$Definition["a Badge"] = "เหรียญตรา";
-$Definition["A unique display name."] = "ชื่อที่แสดงไม่ซ้ำใคร";
-$Definition["A unique label name that cannot be changed once saved."] =
-    "ชื่อป้ายที่ไม่ซ้ำกันซึ่งไม่สามารถเปลี่ยนแปลงได้เมื่อบันทึกแล้ว";
-$Definition["Abilites"] = "ความสามารถ";
-$Definition["Abilities"] = "ความสามารถ";
-$Definition["About %s"] = "เกี่ยวกับ %s";
-$Definition["About Email Digest"] = "เกี่ยวกับอีเมลสรุป";
-$Definition["About External Search"] = "เกี่ยวกับการค้นหาภายนอก";
-$Definition["About Theme Preview"] = "เกี่ยวกับการแสดงตัวอย่างธีม";
-$Definition["Above Main Content"] = "ที่อยู่เหนือเนื้อหา";
-$Definition["Accept Answer"] = "ยอมรับคำตอบ";
-$Definition['"Accept Answer" if a suggestion answers your question.'] =
-    '“ยอมรับคำตอบ” หากข้อเสนอแนะตอบคำถามของคุณ';
-$Definition["Account Sync Failed"] = "การเชื่อมต่อบัญชีล้มเหลว";
-$Definition["Accepted answer pageview ratio representing a deflected case"] =
-    "อัตราส่วนการดูหน้าคำตอบที่ยอมรับแสดงถึงกรณีที่ถูกเบี่ยงเบน";
-$Definition["Accepted Answers"] = "คำตอบที่ได้รับการยอมรับ";
-$Definition["Action"] = "การกระทำ";
-$Definition["Actions and Permissions"] = "การกระทำและการอนุญาต";
-$Definition["Actions Based on Votes"] = "การกระทำที่ขึ้นอยู่กับจำนวนโหวต";
-$Definition["activity(ies)"] = "กิจกรรม (IES)";
+$Definition['a Badge'] = 'เหรียญตรา';
+$Definition['Abilites'] = 'ความสามารถ';
+$Definition['Abilities'] = 'ความสามารถ';
+$Definition['About %s'] = 'เกี่ยวกับ %s';
+$Definition['About Email Digest'] = 'เกี่ยวกับอีเมลสรุป';
+$Definition['About External Search'] = 'เกี่ยวกับการค้นหาภายนอก';
+$Definition['About Theme Preview'] = 'เกี่ยวกับการแสดงตัวอย่างธีม';
+$Definition['Above Main Content'] = 'ที่อยู่เหนือเนื้อหา';
+$Definition['Accept Answer'] = 'ยอมรับคำตอบ';
+$Definition['Accepted answer pageview ratio representing a deflected case'] = 'อัตราส่วนการดูหน้าคำตอบที่ยอมรับแสดงถึงกรณีที่ถูกเบี่ยงเบน';
+$Definition['Accepted Answers'] = 'คำตอบที่ได้รับการยอมรับ';
+$Definition['Account Sync Failed'] = 'การเชื่อมต่อบัญชีล้มเหลว';
+$Definition['A concise name for the report reason.'] = 'ชื่อสั้นๆ สำหรับเหตุผลของรายงาน';
+$Definition['Action'] = 'การกระทำ';
+$Definition['Actions and Permissions'] = 'การกระทำและการอนุญาต';
+$Definition['Actions Based on Votes'] = 'การกระทำที่ขึ้นอยู่กับจำนวนโหวต';
+$Definition['Activate Icon Pack'] = 'เปิดใช้งานไอคอนแพ็ค';
+$Definition['Active Icon'] = 'ไอคอนแอ็คทีฟ';
+$Definition['Activity & Registration'] = 'กิจกรรม & การลงทะเบียน';
 $Definition['activity\'s comment(s)'] = 'ความคิดเห็นของกิจกรรม';
-$Definition["Activity Item"] = "รายการกิจกรรม";
-$Definition["Activity item not found."] = "ไม่พบรายการกิจกรรม";
-$Definition["Add a new Pocket to your site."] =
-    "เพิ่ม Pocket ให้กับเวบไซต์ของคุณ";
-$Definition[
-    "Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event."
-] =
-    "เพิ่มลิงก์ Zoom หรือ ID การประชุมเพื่อเชื่อมต่อกิจกรรมนี้กับ Zoom และเปิดใช้งานปุ่มลงทะเบียนและเข้าร่วมแบบคลิกครั้งเดียว โปรดทราบว่าหากกิจกรรมของคุณต้องการการลงทะเบียน คุณจะไม่สามารถอัปเดต ID หรือลิงก์การประชุมหลังจากสร้างกิจกรรมแล้วได้";
-$Definition["Add Ban Rule"] = "เพิ่มกฎการแบน";
-$Definition["Add Category"] = "เพิ่มหมวดหมู่";
-$Definition["Add Columns"] = "เพิ่มคอลัมน์";
-$Definition["Add Comments"] = "เพิ่มความคิดเห็น";
-$Definition["Add Connection"] = "เพิ่มการเชื่อมต่อ";
-$Definition["Added By"] = "ถูกเพิ่มโดย";
-$Definition["Add Field"] = "เพิ่มฟิลด์";
-$Definition["Add Info &amp; Create Account"] = "เพิ่มข้อมูล & สร้างบัญชี";
-$Definition[
-    "Add information into the from field in email addresses to help with replies (recommended)."
-] =
-    "เพิ่มข้อมูลลงในฟอร์มอีเมลเพื่อช่วยในการตอบกลับ (แนะนำ)";
-$Definition["Add Interest"] = "เพิ่มความสนใจ";
-$Definition["Adding & Editing Categories"] = "เพิ่มเติมและแก้ไขหมวดหมู่";
-$Definition["Add Item"] = "เพิ่มไอเท็ม";
-$Definition["Addons"] = "ส่วนเสริม";
-$Definition["Addons Overview"] = "ภาพรวม Addons";
-$Definition["Add Role"] = "เพิ่มตำแหน่ง";
-$Definition["Add rule"] = "เพิ่มกฎ";
-$Definition["Add Tag"] = "เพิ่มแท็ก";
-$Definition["Add Theme"] = "เพิ่มธีม";
-$Definition["Add Token"] = "เพิ่มโทเค็น";
-$Definition["Add User"] = "เพิ่มผู้ใช้";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles."
-] =
-    "เพิ่มโดเมน Kaltura แบบกำหนดเองของคุณเพื่อแปลงลิงก์เป็นวิดีโอที่ฝังในการสนทนา ความคิดเห็น หรือบทความ";
-$Definition[
-    "Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles."
-] =
-    "เพิ่มโดเมน Kaltura ที่กำหนดเองของคุณเพื่อแปลงลิงก์ให้เป็นวิดีโอที่ฝังไว้ในโพสต์ ความคิดเห็น หรือบทความ";
-$Definition["administrator"] = "แอดมิน";
-$Definition["Advanced"] = "ขั้นสูง";
-$Definition["Advanced Category Settings"] = "การตั้งค่าหมวดหมู่ขั้นสูง";
-$Definition["Advanced Editor Settings"] = "การตั้งค่าของเครื่องมือแก้ไขชั้นสูง";
-$Definition["Advanced Embed Settings"] = "การตั้งค่าของเครื่องมือ Embed ชั้นสูง";
-$Definition["Advanced Forum Settings"] = "การตั้งค่าของกระดานสนทนาชั้นสูง";
-$Definition["AdvancedNotifications"] = "การแจ้งเตือนขั้นสูง";
-$Definition["Advanced Options"] = "ตัวเลือกการแก้ไขขั้นสูง";
-$Definition["Advanced Settings"] = "การตั้งค่าขั้นสูง";
-$Definition["Advanced settings for embedded community elements"] =
-    "การตั้งค่าขั้นสูงสำหรับองค์ประกอบชุมชนฝังตัว";
-$Definition["After"] = "หลังจาก";
-$Definition["AI Suggested Answers"] = "คำตอบที่แนะนำโดย AI";
-$Definition["AI Suggestions are not enabled"] =
-    "ข้อเสนอแนะ AI ไม่ได้รับการเปิดใช้งาน";
-$Definition[
-    "AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences."
-] =
-    "คำตอบที่แนะนำโดย AI จะให้คำตอบที่แนะนำโดยอิงจากโพสต์ในชุมชนและฐานความรู้ที่เชื่อมโยง คุณสามารถเปิดหรือปิดได้ตลอดเวลาโดยไปที่การตั้งค่าโปรไฟล์ของคุณ";
-$Definition[
-    "Alert users if they click a link in a post that will lead them away from the forum. "
-] =
-    "แจ้งเตือนผู้ใช้หากพวกเขาคลิกลิงก์ในโพสต์ที่จะนำพวกเขาออกจากฟอรัม";
-$Definition["Alive"] = "ยังอยู่";
+$Definition['activity(ies)'] = 'กิจกรรม (IES)';
+$Definition['Activity Item'] = 'รายการกิจกรรม';
+$Definition['Activity item not found.'] = 'ไม่พบรายการกิจกรรม';
+$Definition['Add a comment'] = 'เพิ่มความคิดเห็น';
+$Definition['Add a new Pocket to your site.'] = 'เพิ่ม Pocket ให้กับเวบไซต์ของคุณ';
+$Definition['Add a Zoom link or meeting ID to connect this event to Zoom and enable one-click registration and join buttons. Note if your event requires registration, you cannot update your meeting ID or link after creating the event.'] = 'เพิ่มลิงก์ Zoom หรือ ID การประชุมเพื่อเชื่อมต่อกิจกรรมนี้กับ Zoom และเปิดใช้งานปุ่มลงทะเบียนและเข้าร่วมแบบคลิกครั้งเดียว โปรดทราบว่าหากกิจกรรมของคุณต้องการการลงทะเบียน คุณจะไม่สามารถอัปเดต ID หรือลิงก์การประชุมหลังจากสร้างกิจกรรมแล้วได้';
+$Definition['Add Ban Rule'] = 'เพิ่มกฎการแบน';
+$Definition['Add Category'] = 'เพิ่มหมวดหมู่';
+$Definition['Add Columns'] = 'เพิ่มคอลัมน์';
+$Definition['Add Comments'] = 'เพิ่มความคิดเห็น';
+$Definition['Add Connection'] = 'เพิ่มการเชื่อมต่อ';
+$Definition['Add Custom Layout'] = 'เพิ่มเค้าโครงที่กำหนดเอง';
+$Definition['Added By'] = 'ถูกเพิ่มโดย';
+$Definition['Add Field'] = 'เพิ่มฟิลด์';
+$Definition['Add Filter'] = 'เพิ่มตัวกรอง';
+$Definition['Add Info &amp; Create Account'] = 'เพิ่มข้อมูล & สร้างบัญชี';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'เพิ่มข้อมูลลงในฟอร์มอีเมลเพื่อช่วยในการตอบกลับ (แนะนำ)';
+$Definition['Adding & Editing Categories'] = 'เพิ่มเติมและแก้ไขหมวดหมู่';
+$Definition['Add Interest'] = 'เพิ่มความสนใจ';
+$Definition['Add Item'] = 'เพิ่มไอเท็ม';
+$Definition['Additional classes'] = 'คลาสเพิ่มเติม';
+$Definition['Addons'] = 'ส่วนเสริม';
+$Definition['Addons Overview'] = 'ภาพรวม Addons';
+$Definition['Add Reason'] = 'เพิ่มเหตุผล';
+$Definition['Add Report Reason'] = 'เพิ่มเหตุผลในการรายงาน';
+$Definition['Address Bar Color'] = 'สีแถบที่อยู่';
+$Definition['Add Role'] = 'เพิ่มตำแหน่ง';
+$Definition['Add rule'] = 'เพิ่มกฎ';
+$Definition['Add Tag'] = 'เพิ่มแท็ก';
+$Definition['Add tag'] = 'เพิ่มแท็ก';
+$Definition['Add tags:'] = 'เพิ่มแท็ก:';
+$Definition['Add Theme'] = 'เพิ่มธีม';
+$Definition['Add to collection:'] = 'เพิ่มเข้าในคอลเลคชั่น:';
+$Definition['Add Token'] = 'เพิ่มโทเค็น';
+$Definition['Add User'] = 'เพิ่มผู้ใช้';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'เพิ่มโดเมน Kaltura แบบกำหนดเองของคุณเพื่อแปลงลิงก์เป็นวิดีโอที่ฝังในการสนทนา ความคิดเห็น หรือบทความ';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'เพิ่มโดเมน Kaltura ที่กำหนดเองของคุณเพื่อแปลงลิงก์ให้เป็นวิดีโอที่ฝังไว้ในโพสต์ ความคิดเห็น หรือบทความ';
+$Definition['Add your site to trusted domains.'] = 'ตรวจสอบให้แน่ใจว่าไซต์ของคุณถูกเพิ่มใน %s เมื่อเปิดใช้งานการฝัง';
+$Definition['administrator'] = 'แอดมิน';
+$Definition['Advanced'] = 'ขั้นสูง';
+$Definition['Advanced Category Settings'] = 'การตั้งค่าหมวดหมู่ขั้นสูง';
+$Definition['Advanced Editor Settings'] = 'การตั้งค่าของเครื่องมือแก้ไขชั้นสูง';
+$Definition['Advanced Embed Settings'] = 'การตั้งค่าของเครื่องมือ Embed ชั้นสูง';
+$Definition['Advanced Forum Settings'] = 'การตั้งค่าของกระดานสนทนาชั้นสูง';
+$Definition['AdvancedNotifications'] = 'การแจ้งเตือนขั้นสูง';
+$Definition['Advanced Options'] = 'ตัวเลือกการแก้ไขขั้นสูง';
+$Definition['Advanced Settings'] = 'การตั้งค่าขั้นสูง';
+$Definition['Advanced settings for embedded community elements'] = 'การตั้งค่าขั้นสูงสำหรับองค์ประกอบชุมชนฝังตัว';
+$Definition['After'] = 'หลังจาก';
+$Definition['AI Settings'] = 'การตั้งค่า AI';
+$Definition['AI Suggested Answers'] = 'คำตอบที่แนะนำโดย AI';
+$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'คำตอบที่แนะนำโดย AI จะให้คำตอบที่แนะนำโดยอิงจากโพสต์ในชุมชนและฐานความรู้ที่เชื่อมโยง คุณสามารถเปิดหรือปิดได้ตลอดเวลาโดยไปที่การตั้งค่าโปรไฟล์ของคุณ';
+$Definition['AI Suggestions are not enabled'] = 'ข้อเสนอแนะ AI ไม่ได้รับการเปิดใช้งาน';
+$Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'แจ้งเตือนผู้ใช้หากพวกเขาคลิกลิงก์ในโพสต์ที่จะนำพวกเขาออกจากฟอรัม';
+$Definition['A list of reports associated with this post will appear here.'] = 'รายชื่อรายงานที่เกี่ยวข้องกับโพสต์นี้จะปรากฏที่นี่';
+$Definition['Alive'] = 'ยังอยู่';
 $Definition['All %1$s'] = 'ทั้งหมด %1$s';
-$Definition["All Time"] = "ตลอดเวลา";
-$Definition["All Dashboard Pages"] = "หน้าการจัดการทั้งหมด";
-$Definition["All discussions in this category will be permanently deleted."] =
-    "การสนทนาทั้งหมดในหมวดหมู่นี้จะถูกลบอย่างถาวร";
-$Definition["All Forum Pages"] = "หน้าของกระดานสนทนาทั้งหมด";
-$Definition[
-    "All of the user content will be replaced with a message stating the user has been deleted."
-] =
-    "เนื้อหาของผู้ใช้ทั้งหมดจะถูกแทนที่ด้วยข้อความที่ระบุว่าผู้ใช้ถูกลบไปแล้ว";
-$Definition["Allow embedded content"] = "อนุญาตเนื้อหา Embed";
-$Definition["Allow images"] = "อนุญาตรูปภาพ";
-$Definition["Allow new users to be registered through email."] =
-    "อนุญาตให้ผู้ใช้ใหม่ลงทะเบียนผ่านอีเมล";
-$Definition["Allow this connection to issue API access tokens."] =
-    "อนุญาตให้การเชื่อมต่อนี้ออกโทเค็นการเข้าถึง API";
-$Definition["Allow Third-Party Script Execution"] =
-    "อนุญาตการดำเนินการสคริปต์ของบุคคลที่สาม";
-$Definition["Allow users to change their own avatars"] =
-    "อนุญาตให้ผู้ใช้เปลี่ยนอวตารของตนเอง";
-$Definition["Allow users to dismiss this message"] =
-    "อนุญาตให้ผู้ใช้ยกเลิกข้อความนี้";
-$Definition["All Pages"] = "หน้าทั้งหมด";
-$Definition["All Replies"] = "ตอบกลับทั้งหมด";
-$Definition["An enabled message will be visible on the site."] =
-    "ข้อความที่เปิดใช้งานจะปรากฏบนเว็บไซต์";
-$Definition["An answer in this the community thread was marked as accepted"] =
-    "คำตอบในกระทู้ชุมชนนี้ถูกทำเครื่องหมายว่ายอมรับแล้ว";
-$Definition["An error occurred updating your privacy setting"] =
-    "เกิดข้อผิดพลาดในการอัพเดตการตั้งค่าความเป็นส่วนตัวของคุณ";
-$Definition["Anonymize Analytics Data by Default"] =
-    "ทำให้ข้อมูล Analytics ไม่เปิดเผยตัวตนตามค่าเริ่มต้น";
-$Definition["Answers is not available if you have not accepted cookies."] =
-    "คำตอบจะไม่สามารถใช้ได้หากคุณไม่ได้ยอมรับคุกกี้";
-$Definition["API"] = "API";
-$Definition["API Label is required"] = "ต้องมีป้ายกำกับ API";
-$Definition["API Name"] = "ชื่อ API";
-$Definition["API SSO Expand Permission"] = "API SSO ขยายสิทธิ์";
-$Definition["API Status"] = "สถานะของ API";
-$Definition["Appearance"] = "รูปลักษณ์";
-$Definition["Applicant"] = "ผู้สมัคร";
-$Definition["applicant"] = "ผู้ขอ";
-$Definition["Applicant Role"] =
-    "เลือกบทบาทที่ควรนำไปใช้กับผู้สมัครใหม่ วิธีนี้จะใช้เฉพาะถ้าคุณมีวิธีการลงทะเบียน <b>การอนุมัติ</b>";
-$Definition["Application"] = "การสมัคร";
-$Definition["Application ID"] = "ไอดีการสมัคร";
-$Definition["Applications"] = "การสมัคร";
-$Definition["Application Secret"] = "ความลับของการสมัคร";
-$Definition["Applied by Administrator"] = "สมัครโดยแอดมิน";
-$Definition["Applied Manually"] = "สมัครเอง";
-$Definition["Applied On"] = "วันที่";
-$Definition["Apply to subcategories"] = "นำไปใช้กับหมวดหมู่ย่อย";
-$Definition["Approval"] = "อนุมัติ";
-$Definition["Archive Discussions"] = "เก็บการสนทนา";
-$Definition["Are you sure you want to delete %s items forever?"] =
-    "คุณต้องการที่จะลบ %s รายการถาวร?";
-$Definition["Are you sure you want to delete 1 item forever?"] =
-    "คุณต้องการที่จะลบ 1 รายการถาวร?";
-$Definition[
-    "Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it."
-] =
-    "คุณแน่ใจหรือว่าต้องการลบตรานี้ สิ่งนี้ไม่สามารถย้อนกลับได้และจะเพิกถอนตราจากผู้ใช้ทุกคนที่มี";
-$Definition["Are you sure you want to delete this category?"] =
-    "คุณแน่ใจหรือว่าต้องการลบหมวดหมู่นี้";
-$Definition["Are you sure you want to restore %s items?"] =
-    "คุณแน่ใจหรือไม่ว่าต้องการกู้คืนรายการ %s";
-$Definition["Are you sure you want to restore 1 item?"] =
-    "คุณแน่ใจหรือไม่ว่าต้องการกู้คืน 1 รายการ";
-$Definition[
-    "Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime."
-] =
-    "คุณแน่ใจหรือไม่ว่าต้องการปิดคำตอบที่แนะนำโดย AI ทั้งหมด คุณสามารถเลิกทำได้ในการตั้งค่าโปรไฟล์ของคุณได้ตลอดเวลา";
-$Definition["Assistant Tone of Voice"] = "โทนเสียงผู้ช่วย";
-$Definition["Assistant Icon"] = "ไอคอนผู้ช่วย";
-$Definition["Assistant Name"] = "ชื่อผู้ช่วย";
-$Definition[
-    "At least one visible column is required. Show or add a visible column."
-] = "ต้องมีคอลัมน์ที่มองเห็นได้อย่างน้อยหนึ่งคอลัมน์ แสดงหรือเพิ่มคอลัมน์ที่มองเห็นได้";
-$Definition["A url-friendly version of the category name for better SEO."] =
-    "ชื่อหมวดหมู่ที่เป็นมิตรกับ URL เพื่อการทำ SEO ที่ดียิ่งขึ้น";
-$Definition["Automatically Save Drafts"] = "บันทึกฉบับร่างโดยอัตโนมัติ";
-$Definition["Authors may always edit"] = "ผู้เขียนอาจแก้ไขได้เสมอ";
-$Definition["Authors may edit for %s"] = "ผู้เขียนอาจแก้ไขสำหรับ %s";
-$Definition["Authors may never edit"] = "ผู้เขียนอาจไม่แก้ไข";
-$Definition["Auto-Fetch New Comments"] = "ดึงความคิดเห็นใหม่โดยอัตโนมัติ";
-$Definition["Avatar Dimensions"] = "ขนาดรูปประจำตัว";
-$Definition["Avatars"] = "รูปโปรไฟล์";
+$Definition['All comments on this post will appear here'] = 'ความคิดเห็นทั้งหมดในโพสต์นี้จะปรากฏที่นี่';
+$Definition['All Dashboard Pages'] = 'หน้าการจัดการทั้งหมด';
+$Definition['All discussions in this category will be permanently deleted.'] = 'การสนทนาทั้งหมดในหมวดหมู่นี้จะถูกลบอย่างถาวร';
+$Definition['All Forum Pages'] = 'หน้าของกระดานสนทนาทั้งหมด';
+$Definition['All icons in this icon pack are currently active.'] = 'ไอคอนทั้งหมดในแพ็คไอคอนนี้เปิดใช้งานอยู่ในปัจจุบัน';
+$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'เนื้อหาของผู้ใช้ทั้งหมดจะถูกแทนที่ด้วยข้อความที่ระบุว่าผู้ใช้ถูกลบไปแล้ว';
+$Definition['Allow embedded content'] = 'อนุญาตเนื้อหา Embed';
+$Definition['Allow images'] = 'อนุญาตรูปภาพ';
+$Definition['Allow new users to be registered through email.'] = 'อนุญาตให้ผู้ใช้ใหม่ลงทะเบียนผ่านอีเมล';
+$Definition['Allow Third-Party Script Execution'] = 'อนุญาตการดำเนินการสคริปต์ของบุคคลที่สาม';
+$Definition['Allow this connection to issue API access tokens.'] = 'อนุญาตให้การเชื่อมต่อนี้ออกโทเค็นการเข้าถึง API';
+$Definition['Allow users to change their own avatars'] = 'อนุญาตให้ผู้ใช้เปลี่ยนอวตารของตนเอง';
+$Definition['Allow users to dismiss this message'] = 'อนุญาตให้ผู้ใช้ยกเลิกข้อความนี้';
+$Definition['All Pages'] = 'หน้าทั้งหมด';
+$Definition['All Replies'] = 'ตอบกลับทั้งหมด';
+$Definition['All Time'] = 'ตลอดเวลา';
+$Definition['All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories.'] = 'ผู้ใช้ทุกคนที่ได้รับอนุญาตจากเจ้าหน้าที่จะสามารถดูและทำเครื่องหมายการสนทนาว่าได้รับการแก้ไขหรือยังไม่ได้รับการแก้ไขได้ นอกจากนี้ ผู้ใช้เหล่านี้ยังสามารถเข้าถึงแดชบอร์ดการคัดแยกเพื่อดูแลหมวดหมู่ของตนได้อีกด้วย';
+$Definition['a month'] = 'หนึ่งเดือน';
+$Definition['An answer in this the community thread was marked as accepted'] = 'คำตอบในกระทู้ชุมชนนี้ถูกทำเครื่องหมายว่ายอมรับแล้ว';
+$Definition['and'] = 'และ';
+$Definition['and assign to'] = 'และมอบหมายให้';
+$Definition['and remove from community'] = 'และลบออกจากชุมชน';
+$Definition['and remove role'] = 'และลบบทบาทออกไป';
+$Definition['An enabled message will be visible on the site.'] = 'ข้อความที่เปิดใช้งานจะปรากฏบนเว็บไซต์';
+$Definition['An error occurred updating your privacy setting'] = 'เกิดข้อผิดพลาดในการอัพเดตการตั้งค่าความเป็นส่วนตัวของคุณ';
+$Definition['An explanation of the report reason to better reporters make the correct selection when reporting a post.'] = 'คำอธิบายเหตุผลในการรายงานเพื่อให้ผู้รายงานสามารถเลือกรายงานโพสต์ได้ถูกต้องมากขึ้น';
+$Definition['An idea has received'] = 'ได้มีไอเดียเกิดขึ้น';
+$Definition['Anonymize Analytics Data by Default'] = 'ทำให้ข้อมูล Analytics ไม่เปิดเผยตัวตนตามค่าเริ่มต้น';
+$Definition['Answers is not available if you have not accepted cookies.'] = 'คำตอบจะไม่สามารถใช้ได้หากคุณไม่ได้ยอมรับคุกกี้';
+$Definition['API Label is required'] = 'ต้องมีป้ายกำกับ API';
+$Definition['API Name'] = 'ชื่อ API';
+$Definition['API SSO Expand Permission'] = 'API SSO ขยายสิทธิ์';
+$Definition['API Status'] = 'สถานะของ API';
+$Definition['A post'] = 'โพสต์';
+$Definition['A post has been added to a collection'] = 'โพสต์ได้รับการเพิ่มลงในคอลเลกชั่นแล้ว';
+$Definition['A post has not had any activity'] = 'โพสต์นี้ไม่มีกิจกรรมใดๆ';
+$Definition['A post has received'] = 'โพสต์ได้รับการรับแล้ว';
+$Definition['Appearance'] = 'รูปลักษณ์';
+$Definition['Applicant'] = 'ผู้สมัคร';
+$Definition['applicant'] = 'ผู้ขอ';
+$Definition['Applicant Role'] = 'เลือกบทบาทที่ควรนำไปใช้กับผู้สมัครใหม่ วิธีนี้จะใช้เฉพาะถ้าคุณมีวิธีการลงทะเบียน <b>การอนุมัติ</b>';
+$Definition['Application'] = 'การสมัคร';
+$Definition['Application ID'] = 'ไอดีการสมัคร';
+$Definition['Applications'] = 'การสมัคร';
+$Definition['Application Secret'] = 'ความลับของการสมัคร';
+$Definition['Applied'] = 'สมัครแล้ว';
+$Definition['Applied as default'] = 'ใช้เป็นค่าเริ่มต้น';
+$Definition['Applied by Administrator'] = 'สมัครโดยแอดมิน';
+$Definition['Applied Manually'] = 'สมัครเอง';
+$Definition['Applied On'] = 'วันที่';
+$Definition['Apply additional classes on catalogue image.'] = 'ใช้คลาสเพิ่มเติมบนรูปภาพแคตตาล็อก ใช้พื้นที่ในการแยกแต่ละชั้น';
+$Definition['Apply Layout to Site Home Page'] = 'นำเค้าโครงมาใช้กับหน้าแรกของเว็บไซต์';
+$Definition['Apply to specific categories.'] = 'นำไปใช้เฉพาะหมวดหมู่ที่ต้องการ';
+$Definition['Apply to specific subcommunities.'] = 'นำไปใช้กับชุมชนย่อยที่เฉพาะเจาะจง';
+$Definition['Apply to subcategories'] = 'นำไปใช้กับหมวดหมู่ย่อย';
+$Definition['Approval'] = 'อนุมัติ';
+$Definition['A question'] = 'คำถาม';
+$Definition['Archive Discussions'] = 'เก็บการสนทนา';
+$Definition['Are you sure you want to delete %s items forever?'] = 'คุณต้องการที่จะลบ %s รายการถาวร?';
+$Definition['Are you sure you want to delete 1 item forever?'] = 'คุณต้องการที่จะลบ 1 รายการถาวร?';
+$Definition['Are you sure you want to delete?'] = 'คุณแน่ใจว่าต้องการลบใช่ไหม?';
+$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'คุณแน่ใจหรือว่าต้องการลบตรานี้ สิ่งนี้ไม่สามารถย้อนกลับได้และจะเพิกถอนตราจากผู้ใช้ทุกคนที่มี';
+$Definition['Are you sure you want to delete this category?'] = 'คุณแน่ใจหรือว่าต้องการลบหมวดหมู่นี้';
+$Definition['Are you sure you want to delete this reason?'] = 'คุณแน่ใจว่าต้องการลบเหตุผลนี้หรือไม่?';
+$Definition['Are you sure you want to delete your %s?'] = 'คุณแน่ใจหรือไม่ว่าต้องการลบ %s ของคุณ?';
+$Definition['Are you sure you want to exit without saving?'] = 'คุณแน่ใจว่าต้องการออกโดยไม่บันทึกใช่ไหม?';
+$Definition['Are you sure you want to restore %s items?'] = 'คุณแน่ใจหรือไม่ว่าต้องการกู้คืนรายการ %s';
+$Definition['Are you sure you want to restore 1 item?'] = 'คุณแน่ใจหรือไม่ว่าต้องการกู้คืน 1 รายการ';
+$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'คุณแน่ใจหรือไม่ว่าต้องการปิดคำตอบที่แนะนำโดย AI ทั้งหมด คุณสามารถเลิกทำได้ในการตั้งค่าโปรไฟล์ของคุณได้ตลอดเวลา';
+$Definition['Are you sure you want to use %s?'] = 'คุณแน่ใจหรือไม่ว่าต้องการใช้ %s?';
+$Definition['Article Count'] = 'จำนวนบทความ';
+$Definition['Assign/Remove role'] = 'การมอบหมาย/ลบบทบาท';
+$Definition['Assignee'] = 'ผู้รับมอบหมาย';
+$Definition['Assign role:'] = 'มอบหมายบทบาท:';
+$Definition['Assign to'] = 'มอบหมายให้';
+$Definition['Assistant Icon'] = 'ไอคอนผู้ช่วย';
+$Definition['Assistant Name'] = 'ชื่อผู้ช่วย';
+$Definition['Assistant Tone of Voice'] = 'โทนเสียงผู้ช่วย';
+$Definition['At least one visible column is required. Show or add a visible column.'] = 'ต้องมีคอลัมน์ที่มองเห็นได้อย่างน้อยหนึ่งคอลัมน์ แสดงหรือเพิ่มคอลัมน์ที่มองเห็นได้';
+$Definition['Audit Log'] = 'บันทึกการตรวจสอบ';
+$Definition['A unique display name.'] = 'ชื่อที่แสดงไม่ซ้ำใคร';
+$Definition['A unique label for the report reason. This label cannot be changed once saved.'] = 'ป้ายชื่อเฉพาะสำหรับเหตุผลในการรายงาน ไม่สามารถเปลี่ยนป้ายชื่อนี้ได้เมื่อบันทึกแล้ว';
+$Definition['A unique label name that cannot be changed once saved.'] = 'ชื่อป้ายที่ไม่ซ้ำกันซึ่งไม่สามารถเปลี่ยนแปลงได้เมื่อบันทึกแล้ว';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'ชื่อหมวดหมู่ที่เป็นมิตรกับ URL เพื่อการทำ SEO ที่ดียิ่งขึ้น';
+$Definition['A user has been registered'] = 'ผู้ใช้งานได้รับการลงทะเบียนแล้ว';
+$Definition['A user registers or logs in with email domain:'] = 'ผู้ใช้ลงทะเบียนหรือเข้าสู่ระบบด้วยโดเมนอีเมล:';
+$Definition['A user registers or updates a profile field:'] = 'ผู้ใช้ลงทะเบียนหรืออัปเดตข้อมูลโปรไฟล์:';
+$Definition['Authors may always edit'] = 'ผู้เขียนอาจแก้ไขได้เสมอ';
+$Definition['Authors may edit for %s'] = 'ผู้เขียนอาจแก้ไขสำหรับ %s';
+$Definition['Authors may never edit'] = 'ผู้เขียนอาจไม่แก้ไข';
+$Definition['Auto-Fetch New Comments'] = 'ดึงความคิดเห็นใหม่โดยอัตโนมัติ';
+$Definition['Auto-run disabled.'] = 'ปิดใช้งานการทำงานอัตโนมัติ';
+$Definition['Auto-run enabled.'] = 'เปิดใช้งานการทำงานอัตโนมัติแล้ว';
+$Definition['Automatically Save Drafts'] = 'บันทึกฉบับร่างโดยอัตโนมัติ';
+$Definition['Automation'] = 'ระบบอัตโนมัติ';
+$Definition['Automation rule successfully created.'] = 'สร้างกฎอัตโนมัติสำเร็จแล้ว';
+$Definition['Automation rule successfully updated.'] = 'อัปเดตกฎการทำงานอัตโนมัติสำเร็จแล้ว';
+$Definition['Avatar Dimensions'] = 'ขนาดรูปประจำตัว';
+$Definition['Avatars'] = 'รูปโปรไฟล์';
 
-$Definition["Background Color"] = "สีพื้นหลัง";
-$Definition["Back to all users"] = "กลับไปที่ผู้ใช้ทั้งหมด";
-$Definition["Back to Mobile Site"] = "กลับไปที่ไซต์มือถือ";
-$Definition["Badge cannot be deleted."] = "ไม่สามารถลบตรา";
-$Definition["Badge Class"] = "คลาสป้ายสถานะ";
-$Definition["Badge Class Level"] = "ระดับชั้นตรา";
-$Definition["Badge deleted."] = "ลบป้ายแล้ว";
-$Definition["Badge Name"] = "ชื่อ";
-$Definition["BadgeRecipientsHeading"] = "ผู้รับล่าสุด";
-$Definition["BadgeRequestColumnLabel"] = "ขอร้อง";
-$Definition["Badge Requests"] = "คำขอป้ายสถานะ";
-$Definition["Badge requests"] = "คำขอรับป้าย";
-$Definition["Balanced"] = "สมดุล";
-$Definition["Ban Item"] = "รายการ";
-$Definition["Ban List"] = "รายการห้าม";
-$Definition["Banner"] = "แบนเนอร์";
-$Definition["Banner Logo"] = "โลโก้แบนเนอร์";
-$Definition["Banner Title"] = "แบนเนอร์ไตเติ้ล";
-$Definition["Banner Search Box"] = "ช่องค้นหาแบนเนอร์";
-$Definition["Banning"] = "การแบน";
-$Definition["Banning Options"] = "ตัวเลือกการแบน";
-$Definition["Ban Rule"] = "กฎการแบน";
-$Definition["Ban Rules"] = "กฎการแบน";
-$Definition["Ban Type"] = "Condition Type";
-$Definition["Basic Information"] = "ข้อมูลพื้นฐาน";
-$Definition["Before"] = "ก่อน";
-$Definition[
-    "Before activating this feature, please be aware of the following potential implications:"
-] =
-    "ก่อนที่จะเปิดใช้งานคุณสมบัตินี้ โปรดทราบถึงผลกระทบที่อาจเกิดขึ้นดังต่อไปนี้:";
-$Definition["Begin At"] = "เริ่มต้นที่";
-$Definition["Below Sidebar"] = "ด้านล่างแถบด้านข้าง";
-$Definition["Blocked"] = "บล๊อค";
-$Definition["Blog Comments"] = "ความคิดเห็นบล็อก";
-$Definition["Bookmark a discussion using its star icon."] =
-    "คั่นการสนทนาโดยใช้ไอคอนรูปดาว";
-$Definition["Browse Addons"] = "เรียกดู Addons";
-$Definition["Browser Compatibility:"] = "ความเข้ากันได้ของเบราว์เซอร์:";
-$Definition["Browse for a new banner logo if you would like to change it:"] =
-    "เรียกดูโลโก้แบนเนอร์ใหม่หากคุณต้องการเปลี่ยน:";
-$Definition["Button Background Color"] = "สีพื้นหลังของปุ่ม";
-$Definition["Button Text Color"] = "สีข้อความของปุ่ม";
+$Definition['Background Color'] = 'สีพื้นหลัง';
+$Definition['Back to all users'] = 'กลับไปที่ผู้ใช้ทั้งหมด';
+$Definition['Back to Mobile Site'] = 'กลับไปที่ไซต์มือถือ';
+$Definition['Badge cannot be deleted.'] = 'ไม่สามารถลบตรา';
+$Definition['Badge Class'] = 'คลาสป้ายสถานะ';
+$Definition['Badge Class Level'] = 'ระดับชั้นตรา';
+$Definition['Badge deleted.'] = 'ลบป้ายแล้ว';
+$Definition['Badge Name'] = 'ชื่อ';
+$Definition['BadgeRecipientsHeading'] = 'ผู้รับล่าสุด';
+$Definition['BadgeRequestColumnLabel'] = 'ขอร้อง';
+$Definition['Badge Requests'] = 'คำขอป้ายสถานะ';
+$Definition['Badge requests'] = 'คำขอรับป้าย';
+$Definition['Badges Limit'] = 'ป้ายจำกัด';
+$Definition['Balanced'] = 'สมดุล';
+$Definition['Ban Item'] = 'รายการ';
+$Definition['Ban List'] = 'รายการห้าม';
+$Definition['Banner'] = 'แบนเนอร์';
+$Definition['Banner Image'] = 'ภาพแบนเนอร์';
+$Definition['Banner Logo'] = 'โลโก้แบนเนอร์';
+$Definition['Banner Search Box'] = 'ช่องค้นหาแบนเนอร์';
+$Definition['Banner Title'] = 'แบนเนอร์ไตเติ้ล';
+$Definition['Banning'] = 'การแบน';
+$Definition['Banning Options'] = 'ตัวเลือกการแบน';
+$Definition['Ban Rule'] = 'กฎการแบน';
+$Definition['Ban Rules'] = 'กฎการแบน';
+$Definition['Ban Type'] = 'Condition Type';
+$Definition['Basic Information'] = 'ข้อมูลพื้นฐาน';
+$Definition['Before'] = 'ก่อน';
+$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'ก่อนที่จะเปิดใช้งานคุณสมบัตินี้ โปรดทราบถึงผลกระทบที่อาจเกิดขึ้นดังต่อไปนี้:';
+$Definition['Begin At'] = 'เริ่มต้นที่';
+$Definition['Below Sidebar'] = 'ด้านล่างแถบด้านข้าง';
+$Definition['Blocked'] = 'บล๊อค';
+$Definition['Blog Comments'] = 'ความคิดเห็นบล็อก';
+$Definition['Bookmark a discussion using its star icon.'] = 'คั่นการสนทนาโดยใช้ไอคอนรูปดาว';
+$Definition['Branding & Assets'] = 'การสร้างแบรนด์และสินทรัพย์';
+$Definition['Browse Addons'] = 'เรียกดู Addons';
+$Definition['Browse for a new banner logo if you would like to change it:'] = 'เรียกดูโลโก้แบนเนอร์ใหม่หากคุณต้องการเปลี่ยน:';
+$Definition['Browser Compatibility:'] = 'ความเข้ากันได้ของเบราว์เซอร์:';
+$Definition['Bump post'] = 'เสากันกระแทก';
+$Definition['Button Background Color'] = 'สีพื้นหลังของปุ่ม';
+$Definition['Button Text Color'] = 'สีข้อความของปุ่ม';
 
-$Definition["Cannot build profile information if user is not defined."] =
-    "ไม่สามารถสร้างข้อมูลโปรไฟล์หากไม่ได้กำหนดผู้ใช้";
-$Definition["Categories &amp; Discussions"] = "หมวดหมู่และการสนทนา";
-$Definition["Categories to Exclude from AI Answers"] =
-    "หมวดหมู่ที่ต้องยกเว้นจากคำตอบ AI";
-$Definition["Categories are used to organize discussions."] =
-    "หมวดหมู่ถูกใช้เพื่อช่วยให้ผู้ใช้ของคุณจัดการการสนทนาในแบบที่มีความหมายต่อชุมชนของคุณ";
-$Definition["Categories are used to organize posts."] =
-    "หมวดหมู่ใช้เพื่อช่วยให้ผู้ใช้ของคุณจัดระเบียบโพสต์ของตนในลักษณะที่มีความหมายต่อชุมชนของคุณ";
-$Definition["Categories allow you to organize your posts."] =
-    "หมวดหมู่ช่วยให้คุณจัดระเบียบโพสต์ของคุณได้";
-$Definition["Categories Layout"] = "เค้าโครงหมวดหมู่";
-$Definition["Category Following"] = "ประเภทต่อไปนี้";
-$Definition["Category Page Layout"] = "เค้าโครงหน้าหมวดหมู่";
-$Definition["Category Url:"] = "หมวดหมู่ URL:";
-$Definition["Censored Words"] = "คำที่ถูกเซ็นเซอร์";
-$Definition["Change Log"] = "เปลี่ยนบันทึก";
-$Definition["Change the look of All Categories"] =
-    'คุณสามารถเปลี่ยนรูปลักษณ์ของหน้า <b>หมวดหมู่ทั้งหมด</b> ได้ <a href="%s">ที่นี่</a>';
-$Definition["Change the way that new users register with the site."] =
-    "เปลี่ยนวิธีการที่ผู้ใช้ใหม่ลงทะเบียนกับเว็บไซต์";
-$Definition["Change your banner"] = "เปลี่ยนแบนเนอร์ของคุณ";
-$Definition["Changing the Discussions Menu Link"] =
-    "การเปลี่ยนลิงค์เมนูการสนทนา";
-$Definition["Check all permissions that apply for each role"] =
-    "ตรวจสอบสิทธิ์ทั้งหมดที่ใช้สำหรับแต่ละบทบาท";
-$Definition["Check all permissions that apply to this role:"] =
-    "ตรวจสอบสิทธิ์ทั้งหมดที่ใช้กับบทบาทนี้:";
-$Definition["Check out my new community!"] = "ตรวจสอบชุมชนใหม่ของฉัน!";
-$Definition["Check out the full list of video tutorials here."] =
-    "ดูรายชื่อวิดีโอการสอนทั้งหมดที่นี่";
+$Definition['Cannot build profile information if user is not defined.'] = 'ไม่สามารถสร้างข้อมูลโปรไฟล์หากไม่ได้กำหนดผู้ใช้';
+$Definition['Categories &amp; Discussions'] = 'หมวดหมู่และการสนทนา';
+$Definition['Categories allow you to organize your posts.'] = 'หมวดหมู่ช่วยให้คุณจัดระเบียบโพสต์ของคุณได้';
+$Definition['Categories are used to organize discussions.'] = 'หมวดหมู่ถูกใช้เพื่อช่วยให้ผู้ใช้ของคุณจัดการการสนทนาในแบบที่มีความหมายต่อชุมชนของคุณ';
+$Definition['Categories are used to organize posts.'] = 'หมวดหมู่ใช้เพื่อช่วยให้ผู้ใช้ของคุณจัดระเบียบโพสต์ของตนในลักษณะที่มีความหมายต่อชุมชนของคุณ';
+$Definition['Categories Layout'] = 'เค้าโครงหมวดหมู่';
+$Definition['Categories to Exclude from AI Answers'] = 'หมวดหมู่ที่ต้องยกเว้นจากคำตอบ AI';
+$Definition['Category Following'] = 'ประเภทต่อไปนี้';
+$Definition['Category Layout Settings'] = 'การตั้งค่าเค้าโครงหมวดหมู่';
+$Definition['Category Layout Version'] = 'เวอร์ชันเค้าโครงหมวดหมู่';
+$Definition['Category List Pages'] = 'หน้ารายการหมวดหมู่';
+$Definition['Category only'] = 'หมวดหมู่เท่านั้น';
+$Definition['Category Page Layout'] = 'เค้าโครงหน้าหมวดหมู่';
+$Definition['Category Pages'] = 'หน้าหมวดหมู่';
+$Definition['Category Url:'] = 'หมวดหมู่ URL:';
+$Definition['Censored Words'] = 'คำที่ถูกเซ็นเซอร์';
+$Definition['Challenge Cutoff Age'] = 'อายุที่ตัดออกของความท้าทาย';
+$Definition['Change %s'] = 'เปลี่ยน %s';
+$Definition['Changed Icons'] = 'ไอคอนที่เปลี่ยนแปลง';
+$Definition['Change layout versions for the <0/>.'] = 'เปลี่ยนเวอร์ชันเค้าโครงของ <0/>';
+$Definition['Change Log'] = 'เปลี่ยนบันทึก';
+$Definition['Change status'] = 'เปลี่ยนสถานะ';
+$Definition['Change the look of All Categories'] = 'คุณสามารถเปลี่ยนรูปลักษณ์ของหน้า <b>หมวดหมู่ทั้งหมด</b> ได้ <a href="%s">ที่นี่</a>';
+$Definition['Change the status of the idea to'] = 'เปลี่ยนสถานะของไอเดียเป็น';
+$Definition['Change the way that new users register with the site.'] = 'เปลี่ยนวิธีการที่ผู้ใช้ใหม่ลงทะเบียนกับเว็บไซต์';
+$Definition['Change your banner'] = 'เปลี่ยนแบนเนอร์ของคุณ';
+$Definition['Changing the Discussions Menu Link'] = 'การเปลี่ยนลิงค์เมนูการสนทนา';
+$Definition['Check all permissions that apply for each role'] = 'ตรวจสอบสิทธิ์ทั้งหมดที่ใช้สำหรับแต่ละบทบาท';
+$Definition['Check all permissions that apply to this role:'] = 'ตรวจสอบสิทธิ์ทั้งหมดที่ใช้กับบทบาทนี้:';
+$Definition['Check out my new community!'] = 'ตรวจสอบชุมชนใหม่ของฉัน!';
+$Definition['Check out the full list of video tutorials here.'] = 'ดูรายชื่อวิดีโอการสอนทั้งหมดที่นี่';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'สวัสดีเพื่อน! ลองดูฟอรัมชุมชนใหม่ที่ฉันเพิ่งตั้งค่า มันเป็นสถานที่ที่ดีสำหรับเราในการแชทออนไลน์';
+$Definition['Choose a locale pack'] = 'เลือกชุดสถานที่';
+$Definition['Choose Avatar'] = 'เลือกรูปโปรไฟล์';
+$Definition['Choose how many records to display.'] = 'เลือกจำนวนระเบียนที่จะแสดง';
+$Definition['Choose the order records are sorted by default.'] = 'เลือกลำดับการบันทึกที่จะเรียงลำดับตามค่าเริ่มต้น';
+$Definition['Choose the preferred layout for the categories page.'] = 'เลือกเลย์เอาต์ที่ต้องการสำหรับหน้าหมวดหมู่';
+$Definition['Choose the preferred layout for the discussions page.'] = 'เลือกเค้าโครงที่ต้องการสำหรับหน้าการสนทนา';
+$Definition['Choose the preferred Legacy Category Layout.'] = 'เลือกเค้าโครงหมวดหมู่ Legacy ที่ต้องการ';
+$Definition['Choose the preferred Legacy Create Post Layout.'] = 'เลือกเค้าโครงการสร้างโพสต์แบบ Legacy ที่ต้องการ';
+$Definition['Choose the preferred Legacy Event Layout.'] = 'เลือกเค้าโครงเหตุการณ์ดั้งเดิมที่ต้องการ';
+$Definition['Choose the preferred Legacy Home Layout.'] = 'เลือกรูปแบบบ้าน Legacy ที่ต้องการ';
+$Definition['Choose the preferred Legacy Knowledge Base Layout.'] = 'เลือกเค้าโครงฐานความรู้แบบดั้งเดิมที่ต้องการ';
+$Definition['Choose the preferred Legacy Post Layout.'] = 'เลือกเค้าโครงโพสต์ดั้งเดิมที่ต้องการ';
+$Definition['Choose the preferred Legacy Recent Posts Layout.'] = 'เลือกเค้าโครงโพสต์ล่าสุดแบบเดิมที่ต้องการ';
+$Definition['Choose when to load records from.'] = 'เลือกว่าจะโหลดบันทึกเมื่อใด';
+$Definition['Choose who can send out invitations to new members:'] = 'เลือกผู้ที่สามารถส่งคำเชิญไปยังสมาชิกใหม่:';
+$Definition['Class'] = 'คลาส';
+$Definition['Classic table layout used by traditional forums'] = 'เค้าโครงตารางคลาสสิกที่ใช้โดยฟอรัมดั้งเดิม';
+$Definition['Clean Spam'] = 'ทำความสะอาดสแปม';
+$Definition['Clear All'] = 'ลบทั้งหมด';
+$Definition['Click a tag name to edit. Click x to remove.'] = 'คลิกชื่อแท็กเพื่อแก้ไข คลิก x เพื่อลบ';
+$Definition['Click here to apply it.'] = 'คลิกที่นี่เพื่อสมัคร';
+$Definition['Click here to carry on.'] = 'คลิกที่นี่เพื่อดำเนินการต่อ';
+$Definition['Click here to carry on to your dashboard'] = 'คลิกที่นี่เพื่อไปยังแดชบอร์ดของคุณ';
+$Definition['Client ID'] = 'รหัสลูกค้า';
+$Definition['Close post'] = 'ปิดกระทู้';
+$Definition['Colored'] = 'สี';
+$Definition['Column Display Settings'] = 'การตั้งค่าการแสดงคอลัมน์';
+$Definition['comment(s)'] = 'ความคิดเห็น (s)';
+$Definition['Comment  Body'] = 'ความคิดเห็นของเนื้อหา';
+$Definition['Comment Count'] = 'จำนวนความคิดเห็น';
+$Definition['Comment Settings'] = 'การตั้งค่าความคิดเห็น';
+$Definition['Comments Matching Criteria Now: <0 />'] = 'ความคิดเห็นที่ตรงกับเกณฑ์ในขณะนี้: <0 />';
+$Definition['Comments Page'] = 'หน้าความคิดเห็น';
+$Definition['Comments per Page'] = 'ความคิดเห็นต่อหน้า';
+$Definition['Comment  Subject'] = 'ความคิดเห็นเรื่อง';
+$Definition['Community Discussion Categories'] = 'หมวดหมู่การสนทนาของชุมชน';
+$Definition['Community Management'] = 'การจัดการชุมชน';
+$Definition['Community Member Content'] = 'เนื้อหาสมาชิกชุมชน';
+$Definition['Condition'] = 'เงื่อนไข';
+$Definition['Condition Expression'] = 'ค่า';
+$Definition['Condition Field'] = 'ฟิลด์';
+$Definition['Conditions'] = 'เงื่อนไข';
+$Definition['Configuration & Addons'] = 'การกำหนดค่าและส่วนเสริม';
+$Definition['Configuration settings for password fields in Vanilla'] = 'การตั้งค่าการกำหนดค่าสำหรับฟิลด์รหัสผ่านใน Vanilla';
+$Definition['Configure an Authenticator'] = 'กำหนดค่า Authenticator';
+$Definition['Configure custom Kaltura domains'] = 'กำหนดค่าโดเมน Kaltura แบบกำหนดเอง';
+$Definition['Configure how nested categories are displayed to users.'] = 'กำหนดค่าการแสดงหมวดหมู่ที่ซ้อนกันให้กับผู้ใช้';
+$Definition['Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases.'] = 'กำหนดค่าการตั้งค่าที่ใช้เพื่อควบคุมเนื้อหาชุมชนโดยอัตโนมัติก่อนที่จะสร้างขึ้น ตัวเลือกต่างๆ ได้แก่ การตรวจจับสแปมโดยอัตโนมัติ การกำหนดสิทธิ์การอนุมัติสำหรับการโพสต์ในหมวดหมู่บางหมวดหมู่ และการกำหนดสิทธิ์การอนุมัติสำหรับการโพสต์โดยใช้คำสำคัญหรือวลีบางคำ';
+$Definition['Configure where reports are sent and manage your community\'s report reasons.'] = 'กำหนดค่าว่าจะส่งรายงานที่ไหนและจัดการเหตุผลของการรายงานของชุมชนของคุณ';
+$Definition['Configuring Vanilla\'s Homepage'] = 'การกำหนดค่าโฮมเพจของวานิลลา';
+$Definition['Confirmation  Body'] = 'การยืนยัน';
+$Definition['Confirm email addresses'] = 'กำหนดให้ผู้ใช้ยืนยันที่อยู่อีเมล (แนะนำ)';
+$Definition['Connections'] = 'การเชื่อมต่อ';
+$Definition['Consumer Key'] = 'รหัสผู้ใช้';
+$Definition['Consumer Secret'] = 'ความลับของผู้บริโภค';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'ติดต่อเจ้าหน้าที่ Vanilla เพื่อเปิดใช้งานการกำหนดค่าไซต์ Q&A จากนั้นเปิดใช้งานส่วนเสริม Q&A ในส่วน <0/> ของแดชบอร์ด';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'ติดต่อเจ้าหน้าที่ Vanilla เพื่อเปิดใช้งานการกำหนดค่าไซต์ Q&A จากนั้นเปิดใช้งานส่วนเสริม Q&A ในส่วนส่วนเสริมของแดชบอร์ด';
+$Definition['Content Curation'] = 'การปรับเนื้อหา';
+$Definition['Content flagged as spam is stored here for moderator review.'] = 'เนื้อหาถูกตั้งค่าสถานะเป็นสแปมจะถูกจัดเก็บไว้ที่นี่เพื่อตรวจสอบผู้ตรวจสอบ';
+$Definition['Content Flagging'] = 'การตั้งค่าสถานะเนื้อหา';
+$Definition['Content Security Domains'] = 'โดเมนความปลอดภัยของเนื้อหา';
+$Definition['Content Settings'] = 'การตั้งค่าเนื้อหา';
+$Definition['Content to Suggest'] = 'เนื้อหาที่จะแนะนำ';
+$Definition['Contextual Description'] = 'คำอธิบายตามบริบท';
+$Definition['Continue Replying'] = 'ตอบกลับต่อ';
+$Definition['Conversation Messages'] = 'ข้อความการสนทนา';
+$Definition['Conversations'] = 'การสนทนา';
+$Definition['Conversations Setup'] = 'ตั้งค่าการสนทนา';
+$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'อาจทำให้เกิดช่องโหว่ เช่น Cross-Site Scripting (XSS) หากสคริปต์เริ่มแรกถูกโจมตี';
+$Definition['Could not find a theme identified by \'%s\''] = 'ไม่พบธีมที่ระบุโดย \'%s\'';
+$Definition['Could not instantiate mail function.'] = 'ไม่สามารถยกตัวอย่างฟังก์ชั่นจดหมาย';
+$Definition['Could not link the addon.'] = 'ไม่สามารถลิงก์ addon';
+$Definition['Could not open %s.'] = 'ไม่สามารถเปิด %s';
+$Definition['Could not open addon file. Addons must be zip files.'] = 'ไม่สามารถเปิดไฟล์ addon ส่วนเสริมจะต้องเป็นไฟล์ zip';
+$Definition['Create'] = 'สร้าง';
+$Definition['Create & organize discussion categories and manage your users.'] = 'สร้างและจัดการหมวดหมู่การสนทนาและจัดการผู้ใช้ของคุณ';
+$Definition['Create/Edit Automation Rule'] = 'สร้าง/แก้ไขกฎการทำงานอัตโนมัติ';
+$Definition['Create and manage automations to easily manage posts and users.'] = 'สร้างและจัดการระบบอัตโนมัติเพื่อจัดการโพสต์และผู้ใช้ได้อย่างง่ายดาย';
+$Definition['Created <0/> by <1/>.'] = 'สร้าง <0/> โดย <1/>';
+$Definition['created by'] = 'สร้างโดย';
+$Definition['Created new badge'] = 'สร้างป้ายใหม่แล้ว';
+$Definition['CreateFile'] = 'สร้าง';
+$Definition['Create Post Layout Settings'] = 'สร้างการตั้งค่าเค้าโครงโพสต์';
+$Definition['Create Post Layout Version'] = 'สร้างเวอร์ชันเค้าโครงโพสต์';
+$Definition['Create Post Pages'] = 'สร้างหน้าโพสต์';
+$Definition['Create Zoom Meeting'] = 'สร้างการประชุม Zoom';
+$Definition['Criteria'] = 'เกณฑ์';
+$Definition['CSS'] = 'ซีเอสเอส';
+$Definition['CssClass'] = 'คลาส CSS';
+$Definition['Current Authenticator'] = 'Authenticator ปัจจุบัน';
+$Definition['Current File:'] = 'ไฟล์ปัจจุบัน:';
+$Definition['Current Mobile Theme'] = 'ธีมมือถือปัจจุบัน';
+$Definition['Current Theme'] = 'ธีมปัจจุบัน';
+$Definition['Custom Category Layouts'] = 'เค้าโครงหมวดหมู่ที่กำหนดเอง';
+$Definition['Custom Create Post Layouts'] = 'สร้างเค้าโครงโพสต์แบบกำหนดเอง';
+$Definition['Customer Support'] = 'การสนับสนุนลูกค้า';
+$Definition['Custom Event Layouts'] = 'เค้าโครงกิจกรรมที่กำหนดเอง';
+$Definition['Custom Home Layouts'] = 'เค้าโครงบ้านแบบกำหนดเอง';
+$Definition['Custom Icon'] = 'ไอคอนที่กำหนดเอง';
+$Definition['Customize AI Persona'] = 'ปรับแต่ง AI Persona';
+$Definition['Customize your community'] = 'ปรับแต่งชุมชนของคุณ';
+$Definition['Custom Knowledge Base Layouts'] = 'เค้าโครงฐานความรู้แบบกำหนดเอง';
+$Definition['Custom Post Layouts'] = 'เค้าโครงโพสต์แบบกำหนดเอง';
+$Definition['Custom Recent Posts Layouts'] = 'เค้าโครงโพสต์ล่าสุดแบบกำหนดเอง';
+$Definition['Custom Themes'] = 'ธีมที่กำหนดเอง';
 
-$Definition["Choose a locale pack"] = "เลือกชุดสถานที่";
-$Definition["Choose Avatar"] = "เลือกรูปโปรไฟล์";
-$Definition["Choose the preferred layout for the categories page."] =
-    "เลือกเลย์เอาต์ที่ต้องการสำหรับหน้าหมวดหมู่";
-$Definition["Choose the preferred layout for the discussions page."] =
-    "เลือกเค้าโครงที่ต้องการสำหรับหน้าการสนทนา";
-$Definition["Choose who can send out invitations to new members:"] =
-    "เลือกผู้ที่สามารถส่งคำเชิญไปยังสมาชิกใหม่:";
-$Definition["Choose how many records to display."] =
-    "เลือกจำนวนระเบียนที่จะแสดง";
-$Definition["Choose when to load records from."] =
-    "เลือกว่าจะโหลดบันทึกเมื่อใด";
-$Definition["Class"] = "คลาส";
-$Definition["Clear All"] = "ลบทั้งหมด";
-$Definition["Classic table layout used by traditional forums"] =
-    "เค้าโครงตารางคลาสสิกที่ใช้โดยฟอรัมดั้งเดิม";
-$Definition["Clean Spam"] = "ทำความสะอาดสแปม";
-$Definition["Click a tag name to edit. Click x to remove."] =
-    "คลิกชื่อแท็กเพื่อแก้ไข คลิก x เพื่อลบ";
-$Definition["Click here to apply it."] = "คลิกที่นี่เพื่อสมัคร";
-$Definition["Click here to carry on."] = "คลิกที่นี่เพื่อดำเนินการต่อ";
-$Definition["Click here to carry on to your dashboard"] =
-    "คลิกที่นี่เพื่อไปยังแดชบอร์ดของคุณ";
-$Definition["Client ID"] = "รหัสลูกค้า";
-$Definition["Colored"] = "สี";
-$Definition["Column Display Settings"] = "การตั้งค่าการแสดงคอลัมน์";
-$Definition["comment(s)"] = "ความคิดเห็น (s)";
-$Definition["Comment  Body"] = "ความคิดเห็นของเนื้อหา";
-$Definition["Comment Count"] = "จำนวนความคิดเห็น";
-$Definition["Comment Settings"] = "การตั้งค่าความคิดเห็น";
-$Definition["Comments Page"] = "หน้าความคิดเห็น";
-$Definition["Comments per Page"] = "ความคิดเห็นต่อหน้า";
-$Definition["Comment  Subject"] = "ความคิดเห็นเรื่อง";
-$Definition["Community Discussion Categories"] =
-    "หมวดหมู่การสนทนาของชุมชน";
-$Definition["Community Member Content"] = "เนื้อหาสมาชิกชุมชน";
-$Definition["Condition"] = "เงื่อนไข";
-$Definition["Condition Expression"] = "ค่า";
-$Definition["Condition Field"] = "ฟิลด์";
-$Definition["Conditions"] = "เงื่อนไข";
-$Definition["Condition Type"] = "Condition Type";
-$Definition["Configure an Authenticator"] = "กำหนดค่า Authenticator";
-$Definition["Configuration settings for password fields in Vanilla"] =
-    "การตั้งค่าการกำหนดค่าสำหรับฟิลด์รหัสผ่านใน Vanilla";
-$Definition["Configure custom Kaltura domains"] =
-    "กำหนดค่าโดเมน Kaltura แบบกำหนดเอง";
-$Definition["Configure how nested categories are displayed to users."] =
-    "กำหนดค่าการแสดงหมวดหมู่ที่ซ้อนกันให้กับผู้ใช้";
-$Definition['Configuring Vanilla\'s Homepage'] =
-    'การกำหนดค่าโฮมเพจของวานิลลา';
-$Definition["Confirmation  Body"] = "การยืนยัน";
-$Definition["Confirm email addresses"] =
-    "กำหนดให้ผู้ใช้ยืนยันที่อยู่อีเมล (แนะนำ)";
-$Definition["Connections"] = "การเชื่อมต่อ";
-$Definition["Consumer Key"] = "รหัสผู้ใช้";
-$Definition["Consumer Secret"] = "ความลับของผู้บริโภค";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard."
-] =
-    "ติดต่อเจ้าหน้าที่ Vanilla เพื่อเปิดใช้งานการกำหนดค่าไซต์ Q&A จากนั้นเปิดใช้งานส่วนเสริม Q&A ในส่วนส่วนเสริมของแดชบอร์ด";
-$Definition[
-    "Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard."
-] =
-    "ติดต่อเจ้าหน้าที่ Vanilla เพื่อเปิดใช้งานการกำหนดค่าไซต์ Q&A จากนั้นเปิดใช้งานส่วนเสริม Q&A ในส่วน <0/> ของแดชบอร์ด";
-$Definition["Content Curation"] = "การปรับเนื้อหา";
-$Definition["Content flagged as spam is stored here for moderator review."] =
-    "เนื้อหาถูกตั้งค่าสถานะเป็นสแปมจะถูกจัดเก็บไว้ที่นี่เพื่อตรวจสอบผู้ตรวจสอบ";
-$Definition["Content Flagging"] = "การตั้งค่าสถานะเนื้อหา";
-$Definition["Content Security Domains"] = "โดเมนความปลอดภัยของเนื้อหา";
-$Definition["Content to Suggest"] = "เนื้อหาที่จะแนะนำ";
-$Definition["Continue Replying"] = "ตอบกลับต่อ";
-$Definition["Conversation Messages"] = "ข้อความการสนทนา";
-$Definition["Conversations"] = "การสนทนา";
-$Definition["Conversations Setup"] = "ตั้งค่าการสนทนา";
-$Definition[
-    "Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised."
-] =
-    "อาจทำให้เกิดช่องโหว่ เช่น Cross-Site Scripting (XSS) หากสคริปต์เริ่มแรกถูกโจมตี";
-$Definition['Could not find a theme identified by \'%s\''] =
-    'ไม่พบธีมที่ระบุโดย \'%s\'';
-$Definition["Could not instantiate mail function."] =
-    "ไม่สามารถยกตัวอย่างฟังก์ชั่นจดหมาย";
-$Definition["Could not link the addon."] = "ไม่สามารถลิงก์ addon";
-$Definition["Could not open %s."] = "ไม่สามารถเปิด %s";
-$Definition["Could not open addon file. Addons must be zip files."] =
-    "ไม่สามารถเปิดไฟล์ addon ส่วนเสริมจะต้องเป็นไฟล์ zip";
-$Definition["Create & organize discussion categories and manage your users."] =
-    "สร้างและจัดการหมวดหมู่การสนทนาและจัดการผู้ใช้ของคุณ";
-$Definition["Created new badge"] = "สร้างป้ายใหม่แล้ว";
-$Definition["Create Zoom Meeting"] = "สร้างการประชุม Zoom";
-$Definition["CreateFile"] = "สร้าง";
-$Definition["Criteria"] = "เกณฑ์";
-$Definition["CSS"] = "ซีเอสเอส";
-$Definition["CssClass"] = "คลาส CSS";
-$Definition["Current Authenticator"] = "Authenticator ปัจจุบัน";
-$Definition["Current File:"] = "ไฟล์ปัจจุบัน:";
-$Definition["Current Mobile Theme"] = "ธีมมือถือปัจจุบัน";
-$Definition["Current Theme"] = "ธีมปัจจุบัน";
-$Definition["Custom Themes"] = "ธีมที่กำหนดเอง";
-$Definition["Customize AI Persona"] = "ปรับแต่ง AI Persona";
-$Definition["Custom Recent Posts Layouts"] = "เค้าโครงโพสต์ล่าสุดแบบกำหนดเอง";
-
-$Definition["Database Structure Upgrades"] = "การอัพเกรดโครงสร้างฐานข้อมูล";
-$Definition["Date From"] = "จากวันที่";
-$Definition["Date To"] = "ถึงวันที่";
-$Definition["Debugger"] = "ดีบักเกอร์";
-$Definition["Debug Information"] = "ข้อมูลการดีบัก";
-$Definition["Decline"] = "ปฏิเสธ";
-$Definition["Default (%s)"] = "ค่าเริ่มต้น (%s)";
-$Definition["Default <0/>"] = "ค่าเริ่มต้น <0/>";
-$Definition["Default %s Permissions"] = "ค่าเริ่มต้นสิทธิ์ %s";
-$Definition["Default  Category"] = "หมวดหมู่เริ่มต้น";
-$Definition["Default Category Permissions"] = "สิทธิ์ประเภทเริ่มต้น";
-$Definition["Default Followed Categories"] = "หมวดหมู่ตามค่าเริ่มต้น";
-$Definition["Default Interests Only"] = "ดอกเบี้ยเริ่มต้นเท่านั้น";
-$Definition["Default Locale"] = "ภาษาเริ่มต้น";
-$Definition["Default Roles"] = "บทบาทเริ่มต้น";
-$Definition["default type"] = "ค่าเริ่มต้น";
-$Definition["Default Type"] = "ประเภทเริ่มต้น";
-$Definition["Define your forum homepage"] = "กำหนดโฮมเพจฟอรัมของคุณ";
-$Definition["Delete Badge"] = "ลบตรา";
-$Definition["Delete Category"] = "ลบหมวดหมู่";
-$Definition["Delete moderation information"] = "ลบข้อมูลการกลั่นกรอง";
-$Definition["Delete Role"] = "ลบบทบาท";
-$Definition["Delete Theme"] = "ลบธีม";
-$Definition["Delete User"] = "ลบผู้ใช้";
-$Definition["Delete User: %s"] = "ลบผู้ใช้: %s";
-$Definition["Deleting category..."] = "กำลังลบหมวดหมู่ ...";
-$Definition["Deleting role..."] = "กำลังลบบทบาท ...";
-$Definition["Delivery Date"] = "วันที่จัดส่ง";
-$Definition["Description"] = "คำอธิบาย";
-$Definition["Desktop Themes"] = "ธีมเดสก์ทอป";
-$Definition["Did You Know?"] = "เธอรู้รึเปล่า?";
-$Definition["Disable"] = "ปิดใช้งาน";
-$Definition["Disable Content Flagging"] = "ปิดใช้งานการตั้งค่าสถานะเนื้อหา";
-$Definition["Disabled"] = "ปิดใข้งานอยู่";
+$Definition['Database Structure Upgrades'] = 'การอัพเกรดโครงสร้างฐานข้อมูล';
+$Definition['Date field reached'] = 'วันที่ถึงช่อง';
+$Definition['Date From'] = 'จากวันที่';
+$Definition['Date To'] = 'ถึงวันที่';
+$Definition['Debugger'] = 'ดีบักเกอร์';
+$Definition['Debug Information'] = 'ข้อมูลการดีบัก';
+$Definition['Decline'] = 'ปฏิเสธ';
+$Definition['Default %s Permissions'] = 'ค่าเริ่มต้นสิทธิ์ %s';
+$Definition['Default (%s)'] = 'ค่าเริ่มต้น (%s)';
+$Definition['Default <0/>'] = 'ค่าเริ่มต้น <0/>';
+$Definition['Default  Category'] = 'หมวดหมู่เริ่มต้น';
+$Definition['Default Category Permissions'] = 'สิทธิ์ประเภทเริ่มต้น';
+$Definition['Default Followed Categories'] = 'หมวดหมู่ตามค่าเริ่มต้น';
+$Definition['Default Interests Only'] = 'ดอกเบี้ยเริ่มต้นเท่านั้น';
+$Definition['Default Locale'] = 'ภาษาเริ่มต้น';
+$Definition['Default placeholder'] = 'ค่าเริ่มต้นสำหรับเปลี่ยนค่า';
+$Definition['Default Roles'] = 'บทบาทเริ่มต้น';
+$Definition['Default Sort Order'] = 'ลำดับการเรียงลำดับเริ่มต้น';
+$Definition['Default Type'] = 'ประเภทเริ่มต้น';
+$Definition['default type'] = 'ค่าเริ่มต้น';
+$Definition['Define your forum homepage'] = 'กำหนดโฮมเพจฟอรัมของคุณ';
+$Definition['Delete?'] = 'ลบ?';
+$Definition['Delete Badge'] = 'ลบตรา';
+$Definition['Delete Category'] = 'ลบหมวดหมู่';
+$Definition['Delete Layout'] = 'ลบเค้าโครง';
+$Definition['Delete moderation information'] = 'ลบข้อมูลการกลั่นกรอง';
+$Definition['Delete Report Reason'] = 'เหตุผลการลบรายงาน';
+$Definition['Delete Role'] = 'ลบบทบาท';
+$Definition['Delete Rule'] = 'ลบกฎ';
+$Definition['Delete Theme'] = 'ลบธีม';
+$Definition['Delete User'] = 'ลบผู้ใช้';
+$Definition['Delete User: %s'] = 'ลบผู้ใช้: %s';
+$Definition['Deleting category...'] = 'กำลังลบหมวดหมู่ ...';
+$Definition['Deleting role...'] = 'กำลังลบบทบาท ...';
+$Definition['Delivery Date'] = 'วันที่จัดส่ง';
+$Definition['Description'] = 'คำอธิบาย';
+$Definition['Desktop Themes'] = 'ธีมเดสก์ทอป';
+$Definition['Did You Know?'] = 'เธอรู้รึเปล่า?';
+$Definition['Disable'] = 'ปิดใช้งาน';
+$Definition['Disable Content Flagging'] = 'ปิดใช้งานการตั้งค่าสถานะเนื้อหา';
+$Definition['Disabled'] = 'ปิดใข้งานอยู่';
+$Definition['disabled'] = 'พิการ';
 $Definition['Disabled %1$s'] = 'ปิดการใช้งาน %1$s';
-$Definition["Disabled: The pocket will <b>not</b> be displayed."] =
-    "ปิดการใช้งาน: กระเป๋าจะ <b>ไม่</b> ปรากฏขึ้น";
-$Definition["Disable Signatures"] = "ปิดการใช้งานลายเซ็น";
-$Definition["Disable Tagging"] = "ปิดใช้งานการติดแท็ก";
-$Definition["Discard Reply"] = "ยกเลิกการตอบกลับ";
-$Definition["Discussion & Comment Editing"] = "การอภิปรายและแสดงความคิดเห็น";
-$Definition["Post & Comment Editing"] = "การแก้ไขโพสต์และความคิดเห็น";
-$Definition["Discussions"] = "กระทู้";
-$Definition["discussion(s)"] = "การอภิปราย (s)";
-$Definition["Discussion  Body"] = "เนื้อหาการอภิปราย";
-$Definition["Discussions Layout"] = "โครงร่างการสนทนา";
-$Definition["Discussions per Page"] = "การสนทนาต่อหน้า";
-$Definition["Posts per Page"] = "โพสต์ต่อหน้า";
-$Definition["Discussion  Subject"] = "หัวข้อสนทนา";
-$Definition["Dismissable"] = "เอาออกได้";
-$Definition["Dismiss Answer"] = "ยกเลิกคำตอบ";
-$Definition["Display content from followed categories"] =
-    "แสดงเนื้อหาจากหมวดหมู่ที่ติดตาม";
-$Definition["Display in dashboard. (not recommended)"] =
-    "แสดงในแดชบอร์ด (ไม่แนะนำ)";
-$Definition["Display Open Cases in Profile Page?"] =
-    "แสดงกรณีที่เปิดอยู่ในหน้าโปรไฟล์?";
-$Definition["Display Options"] = "ตัวเลือกการแสดงผล";
-$Definition["Display records from this subcommunity"] =
-    "แสดงบันทึกจากชุมชนย่อยนี้";
-$Definition["Display root categories as headings."] =
-    "แสดงหมวดหมู่ของรูทเป็นส่วนหัว";
-$Definition[
-    "Displays the banner image form the branding page prominently throughout the theme."
-] =
-    "แสดงภาพแบนเนอร์ในหน้าการสร้างแบรนด์ที่เด่นชัดตลอดทั้งธีม";
-$Definition["Display a searchbox on top of the banner image."] =
-    "แสดงช่องค้นหาที่ด้านบนของภาพแบนเนอร์";
-$Definition["Display records from this category."] =
-    "แสดงบันทึกจากหมวดหมู่นี้";
-$Definition["Display records from this subcommunity."] =
-    "แสดงบันทึกจากชุมชนย่อยนี้";
-$Definition['Don\'t display for embedded comments.'] =
-    'อย่าแสดงความคิดเห็นในตัว';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'ปิดการใช้งาน: กระเป๋าจะ <b>ไม่</b> ปรากฏขึ้น';
+$Definition['Disable Forum Pages'] = 'ปิดการใช้งานหน้าฟอรั่ม';
+$Definition['Disable Signatures'] = 'ปิดการใช้งานลายเซ็น';
+$Definition['Disable Tagging'] = 'ปิดใช้งานการติดแท็ก';
+$Definition['Discard Changes?'] = 'ยกเลิกการเปลี่ยนแปลง?';
+$Definition['Discard Reply'] = 'ยกเลิกการตอบกลับ';
+$Definition['Discussion & Comment Editing'] = 'การอภิปรายและแสดงความคิดเห็น';
+$Definition['discussion(s)'] = 'การอภิปราย (s)';
+$Definition['Discussion  Body'] = 'เนื้อหาการอภิปราย';
+$Definition['Discussion Pages'] = 'หน้าสนทนา';
+$Definition['Discussions'] = 'กระทู้';
+$Definition['Discussions Layout'] = 'โครงร่างการสนทนา';
+$Definition['Discussions Matching Criteria Now: <0 />'] = 'เกณฑ์การจับคู่การสนทนาในขณะนี้: <0 />';
+$Definition['Discussions per Page'] = 'การสนทนาต่อหน้า';
+$Definition['Discussion  Subject'] = 'หัวข้อสนทนา';
+$Definition['Dismissable'] = 'เอาออกได้';
+$Definition['Dismiss Answer'] = 'ยกเลิกคำตอบ';
+$Definition['Display a searchbox on top of the banner image.'] = 'แสดงช่องค้นหาที่ด้านบนของภาพแบนเนอร์';
+$Definition['Display content from followed categories'] = 'แสดงเนื้อหาจากหมวดหมู่ที่ติดตาม';
+$Definition['Display in dashboard. (not recommended)'] = 'แสดงในแดชบอร์ด (ไม่แนะนำ)';
+$Definition['Display on category page only.'] = 'แสดงในหน้าหมวดหมู่เท่านั้น รายการสนทนาล่าสุดจะไม่ได้รับผลกระทบ';
+$Definition['Display Open Cases in Profile Page?'] = 'แสดงกรณีที่เปิดอยู่ในหน้าโปรไฟล์?';
+$Definition['Display Options'] = 'ตัวเลือกการแสดงผล';
+$Definition['Display records from this category.'] = 'แสดงบันทึกจากหมวดหมู่นี้';
+$Definition['Display records from this subcommunity'] = 'แสดงบันทึกจากชุมชนย่อยนี้';
+$Definition['Display records from this subcommunity.'] = 'แสดงบันทึกจากชุมชนย่อยนี้';
+$Definition['Display root categories as headings.'] = 'แสดงหมวดหมู่ของรูทเป็นส่วนหัว';
+$Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'แสดงภาพแบนเนอร์ในหน้าการสร้างแบรนด์ที่เด่นชัดตลอดทั้งธีม';
+$Definition['documentation.'] = 'เอกสารประกอบ';
+$Definition['Don\'t display for embedded comments.'] = 'อย่าแสดงความคิดเห็นในตัว';
 $Definition['Don\'t Refresh'] = 'อย่ารีเฟรช';
 $Definition['Don\'t use Categories'] = 'อย่าใช้หมวดหมู่';
-$Definition["Do not display the categories in the side panel."] =
-    "อย่าแสดงหมวดหมู่ในแผงด้านข้าง";
-$Definition["Download Locale List"] = "ดาวน์โหลดรายการสถานที่";
-$Definition["DownloadLocalePack"] = "ดาวน์โหลด";
-$Definition["Download Locale Pack"] = "ดาวน์โหลดภาษาท้องถิ่น";
+$Definition['Done'] = 'เสร็จแล้ว';
+$Definition['Do not display the categories in the side panel.'] = 'อย่าแสดงหมวดหมู่ในแผงด้านข้าง';
+$Definition['Download Active Icon Pack'] = 'ดาวน์โหลด Active Icon Pack';
+$Definition['Download Locale List'] = 'ดาวน์โหลดรายการสถานที่';
+$Definition['DownloadLocalePack'] = 'ดาวน์โหลด';
+$Definition['Download Locale Pack'] = 'ดาวน์โหลดภาษาท้องถิ่น';
+$Definition['Download System Icon Pack'] = 'ดาวน์โหลด System Icon Pack';
 
-$Definition["Edit/Delete Log"] = "แก้ไข / ลบบันทึก";
-$Definition["Edit Category"] = "แก้ไขหมวดหมู่";
-$Definition["Edit CSS"] = "แก้ไข CSS";
-$Definition["Edit Default Categories"] = "แก้ไขหมวดหมู่เริ่มต้น";
-$Definition["Edit HTML"] = "แก้ไข HTML";
-$Definition["Edit Interest"] = "แก้ไขความสนใจ";
-$Definition["Edit Message"] = "แก้ไขข้อความ";
-$Definition["Edit Role"] = "แก้ไขบทบาท";
-$Definition["Edit User"] = "แก้ไขผู้ใช้";
-$Definition["Email Confirmation Role"] = "บทบาทการยืนยันทางอีเมล";
-$Definition["Email Digest"] = "อีเมลสรุป";
-$Definition[
-    "Email Digest Prompt Widget will be available when the Email Digest is enabled."
-] =
-    "วิดเจ็ตพรอมต์อีเมลไดเจสต์จะใช้งานได้เมื่อเปิดใช้งานอีเมลไดเจสต์";
-$Definition["Email Digest Logo"] = "โลโก้สรุปอีเมล";
-$Definition[
-    "Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week."
-] =
-    "อีเมลสรุปจะถูกส่งในวันที่เลือกทุกสัปดาห์ การเปลี่ยนแปลงในวันดังกล่าวจะมีผลในสัปดาห์ถัดไป";
-$Definition["Email Footer"] = "ส่วนท้ายอีเมล";
-$Definition["Email Digest Logo"] = "โลโก้สรุปอีเมล";
-$Definition["Email Styles"] = "รูปแบบอีเมล";
-$Definition["Embed Comments"] = "ฝังความคิดเห็น";
-$Definition["Embedding"] = "ฝัง";
-$Definition["Embedding Documentation"] = "การฝังเอกสาร";
-$Definition["Embedding is currently DISABLED."] =
-    "การฝังถูกปิดใช้งานในขณะนี้";
-$Definition["Embedding is currently ENABLED."] =
-    "การฝังถูกเปิดใช้งานในปัจจุบัน";
-$Definition["Embed Forum"] = "ฝังฟอรัม";
-$Definition["Embed My Forum"] = "ฝังฟอรัมของฉัน";
-$Definition["Embed Modules"] = "โมดูลฝัง";
-$Definition["Embed modules from your Vanilla forum into your site"] =
-    "ฝังโมดูลจากฟอรัม Vanilla ลงในไซต์ของคุณ";
-$Definition["Embeds"] = "ฝัง";
-$Definition["Embed Vanilla"] = "ฝังวานิลลา";
-$Definition["Embed your entire Vanilla forum"] =
-    "ฝังฟอรัมวานิลลาทั้งหมดของคุณ";
-$Definition["Embed your forum in your web site"] =
-    "ฝังฟอรัมของคุณในเว็บไซต์ของคุณ";
-$Definition["Enable"] = "เปิดใช้งาน";
-$Definition["Enable/Disable"] = "เปิดปิด";
-$Definition["Enable admin checkboxes on discussions and comments."] =
-    "เปิดใช้งานช่องทำเครื่องหมายผู้ดูแลระบบเกี่ยวกับการอภิปรายและความคิดเห็น";
-$Definition["Enable checkboxes on discussions and comments"] =
-    "เปิดใช้งานช่องทำเครื่องหมายในการสนทนาและความคิดเห็น";
+$Definition['Edit/Delete Log'] = 'แก้ไข / ลบบันทึก';
+$Definition['Edit Categories'] = 'แก้ไขหมวดหมู่';
+$Definition['Edit Category'] = 'แก้ไขหมวดหมู่';
+$Definition['Edit CSS'] = 'แก้ไข CSS';
+$Definition['Edit Default Categories'] = 'แก้ไขหมวดหมู่เริ่มต้น';
+$Definition['Edited'] = 'แก้ไขแล้ว';
+$Definition['Edit HTML'] = 'แก้ไข HTML';
+$Definition['Edit Interest'] = 'แก้ไขความสนใจ';
+$Definition['Edit Keywords'] = 'แก้ไขคำสำคัญ';
+$Definition['Edit Message'] = 'แก้ไขข้อความ';
+$Definition['Edit Report Reason'] = 'แก้ไขเหตุผลของรายงาน';
+$Definition['Edit Role'] = 'แก้ไขบทบาท';
+$Definition['Edit Roles'] = 'แก้ไขบทบาท';
+$Definition['Edit Rule'] = 'แก้ไขกฎ';
+$Definition['Edit User'] = 'แก้ไขผู้ใช้';
+$Definition['Edit Variables'] = 'แก้ไขตัวแปร';
+$Definition['Email Confirmation Role'] = 'บทบาทการยืนยันทางอีเมล';
+$Definition['Email Digest'] = 'อีเมลสรุป';
+$Definition['Email Digest Logo'] = 'โลโก้สรุปอีเมล';
+$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'วิดเจ็ตพรอมต์อีเมลไดเจสต์จะใช้งานได้เมื่อเปิดใช้งานอีเมลไดเจสต์';
+$Definition['Email digests will be sent on the selected day every week. Changes to the set day will take affect the following week.'] = 'อีเมลสรุปจะถูกส่งในวันที่เลือกทุกสัปดาห์ การเปลี่ยนแปลงในวันดังกล่าวจะมีผลในสัปดาห์ถัดไป';
+$Definition['Email Footer'] = 'ส่วนท้ายอีเมล';
+$Definition['Email Styles'] = 'รูปแบบอีเมล';
+$Definition['Embed Comments'] = 'ฝังความคิดเห็น';
+$Definition['Embedding'] = 'ฝัง';
+$Definition['Embedding Documentation'] = 'การฝังเอกสาร';
+$Definition['Embedding is currently DISABLED.'] = 'การฝังถูกปิดใช้งานในขณะนี้';
+$Definition['Embedding is currently ENABLED.'] = 'การฝังถูกเปิดใช้งานในปัจจุบัน';
+$Definition['Embed Forum'] = 'ฝังฟอรัม';
+$Definition['Embed Modules'] = 'โมดูลฝัง';
+$Definition['Embed modules from your Vanilla forum into your site'] = 'ฝังโมดูลจากฟอรัม Vanilla ลงในไซต์ของคุณ';
+$Definition['Embed My Forum'] = 'ฝังฟอรัมของฉัน';
+$Definition['Embeds'] = 'ฝัง';
+$Definition['Embed Vanilla'] = 'ฝังวานิลลา';
+$Definition['Embed your entire Vanilla forum'] = 'ฝังฟอรัมวานิลลาทั้งหมดของคุณ';
+$Definition['Embed your forum in your web site'] = 'ฝังฟอรัมของคุณในเว็บไซต์ของคุณ';
+$Definition['Enable'] = 'เปิดใช้งาน';
+$Definition['Enable/Disable'] = 'เปิดปิด';
+$Definition['Enable admin checkboxes on discussions and comments.'] = 'เปิดใช้งานช่องทำเครื่องหมายผู้ดูแลระบบเกี่ยวกับการอภิปรายและความคิดเห็น';
+$Definition['Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>'] = 'เปิดใช้งาน Akismet เพื่อกรองสแปมในทุกโพสต์ตามการลงทะเบียนผู้สมัครและผู้ใช้ที่ยังไม่ผ่านการตรวจสอบ <0/>';
+$Definition['Enable checkboxes on discussions and comments'] = 'เปิดใช้งานช่องทำเครื่องหมายในการสนทนาและความคิดเห็น';
+$Definition['enabled'] = 'เปิดใช้งาน';
 $Definition['Enabled %1$s'] = 'เปิดใช้งาน %1$s';
-$Definition["Enabled: The pocket will be displayed."] =
-    "เปิดใช้งาน: Pocket จะปรากฏขึ้น";
-$Definition["Enable HTML emails"] = "เปิดใช้งานอีเมล HTML";
-$Definition["Enable embedding to use blog comments."] =
-    "เพื่อให้สิ่งนี้ใช้งานได้คุณจะต้องเปิดใช้งานการฝัง";
-$Definition["Enable Image Upload Limit"] = "เปิดใช้งานขีดจำกัดการอัปโหลดภาพ";
-$Definition["Enable link embeds in discussions and comments"] =
-    "เปิดใช้งานลิงก์ฝังในการสนทนาและความคิดเห็น";
-$Definition["Enable link embeds in posts and comments"] =
-    "เปิดใช้งานการฝังลิงค์ในโพสต์และความคิดเห็น";
-$Definition["Enable OpenID"] = "เปิดใช้งาน OpenID";
-$Definition["Enable Pocket Locations"] = "เปิดใช้งานตำแหน่งพ็อกเก็ต";
-$Definition["Enable Private Communities"] = "เปิดใช้งานชุมชนส่วนตัว";
-$Definition["Enable Product Integration"] = "เปิดใช้งานการรวมผลิตภัณฑ์";
-$Definition["Enable Followup Notifications"] = "เปิดใช้งานการแจ้งเตือนการติดตาม";
-$Definition["Enable sending notification emails"] =
-    "เปิดใช้งานการส่งอีเมลแจ้งเตือน";
-$Definition["Enable Tagging"] = "เปิดใช้งานการติดแท็ก";
-$Definition["Enable this message"] = "เปิดใช้งานข้อความนี้";
-$Definition["Enable this source"] = "เปิดใช้งานแหล่งข้อมูลนี้";
-$Definition["Enable to only show posts from categories a user follows."] =
-    "เปิดใช้งานเพื่อแสดงเฉพาะโพสต์จากหมวดหมู่ที่ผู้ใช้ติดตาม";
-$Definition[
-    "Enable to get a preview of our new user management dashboard with improved search and new configuration options."
-] =
-    "เปิดใช้เพื่อดูตัวอย่างแดชบอร์ดการจัดการผู้ใช้ใหม่ของเราพร้อมการค้นหาที่ได้รับการปรับปรุงและตัวเลือกการกำหนดค่าใหม่";
-$Definition["Enabling a Locale Pack"] = "การเปิดใช้ชุดภาษา";
-$Definition[
-    "Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts."
-] =
-    "การเปิดใช้งานคุณลักษณะนี้จะแก้ไขนโยบายความปลอดภัยของเนื้อหาของคุณเพื่อให้เชื่อถือสคริปต์เพิ่มเติมที่แทรกเข้ามาโดยสคริปต์ที่กำหนดเองของคุณเป็นการขึ้นต่อกัน";
-$Definition[
-    'Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'
-] =
-    'การเปิดใช้งานคุณลักษณะนี้จะแก้ไขนโยบายความปลอดภัยเนื้อหาของไซต์ของคุณ (CSP) เพื่ออนุญาตให้สคริปต์ที่ได้รับอนุมัติในรายการโดเมนที่เชื่อถือได้ปัจจุบันของคุณโหลดสคริปต์อื่นๆ แบบไดนามิก โดยจะเพิ่มคำสั่ง \'ไดนามิกเข้มงวด\' ให้กับ CSP ของคุณ ซึ่งให้ความยืดหยุ่นมากขึ้นในการรวมเอาบุคคลที่สาม เนื้อหา.';
-$Definition["Encourage your friends to join your new community!"] =
-    "สนับสนุนให้เพื่อนของคุณเข้าร่วมชุมชนใหม่ของคุณ!";
-$Definition["Enter a comma-delimited list of indexes, starting at 1."] =
-    "ป้อนรายการดัชนีที่คั่นด้วยจุลภาคเริ่มต้นที่ 1";
-$Definition["Enter numbers starting at 1."] = "ป้อนหมายเลขเริ่มต้นที่ 1";
-$Definition["Enter the email address of the person you would like to invite:"] =
-    "ป้อนที่อยู่อีเมลของบุคคลที่คุณต้องการเชิญ:";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage"
-] = "ป้อน URL ไปยังหน้าที่คุณต้องการใช้เป็นโฮมเพจของคุณ";
-$Definition[
-    "Enter the url to the page you would like to use as your homepage:"
-] = "ป้อน URL ไปยังหน้าที่คุณต้องการใช้เป็นโฮมเพจของคุณ:";
-$Definition["Error sending email. Please review the addresses and try again."] =
-    "เกิดข้อผิดพลาดในการส่งอีเมล โปรดตรวจสอบที่อยู่แล้วลองอีกครั้ง";
-$Definition["Even More Help?"] = "ต้องการความช่วยเหลือเพิ่มเติม?";
-$Definition["Event Log"] = "บันทึกเหตุการณ์";
-$Definition["Event Name"] = "ชื่อกิจกรรม";
-$Definition["Every %s hour"] = "ทุกชั่วโมง";
-$Definition["Every %s hours"] = "ทุก %s ชั่วโมง";
-$Definition["Every %s minute"] = "ทุกๆนาที";
-$Definition["Every %s minutes"] = "ทุก %s นาที";
-$Definition["Every %s second"] = "ทุกวินาที";
-$Definition["Every %s seconds"] = "ทุก %s วินาที";
-$Definition["Every 1 minute"] = "ทุก 1 นาที";
-$Definition["Every Page"] = "ทุกหน้า";
-$Definition["Everything is ok."] = "ทุกอย่างปกติดี.";
-$Definition["Excerpt Length"] = "ความยาวตัดตอน";
-$Definition["Exclude Categories"] = "ไม่รวมหมวดหมู่";
-$Definition["Exclude Default Interests"] = "ไม่รวมดอกเบี้ยผิดนัด";
-$Definition["Exclude these from the source"] = "แยกสิ่งเหล่านี้ออกจากแหล่งที่มา";
-$Definition["Exclude archived discussions from the discussions list"] =
-    "ไม่รวมการสนทนาที่เก็บถาวรจากรายการการสนทนา";
-$Definition["Existing members send invitations to new members."] =
-    "สมาชิกที่มีอยู่ส่งคำเชิญไปยังสมาชิกใหม่";
-$Definition["Exit Preview"] = "ออกจากหน้าตัวอย่าง";
-$Definition["Exit"] = "ทางออก";
-$Definition["External Search"] = "การค้นหาภายนอก";
-$Definition[
-    "External search replaces Vanilla’s out of the box search with a third party search provider of your choice."
-] =
-    "การค้นหาภายนอกจะแทนที่การค้นหาแบบสำเร็จรูปของ Vanilla ด้วยผู้ให้บริการค้นหาบุคคลที่สามที่คุณเลือก";
+$Definition['Enabled: The pocket will be displayed.'] = 'เปิดใช้งาน: Pocket จะปรากฏขึ้น';
+$Definition['Enable embedding to use blog comments.'] = 'เพื่อให้สิ่งนี้ใช้งานได้คุณจะต้องเปิดใช้งานการฝัง';
+$Definition['Enable Followup Notifications'] = 'เปิดใช้งานการแจ้งเตือนการติดตาม';
+$Definition['Enable HTML emails'] = 'เปิดใช้งานอีเมล HTML';
+$Definition['Enable Image Upload Limit'] = 'เปิดใช้งานขีดจำกัดการอัปโหลดภาพ';
+$Definition['Enable link embeds in discussions and comments'] = 'เปิดใช้งานลิงก์ฝังในการสนทนาและความคิดเห็น';
+$Definition['Enable link embeds in posts and comments'] = 'เปิดใช้งานการฝังลิงค์ในโพสต์และความคิดเห็น';
+$Definition['Enable OpenID'] = 'เปิดใช้งาน OpenID';
+$Definition['Enable Pocket Locations'] = 'เปิดใช้งานตำแหน่งพ็อกเก็ต';
+$Definition['Enable Private Communities'] = 'เปิดใช้งานชุมชนส่วนตัว';
+$Definition['Enable Product Integration'] = 'เปิดใช้งานการรวมผลิตภัณฑ์';
+$Definition['Enable Rich Quotes'] = 'เปิดใช้งานคำคมที่หลากหลาย';
+$Definition['Enable sending notification emails'] = 'เปิดใช้งานการส่งอีเมลแจ้งเตือน';
+$Definition['Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon\'s settings</0>. Learn more in the <1/>'] = 'เปิดใช้งาน Stopforumspam เพื่อตรวจสอบผู้ใช้ชุมชนกับรายชื่อผู้ส่งสแปมที่รายงาน และรายงานโพสต์ดังกล่าวว่าเป็นสแปมหรือปฏิเสธโพสต์ดังกล่าวโดยสิ้นเชิง เกณฑ์การรายงานและการปฏิเสธจะถูกจัดการในการตั้งค่าของส่วนเสริม <0></0> . เรียนรู้เพิ่มเติมใน <1/>';
+$Definition['Enable Tagging'] = 'เปิดใช้งานการติดแท็ก';
+$Definition['Enable this message'] = 'เปิดใช้งานข้อความนี้';
+$Definition['Enable this source'] = 'เปิดใช้งานแหล่งข้อมูลนี้';
+$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'เปิดใช้เพื่อดูตัวอย่างแดชบอร์ดการจัดการผู้ใช้ใหม่ของเราพร้อมการค้นหาที่ได้รับการปรับปรุงและตัวเลือกการกำหนดค่าใหม่';
+$Definition['Enable to only show posts from categories a user follows.'] = 'เปิดใช้งานเพื่อแสดงเฉพาะโพสต์จากหมวดหมู่ที่ผู้ใช้ติดตาม';
+$Definition['Enable Triage Dashboard'] = 'เปิดใช้งานแดชบอร์ดการคัดแยก';
+$Definition['Enabling a Locale Pack'] = 'การเปิดใช้ชุดภาษา';
+$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'การเปิดใช้งานคุณลักษณะนี้จะแก้ไขนโยบายความปลอดภัยของเนื้อหาของคุณเพื่อให้เชื่อถือสคริปต์เพิ่มเติมที่แทรกเข้ามาโดยสคริปต์ที่กำหนดเองของคุณเป็นการขึ้นต่อกัน';
+$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = 'การเปิดใช้งานคุณลักษณะนี้จะแก้ไขนโยบายความปลอดภัยเนื้อหาของไซต์ของคุณ (CSP) เพื่ออนุญาตให้สคริปต์ที่ได้รับอนุมัติในรายการโดเมนที่เชื่อถือได้ปัจจุบันของคุณโหลดสคริปต์อื่นๆ แบบไดนามิก โดยจะเพิ่มคำสั่ง \'ไดนามิกเข้มงวด\' ให้กับ CSP ของคุณ ซึ่งให้ความยืดหยุ่นมากขึ้นในการรวมเอาบุคคลที่สาม เนื้อหา.';
+$Definition['Encourage your friends to join your new community!'] = 'สนับสนุนให้เพื่อนของคุณเข้าร่วมชุมชนใหม่ของคุณ!';
+$Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'ป้อนรายการดัชนีที่คั่นด้วยจุลภาคเริ่มต้นที่ 1';
+$Definition['Enter a title for this escalation'] = 'ระบุชื่อเรื่องสำหรับการยกระดับนี้';
+$Definition['Enter numbers starting at 1.'] = 'ป้อนหมายเลขเริ่มต้นที่ 1';
+$Definition['Enter the email address of the person you would like to invite:'] = 'ป้อนที่อยู่อีเมลของบุคคลที่คุณต้องการเชิญ:';
+$Definition['Enter the url to the page you would like to use as your homepage'] = 'ป้อน URL ไปยังหน้าที่คุณต้องการใช้เป็นโฮมเพจของคุณ';
+$Definition['Enter the url to the page you would like to use as your homepage:'] = 'ป้อน URL ไปยังหน้าที่คุณต้องการใช้เป็นโฮมเพจของคุณ:';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'เกิดข้อผิดพลาดในการส่งอีเมล โปรดตรวจสอบที่อยู่แล้วลองอีกครั้ง';
+$Definition['Escalate'] = 'เพิ่มระดับ';
+$Definition['Escalated'] = 'การเพิ่มขึ้น';
+$Definition['Escalated by <0/>'] = 'เพิ่มระดับโดย <0/>';
+$Definition['Escalate it'] = 'เพิ่มระดับมัน';
+$Definition['Escalate to GitHub'] = 'เพิ่มระดับไปยัง GitHub';
+$Definition['Escalate to Zendesk'] = 'ยกระดับไปยัง Zendesk';
+$Definition['Escalation Name'] = 'ชื่อการเพิ่มระดับ';
+$Definition['Escalation Rules'] = 'กฎการยกระดับ';
+$Definition['Escalations Dashboard'] = 'แดชบอร์ดการยกระดับ';
+$Definition['Even More Help?'] = 'ต้องการความช่วยเหลือเพิ่มเติม?';
+$Definition['event'] = 'เหตุการณ์';
+$Definition['Event Layout Settings'] = 'การตั้งค่าเค้าโครงกิจกรรม';
+$Definition['Event Layout Version'] = 'เวอร์ชันเค้าโครงกิจกรรม';
+$Definition['Event Log'] = 'บันทึกเหตุการณ์';
+$Definition['Event Name'] = 'ชื่อกิจกรรม';
+$Definition['Event Pages'] = 'หน้ากิจกรรม';
+$Definition['Every %s hour'] = 'ทุกชั่วโมง';
+$Definition['Every %s hours'] = 'ทุก %s ชั่วโมง';
+$Definition['Every %s minute'] = 'ทุกๆนาที';
+$Definition['Every %s minutes'] = 'ทุก %s นาที';
+$Definition['Every %s second'] = 'ทุกวินาที';
+$Definition['Every %s seconds'] = 'ทุก %s วินาที';
+$Definition['Every 1 minute'] = 'ทุก 1 นาที';
+$Definition['Every Page'] = 'ทุกหน้า';
+$Definition['Everything is ok.'] = 'ทุกอย่างปกติดี.';
+$Definition['Excerpt Length'] = 'ความยาวตัดตอน';
+$Definition['Exclude archived discussions from the discussions list'] = 'ไม่รวมการสนทนาที่เก็บถาวรจากรายการการสนทนา';
+$Definition['Exclude Categories'] = 'ไม่รวมหมวดหมู่';
+$Definition['Exclude Default Interests'] = 'ไม่รวมดอกเบี้ยผิดนัด';
+$Definition['Exclude these from the source'] = 'แยกสิ่งเหล่านี้ออกจากแหล่งที่มา';
+$Definition['Existing members send invitations to new members.'] = 'สมาชิกที่มีอยู่ส่งคำเชิญไปยังสมาชิกใหม่';
+$Definition['Exit'] = 'ทางออก';
+$Definition['Exit Preview'] = 'ออกจากหน้าตัวอย่าง';
+$Definition['Expand'] = 'ขยาย';
+$Definition['Export'] = 'ส่งออก';
+$Definition['External Search'] = 'การค้นหาภายนอก';
+$Definition['External search replaces Vanilla’s out of the box search with a third party search provider of your choice.'] = 'การค้นหาภายนอกจะแทนที่การค้นหาแบบสำเร็จรูปของ Vanilla ด้วยผู้ให้บริการค้นหาบุคคลที่สามที่คุณเลือก';
 
-$Definition["Facebook Connector"] = "ตัวเชื่อมต่อ Facebook";
-$Definition["Facebook Settings"] = "การตั้งค่า Facebook";
-$Definition["Failure"] = "ความล้มเหลว";
-$Definition["Fallback Image"] = "ภาพสำรอง";
-$Definition["False"] = "เท็จ";
-$Definition["Favicon"] = "Favicon";
-$Definition["FaviconBrowse"] =
-    "ค้นหา favicon ใหม่หากคุณต้องการเปลี่ยน:";
-$Definition["FaviconDescription"] =
-    "favicon ของเว็บไซต์ของคุณปรากฏในแถบชื่อเบราว์เซอร์ของคุณ มันจะถูกลดขนาดลงอย่างเหมาะสม";
-$Definition["Feature is not configured"] = "คุณสมบัติไม่ได้รับการกำหนดค่า";
-$Definition["Featured"] = "จุดเด่น";
-$Definition["Featured Image"] = "ภาพเด่น";
-$Definition["FileUpload is currently OFF"] = "FileUpload ปิดใช้งานอยู่ในขณะนี้";
-$Definition["FileUpload is currently ON"] = "FileUpload เปิดอยู่";
-$Definition["Filter"] = "ตัวกรอง";
-$Definition["Filter By"] = "กรองตาม";
-$Definition["Filter Results"] = "ผลลัพธ์การกรอง";
-$Definition["Finished"] = "เสร็จ";
-$Definition["Fingerprint"] = "ลายนิ้วมือ";
-$Definition["First Visit"] = "เยี่ยมชมครั้งแรก";
-$Definition["Flagged By"] = "ถูกตั้งค่าสถานะโดย";
-$Definition["Flagged Content"] = "เนื้อหาที่ถูกตั้งค่าสถานะ";
-$Definition["Flood Control"] = "การควบคุมน้ำท่วม";
-$Definition["Forbidden words"] = "คำที่ต้องห้าม";
-$Definition["Follow Up Delay"] = "ติดตามความล่าช้า";
-$Definition[
-    "For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com"
-] =
-    "ตัวอย่างเช่น หากต้องการอนุญาต yourdomain.com, www.yourdomain.com และ help.yourdomain.com คุณจะต้องเพิ่ม *.yourdomain.com";
-$Definition["Force the forum to only be accessible through this url"] =
-    "บังคับให้ฟอรัมสามารถเข้าถึงได้ผ่าน URL นี้เท่านั้น";
-$Definition["Force your forum to be viewed through the Remote Url"] =
-    "บังคับให้ฟอรัมของคุณถูกดูผ่าน Remote Url";
-$Definition["Formats"] = "รูปแบบ";
-$Definition["Footer"] = "ฟุตบอล";
-$Definition["Forum Data"] = "ข้อมูลฟอรัม";
-$Definition["Forum Settings"] = "การตั้งค่าฟอรัม";
-$Definition["Frequency"] = "ความถี่";
-$Definition["Friendly and Personal"] = "เป็นมิตรและเป็นส่วนตัว";
-$Definition["From Email Address"] = "จากที่อยู่อีเมล";
-$Definition["From Name"] = "จาก ชื่อ";
-$Definition["Full post in email notifications"] =
-    "โพสต์แบบเต็มในการแจ้งเตือนทางอีเมล";
+$Definition['Facebook Connector'] = 'ตัวเชื่อมต่อ Facebook';
+$Definition['Facebook Settings'] = 'การตั้งค่า Facebook';
+$Definition['Failed to authenticate your password reset request. Try using the reset request form again.'] = 'การตรวจสอบสิทธิ์คำขอรีเซ็ตรหัสผ่านของคุณล้มเหลว ลองใช้แบบฟอร์มคำขอรีเซ็ตรหัสผ่านอีกครั้ง';
+$Definition['Failed to disable the rule'] = 'ไม่สามารถปิดการใช้งานกฎได้';
+$Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'ไม่สามารถโหลดข้อมูลตัวอย่างได้ โปรดตรวจสอบค่าทริกเกอร์และการดำเนินการของคุณ';
+$Definition['Failure'] = 'ความล้มเหลว';
+$Definition['Fallback Image'] = 'ภาพสำรอง';
+$Definition['False'] = 'เท็จ';
+$Definition['FaviconBrowse'] = 'ค้นหา favicon ใหม่หากคุณต้องการเปลี่ยน:';
+$Definition['FaviconDescription'] = 'favicon ของเว็บไซต์ของคุณปรากฏในแถบชื่อเบราว์เซอร์ของคุณ มันจะถูกลดขนาดลงอย่างเหมาะสม';
+$Definition['Featured'] = 'จุดเด่น';
+$Definition['Featured Image'] = 'ภาพเด่น';
+$Definition['Feature is not configured'] = 'คุณสมบัติไม่ได้รับการกำหนดค่า';
+$Definition['FileUpload is currently OFF'] = 'FileUpload ปิดใช้งานอยู่ในขณะนี้';
+$Definition['FileUpload is currently ON'] = 'FileUpload เปิดอยู่';
+$Definition['Filter'] = 'ตัวกรอง';
+$Definition['Filter By'] = 'กรองตาม';
+$Definition['Filter Results'] = 'ผลลัพธ์การกรอง';
+$Definition['Fingerprint'] = 'ลายนิ้วมือ';
+$Definition['Finished'] = 'เสร็จ';
+$Definition['First Visit'] = 'เยี่ยมชมครั้งแรก';
+$Definition['Flagged By'] = 'ถูกตั้งค่าสถานะโดย';
+$Definition['Flagged Content'] = 'เนื้อหาที่ถูกตั้งค่าสถานะ';
+$Definition['Flood Control'] = 'การควบคุมน้ำท่วม';
+$Definition['Follow categories:'] = 'ติดตามหมวดหมู่:';
+$Definition['Follow category'] = 'ติดตามหมวดหมู่';
+$Definition['Follow Up Delay'] = 'ติดตามความล่าช้า';
+$Definition['Footer'] = 'ฟุตบอล';
+$Definition['for'] = 'สำหรับ';
+$Definition['Forbidden words'] = 'คำที่ต้องห้าม';
+$Definition['Force the forum to only be accessible through this url'] = 'บังคับให้ฟอรัมสามารถเข้าถึงได้ผ่าน URL นี้เท่านั้น';
+$Definition['Force your forum to be viewed through the Remote Url'] = 'บังคับให้ฟอรัมของคุณถูกดูผ่าน Remote Url';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'ตัวอย่างเช่น หากต้องการอนุญาต yourdomain.com, www.yourdomain.com และ help.yourdomain.com คุณจะต้องเพิ่ม *.yourdomain.com';
+$Definition['Formats'] = 'รูปแบบ';
+$Definition['Formatting Posts'] = 'การจัดรูปแบบกระทู้';
+$Definition['Forum Data'] = 'ข้อมูลฟอรัม';
+$Definition['Forum Settings'] = 'การตั้งค่าฟอรัม';
+$Definition['Frequency'] = 'ความถี่';
+$Definition['Friendly and Personal'] = 'เป็นมิตรและเป็นส่วนตัว';
+$Definition['From Email Address'] = 'จากที่อยู่อีเมล';
+$Definition['From Name'] = 'จาก ชื่อ';
+$Definition['Full post in email notifications'] = 'โพสต์แบบเต็มในการแจ้งเตือนทางอีเมล';
 
-$Definition["Garden"] = "สวน";
-$Definition["Garden.api.ssoIDPermission.description"] =
-    "บทบาทที่มีสิทธิ์นี้จะสามารถขยาย SSO ID ในการเรียก API v2";
-$Definition["Gave badge to users."] = "มอบป้ายให้กับผู้ใช้";
-$Definition["Generate"] = "สร้าง";
-$Definition["Generate Client ID and Secret"] = "สร้างรหัสลูกค้าและความลับ";
-$Definition["Generate import SQL only"] = "สร้างการนำเข้า SQL เท่านั้น";
-$Definition[
-    "Generating Suggestions. You will be notified when they are ready for you to review."
-] =
-    "กำลังสร้างข้อเสนอแนะ คุณจะได้รับการแจ้งเตือนเมื่อข้อเสนอแนะพร้อมให้คุณตรวจสอบ";
-$Definition["Get More Applications"] = "รับแอปพลิเคชันเพิ่มเติม";
-$Definition["Get More Plugins"] = "รับปลั๊กอินเพิ่มเติม";
-$Definition["Get More Themes"] = "รับธีมเพิ่มเติม";
-$Definition["Getting Started"] = "เริ่มต้นใช้งาน";
-$Definition["Getting Started with Vanilla"] = "เริ่มต้นกับวานิลลา";
-$Definition["give"] = "ให้";
-$Definition["Give a Badge"] = "ให้ตรา";
-$Definition["Given Indexes"] = "ดัชนีที่กำหนด";
-$Definition[
-    "Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have."
-] =
-    "สวัสดี ฉันคือผู้ช่วยแนะนำ AI ของคุณ คอยช่วยคุณค้นหาบทความและโพสต์ที่เกี่ยวข้องเพื่อตอบคำถามของคุณ โปรดอย่าลังเลที่จะถามคำถามใดๆ ที่คุณอาจมี";
-$Definition["guest"] = "แขก";
-$Definition["Guest roles"] =
-    "ตรวจสอบบทบาททั้งหมดที่ควรนำไปใช้กับแขก";
+$Definition['Garden'] = 'สวน';
+$Definition['Garden.api.ssoIDPermission.description'] = 'บทบาทที่มีสิทธิ์นี้จะสามารถขยาย SSO ID ในการเรียก API v2';
+$Definition['Gave badge to users.'] = 'มอบป้ายให้กับผู้ใช้';
+$Definition['Generate'] = 'สร้าง';
+$Definition['Generate Client ID and Secret'] = 'สร้างรหัสลูกค้าและความลับ';
+$Definition['Generate import SQL only'] = 'สร้างการนำเข้า SQL เท่านั้น';
+$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'กำลังสร้างข้อเสนอแนะ คุณจะได้รับการแจ้งเตือนเมื่อข้อเสนอแนะพร้อมให้คุณตรวจสอบ';
+$Definition['Get More Applications'] = 'รับแอปพลิเคชันเพิ่มเติม';
+$Definition['Get More Plugins'] = 'รับปลั๊กอินเพิ่มเติม';
+$Definition['Get More Themes'] = 'รับธีมเพิ่มเติม';
+$Definition['Getting Started'] = 'เริ่มต้นใช้งาน';
+$Definition['Getting Started with Vanilla'] = 'เริ่มต้นกับวานิลลา';
+$Definition['give'] = 'ให้';
+$Definition['Give a Badge'] = 'ให้ตรา';
+$Definition['Given Indexes'] = 'ดัชนีที่กำหนด';
+$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'สวัสดี ฉันคือผู้ช่วยแนะนำ AI ของคุณ คอยช่วยคุณค้นหาบทความและโพสต์ที่เกี่ยวข้องเพื่อตอบคำถามของคุณ โปรดอย่าลังเลที่จะถามคำถามใดๆ ที่คุณอาจมี';
+$Definition['guest'] = 'แขก';
+$Definition['Guest roles'] = 'ตรวจสอบบทบาททั้งหมดที่ควรนำไปใช้กับแขก';
+$Definition['Guide Article Pages'] = 'หน้าบทความแนะนำ';
 
-$Definition["Hash Algorithm"] = "ขั้นตอนวิธีแฮช";
-$Definition["HeadlineFormat.AddUser"] =
-    "{ActivityUserID, user} เพิ่มบัญชีสำหรับ {RegardingUserID, user}";
-$Definition["HeadlineFormat.PictureChange"] =
-    "เปลี่ยนรูปโปรไฟล์ {RegardingUserID, You} {ActivityUserID, your} รูปโปรไฟล์";
-$Definition["HeadlineFormat.RegistrationApproval"] =
-    "{ActivityUserID, user} อนุมัติแอปพลิเคชันสำหรับ {RegardingUserID, user}";
-$Definition["HeadlineFormat.Status"] = "{ActivityUserID, user}";
-$Definition["HeadlineFormat.WallPost"] =
-    "{RegardingUserID, you} → {ActivityUserID, you}";
-$Definition["Heads up!"] = "ยอดเยี่ยม!";
-$Definition["Heads Up!"] = "ยอดเยี่ยม!";
-$Definition["Header"] = "หัวข้อ";
-$Definition["Height"] = "ความสูง";
-$Definition[
-    "Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!"
-] =
-    "สวัสดี! ฉันคือผู้ช่วยแนะนำ AI ของคุณ คอยช่วยคุณค้นหาบทความและโพสต์ที่ดีที่สุดเพื่อตอบคำถามของคุณ อย่าลังเลที่จะถามอะไร ฉันอยู่ที่นี่เพื่อทำให้การค้นหาของคุณสนุกและให้ข้อมูล!";
-$Definition["Help &amp; Tutorials"] = "ช่วยเหลือ & แบบฝึกหัด";
+$Definition['has been unanswered'] = 'ยังไม่ได้รับคำตอบ';
+$Definition['Hash Algorithm'] = 'ขั้นตอนวิธีแฮช';
+$Definition['has not received any comments'] = 'ยังไม่ได้รับความคิดเห็นใด ๆ';
+$Definition['Header'] = 'หัวข้อ';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID, user} เพิ่มบัญชีสำหรับ {RegardingUserID, user}';
+$Definition['HeadlineFormat.PictureChange'] = 'เปลี่ยนรูปโปรไฟล์ {RegardingUserID, You} {ActivityUserID, your} รูปโปรไฟล์';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID, user} อนุมัติแอปพลิเคชันสำหรับ {RegardingUserID, user}';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID, user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID, you} → {ActivityUserID, you}';
+$Definition['Heads Up!'] = 'ยอดเยี่ยม!';
+$Definition['Heads up!'] = 'ยอดเยี่ยม!';
+$Definition['Height'] = 'ความสูง';
+$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = 'สวัสดี! ฉันคือผู้ช่วยแนะนำ AI ของคุณ คอยช่วยคุณค้นหาบทความและโพสต์ที่ดีที่สุดเพื่อตอบคำถามของคุณ อย่าลังเลที่จะถามอะไร ฉันอยู่ที่นี่เพื่อทำให้การค้นหาของคุณสนุกและให้ข้อมูล!';
+$Definition['Help &amp; Tutorials'] = 'ช่วยเหลือ & แบบฝึกหัด';
+$Definition['Help Center Article Pages'] = 'หน้าบทความศูนย์ช่วยเหลือ';
+$Definition['Help Center Category Pages'] = 'หมวดหมู่หน้าศูนย์ช่วยเหลือ';
+$Definition['Help Center Home Pages'] = 'หน้าแรกศูนย์ช่วยเหลือ';
 $Definition['Here\'s how to get started:'] = 'นี่คือวิธีเริ่มต้น:';
-$Definition["Hidden for everything!"] = "ซ่อนเร้นสำหรับทุกสิ่ง!";
-$Definition["Hidden for mobile"] = "ซ่อนไว้สำหรับมือถือ";
-$Definition["Hide discussions from Recent Discussions and Widgets."] =
-    "ซ่อนการสนทนาจากการสนทนาและวิดเจ็ตล่าสุด";
-$Definition["Hide posts from Recent Posts Page and Widgets."] =
-    "ซ่อนโพสต์จากหน้าโพสต์ล่าสุดและวิดเจ็ต";
-$Definition["Hide Pocket Locations"] = "ซ่อนตำแหน่งพ็อกเก็ต";
-$Definition["Hide signatures for guests"] = "ซ่อนลายเซ็นสำหรับแขก";
-$Definition["Hide signatures on embedded comments"] =
-    "ซ่อนลายเซ็นต์ในความคิดเห็นที่ฝังไว้";
-$Definition["Hide Suggestions"] = "ซ่อนคำแนะนำ";
-$Definition["History"] = "ประวัติศาสตร์";
-$Definition["Homepage"] = "โฮมเพจ";
-$Definition["Homepage Title"] = "ชื่อหน้าแรก";
-$Definition["How the content is going to be filtered."] =
-    "เนื้อหาจะถูกกรองอย่างไร";
-$Definition["How to use themes"] = "วิธีใช้ธีม";
-$Definition[
-    "However, this comes with increased responsibility to ensure the security of your site."
-] =
-    "อย่างไรก็ตาม สิ่งนี้มาพร้อมกับความรับผิดชอบที่เพิ่มขึ้นในการรับรองความปลอดภัยของไซต์ของคุณ";
-$Definition["Html"] = "HTML";
-$Definition["HTML Emails"] = "อีเมล์ HTML";
-$Definition["HTTP Strict Transport Security (HSTS) Settings"] =
-    "การตั้งค่า HTTP Strict Transport Security (HSTS)";
-$Definition["Hot (score + activity)"] = "ร้อน (คะแนน + กิจกรรม)";
+$Definition['Hidden for everything!'] = 'ซ่อนเร้นสำหรับทุกสิ่ง!';
+$Definition['Hidden for mobile'] = 'ซ่อนไว้สำหรับมือถือ';
+$Definition['Hide discussions from Recent Discussions and Widgets.'] = 'ซ่อนการสนทนาจากการสนทนาและวิดเจ็ตล่าสุด';
+$Definition['Hide Pocket Locations'] = 'ซ่อนตำแหน่งพ็อกเก็ต';
+$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'ซ่อนโพสต์จากหน้าโพสต์ล่าสุดและวิดเจ็ต';
+$Definition['Hide signatures for guests'] = 'ซ่อนลายเซ็นสำหรับแขก';
+$Definition['Hide signatures on embedded comments'] = 'ซ่อนลายเซ็นต์ในความคิดเห็นที่ฝังไว้';
+$Definition['Hide Suggestions'] = 'ซ่อนคำแนะนำ';
+$Definition['History'] = 'ประวัติศาสตร์';
+$Definition['Home Layout Settings'] = 'การตั้งค่าเค้าโครงบ้าน';
+$Definition['Home Layout Version'] = 'เวอร์ชันเค้าโครงบ้าน';
+$Definition['Homepage'] = 'โฮมเพจ';
+$Definition['Home Pages'] = 'หน้าแรก';
+$Definition['Homepage Title'] = 'ชื่อหน้าแรก';
+$Definition['Homepage titles can only be between 1 and 500 characters'] = 'หัวเรื่องหน้าแรกสามารถมีได้ระหว่าง 1 ถึง 500 ตัวอักษรเท่านั้น';
+$Definition['Hot (score + activity)'] = 'ร้อน (คะแนน + กิจกรรม)';
+$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'อย่างไรก็ตาม สิ่งนี้มาพร้อมกับความรับผิดชอบที่เพิ่มขึ้นในการรับรองความปลอดภัยของไซต์ของคุณ';
+$Definition['How the content is going to be filtered.'] = 'เนื้อหาจะถูกกรองอย่างไร';
+$Definition['How to use themes'] = 'วิธีใช้ธีม';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'อีเมล์ HTML';
+$Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'การตั้งค่า HTTP Strict Transport Security (HSTS)';
 
-$Definition[
-    "If enabled, the full content of posts will be sent in email notifications to users."
-] =
-    "หากเปิดใช้งานเนื้อหาทั้งหมดของโพสต์จะถูกส่งในการแจ้งเตือนทางอีเมลถึงผู้ใช้";
-$Definition["If left empty, Email Logo is used."] =
-    "หากเว้นว่างไว้ ระบบจะใช้โลโก้อีเมล";
-$Definition[
-    "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."
-] =
-    "หากคุณมีลิงก์ไปยังเอกสารภายในใน \"ลิงก์ไปยังข้อกำหนดการใช้งาน\" ด้านบน ข้อความ \"ข้อกำหนดการใช้งาน\" จะถูกละเว้น ลบลิงก์ออกหากคุณต้องการใช้ข้อความนี้";
-$Definition["Inbox Page"] = "กล่องจดหมาย";
-$Definition["Include Child Categories"] = "รวมหมวดหมู่ย่อย";
-$Definition["Include full post in email notifications"] =
-    "รวมโพสต์แบบเต็มในการแจ้งเตือนทางอีเมล";
-$Definition["Include Featured Images"] = "รวมภาพเด่น";
-$Definition["Include featured images with posts in email digest"] =
-    "รวมรูปภาพเด่นพร้อมโพสต์ไว้ในอีเมลสรุป";
-$Definition["Include internal profile fields"] =
-    "รวมฟิลด์โปรไฟล์ภายใน";
-$Definition["Include private profile fields"] =
-    "รวมฟิลด์โปรไฟล์ส่วนตัว";
-$Definition["Include Subcategories"] = "รวมหมวดหมู่ย่อย";
-$Definition["Include Subdomains"] = "รวมโดเมนย่อย";
-$Definition["Increased Security Risks:"] = "ความเสี่ยงด้านความปลอดภัยที่เพิ่มขึ้น:";
-$Definition["Indexes"] = "ดัชนี";
-$Definition["Information"] = "ข้อมูล";
-$Definition["Install Vanilla without a .htaccess file."] =
-    "ติดตั้ง Vanilla โดยไม่มีไฟล์. htaccess";
-$Definition["Integrate Banner Image"] = "รวมภาพแบนเนอร์";
-$Definition["Interest Name"] = "ชื่อความสนใจ";
-$Definition["Interests & Suggested Content"] = "ความสนใจและเนื้อหาที่แนะนำ";
-$Definition["Intermediate"] = "ระดับกลาง";
-$Definition["Internaltionalization & Localization"] =
-    "การทำให้เป็นสากลและการแปล";
-$Definition["Introduction"] = "การแนะนำ";
-$Definition["Introducing Vanilla Reactions and Badges"] =
-    "แนะนำปฏิกิริยาและป้ายของวานิลลา";
-$Definition["Invalid category for deletion."] =
-    "หมวดหมู่ไม่ถูกต้องสำหรับการลบ";
-$Definition["Invalid entry."] = "รายการไม่ถูกต้อง";
-$Definition["Invisibility Cloak Settings"] = "การตั้งค่าเสื้อคลุมล่องหน";
-$Definition["Invitation Code"] = "รหัสการเชิญ";
-$Definition["InvitationMessage"] = 'สวัสดีเพื่อน! ลองดูฟอรัมชุมชนใหม่ที่ฉันเพิ่งตั้งค่า มันเป็นสถานที่ที่ดีสำหรับเราในการแชทออนไลน์ ตามลิงค์ด้านล่างเพื่อเข้าสู่ระบบ';
-$Definition["Invitations per month"] = "คำเชิญต่อเดือน";
-$Definition["Invitations will expire"] = "คำเชิญจะหมดอายุ";
-$Definition["Invited by"] = "เชิญโดย";
-$Definition["It looks like you edited your post. <0/> or <1/>."] =
-    "ดูเหมือนว่าคุณได้แก้ไขโพสต์ของคุณ <0/> หรือ <1/>";
+$Definition['Icon Name'] = 'ชื่อไอคอน';
+$Definition['Icon Packs'] = 'ไอคอนแพ็ค';
+$Definition['Icon Size'] = 'ขนาดไอคอน';
+$Definition['Icon Type'] = 'ประเภทไอคอน';
+$Definition['Idea Pages'] = 'หน้าไอเดีย';
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'หากเปิดใช้งานเนื้อหาทั้งหมดของโพสต์จะถูกส่งในการแจ้งเตือนทางอีเมลถึงผู้ใช้';
+$Definition['If left empty, Email Logo is used.'] = 'หากเว้นว่างไว้ ระบบจะใช้โลโก้อีเมล';
+$Definition['If this option is enabled, replies from the Original Poster will have an OP indicator.'] = 'หากเปิดใช้งานตัวเลือกนี้ การตอบกลับจากผู้ตั้งกระทู้ดั้งเดิมจะมีตัวบ่งชี้ OP';
+$Definition['If you have a link to internal document in \'Link to Terms of Use\' above, \'Terms of Use Text\' will be ignored. Remove the link if you want to use this text.'] = 'หากคุณมีลิงก์ไปยังเอกสารภายในใน "ลิงก์ไปยังข้อกำหนดการใช้งาน" ด้านบน ข้อความ "ข้อกำหนดการใช้งาน" จะถูกละเว้น ลบลิงก์ออกหากคุณต้องการใช้ข้อความนี้';
+$Definition['Inbox Page'] = 'กล่องจดหมาย';
+$Definition['Include Child Categories'] = 'รวมหมวดหมู่ย่อย';
+$Definition['Include Featured Images'] = 'รวมภาพเด่น';
+$Definition['Include featured images with posts in email digest'] = 'รวมรูปภาพเด่นพร้อมโพสต์ไว้ในอีเมลสรุป';
+$Definition['Include full post in email notifications'] = 'รวมโพสต์แบบเต็มในการแจ้งเตือนทางอีเมล';
+$Definition['Include internal profile fields'] = 'รวมฟิลด์โปรไฟล์ภายใน';
+$Definition['Include private profile fields'] = 'รวมฟิลด์โปรไฟล์ส่วนตัว';
+$Definition['Include Subcategories'] = 'รวมหมวดหมู่ย่อย';
+$Definition['Include Subdomains'] = 'รวมโดเมนย่อย';
+$Definition['Increased Security Risks:'] = 'ความเสี่ยงด้านความปลอดภัยที่เพิ่มขึ้น:';
+$Definition['Indexes'] = 'ดัชนี';
+$Definition['indicator navigation'] = 'ตัวบ่งชี้การนำทาง';
+$Definition['Information'] = 'ข้อมูล';
+$Definition['In Jira'] = 'ในจิระ';
+$Definition['InputFormatter.Notes1'] = 'เลือกรูปแบบเริ่มต้นของเครื่องมือแก้ไขสำหรับโพสต์ในชุมชน';
+$Definition['InputFormatter.Notes2'] = 'เครื่องมือแก้ไขจะตรวจหารูปแบบของโพสต์เก่าโดยอัตโนมัติเมื่อแก้ไขและโหลดกฎการจัดรูปแบบดั้งเดิม นอกเหนือจากข้อยกเว้นนี้รูปแบบโพสต์ที่เลือกด้านล่างจะมีความสำคัญกว่า';
+$Definition['Install Vanilla without a .htaccess file.'] = 'ติดตั้ง Vanilla โดยไม่มีไฟล์. htaccess';
+$Definition['Integrate Banner Image'] = 'รวมภาพแบนเนอร์';
+$Definition['Integrations'] = 'การบูรณาการ';
+$Definition['Interest Name'] = 'ชื่อความสนใจ';
+$Definition['Interests & Suggested Content'] = 'ความสนใจและเนื้อหาที่แนะนำ';
+$Definition['Intermediate'] = 'ระดับกลาง';
+$Definition['Internal Comment'] = 'ความคิดเห็นภายใน';
+$Definition['Internal Comments'] = 'ความคิดเห็นภายใน';
+$Definition['Internaltionalization & Localization'] = 'การทำให้เป็นสากลและการแปล';
+$Definition['Introducing Vanilla Reactions and Badges'] = 'แนะนำปฏิกิริยาและป้ายของวานิลลา';
+$Definition['Introduction'] = 'การแนะนำ';
+$Definition['Invalid category for deletion.'] = 'หมวดหมู่ไม่ถูกต้องสำหรับการลบ';
+$Definition['Invalid entry.'] = 'รายการไม่ถูกต้อง';
+$Definition['Invisibility Cloak Settings'] = 'การตั้งค่าเสื้อคลุมล่องหน';
+$Definition['Invitation Code'] = 'รหัสการเชิญ';
+$Definition['InvitationMessage'] = 'สวัสดีเพื่อน! ลองดูฟอรัมชุมชนใหม่ที่ฉันเพิ่งตั้งค่า มันเป็นสถานที่ที่ดีสำหรับเราในการแชทออนไลน์ ตามลิงค์ด้านล่างเพื่อเข้าสู่ระบบ';
+$Definition['Invitation not found.'] = 'ไม่พบคำเชิญ';
+$Definition['Invitations per month'] = 'คำเชิญต่อเดือน';
+$Definition['Invitations will expire'] = 'คำเชิญจะหมดอายุ';
+$Definition['Invited by'] = 'เชิญโดย';
+$Definition['In Zendesk'] = 'ใน Zendesk';
+$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'ดูเหมือนว่าคุณได้แก้ไขโพสต์ของคุณ <0/> หรือ <1/>';
 
-$Definition["JavaScript"] = "จาวาสคริปต์";
-$Definition["jsConnect Client Libraries"] = "jsConnect ไลบรารีไคลเอ็นต์";
-$Definition["jsConnect Documentation"] = "jsConnect เอกสาร";
-$Definition["JS"] = "จส";
+$Definition['JavaScript'] = 'จาวาสคริปต์';
+$Definition['JS'] = 'จส';
+$Definition['jsConnect Client Libraries'] = 'jsConnect ไลบรารีไคลเอ็นต์';
+$Definition['jsConnect Documentation'] = 'jsConnect เอกสาร';
 
-$Definition["Key Type"] = "ประเภทคีย์";
-$Definition["Key Value"] = "ค่าคีย์";
-$Definition["Keyword Blocker"] = "เครื่องมือป้องกันคำหลัก";
+$Definition['Key Type'] = 'ประเภทคีย์';
+$Definition['Key Value'] = 'ค่าคีย์';
+$Definition['Keyword Blocker'] = 'เครื่องมือป้องกันคำหลัก';
+$Definition['Knowledge Base Home Pages'] = 'หน้าแรกฐานความรู้';
+$Definition['Knowledge Base Layout Settings'] = 'การตั้งค่าเค้าโครงฐานความรู้';
+$Definition['Knowledge Base Layout Version'] = 'เวอร์ชันเค้าโครงฐานความรู้';
+$Definition['Knowledge Base Pages'] = 'หน้าฐานความรู้';
 
-$Definition["Label"] = "เครื่องหมาย";
-$Definition["Label is required"] = "ต้องระบุป้ายกำกับ";
-$Definition["Label this Revision"] = "ติดป้ายการแก้ไขนี้";
-$Definition["Language Style"] = "รูปแบบภาษา";
-$Definition["Large images will be scaled down."] =
-    "รูปภาพขนาดใหญ่จะถูกลดขนาดลงเป็นความกว้างสูงสุด %spx และความสูงสูงสุด %spx";
-$Definition["Last Visit"] = "เข้าชมครั้งล่าสุด";
-$Definition["Last Day"] = "วันสุดท้าย";
-$Definition["Last Week"] = "อาทิตย์ที่แล้ว";
-$Definition["Last Month"] = "เดือนที่แล้ว";
+$Definition['Label'] = 'เครื่องหมาย';
+$Definition['Label is required'] = 'ต้องระบุป้ายกำกับ';
+$Definition['Label this Revision'] = 'ติดป้ายการแก้ไขนี้';
+$Definition['Language Style'] = 'รูปแบบภาษา';
+$Definition['Large images will be scaled down.'] = 'รูปภาพขนาดใหญ่จะถูกลดขนาดลงเป็นความกว้างสูงสุด %spx และความสูงสูงสุด %spx';
+$Definition['Last Day'] = 'วันสุดท้าย';
+$Definition['Last Modified'] = 'ปรับปรุงล่าสุด';
+$Definition['Last Month'] = 'เดือนที่แล้ว';
+$Definition['Last refreshed <0/> by <1/>.'] = 'รีเฟรชล่าสุด <0/> โดย <1/>';
+$Definition['Last Reported'] = 'รายงานล่าสุด';
+$Definition['Last reported'] = 'รายงานล่าสุด';
+$Definition['Last Visit'] = 'เข้าชมครั้งล่าสุด';
+$Definition['Last Week'] = 'อาทิตย์ที่แล้ว';
 $Definition['Layman\'s Terms'] = 'ข้อกำหนดสำหรับคนธรรมดา';
-$Definition["Layout"] = "รูปแบบ";
-$Definition["Learn more"] = "เรียนรู้เพิ่มเติม";
-$Definition["Learn more about HSTS at %s."] = "เรียนรู้เพิ่มเติมเกี่ยวกับ HSTS ได้ที่ %s";
-$Definition["Legacy Recent Posts Layout"] = "เลย์เอาต์โพสต์ล่าสุดแบบเก่า";
+$Definition['Layout'] = 'รูปแบบ';
+$Definition['Layout Options'] = 'ตัวเลือกเค้าโครง';
+$Definition['Layouts'] = 'เค้าโครง';
+$Definition['Learn more'] = 'เรียนรู้เพิ่มเติม';
+$Definition['Learn more.'] = 'เรียนรู้เพิ่มเติม.';
+$Definition['Learn more about HSTS at %s.'] = 'เรียนรู้เพิ่มเติมเกี่ยวกับ HSTS ได้ที่ %s';
+$Definition['Legacy Category Layout'] = 'เค้าโครงหมวดหมู่แบบเก่า';
+$Definition['Legacy Category Layouts'] = 'เค้าโครงหมวดหมู่แบบเก่า';
+$Definition['Legacy Create Post Layout'] = 'เลย์เอาต์การสร้างโพสต์แบบเก่า';
+$Definition['Legacy Create Post Layouts'] = 'เลย์เอาต์การสร้างโพสต์แบบเก่า';
+$Definition['Legacy Event Layout'] = 'เค้าโครงกิจกรรมแบบเก่า';
+$Definition['Legacy Event Layouts'] = 'เค้าโครงกิจกรรมแบบเก่า';
+$Definition['Legacy Home Layouts'] = 'เลย์เอาต์บ้านแบบเก่า';
+$Definition['Legacy Knowledge Base Layout'] = 'เค้าโครงฐานความรู้แบบเก่า';
+$Definition['Legacy Knowledge Base Layouts'] = 'เค้าโครงฐานความรู้แบบเก่า';
+$Definition['Legacy Layouts enabled'] = 'เปิดใช้งานเค้าโครงแบบเก่าแล้ว';
+$Definition['Legacy Post Layout'] = 'เค้าโครงโพสต์แบบเก่า';
+$Definition['Legacy Post Layouts'] = 'เค้าโครงโพสต์แบบเก่า';
+$Definition['Legacy Recent Posts Layout'] = 'เลย์เอาต์โพสต์ล่าสุดแบบเก่า';
+$Definition['Legacy Recent Posts Layouts'] = 'เลย์เอาต์โพสต์ล่าสุดแบบเก่า';
+$Definition['Level'] = 'ชั้น';
+$Definition['Level of Technical Language'] = 'ระดับภาษาเทคนิค';
+$Definition['Likes'] = 'ชอบ';
+$Definition['Limit'] = 'จำกัด';
+$Definition['Limits: 60 characters, no breaks.'] = 'ขีดจำกัด: 60 ตัวอักษร ไม่มีการเว้นวรรค';
+$Definition['Limit the pocket to one or more roles or permissions.'] = 'จำกัด กระเป๋าให้น้อยหนึ่งบทบาทหรือสิทธิ์';
+$Definition['Link Color'] = 'ลิงค์สี';
+$Definition['List of discussion IDs to delete.'] = 'รายการรหัสการสนทนาที่ต้องการจะลบ';
+$Definition['Live'] = 'สด';
+$Definition['Live Post'] = 'โพสต์สด';
+$Definition['Loader'] = 'โหลดเดอร์';
+$Definition['Locale Key (Folder)'] = 'รหัสภาษา (โฟลเดอร์)';
+$Definition['Locale Name'] = 'ชื่อสถานที่';
+$Definition['Locales'] = 'ตำแหน่งที่ตั้ง';
+$Definition['Location'] = 'ที่ตั้ง';
+$Definition['Locations'] = 'สถานที่';
+$Definition['Logo'] = 'โลโก้';
+$Definition['LogoBrowse'] = 'เรียกดูโลโก้แบนเนอร์ใหม่หากคุณต้องการเปลี่ยน:';
 
-$Definition["Level"] = "ชั้น";
-$Definition["Level of Technical Language"] = "ระดับภาษาเทคนิค";
-$Definition["Limits: 60 characters, no breaks."] =
-    "ขีดจำกัด: 60 ตัวอักษร ไม่มีการเว้นวรรค";
-$Definition["Link Color"] = "ลิงค์สี";
-$Definition["Likes"] = "ชอบ";
-$Definition["Limit the pocket to one or more roles or permissions."] =
-    "จำกัด กระเป๋าให้น้อยหนึ่งบทบาทหรือสิทธิ์";
-$Definition["Limit"] = "จำกัด";
-$Definition["List of discussion IDs to delete."] =
-    "รายการรหัสการสนทนาที่ต้องการจะลบ";
-$Definition["Locale Key (Folder)"] = "รหัสภาษา (โฟลเดอร์)";
-$Definition["Locale Name"] = "ชื่อสถานที่";
-$Definition["Locales"] = "ตำแหน่งที่ตั้ง";
-$Definition["Location"] = "ที่ตั้ง";
-$Definition["Locations"] = "สถานที่";
-$Definition["Logo"] = "โลโก้";
-$Definition["LogoBrowse"] =
-    "เรียกดูโลโก้แบนเนอร์ใหม่หากคุณต้องการเปลี่ยน:";
+$Definition['Maintenance Mode'] = 'โหมดการบำรุงรักษา';
+$Definition['Make sure you select at least one item before continuing.'] = 'ตรวจสอบให้แน่ใจว่าคุณเลือกอย่างน้อยหนึ่งรายการก่อนดำเนินการต่อ';
+$Definition['Manage'] = 'จัดการ';
+$Definition['Manage Applicants'] = 'จัดการผู้สมัคร';
+$Definition['Manage Applications'] = 'จัดการแอปพลิเคชัน';
+$Definition['Manage Badge Requests'] = 'จัดการคำขอตราสัญลักษณ์';
+$Definition['Manage Badges'] = 'จัดการป้าย';
+$Definition['Manage Categories'] = 'จัดการหมวดหมู่';
+$Definition['Manage Groups'] = 'การจัดการกลุ่ม';
+$Definition['Manage Icon'] = 'ไอคอนจัดการ';
+$Definition['Manage Icon helptext'] = 'คุณสามารถจัดการไอคอนระบบและประวัติได้ที่นี่ เมื่ออัปโหลด โปรดตรวจสอบว่าไอคอนอยู่ในรูปแบบ SVG มีแอตทริบิวต์ viewBox และใช้สี #000000 เพื่อให้แน่ใจว่าสามารถระบายสีแบบไดนามิกได้ตามการตั้งค่าธีมและการโต้ตอบของผู้ใช้ สามารถเปิดใช้งานไอคอนได้ครั้งละหนึ่งไอคอนเท่านั้นสำหรับแต่ละประเภท';
+$Definition['Manage Icons'] = 'การจัดการไอคอน';
+$Definition['Manage Messages'] = 'จัดการข้อความ';
+$Definition['Manage Plugins'] = 'จัดการปลั๊กอิน';
+$Definition['Manage Roles & Permissions'] = 'จัดการบทบาทและการอนุญาต';
+$Definition['Manage Spam'] = 'จัดการสแปม';
+$Definition['Manage Suggested Answer Sources'] = 'จัดการแหล่งคำตอบที่แนะนำ';
+$Definition['Manage Themes'] = 'จัดการธีม';
+$Definition['Manage Users'] = 'จัดการผู้ใช้';
+$Definition['Managing Categories'] = 'การจัดการหมวดหมู่';
+$Definition['Manual'] = 'คู่มือ';
+$Definition['Mark All Suggested Answers as Accepted'] = 'ทำเครื่องหมายคำตอบที่แนะนำทั้งหมดว่าได้รับการยอมรับ';
+$Definition['Max %s length'] = 'ความยาวสูงสุด %s';
+$Definition['Max Age'] = 'อายุสูงสุด';
+$Definition['Max Avatar Height'] = 'ความสูงสุดของรูปโปรไฟล์';
+$Definition['Max Avatar Width'] = 'ความกว้างสูงสุดของรูปโปรไฟล์';
+$Definition['Max Comment Length'] = 'ความยาวความคิดเห็นสูงสุด';
+$Definition['Max height of %s'] = 'ความสูงสูงสุดของ %s';
+$Definition['Max height of %s in pixels'] = 'ความสูงสูงสุด %s เป็นพิกเซล';
+$Definition['Maximum Category Display Depth'] = 'ความลึกของการแสดงหมวดหมู่สูงสุด';
+$Definition['Maximum Limit Reached'] = 'ถึงขีดจำกัดสูงสุดแล้ว';
+$Definition['Maximum number of posts to be included in the email digest.'] = 'จำนวนโพสต์สูงสุดที่จะรวมไว้ในอีเมลสรุป';
+$Definition['Max number of %s'] = 'จำนวนสูงสุดของ %s';
+$Definition['Max number of images in signature'] = 'จำนวนภาพสูงสุดในลายเซ็น';
+$Definition['Max Post Length'] = 'ความยาวโพสต์สูงสุด';
+$Definition['Max signature length'] = 'ความยาวลายเซ็นสูงสุด';
+$Definition['member'] = 'สมาชิก';
+$Definition['Member roles'] = 'ตรวจสอบบทบาททั้งหมดที่ควรนำไปใช้กับผู้ใช้ใหม่ / อนุมัติ';
+$Definition['Membership'] = 'การเป็นสมาชิก';
+$Definition['Message'] = 'ข้อความ';
+$Definition['Message ID'] = 'ID ข้อความ';
+$Definition['Message Post Author'] = 'ข้อความผู้เขียนโพสต์';
+$Definition['Messages'] = 'ข้อความ';
+$Definition['Meta Options'] = 'ตัวเลือกเมตา';
+$Definition['Meta Tags'] = 'เมตาแท็ก';
+$Definition['Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line.'] = 'เมตาแท็กใช้สำหรับการยืนยันโดเมนสำหรับ Google Search Console และบริการอื่นๆ คัดลอกเมตาแท็กที่จำเป็นจากแหล่งที่มาของคุณแล้ววางลงในบรรทัดใหม่';
+$Definition['Method'] = 'วิธี';
+$Definition['Min Post Length'] = 'ความยาวโพสต์ขั้นต่ำ';
+$Definition['minute(s)'] = 'นาที (s)';
+$Definition['Mixed Layout'] = 'เค้าโครงผสม';
+$Definition['Mobile Address Bar Color'] = 'สีของแถบที่อยู่มือถือ';
+$Definition['Mobile Banner Logo'] = 'โลโก้แบนเนอร์มือถือ';
+$Definition['Mobile Format'] = 'รูปแบบมือถือ';
+$Definition['MobileInputFormatter.Notes1'] = 'ระบุรูปแบบการแก้ไขสำหรับอุปกรณ์มือถือ';
+$Definition['MobileInputFormatter.Notes2'] = 'หากอุปกรณ์มือถือควรมีประสบการณ์แบบเดียวกันให้ระบุอุปกรณ์ตัวเดียวกันตามข้างต้น หากผู้ใช้รายงานปัญหาเกี่ยวกับการแก้ไขมือถือนี่เป็นตัวเลือกที่ดีในการเปลี่ยนแปลง';
+$Definition['Mobile Logo'] = 'โลโก้มือถือ';
+$Definition['Mobile Themes'] = 'ธีมมือถือ';
+$Definition['Moderation Content'] = 'การกลั่นกรองเนื้อหา';
+$Definition['moderator'] = 'พิธีกร';
+$Definition['Moderators have permission to edit most content.'] = 'ผู้ดูแลมีสิทธิ์ในการแก้ไขเนื้อหาส่วนใหญ่';
+$Definition['Modern Layout'] = 'เค้าโครงสมัยใหม่';
+$Definition['Modern non-table-based layout'] = 'รูปแบบที่ไม่ใช่ตารางที่ทันสมัย';
+$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'ภาษาที่ซับซ้อนมากขึ้นและอาจมีคำศัพท์เฉพาะอุตสาหกรรมบางอย่าง แต่คนส่วนใหญ่ยังคงเข้าใจได้';
+$Definition['More information'] = 'ข้อมูลมากกว่านี้';
+$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'ภาษาทางเทคนิคมากขึ้นและคำศัพท์เฉพาะอุตสาหกรรม - ถือว่ามีระดับความเข้าใจ/คุ้นเคยกับเนื้อหาที่เรียนในระดับสูง';
+$Definition['more than %s deep'] = 'มากกว่า %s ลึกกว่า';
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'กระเป๋าส่วนใหญ่ไม่ควรแสดงในแผงควบคุม';
+$Definition['Move discussions in this category to a replacement category.'] = 'ย้ายการอภิปรายในหมวดหมู่นี้ไปยังหมวดหมู่การแทนที่';
+$Definition['Move post'] = 'ย้ายกระทู้';
+$Definition['Move to category:'] = 'ย้ายไปยังหมวดหมู่:';
+$Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'ระบบจะทริกเกอร์ฟิลด์หลายรายการหากผู้ใช้ตรงตามเกณฑ์ใดๆ ก็ตาม';
+$Definition['My Invitations'] = 'คำเชิญของฉัน';
+$Definition['My Profile'] = 'โปรไฟล์ของฉัน';
 
-$Definition["Maintenance Mode"] = "โหมดการบำรุงรักษา";
-$Definition["Make sure you select at least one item before continuing."] =
-    "ตรวจสอบให้แน่ใจว่าคุณเลือกอย่างน้อยหนึ่งรายการก่อนดำเนินการต่อ";
-$Definition["Add your site to trusted domains."] =
-    "ตรวจสอบให้แน่ใจว่าไซต์ของคุณถูกเพิ่มใน %s เมื่อเปิดใช้งานการฝัง";
-$Definition["Manage"] = "จัดการ";
-$Definition["Manage Applicants"] = "จัดการผู้สมัคร";
-$Definition["Manage Applications"] = "จัดการแอปพลิเคชัน";
-$Definition["Manage Badges"] = "จัดการป้าย";
-$Definition["Manage Badge Requests"] = "จัดการคำขอตราสัญลักษณ์";
-$Definition["Manage Categories"] = "จัดการหมวดหมู่";
-$Definition["Manage Groups"] = "การจัดการกลุ่ม";
-$Definition["Manage Messages"] = "จัดการข้อความ";
-$Definition["Manage Plugins"] = "จัดการปลั๊กอิน";
-$Definition["Manage Roles & Permissions"] = "จัดการบทบาทและการอนุญาต";
-$Definition["Manage Suggested Answer Sources"] =
-    "จัดการแหล่งคำตอบที่แนะนำ";
-$Definition["Manage Spam"] = "จัดการสแปม";
-$Definition["Manage Themes"] = "จัดการธีม";
-$Definition["Manage Users"] = "จัดการผู้ใช้";
-$Definition["Managing Categories"] = "การจัดการหมวดหมู่";
-$Definition["Manual"] = "คู่มือ";
-$Definition["Mark All Suggested Answers as Accepted"] =
-    "ทำเครื่องหมายคำตอบที่แนะนำทั้งหมดว่าได้รับการยอมรับ";
-$Definition["Max %s length"] = "ความยาวสูงสุด %s";
-$Definition["Max Age"] = "อายุสูงสุด";
-$Definition["Max Avatar Height"] = "ความสูงสุดของรูปโปรไฟล์";
-$Definition["Max Avatar Width"] = "ความกว้างสูงสุดของรูปโปรไฟล์";
-$Definition["Max Comment Length"] = "ความยาวความคิดเห็นสูงสุด";
-$Definition["Max height of %s"] = "ความสูงสูงสุดของ %s";
-$Definition["Max height of %s in pixels"] = "ความสูงสูงสุด %s เป็นพิกเซล";
-$Definition["Maximum Category Display Depth"] =
-    "ความลึกของการแสดงหมวดหมู่สูงสุด";
-$Definition["Max number of %s"] = "จำนวนสูงสุดของ %s";
-$Definition["Max number of images in signature"] =
-    "จำนวนภาพสูงสุดในลายเซ็น";
-$Definition["Maximum number of posts to be included in the email digest."] =
-    "จำนวนโพสต์สูงสุดที่จะรวมไว้ในอีเมลสรุป";
-$Definition["Max Post Length"] = "ความยาวโพสต์สูงสุด";
-$Definition["Max signature length"] = "ความยาวลายเซ็นสูงสุด";
-$Definition["member"] = "สมาชิก";
-$Definition["Member roles"] =
-    "ตรวจสอบบทบาททั้งหมดที่ควรนำไปใช้กับผู้ใช้ใหม่ / อนุมัติ";
-$Definition["Membership"] = "การเป็นสมาชิก";
-$Definition["Message"] = "ข้อความ";
-$Definition["Message ID"] = "ID ข้อความ";
-$Definition["Messages"] = "ข้อความ";
-$Definition["Meta Options"] = "ตัวเลือกเมตา";
-$Definition["Method"] = "วิธี";
-$Definition["Min Post Length"] = "ความยาวโพสต์ขั้นต่ำ";
-$Definition["minute(s)"] = "นาที (s)";
-$Definition["Mixed Layout"] = "เค้าโครงผสม";
-$Definition["Mobile Address Bar Color"] = "สีของแถบที่อยู่มือถือ";
-$Definition["Mobile Banner Logo"] = "โลโก้แบนเนอร์มือถือ";
-$Definition["Mobile Themes"] = "ธีมมือถือ";
-$Definition["moderator"] = "พิธีกร";
-$Definition["Moderators have permission to edit most content."] =
-    "ผู้ดูแลมีสิทธิ์ในการแก้ไขเนื้อหาส่วนใหญ่";
-$Definition["Modern Layout"] = "เค้าโครงสมัยใหม่";
-$Definition["Modern non-table-based layout"] = "รูปแบบที่ไม่ใช่ตารางที่ทันสมัย";
-$Definition[
-    "More complex language and may introduce some industry-specific terms, but still understandable to most people."
-] =
-    "ภาษาที่ซับซ้อนมากขึ้นและอาจมีคำศัพท์เฉพาะอุตสาหกรรมบางอย่าง แต่คนส่วนใหญ่ยังคงเข้าใจได้";
-$Definition["More information"] = "ข้อมูลมากกว่านี้";
-$Definition[
-    "More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter."
-] =
-    "ภาษาทางเทคนิคมากขึ้นและคำศัพท์เฉพาะอุตสาหกรรม - ถือว่ามีระดับความเข้าใจ/คุ้นเคยกับเนื้อหาที่เรียนในระดับสูง";
-$Definition["more than %s deep"] = "มากกว่า %s ลึกกว่า";
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] =
-    'กระเป๋าส่วนใหญ่ไม่ควรแสดงในแผงควบคุม';
-$Definition["Move discussions in this category to a replacement category."] =
-    "ย้ายการอภิปรายในหมวดหมู่นี้ไปยังหมวดหมู่การแทนที่";
-$Definition["My Invitations"] = "คำเชิญของฉัน";
+$Definition['Name of Interest'] = 'ชื่อที่สนใจ';
+$Definition['Need More Help?'] = 'ต้องการความช่วยเหลือเพิ่มเติมไหม?';
+$Definition['Nested Category Pages'] = 'หน้าหมวดหมู่ที่ซ้อนกัน';
+$Definition['never'] = 'ไม่เคย';
+$Definition['Never - Users Must Refresh Page'] = 'ไม่ - ผู้ใช้ต้องรีเฟรชหน้า';
+$Definition['Never display on mobile browsers.'] = 'อย่าแสดงบนเบราว์เซอร์มือถือ';
+$Definition['New/Updated Email domain'] = 'โดเมนอีเมลใหม่/อัปเดต';
+$Definition['New/Updated Profile field'] = 'โปรไฟล์ใหม่/อัปเดต';
+$Definition['NewApplicantEmail'] = 'ผู้สมัครใหม่:';
+$Definition['New comments in the last day'] = 'ความคิดเห็นใหม่ในวันสุดท้าย';
+$Definition['New comments in the last week'] = 'ความคิดเห็นใหม่ในสัปดาห์ที่ผ่านมา';
+$Definition['New Community Management System'] = 'ระบบบริหารจัดการชุมชนรูปแบบใหม่';
+$Definition['New conversations in the last day'] = 'บทสนทนาใหม่ในวันสุดท้าย';
+$Definition['New conversations in the last week'] = 'บทสนทนาใหม่ในสัปดาห์ที่แล้ว';
+$Definition['New discussions in the last day'] = 'หัวข้อกระทู้ใหม่ในวันสุดท้าย';
+$Definition['New discussions in the last week'] = 'หัวข้อกระทู้หม่ในสัปดาห์ที่ผ่านมา';
+$Definition['Newest Escalation'] = 'การยกระดับใหม่ล่าสุด';
+$Definition['Newest Post'] = 'กระทู้ใหม่ล่าสุด';
+$Definition['Newest Report'] = 'รายงานใหม่ล่าสุด';
+$Definition['New Icon'] = 'ไอคอนใหม่';
+$Definition['New messages in the last day'] = 'ข้อความใหม่ในวันสุดท้าย';
+$Definition['New messages in the last week'] = 'ข้อความใหม่ในสัปดาห์ที่ผ่านมา';
+$Definition['New User Management'] = 'การจัดการผู้ใช้ใหม่';
+$Definition['New users are only registered through SSO plugins.'] = 'ผู้ใช้ใหม่จะลงทะเบียนผ่านปลั๊กอิน SSO เท่านั้น';
+$Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'ผู้ใช้ใหม่ได้รับการตรวจสอบและอนุมัติโดยผู้ดูแลระบบ (นั่นคือคุณ!)';
+$Definition['New users fill out a simple form and are granted access immediately.'] = 'ผู้ใช้ใหม่กรอกแบบฟอร์มที่เรียบง่ายและได้รับอนุญาตให้เข้าถึงได้ทันที';
+$Definition['New users in the last day'] = 'ผู้ใช้ใหม่ในวันสุดท้าย';
+$Definition['New users in the last week'] = 'ผู้ใช้ใหม่ในสัปดาห์ที่ผ่านมา';
+$Definition['Next Slides'] = 'สไลด์ถัดไป';
+$Definition['No Ban Rules Found'] = 'ไม่พบกฎแบน';
+$Definition['No categories are currently set to require premoderation.'] = 'ขณะนี้ไม่มีหมวดหมู่ใดที่ถูกตั้งค่าให้ต้องผ่านการตรวจสอบล่วงหน้า';
+$Definition['No Change'] = 'ไม่มีการเปลี่ยนแปลง';
+$Definition['No drafts.'] = 'ไม่มีร่างจดหมาย';
+$Definition['No further suggestions.'] = 'ไม่มีข้อเสนอแนะเพิ่มเติม';
+$Definition['No icons match those filters.'] = 'ไม่มีไอคอนที่ตรงกับตัวกรองเหล่านั้น';
+$Definition['No item options are available for Link display type.'] = 'ไม่มีตัวเลือกรายการสำหรับประเภทการแสดงลิงก์';
+$Definition['No Items Selected'] = 'ไม่มีรายการที่เลือก';
+$Definition['No keywords are currently set to require premoderation.'] = 'ขณะนี้ไม่มีการตั้งค่าคำหลักใดๆ ที่ต้องใช้การตรวจสอบล่วงหน้า';
+$Definition['No report notes were provided by <0/>'] = 'ไม่มีการจัดทำบันทึกรายงานโดย <0/>';
+$Definition['No results for %s.'] = 'ไม่มีผลลัพธ์สำหรับ <b>%s</b>';
+$Definition['No roles are currently set to require premoderation.'] = 'ขณะนี้ไม่มีการตั้งค่าบทบาทใดที่ต้องได้รับการควบคุมดูแลล่วงหน้า';
+$Definition['Not Dismissable'] = 'ไม่สามารถปฏิเสธได้';
+$Definition['Note:'] = 'บันทึก:';
+$Definition['Note: Actions will not affect <0 /> that already have the associated action applied.'] = 'หมายเหตุ: การดำเนินการจะไม่ส่งผลต่อ <0 /> ที่มีการนำการดำเนินการที่เกี่ยวข้องไปใช้แล้ว';
+$Definition['Notes'] = 'หมายเหตุ';
+$Definition['Note this layout change will not be visible until you switch to custom layouts.'] = 'โปรดทราบว่าการเปลี่ยนแปลงเค้าโครงนี้จะไม่ปรากฏให้เห็นจนกว่าคุณจะสลับไปใช้เค้าโครงแบบกำหนดเอง';
+$Definition['Notifications will appear here.'] = 'การแจ้งเตือนจะปรากฏที่นี่';
+$Definition['NotifyApplicant'] = 'แจ้งให้ฉันทราบเมื่อมีผู้สมัครเป็นสมาชิก';
+$Definition['Notify me when my questions have AI Suggested Answers'] = 'แจ้งให้ฉันทราบเมื่อคำถามของฉันมี AI แนะนำคำตอบ';
+$Definition['Notify me when people comment on a discussion.'] = 'แจ้งเตือนฉันเมื่อมีคนแสดงความคิดเห็นในการอภิปราย';
+$Definition['Notify me when people start new discussions.'] = 'แจ้งเตือนฉันเมื่อมีคนเริ่มการสนทนาใหม่';
+$Definition['Not Spam'] = 'ไม่ใช่สแปม';
+$Definition['Number input must be between'] = 'การใส่ตัวเลขต้องอยู่ระหว่าง';
+$Definition['Number input must be between 1 and 100.'] = 'การป้อนตัวเลขต้องอยู่ระหว่าง 1 ถึง 100';
+$Definition['Number of %s listed per page.'] = 'จำนวน %s ที่แสดงต่อหน้า';
+$Definition['Number of blocked registrations'] = 'จำนวนการลงทะเบียนที่ถูกบล็อก';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'จำนวนวันก่อนที่อีเมลติดตามจะถูกส่งโดยอัตโนมัติ';
+$Definition['Number of days since registration to bypass Cloudflare challenge'] = 'จำนวนวันนับตั้งแต่ลงทะเบียนเพื่อหลีกเลี่ยงความท้าทายของ Cloudflare';
+$Definition['Number of posts'] = 'จำนวนโพสต์';
+$Definition['Number of posts from groups'] = 'จำนวนโพสจากกลุ่ม';
 
-$Definition["Name of Interest"] = "ชื่อที่สนใจ";
-$Definition["Need More Help?"] = "ต้องการความช่วยเหลือเพิ่มเติมไหม?";
-$Definition["never"] = "ไม่เคย";
-$Definition["Never - Users Must Refresh Page"] =
-    "ไม่ - ผู้ใช้ต้องรีเฟรชหน้า";
-$Definition["Never display on mobile browsers."] =
-    "อย่าแสดงบนเบราว์เซอร์มือถือ";
-$Definition["NewApplicantEmail"] = "ผู้สมัครใหม่:";
-$Definition["New comments in the last day"] = "ความคิดเห็นใหม่ในวันสุดท้าย";
-$Definition["New comments in the last week"] = "ความคิดเห็นใหม่ในสัปดาห์ที่ผ่านมา";
-$Definition["New conversations in the last day"] =
-    "บทสนทนาใหม่ในวันสุดท้าย";
-$Definition["New conversations in the last week"] =
-    "บทสนทนาใหม่ในสัปดาห์ที่แล้ว";
-$Definition["New discussions in the last day"] =
-    "หัวข้อกระทู้ใหม่ในวันสุดท้าย";
-$Definition["New discussions in the last week"] =
-    "หัวข้อกระทู้หม่ในสัปดาห์ที่ผ่านมา";
-$Definition["New messages in the last day"] = "ข้อความใหม่ในวันสุดท้าย";
-$Definition["New messages in the last week"] = "ข้อความใหม่ในสัปดาห์ที่ผ่านมา";
-$Definition["New User Management"] = "การจัดการผู้ใช้ใหม่";
-$Definition["New users are only registered through SSO plugins."] =
-    "ผู้ใช้ใหม่จะลงทะเบียนผ่านปลั๊กอิน SSO เท่านั้น";
-$Definition[
-    'New users are reviewed and approved by an administrator (that\'s you!).'
-] = 'ผู้ใช้ใหม่ได้รับการตรวจสอบและอนุมัติโดยผู้ดูแลระบบ (นั่นคือคุณ!)';
-$Definition[
-    "New users fill out a simple form and are granted access immediately."
-] = "ผู้ใช้ใหม่กรอกแบบฟอร์มที่เรียบง่ายและได้รับอนุญาตให้เข้าถึงได้ทันที";
-$Definition["New users in the last day"] = "ผู้ใช้ใหม่ในวันสุดท้าย";
-$Definition["New users in the last week"] = "ผู้ใช้ใหม่ในสัปดาห์ที่ผ่านมา";
-$Definition["No Ban Rules Found"] = "ไม่พบกฎแบน";
-$Definition["No Change"] = "ไม่มีการเปลี่ยนแปลง";
-$Definition["No drafts."] = "ไม่มีร่างจดหมาย";
-$Definition["No further suggestions."] = "ไม่มีข้อเสนอแนะเพิ่มเติม";
-$Definition["No item options are available for Link display type."] =
-    "ไม่มีตัวเลือกรายการสำหรับประเภทการแสดงลิงก์";
-$Definition["No Items Selected"] = "ไม่มีรายการที่เลือก";
-$Definition["No results for %s."] = "ไม่มีผลลัพธ์สำหรับ <b>%s</b>";
-$Definition["Not Dismissable"] = "ไม่สามารถปฏิเสธได้";
-$Definition["Notes"] = "หมายเหตุ";
-$Definition["Notifications will appear here."] =
-    "การแจ้งเตือนจะปรากฏที่นี่";
-$Definition["NotifyApplicant"] =
-    "แจ้งให้ฉันทราบเมื่อมีผู้สมัครเป็นสมาชิก";
-$Definition["Notify me when people comment on a discussion."] =
-    "แจ้งเตือนฉันเมื่อมีคนแสดงความคิดเห็นในการอภิปราย";
-$Definition["Notify me when my questions have AI Suggested Answers"] =
-    "แจ้งให้ฉันทราบเมื่อคำถามของฉันมี AI แนะนำคำตอบ";
-$Definition["Notify me when people start new discussions."] =
-    "แจ้งเตือนฉันเมื่อมีคนเริ่มการสนทนาใหม่";
-$Definition["Not Spam"] = "ไม่ใช่สแปม";
-$Definition["Number of %s listed per page."] = "จำนวน %s ที่แสดงต่อหน้า";
-$Definition["Number of blocked registrations"] =
-    "จำนวนการลงทะเบียนที่ถูกบล็อก";
-$Definition["Number of days before a follow-up email is automatically sent."] =
-    "จำนวนวันก่อนที่อีเมลติดตามจะถูกส่งโดยอัตโนมัติ";
-$Definition["Number input must be between"] = "การใส่ตัวเลขต้องอยู่ระหว่าง";
-$Definition["Number input must be between 1 and 100."] =
-    "การป้อนตัวเลขต้องอยู่ระหว่าง 1 ถึง 100";
-$Definition["Number of posts"] = "จำนวนโพสต์";
-$Definition["Number of posts from groups"] = "จำนวนโพสจากกลุ่ม";
+$Definition['OAuth2'] = 'โอออธ2';
+$Definition['Oldest Escalation'] = 'การยกระดับที่เก่าแก่ที่สุด';
+$Definition['Oldest Post'] = 'กระทู้เก่าที่สุด';
+$Definition['Oldest Report'] = 'รายงานเก่าแก่ที่สุด';
+$Definition['On'] = 'เปิด';
+$Definition['On Hold'] = 'อยู่ระหว่างการระงับ';
+$Definition['Only Allow Each User To Post'] = 'อนุญาตให้ผู้ใช้แต่ละคนโพสต์เท่านั้น';
+$Definition['Only display on mobile browsers.'] = 'แสดงบนเบราว์เซอร์มือถือเท่านั้น';
+$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'ใช้ได้เฉพาะช่องกาเครื่องหมายเดียว รายการแบบดร็อปดาวน์เลือกรายการเดียว รายการแบบดร็อปดาวน์เลือกหลายรายการ หรือรายการแบบดร็อปดาวน์ตัวเลขเท่านั้น เมื่อเลือกช่องแล้ว ช่องต่างๆ จะปรากฏด้านล่าง ดังนั้นคุณจึงเลือกคำตอบเฉพาะสำหรับแต่ละช่องโปรไฟล์ได้';
+$Definition['Only Show Followed Categories'] = 'แสดงเฉพาะหมวดหมู่ที่ติดตาม';
+$Definition['Only show icons that are default system icons.'] = 'แสดงเฉพาะไอคอนที่เป็นไอคอนระบบเริ่มต้นเท่านั้น';
+$Definition['Only show icons that have been overridden with custom icons.'] = 'แสดงเฉพาะไอคอนที่ถูกแทนที่โดยไอคอนที่กำหนดเอง';
+$Definition['Only visible to users with roles with permission.'] = 'ปรากฏแก่ผู้ใช้ที่มีบทบาทที่ได้รับอนุญาตเท่านั้น';
+$Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'กรณีที่เปิดอยู่จะแสดงก็ต่อเมื่อผู้ใช้มีการเชื่อมต่อ Salesforce ที่ถูกต้องเท่านั้น';
+$Definition['Operation By'] = 'โดย';
+$Definition['Organization'] = 'องค์กร';
+$Definition['Organize'] = 'จัดระเบียบ';
+$Definition['Organize Categories'] = 'จัดระเบียบหมวดหมู่';
+$Definition['Original Version'] = 'รุ่นดั้งเดิม';
+$Definition['Or select an image on your computer (2mb max)'] = 'หรือเลือกภาพในคอมพิวเตอร์ของคุณ (สูงสุด 2mb)';
+$Definition['Or Spamblock For'] = 'หรือ Spamblock สำหรับ';
+$Definition['Other Themes'] = 'ธีมอื่น ๆ';
+$Definition['Other Tutorials'] = 'บทช่วยสอนอื่น ๆ';
+$Definition['Outgoing Email'] = 'อีเมลขาออก';
+$Definition['Outgoing Email Address'] = 'ที่อยู่อีเมลขาออก';
+$Definition['Outgoing Emails'] = 'อีเมลขาออก';
 
-$Definition["On"] = "เปิด";
-$Definition["Only Allow Each User To Post"] = "อนุญาตให้ผู้ใช้แต่ละคนโพสต์เท่านั้น";
-$Definition["Only display on mobile browsers."] =
-    "แสดงบนเบราว์เซอร์มือถือเท่านั้น";
-$Definition[
-    'Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'
-] =
-    'ใช้ได้เฉพาะช่องกาเครื่องหมายเดียว รายการแบบดร็อปดาวน์เลือกรายการเดียว รายการแบบดร็อปดาวน์เลือกหลายรายการ หรือรายการแบบดร็อปดาวน์ตัวเลขเท่านั้น เมื่อเลือกช่องแล้ว ช่องต่างๆ จะปรากฏด้านล่าง ดังนั้นคุณจึงเลือกคำตอบเฉพาะสำหรับแต่ละช่องโปรไฟล์ได้';
-$Definition["Only Show Followed Categories"] = "แสดงเฉพาะหมวดหมู่ที่ติดตาม";
-$Definition["Only visible to users with roles with permission."] =
-    "ปรากฏแก่ผู้ใช้ที่มีบทบาทที่ได้รับอนุญาตเท่านั้น";
-$Definition[
-    "Open cases will only display if the user has a valid Salesforce connection."
-] =
-    "กรณีที่เปิดอยู่จะแสดงก็ต่อเมื่อผู้ใช้มีการเชื่อมต่อ Salesforce ที่ถูกต้องเท่านั้น";
-$Definition["Operation By"] = "โดย";
-$Definition["Organization"] = "องค์กร";
-$Definition["Organize"] = "จัดระเบียบ";
-$Definition["Organize Categories"] = "จัดระเบียบหมวดหมู่";
-$Definition["Original Version"] = "รุ่นดั้งเดิม";
-$Definition["Or select an image on your computer (2mb max)"] =
-    "หรือเลือกภาพในคอมพิวเตอร์ของคุณ (สูงสุด 2mb)";
-$Definition["Or Spamblock For"] = "หรือ Spamblock สำหรับ";
-$Definition["Other Themes"] = "ธีมอื่น ๆ";
-$Definition["Other Tutorials"] = "บทช่วยสอนอื่น ๆ";
-$Definition["Outgoing Email"] = "อีเมลขาออก";
-$Definition["Outgoing Emails"] = "อีเมลขาออก";
-$Definition["Outgoing Email Address"] = "ที่อยู่อีเมลขาออก";
+$Definition['Page Color'] = 'สีของหน้า';
+$Definition['Pageview ratio representing a deflected case'] = 'อัตราการดูเพจแสดงถึงกรณีที่ถูกเบี่ยงเบน';
+$Definition['Page Views'] = 'การดูหน้าเว็บ';
+$Definition['Password Minimum Length'] = 'รหัสผ่าน ความยาวขั้นต่ำ';
+$Definition['Password Options'] = 'ตัวเลือกรหัสผ่าน';
+$Definition['Passwords'] = 'รหัสผ่าน';
+$Definition['Past Events'] = 'เหตุการณ์ในอดีต';
+$Definition['Permission'] = 'การอนุญาต';
+$Definition['Permission.Category'] = 'หมวดหมู่';
+$Definition['Permissions'] = 'สิทธิ์';
+$Definition['permissions.admin'] = 'ผู้ดูแลระบบ';
+$Definition['permissions.communityManager'] = 'ผู้จัดการชุมชน';
+$Definition['permissions.everyone'] = 'ทุกคน';
+$Definition['permissions.member'] = 'สมาชิก';
+$Definition['permissions.moderator'] = 'โมเดอเรเตอร์';
+$Definition['Personal Info'] = 'ข้อมูลส่วนตัว';
+$Definition['Please Confirm'] = 'กรุณายืนยัน';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'โปรดป้อนป้ายกำกับ API ที่ไม่ซ้ำกัน ป้ายนี้เคยใช้มาก่อน';
+$Definition['Plugin'] = 'เสียบเข้าไป';
+$Definition['Plugins'] = 'ปลั๊กอิน';
+$Definition['Pocket'] = 'กระเป๋าเสื้อ';
+$Definition['Pockets'] = 'กระเป๋า';
+$Definition['Points'] = 'คะแนน';
+$Definition['Polls'] = 'โพล';
+$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'ปัญหาความเข้ากันได้ที่อาจเกิดขึ้นกับเบราว์เซอร์รุ่นเก่า ส่งผลต่อประสบการณ์ผู้ใช้';
+$Definition['Post & Comment Editing'] = 'การแก้ไขโพสต์และความคิดเห็น';
+$Definition['Posted by <0/> in <1/>'] = 'โพสต์โดย <0/> ใน <1/>';
+$Definition['Post External Links'] = 'โพสต์ลิงค์ภายนอก';
+$Definition['Post Format'] = 'รูปแบบโพสต์';
+$Definition['Posting'] = 'โพสต์';
+$Definition['Posting Category Pages'] = 'การโพสต์หน้าหมวดหมู่';
+$Definition['Posting Settings'] = 'โพสต์การตั้งค่า';
+$Definition['Post Layout Settings'] = 'การตั้งค่าเค้าโครงโพสต์';
+$Definition['Post Layout Version'] = 'เวอร์ชันเค้าโครงโพสต์';
+$Definition['Post Management'] = 'การจัดการโพสต์';
+$Definition['Post Pages'] = 'หน้าโพสต์';
+$Definition['Post Rejected'] = 'โพสต์ถูกปฏิเสธ';
+$Definition['Post Revision'] = 'โพสต์แก้ไข';
+$Definition['Posts Matching Criteria Now: <0 />'] = 'โพสต์ที่ตรงตามเกณฑ์ขณะนี้: <0 />';
+$Definition['Posts per Page'] = 'โพสต์ต่อหน้า';
+$Definition['Posts with any of the following keywords or phrases will required moderator approval.'] = 'โพสต์ที่มีคำหลักหรือวลีใดๆ ต่อไปนี้จะต้องได้รับการอนุมัติจากผู้ดูแลระบบ';
+$Definition['Preload'] = 'โหลดล่วงหน้า';
+$Definition['Premoderated Categories'] = 'หมวดหมู่ที่ถูกควบคุมล่วงหน้า';
+$Definition['Premoderated Keywords'] = 'คีย์เวิร์ดที่ผ่านการกลั่นกรองล่วงหน้า';
+$Definition['Premoderated Roles'] = 'บทบาทที่ได้รับการดูแลล่วงหน้า';
+$Definition['Premoderation Settings'] = 'การตั้งค่าก่อนการกลั่นกรอง';
+$Definition['Preview Color'] = 'ตัวอย่างสี';
+$Definition['Preview Colors'] = 'ดูตัวอย่างสี';
+$Definition['Preview Icon Pack'] = 'แพ็คไอคอนตัวอย่าง';
+$Definition['Previews'] = 'ตัวอย่าง';
+$Definition['Previous Icons'] = 'ไอคอนก่อนหน้า';
+$Definition['Previous Slides'] = 'สไลด์ก่อนหน้า';
+$Definition['Previous versions of your icons can be found here and restored at any time.'] = 'คุณสามารถค้นหาเวอร์ชันก่อนหน้าของไอคอนได้ที่นี่ และสามารถเรียกคืนได้ตลอดเวลา';
+$Definition['Private Communities'] = 'ชุมชนส่วนตัว';
+$Definition['private conversation(s)'] = 'บทสนทนาส่วนตัว (s)';
+$Definition['Private Key'] = 'รหัสส่วนตัว';
+$Definition['Professional'] = 'มืออาชีพ';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'โปรโตคอล (เช่น https://) และเส้นทาง (เช่น yourdomain.com/some/path) ควรละเว้น';
+$Definition['Provider'] = 'ผู้ให้บริการ';
+$Definition['Public Key'] = 'กุญแจสาธารณะ';
 
-$Definition["Page Color"] = "สีของหน้า";
-$Definition["Page Views"] = "การดูหน้าเว็บ";
-$Definition["Pageview ratio representing a deflected case"] =
-    "อัตราการดูเพจแสดงถึงกรณีที่ถูกเบี่ยงเบน";
-$Definition["Passwords"] = "รหัสผ่าน";
-$Definition["Password Options"] = "ตัวเลือกรหัสผ่าน";
-$Definition["Password Minimum Length"] = "รหัสผ่าน ความยาวขั้นต่ำ";
-$Definition["Past Events"] = "เหตุการณ์ในอดีต";
-$Definition["Permission"] = "การอนุญาต";
-$Definition["Permission.Category"] = "หมวดหมู่";
-$Definition["Permissions"] = "สิทธิ์";
-$Definition["permissions.everyone"] = "ทุกคน";
-$Definition["permissions.member"] = "สมาชิก";
-$Definition["permissions.moderator"] = "โมเดอเรเตอร์";
-$Definition["permissions.communityManager"] = "ผู้จัดการชุมชน";
-$Definition["permissions.admin"] = "ผู้ดูแลระบบ";
-$Definition["Personal Info"] = "ข้อมูลส่วนตัว";
-$Definition["Please Confirm"] = "กรุณายืนยัน";
-$Definition["Please enter a unique API Label, this one has been used before"] =
-    "โปรดป้อนป้ายกำกับ API ที่ไม่ซ้ำกัน ป้ายนี้เคยใช้มาก่อน";
-$Definition["Plugin"] = "เสียบเข้าไป";
-$Definition["Plugins"] = "ปลั๊กอิน";
-$Definition["Pocket"] = "กระเป๋าเสื้อ";
-$Definition["Pockets"] = "กระเป๋า";
-$Definition["Points"] = "คะแนน";
-$Definition["Polls"] = "โพล";
-$Definition[
-    "Possible compatibility problems with older browsers, affecting user experience."
-] =
-    "ปัญหาความเข้ากันได้ที่อาจเกิดขึ้นกับเบราว์เซอร์รุ่นเก่า ส่งผลต่อประสบการณ์ผู้ใช้";
-$Definition["Post External Links"] = "โพสต์ลิงค์ภายนอก";
-$Definition["Posting Settings"] = "โพสต์การตั้งค่า";
-$Definition["Preload"] = "โหลดล่วงหน้า";
-$Definition["Preview Colors"] = "ดูตัวอย่างสี";
-$Definition["Private Communities"] = "ชุมชนส่วนตัว";
-$Definition["private conversation(s)"] = "บทสนทนาส่วนตัว (s)";
-$Definition["Private Key"] = "รหัสส่วนตัว";
-$Definition["Professional"] = "มืออาชีพ";
-$Definition[
-    "Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted."
-] =
-    "โปรโตคอล (เช่น https://) และเส้นทาง (เช่น yourdomain.com/some/path) ควรละเว้น";
-$Definition["Provider"] = "ผู้ให้บริการ";
-$Definition["Public Key"] = "กุญแจสาธารณะ";
+$Definition['QnAFollowup.Feature.Enabled'] = 'คุณลักษณะนี้จะส่งอีเมลไปยังผู้เขียนคำถามที่ตอบแล้วซึ่งไม่มีคำตอบที่ยอมรับ';
+$Definition['Question Pages'] = 'หน้าคำถาม';
 
-$Definition["Rank Changes"] = "การเปลี่ยนแปลงอันดับ";
-$Definition["Ranks"] = "อันดับ";
-$Definition["Read more in the documentation"] =
-    "อ่านเพิ่มเติมในเอกสารประกอบ";
-$Definition["Re-Register API Key"] = "ลงทะเบียนรหัส API ใหม่";
-$Definition["Register IP"] = "IP ลงทะเบียน";
-$Definition["Reaction Types"] = "ประเภทปฏิกิริยา";
-$Definition["Recalculate Counts"] = "คำนวณจำนวนใหม่";
-$Definition["Recently Active Users"] = "ผู้ใช้งานล่าสุด";
-$Definition["Recently Commented"] = "แสดงความคิดเห็นล่าสุด";
-$Definition["Recently Added"] = "เพิ่มเร็ว ๆ นี้";
-$Definition["Recent News"] = "ข่าวล่าสุด";
-$Definition["Recent Posts Layout Settings"] = "การตั้งค่าเค้าโครงโพสต์ล่าสุด";
-$Definition["Recent Posts Pages"] = "หน้าโพสต์ล่าสุด";
-$Definition["Recent Posts Layout Version"] = "เวอร์ชันเค้าโครงโพสต์ล่าสุด";
+$Definition['Rank Changes'] = 'การเปลี่ยนแปลงอันดับ';
+$Definition['Ranks'] = 'อันดับ';
+$Definition['Re-Register API Key'] = 'ลงทะเบียนรหัส API ใหม่';
+$Definition['Reaction Types'] = 'ประเภทปฏิกิริยา';
+$Definition['Read more in the documentation'] = 'อ่านเพิ่มเติมในเอกสารประกอบ';
+$Definition['Recalculate Counts'] = 'คำนวณจำนวนใหม่';
+$Definition['Recently Active Users'] = 'ผู้ใช้งานล่าสุด';
+$Definition['Recently Added'] = 'เพิ่มเร็ว ๆ นี้';
+$Definition['Recently Commented'] = 'แสดงความคิดเห็นล่าสุด';
+$Definition['Recent News'] = 'ข่าวล่าสุด';
+$Definition['Recent Posts Layout Settings'] = 'การตั้งค่าเค้าโครงโพสต์ล่าสุด';
+$Definition['Recent Posts Layout Version'] = 'เวอร์ชันเค้าโครงโพสต์ล่าสุด';
+$Definition['Recent Posts Pages'] = 'หน้าโพสต์ล่าสุด';
+$Definition['Recipient'] = 'ผู้รับ';
+$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'ขนาดที่แนะนำคือ 400 พิกเซล x 300 พิกเซล หรือเล็กกว่า โดยมีอัตราส่วนที่ใกล้เคียงกัน';
+$Definition['Record Content'] = 'เนื้อหา';
+$Definition['Refresh Comments'] = 'รีเฟรชความคิดเห็น';
+$Definition['Regenerate AI Suggestions'] = 'สร้างข้อเสนอแนะ AI ใหม่';
+$Definition['Regenerate Suggestions'] = 'สร้างข้อเสนอแนะใหม่';
+$Definition['Register for Membership'] = 'ลงทะเบียนเป็นสมาชิก';
+$Definition['Register IP'] = 'IP ลงทะเบียน';
+$Definition['Register Url'] = 'ลงทะเบียน URL';
+$Definition['Registration'] = 'การลงทะเบียน';
+$Definition['Registration is currently closed.'] = 'ปิดการลงทะเบียนในขณะนี้';
+$Definition['Reinterpret All Posts As %s'] = 'ตีความโพสต์ทั้งหมดใหม่เป็น %s';
+$Definition['Reload the page to access recent updates.'] = 'โหลดหน้านี้ซ้ำเพื่อเข้าถึงการอัปเดตล่าสุด';
+$Definition['Reload the page to see recent updates.'] = 'โหลดหน้าซ้ำเพื่อดูการอัปเดตล่าสุด';
+$Definition['Remove Banner Logo'] = 'ลบโลโก้แบนเนอร์';
+$Definition['Remove Email Logo'] = 'ลบโลโก้อีเมล';
+$Definition['Remove Favicon'] = 'ลบ Favicon';
+$Definition['Remove from collection'] = 'ลบออกจากคอลเลกชั่น';
+$Definition['Remove from collection:'] = 'ลบออกจากคอลเลกชัน:';
+$Definition['Remove from default follow list'] = 'ลบออกจากรายการติดตามเริ่มต้น';
+$Definition['Remove from trigger collection'] = 'ลบออกจากคอลเลกชันทริกเกอร์';
+$Definition['Remove Method'] = 'วิธีการลบออก';
+$Definition['Remove Post'] = 'ลบโพสต์';
+$Definition['Reorder'] = 'เรียงลำดับใหม่';
+$Definition['Reorder Columns'] = 'จัดลำดับคอลัมน์ใหม่';
+$Definition['Reorder Report Reasons'] = 'เหตุผลในการเรียงลำดับรายงานใหม่';
+$Definition['Repeat'] = 'ทำซ้ำ';
+$Definition['Repeat Every'] = 'ทำซ้ำทุก ๆ';
+$Definition['Replace Image'] = 'แทนที่ภาพ';
+$Definition['Replacement Category'] = 'หมวดทดแทน';
+$Definition['Replacement Role'] = 'บทบาทการเปลี่ยน';
+$Definition['Reply  To'] = 'ตอบกลับ';
+$Definition['reply to private conversation(s)'] = 'ตอบกลับการสนทนาส่วนตัว';
+$Definition['report'] = 'รายงาน';
+$Definition['Report Dismissed'] = 'รายงานถูกยกเลิก';
+$Definition['Reported by <0/>'] = 'รายงานโดย <0/>';
+$Definition['Report Reasons'] = 'เหตุผลในการรายงาน';
+$Definition['reports'] = 'รายงาน';
+$Definition['Reports for <0/>'] = 'รายงานสำหรับ <0/>';
+$Definition['Request'] = 'ขอร้อง';
+$Definition['Requests'] = 'คำขอ';
+$Definition['Required field'] = 'ช่องที่จำเป็น';
+$Definition['Requires'] = 'ต้องมี';
+$Definition['Requires: '] = 'ต้องมี:';
+$Definition['Require Terms of Service'] = 'กำหนดให้ผู้ใช้ต้องยอมรับเงื่อนไขการบริการ (แนะนำ)';
+$Definition['Require users to agree to the Terms of Service (recommended)'] = 'กำหนดให้ผู้ใช้ต้องยอมรับเงื่อนไขการบริการ (แนะนำ)';
+$Definition['Require users to confirm their email addresses (recommended)'] = 'กำหนดให้ผู้ใช้ยืนยันที่อยู่อีเมล (แนะนำ)';
+$Definition['Rescan'] = 'สแกนอีกครั้ง';
+$Definition['Reset'] = 'ตั้งค่าใหม่';
+$Definition['Reset my password'] = 'รีเซ็ตรหัสผ่านของฉัน';
+$Definition['Reset password and send email notification to user'] = 'รีเซ็ตรหัสผ่านและส่งอีเมลแจ้งเตือนไปยังผู้ใช้';
+$Definition['Resetting the password for %s.'] = 'รีเซ็ตรหัสผ่านสำหรับ %s';
+$Definition['Reset to Default'] = 'รีเซ็ตเป็นค่าเริ่มต้น';
+$Definition['Resolve All'] = 'แก้ไขทั้งหมด';
+$Definition['Resolve All Discussions'] = 'แก้ไขการสนทนาทั้งหมด';
+$Definition['Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics.'] = 'การแก้ไขโพสต์ทั้งหมดจะแก้ไขโพสต์ที่มีอยู่ทั้งหมดในชุมชน การดำเนินการเป็นกลุ่มนี้จะไม่เรียกใช้เว็บฮุกหรือการวิเคราะห์';
+$Definition['Resolve post'] = 'แก้ไขโพสต์';
+$Definition['Restart'] = 'เริ่มต้นใหม่';
+$Definition['Reveal Password'] = 'เปิดเผยรหัสผ่าน';
+$Definition['Revert'] = 'เปลี่ยนกลับ';
+$Definition['Revert to Original Version'] = 'เปลี่ยนกลับเป็นเวอร์ชันดั้งเดิม';
+$Definition['Revision Label:'] = 'ฉลากที่มีการแก้ไข:';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'ใช้ตัวเลือกต่อไปนี้เพื่อเปิดใช้งานการเสนอราคาสำหรับ Rich Editor การดำเนินการนี้จะใช้เฉพาะหากตัวจัดรูปแบบเริ่มต้นคือ "Rich"';
+$Definition['ROI Calculation Documentation'] = 'เอกสารการคำนวณ ROI';
+$Definition['Role'] = 'บทบาท';
+$Definition['Role Applicants'] = 'ผู้สมัครตามบทบาท';
+$Definition['Role Name'] = 'ชื่อบทบาท';
+$Definition['Role Permissions'] = 'การอนุญาตบทบาท';
+$Definition['RolePersonalInfo'] = 'บทบาทนี้เป็นข้อมูลส่วนบุคคล เฉพาะผู้ใช้ที่ได้รับอนุญาตให้ดูข้อมูลส่วนบุคคลเท่านั้นที่จะเห็น';
+$Definition['Role Request Status'] = 'สถานะ';
+$Definition['Roles & Permissions'] = 'บทบาทและการอนุญาต';
+$Definition['Roles determine user\'s permissions.'] = 'ผู้ใช้ทุกคนในไซต์ของคุณถูกกำหนดให้อย่างน้อยหนึ่งบทบาท บทบาทถูกใช้เพื่อกำหนดสิ่งที่ผู้ใช้ได้รับอนุญาตให้ทำ';
+$Definition['Role to Grant'] = 'บทบาทที่จะให้';
+$Definition['Route'] = 'เส้นทาง';
+$Definition['Routes'] = 'เส้นทาง';
+$Definition['RSVP'] = 'ตอบกลับ';
+$Definition['Rule Action'] = 'กฎการดำเนินการ';
+$Definition['Rule may not be deleted while it is running'] = 'ไม่สามารถลบกฎได้ในขณะที่กำลังทำงานอยู่';
+$Definition['Rule may not be edited while it is running'] = 'ห้ามแก้ไขกฎในขณะที่กำลังทำงาน';
+$Definition['Rule Name'] = 'ชื่อกฎ';
+$Definition['Rules'] = 'กฎระเบียบ';
+$Definition['Rule status will apply once current run completes'] = 'สถานะกฎจะนำไปใช้เมื่อการทำงานปัจจุบันเสร็จสิ้น';
+$Definition['Rule Trigger'] = 'กฎการทริกเกอร์';
+$Definition['Running'] = 'วิ่ง';
+$Definition['Run structure & data scripts'] = 'เรียกใช้สคริปต์โครงสร้างและข้อมูล';
 
-$Definition[
-    "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
-] =
-    "ขนาดที่แนะนำคือ 400 พิกเซล x 300 พิกเซล หรือเล็กกว่า โดยมีอัตราส่วนที่ใกล้เคียงกัน";
-$Definition["Record Content"] = "เนื้อหา";
-$Definition["Recipient"] = "ผู้รับ";
-$Definition["Refresh Comments"] = "รีเฟรชความคิดเห็น";
-$Definition["Regenerate AI Suggestions"] = "สร้างข้อเสนอแนะ AI ใหม่";
-$Definition["Regenerate Suggestions"] = "สร้างข้อเสนอแนะใหม่";
-$Definition["Register for Membership"] = "ลงทะเบียนเป็นสมาชิก";
-$Definition["Register Url"] = "ลงทะเบียน URL";
-$Definition["Registration"] = "การลงทะเบียน";
-$Definition["Registration is currently closed."] =
-    "ปิดการลงทะเบียนในขณะนี้";
-$Definition["Reload the page to see recent updates."] =
-    "โหลดหน้าซ้ำเพื่อดูการอัปเดตล่าสุด";
-$Definition["Reload the page to access recent updates."] =
-    "โหลดหน้านี้ซ้ำเพื่อเข้าถึงการอัปเดตล่าสุด";
-$Definition["Remove Banner Logo"] = "ลบโลโก้แบนเนอร์";
-$Definition["Remove Email Logo"] = "ลบโลโก้อีเมล";
-$Definition["Remove Favicon"] = "ลบ Favicon";
-$Definition["Reorder Columns"] = "จัดลำดับคอลัมน์ใหม่";
-$Definition["Repeat"] = "ทำซ้ำ";
-$Definition["Repeat Every"] = "ทำซ้ำทุก ๆ";
-$Definition["Replace Image"] = "แทนที่ภาพ";
-$Definition["Replacement Category"] = "หมวดทดแทน";
-$Definition["Replacement Role"] = "บทบาทการเปลี่ยน";
-$Definition["Reply  To"] = "ตอบกลับ";
-$Definition["reply to private conversation(s)"] =
-    "ตอบกลับการสนทนาส่วนตัว";
-$Definition["Request"] = "ขอร้อง";
-$Definition["Requests"] = "คำขอ";
-$Definition["Requires"] = "ต้องมี";
-$Definition["Requires: "] = "ต้องมี:";
-$Definition["Require Terms of Service"] =
-    "กำหนดให้ผู้ใช้ต้องยอมรับเงื่อนไขการบริการ (แนะนำ)";
-$Definition["Require users to confirm their email addresses (recommended)"] =
-    "กำหนดให้ผู้ใช้ยืนยันที่อยู่อีเมล (แนะนำ)";
-$Definition["Require users to agree to the Terms of Service (recommended)"] =
-    "กำหนดให้ผู้ใช้ต้องยอมรับเงื่อนไขการบริการ (แนะนำ)";
-$Definition["Rescan"] = "สแกนอีกครั้ง";
-$Definition["Reset"] = "ตั้งค่าใหม่";
-$Definition["Reset my password"] = "รีเซ็ตรหัสผ่านของฉัน";
-$Definition["Reset password and send email notification to user"] =
-    "รีเซ็ตรหัสผ่านและส่งอีเมลแจ้งเตือนไปยังผู้ใช้";
-$Definition["Reset to Default"] = "รีเซ็ตเป็นค่าเริ่มต้น";
-$Definition["Resetting the password for %s."] =
-    "รีเซ็ตรหัสผ่านสำหรับ %s";
-$Definition["Restart"] = "เริ่มต้นใหม่";
-$Definition["Reveal Password"] = "เปิดเผยรหัสผ่าน";
-$Definition["Revert"] = "เปลี่ยนกลับ";
-$Definition["Revert to Original Version"] = "เปลี่ยนกลับเป็นเวอร์ชันดั้งเดิม";
-$Definition["Revision Label:"] = "ฉลากที่มีการแก้ไข:";
-$Definition["ROI Calculation Documentation"] = "เอกสารการคำนวณ ROI";
-$Definition["Role"] = "บทบาท";
-$Definition["Assign to"] = "มอบหมายให้";
-$Definition["Role Applicants"] = "ผู้สมัครตามบทบาท";
-$Definition["Role Name"] = "ชื่อบทบาท";
-$Definition["Role Permissions"] = "การอนุญาตบทบาท";
-$Definition["RolePersonalInfo"] =
-    "บทบาทนี้เป็นข้อมูลส่วนบุคคล เฉพาะผู้ใช้ที่ได้รับอนุญาตให้ดูข้อมูลส่วนบุคคลเท่านั้นที่จะเห็น";
-$Definition["Roles & Permissions"] = "บทบาทและการอนุญาต";
-$Definition['Roles determine user\'s permissions.'] =
-    "ผู้ใช้ทุกคนในไซต์ของคุณถูกกำหนดให้อย่างน้อยหนึ่งบทบาท บทบาทถูกใช้เพื่อกำหนดสิ่งที่ผู้ใช้ได้รับอนุญาตให้ทำ";
-$Definition["Role Request Status"] = "สถานะ";
-$Definition["Role to Grant"] = "บทบาทที่จะให้";
-$Definition["Route"] = "เส้นทาง";
-$Definition["Routes"] = "เส้นทาง";
-$Definition["Rules"] = "กฎระเบียบ";
-$Definition["Run structure & data scripts"] = "เรียกใช้สคริปต์โครงสร้างและข้อมูล";
-$Definition["RSVP"] = "ตอบกลับ";
+$Definition['Save Captured Definitions'] = 'บันทึกคำจำกัดความที่บันทึกไว้';
+$Definition['Save challenge cutoff age'] = 'บันทึกความท้าทายตัดอายุ';
+$Definition['Save Colors'] = 'บันทึกสี';
+$Definition['Score Count'] = 'การนับคะแนน';
+$Definition['Search by user or role.'] = 'ค้นหาผู้ใช้ด้วยชื่อหรืออีเมลโดยใช้% เป็นตัวเลือกแทน คุณยังสามารถค้นหาด้วย ID ผู้ใช้ชื่อของบทบาทหรือ“ ถูกแบน”';
+$Definition['Search Query'] = 'การค้นหา';
+$Definition['Search Result In New Tab'] = 'ผลการค้นหาในแท็บใหม่';
+$Definition['Search results of members'] = 'ผลการค้นหาสมาชิก';
+$Definition['SearchScope.Everywhere'] = 'ทุกที่';
+$Definition['seconds'] = 'วินาที';
+$Definition['Security'] = 'ความปลอดภัย';
+$Definition['See also'] = 'ดูสิ่งนี้ด้วย';
+$Definition['See documentation for more information.'] = 'โปรดดูเอกสารประกอบเพื่อดูข้อมูลเพิ่มเติม';
+$Definition['See link'] = 'ดูลิงค์';
+$Definition['Select'] = 'เลือก';
+$Definition['Select a category'] = 'เลือกหมวดหมู่';
+$Definition['Selection will affect the item options available.'] = 'การเลือกจะส่งผลต่อตัวเลือกรายการที่มีอยู่';
+$Definition['Select the action that will occur when this rule is triggered.'] = 'เลือกการดำเนินการที่จะเกิดขึ้นเมื่อมีการเรียกใช้กฎนี้';
+$Definition['Select the location of the pocket.'] = 'เลือกตำแหน่งของกระเป๋า';
+$Definition['Select the trigger that will cause this rule to run.'] = 'เลือกทริกเกอร์ที่จะทำให้กฎนี้ทำงาน';
+$Definition['Select which columns are displayed on the manage users page list.'] = 'เลือกคอลัมน์ที่จะแสดงในรายการเพจจัดการผู้ใช้';
+$Definition['Send %s a Message'] = 'ส่ง %s ข้อความ';
+$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'ส่งอีเมลยืนยันเมื่อมีคนถามคำถามหรือเริ่มการสนทนาทางอีเมล';
+$Definition['Send Again'] = 'ส่งอีกครั้ง';
+$Definition['Send a Test Email'] = 'ส่งอีเมล์ทดสอบ';
+$Definition['Send Invitations!'] = 'ส่งคำเชิญ!';
+$Definition['Send Test Digest'] = 'ส่งสรุปการทดสอบ';
+$Definition['Send Test Email Digest'] = 'ส่งอีเมลสรุปการทดสอบ';
+$Definition['Send users a welcome email.'] = 'ส่งอีเมลยินดีต้อนรับผู้ใช้';
+$Definition['sentiment'] = 'ความรู้สึก';
+$Definition['Sent To'] = 'ส่งไปยัง';
+$Definition['Separate each word with a semi-colon ";"'] = 'คั่นแต่ละคำด้วยเครื่องหมายเซมิโคลอน ";"';
+$Definition['Set as Active'] = 'ตั้งค่าเป็นใช้งานอยู่';
+$Definition['Set as default layout for all <0 />.'] = 'ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับทั้งหมด <0 />';
+$Definition['Set as default layout for specific knowledge bases.'] = 'ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับฐานความรู้เฉพาะเจาะจง';
+$Definition['Set as default layout for specific subcommunities.'] = 'ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับชุมชนย่อยที่เฉพาะเจาะจง';
+$Definition['Set Post Visibility to Hidden'] = 'ตั้งค่าการมองเห็นโพสต์เป็นซ่อน';
+$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'ตั้งค่าความสนใจนี้เป็นค่าเริ่มต้น เพื่อแนะนำหมวดหมู่และแท็กที่แมปไว้ให้กับผู้ใช้ทั้งหมด';
+$Definition['Set trigger variable and action variable to generate a rule summary.'] = 'ตั้งค่าตัวแปรทริกเกอร์และตัวแปรการกระทำเพื่อสร้างสรุปกฎ';
+$Definition['Share Image'] = 'แบ่งปันรูปภาพ';
+$Definition['Show'] = 'แสดง';
+$Definition['Show all categories'] = 'แสดงหมวดหมู่ทั้งหมด';
+$Definition['Show an uploaded image on the Category page.'] = 'การอภิปรายแต่ละครั้งจะแสดงภาพที่อัปโหลดในหน้าหมวดหมู่ ใช้กับหมวดหมู่ที่มี "การสนทนา" เป็น "แสดงเป็น" เท่านั้น';
+$Definition['Show Badges'] = 'แสดงป้าย';
+$Definition['Show Dismissed Suggestions'] = 'แสดงข้อเสนอแนะที่ถูกยกเลิก';
+$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'แสดงรายการแนวคิดส่วนตัวที่พวกเขาสร้างหรือโหวตให้ผู้ใช้แต่ละคน';
+$Definition['Show OP Indicator'] = 'แสดงตัวบ่งชี้ OP';
+$Definition['Show Original Suggestions'] = 'แสดงข้อเสนอแนะต้นฉบับ';
+$Definition['Show Pocket Locations'] = 'แสดงตำแหน่งพ็อกเก็ต';
+$Definition['Show Suggestions'] = 'แสดงข้อเสนอแนะ';
+$Definition['Show users\' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking.'] = 'แสดงป้ายของผู้ใช้ในแต่ละโพสต์ สามารถแสดงป้ายได้สูงสุด 5 ป้ายตามลำดับอันดับสูงสุด';
+$Definition['Signatures'] = 'ลายเซ็น';
+$Definition['SignedOut'] = 'คุณออกจากระบบแล้ว';
+$Definition['Sign In Url'] = 'ลงชื่อเข้าใช้ URL';
+$Definition['since'] = 'เนื่องจาก';
+$Definition['Site Description'] = 'คำอธิบายเว็บไซต์';
+$Definition['Site Name'] = 'ชื่อเว็บไซต์';
+$Definition['Skip to end of Carousel'] = 'ข้ามไปยังจุดสิ้นสุดของ Carousel';
+$Definition['Slug'] = 'กระสุน';
+$Definition['SMTP Host'] = 'โฮสต์ SMTP';
+$Definition['SMTP Password'] = 'รหัสผ่าน SMTP';
+$Definition['SMTP Port'] = 'พอร์ต SMTP';
+$Definition['SMTP Security'] = 'ความปลอดภัยของ SMTP';
+$Definition['SMTP User'] = 'ผู้ใช้ SMTP';
+$Definition['Social Connect'] = 'สื่อสังคม';
+$Definition['Social Connect Addons'] = 'การเชื่อมต่อสื่อโซเชียล Addons';
+$Definition['Sort Order'] = 'เรียงลำดับ';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'แหล่งที่มาที่ถูกเลือกที่นี่จะพร้อมให้ AI เสนอคำตอบ';
+$Definition['Spam Detection'] = 'การตรวจจับสแปม';
+$Definition['Specify one domain per line. Use * for wildcard matches.'] = 'ระบุหนึ่งโดเมนต่อบรรทัด ใช้ * สำหรับการจับคู่ไวด์การ์ด';
+$Definition['Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.'] = 'ใช้เวลาคิดสักเล็กน้อยเกี่ยวกับวิธีที่คุณอธิบายไซต์ของคุณที่นี่ การให้เว็บไซต์ของคุณมีชื่อที่มีความหมายและคำอธิบายที่กระชับสามารถช่วยให้ตำแหน่งของคุณในเครื่องมือค้นหา';
+$Definition['Spoof'] = 'หลอก';
+$Definition['SSO Role'] = 'บทบาทสส';
+$Definition['SSO roles are always passed through SSO.'] = 'บทบาท SSO จะส่งผ่าน SSO เสมอ';
+$Definition['Start Discussions'] = 'เริ่มการสนทนา';
+$Definition['Start Private Conversations'] = 'เริ่มการสนทนาส่วนตัว';
+$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'เริ่มบรรทัดหัวเรื่องสรุปโดยตั้งค่า [ชื่อแบนเนอร์] ในลักษณะที่ปรากฏ > การสร้างแบรนด์และ SEO';
+$Definition['Start typing username'] = 'เริ่มพิมพ์ชื่อผู้ใช้';
+$Definition['State'] = 'สถานะ';
+$Definition['Statistics'] = 'สถิติ';
+$Definition['Status on Creation'] = 'สถานะการสร้าง';
+$Definition['Strip Embeds'] = 'แถบฝัง';
+$Definition['Style'] = 'สไตล์';
+$Definition['Style Guides'] = 'คู่มือสไตล์';
+$Definition['Styles'] = 'รูปแบบ';
+$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'รูปแบบและรูปลักษณ์ทั่วไปของอีเมลทั้งหมด รวมถึงเนื้อหาอีเมล ได้รับการตั้งค่าทั่วทั้งไซต์ในหน้าการตั้งค่าอีเมล';
+$Definition['Subcommunity'] = 'ชุมชนย่อย';
+$Definition['Subject Line and Title'] = 'หัวเรื่องและชื่อเรื่อง';
+$Definition['subscribers'] = 'สมาชิก';
+$Definition['Suggested Answers Options'] = 'ตัวเลือกคำตอบที่แนะนำ';
+$Definition['Suggested Content'] = 'เนื้อหาที่แนะนำ';
+$Definition['Suggested Discussion Title'] = 'หัวข้อการสนทนาที่แนะนำ';
+$Definition['Suggested Follows'] = 'แนะนำให้ทำตาม';
+$Definition['Suggestions are only visible to you until you accept the answer'] = 'คำแนะนำจะมองเห็นได้เฉพาะคุณเท่านั้น จนกว่าคุณจะยอมรับคำตอบ';
+$Definition['Suggestions may only be generated on questions'] = 'ข้อเสนอแนะสามารถสร้างได้เฉพาะคำถามเท่านั้น';
+$Definition['Summary'] = 'สรุป';
+$Definition['System Icon'] = 'ไอคอนระบบ';
 
-$Definition["Save Captured Definitions"] = "บันทึกคำจำกัดความที่บันทึกไว้";
-$Definition["Save Colors"] = "บันทึกสี";
-$Definition["Score Count"] = "การนับคะแนน";
-$Definition["Search by user or role."] =
-    "ค้นหาผู้ใช้ด้วยชื่อหรืออีเมลโดยใช้% เป็นตัวเลือกแทน คุณยังสามารถค้นหาด้วย ID ผู้ใช้ชื่อของบทบาทหรือ“ ถูกแบน”";
-$Definition["Search Result In New Tab"] = "ผลการค้นหาในแท็บใหม่";
-$Definition["Search results of members"] = "ผลการค้นหาสมาชิก";
-$Definition["Search Query"] = "การค้นหา";
-$Definition["SearchScope.Everywhere"] = "ทุกที่";
-$Definition["seconds"] = "วินาที";
-$Definition["Security"] = "ความปลอดภัย";
-$Definition["See also"] = "ดูสิ่งนี้ด้วย";
-$Definition["See link"] = "ดูลิงค์";
-$Definition["Select"] = "เลือก";
-$Definition["Select a category"] = "เลือกหมวดหมู่";
-$Definition["Select the location of the pocket."] =
-    "เลือกตำแหน่งของกระเป๋า";
-$Definition[
-    "Select which columns are displayed on the manage users page list."
-] = "เลือกคอลัมน์ที่จะแสดงในรายการเพจจัดการผู้ใช้";
-$Definition["Selection will affect the item options available."] =
-    "การเลือกจะส่งผลต่อตัวเลือกรายการที่มีอยู่";
-$Definition["Send %s a Message"] = "ส่ง %s ข้อความ";
-$Definition[
-    "Send a confirmation email when people ask a question or start a discussion over email."
-] =
-    "ส่งอีเมลยืนยันเมื่อมีคนถามคำถามหรือเริ่มการสนทนาทางอีเมล";
-$Definition["Send Again"] = "ส่งอีกครั้ง";
-$Definition["Send a Test Email"] = "ส่งอีเมล์ทดสอบ";
-$Definition["Send Test Digest"] = "ส่งสรุปการทดสอบ";
-$Definition["Send Test Email Digest"] = "ส่งอีเมลสรุปการทดสอบ";
-$Definition["Send Invitations!"] = "ส่งคำเชิญ!";
-$Definition["Send users a welcome email."] = "ส่งอีเมลยินดีต้อนรับผู้ใช้";
-$Definition["Sent To"] = "ส่งไปยัง";
-$Definition['Separate each word with a semi-colon ";"'] =
-    'คั่นแต่ละคำด้วยเครื่องหมายเซมิโคลอน ";"';
-$Definition[
-    "Set this interest as default to suggest following its mapped categories and tags to all users."
-] =
-    "ตั้งค่าความสนใจนี้เป็นค่าเริ่มต้น เพื่อแนะนำหมวดหมู่และแท็กที่แมปไว้ให้กับผู้ใช้ทั้งหมด";
-$Definition["Share Image"] = "แบ่งปันรูปภาพ";
-$Definition["Show all categories"] = "แสดงหมวดหมู่ทั้งหมด";
-$Definition["Show Dismissed Suggestions"] = "แสดงข้อเสนอแนะที่ถูกยกเลิก";
-$Definition["Show Pocket Locations"] = "แสดงตำแหน่งพ็อกเก็ต";
-$Definition[
-    "Show each user a personalized list of ideas they’ve created or upvoted."
-] = "แสดงรายการแนวคิดส่วนตัวที่พวกเขาสร้างหรือโหวตให้ผู้ใช้แต่ละคน";
-$Definition["Show Original Suggestions"] = "แสดงข้อเสนอแนะต้นฉบับ";
-$Definition["Show Suggestions"] = "แสดงข้อเสนอแนะ";
-$Definition["Signatures"] = "ลายเซ็น";
-$Definition["SignedOut"] = "คุณออกจากระบบแล้ว";
-$Definition["Sign In Url"] = "ลงชื่อเข้าใช้ URL";
-$Definition["Site Description"] = "คำอธิบายเว็บไซต์";
-$Definition["Site Name"] = "ชื่อเว็บไซต์";
-$Definition["Slug"] = "กระสุน";
-$Definition["SMTP Host"] = "โฮสต์ SMTP";
-$Definition["SMTP Password"] = "รหัสผ่าน SMTP";
-$Definition["SMTP Port"] = "พอร์ต SMTP";
-$Definition["SMTP Security"] = "ความปลอดภัยของ SMTP";
-$Definition["SMTP User"] = "ผู้ใช้ SMTP";
-$Definition["Social Connect"] = "สื่อสังคม";
-$Definition["Social Connect Addons"] = "การเชื่อมต่อสื่อโซเชียล Addons";
-$Definition["Sort Order"] = "เรียงลำดับ";
-$Definition[
-    "Sources that are selected here will be available to AI Suggested Answers."
-] = "แหล่งที่มาที่ถูกเลือกที่นี่จะพร้อมให้ AI เสนอคำตอบ";
-$Definition["Specify one domain per line. Use * for wildcard matches."] =
-    "ระบุหนึ่งโดเมนต่อบรรทัด ใช้ * สำหรับการจับคู่ไวด์การ์ด";
-$Definition["Spoof"] = "หลอก";
-$Definition["SSO Role"] = "บทบาทสส";
-$Definition["SSO roles are always passed through SSO."] =
-    "บทบาท SSO จะส่งผ่าน SSO เสมอ";
-$Definition["Start Discussions"] = "เริ่มการสนทนา";
-$Definition["Start Private Conversations"] = "เริ่มการสนทนาส่วนตัว";
-$Definition[
-    "Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO"
-] =
-    "เริ่มบรรทัดหัวเรื่องสรุปโดยตั้งค่า [ชื่อแบนเนอร์] ในลักษณะที่ปรากฏ > การสร้างแบรนด์และ SEO";
-$Definition["Start typing username"] = "เริ่มพิมพ์ชื่อผู้ใช้";
-$Definition["State"] = "สถานะ";
-$Definition["Statistics"] = "สถิติ";
-$Definition["Strip Embeds"] = "แถบฝัง";
-$Definition["Strip Embeds"] = "แถบฝัง";
-$Definition["Style"] = "สไตล์";
-$Definition["Styles"] = "รูปแบบ";
-$Definition[
-    "Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page."
-] =
-    "รูปแบบและรูปลักษณ์ทั่วไปของอีเมลทั้งหมด รวมถึงเนื้อหาอีเมล ได้รับการตั้งค่าทั่วทั้งไซต์ในหน้าการตั้งค่าอีเมล";
-$Definition["Subcommunity"] = "ชุมชนย่อย";
-$Definition["Subject Line and Title"] = "หัวเรื่องและชื่อเรื่อง";
-$Definition["subscribers"] = "สมาชิก";
-$Definition["Suggested Answers Options"] = "ตัวเลือกคำตอบที่แนะนำ";
-$Definition["Suggested Content"] = "เนื้อหาที่แนะนำ";
-$Definition["Suggested Discussion Title"] = "หัวข้อการสนทนาที่แนะนำ";
-$Definition["Suggested Follows"] = "แนะนำให้ทำตาม";
-$Definition["Suggestions are only visible to you until you accept the answer"] =
-    "คำแนะนำจะมองเห็นได้เฉพาะคุณเท่านั้น จนกว่าคุณจะยอมรับคำตอบ";
-$Definition["Suggestions may only be generated on questions"] =
-    "ข้อเสนอแนะสามารถสร้างได้เฉพาะคำถามเท่านั้น";
+$Definition['Table Layout'] = 'เค้าโครงตาราง';
+$Definition['take away'] = 'เอาไป';
+$Definition['Target All Users'] = 'กำหนดเป้าหมายผู้ใช้ทั้งหมด';
+$Definition['Target Users'] = 'ผู้ใช้เป้าหมาย';
+$Definition['Technical'] = 'วิชาการ';
+$Definition['Technical Jargon'] = 'ศัพท์เทคนิค';
+$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'แจ้งให้ผู้แก้ไขตีความโพสต์เก่าทั้งหมดใหม่เป็น %s';
+$Definition['Templates'] = 'แม่แบบ';
+$Definition['Temporary (302)'] = 'ชั่วคราว (302)';
+$Definition['Test Digest'] = 'ทดสอบไดเจสต์';
+$Definition['Test Email'] = 'อีเมลทดสอบ';
+$Definition['Test email from %s'] = 'ทดสอบอีเมลจาก %s';
+$Definition['Test Email Message'] = '<p> นี่คือข้อความอีเมลทดสอบ </p><p> คุณสามารถกำหนดค่าลักษณะที่ปรากฏของอีเมลในฟอรัมของคุณได้โดยไปที่หน้าอีเมลในแดชบอร์ด </p>';
+$Definition['Test Mode'] = 'โหมดทดสอบ: กระเป๋าจะปรากฏขึ้นสำหรับผู้ดูแลกระเป๋าเท่านั้น';
+$Definition['Test URL'] = 'ทดสอบ URL';
+$Definition['Text Color'] = 'สีข้อความ';
+$Definition['TextEnterEmails'] = 'พิมพ์ที่อยู่อีเมลคั่นด้วยเครื่องหมายจุลภาคที่นี่';
+$Definition['Thanks for sticking with us for %s years.'] = 'ขอบคุณที่ติดกับเราเป็นเวลา %s';
+$Definition['Thanks for sticking with us for a full year.'] = 'ขอขอบคุณที่ติดกับเราตลอดทั้งปี';
+$Definition['The %s badge has already been given to %s.'] = 'ป้าย %s ได้ถูกมอบให้กับ %s แล้ว';
+$Definition['The %s locale pack does not exist.'] = 'โลแคลแพ็ค %s ไม่มีอยู่';
+$Definition['The %s table is not in the correct format.'] = 'ตาราง %s ไม่ได้อยู่ในรูปแบบที่ถูกต้อง';
+$Definition['The %s was already approved by %s on %s.'] = '%s ได้รับอนุมัติแล้วโดย %s บน %s';
+$Definition['The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well.'] = 'การดำเนินการดังกล่าวจะใช้กับพวกเขาเมื่อกฎถูกเปิดใช้งาน ในอนาคต <0 /> อื่นๆ ที่ตรงตามเกณฑ์การเรียกใช้งานก็จะมีการดำเนินการที่ใช้กับพวกเขาเช่นกัน';
+$Definition['The action will be applied to only them if you proceed.'] = 'การดำเนินการนี้จะใช้ได้กับพวกเขาเท่านั้นหากคุณดำเนินการต่อ';
+$Definition['The Basics'] = 'พื้นฐาน';
+$Definition['The client ID uniqely identifies the site.'] = 'รหัสลูกค้าระบุไซต์โดยไม่เจาะจง คุณสามารถสร้าง ID ใหม่ด้วยปุ่มที่ด้านล่างของหน้านี้';
+$Definition['The content you were looking for has been deleted.'] = 'เนื้อหาที่คุณต้องการดูถูกลบไปแล้ว';
+$Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'ภาพแบนเนอร์เริ่มต้นทั่วทั้งไซต์ ซึ่งสามารถแทนที่ได้ในแต่ละหมวดหมู่';
+$Definition['The default role has not been configured.'] = 'ไม่ได้กำหนดค่าบทบาทเริ่มต้น';
+$Definition['The email address this test will be sent to.'] = 'ที่อยู่อีเมลแบบทดสอบนี้จะถูกส่งไปให้';
+$Definition['The email has been sent.'] = 'ส่งอีเมลแล้ว';
+$Definition['The first line of content in the email digest after the title.'] = 'บรรทัดแรกของเนื้อหาในอีเมลสรุปหลังชื่อเรื่อง';
+$Definition['The homepage title is displayed on your home page.'] = 'ชื่อหน้าแรกจะปรากฏในหน้าแรกของคุณ เลือกชื่อที่คุณต้องการเห็นปรากฏในเครื่องมือค้นหา';
+$Definition['The homepage was saved successfully.'] = 'บันทึกหน้าแรกสำเร็จแล้ว';
+$Definition['The invitation was removed successfully.'] = 'ลบคำเชิญสำเร็จแล้ว';
+$Definition['The invitation was sent successfully.'] = 'ส่งคำเชิญสำเร็จแล้ว';
+$Definition['The Key in the XML payload to designate %s.'] = 'คีย์ในเพย์โหลด XML เพื่อกำหนด %s';
+$Definition['Theme Editor'] = 'ตัวแก้ไขธีม';
+$Definition['ThemeEditor.Copy'] = '<0/> สำเนา ';
+$Definition['Theme Options'] = 'ตัวเลือกชุดรูปแบบ';
+$Definition['Themes'] = 'ธีมส์';
+$Definition['Theming Documentation'] = 'การจัดทำเอกสาร';
+$Definition['Theming Overview'] = 'ภาพรวมของชุดรูปแบบ';
+$Definition['The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>.'] = 'ระบบการจัดการชุมชนใหม่ช่วยให้สามารถกำหนดเหตุผลในการรายงาน การเพิ่มระดับ การมอบหมาย และกฎการทำงานอัตโนมัติได้ การเปิดใช้งานระบบนี้จะทำให้การรับรายงานเปลี่ยนไปใช้ระบบใหม่ <0>อ่านเพิ่มเติม</0> -';
+$Definition['The next three email digest delivery dates'] = 'วันที่จัดส่งสรุปอีเมลสามฉบับถัดไป';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'เกิดข้อผิดพลาดในการอัพโหลดภาพ โลโก้อีเมลของคุณสามารถอัปโหลดหนึ่งในประเภทไฟล์ต่อไปนี้: gif, jpg, png';
+$Definition['There are currently %s applicants.'] = 'ปัจจุบันมีผู้สมัคร %s';
+$Definition['There are currently %s requests.'] = 'ขณะนี้มีคำขอ %s';
+$Definition['There are currently no applicants.'] = 'ขณะนี้ไม่มีผู้สมัคร';
+$Definition['There are currently no comments on this post'] = 'ยังไม่มีความคิดเห็นเกี่ยวกับโพสต์นี้';
+$Definition['There are currently no reports for this post.'] = 'ยังไม่มีรายงานสำหรับโพสนี้';
+$Definition['There are currently no requests.'] = 'ไม่มีคำขอในขณะนี้';
+$Definition['There are no items awaiting moderation at this time.'] = 'ไม่มีรายการที่รอการกลั่นกรองในขณะนี้';
+$Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'มีบัญชีในฟอรัมนี้แล้วโดยใช้ที่อยู่อีเมลของคุณ โปรดสร้างบัญชีใหม่หรือป้อนข้อมูลรับรองสำหรับบัญชีที่มีอยู่';
+$Definition['There is currently %s applicant.'] = 'ขณะนี้มีผู้สมัคร %s';
+$Definition['There is currently %s request.'] = 'ขณะนี้มีคำขอ %s';
+$Definition['There was an error fetching the connection data.'] = 'เกิดข้อผิดพลาดในการดึงข้อมูลการเชื่อมต่อ';
+$Definition['There was an error saving your changes. Please try again.'] = 'เกิดข้อผิดพลาดในการบันทึกการเปลี่ยนแปลงของคุณ กรุณาลองอีกครั้ง.';
+$Definition['The roles which can see this report reason.'] = 'บทบาทที่สามารถดูเหตุผลรายงานนี้';
+$Definition['The secret secures the sign in process.'] = 'ความลับรักษาความปลอดภัยของกระบวนการลงชื่อเข้าใช้ <b>ไม่ให้ออกความลับให้กับทุกคน</b>';
+$Definition['The site description usually appears in search engines.'] = 'คำอธิบายไซต์มักจะปรากฏในเครื่องมือค้นหา คุณควรลองคำอธิบายที่มีความยาว 100–150 อักขระ';
+$Definition['The site does not allow you to connect with an existing user.'] = 'ไซต์ไม่อนุญาตให้คุณเชื่อมต่อกับผู้ใช้ที่มีอยู่';
+$Definition['The site is currently undergoing scheduled maintenance.'] = 'ไซต์กำลังอยู่ระหว่างการบำรุงรักษาตามกำหนดเวลา';
+$Definition['The specified url code is already in use by another category.'] = 'มีการใช้รหัส url ที่ระบุไว้ในหมวดหมู่อื่นแล้ว';
+$Definition['The structure was successfully executed.'] = 'ดำเนินการโครงสร้างสำเร็จแล้ว';
+$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'ไดเจสต์การทดสอบจะสร้างเนื้อหาเหมือนกับว่าผู้ใช้รายนี้ได้รับไดเจสต์';
+$Definition['The update was not successful.'] = 'การอัปเดตไม่สำเร็จ';
+$Definition['The update was successful.'] = 'การอัปเดตสำเร็จแล้ว';
+$Definition['The url that users go to to register for a new account.'] = 'URL ที่ผู้ใช้ไปเพื่อลงทะเบียนสำหรับบัญชีใหม่';
+$Definition['The url that users use to register for a new account.'] = 'URL ที่ผู้ใช้ใช้ในการลงทะเบียนสำหรับบัญชีใหม่';
+$Definition['The url that users use to sign in.'] = 'URL ที่ผู้ใช้ใช้ในการลงชื่อเข้าใช้';
+$Definition['The URL where users can sign up for new accounts on your site'] = 'URL ที่ผู้ใช้สามารถลงทะเบียนสำหรับบัญชีใหม่ในเว็บไซต์ของคุณ';
+$Definition['The URL where users sign in on your site'] = 'URL ที่ผู้ใช้ลงชื่อเข้าใช้ในเว็บไซต์ของคุณ';
+$Definition['The URL where users sign out of your site'] = 'URL ที่ผู้ใช้ลงชื่อออกจากเว็บไซต์ของคุณ';
+$Definition['The user and all related content has been deleted.'] = 'ผู้ใช้และเนื้อหาที่เกี่ยวข้องทั้งหมดถูกลบไปแล้ว';
+$Definition['The user content will be completely deleted.'] = 'เนื้อหาของผู้ใช้จะถูกลบอย่างสมบูรณ์';
+$Definition['The user content will remain untouched.'] = 'เนื้อหาของผู้ใช้จะไม่ถูกแตะต้อง';
+$Definition['The user has been created successfully'] = 'สร้างผู้ใช้สำเร็จแล้ว';
+$Definition['The user has been deleted.'] = 'ผู้ใช้ถูกลบแล้ว';
+$Definition['The username you entered has already been taken.'] = 'ชื่อผู้ใช้ที่คุณป้อนถูกใช้ไปแล้ว';
+$Definition['This action cannot be undone.'] = 'การกระทำนี้ไม่สามารถเลิกทำได้';
+$Definition['This category has custom permissions.'] = 'หมวดหมู่นี้มีการอนุญาตที่กำหนดเอง';
+$Definition['This category is archived.'] = 'หมวดหมู่นี้ถูกเก็บถาวร';
+$Definition['This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.'] = 'สีนี้จะใช้เพื่อดูตัวอย่างสีไอคอน ซึ่งจะแทนที่การใช้ #000000 ในไอคอนที่คุณอัปโหลด ในแอปพลิเคชันจริง สีจะเป็นแบบไดนามิก';
+$Definition['This connection is in test-mode.'] = 'การเชื่อมต่อนี้อยู่ในโหมดทดสอบ';
+$Definition['This controls how the responses are phrased and spelled.'] = 'นี่ควบคุมวิธีการแสดงและการสะกดคำตอบ';
+$Definition['This Database'] = 'ฐานข้อมูลนี้';
+$Definition['This forum is currently set to invitation only mode.'] = 'ขณะนี้ฟอรัมนี้ถูกตั้งค่าเป็นโหมดเชิญเท่านั้น';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'รูปภาพนี้จะปรากฏในแบนเนอร์ของหมวดหมู่นี้และในวิดเจ็ตหมวดหมู่เมื่อใช้ตัวเลือกรูปแบบ "รูปภาพ" และ/หรือ "พื้นหลัง" ขนาดที่แนะนำคือประมาณ 1000px x 400px หรืออัตราส่วนใกล้เคียงกัน';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'ภาพนี้จะใช้ในรายการหมวดหมู่และวิดเจ็ตเมื่อใช้ตัวเลือกรูปแบบ "ไอคอน"';
+$Definition['This information will only be shown to users with permission to view internal info'] = 'ข้อมูลนี้จะแสดงต่อผู้ใช้ที่มีสิทธิ์ดูข้อมูลภายในเท่านั้น';
+$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'นี่คือบทสรุปที่สร้างโดย AI จากโพสต์การสนทนาที่อ้างอิงซึ่งอาจตอบคำถามได้ บทสรุปนี้สร้างขึ้นในลักษณะที่สามารถใช้เป็นคำตอบที่ยอมรับได้';
+$Definition['This is a parent category that does not allow discussions.'] = 'นี่คือหมวดหมู่ผู้ปกครองที่ไม่อนุญาตให้มีการสนทนา';
+$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'สิ่งนี้ไม่จำเป็นสำหรับไซต์ส่วนใหญ่ ยกเว้นไซต์ที่ใช้คุณลักษณะเช่น AdSense และ Google Tag Manager';
+$Definition['This is private information and will not be shared with other members.'] = 'นี่เป็นข้อมูลส่วนตัวและจะไม่แบ่งปันกับสมาชิกรายอื่น';
+$Definition['This is the actual size most icons render at.'] = 'นี่คือขนาดจริงของไอคอนส่วนใหญ่ที่แสดง';
+$Definition['This is the first time you\'ve visited the discussion forums.'] = 'นี่เป็นครั้งแรกที่คุณได้เข้าชมฟอรัมสนทนา';
+$Definition['This layout cannot be deleted because it is a layout template.'] = 'ไม่สามารถลบเค้าโครงนี้ได้เนื่องจากเป็นเทมเพลตเค้าโครง';
+$Definition['This layout cannot be deleted because it is currently applied.'] = 'ไม่สามารถลบเค้าโครงนี้ได้ เนื่องจากถูกนำไปใช้ในปัจจุบัน';
+$Definition['This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.'] = 'การเปลี่ยนแปลงเค้าโครงนี้จะไม่ปรากฏให้เห็นจนกว่าคุณจะเปลี่ยนชุมชนของคุณเป็นแบบกำหนดเอง <0/> ในหน้า <1/>';
+$Definition['This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default.'] = 'เค้าโครงนี้เป็นเทมเพลตและถูกกำหนดให้เป็นค่าเริ่มต้นสำหรับทุกหน้าของประเภทนี้ หากต้องการลบออกจากค่าเริ่มต้นหรือกำหนดให้กับหน้าเฉพาะ คุณต้องกำหนดเค้าโครงอื่นเป็นค่าเริ่มต้น';
+$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'ซึ่งอาจใช้เพื่อรวมเนื้อหา เช่น ชื่อองค์กรและที่อยู่ในสรุปอีเมล';
+$Definition['This name will be shown in the community.'] = 'ชื่อนี้จะปรากฏในชุมชน';
+$Definition['This option is to normalize the editor format'] = 'ตัวเลือกนี้คือการทำให้รูปแบบตัวแก้ไขเป็นมาตรฐาน หากโพสต์เก่าที่มีการแก้ไขด้วยรูปแบบอื่น เช่น มาร์กดาวน์ หรือ BBCode ถูกโหลด ตัวเลือกนี้จะบังคับ %s';
+$Definition['This page requires Javascript.'] = 'หน้านี้ต้องใช้ Javascript';
+$Definition['This pocket is an ad.'] = 'กระเป๋านี้เป็นโฆษณา';
+$Definition['This setting must be enabled to use Custom Discussion Threads.'] = 'จะต้องเปิดใช้งานการตั้งค่านี้เพื่อใช้หัวข้อการสนทนาแบบกำหนดเอง';
+$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'การตั้งค่านี้จะมีผลก็ต่อเมื่อเลือก %s เป็นรูปแบบโพสต์ด้านบน';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'ไม่สามารถลบชุดรูปแบบนี้เนื่องจากเป็นชุดรูปแบบที่ใช้ในปัจจุบัน';
+$Definition['This theme has additional options.'] = 'ชุดรูปแบบนี้มีตัวเลือกเพิ่มเติมในหน้า %s';
+$Definition['This theme has customizable text.'] = 'ชุดรูปแบบนี้มีข้อความที่คุณสามารถกำหนดเองได้';
+$Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'การดำเนินการนี้จะสร้างการประชุม Zoom ในนามของเจ้าของการผสานรวม Zoom และหากคุณเป็นผู้ใช้ที่ลงทะเบียนแล้ว ให้เพิ่มคุณเป็นผู้จัดร่วม หากคุณไม่ใช่ผู้ใช้ Zoom ที่ลงทะเบียนแล้วหรือไม่ใช่ส่วนหนึ่งขององค์กรที่ตั้งค่าการผสานรวม กิจกรรมนี้อาจมีฟังก์ชัน Zoom ที่จำกัดหากไม่มีผู้จัด';
+$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = 'วิธีนี้จะช่วยแนะนำผู้ใช้รายอื่นที่ถามคำถามคล้ายกันให้ตอบคำถามที่ถูกต้องได้เร็วขึ้น และจะแสดงคำตอบที่ AI แนะนำ และเชื่อมโยงเนื้อหาที่อ้างอิงเพื่อให้ผู้ใช้รายอื่นดูได้ คำแนะนำจะปรากฏเฉพาะกับคุณเท่านั้น จนกว่าคุณจะยอมรับคำตอบ';
+$Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'สิ่งนี้จะไม่ส่งผลต่อ <0 /> ใดๆ ในขณะนี้ แต่จะส่งผลต่อผู้ที่ตรงตามเกณฑ์ในอนาคต';
+$Definition['This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?'] = 'การดำเนินการนี้จะแก้ไขโพสต์ที่มีอยู่ทั้งหมดในชุมชน การดำเนินการเป็นกลุ่มนี้จะไม่เรียกใช้เว็บฮุกหรือการวิเคราะห์บันทึก ดำเนินการต่อหรือไม่';
+$Definition['Threshold'] = 'ข้อจำกัด';
+$Definition['Thumbnails'] = 'รูปขนาดย่อ';
+$Definition['Thumbnail Size'] = 'ขนาดรูปย่อ';
+$Definition['Time'] = 'เวลา';
+$Definition['Timeframe'] = 'กรอบเวลา';
+$Definition['Time since added to collection'] = 'เวลาตั้งแต่เพิ่มเข้าในคอลเลกชั่น';
+$Definition['Time since post has had no activity'] = 'เวลาตั้งแต่โพสต์ไม่มีกิจกรรม';
+$Definition['Time since post has had no comments'] = 'เวลาตั้งแต่โพสต์ไม่มีความคิดเห็น';
+$Definition['Time since question has been unanswered'] = 'เวลาที่ผ่านไปนับตั้งแต่คำถามยังไม่ได้รับคำตอบ';
+$Definition['Time since Registration'] = 'เวลาตั้งแต่การลงทะเบียน';
+$Definition['Title Color'] = 'ชื่อสี';
+$Definition['Title Color (Hover)'] = 'ชื่อสี (โฮเวอร์)';
+$Definition['Titles'] = 'ชื่อเรื่อง';
+$Definition['Token Name'] = 'ชื่อโทเค็น';
+$Definition['To learn more, <0>see the documentation</0>.'] = 'หากต้องการเรียนรู้เพิ่มเติม <0>โปรดดูเอกสารประกอบ</0> -';
+$Definition['Touch Icon'] = 'ไอคอนแบบสัมผัส';
+$Definition['Triage'] = 'การคัดแยกประเภท';
+$Definition['Triage Dashboard'] = 'แดชบอร์ดการคัดแยก';
+$Definition['Trigger'] = 'สิ่งกระตุ้น';
+$Definition['True'] = 'จริง';
+$Definition['Truncate the initial discussion text to this many words.'] = 'ตัดข้อความสนทนาเริ่มต้นเป็นหลายคำนี้';
+$Definition['Trusted Domains'] = 'โดเมนที่เชื่อถือได้';
+$Definition['trusted domains'] = 'โดเมนที่เชื่อถือได้';
+$Definition['Turn OFF'] = 'ปิด';
+$Definition['Turn off AI Suggested Answers'] = 'ปิดการใช้งาน AI ข้อเสนอแนะคำตอบ';
+$Definition['Turn off for now'] = 'ปิดเครื่องก่อนตอนนี้';
+$Definition['Twitter Connector'] = 'ตัวเชื่อมต่อ Twitter';
 
-$Definition["Table Layout"] = "เค้าโครงตาราง";
-$Definition["take away"] = "เอาไป";
-$Definition["Target All Users"] = "กำหนดเป้าหมายผู้ใช้ทั้งหมด";
-$Definition["Target Users"] = "ผู้ใช้เป้าหมาย";
-$Definition["Technical"] = "วิชาการ";
-$Definition["Technical Jargon"] = "ศัพท์เทคนิค";
-$Definition["Templates"] = "แม่แบบ";
-$Definition["Temporary (302)"] = "ชั่วคราว (302)";
-$Definition["Test Email"] = "อีเมลทดสอบ";
-$Definition["Test Digest"] = "ทดสอบไดเจสต์";
-$Definition["Test email from %s"] = "ทดสอบอีเมลจาก %s";
-$Definition["Test Email Message"] = '<p> นี่คือข้อความอีเมลทดสอบ </p><p> คุณสามารถกำหนดค่าลักษณะที่ปรากฏของอีเมลในฟอรัมของคุณได้โดยไปที่หน้าอีเมลในแดชบอร์ด </p>';
-$Definition["Test Mode"] =
-    "โหมดทดสอบ: กระเป๋าจะปรากฏขึ้นสำหรับผู้ดูแลกระเป๋าเท่านั้น";
-$Definition["Test URL"] = "ทดสอบ URL";
-$Definition["Text Color"] = "สีข้อความ";
-$Definition["TextEnterEmails"] =
-    "พิมพ์ที่อยู่อีเมลคั่นด้วยเครื่องหมายจุลภาคที่นี่";
-$Definition["The %s badge has already been given to %s."] =
-    "ป้าย %s ได้ถูกมอบให้กับ %s แล้ว";
-$Definition["The %s locale pack does not exist."] =
-    "โลแคลแพ็ค %s ไม่มีอยู่";
-$Definition["The %s table is not in the correct format."] =
-    "ตาราง %s ไม่ได้อยู่ในรูปแบบที่ถูกต้อง";
-$Definition["The %s was already approved by %s on %s."] =
-    "%s ได้รับอนุมัติแล้วโดย %s บน %s";
-$Definition["Thanks for sticking with us for a full year."] =
-    "ขอขอบคุณที่ติดกับเราตลอดทั้งปี";
-$Definition["Thanks for sticking with us for %s years."] =
-    "ขอบคุณที่ติดกับเราเป็นเวลา %s";
-$Definition["The Basics"] = "พื้นฐาน";
-$Definition["The client ID uniqely identifies the site."] =
-    "รหัสลูกค้าระบุไซต์โดยไม่เจาะจง คุณสามารถสร้าง ID ใหม่ด้วยปุ่มที่ด้านล่างของหน้านี้";
-$Definition["The content you were looking for has been deleted."] =
-    "เนื้อหาที่คุณต้องการดูถูกลบไปแล้ว";
-$Definition[
-    "The default banner image across the site. This can be overridden on a per category basis."
-] =
-    "ภาพแบนเนอร์เริ่มต้นทั่วทั้งไซต์ ซึ่งสามารถแทนที่ได้ในแต่ละหมวดหมู่";
-$Definition["The default role has not been configured."] =
-    "ไม่ได้กำหนดค่าบทบาทเริ่มต้น";
-$Definition["The email address this test will be sent to."] =
-    "ที่อยู่อีเมลแบบทดสอบนี้จะถูกส่งไปให้";
-$Definition["The email has been sent."] = "ส่งอีเมลแล้ว";
-$Definition["The first line of content in the email digest after the title."] =
-    "บรรทัดแรกของเนื้อหาในอีเมลสรุปหลังชื่อเรื่อง";
-$Definition["The homepage title is displayed on your home page."] =
-    "ชื่อหน้าแรกจะปรากฏในหน้าแรกของคุณ เลือกชื่อที่คุณต้องการเห็นปรากฏในเครื่องมือค้นหา";
-$Definition["The homepage was saved successfully."] =
-    "บันทึกหน้าแรกสำเร็จแล้ว";
-$Definition["The invitation was removed successfully."] =
-    "ลบคำเชิญสำเร็จแล้ว";
-$Definition["The invitation was sent successfully."] =
-    "ส่งคำเชิญสำเร็จแล้ว";
-$Definition["The Key in the XML payload to designate %s."] =
-    "คีย์ในเพย์โหลด XML เพื่อกำหนด %s";
-$Definition[
-    "The test digest will generate content as if it were this user receiving the digest."
-] =
-    "ไดเจสต์การทดสอบจะสร้างเนื้อหาเหมือนกับว่าผู้ใช้รายนี้ได้รับไดเจสต์";
-$Definition["Theme Editor"] = "ตัวแก้ไขธีม";
-$Definition["Theme Options"] = "ตัวเลือกชุดรูปแบบ";
-$Definition["Themes"] = "ธีมส์";
-$Definition["ThemeEditor.Copy"] = "<0/> สำเนา ";
-$Definition["Theming Documentation"] = "การจัดทำเอกสาร";
-$Definition["Theming Overview"] = "ภาพรวมของชุดรูปแบบ";
-$Definition[
-    'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'
-] =
-    'เกิดข้อผิดพลาดในการอัพโหลดภาพ โลโก้อีเมลของคุณสามารถอัปโหลดหนึ่งในประเภทไฟล์ต่อไปนี้: gif, jpg, png';
-$Definition["There are currently no applicants."] =
-    "ขณะนี้ไม่มีผู้สมัคร";
-$Definition["There is currently %s applicant."] =
-    "ขณะนี้มีผู้สมัคร %s";
-$Definition["There are currently %s applicants."] =
-    "ปัจจุบันมีผู้สมัคร %s";
-$Definition["There are currently no requests."] =
-    "ไม่มีคำขอในขณะนี้";
-$Definition["There is currently %s request."] =
-    "ขณะนี้มีคำขอ %s";
-$Definition["There are currently %s requests."] =
-    "ขณะนี้มีคำขอ %s";
-$Definition["There are no items awaiting moderation at this time."] =
-    "ไม่มีรายการที่รอการกลั่นกรองในขณะนี้";
-$Definition[
-    "There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account."
-] =
-    "มีบัญชีในฟอรัมนี้แล้วโดยใช้ที่อยู่อีเมลของคุณ โปรดสร้างบัญชีใหม่หรือป้อนข้อมูลรับรองสำหรับบัญชีที่มีอยู่";
-$Definition["The next three email digest delivery dates"] =
-    "วันที่จัดส่งสรุปอีเมลสามฉบับถัดไป";
-$Definition["The secret secures the sign in process."] =
-    "ความลับรักษาความปลอดภัยของกระบวนการลงชื่อเข้าใช้ <b>ไม่ให้ออกความลับให้กับทุกคน</b>";
-$Definition["The site description usually appears in search engines."] =
-    "คำอธิบายไซต์มักจะปรากฏในเครื่องมือค้นหา คุณควรลองคำอธิบายที่มีความยาว 100–150 อักขระ";
-$Definition["The site is currently undergoing scheduled maintenance."] =
-    "ไซต์กำลังอยู่ระหว่างการบำรุงรักษาตามกำหนดเวลา";
-$Definition["The specified url code is already in use by another category."] =
-    "มีการใช้รหัส url ที่ระบุไว้ในหมวดหมู่อื่นแล้ว";
-$Definition["The structure was successfully executed."] =
-    "ดำเนินการโครงสร้างสำเร็จแล้ว";
-$Definition["The update was not successful."] =
-    "การอัปเดตไม่สำเร็จ";
-$Definition["The update was successful."] = "การอัปเดตสำเร็จแล้ว";
-$Definition["The url that users go to to register for a new account."] =
-    "URL ที่ผู้ใช้ไปเพื่อลงทะเบียนสำหรับบัญชีใหม่";
-$Definition["The url that users use to register for a new account."] =
-    "URL ที่ผู้ใช้ใช้ในการลงทะเบียนสำหรับบัญชีใหม่";
-$Definition["The url that users use to sign in."] =
-    "URL ที่ผู้ใช้ใช้ในการลงชื่อเข้าใช้";
-$Definition["The URL where users can sign up for new accounts on your site"] =
-    "URL ที่ผู้ใช้สามารถลงทะเบียนสำหรับบัญชีใหม่ในเว็บไซต์ของคุณ";
-$Definition["The URL where users sign in on your site"] =
-    "URL ที่ผู้ใช้ลงชื่อเข้าใช้ในเว็บไซต์ของคุณ";
-$Definition["The URL where users sign out of your site"] =
-    "URL ที่ผู้ใช้ลงชื่อออกจากเว็บไซต์ของคุณ";
-$Definition["The user and all related content has been deleted."] =
-    "ผู้ใช้และเนื้อหาที่เกี่ยวข้องทั้งหมดถูกลบไปแล้ว";
-$Definition["The user content will be completely deleted."] =
-    "เนื้อหาของผู้ใช้จะถูกลบอย่างสมบูรณ์";
-$Definition["The user content will remain untouched."] =
-    "เนื้อหาของผู้ใช้จะไม่ถูกแตะต้อง";
-$Definition["The user has been created successfully"] =
-    "สร้างผู้ใช้สำเร็จแล้ว";
-$Definition["The user has been deleted."] = "ผู้ใช้ถูกลบแล้ว";
-$Definition["This action cannot be undone."] = "การกระทำนี้ไม่สามารถเลิกทำได้";
-$Definition[
-    "This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager."
-] =
-    "สิ่งนี้ไม่จำเป็นสำหรับไซต์ส่วนใหญ่ ยกเว้นไซต์ที่ใช้คุณลักษณะเช่น AdSense และ Google Tag Manager";
-$Definition[
-    "This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer."
-] =
-    "นี่คือบทสรุปที่สร้างโดย AI จากโพสต์การสนทนาที่อ้างอิงซึ่งอาจตอบคำถามได้ บทสรุปนี้สร้างขึ้นในลักษณะที่สามารถใช้เป็นคำตอบที่ยอมรับได้";
-$Definition["This category has custom permissions."] =
-    "หมวดหมู่นี้มีการอนุญาตที่กำหนดเอง";
-$Definition["This category is archived."] = "หมวดหมู่นี้ถูกเก็บถาวร";
-$Definition["This connection is in test-mode."] =
-    "การเชื่อมต่อนี้อยู่ในโหมดทดสอบ";
-$Definition["This controls how the responses are phrased and spelled."] =
-    "นี่ควบคุมวิธีการแสดงและการสะกดคำตอบ";
-$Definition["This Database"] = "ฐานข้อมูลนี้";
-$Definition["QnAFollowup.Feature.Enabled"] =
-    "คุณลักษณะนี้จะส่งอีเมลไปยังผู้เขียนคำถามที่ตอบแล้วซึ่งไม่มีคำตอบที่ยอมรับ";
-$Definition["This forum is currently set to invitation only mode."] =
-    "ขณะนี้ฟอรัมนี้ถูกตั้งค่าเป็นโหมดเชิญเท่านั้น";
-$Definition[
-    'This image will be used in category lists and widgets when using the "Icon" style option.'
-] =
-    'ภาพนี้จะใช้ในรายการหมวดหมู่และวิดเจ็ตเมื่อใช้ตัวเลือกรูปแบบ "ไอคอน"';
-$Definition[
-    'This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'
-] =
-    'รูปภาพนี้จะปรากฏในแบนเนอร์ของหมวดหมู่นี้และในวิดเจ็ตหมวดหมู่เมื่อใช้ตัวเลือกรูปแบบ "รูปภาพ" และ/หรือ "พื้นหลัง" ขนาดที่แนะนำคือประมาณ 1000px x 400px หรืออัตราส่วนใกล้เคียงกัน';
-$Definition["This is a parent category that does not allow discussions."] =
-    "นี่คือหมวดหมู่ผู้ปกครองที่ไม่อนุญาตให้มีการสนทนา";
-$Definition['This is the first time you\'ve visited the discussion forums.'] =
-    'นี่เป็นครั้งแรกที่คุณได้เข้าชมฟอรัมสนทนา';
-$Definition[
-    "This may be used to include content such as organization name and address in the email digest."
-] =
-    "ซึ่งอาจใช้เพื่อรวมเนื้อหา เช่น ชื่อองค์กรและที่อยู่ในสรุปอีเมล";
-$Definition["This name will be shown in the community."] =
-    "ชื่อนี้จะปรากฏในชุมชน";
-$Definition["This page requires Javascript."] =
-    "หน้านี้ต้องใช้ Javascript";
-$Definition["This pocket is an ad."] = "กระเป๋านี้เป็นโฆษณา";
-$Definition[
-    "This theme cannot be deleted because it is the currently applied theme"
-] = "ไม่สามารถลบชุดรูปแบบนี้เนื่องจากเป็นชุดรูปแบบที่ใช้ในปัจจุบัน";
-$Definition["This theme has additional options."] =
-    "ชุดรูปแบบนี้มีตัวเลือกเพิ่มเติมในหน้า %s";
-$Definition["This theme has customizable text."] =
-    "ชุดรูปแบบนี้มีข้อความที่คุณสามารถกำหนดเองได้";
-$Definition[
-    "This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer."
-] =
-    "วิธีนี้จะช่วยแนะนำผู้ใช้รายอื่นที่ถามคำถามคล้ายกันให้ตอบคำถามที่ถูกต้องได้เร็วขึ้น และจะแสดงคำตอบที่ AI แนะนำ และเชื่อมโยงเนื้อหาที่อ้างอิงเพื่อให้ผู้ใช้รายอื่นดูได้ คำแนะนำจะปรากฏเฉพาะกับคุณเท่านั้น จนกว่าคุณจะยอมรับคำตอบ";
-$Definition["Threshold"] = "ข้อจำกัด";
-$Definition["Thumbnails"] = "รูปขนาดย่อ";
-$Definition["Thumbnail Size"] = "ขนาดรูปย่อ";
-$Definition["Time"] = "เวลา";
-$Definition["Timeframe"] = "กรอบเวลา";
-$Definition["Titles"] = "ชื่อเรื่อง";
-$Definition["Title Color"] = "ชื่อสี";
-$Definition["Title Color (Hover)"] = "ชื่อสี (โฮเวอร์)";
-$Definition["Token Name"] = "ชื่อโทเค็น";
-$Definition["Touch Icon"] = "ไอคอนแบบสัมผัส";
-$Definition["True"] = "จริง";
-$Definition["Truncate the initial discussion text to this many words."] =
-    "ตัดข้อความสนทนาเริ่มต้นเป็นหลายคำนี้";
-$Definition["trusted domains"] = "โดเมนที่เชื่อถือได้";
-$Definition["Trusted Domains"] = "โดเมนที่เชื่อถือได้";
-$Definition["Turn OFF"] = "ปิด";
-$Definition["Turn off AI Suggested Answers"] = "ปิดการใช้งาน AI ข้อเสนอแนะคำตอบ";
-$Definition["Turn off for now"] = "ปิดเครื่องก่อนตอนนี้";
-$Definition["Twitter Connector"] = "ตัวเชื่อมต่อ Twitter";
+$Definition['Unable to re-assign default template'] = 'ไม่สามารถกำหนดเทมเพลตเริ่มต้นใหม่ได้';
+$Definition['Unassigned'] = 'ไม่ได้รับมอบหมาย';
+$Definition['unconfirmed'] = 'ไม่มีการยืนยัน';
+$Definition['Undo Accept Answer'] = 'ยกเลิก ยอมรับ คำตอบ';
+$Definition['Uninvite'] = 'ยกเลิกการเชิญ';
+$Definition['Universal Code'] = 'รหัสสากล';
+$Definition['Universal Forum Embed Code'] = 'รหัสฝังฟอรัมสากล';
+$Definition['Unlimited'] = 'ไม่ จำกัด';
+$Definition['Unsaved Changes'] = 'การเปลี่ยนแปลงที่ไม่ได้บันทึก';
+$Definition['Untitled'] = 'ไม่ได้ตั้งชื่อ';
+$Definition['Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>'] = 'สมาชิกที่ไม่ได้รับการตรวจสอบซึ่งอยู่ในชุมชนไม่ถึงจำนวนวันที่กำหนด จะได้รับแจ้งให้ทำแบบทดสอบ Cloudflare (Captcha หรือช่องกาเครื่องหมาย) ให้เสร็จเรียบร้อยเพื่อป้องกันสแปม <0/>';
+$Definition['Upcoming Events'] = 'กิจกรรมที่กำลังจะมาถึง';
+$Definition['Upload a placeholder image for catalogue post.'] = 'อัปโหลดรูปภาพตัวยึดที่จะแสดงเมื่อผู้ใช้ไม่มีภาพในโพสต์';
+$Definition['Uploaded <0/> by <1/>'] = 'อัพโหลด <0/> โดย <1/>';
+$Definition['Upload Icon Pack'] = 'อัพโหลดไอคอนแพ็ค';
+$Definition['Upload New Email Logo'] = 'อัปโหลดโลโก้อีเมลใหม่';
+$Definition['Upload New Icon'] = 'อัพโหลดไอคอนใหม่';
+$Definition['Upload Placeholder Image'] = 'อัปโหลดรูปภาพตัวแทน';
+$Definition['Up to <0 /> ago.'] = 'นานถึง <0 /> ที่ผ่านมา';
+$Definition['Up to a maximum of 100 items may be displayed.'] = 'สามารถแสดงรายการได้สูงสุด 100 รายการ';
+$Definition['upvote'] = 'โหวตขึ้น';
+$Definition['upvotes'] = 'โหวตขึ้น';
+$Definition['Use AI Suggestions in Q&A'] = 'ใช้คำแนะนำ AI ในคำถามและคำตอบ';
+$Definition['Use an SMTP server to send email'] = 'ใช้เซิร์ฟเวอร์ SMTP เพื่อส่งอีเมล';
+$Definition['Use asterisks for wildcards'] = 'ใช้เครื่องหมายดอกจันสำหรับสัญลักษณ์แทนเช่น "*@gmail.com"';
+$Definition['Use British English Spelling'] = 'ใช้การสะกดแบบอังกฤษ';
+$Definition['Use Categories'] = 'ใช้หมวดหมู่';
+$Definition['Use categories to organize discussions'] = 'ใช้หมวดหมู่เพื่อจัดระเบียบการสนทนา';
+$Definition['Use Facebook names for usernames.'] = 'ใช้ชื่อ Facebook สำหรับชื่อผู้ใช้';
+$Definition['Use Masonry display'] = 'ใช้จอแสดงผลแบบ Mason';
+$Definition['User Count'] = 'ผู้ใช้งาน';
+$Definition['UserDelete'] = 'ลบเนื้อหาของผู้ใช้';
+$Definition['User Deleted'] = 'ผู้ใช้ถูกลบ';
+$Definition['UserDeleteMessage'] = 'ลบผู้ใช้และลบเนื้อหาของผู้ใช้ทั้งหมด นี่อาจทำให้เกิดการอภิปรายร่วมกัน ตัวเลือกที่ดีที่สุดสำหรับการลบสแปม';
+$Definition['UserDeletionPrompt'] = 'เลือกวิธีจัดการเนื้อหาทั้งหมดที่เกี่ยวข้องกับบัญชีผู้ใช้สำหรับ %s (ความคิดเห็นข้อความ ฯลฯ )';
+$Definition['UserKeep'] = 'เก็บเนื้อหาของผู้ใช้';
+$Definition['UserKeepMessage'] = 'ลบผู้ใช้ แต่เก็บเนื้อหาของผู้ใช้';
+$Definition['User Management'] = 'การจัดการผู้ใช้';
+$Definition['Username or UserID to Spoof'] = 'ชื่อผู้ใช้หรือรหัสผู้ใช้เพื่อหลอก';
+$Definition['User Preferences'] = 'การตั้งค่าของผู้ใช้';
+$Definition['User Registration Settings'] = 'การตั้งค่าการลงทะเบียนผู้ใช้';
+$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'ผู้ใช้สามารถติดตามหมวดหมู่เพื่อสมัครรับการแจ้งเตือนสำหรับโพสต์ใหม่ เลือกหมวดหมู่ที่ผู้ใช้ใหม่ควรปฏิบัติตามโดยค่าเริ่มต้น';
+$Definition['Users marked as "Verified" will bypass this requirement. These are are the roles with "Approval.Require"'] = 'ผู้ใช้ที่ทำเครื่องหมายว่า "ผ่านการตรวจสอบ" จะข้ามข้อกำหนดนี้ บทบาทเหล่านี้คือ "Approval.Require"';
+$Definition['Users Matching Criteria Now: <0 />'] = 'ผู้ใช้ที่ตรงตามเกณฑ์ในขณะนี้: <0 />';
+$Definition['Users that get this reaction get %+d point.'] = 'ผู้ใช้ที่ได้รับปฏิกิริยานี้จะได้รับ %+d คะแนน';
+$Definition['Users that get this reaction get %+d points.'] = 'ผู้ใช้ที่ได้รับปฏิกิริยานี้จะได้รับ %+d คะแนน';
+$Definition['User successfully added.'] = 'เพิ่มผู้ใช้สำเร็จแล้ว';
+$Definition['User successfully updated.'] = 'อัปเดตผู้ใช้สำเร็จแล้ว';
+$Definition['User Summary'] = 'สรุปข้อมูลผู้ใช้';
+$Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'ผู้ใช้จะถูกกำหนดให้กับบทบาทนี้จนกว่าพวกเขาจะยืนยันที่อยู่อีเมลของพวกเขา';
+$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'ผู้ใช้จะถูกนำไปยัง URL นี้หลังจากยอมรับคำเชิญ อาจเป็น URL แบบเต็มหรือเส้นทางเพื่อเปลี่ยนเส้นทางภายในไซต์';
+$Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'ผู้ใช้จะไม่ถูกเตือนเมื่อติดตามลิงค์ที่ตรงกับโดเมนที่เชื่อถือได้';
+$Definition['Users with the "Approval.Require" permission will require moderator approval for all posts.'] = 'ผู้ใช้ที่มีสิทธิ์ "Approval.Require" จะต้องได้รับการอนุมัติจากผู้ดูแลระบบสำหรับโพสต์ทั้งหมด';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'ผู้ใช้ที่ไม่มีสิทธิ์โฆษณาจะไม่เห็น Pocket นี้';
+$Definition['UserWipe'] = 'เนื้อหาผู้ใช้เปล่า';
+$Definition['UserWipeMessage'] = 'ลบผู้ใช้และแทนที่เนื้อหาของผู้ใช้ทั้งหมดด้วยข้อความที่ระบุว่าผู้ใช้ถูกลบไปแล้ว สิ่งนี้ทำให้เห็นภาพว่ามีข้อมูลขาดหายไป';
+$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'ใช้ภาษาเชิงเทคนิคขั้นสูงและคำศัพท์เฉพาะอุตสาหกรรมที่มุ่งเป้าไปที่ผู้ที่มีความเข้าใจอย่างลึกซึ้งเกี่ยวกับเนื้อหานั้น';
+$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'ใช้คำศัพท์เฉพาะอุตสาหกรรมเมื่อจำเป็น แต่ยังมีคำอธิบายคำจำกัดความเพื่อให้แน่ใจว่ามีความชัดเจน';
+$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'ใช้ภาษาธรรมดาๆ ในชีวิตประจำวันที่ใครๆ ก็เข้าใจได้ ไม่ว่าจะมีพื้นฐานหรือความเชี่ยวชาญอย่างไรก็ตาม';
+$Definition['Use the content at this url as your homepage.'] = 'เลือกหน้าที่ผู้คนควรเห็นเมื่อเข้าเยี่ยมชม: <strong style="white-space: nowrap;">%s</strong>';
+$Definition['Use Vanilla as a commenting system in your site'] = 'ใช้วานิลลาเป็นระบบแสดงความคิดเห็นในเว็บไซต์ของคุณ';
+$Definition['Use weekly community email digest'] = 'ใช้สรุปอีเมลชุมชนรายสัปดาห์';
 
-$Definition["unconfirmed"] = "ไม่มีการยืนยัน";
-$Definition["Undo Accept Answer"] = "ยกเลิก ยอมรับ คำตอบ";
-$Definition["Uninvite"] = "ยกเลิกการเชิญ";
-$Definition["Universal Code"] = "รหัสสากล";
-$Definition["Universal Forum Embed Code"] = "รหัสฝังฟอรัมสากล";
-$Definition["Unlimited"] = "ไม่ จำกัด";
-$Definition["Up to a maximum of 100 items may be displayed."] =
-    "สามารถแสดงรายการได้สูงสุด 100 รายการ";
-$Definition["Upload New Email Logo"] = "อัปโหลดโลโก้อีเมลใหม่";
-$Definition["Upcoming Events"] = "กิจกรรมที่กำลังจะมาถึง";
-$Definition["Use an SMTP server to send email"] =
-    "ใช้เซิร์ฟเวอร์ SMTP เพื่อส่งอีเมล";
-$Definition["Use asterisks for wildcards"] =
-    'ใช้เครื่องหมายดอกจันสำหรับสัญลักษณ์แทนเช่น "*@gmail.com"';
-$Definition["Use British English Spelling"] = "ใช้การสะกดแบบอังกฤษ";
-$Definition["Use Categories"] = "ใช้หมวดหมู่";
-$Definition["Use categories to organize discussions"] =
-    "ใช้หมวดหมู่เพื่อจัดระเบียบการสนทนา";
-$Definition["Use Facebook names for usernames."] =
-    "ใช้ชื่อ Facebook สำหรับชื่อผู้ใช้";
-$Definition["Use AI Suggestions in Q&A"] = "ใช้คำแนะนำ AI ในคำถามและคำตอบ";
-$Definition["User Count"] = "ผู้ใช้งาน";
-$Definition["UserDelete"] = "ลบเนื้อหาของผู้ใช้";
-$Definition["User Deleted"] = "ผู้ใช้ถูกลบ";
-$Definition["User Preferences"] = "การตั้งค่าของผู้ใช้";
-$Definition[
-    "Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter."
-] =
-    "ใช้ภาษาเชิงเทคนิคขั้นสูงและคำศัพท์เฉพาะอุตสาหกรรมที่มุ่งเป้าไปที่ผู้ที่มีความเข้าใจอย่างลึกซึ้งเกี่ยวกับเนื้อหานั้น";
-$Definition[
-    "Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity."
-] =
-    "ใช้คำศัพท์เฉพาะอุตสาหกรรมเมื่อจำเป็น แต่ยังมีคำอธิบายคำจำกัดความเพื่อให้แน่ใจว่ามีความชัดเจน";
-$Definition[
-    "Uses simple, everyday language that anyone can understand, regardless of their background or expertise."
-] =
-    "ใช้ภาษาธรรมดาๆ ในชีวิตประจำวันที่ใครๆ ก็เข้าใจได้ ไม่ว่าจะมีพื้นฐานหรือความเชี่ยวชาญอย่างไรก็ตาม";
-$Definition["UserDeleteMessage"] =
-    'ลบผู้ใช้และลบเนื้อหาของผู้ใช้ทั้งหมด นี่อาจทำให้เกิดการอภิปรายร่วมกัน ตัวเลือกที่ดีที่สุดสำหรับการลบสแปม';
-$Definition["UserDeletionPrompt"] =
-    "เลือกวิธีจัดการเนื้อหาทั้งหมดที่เกี่ยวข้องกับบัญชีผู้ใช้สำหรับ %s (ความคิดเห็นข้อความ ฯลฯ )";
-$Definition["UserKeep"] = "เก็บเนื้อหาของผู้ใช้";
-$Definition["UserKeepMessage"] =
-    'ลบผู้ใช้ แต่เก็บเนื้อหาของผู้ใช้';
-$Definition["Username or UserID to Spoof"] = "ชื่อผู้ใช้หรือรหัสผู้ใช้เพื่อหลอก";
-$Definition["User Registration Settings"] = "การตั้งค่าการลงทะเบียนผู้ใช้";
-$Definition["User successfully added."] = "เพิ่มผู้ใช้สำเร็จแล้ว";
-$Definition["User successfully updated."] = "อัปเดตผู้ใช้สำเร็จแล้ว";
-$Definition[
-    "Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default."
-] =
-    "ผู้ใช้สามารถติดตามหมวดหมู่เพื่อสมัครรับการแจ้งเตือนสำหรับโพสต์ใหม่ เลือกหมวดหมู่ที่ผู้ใช้ใหม่ควรปฏิบัติตามโดยค่าเริ่มต้น";
-$Definition["Users that get this reaction get %+d point."] =
-    "ผู้ใช้ที่ได้รับปฏิกิริยานี้จะได้รับ %+d คะแนน";
-$Definition["Users that get this reaction get %+d points."] =
-    "ผู้ใช้ที่ได้รับปฏิกิริยานี้จะได้รับ %+d คะแนน";
-$Definition[
-    "Users will not be warned when following links that match a Trusted Domain."
-] =
-    "ผู้ใช้จะไม่ถูกเตือนเมื่อติดตามลิงค์ที่ตรงกับโดเมนที่เชื่อถือได้";
-$Definition[
-    "Users will be redirected to this URL after accepting an invitation."
-] =
-    "ผู้ใช้จะถูกนำไปยัง URL นี้หลังจากยอมรับคำเชิญ อาจเป็น URL แบบเต็มหรือเส้นทางเพื่อเปลี่ยนเส้นทางภายในไซต์";
-$Definition["User Summary"] = "สรุปข้อมูลผู้ใช้";
-$Definition[
-    'Users will be assigned to this role until they\'ve confirmed their email addresses.'
-] =
-    'ผู้ใช้จะถูกกำหนดให้กับบทบาทนี้จนกว่าพวกเขาจะยืนยันที่อยู่อีเมลของพวกเขา';
-$Definition["Users with the no ads permission will not see this pocket."] =
-    "ผู้ใช้ที่ไม่มีสิทธิ์โฆษณาจะไม่เห็น Pocket นี้";
-$Definition["UserWipe"] = "เนื้อหาผู้ใช้เปล่า";
-$Definition["UserWipeMessage"] =
-    'ลบผู้ใช้และแทนที่เนื้อหาของผู้ใช้ทั้งหมดด้วยข้อความที่ระบุว่าผู้ใช้ถูกลบไปแล้ว สิ่งนี้ทำให้เห็นภาพว่ามีข้อมูลขาดหายไป';
-$Definition["Use the content at this url as your homepage."] =
-    'เลือกหน้าที่ผู้คนควรเห็นเมื่อเข้าเยี่ยมชม: <strong style="white-space: nowrap;">%s</strong>';
-$Definition["Use Vanilla as a commenting system in your site"] =
-    "ใช้วานิลลาเป็นระบบแสดงความคิดเห็นในเว็บไซต์ของคุณ";
-$Definition["Use weekly community email digest"] =
-    "ใช้สรุปอีเมลชุมชนรายสัปดาห์";
-$Definition["Untitled"] = "ไม่ได้ตั้งชื่อ";
+$Definition['Value is not a valid integer.'] = 'ค่าไม่ใช่จำนวนเต็มที่ถูกต้อง';
+$Definition['Value or Pattern'] = 'ค่าหรือรูปแบบ';
+$Definition['Vanilla.Archive.Description'] = 'คุณสามารถเลือกที่จะเก็บการสนทนาในฟอรัมเก่ากว่าวันที่กำหนด การสนทนาที่เก็บถาวรถูกปิดอย่างมีประสิทธิภาพช่วยให้ไม่มีการโพสต์ใหม่';
+$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'วางหมวดหมู่ที่ซ้อนกันในรายการที่คั่นด้วยจุลภาคเมื่อ %1$s';
+$Definition['Vanilla is installed!'] = 'ติดตั้งวานิลลาแล้ว!';
+$Definition['Verified!'] = 'ยืนยันแล้ว!';
+$Definition['Verify browsers of new members'] = 'ตรวจสอบเบราว์เซอร์ของสมาชิกใหม่';
+$Definition['Version'] = 'รุ่น';
+$Definition['Version %s'] = 'รุ่น %s';
+$Definition['version %s'] = 'รุ่น %s';
+$Definition['Version %s Installer'] = 'เวอร์ชันตัวติดตั้ง %s';
+$Definition['View browser compatibility chart'] = 'ดูแผนภูมิความเข้ากันได้ของเบราว์เซอร์';
+$Definition['View Category'] = 'ดูหมวดหมู่';
+$Definition['View Count'] = 'จำนวนการดู';
+$Definition['View Details'] = 'ดูรายละเอียด';
+$Definition['View Escalation'] = 'ดูการยกระดับ';
+$Definition['View History'] = 'ดูประวัติ';
+$Definition['View in context '] = 'ดูในบริบท';
+$Definition['View Page'] = 'ดูหน้า';
+$Definition['View post in community'] = 'ดูโพสต์ในชุมชน';
+$Definition['VIP Deploy'] = 'การใช้งาน VIP';
+$Definition['Visit Site'] = 'ชมหน้าเว็บ';
+$Definition['Visualize Your Community'] = 'สร้างภาพชุมชนของคุณ';
+$Definition['Votes on an idea'] = 'โหวตให้กับไอเดีย';
 
-$Definition["Value or Pattern"] = "ค่าหรือรูปแบบ";
-$Definition["Vanilla.Archive.Description"] =
-    "คุณสามารถเลือกที่จะเก็บการสนทนาในฟอรัมเก่ากว่าวันที่กำหนด การสนทนาที่เก็บถาวรถูกปิดอย่างมีประสิทธิภาพช่วยให้ไม่มีการโพสต์ใหม่";
-$Definition["Vanilla.Categories.MaxDisplayDepth"] =
-    'วางหมวดหมู่ที่ซ้อนกันในรายการที่คั่นด้วยจุลภาคเมื่อ %1$s';
-$Definition["Vanilla is installed!"] = "ติดตั้งวานิลลาแล้ว!";
-$Definition["Verified!"] = "ยืนยันแล้ว!";
-$Definition["Version"] = "รุ่น";
-$Definition["Version %s"] = "รุ่น %s";
-$Definition["version %s"] = "รุ่น %s";
-$Definition["Version %s Installer"] = "เวอร์ชันตัวติดตั้ง %s";
-$Definition["View browser compatibility chart"] =
-    "ดูแผนภูมิความเข้ากันได้ของเบราว์เซอร์";
-$Definition["View Count"] = "จำนวนการดู";
-$Definition["View in context "] = "ดูในบริบท";
-$Definition["View Page"] = "ดูหน้า";
-$Definition["Visit Site"] = "ชมหน้าเว็บ";
-$Definition[
-    "Warn users if a link in a post will cause them to leave the forum"
-] = "เตือนผู้ใช้หากลิงก์ในโพสต์จะทำให้ผู้ใช้ออกจากฟอรัม";
-$Definition[
-    "Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind."
-] =
-    "คำเตือน: ข้อมูลทั้งหมดของคุณจะสูญหาย เมื่อคุณลบจะไม่มีการกู้คืนใด ๆ";
-$Definition["Warning: deleting is permanent"] =
-    "คำเตือน: รายการที่ถูกลบจะถูกลบออกจากรายการนี้และไม่สามารถนำกลับมาได้";
-$Definition["Weekly Email Digest "] = "สรุปอีเมลรายสัปดาห์";
-$Definition["Welcome to Vanilla!"] = "ยินดีต้อนรับสู่วานิลลา!";
-$Definition["Welcome to your Dashboard"] = "ยินดีต้อนรับสู่แดชบอร์ดของคุณ";
-$Definition["We only accept urls that begin with http:// or https://"] =
-    "เรายอมรับเฉพาะ URL ที่ขึ้นต้นด้วย http: // หรือ https: //";
-$Definition[
-    "We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below."
-] =
-    "เราจะพยายามใช้เซิร์ฟเวอร์อีเมลในพื้นที่เพื่อส่งอีเมลโดยค่าเริ่มต้น หากคุณต้องการใช้เซิร์ฟเวอร์เมล SMTP แยกกันคุณสามารถกำหนดค่าได้ด้านล่าง";
-$Definition[
-    "Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information."
-] =
-    "ยินดีต้อนรับ ฉันคือผู้ช่วยแนะนำ AI ของคุณ ซึ่งเป็นเครื่องมือที่ใช้การเรียนรู้ของเครื่องจักร ออกแบบมาเพื่อค้นหาและแนะนำบทความและโพสต์ที่เกี่ยวข้องเพื่อตอบสนองต่อคำถามของคุณ โปรดป้อนคำถามของคุณ และฉันจะให้ข้อมูลที่เหมาะสมที่สุดแก่คุณ";
+$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'คำเตือน: ข้อมูลทั้งหมดของคุณจะสูญหาย เมื่อคุณลบจะไม่มีการกู้คืนใด ๆ';
+$Definition['Warning: deleting is permanent'] = 'คำเตือน: รายการที่ถูกลบจะถูกลบออกจากรายการนี้และไม่สามารถนำกลับมาได้';
+$Definition['Warn users if a link in a post will cause them to leave the forum'] = 'เตือนผู้ใช้หากลิงก์ในโพสต์จะทำให้ผู้ใช้ออกจากฟอรัม';
+$Definition['Weekly Email Digest '] = 'สรุปอีเมลรายสัปดาห์';
+$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'ยินดีต้อนรับ ฉันคือผู้ช่วยแนะนำ AI ของคุณ ซึ่งเป็นเครื่องมือที่ใช้การเรียนรู้ของเครื่องจักร ออกแบบมาเพื่อค้นหาและแนะนำบทความและโพสต์ที่เกี่ยวข้องเพื่อตอบสนองต่อคำถามของคุณ โปรดป้อนคำถามของคุณ และฉันจะให้ข้อมูลที่เหมาะสมที่สุดแก่คุณ';
+$Definition['Welcome to Vanilla!'] = 'ยินดีต้อนรับสู่วานิลลา!';
+$Definition['Welcome to your Dashboard'] = 'ยินดีต้อนรับสู่แดชบอร์ดของคุณ';
+$Definition['We only accept urls that begin with http:// or https://'] = 'เรายอมรับเฉพาะ URL ที่ขึ้นต้นด้วย http: // หรือ https: //';
+$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'เราจะพยายามใช้เซิร์ฟเวอร์อีเมลในพื้นที่เพื่อส่งอีเมลโดยค่าเริ่มต้น หากคุณต้องการใช้เซิร์ฟเวอร์เมล SMTP แยกกันคุณสามารถกำหนดค่าได้ด้านล่าง';
 $Definition['What\'s the Buzz?'] = 'Buzz คืออะไร';
-$Definition["When enabled, search result will open in a new browser tab."] =
-    "เมื่อเปิดใช้งาน ผลการค้นหาจะเปิดในแท็บเบราว์เซอร์ใหม่";
-$Definition[
-    "When enabled, your community will have AI Suggestions shown in Q&A. <0/>"
-] = "เมื่อเปิดใช้งานแล้ว ชุมชนของคุณจะมีคำแนะนำ AI แสดงในคำถามและคำตอบ <0/>";
-$Definition[
-    "When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>"
-] =
-    "เมื่อเปิดใช้การตั้งค่านี้ รายละเอียดผู้ใช้ในข้อมูล Analytics จะไม่ระบุตัวตนโดยค่าเริ่มต้น จนกว่าผู้ใช้จะยินยอมให้ใช้คุกกี้ Analytics <0>เรียนรู้เพิ่มเติม</0>";
-$Definition["Where is your Community Forum?"] =
-    "ฟอรัมชุมชนของคุณอยู่ที่ไหน";
+$Definition['When enabled, search result will open in a new browser tab.'] = 'เมื่อเปิดใช้งาน ผลการค้นหาจะเปิดในแท็บเบราว์เซอร์ใหม่';
+$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'เมื่อเปิดใช้งานแล้ว ชุมชนของคุณจะมีคำแนะนำ AI แสดงในคำถามและคำตอบ <0/>';
+$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'เมื่อเปิดใช้การตั้งค่านี้ รายละเอียดผู้ใช้ในข้อมูล Analytics จะไม่ระบุตัวตนโดยค่าเริ่มต้น จนกว่าผู้ใช้จะยินยอมให้ใช้คุกกี้ Analytics <0>เรียนรู้เพิ่มเติม</0>';
+$Definition['Where is your Community Forum?'] = 'ฟอรัมชุมชนของคุณอยู่ที่ไหน';
 $Definition['Who\'s Online Settings'] = 'ใครตั้งค่าออนไลน์';
-$Definition["Why am I seeing AI Suggested Answers?"] =
-    "เหตุใดฉันจึงเห็นคำตอบที่แนะนำโดย AI";
-$Definition["Why am I seeing this?"] = "เหตุใดฉันจึงเห็นสิ่งนี้?";
-$Definition["Why do you want to join?"] = "ทำไมคุณต้องการที่จะเข้าร่วม ?";
-$Definition["Within"] = "ภายใน";
-$Definition["Will you be attending?"] = "คุณจะเข้าร่วมหรือไม่";
-$Definition["WordPress Plugin"] = "ปลั๊กอิน WordPress";
-$Definition["Word Count"] = "การนับจำนวนคำ";
+$Definition['Why am I seeing AI Suggested Answers?'] = 'เหตุใดฉันจึงเห็นคำตอบที่แนะนำโดย AI';
+$Definition['Why am I seeing this?'] = 'เหตุใดฉันจึงเห็นสิ่งนี้?';
+$Definition['Why do you want to join?'] = 'ทำไมคุณต้องการที่จะเข้าร่วม ?';
+$Definition['Will you be attending?'] = 'คุณจะเข้าร่วมหรือไม่';
+$Definition['Wipe'] = 'เช็ด';
+$Definition['with'] = 'กับ';
+$Definition['Within'] = 'ภายใน';
+$Definition['with reason'] = 'ด้วยเหตุผล';
+$Definition['with tag'] = 'พร้อมแท็ก';
+$Definition['Word Count'] = 'การนับจำนวนคำ';
+$Definition['WordPress Plugin'] = 'ปลั๊กอิน WordPress';
 
-$Definition["Yes, the following information can be changed later."] =
-    "ใช่ข้อมูลต่อไปนี้สามารถเปลี่ยนแปลงได้ในภายหลัง";
-$Definition["You are connected as %s."] = "คุณเชื่อมต่อเป็น %s";
-$Definition["You are not allowed to use suggestions"] =
-    "คุณไม่ได้รับอนุญาตให้ใช้ข้อเสนอแนะ";
-$Definition["You are previewing the %s theme."] =
-    "คุณกำลังดูตัวอย่างธีม %s";
-$Definition[
-    "You can also ban the users that posted the spam and delete all of their posts."
-] =
-    "ทำเครื่องหมายที่ช่องถัดจากผู้ใช้ที่โพสต์จดหมายขยะเพื่อห้ามแบนและลบโพสต์ทั้งหมด <b>ทำเช่นนี้เฉพาะในกรณีที่คุณแน่ใจว่าเป็นสแปมเมอร์</b>";
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] =
-    'หากคุณถูกล็อกออกจากฟอรัมคุณสามารถเข้าสู่ระบบโดยใช้อีเมลและรหัสผ่านเดิมของคุณที่ <a href="%1$s">%1$s</a>';
-$Definition[
-    "You can ban IP addresses, email domains, and words from usernames using this tool."
-] =
-    "คุณสามารถแบนที่อยู่ IP, โดเมนอีเมลและคำจากชื่อผู้ใช้โดยใช้เครื่องมือนี้";
-$Definition[
-    "You can customize the HTML and CSS for this theme on the %s page."
-] = "คุณสามารถปรับแต่ง HTML และ CSS สำหรับชุดรูปแบบนี้ได้ในหน้า %s";
-$Definition[
-    "You can either create a new account, or enter your credentials if you have an existing account."
-] =
-    "คุณสามารถสร้างบัญชีใหม่หรือป้อนข้อมูลประจำตัวของคุณหากคุณมีบัญชีที่มีอยู่";
-$Definition["You can make the categories page your homepage."] =
-    'คุณสามารถทำให้หน้าหมวดหมู่เป็นหน้าแรกของคุณได้ <a href="%s">ที่นี่</a>';
-$Definition[
-    "You can search for users by username or email, wildcards are implied."
-] = "คุณสามารถค้นหาผู้ใช้ด้วยชื่อผู้ใช้หรืออีเมล โดยจะใช้สัญลักษณ์แทน";
-$Definition["You can specify an allow list of trusted domains."] =
-    "คุณสามารถระบุรายการโดเมนที่เชื่อถือได้ซึ่งปลอดภัยสำหรับการเปลี่ยนเส้นทางและการฝัง";
-$Definition["You can specify an allow list of trusted domains. (CSP)"] =
-    "คุณสามารถระบุรายการที่อนุญาตของโดเมนที่เชื่อถือได้ (เช่น yourdomain.com) ที่ปลอดภัยในการโหลดจาวาสคริปต์";
-$Definition[
-    'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'
-] =
-    'คุณไม่สามารถปิดการใช้งานปลั๊กอิน %1$s เนื่องจากปลั๊กอิน %2$s นั้นต้องการเพื่อให้สามารถใช้งานได้';
-$Definition[
-    "You cannot remove the only remaining category that allows discussions"
-] = "คุณไม่สามารถลบหมวดหมู่ที่เหลือเท่านั้นที่อนุญาตการสนทนา";
-$Definition[
-    "You can protect your site with an HTTP username/password during development."
-] =
-    "คุณสามารถปกป้องไซต์ของคุณด้วยชื่อผู้ใช้ / รหัสผ่าน HTTP ในระหว่างการพัฒนา";
-$Definition[
-    "You can send emails in plain text by disabling the toggle below."
-] = "คุณสามารถส่งอีเมลด้วยข้อความธรรมดาโดยปิดการใช้งานสลับด้านล่าง";
-$Definition["You have %s invitations left for this month."] =
-    "คุณเหลือคำเชิญ %s สำหรับเดือนนี้";
-$Definition["You have successfully saved interest: <0/>"] =
-    "คุณได้บันทึกดอกเบี้ยสำเร็จแล้ว: <0/>";
-$Definition["You must be authenticated in order to use this form."] =
-    "คุณต้องได้รับการรับรองความถูกต้องเพื่อใช้แบบฟอร์มนี้";
-$Definition["You must manually apply this rank."] =
-    "คุณต้องใช้อันดับนี้ด้วยตนเอง";
-$Definition["You must provide at least one recipient"] =
-    "คุณต้องระบุผู้รับอย่างน้อยหนึ่งราย";
-$Definition["You must specify an admin password."] =
-    "คุณต้องตั้งค่ารหัสผ่านของแอดมิน";
-$Definition["You must specify an admin username."] =
-    "คุณต้องตั้งค่าชื่อผู้ใช้งานของแอดมิน";
-$Definition[
-    "Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>"
-] =
-    "ไฟล์กำหนดค่าของคุณไม่มีสิทธิ์ที่ถูกต้อง PHP ต้องสามารถอ่านและเขียนไฟล์นี้: <code>%s</code>";
-$Definition['Your default locale won\'t display properly'] =
-    'ตำแหน่งที่ตั้งเริ่มต้นของคุณจะไม่แสดงอย่างถูกต้องจนกว่าจะเปิดใช้งานด้านล่าง โปรดเปิดใช้งานสิ่งต่อไปนี้: %s';
-$Definition["Your Email"] = "อีเมลของคุณ";
-$Definition["Your inbox is empty."] = "กล่องขาเข้าว่างเปล่า";
-$Definition["Your invitations were sent successfully."] =
-    "คำเชิญของคุณถูกส่งเรียบร้อย";
-$Definition["Your Password"] = "รหัสผ่านของคุณ";
-$Definition[
-    "You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "คุณกำลังออกจากตัวแก้ไขธีมโดยไม่บันทึกการเปลี่ยนแปลงของคุณ ตรวจสอบให้แน่ใจว่าการอัพเดตของคุณได้รับการบันทึกก่อนออก";
-$Definition[
-    "You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting."
-] =
-    "คุณกำลังออกจากหน้าการตั้งค่าอีเมลโดยไม่บันทึกการเปลี่ยนแปลงของคุณ ตรวจสอบให้แน่ใจว่าการอัปเดตของคุณได้รับการบันทึกก่อนที่จะออก";
+$Definition['Yes, the following information can be changed later.'] = 'ใช่ข้อมูลต่อไปนี้สามารถเปลี่ยนแปลงได้ในภายหลัง';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'คุณพยายามเข้าสู่ระบบครบจำนวนสูงสุดแล้ว โปรดรอ %s แล้วลองอีกครั้ง';
+$Definition['You are connected as %s.'] = 'คุณเชื่อมต่อเป็น %s';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'คุณกำลังออกจากหน้าการตั้งค่าอีเมลโดยไม่บันทึกการเปลี่ยนแปลงของคุณ ตรวจสอบให้แน่ใจว่าการอัปเดตของคุณได้รับการบันทึกก่อนที่จะออก';
+$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'คุณกำลังออกจากตัวแก้ไขธีมโดยไม่บันทึกการเปลี่ยนแปลงของคุณ ตรวจสอบให้แน่ใจว่าการอัพเดตของคุณได้รับการบันทึกก่อนออก';
+$Definition['You are not allowed to use suggestions'] = 'คุณไม่ได้รับอนุญาตให้ใช้ข้อเสนอแนะ';
+$Definition['You are previewing the %s theme.'] = 'คุณกำลังดูตัวอย่างธีม %s';
+$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'ทำเครื่องหมายที่ช่องถัดจากผู้ใช้ที่โพสต์จดหมายขยะเพื่อห้ามแบนและลบโพสต์ทั้งหมด <b>ทำเช่นนี้เฉพาะในกรณีที่คุณแน่ใจว่าเป็นสแปมเมอร์</b>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'หากคุณถูกล็อกออกจากฟอรัมคุณสามารถเข้าสู่ระบบโดยใช้อีเมลและรหัสผ่านเดิมของคุณที่ <a href="%1$s">%1$s</a>';
+$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'คุณสามารถแบนที่อยู่ IP, โดเมนอีเมลและคำจากชื่อผู้ใช้โดยใช้เครื่องมือนี้';
+$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'คุณสามารถปรับแต่ง HTML และ CSS สำหรับชุดรูปแบบนี้ได้ในหน้า %s';
+$Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'คุณสามารถสร้างบัญชีใหม่หรือป้อนข้อมูลประจำตัวของคุณหากคุณมีบัญชีที่มีอยู่';
+$Definition['You can make the categories page your homepage.'] = 'คุณสามารถทำให้หน้าหมวดหมู่เป็นหน้าแรกของคุณได้ <a href="%s">ที่นี่</a>';
+$Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'คุณไม่สามารถเพิ่มกฎอัตโนมัติได้มากกว่า 150 กฎ โปรดลบกฎบางข้อแล้วลองอีกครั้ง';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'คุณไม่สามารถปิดการใช้งานปลั๊กอิน %1$s เนื่องจากปลั๊กอิน %2$s นั้นต้องการเพื่อให้สามารถใช้งานได้';
+$Definition['You cannot remove the only remaining category that allows discussions'] = 'คุณไม่สามารถลบหมวดหมู่ที่เหลือเท่านั้นที่อนุญาตการสนทนา';
+$Definition['You cannot update this event\'s Zoom URL or ID.'] = 'คุณไม่สามารถอัปเดต URL หรือ ID ของการซูมของกิจกรรมนี้ได้';
+$Definition['You can protect your site with an HTTP username/password during development.'] = 'คุณสามารถปกป้องไซต์ของคุณด้วยชื่อผู้ใช้ / รหัสผ่าน HTTP ในระหว่างการพัฒนา';
+$Definition['You can search for users by username or email, wildcards are implied.'] = 'คุณสามารถค้นหาผู้ใช้ด้วยชื่อผู้ใช้หรืออีเมล โดยจะใช้สัญลักษณ์แทน';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'คุณสามารถส่งอีเมลด้วยข้อความธรรมดาโดยปิดการใช้งานสลับด้านล่าง';
+$Definition['You can specify an allow list of trusted domains.'] = 'คุณสามารถระบุรายการโดเมนที่เชื่อถือได้ซึ่งปลอดภัยสำหรับการเปลี่ยนเส้นทางและการฝัง';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'คุณสามารถระบุรายการที่อนุญาตของโดเมนที่เชื่อถือได้ (เช่น yourdomain.com) ที่ปลอดภัยในการโหลดจาวาสคริปต์';
+$Definition['You have %s invitations left for this month.'] = 'คุณเหลือคำเชิญ %s สำหรับเดือนนี้';
+$Definition['You have successfully saved interest: <0/>'] = 'คุณได้บันทึกดอกเบี้ยสำเร็จแล้ว: <0/>';
+$Definition['You must be authenticated in order to use this form.'] = 'คุณต้องได้รับการรับรองความถูกต้องเพื่อใช้แบบฟอร์มนี้';
+$Definition['You must manually apply this rank.'] = 'คุณต้องใช้อันดับนี้ด้วยตนเอง';
+$Definition['You must provide at least one recipient'] = 'คุณต้องระบุผู้รับอย่างน้อยหนึ่งราย';
+$Definition['You must specify an admin password.'] = 'คุณต้องตั้งค่ารหัสผ่านของแอดมิน';
+$Definition['You must specify an admin username.'] = 'คุณต้องตั้งค่าชื่อผู้ใช้งานของแอดมิน';
+$Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'ไฟล์กำหนดค่าของคุณไม่มีสิทธิ์ที่ถูกต้อง PHP ต้องสามารถอ่านและเขียนไฟล์นี้: <code>%s</code>';
+$Definition['Your default locale won\'t display properly'] = 'ตำแหน่งที่ตั้งเริ่มต้นของคุณจะไม่แสดงอย่างถูกต้องจนกว่าจะเปิดใช้งานด้านล่าง โปรดเปิดใช้งานสิ่งต่อไปนี้: %s';
+$Definition['Your Email'] = 'อีเมลของคุณ';
+$Definition['Your inbox is empty.'] = 'กล่องขาเข้าว่างเปล่า';
+$Definition['Your invitations were sent successfully.'] = 'คำเชิญของคุณถูกส่งเรียบร้อย';
+$Definition['Your Password'] = 'รหัสผ่านของคุณ';
 
-$Definition["Zendesk Knowledge Bases"] = "ฐานความรู้ของ Zendesk";
-
-$Definition["Mobile Logo"] = "โลโก้มือถือ";
-$Definition["Banner Image"] = "ภาพแบนเนอร์";
-$Definition["Disable Forum Pages"] = "ปิดการใช้งานหน้าฟอรั่ม";
-
-// Posting settings
-$Definition["InputFormatter.Notes1"] =
-    "เลือกรูปแบบเริ่มต้นของเครื่องมือแก้ไขสำหรับโพสต์ในชุมชน";
-$Definition["InputFormatter.Notes2"] =
-    "เครื่องมือแก้ไขจะตรวจหารูปแบบของโพสต์เก่าโดยอัตโนมัติเมื่อแก้ไขและโหลดกฎการจัดรูปแบบดั้งเดิม นอกเหนือจากข้อยกเว้นนี้รูปแบบโพสต์ที่เลือกด้านล่างจะมีความสำคัญกว่า";
-$Definition["Formatting Posts"] = "การจัดรูปแบบกระทู้";
-$Definition["MobileInputFormatter.Notes1"] =
-    "ระบุรูปแบบการแก้ไขสำหรับอุปกรณ์มือถือ";
-$Definition["MobileInputFormatter.Notes2"] =
-    "หากอุปกรณ์มือถือควรมีประสบการณ์แบบเดียวกันให้ระบุอุปกรณ์ตัวเดียวกันตามข้างต้น หากผู้ใช้รายงานปัญหาเกี่ยวกับการแก้ไขมือถือนี่เป็นตัวเลือกที่ดีในการเปลี่ยนแปลง";
-$Definition["Note:"] = "บันทึก:";
-$Definition["Post Format"] = "รูปแบบโพสต์";
-$Definition["Posting"] = "โพสต์";
-$Definition["Reinterpret All Posts As %s"] = "ตีความโพสต์ทั้งหมดใหม่เป็น %s";
-$Definition["Tell the editor to reinterpret all old posts as %s."] =
-    "แจ้งให้ผู้แก้ไขตีความโพสต์เก่าทั้งหมดใหม่เป็น %s";
-$Definition[
-    "This setting will only take effect if %s was chosen as the Post Format above."
-] =
-    "การตั้งค่านี้จะมีผลก็ต่อเมื่อเลือก %s เป็นรูปแบบโพสต์ด้านบน";
-$Definition["This option is to normalize the editor format"] =
-    "ตัวเลือกนี้คือการทำให้รูปแบบตัวแก้ไขเป็นมาตรฐาน หากโพสต์เก่าที่มีการแก้ไขด้วยรูปแบบอื่น เช่น มาร์กดาวน์ หรือ BBCode ถูกโหลด ตัวเลือกนี้จะบังคับ %s";
-
-$Definition["Mobile Format"] = "รูปแบบมือถือ";
-$Definition["Enable Rich Quotes"] = "เปิดใช้งานคำคมที่หลากหลาย";
-$Definition["RichEditor.QuoteEnable.Notes"] =
-    'ใช้ตัวเลือกต่อไปนี้เพื่อเปิดใช้งานการเสนอราคาสำหรับ Rich Editor การดำเนินการนี้จะใช้เฉพาะหากตัวจัดรูปแบบเริ่มต้นคือ "Rich"';
-
-// Catalogue Display Plugin/Formats
-$Definition["Default placeholder"] = "ค่าเริ่มต้นสำหรับเปลี่ยนค่า";
-$Definition["Upload a placeholder image for catalogue post."] =
-    "อัปโหลดรูปภาพตัวยึดที่จะแสดงเมื่อผู้ใช้ไม่มีภาพในโพสต์";
-$Definition["Additional classes"] = "คลาสเพิ่มเติม";
-$Definition["Apply additional classes on catalogue image."] =
-    "ใช้คลาสเพิ่มเติมบนรูปภาพแคตตาล็อก ใช้พื้นที่ในการแยกแต่ละชั้น";
-$Definition["Category only"] = "หมวดหมู่เท่านั้น";
-$Definition["Display on category page only."] =
-    "แสดงในหน้าหมวดหมู่เท่านั้น รายการสนทนาล่าสุดจะไม่ได้รับผลกระทบ";
-$Definition["Use Masonry display"] = "ใช้จอแสดงผลแบบ Mason";
-$Definition["Show an uploaded image on the Category page."] =
-    'การอภิปรายแต่ละครั้งจะแสดงภาพที่อัปโหลดในหน้าหมวดหมู่ ใช้กับหมวดหมู่ที่มี "การสนทนา" เป็น "แสดงเป็น" เท่านั้น';
-$Definition["Upload Placeholder Image"] = "อัปโหลดรูปภาพตัวแทน";
-
-// Profile Fields
-$Definition["There was an error saving your changes. Please try again."] =
-    "เกิดข้อผิดพลาดในการบันทึกการเปลี่ยนแปลงของคุณ กรุณาลองอีกครั้ง.";
-$Definition["<0/> has been <1/>"] = "<0/> เป็น <1/>";
-$Definition["enabled"] = "เปิดใช้งาน";
-$Definition["disabled"] = "พิการ";
-
-$Definition[
-    "This information will only be shown to users with permission to view internal info"
-] =
-    "ข้อมูลนี้จะแสดงต่อผู้ใช้ที่มีสิทธิ์ดูข้อมูลภายในเท่านั้น";
-$Definition[
-    "This is private information and will not be shared with other members."
-] = "นี่เป็นข้อมูลส่วนตัวและจะไม่แบ่งปันกับสมาชิกรายอื่น";
-
-$Definition[
-    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
-] =
-    "การดำเนินการนี้จะสร้างการประชุม Zoom ในนามของเจ้าของการผสานรวม Zoom และหากคุณเป็นผู้ใช้ที่ลงทะเบียนแล้ว ให้เพิ่มคุณเป็นผู้จัดร่วม หากคุณไม่ใช่ผู้ใช้ Zoom ที่ลงทะเบียนแล้วหรือไม่ใช่ส่วนหนึ่งขององค์กรที่ตั้งค่าการผสานรวม กิจกรรมนี้อาจมีฟังก์ชัน Zoom ที่จำกัดหากไม่มีผู้จัด";
-$Definition['You cannot update this event\'s Zoom URL or ID.'] =
-    'คุณไม่สามารถอัปเดต URL หรือ ID ของการซูมของกิจกรรมนี้ได้';
-
-$Definition["Zoom Meeting ID or URL"] = "ID หรือ URL การประชุม Zoom";
-
-// Automation Rules
-$Definition["Add tag"] = "เพิ่มแท็ก";
-$Definition["A post"] = "โพสต์";
-$Definition["A post has been added to a collection"] =
-    "โพสต์ได้รับการเพิ่มลงในคอลเลกชั่นแล้ว";
-$Definition["A post has not had any activity"] =
-    "โพสต์นี้ไม่มีกิจกรรมใดๆ";
-$Definition["A question"] = "คำถาม";
-$Definition["A user has been registered"] = "ผู้ใช้งานได้รับการลงทะเบียนแล้ว";
-$Definition["A post has received"] = "โพสต์ได้รับการรับแล้ว";
-$Definition["Date field reached"] = "วันที่ถึงช่อง";
-$Definition["A user registers or logs in with email domain:"] =
-    "ผู้ใช้ลงทะเบียนหรือเข้าสู่ระบบด้วยโดเมนอีเมล:";
-$Definition["A user registers or updates a profile field:"] =
-    "ผู้ใช้ลงทะเบียนหรืออัปเดตข้อมูลโปรไฟล์:";
-$Definition["Add tags:"] = "เพิ่มแท็ก:";
-$Definition["Add to collection:"] = "เพิ่มเข้าในคอลเลคชั่น:";
-$Definition["An idea has received"] = "ได้มีไอเดียเกิดขึ้น";
-$Definition["and"] = "และ";
-$Definition["and assign to"] = "และมอบหมายให้";
-$Definition["and remove role"] = "และลบบทบาทออกไป";
-$Definition["and remove from community"] = "และลบออกจากชุมชน";
-$Definition["Assign role:"] = "มอบหมายบทบาท:";
-$Definition["Assign/Remove role"] = "การมอบหมาย/ลบบทบาท";
-$Definition["Auto-run disabled."] = "ปิดใช้งานการทำงานอัตโนมัติ";
-$Definition["Auto-run enabled."] = "เปิดใช้งานการทำงานอัตโนมัติแล้ว";
-$Definition["Automation rule successfully created."] =
-    "สร้างกฎอัตโนมัติสำเร็จแล้ว";
-$Definition["Automation rule successfully updated."] =
-    "อัปเดตกฎการทำงานอัตโนมัติสำเร็จแล้ว";
-$Definition["Bump post"] = "เสากันกระแทก";
-$Definition["Change the status of the idea to"] =
-    "เปลี่ยนสถานะของไอเดียเป็น";
-$Definition["Change status"] = "เปลี่ยนสถานะ";
-$Definition["Close post"] = "ปิดกระทู้";
-$Definition["Comments Matching Criteria Now: <0 />"] =
-    "ความคิดเห็นที่ตรงกับเกณฑ์ในขณะนี้: <0 />";
-$Definition["created by"] = "สร้างโดย";
-$Definition["Create and manage automations to easily manage posts and users."] =
-    "สร้างและจัดการระบบอัตโนมัติเพื่อจัดการโพสต์และผู้ใช้ได้อย่างง่ายดาย";
-$Definition["Create/Edit Automation Rule"] = "สร้าง/แก้ไขกฎการทำงานอัตโนมัติ";
-$Definition["Delete Rule"] = "ลบกฎ";
-$Definition["Discussions Matching Criteria Now: <0 />"] =
-    "เกณฑ์การจับคู่การสนทนาในขณะนี้: <0 />";
-$Definition["Edit Rule"] = "แก้ไขกฎ";
-$Definition["Edit Variables"] = "แก้ไขตัวแปร";
-$Definition["Escalate it"] = "เพิ่มระดับมัน";
-$Definition["Escalate to GitHub"] = "เพิ่มระดับไปยัง GitHub";
-$Definition["Escalate to Zendesk"] = "ยกระดับไปยัง Zendesk";
-$Definition["Expand"] = "ขยาย";
-$Definition["Failed to disable the rule"] = "ไม่สามารถปิดการใช้งานกฎได้";
-$Definition[
-    "Failed to load the preview data. Please check your trigger and action values."
-] =
-    "ไม่สามารถโหลดข้อมูลตัวอย่างได้ โปรดตรวจสอบค่าทริกเกอร์และการดำเนินการของคุณ";
-$Definition["Follow categories:"] = "ติดตามหมวดหมู่:";
-$Definition["Follow category"] = "ติดตามหมวดหมู่";
-$Definition["for"] = "สำหรับ";
-$Definition["has been unanswered"] = "ยังไม่ได้รับคำตอบ";
-$Definition["has not received any comments"] = "ยังไม่ได้รับความคิดเห็นใด ๆ";
-$Definition["Last reported"] = "รายงานล่าสุด";
-$Definition["Maximum Limit Reached"] = "ถึงขีดจำกัดสูงสุดแล้ว";
-$Definition["Move post"] = "ย้ายกระทู้";
-$Definition["Move to category:"] = "ย้ายไปยังหมวดหมู่:";
-$Definition[
-    "Multi-select fields will trigger if the user meets ANY of the criteria."
-] = "ระบบจะทริกเกอร์ฟิลด์หลายรายการหากผู้ใช้ตรงตามเกณฑ์ใดๆ ก็ตาม";
-$Definition["New/Updated Email domain"] = "โดเมนอีเมลใหม่/อัปเดต";
-$Definition["New/Updated Profile field"] = "โปรไฟล์ใหม่/อัปเดต";
-$Definition[
-    "Note: Actions will not affect <0 /> that already have the associated action applied."
-] =
-    "หมายเหตุ: การดำเนินการจะไม่ส่งผลต่อ <0 /> ที่มีการนำการดำเนินการที่เกี่ยวข้องไปใช้แล้ว";
-$Definition["Post Management"] = "การจัดการโพสต์";
-$Definition["Posts Matching Criteria Now: <0 />"] =
-    "โพสต์ที่ตรงตามเกณฑ์ขณะนี้: <0 />";
-$Definition["Remove from collection"] = "ลบออกจากคอลเลกชั่น";
-$Definition["Remove from collection:"] = "ลบออกจากคอลเลกชัน:";
-$Definition["Remove from default follow list"] =
-    "ลบออกจากรายการติดตามเริ่มต้น";
-$Definition["Remove from trigger collection"] =
-    "ลบออกจากคอลเลกชันทริกเกอร์";
-$Definition["report"] = "รายงาน";
-$Definition["reports"] = "รายงาน";
-$Definition["Rule Action"] = "กฎการดำเนินการ";
-$Definition["Rule may not be deleted while it is running"] =
-    "ไม่สามารถลบกฎได้ในขณะที่กำลังทำงานอยู่";
-$Definition["Rule may not be edited while it is running"] =
-    "ห้ามแก้ไขกฎในขณะที่กำลังทำงาน";
-$Definition["Rule Name"] = "ชื่อกฎ";
-$Definition["Rule status will apply once current run completes"] =
-    "สถานะกฎจะนำไปใช้เมื่อการทำงานปัจจุบันเสร็จสิ้น";
-$Definition["Rule Trigger"] = "กฎการทริกเกอร์";
-$Definition["Running"] = "วิ่ง";
-$Definition["See documentation for more information."] =
-    "โปรดดูเอกสารประกอบเพื่อดูข้อมูลเพิ่มเติม";
-$Definition["Select the action that will occur when this rule is triggered."] =
-    "เลือกการดำเนินการที่จะเกิดขึ้นเมื่อมีการเรียกใช้กฎนี้";
-$Definition["Select the trigger that will cause this rule to run."] =
-    "เลือกทริกเกอร์ที่จะทำให้กฎนี้ทำงาน";
-$Definition[
-    "Set trigger variable and action variable to generate a rule summary."
-] = "ตั้งค่าตัวแปรทริกเกอร์และตัวแปรการกระทำเพื่อสร้างสรุปกฎ";
-$Definition["sentiment"] = "ความรู้สึก";
-$Definition["since"] = "เนื่องจาก";
-$Definition["Summary"] = "สรุป";
-$Definition["The action will be applied to only them if you proceed."] =
-    "การดำเนินการนี้จะใช้ได้กับพวกเขาเท่านั้นหากคุณดำเนินการต่อ";
-$Definition[
-    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
-] =
-    "การดำเนินการดังกล่าวจะใช้กับพวกเขาเมื่อกฎถูกเปิดใช้งาน ในอนาคต <0 /> อื่นๆ ที่ตรงตามเกณฑ์การเรียกใช้งานก็จะมีการดำเนินการที่ใช้กับพวกเขาเช่นกัน";
-$Definition[
-    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
-] =
-    "สิ่งนี้จะไม่ส่งผลต่อ <0 /> ใดๆ ในขณะนี้ แต่จะส่งผลต่อผู้ที่ตรงตามเกณฑ์ในอนาคต";
-$Definition["Time since added to collection"] =
-    "เวลาตั้งแต่เพิ่มเข้าในคอลเลกชั่น";
-$Definition["Time since post has had no comments"] =
-    "เวลาตั้งแต่โพสต์ไม่มีความคิดเห็น";
-$Definition["Time since Registration"] = "เวลาตั้งแต่การลงทะเบียน";
-$Definition["Time since post has had no activity"] =
-    "เวลาตั้งแต่โพสต์ไม่มีกิจกรรม";
-$Definition["Time since question has been unanswered"] =
-    "เวลาที่ผ่านไปนับตั้งแต่คำถามยังไม่ได้รับคำตอบ";
-$Definition["Trigger"] = "สิ่งกระตุ้น";
-$Definition["Unsaved Changes"] = "การเปลี่ยนแปลงที่ไม่ได้บันทึก";
-$Definition["Up to <0 /> ago."] = "นานถึง <0 /> ที่ผ่านมา";
-$Definition["upvote"] = "โหวตขึ้น";
-$Definition["upvotes"] = "โหวตขึ้น";
-$Definition["User Management"] = "การจัดการผู้ใช้";
-$Definition["Users Matching Criteria Now: <0 />"] =
-    "ผู้ใช้ที่ตรงตามเกณฑ์ในขณะนี้: <0 />";
-$Definition["Value is not a valid integer."] = "ค่าไม่ใช่จำนวนเต็มที่ถูกต้อง";
-$Definition["View History"] = "ดูประวัติ";
-$Definition["Votes on an idea"] = "โหวตให้กับไอเดีย";
-$Definition["with"] = "กับ";
-$Definition["with reason"] = "ด้วยเหตุผล";
-$Definition["with tag"] = "พร้อมแท็ก";
-$Definition[
-    "You cannot add more than 150 automation rules. Delete some rules and try again."
-] =
-    "คุณไม่สามารถเพิ่มกฎอัตโนมัติได้มากกว่า 150 กฎ โปรดลบกฎบางข้อแล้วลองอีกครั้ง";
-
-// Icon Management
-$Definition["No icons match those filters."] = "ไม่มีไอคอนที่ตรงกับตัวกรองเหล่านั้น";
-$Definition["Manage Icon"] = "ไอคอนจัดการ";
-$Definition["Manage Icons"] = "การจัดการไอคอน";
-$Definition["Manage Icon helptext"] =
-    "คุณสามารถจัดการไอคอนระบบและประวัติได้ที่นี่ เมื่ออัปโหลด โปรดตรวจสอบว่าไอคอนอยู่ในรูปแบบ SVG มีแอตทริบิวต์ viewBox และใช้สี #000000 เพื่อให้แน่ใจว่าสามารถระบายสีแบบไดนามิกได้ตามการตั้งค่าธีมและการโต้ตอบของผู้ใช้ สามารถเปิดใช้งานไอคอนได้ครั้งละหนึ่งไอคอนเท่านั้นสำหรับแต่ละประเภท";
-$Definition["Upload New Icon"] = "อัพโหลดไอคอนใหม่";
-$Definition["Active Icon"] = "ไอคอนแอ็คทีฟ";
-$Definition["New Icon"] = "ไอคอนใหม่";
-$Definition["Icon Type"] = "ประเภทไอคอน";
-$Definition["Previous Icons"] = "ไอคอนก่อนหน้า";
-$Definition[
-    "Previous versions of your icons can be found here and restored at any time."
-] =
-    "คุณสามารถค้นหาเวอร์ชันก่อนหน้าของไอคอนได้ที่นี่ และสามารถเรียกคืนได้ตลอดเวลา";
-$Definition["Set as Active"] = "ตั้งค่าเป็นใช้งานอยู่";
-$Definition["Uploaded <0/> by <1/>"] = "อัพโหลด <0/> โดย <1/>";
-$Definition["Icon Packs"] = "ไอคอนแพ็ค";
-$Definition["Download Active Icon Pack"] = "ดาวน์โหลด Active Icon Pack";
-$Definition["Download System Icon Pack"] = "ดาวน์โหลด System Icon Pack";
-$Definition["Upload Icon Pack"] = "อัพโหลดไอคอนแพ็ค";
-$Definition["Preview Icon Pack"] = "แพ็คไอคอนตัวอย่าง";
-$Definition["Changed Icons"] = "ไอคอนที่เปลี่ยนแปลง";
-$Definition["Icon Name"] = "ชื่อไอคอน";
-$Definition["All icons in this icon pack are currently active."] =
-    "ไอคอนทั้งหมดในแพ็คไอคอนนี้เปิดใช้งานอยู่ในปัจจุบัน";
-$Definition["Activate Icon Pack"] = "เปิดใช้งานไอคอนแพ็ค";
-$Definition["Only show icons that have been overridden with custom icons."] =
-    "แสดงเฉพาะไอคอนที่ถูกแทนที่โดยไอคอนที่กำหนดเอง";
-$Definition["System Icon"] = "ไอคอนระบบ";
-$Definition["Custom Icon"] = "ไอคอนที่กำหนดเอง";
-$Definition["Only show icons that are default system icons."] =
-    "แสดงเฉพาะไอคอนที่เป็นไอคอนระบบเริ่มต้นเท่านั้น";
-$Definition["Previews"] = "ตัวอย่าง";
-$Definition["Icon Size"] = "ขนาดไอคอน";
-$Definition["This is the actual size most icons render at."] =
-    "นี่คือขนาดจริงของไอคอนส่วนใหญ่ที่แสดง";
-$Definition["Preview Color"] = "ตัวอย่างสี";
-$Definition[
-    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
-] =
-    "สีนี้จะใช้เพื่อดูตัวอย่างสีไอคอน ซึ่งจะแทนที่การใช้ #000000 ในไอคอนที่คุณอัปโหลด ในแอปพลิเคชันจริง สีจะเป็นแบบไดนามิก";
-$Definition["Escalation Name"] = "ชื่อการเพิ่มระดับ";
-$Definition["Status on Creation"] = "สถานะการสร้าง";
-$Definition["Assignee"] = "ผู้รับมอบหมาย";
-$Definition["Internal Comment"] = "ความคิดเห็นภายใน";
-$Definition["Set Post Visibility to Hidden"] = "ตั้งค่าการมองเห็นโพสต์เป็นซ่อน";
-$Definition["Remove Method"] = "วิธีการลบออก";
-$Definition["Wipe"] = "เช็ด";
-$Definition["Newest Post"] = "กระทู้ใหม่ล่าสุด";
-$Definition["Oldest Post"] = "กระทู้เก่าที่สุด";
-$Definition["Triage"] = "การคัดแยกประเภท";
-$Definition["Triage Dashboard"] = "แดชบอร์ดการคัดแยก";
-$Definition["Message Post Author"] = "ข้อความผู้เขียนโพสต์";
-$Definition["Add Filter"] = "เพิ่มตัวกรอง";
-$Definition["Customer Support"] = "การสนับสนุนลูกค้า";
-$Definition["My Profile"] = "โปรไฟล์ของฉัน";
-$Definition["Resolve post"] = "แก้ไขโพสต์";
-$Definition["View post in community"] = "ดูโพสต์ในชุมชน";
-$Definition["View Details"] = "ดูรายละเอียด";
-$Definition["Escalate"] = "เพิ่มระดับ";
-$Definition["Posted by <0/> in <1/>"] = "โพสต์โดย <0/> ใน <1/>";
-$Definition["Show"] = "แสดง";
-$Definition["View Escalation"] = "ดูการยกระดับ";
-$Definition["# Reports"] = "# รายงาน";
-$Definition["Last Reported"] = "รายงานล่าสุด";
-$Definition["Report Reasons"] = "เหตุผลในการรายงาน";
-$Definition["Last Modified"] = "ปรับปรุงล่าสุด";
-$Definition["Last refreshed <0/> by <1/>."] = "รีเฟรชล่าสุด <0/> โดย <1/>";
-
-$Definition["Moderation Content"] = "การกลั่นกรองเนื้อหา";
-$Definition["AI Settings"] = "การตั้งค่า AI";
-$Definition["OAuth2"] = "โอออธ2";
-$Definition["VIP Deploy"] = "การใช้งาน VIP";
-$Definition["Activity & Registration"] = "กิจกรรม & การลงทะเบียน";
-$Definition["Content Settings"] = "การตั้งค่าเนื้อหา";
-$Definition["Premoderation Settings"] = "การตั้งค่าก่อนการกลั่นกรอง";
-$Definition["Escalation Rules"] = "กฎการยกระดับ";
-$Definition["Automation"] = "ระบบอัตโนมัติ";
-$Definition["Audit Log"] = "บันทึกการตรวจสอบ";
-$Definition["Community Management"] = "การจัดการชุมชน";
-$Definition["Visualize Your Community"] = "สร้างภาพชุมชนของคุณ";
-$Definition["Customize your community"] = "ปรับแต่งชุมชนของคุณ";
-$Definition["Configuration & Addons"] = "การกำหนดค่าและส่วนเสริม";
-$Definition["Are you sure you want to delete your %s?"] =
-    "คุณแน่ใจหรือไม่ว่าต้องการลบ %s ของคุณ?";
-$Definition["Newest Report"] = "รายงานใหม่ล่าสุด";
-$Definition["Oldest Report"] = "รายงานเก่าแก่ที่สุด";
-$Definition["Report Dismissed"] = "รายงานถูกยกเลิก";
-$Definition["Post Rejected"] = "โพสต์ถูกปฏิเสธ";
-$Definition["Escalated"] = "การเพิ่มขึ้น";
-$Definition["Reported by <0/>"] = "รายงานโดย <0/>";
-$Definition["No report notes were provided by <0/>"] =
-    "ไม่มีการจัดทำบันทึกรายงานโดย <0/>";
-$Definition["Create"] = "สร้าง";
-$Definition["Edited"] = "แก้ไขแล้ว";
-$Definition["Newest Escalation"] = "การยกระดับใหม่ล่าสุด";
-$Definition["Oldest Escalation"] = "การยกระดับที่เก่าแก่ที่สุด";
-$Definition["Escalations Dashboard"] = "แดชบอร์ดการยกระดับ";
-$Definition["On Hold"] = "อยู่ระหว่างการระงับ";
-$Definition["Done"] = "เสร็จแล้ว";
-$Definition["In Jira"] = "ในจิระ";
-$Definition["In Zendesk"] = "ใน Zendesk";
-$Definition["Integrations"] = "การบูรณาการ";
-$Definition["Remove Post"] = "ลบโพสต์";
-$Definition["Escalated by <0/>"] = "เพิ่มระดับโดย <0/>";
-$Definition["Enter a title for this escalation"] =
-    "ระบุชื่อเรื่องสำหรับการยกระดับนี้";
-$Definition["Escalated by <0/>"] = "เพิ่มระดับโดย <0/>";
-$Definition["Post Revision"] = "โพสต์แก้ไข";
-$Definition["Loader"] = "โหลดเดอร์";
-$Definition["a month"] = "หนึ่งเดือน";
-$Definition["%s ago"] = "%s ที่ผ่านมา";
-$Definition["Live"] = "สด";
-$Definition["Live Post"] = "โพสต์สด";
-$Definition["Remove Post"] = "ลบโพสต์";
-$Definition["Internal Comments"] = "ความคิดเห็นภายใน";
-$Definition["Add a comment"] = "เพิ่มความคิดเห็น";
-$Definition["Live"] = "สด";
-$Definition["There are currently no comments on this post"] =
-    "ยังไม่มีความคิดเห็นเกี่ยวกับโพสต์นี้";
-$Definition["All comments on this post will appear here"] =
-    "ความคิดเห็นทั้งหมดในโพสต์นี้จะปรากฏที่นี่";
-$Definition["Reports for <0/>"] = "รายงานสำหรับ <0/>";
-$Definition["Live Post"] = "โพสต์สด";
-$Definition["There are currently no reports for this post."] =
-    "ยังไม่มีรายงานสำหรับโพสนี้";
-$Definition["A list of reports associated with this post will appear here."] =
-    "รายชื่อรายงานที่เกี่ยวข้องกับโพสต์นี้จะปรากฏที่นี่";
-$Definition[
-    "Configure where reports are sent and manage your community's report reasons."
-] =
-    "กำหนดค่าว่าจะส่งรายงานที่ไหนและจัดการเหตุผลของการรายงานของชุมชนของคุณ";
-$Definition["New Community Management System"] =
-    "ระบบบริหารจัดการชุมชนรูปแบบใหม่";
-$Definition["Enable Triage Dashboard"] = "เปิดใช้งานแดชบอร์ดการคัดแยก";
-$Definition[
-    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
-] =
-    "ผู้ใช้ทุกคนที่ได้รับอนุญาตจากเจ้าหน้าที่จะสามารถดูและทำเครื่องหมายการสนทนาว่าได้รับการแก้ไขหรือยังไม่ได้รับการแก้ไขได้ นอกจากนี้ ผู้ใช้เหล่านี้ยังสามารถเข้าถึงแดชบอร์ดการคัดแยกเพื่อดูแลหมวดหมู่ของตนได้อีกด้วย";
-$Definition["Resolve All Discussions"] = "แก้ไขการสนทนาทั้งหมด";
-$Definition[
-    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
-] =
-    "การแก้ไขโพสต์ทั้งหมดจะแก้ไขโพสต์ที่มีอยู่ทั้งหมดในชุมชน การดำเนินการเป็นกลุ่มนี้จะไม่เรียกใช้เว็บฮุกหรือการวิเคราะห์";
-$Definition["Resolve All"] = "แก้ไขทั้งหมด";
-$Definition["Required field"] = "ช่องที่จำเป็น";
-$Definition[
-    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
-] =
-    "ระบบการจัดการชุมชนใหม่ช่วยให้สามารถกำหนดเหตุผลในการรายงาน การเพิ่มระดับ การมอบหมาย และกฎการทำงานอัตโนมัติได้ การเปิดใช้งานระบบนี้จะทำให้การรับรายงานเปลี่ยนไปใช้ระบบใหม่ <0>อ่านเพิ่มเติม</0> -";
-$Definition[
-    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
-] =
-    "การดำเนินการนี้จะแก้ไขโพสต์ที่มีอยู่ทั้งหมดในชุมชน การดำเนินการเป็นกลุ่มนี้จะไม่เรียกใช้เว็บฮุกหรือการวิเคราะห์บันทึก ดำเนินการต่อหรือไม่";
-$Definition["Reorder"] = "เรียงลำดับใหม่";
-$Definition["Add Reason"] = "เพิ่มเหตุผล";
-$Definition["Delete?"] = "ลบ?";
-$Definition["Are you sure you want to delete this reason?"] =
-    "คุณแน่ใจว่าต้องการลบเหตุผลนี้หรือไม่?";
-$Definition["A concise name for the report reason."] =
-    "ชื่อสั้นๆ สำหรับเหตุผลของรายงาน";
-$Definition[
-    "A unique label for the report reason. This label cannot be changed once saved."
-] =
-    "ป้ายชื่อเฉพาะสำหรับเหตุผลในการรายงาน ไม่สามารถเปลี่ยนป้ายชื่อนี้ได้เมื่อบันทึกแล้ว";
-$Definition[
-    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
-] =
-    "คำอธิบายเหตุผลในการรายงานเพื่อให้ผู้รายงานสามารถเลือกรายงานโพสต์ได้ถูกต้องมากขึ้น";
-$Definition["The roles which can see this report reason."] =
-    "บทบาทที่สามารถดูเหตุผลรายงานนี้";
-$Definition["Add Report Reason"] = "เพิ่มเหตุผลในการรายงาน";
-$Definition["Discard Changes?"] = "ยกเลิกการเปลี่ยนแปลง?";
-$Definition["Are you sure you want to exit without saving?"] =
-    "คุณแน่ใจว่าต้องการออกโดยไม่บันทึกใช่ไหม?";
-$Definition["Reorder Report Reasons"] = "เหตุผลในการเรียงลำดับรายงานใหม่";
-$Definition["Edit Report Reason"] = "แก้ไขเหตุผลของรายงาน";
-$Definition["Delete Report Reason"] = "เหตุผลการลบรายงาน";
-$Definition["This setting must be enabled to use Custom Discussion Threads."] =
-    "จะต้องเปิดใช้งานการตั้งค่านี้เพื่อใช้หัวข้อการสนทนาแบบกำหนดเอง";
-$Definition[
-    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
-] =
-    "กำหนดค่าการตั้งค่าที่ใช้เพื่อควบคุมเนื้อหาชุมชนโดยอัตโนมัติก่อนที่จะสร้างขึ้น ตัวเลือกต่างๆ ได้แก่ การตรวจจับสแปมโดยอัตโนมัติ การกำหนดสิทธิ์การอนุมัติสำหรับการโพสต์ในหมวดหมู่บางหมวดหมู่ และการกำหนดสิทธิ์การอนุมัติสำหรับการโพสต์โดยใช้คำสำคัญหรือวลีบางคำ";
-$Definition["Spam Detection"] = "การตรวจจับสแปม";
-$Definition["Learn more."] = "เรียนรู้เพิ่มเติม.";
-$Definition["documentation."] = "เอกสารประกอบ";
-$Definition["Verify browsers of new members"] =
-    "ตรวจสอบเบราว์เซอร์ของสมาชิกใหม่";
-$Definition["Challenge Cutoff Age"] = "อายุที่ตัดออกของความท้าทาย";
-$Definition[
-    "Number of days since registration to bypass Cloudflare challenge"
-] = "จำนวนวันนับตั้งแต่ลงทะเบียนเพื่อหลีกเลี่ยงความท้าทายของ Cloudflare";
-$Definition["Save challenge cutoff age"] = "บันทึกความท้าทายตัดอายุ";
-$Definition["Premoderated Roles"] = "บทบาทที่ได้รับการดูแลล่วงหน้า";
-$Definition[
-    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
-] =
-    "ผู้ใช้ที่มีสิทธิ์ \"Approval.Require\" จะต้องได้รับการอนุมัติจากผู้ดูแลระบบสำหรับโพสต์ทั้งหมด";
-$Definition[
-    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
-] =
-    "ผู้ใช้ที่ทำเครื่องหมายว่า \"ผ่านการตรวจสอบ\" จะข้ามข้อกำหนดนี้ บทบาทเหล่านี้คือ \"Approval.Require\"";
-$Definition["No roles are currently set to require premoderation."] =
-    "ขณะนี้ไม่มีการตั้งค่าบทบาทใดที่ต้องได้รับการควบคุมดูแลล่วงหน้า";
-$Definition["Edit Roles"] = "แก้ไขบทบาท";
-$Definition["Premoderated Categories"] = "หมวดหมู่ที่ถูกควบคุมล่วงหน้า";
-$Definition["No categories are currently set to require premoderation."] =
-    "ขณะนี้ไม่มีหมวดหมู่ใดที่ถูกตั้งค่าให้ต้องผ่านการตรวจสอบล่วงหน้า";
-$Definition["Edit Categories"] = "แก้ไขหมวดหมู่";
-$Definition["Premoderated Keywords"] = "คีย์เวิร์ดที่ผ่านการกลั่นกรองล่วงหน้า";
-$Definition[
-    "Posts with any of the following keywords or phrases will required moderator approval."
-] =
-    "โพสต์ที่มีคำหลักหรือวลีใดๆ ต่อไปนี้จะต้องได้รับการอนุมัติจากผู้ดูแลระบบ";
-$Definition["No keywords are currently set to require premoderation."] =
-    "ขณะนี้ไม่มีการตั้งค่าคำหลักใดๆ ที่ต้องใช้การตรวจสอบล่วงหน้า";
-$Definition["Edit Keywords"] = "แก้ไขคำสำคัญ";
-$Definition[
-    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
-] =
-    "เปิดใช้งาน Akismet เพื่อกรองสแปมในทุกโพสต์ตามการลงทะเบียนผู้สมัครและผู้ใช้ที่ยังไม่ผ่านการตรวจสอบ <0/>";
-$Definition[
-    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
-] =
-    "เปิดใช้งาน Stopforumspam เพื่อตรวจสอบผู้ใช้ชุมชนกับรายชื่อผู้ส่งสแปมที่รายงาน และรายงานโพสต์ดังกล่าวว่าเป็นสแปมหรือปฏิเสธโพสต์ดังกล่าวโดยสิ้นเชิง เกณฑ์การรายงานและการปฏิเสธจะถูกจัดการในการตั้งค่าของส่วนเสริม <0></0> . เรียนรู้เพิ่มเติมใน <1/>";
-$Definition[
-    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
-] =
-    "สมาชิกที่ไม่ได้รับการตรวจสอบซึ่งอยู่ในชุมชนไม่ถึงจำนวนวันที่กำหนด จะได้รับแจ้งให้ทำแบบทดสอบ Cloudflare (Captcha หรือช่องกาเครื่องหมาย) ให้เสร็จเรียบร้อยเพื่อป้องกันสแปม <0/>";
-$Definition["%s in the following categories will require moderator approval."] =
-    "%s ในหมวดหมู่ต่อไปนี้จะต้องได้รับอนุมัติจากผู้ดูแลระบบ";
-$Definition["Default Sort Order"] = "ลำดับการเรียงลำดับเริ่มต้น";
-$Definition["Choose the order records are sorted by default."] =
-    "เลือกลำดับการบันทึกที่จะเรียงลำดับตามค่าเริ่มต้น";
-$Definition["Show OP Indicator"] = "แสดงตัวบ่งชี้ OP";
-$Definition[
-    "If this option is enabled, replies from the Original Poster will have an OP indicator."
-] =
-    "หากเปิดใช้งานตัวเลือกนี้ การตอบกลับจากผู้ตั้งกระทู้ดั้งเดิมจะมีตัวบ่งชี้ OP";
-$Definition["Show Badges"] = "แสดงป้าย";
-$Definition["Badges Limit"] = "ป้ายจำกัด";
-$Definition[
-    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
-] =
-    "แสดงป้ายของผู้ใช้ในแต่ละโพสต์ สามารถแสดงป้ายได้สูงสุด 5 ป้ายตามลำดับอันดับสูงสุด";
-$Definition["event"] = "เหตุการณ์";
-$Definition["<0/> <1/> more comments"] = "<0/> <1/> ความเห็นเพิ่มเติม";
-$Definition["Export"] = "ส่งออก";
-
-$Definition["Homepage titles can only be between 1 and 500 characters"] =
-    "หัวเรื่องหน้าแรกสามารถมีได้ระหว่าง 1 ถึง 500 ตัวอักษรเท่านั้น";
-$Definition["Address Bar Color"] = "สีแถบที่อยู่";
-$Definition["Meta Tags"] = "เมตาแท็ก";
-$Definition[
-    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
-] =
-    "เมตาแท็กใช้สำหรับการยืนยันโดเมนสำหรับ Google Search Console และบริการอื่นๆ คัดลอกเมตาแท็กที่จำเป็นจากแหล่งที่มาของคุณแล้ววางลงในบรรทัดใหม่";
-$Definition[
-    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
-] =
-    "ใช้เวลาคิดสักเล็กน้อยเกี่ยวกับวิธีที่คุณอธิบายไซต์ของคุณที่นี่ การให้เว็บไซต์ของคุณมีชื่อที่มีความหมายและคำอธิบายที่กระชับสามารถช่วยให้ตำแหน่งของคุณในเครื่องมือค้นหา";
-$Definition["Style Guides"] = "คู่มือสไตล์";
-$Definition["Branding & Assets"] = "การสร้างแบรนด์และสินทรัพย์";
-$Definition["Home Pages"] = "หน้าแรก";
-$Definition["Home Layout Settings"] = "การตั้งค่าเค้าโครงบ้าน";
-$Definition["Category Pages"] = "หน้าหมวดหมู่";
-$Definition["Category Layout Settings"] = "การตั้งค่าเค้าโครงหมวดหมู่";
-$Definition["Category List Pages"] = "หน้ารายการหมวดหมู่";
-$Definition["Posting Category Pages"] = "การโพสต์หน้าหมวดหมู่";
-$Definition["Nested Category Pages"] = "หน้าหมวดหมู่ที่ซ้อนกัน";
-$Definition["Discussion Pages"] = "หน้าสนทนา";
-$Definition["Idea Pages"] = "หน้าไอเดีย";
-$Definition["Question Pages"] = "หน้าคำถาม";
-$Definition["Post Pages"] = "หน้าโพสต์";
-$Definition["Post Layout Settings"] = "การตั้งค่าเค้าโครงโพสต์";
-$Definition["Create Post Pages"] = "สร้างหน้าโพสต์";
-$Definition["Create Post Layout Settings"] = "สร้างการตั้งค่าเค้าโครงโพสต์";
-$Definition["Event Pages"] = "หน้ากิจกรรม";
-$Definition["Event Layout Settings"] = "การตั้งค่าเค้าโครงกิจกรรม";
-$Definition["Knowledge Base Pages"] = "หน้าฐานความรู้";
-$Definition["Knowledge Base Layout Settings"] =
-    "การตั้งค่าเค้าโครงฐานความรู้";
-$Definition["Knowledge Base Home Pages"] = "หน้าแรกฐานความรู้";
-$Definition["Help Center Home Pages"] = "หน้าแรกศูนย์ช่วยเหลือ";
-$Definition["Help Center Category Pages"] = "หมวดหมู่หน้าศูนย์ช่วยเหลือ";
-$Definition["Help Center Article Pages"] = "หน้าบทความศูนย์ช่วยเหลือ";
-$Definition["Guide Article Pages"] = "หน้าบทความแนะนำ";
-$Definition["Layouts"] = "เค้าโครง";
-$Definition["Add Custom Layout"] = "เพิ่มเค้าโครงที่กำหนดเอง";
-$Definition["Choose the preferred Legacy Recent Posts Layout."] =
-    "เลือกเค้าโครงโพสต์ล่าสุดแบบเดิมที่ต้องการ";
-$Definition["Legacy Recent Posts Layouts"] = "เลย์เอาต์โพสต์ล่าสุดแบบเก่า";
-$Definition["Change layout versions for the <0/>."] =
-    "เปลี่ยนเวอร์ชันเค้าโครงของ <0/>";
-$Definition["To learn more, <0>see the documentation</0>."] =
-    "หากต้องการเรียนรู้เพิ่มเติม <0>โปรดดูเอกสารประกอบ</0> -";
-$Definition["Change %s"] = "เปลี่ยน %s";
-$Definition["Are you sure you want to use %s?"] =
-    "คุณแน่ใจหรือไม่ว่าต้องการใช้ %s?";
-$Definition["Legacy Home Layouts"] = "เลย์เอาต์บ้านแบบเก่า";
-$Definition["Choose the preferred Legacy Home Layout."] =
-    "เลือกรูปแบบบ้าน Legacy ที่ต้องการ";
-$Definition["Home Layout Version"] = "เวอร์ชันเค้าโครงบ้าน";
-$Definition["Custom Home Layouts"] = "เค้าโครงบ้านแบบกำหนดเอง";
-$Definition["Legacy Category Layout"] = "เค้าโครงหมวดหมู่แบบเก่า";
-$Definition["Choose the preferred Legacy Category Layout."] =
-    "เลือกเค้าโครงหมวดหมู่ Legacy ที่ต้องการ";
-$Definition["Category Layout Version"] = "เวอร์ชันเค้าโครงหมวดหมู่";
-$Definition["Legacy Category Layouts"] = "เค้าโครงหมวดหมู่แบบเก่า";
-$Definition["Custom Category Layouts"] = "เค้าโครงหมวดหมู่ที่กำหนดเอง";
-$Definition["Legacy Post Layout"] = "เค้าโครงโพสต์แบบเก่า";
-$Definition["Choose the preferred Legacy Post Layout."] =
-    "เลือกเค้าโครงโพสต์ดั้งเดิมที่ต้องการ";
-$Definition["Post Layout Version"] = "เวอร์ชันเค้าโครงโพสต์";
-$Definition["Legacy Post Layouts"] = "เค้าโครงโพสต์แบบเก่า";
-$Definition["Custom Post Layouts"] = "เค้าโครงโพสต์แบบกำหนดเอง";
-$Definition["Legacy Create Post Layout"] = "เลย์เอาต์การสร้างโพสต์แบบเก่า";
-$Definition["Choose the preferred Legacy Create Post Layout."] =
-    "เลือกเค้าโครงการสร้างโพสต์แบบ Legacy ที่ต้องการ";
-$Definition["Create Post Layout Version"] = "สร้างเวอร์ชันเค้าโครงโพสต์";
-$Definition["Legacy Create Post Layouts"] = "เลย์เอาต์การสร้างโพสต์แบบเก่า";
-$Definition["Custom Create Post Layouts"] = "สร้างเค้าโครงโพสต์แบบกำหนดเอง";
-$Definition["Legacy Event Layout"] = "เค้าโครงกิจกรรมแบบเก่า";
-$Definition["Choose the preferred Legacy Event Layout."] =
-    "เลือกเค้าโครงเหตุการณ์ดั้งเดิมที่ต้องการ";
-$Definition["Event Layout Version"] = "เวอร์ชันเค้าโครงกิจกรรม";
-$Definition["Legacy Event Layouts"] = "เค้าโครงกิจกรรมแบบเก่า";
-$Definition["Custom Event Layouts"] = "เค้าโครงกิจกรรมที่กำหนดเอง";
-$Definition["Created <0/> by <1/>."] = "สร้าง <0/> โดย <1/>";
-$Definition["Layout Options"] = "ตัวเลือกเค้าโครง";
-$Definition["Contextual Description"] = "คำอธิบายตามบริบท";
-$Definition["Skip to end of Carousel"] = "ข้ามไปยังจุดสิ้นสุดของ Carousel";
-$Definition["Previous Slides"] = "สไลด์ก่อนหน้า";
-$Definition["Next Slides"] = "สไลด์ถัดไป";
-$Definition["indicator navigation"] = "ตัวบ่งชี้การนำทาง";
-$Definition["<0/> new"] = "<0/> ใหม่";
-$Definition["%d slides on display initial slide %d of %d"] =
-    "%d สไลด์บนจอแสดงผล สไลด์เริ่มต้น %d จาก %d";
-$Definition["Unassigned"] = "ไม่ได้รับมอบหมาย";
-$Definition["Apply Layout to Site Home Page"] =
-    "นำเค้าโครงมาใช้กับหน้าแรกของเว็บไซต์";
-$Definition["Set as default layout for specific subcommunities."] =
-    "ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับชุมชนย่อยที่เฉพาะเจาะจง";
-$Definition["Apply to specific categories."] = "นำไปใช้เฉพาะหมวดหมู่ที่ต้องการ";
-$Definition["This layout cannot be deleted because it is a layout template."] =
-    "ไม่สามารถลบเค้าโครงนี้ได้เนื่องจากเป็นเทมเพลตเค้าโครง";
-$Definition["Delete Layout"] = "ลบเค้าโครง";
-$Definition["Are you sure you want to delete?"] =
-    "คุณแน่ใจว่าต้องการลบใช่ไหม?";
-$Definition["Applied"] = "สมัครแล้ว";
-$Definition["Applied as default"] = "ใช้เป็นค่าเริ่มต้น";
-$Definition["View Category"] = "ดูหมวดหมู่";
-$Definition["Apply to specific subcommunities."] =
-    "นำไปใช้กับชุมชนย่อยที่เฉพาะเจาะจง";
-$Definition["Unable to re-assign default template"] =
-    "ไม่สามารถกำหนดเทมเพลตเริ่มต้นใหม่ได้";
-$Definition[
-    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
-] =
-    "เค้าโครงนี้เป็นเทมเพลตและถูกกำหนดให้เป็นค่าเริ่มต้นสำหรับทุกหน้าของประเภทนี้ หากต้องการลบออกจากค่าเริ่มต้นหรือกำหนดให้กับหน้าเฉพาะ คุณต้องกำหนดเค้าโครงอื่นเป็นค่าเริ่มต้น";
-$Definition["This layout cannot be deleted because it is currently applied."] =
-    "ไม่สามารถลบเค้าโครงนี้ได้ เนื่องจากถูกนำไปใช้ในปัจจุบัน";
-$Definition["Set as default layout for all <0 />."] =
-    "ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับทั้งหมด <0 />";
-$Definition["Legacy Knowledge Base Layout"] = "เค้าโครงฐานความรู้แบบเก่า";
-$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
-    "เลือกเค้าโครงฐานความรู้แบบดั้งเดิมที่ต้องการ";
-$Definition["Knowledge Base Layout Version"] = "เวอร์ชันเค้าโครงฐานความรู้";
-$Definition["Legacy Knowledge Base Layouts"] = "เค้าโครงฐานความรู้แบบเก่า";
-$Definition["Custom Knowledge Base Layouts"] = "เค้าโครงฐานความรู้แบบกำหนดเอง";
-$Definition["Article Count"] = "จำนวนบทความ";
-$Definition["Legacy Layouts enabled"] = "เปิดใช้งานเค้าโครงแบบเก่าแล้ว";
-$Definition[
-    "Note this layout change will not be visible until you switch to custom layouts."
-] =
-    "โปรดทราบว่าการเปลี่ยนแปลงเค้าโครงนี้จะไม่ปรากฏให้เห็นจนกว่าคุณจะสลับไปใช้เค้าโครงแบบกำหนดเอง";
-$Definition[
-    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
-] =
-    "การเปลี่ยนแปลงเค้าโครงนี้จะไม่ปรากฏให้เห็นจนกว่าคุณจะเปลี่ยนชุมชนของคุณเป็นแบบกำหนดเอง <0/> ในหน้า <1/>";
-$Definition["Set as default layout for specific knowledge bases."] =
-    "ตั้งค่าเป็นรูปแบบเริ่มต้นสำหรับฐานความรู้เฉพาะเจาะจง";
-$Definition["The site does not allow you to connect with an existing user."] =
-    "ไซต์ไม่อนุญาตให้คุณเชื่อมต่อกับผู้ใช้ที่มีอยู่";
-$Definition["The username you entered has already been taken."] =
-    "ชื่อผู้ใช้ที่คุณป้อนถูกใช้ไปแล้ว";
-$Definition["There was an error fetching the connection data."] =
-    "เกิดข้อผิดพลาดในการดึงข้อมูลการเชื่อมต่อ";
-$Definition[
-    "Failed to authenticate your password reset request. Try using the reset request form again."
-] =
-    "การตรวจสอบสิทธิ์คำขอรีเซ็ตรหัสผ่านของคุณล้มเหลว ลองใช้แบบฟอร์มคำขอรีเซ็ตรหัสผ่านอีกครั้ง";
-$Definition["Invitation not found."] = "ไม่พบคำเชิญ";
+$Definition['Zendesk Knowledge Bases'] = 'ฐานความรู้ของ Zendesk';
+$Definition['Zoom Meeting ID or URL'] = 'ID หรือ URL การประชุม Zoom';

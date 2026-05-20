@@ -583,8 +583,6 @@ $Definition['We\'ve received a request to change your password.'] = 'We\'ve rece
 $Definition['Weekly Email Digest '] = 'Weekly Email Digest';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
 $Definition['when people have answered your question'] = 'when there has been a follow-up to your answered questions';
-$Definition['Who\'s Going'] = 'Who is going';
-$Definition['Who\'s Interested'] = 'Who is interested';
 
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You are about to delete all of a user\'s content.'] = 'You are about to delete all of the content for {User.UserID,user}.';
