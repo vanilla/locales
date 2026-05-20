@@ -1708,3 +1708,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Cơ sở tri thức Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'ID hoặc URL cuộc họp Zoom';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Bạn} đã chấp nhận câu trả lời của {NotifyUserID,bạn} cho câu hỏi: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Biểu trưng di động";
+$Definition["Banner Image"] = "Hình ảnh biểu ngữ";
+$Definition["Disable Forum Pages"] = "Tắt các trang diễn đàn";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Chọn định dạng mặc định của trình soạn thảo cho các bài đăng trong cộng đồng.";
+$Definition["InputFormatter.Notes2"] =
+    "Trình soạn thảo sẽ tự động phát hiện định dạng của các bài đăng cũ khi soạn thảo chúng, và tải các quy tắc định dạng gốc của chúng. Ngoài ngoại lệ này, định dạng bài đăng đã chọn dưới đây sẽ được ưu tiên áp dụng.";
+$Definition["Formatting Posts"] = "Đang lập Định dạng Bài đăng";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Quy định một định dạng soạn thảo cho các thiết bị di động.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Nếu các thiết bị di động có cùng trải nghiệm, hãy nêu rõ trải nghiệm tương tự đó như trên. Nếu người dùng báo cáo có vấn đề với việc soạn thảo cho di động, thì đây là một phương án tốt để thay đổi.";
+$Definition["Note:"] = "Lưu ý:";
+$Definition["Post Format"] = "Định dạng Bài đăng";
+$Definition["Posting"] = "Bài đăng";
+$Definition["Reinterpret All Posts As %s"] = "Diễn giải lại tất cả bài viết dưới dạng%s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Yêu cầu người biên tập diễn giải lại tất cả các bài đăng cũ dưới dạng%s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Cài đặt này sẽ chỉ có hiệu lực nếu%s được chọn làm Định dạng bài đăng ở trên.";
+$Definition["This option is to normalize the editor format"] =
+    "Tùy chọn này là để chuẩn hóa định dạng trình chỉnh sửa, nếu các bài viết cũ được chỉnh sửa bằng định dạng khác, chẳng hạn như markdown hoặc BBCode, được tải, tùy chọn này sẽ buộc%s.";
+
+$Definition["Mobile Format"] = "Định dạng Di động";
+$Definition["Enable Rich Quotes"] = "Cho phép Trích dẫn Rich";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Sử dụng tùy chọn dưới đây để cho phép dùng dấu trích dẫn cho trình Rich Editor. Thao tác này sẽ chỉ áp dụng được nếu trình định dạng mặc định là "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Trình giữ chỗ mặc định";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Hãy tải ảnh giữ chỗ sẽ hiển thị khi người dùng không có ảnh nào trong bài viết của họ.";
+$Definition["Additional classes"] = "Lớp bổ sung";
+$Definition["Apply additional classes on catalogue image."] =
+    "Áp dụng các lớp bổ sung lên ảnh catalog. Sử dụng khoảng trắng để tách riêng từng lớp.";
+$Definition["Category only"] = "Chỉ danh mục";
+$Definition["Display on category page only."] =
+    "Chỉ hiển thị trong trang danh mục. Danh sách các cuộc thảo luận gần đây sẽ không bị ảnh hưởng.";
+$Definition["Use Masonry display"] = "Sử dụng hiển thị Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Mỗi cuộc thảo luận sẽ hiển thị ảnh đã tải lên trong trang Danh mục. Thiết lập này chỉ áp dụng cho danh mục có "Thảo luận" dưới dạng "Hiển thị dưới dạng".';
+$Definition["Upload Placeholder Image"] = "Tải ảnh giữ chỗ lên";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Đã xảy ra lỗi khi lưu các thay đổi của bạn. Vui lòng thử lại.";
+$Definition["<0/> has been <1/>"] = "<0/> đã được <1/>";
+$Definition["enabled"] = "kích hoạt";
+$Definition["disabled"] = "tàn tật";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Thông tin này sẽ chỉ được hiển thị cho người dùng có quyền xem thông tin nội bộ";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Đây là thông tin riêng tư và sẽ không được chia sẻ với các thành viên khác.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Thao tác này sẽ tạo cuộc họp Zoom thay mặt cho chủ sở hữu tích hợp Zoom và nếu bạn là người dùng đã đăng ký, hãy thêm bạn làm đồng chủ trì. Nếu bạn không phải là người dùng Zoom đã đăng ký hoặc không phải là thành viên của tổ chức thiết lập tích hợp, sự kiện này có thể có chức năng Zoom hạn chế nếu không có người chủ trì.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Bạn không thể cập nhật URL hoặc ID Zoom của sự kiện này.';
+
+$Definition["Zoom Meeting ID or URL"] = "ID hoặc URL cuộc họp Zoom";
+
+// Automation Rules
+$Definition["Add tag"] = "Thêm thẻ";
+$Definition["A post"] = "Một bài đăng";
+$Definition["A post has been added to a collection"] =
+    "Một bài viết đã được thêm vào bộ sưu tập";
+$Definition["A post has not had any activity"] =
+    "Bài viết chưa có hoạt động nào";
+$Definition["A question"] = "Một câu hỏi";
+$Definition["A user has been registered"] = "Một người dùng đã được đăng ký";
+$Definition["A post has received"] = "Một bài viết đã nhận được";
+$Definition["Date field reached"] = "Đã đạt đến trường ngày";
+$Definition["A user registers or logs in with email domain:"] =
+    "Người dùng đăng ký hoặc đăng nhập bằng tên miền email:";
+$Definition["A user registers or updates a profile field:"] =
+    "Người dùng đăng ký hoặc cập nhật trường hồ sơ:";
+$Definition["Add tags:"] = "Thêm thẻ:";
+$Definition["Add to collection:"] = "Thêm vào bộ sưu tập:";
+$Definition["An idea has received"] = "Một ý tưởng đã nhận được";
+$Definition["and"] = "và";
+$Definition["and assign to"] = "và giao cho";
+$Definition["and remove role"] = "và xóa vai trò";
+$Definition["and remove from community"] = "và xóa khỏi cộng đồng";
+$Definition["Assign role:"] = "Chỉ định vai trò:";
+$Definition["Assign/Remove role"] = "Chỉ định/Xóa vai trò";
+$Definition["Auto-run disabled."] = "Tắt chức năng tự động chạy.";
+$Definition["Auto-run enabled."] = "Đã bật chế độ chạy tự động.";
+$Definition["Automation rule successfully created."] =
+    "Quy tắc tự động hóa đã được tạo thành công.";
+$Definition["Automation rule successfully updated."] =
+    "Quy tắc tự động hóa đã được cập nhật thành công.";
+$Definition["Bump post"] = "Trụ chống va chạm";
+$Definition["Change the status of the idea to"] =
+    "Thay đổi trạng thái của ý tưởng thành";
+$Definition["Change status"] = "Thay đổi trạng thái";
+$Definition["Close post"] = "Đóng bài viết";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Tiêu chí phù hợp với bình luận hiện tại: <0 />";
+$Definition["created by"] = "được tạo ra bởi";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Tạo và quản lý các chức năng tự động để dễ dàng quản lý bài đăng và người dùng.";
+$Definition["Create/Edit Automation Rule"] = "Tạo/Chỉnh sửa Quy tắc Tự động hóa";
+$Definition["Delete Rule"] = "Xóa Quy tắc";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Tiêu chí phù hợp với thảo luận hiện tại: <0 />";
+$Definition["Edit Rule"] = "Chỉnh sửa quy tắc";
+$Definition["Edit Variables"] = "Chỉnh sửa biến";
+$Definition["Escalate it"] = "Tăng cường nó";
+$Definition["Escalate to GitHub"] = "Nâng cấp lên GitHub";
+$Definition["Escalate to Zendesk"] = "Nâng cấp lên Zendesk";
+$Definition["Expand"] = "Mở rộng";
+$Definition["Failed to disable the rule"] = "Không thể vô hiệu hóa quy tắc";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Không tải được dữ liệu xem trước. Vui lòng kiểm tra giá trị kích hoạt và hành động của bạn.";
+$Definition["Follow categories:"] = "Theo dõi các danh mục:";
+$Definition["Follow category"] = "Theo dõi danh mục";
+$Definition["for"] = "vì";
+$Definition["has been unanswered"] = "đã không được trả lời";
+$Definition["has not received any comments"] = "chưa nhận được bất kỳ bình luận nào";
+$Definition["Last reported"] = "Báo cáo cuối cùng";
+$Definition["Maximum Limit Reached"] = "Đã đạt đến giới hạn tối đa";
+$Definition["Move post"] = "Di chuyển bài viết";
+$Definition["Move to category:"] = "Di chuyển đến danh mục:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Các trường chọn nhiều sẽ được kích hoạt nếu người dùng đáp ứng BẤT KỲ tiêu chí nào.";
+$Definition["New/Updated Email domain"] = "Tên miền Email mới/cập nhật";
+$Definition["New/Updated Profile field"] = "Trường Hồ sơ mới/cập nhật";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Lưu ý: Các hành động sẽ không ảnh hưởng đến <0 /> đã áp dụng hành động liên quan.";
+$Definition["Post Management"] = "Quản lý bài đăng";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Tiêu chí phù hợp với bài viết hiện tại: <0 />";
+$Definition["Remove from collection"] = "Xóa khỏi bộ sưu tập";
+$Definition["Remove from collection:"] = "Xóa khỏi bộ sưu tập:";
+$Definition["Remove from default follow list"] =
+    "Xóa khỏi danh sách theo dõi mặc định";
+$Definition["Remove from trigger collection"] =
+    "Xóa khỏi bộ sưu tập kích hoạt";
+$Definition["report"] = "báo cáo";
+$Definition["reports"] = "báo cáo";
+$Definition["Rule Action"] = "Quy tắc Hành động";
+$Definition["Rule may not be deleted while it is running"] =
+    "Quy tắc không thể bị xóa khi nó đang chạy";
+$Definition["Rule may not be edited while it is running"] =
+    "Quy tắc không thể được chỉnh sửa trong khi nó đang chạy";
+$Definition["Rule Name"] = "Tên quy tắc";
+$Definition["Rule status will apply once current run completes"] =
+    "Trạng thái quy tắc sẽ được áp dụng sau khi lượt chạy hiện tại hoàn tất";
+$Definition["Rule Trigger"] = "Quy tắc kích hoạt";
+$Definition["Running"] = "Đang chạy";
+$Definition["See documentation for more information."] =
+    "Xem tài liệu để biết thêm thông tin.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Chọn hành động sẽ xảy ra khi quy tắc này được kích hoạt.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Chọn trình kích hoạt sẽ khiến quy tắc này chạy.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Đặt biến kích hoạt và biến hành động để tạo tóm tắt quy tắc.";
+$Definition["sentiment"] = "tình cảm";
+$Definition["since"] = "từ";
+$Definition["Summary"] = "Bản tóm tắt";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Hành động này sẽ chỉ được áp dụng cho họ nếu bạn tiếp tục.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Hành động sẽ áp dụng cho họ khi quy tắc được bật. Trong tương lai, những <0 /> khác đáp ứng tiêu chí kích hoạt cũng sẽ được áp dụng hành động.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Điều này sẽ không ảnh hưởng đến bất kỳ <0 /> nào ngay bây giờ. Nó sẽ ảnh hưởng đến những người đáp ứng các tiêu chí trong tương lai.";
+$Definition["Time since added to collection"] =
+    "Thời gian kể từ khi thêm vào bộ sưu tập";
+$Definition["Time since post has had no comments"] =
+    "Thời gian kể từ khi đăng bài không có bình luận";
+$Definition["Time since Registration"] = "Thời gian kể từ khi đăng ký";
+$Definition["Time since post has had no activity"] =
+    "Thời gian kể từ khi đăng bài không có hoạt động nào";
+$Definition["Time since question has been unanswered"] =
+    "Thời gian kể từ khi câu hỏi chưa được trả lời";
+$Definition["Trigger"] = "Cò súng";
+$Definition["Unsaved Changes"] = "Thay đổi chưa lưu";
+$Definition["Up to <0 /> ago."] = "Lên đến <0 /> trước đây.";
+$Definition["upvote"] = "bỏ phiếu ủng hộ";
+$Definition["upvotes"] = "lượt bình chọn";
+$Definition["User Management"] = "Quản lý người dùng";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Người dùng phù hợp với tiêu chí hiện tại: <0 />";
+$Definition["Value is not a valid integer."] = "Giá trị không phải là số nguyên hợp lệ.";
+$Definition["View History"] = "Xem Lịch sử";
+$Definition["Votes on an idea"] = "Phiếu bầu cho một ý tưởng";
+$Definition["with"] = "với";
+$Definition["with reason"] = "với lý do";
+$Definition["with tag"] = "với thẻ";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Bạn không thể thêm nhiều hơn 150 quy tắc tự động hóa. Hãy xóa một số quy tắc và thử lại.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Không có biểu tượng nào phù hợp với các bộ lọc đó.";
+$Definition["Manage Icon"] = "Quản lý biểu tượng";
+$Definition["Manage Icons"] = "Quản lý biểu tượng";
+$Definition["Manage Icon helptext"] =
+    "Bạn có thể quản lý các biểu tượng hệ thống và lịch sử tại đây. Khi tải lên, hãy đảm bảo biểu tượng ở định dạng SVG, bao gồm thuộc tính viewBox và sử dụng màu #000000 để đảm bảo biểu tượng có thể được tô màu động dựa trên cài đặt chủ đề và tương tác của người dùng. Chỉ có một biểu tượng của mỗi loại có thể hoạt động tại một thời điểm.";
+$Definition["Upload New Icon"] = "Tải lên Biểu tượng Mới";
+$Definition["Active Icon"] = "Biểu tượng hoạt động";
+$Definition["New Icon"] = "Biểu tượng Mới";
+$Definition["Icon Type"] = "Loại biểu tượng";
+$Definition["Previous Icons"] = "Biểu tượng trước đó";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Bạn có thể tìm thấy các phiên bản biểu tượng trước đó tại đây và khôi phục chúng bất kỳ lúc nào.";
+$Definition["Set as Active"] = "Đặt thành Hoạt động";
+$Definition["Uploaded <0/> by <1/>"] = "Đã tải lên <0/> bởi <1/>";
+$Definition["Icon Packs"] = "Gói biểu tượng";
+$Definition["Download Active Icon Pack"] = "Tải xuống Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Tải xuống System Icon Pack";
+$Definition["Upload Icon Pack"] = "Tải lên gói biểu tượng";
+$Definition["Preview Icon Pack"] = "Xem trước gói biểu tượng";
+$Definition["Changed Icons"] = "Biểu tượng đã thay đổi";
+$Definition["Icon Name"] = "Tên biểu tượng";
+$Definition["All icons in this icon pack are currently active."] =
+    "Tất cả biểu tượng trong gói biểu tượng này hiện đang hoạt động.";
+$Definition["Activate Icon Pack"] = "Kích hoạt Icon Pack";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Chỉ hiển thị các biểu tượng đã được ghi đè bằng các biểu tượng tùy chỉnh.";
+$Definition["System Icon"] = "Biểu tượng hệ thống";
+$Definition["Custom Icon"] = "Biểu tượng tùy chỉnh";
+$Definition["Only show icons that are default system icons."] =
+    "Chỉ hiển thị các biểu tượng là biểu tượng mặc định của hệ thống.";
+$Definition["Previews"] = "Xem trước";
+$Definition["Icon Size"] = "Kích thước biểu tượng";
+$Definition["This is the actual size most icons render at."] =
+    "Đây là kích thước thực tế mà hầu hết các biểu tượng hiển thị.";
+$Definition["Preview Color"] = "Xem trước màu";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Màu này sẽ được sử dụng để xem trước màu biểu tượng. Nó sẽ thay thế bất kỳ cách sử dụng #000000 nào trong các biểu tượng bạn đã tải lên. Trong ứng dụng thực tế, màu sắc sẽ là động.";
+$Definition["Escalation Name"] = "Tên leo thang";
+$Definition["Status on Creation"] = "Trạng thái khi tạo";
+$Definition["Assignee"] = "Người được chuyển nhượng";
+$Definition["Internal Comment"] = "Bình luận nội bộ";
+$Definition["Set Post Visibility to Hidden"] = "Đặt chế độ hiển thị bài viết thành ẩn";
+$Definition["Remove Method"] = "Phương pháp xóa";
+$Definition["Wipe"] = "Lau đi";
+$Definition["Newest Post"] = "Bài viết mới nhất";
+$Definition["Oldest Post"] = "Bài viết cũ nhất";
+$Definition["Triage"] = "Phân loại";
+$Definition["Triage Dashboard"] = "Bảng điều khiển phân loại";
+$Definition["Message Post Author"] = "Tác giả bài viết tin nhắn";
+$Definition["Add Filter"] = "Thêm Bộ lọc";
+$Definition["Customer Support"] = "Hỗ trợ khách hàng";
+$Definition["My Profile"] = "Hồ sơ của tôi";
+$Definition["Resolve post"] = "Giải quyết bài đăng";
+$Definition["View post in community"] = "Xem bài viết trong cộng đồng";
+$Definition["View Details"] = "Xem chi tiết";
+$Definition["Escalate"] = "leo thang";
+$Definition["Posted by <0/> in <1/>"] = "Được đăng bởi <0/> trong <1/>";
+$Definition["Show"] = "Trình diễn";
+$Definition["View Escalation"] = "Xem leo thang";
+$Definition["# Reports"] = "# Báo cáo";
+$Definition["Last Reported"] = "Báo cáo cuối cùng";
+$Definition["Report Reasons"] = "Báo cáo lý do";
+$Definition["Last Modified"] = "Lần sửa đổi cuối cùng";
+$Definition["Last refreshed <0/> by <1/>."] = "Lần làm mới cuối cùng <0/> bởi <1/>.";
+
+$Definition["Moderation Content"] = "Nội dung kiểm duyệt";
+$Definition["AI Settings"] = "Cài đặt AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "Triển khai VIP";
+$Definition["Activity & Registration"] = "Hoạt động & Đăng ký";
+$Definition["Content Settings"] = "Cài đặt nội dung";
+$Definition["Premoderation Settings"] = "Cài đặt trước khi kiểm duyệt";
+$Definition["Escalation Rules"] = "Quy tắc leo thang";
+$Definition["Automation"] = "Tự động hóa";
+$Definition["Audit Log"] = "Nhật ký kiểm toán";
+$Definition["Community Management"] = "Quản lý cộng đồng";
+$Definition["Visualize Your Community"] = "Hình dung cộng đồng của bạn";
+$Definition["Customize your community"] = "Tùy chỉnh cộng đồng của bạn";
+$Definition["Configuration & Addons"] = "Cấu hình & Tiện ích bổ sung";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Bạn có chắc chắn muốn xóa %s của mình không?";
+$Definition["Newest Report"] = "Báo cáo mới nhất";
+$Definition["Oldest Report"] = "Báo cáo cũ nhất";
+$Definition["Report Dismissed"] = "Báo cáo đã bị loại bỏ";
+$Definition["Post Rejected"] = "Bài viết bị từ chối";
+$Definition["Escalated"] = "Đã leo thang";
+$Definition["Reported by <0/>"] = "Được báo cáo bởi <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Không có ghi chú báo cáo nào được cung cấp bởi <0/>";
+$Definition["Create"] = "Tạo";
+$Definition["Edited"] = "Đã chỉnh sửa";
+$Definition["Newest Escalation"] = "Sự leo thang mới nhất";
+$Definition["Oldest Escalation"] = "Sự leo thang cũ nhất";
+$Definition["Escalations Dashboard"] = "Bảng điều khiển leo thang";
+$Definition["On Hold"] = "Đang tạm dừng";
+$Definition["Done"] = "Xong";
+$Definition["In Jira"] = "Trong Jira";
+$Definition["In Zendesk"] = "Trong Zendesk";
+$Definition["Integrations"] = "Tích hợp";
+$Definition["Remove Post"] = "Xóa bài viết";
+$Definition["Escalated by <0/>"] = "Được nâng cấp bởi <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Nhập tiêu đề cho sự leo thang này";
+$Definition["Escalated by <0/>"] = "Được nâng cấp bởi <0/>";
+$Definition["Post Revision"] = "Đăng bài sửa đổi";
+$Definition["Loader"] = "Bộ nạp";
+$Definition["a month"] = "một tháng";
+$Definition["%s ago"] = "%s trước đây";
+$Definition["Live"] = "Sống";
+$Definition["Live Post"] = "Bài đăng trực tiếp";
+$Definition["Remove Post"] = "Xóa bài viết";
+$Definition["Internal Comments"] = "Bình luận nội bộ";
+$Definition["Add a comment"] = "Thêm bình luận";
+$Definition["Live"] = "Sống";
+$Definition["There are currently no comments on this post"] =
+    "Hiện tại không có bình luận nào về bài viết này";
+$Definition["All comments on this post will appear here"] =
+    "Tất cả các bình luận về bài viết này sẽ xuất hiện ở đây";
+$Definition["Reports for <0/>"] = "Báo cáo cho <0/>";
+$Definition["Live Post"] = "Bài đăng trực tiếp";
+$Definition["There are currently no reports for this post."] =
+    "Hiện tại không có báo cáo nào cho bài viết này.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Danh sách các báo cáo liên quan đến bài đăng này sẽ xuất hiện ở đây.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Cấu hình nơi gửi báo cáo và quản lý lý do báo cáo của cộng đồng bạn.";
+$Definition["New Community Management System"] =
+    "Hệ thống quản lý cộng đồng mới";
+$Definition["Enable Triage Dashboard"] = "Bật bảng điều khiển phân loại";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Tất cả người dùng có quyền nhân viên sẽ có thể xem và đánh dấu các cuộc thảo luận là đã giải quyết hoặc chưa giải quyết. Những người dùng này cũng có thể truy cập bảng điều khiển phân loại để kiểm duyệt các danh mục của họ.";
+$Definition["Resolve All Discussions"] = "Giải quyết tất cả các cuộc thảo luận";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Giải quyết tất cả bài đăng sẽ giải quyết tất cả các bài đăng hiện có trong cộng đồng. Hành động hàng loạt này sẽ không kích hoạt webhook hoặc phân tích.";
+$Definition["Resolve All"] = "Giải quyết tất cả";
+$Definition["Required field"] = "Trường bắt buộc";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Hệ thống quản lý cộng đồng mới cho phép tùy chỉnh lý do báo cáo, leo thang, phân công và quy tắc tự động hóa. Việc bật tính năng này sẽ thay đổi lượng báo cáo để sử dụng hệ thống mới. <0>Đọc thêm</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Thao tác này sẽ giải quyết tất cả các bài đăng hiện có trong cộng đồng. Hành động hàng loạt này sẽ không kích hoạt webhooks hoặc phân tích nhật ký. Tiếp tục?";
+$Definition["Reorder"] = "Sắp xếp lại";
+$Definition["Add Reason"] = "Thêm lý do";
+$Definition["Delete?"] = "Xóa bỏ?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Bạn có chắc chắn muốn xóa lý do này không?";
+$Definition["A concise name for the report reason."] =
+    "Tên ngắn gọn cho lý do báo cáo.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Nhãn duy nhất cho lý do báo cáo. Không thể thay đổi nhãn này sau khi đã lưu.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Giải thích lý do báo cáo để người báo cáo đưa ra lựa chọn đúng đắn khi báo cáo một bài đăng.";
+$Definition["The roles which can see this report reason."] =
+    "Các vai trò có thể thấy lý do báo cáo này.";
+$Definition["Add Report Reason"] = "Thêm lý do báo cáo";
+$Definition["Discard Changes?"] = "Hủy bỏ thay đổi?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Bạn có chắc chắn muốn thoát mà không lưu không?";
+$Definition["Reorder Report Reasons"] = "Lý do báo cáo sắp xếp lại";
+$Definition["Edit Report Reason"] = "Sửa lý do báo cáo";
+$Definition["Delete Report Reason"] = "Xóa lý do báo cáo";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Bạn phải bật cài đặt này để sử dụng Chủ đề thảo luận tùy chỉnh.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Cấu hình cài đặt được sử dụng để tự động kiểm duyệt nội dung cộng đồng trước khi nội dung đó được tạo. Các tùy chọn bao gồm phát hiện thư rác tự động, yêu cầu phê duyệt để đăng trong một số danh mục nhất định và yêu cầu phê duyệt để đăng bằng một số từ khóa hoặc cụm từ nhất định.";
+$Definition["Spam Detection"] = "Phát hiện thư rác";
+$Definition["Learn more."] = "Tìm hiểu thêm.";
+$Definition["documentation."] = "tài liệu.";
+$Definition["Verify browsers of new members"] =
+    "Xác minh trình duyệt của thành viên mới";
+$Definition["Challenge Cutoff Age"] = "Tuổi giới hạn thử thách";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Số ngày kể từ khi đăng ký để vượt qua thử thách Cloudflare";
+$Definition["Save challenge cutoff age"] = "Lưu thử thách cắt giảm tuổi";
+$Definition["Premoderated Roles"] = "Vai trò được kiểm duyệt trước";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Người dùng có quyền \"Approval.Require\" sẽ cần được người kiểm duyệt chấp thuận cho tất cả bài đăng.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Người dùng được đánh dấu là \"Đã xác minh\" sẽ bỏ qua yêu cầu này. Đây là những vai trò có \"Approval.Require\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Hiện tại không có vai trò nào được thiết lập để yêu cầu kiểm duyệt trước.";
+$Definition["Edit Roles"] = "Chỉnh sửa vai trò";
+$Definition["Premoderated Categories"] = "Các danh mục được kiểm duyệt trước";
+$Definition["No categories are currently set to require premoderation."] =
+    "Hiện tại không có danh mục nào được thiết lập để yêu cầu kiểm duyệt trước.";
+$Definition["Edit Categories"] = "Chỉnh sửa danh mục";
+$Definition["Premoderated Keywords"] = "Từ khóa được kiểm duyệt trước";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Các bài đăng có bất kỳ từ khóa hoặc cụm từ nào sau đây sẽ cần được người kiểm duyệt chấp thuận.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Hiện tại không có từ khóa nào được thiết lập để yêu cầu kiểm duyệt trước.";
+$Definition["Edit Keywords"] = "Chỉnh sửa từ khóa";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Cho phép Akismet lọc thư rác trong tất cả các bài đăng của người đăng ký và người dùng chưa xác minh. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Bật Stopforumspam để kiểm tra người dùng cộng đồng so với danh sách những người gửi thư rác đã báo cáo và báo cáo bài đăng là thư rác hoặc từ chối chúng hoàn toàn. Ngưỡng báo cáo và từ chối được quản lý trong cài đặt của <0>addon</0> . Tìm hiểu thêm trong <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Các thành viên chưa được xác minh và đã tham gia cộng đồng chưa đủ số ngày quy định sẽ được nhắc hoàn thành thử thách Cloudflare (Captcha hoặc Checkbox) để ngăn chặn thư rác. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s trong các danh mục sau sẽ cần sự chấp thuận của người kiểm duyệt.";
+$Definition["Default Sort Order"] = "Thứ tự sắp xếp mặc định";
+$Definition["Choose the order records are sorted by default."] =
+    "Chọn thứ tự các bản ghi được sắp xếp theo mặc định.";
+$Definition["Show OP Indicator"] = "Hiển thị chỉ báo OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Nếu tùy chọn này được bật, các phản hồi từ Người đăng bài gốc sẽ có chỉ báo OP.";
+$Definition["Show Badges"] = "Hiển thị huy hiệu";
+$Definition["Badges Limit"] = "Giới hạn huy hiệu";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Hiển thị huy hiệu của người dùng trên mỗi bài đăng. Có thể hiển thị tối đa 5 huy hiệu theo thứ hạng cao nhất.";
+$Definition["event"] = "sự kiện";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> thêm bình luận";
+$Definition["Export"] = "Xuất khẩu";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Tiêu đề trang chủ chỉ có thể dài từ 1 đến 500 ký tự";
+$Definition["Address Bar Color"] = "Màu thanh địa chỉ";
+$Definition["Meta Tags"] = "Thẻ Meta";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Thẻ Meta được sử dụng để xác minh tên miền cho Google Search Console và các dịch vụ khác. Sao chép Thẻ Meta cần thiết từ nguồn của bạn và dán vào một dòng mới.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Dành một ít thời gian suy nghĩ về cách bạn mô tả trang web của bạn ở đây. Cung cấp cho trang của bạn một tiêu đề phù hợp và một mô tả chính xác để phục vụ cho các cỗ máy tìm kiếm.";
+$Definition["Style Guides"] = "Hướng dẫn về phong cách";
+$Definition["Branding & Assets"] = "Thương hiệu & Tài sản";
+$Definition["Home Pages"] = "Trang chủ";
+$Definition["Home Layout Settings"] = "Cài đặt bố cục trang chủ";
+$Definition["Category Pages"] = "Trang chuyên mục";
+$Definition["Category Layout Settings"] = "Cài đặt bố cục danh mục";
+$Definition["Category List Pages"] = "Danh mục trang danh sách";
+$Definition["Posting Category Pages"] = "Đăng các trang danh mục";
+$Definition["Nested Category Pages"] = "Các trang danh mục lồng nhau";
+$Definition["Discussion Pages"] = "Trang thảo luận";
+$Definition["Idea Pages"] = "Trang ý tưởng";
+$Definition["Question Pages"] = "Trang câu hỏi";
+$Definition["Post Pages"] = "Trang bài viết";
+$Definition["Post Layout Settings"] = "Cài đặt bố cục bài đăng";
+$Definition["Create Post Pages"] = "Tạo trang bài viết";
+$Definition["Create Post Layout Settings"] = "Tạo Cài đặt Bố cục Bài đăng";
+$Definition["Event Pages"] = "Trang sự kiện";
+$Definition["Event Layout Settings"] = "Cài đặt bố cục sự kiện";
+$Definition["Knowledge Base Pages"] = "Trang cơ sở kiến thức";
+$Definition["Knowledge Base Layout Settings"] =
+    "Cài đặt bố cục cơ sở kiến thức";
+$Definition["Knowledge Base Home Pages"] = "Trang chủ Cơ sở tri thức";
+$Definition["Help Center Home Pages"] = "Trang chủ Trung tâm trợ giúp";
+$Definition["Help Center Category Pages"] = "Trang danh mục Trung tâm trợ giúp";
+$Definition["Help Center Article Pages"] = "Trang bài viết của Trung tâm trợ giúp";
+$Definition["Guide Article Pages"] = "Hướng dẫn trang bài viết";
+$Definition["Layouts"] = "Bố cục";
+$Definition["Add Custom Layout"] = "Thêm Bố cục Tùy chỉnh";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Chọn Giao diện Bài đăng gần đây theo phong cách Legacy ưa thích.";
+$Definition["Legacy Recent Posts Layouts"] = "Bố cục bài viết gần đây của Legacy";
+$Definition["Change layout versions for the <0/>."] =
+    "Thay đổi phiên bản bố cục cho <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Để tìm hiểu thêm, <0>xem tài liệu</0> .";
+$Definition["Change %s"] = "Thay đổi %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Bạn có chắc chắn muốn sử dụng %s không?";
+$Definition["Legacy Home Layouts"] = "Bố trí nhà Legacy";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Chọn Bố cục Nhà Legacy Home ưa thích.";
+$Definition["Home Layout Version"] = "Phiên bản bố trí trang chủ";
+$Definition["Custom Home Layouts"] = "Bố trí nhà tùy chỉnh";
+$Definition["Legacy Category Layout"] = "Bố cục danh mục cũ";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Chọn Bố cục danh mục Legacy ưa thích.";
+$Definition["Category Layout Version"] = "Phiên bản Bố cục Thể loại";
+$Definition["Legacy Category Layouts"] = "Bố cục danh mục cũ";
+$Definition["Custom Category Layouts"] = "Bố cục danh mục tùy chỉnh";
+$Definition["Legacy Post Layout"] = "Bố cục bài viết cũ";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Chọn Bố cục bài đăng Legacy ưa thích.";
+$Definition["Post Layout Version"] = "Phiên bản bố trí bài đăng";
+$Definition["Legacy Post Layouts"] = "Bố cục bài đăng cũ";
+$Definition["Custom Post Layouts"] = "Bố cục bài đăng tùy chỉnh";
+$Definition["Legacy Create Post Layout"] = "Bố cục bài đăng tạo cũ";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Chọn Bố cục bài đăng Legacy Create ưa thích.";
+$Definition["Create Post Layout Version"] = "Tạo phiên bản bố cục bài đăng";
+$Definition["Legacy Create Post Layouts"] = "Bố cục bài đăng Legacy Create";
+$Definition["Custom Create Post Layouts"] = "Tạo bố cục bài đăng tùy chỉnh";
+$Definition["Legacy Event Layout"] = "Bố cục sự kiện cũ";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Chọn Bố cục sự kiện Legacy ưa thích.";
+$Definition["Event Layout Version"] = "Phiên bản Bố trí Sự kiện";
+$Definition["Legacy Event Layouts"] = "Bố cục sự kiện cũ";
+$Definition["Custom Event Layouts"] = "Bố cục sự kiện tùy chỉnh";
+$Definition["Created <0/> by <1/>."] = "Được tạo bởi <0/> <1/>.";
+$Definition["Layout Options"] = "Tùy chọn bố trí";
+$Definition["Contextual Description"] = "Mô tả theo ngữ cảnh";
+$Definition["Skip to end of Carousel"] = "Bỏ qua đến cuối Carousel";
+$Definition["Previous Slides"] = "Các Slide Trước";
+$Definition["Next Slides"] = "Các slide tiếp theo";
+$Definition["indicator navigation"] = "chỉ báo dẫn đường";
+$Definition["<0/> new"] = "<0/> mới";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d slide đang hiển thị slide đầu tiên %d trong tổng số %d";
+$Definition["Unassigned"] = "Chưa được chỉ định";
+$Definition["Apply Layout to Site Home Page"] =
+    "Áp dụng Bố cục cho Trang chủ của Site";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Đặt làm bố cục mặc định cho các cộng đồng con cụ thể.";
+$Definition["Apply to specific categories."] = "Áp dụng cho các danh mục cụ thể.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Không thể xóa bố cục này vì đây là mẫu bố cục.";
+$Definition["Delete Layout"] = "Xóa Bố cục";
+$Definition["Are you sure you want to delete?"] =
+    "Bạn có chắc chắn muốn xóa không?";
+$Definition["Applied"] = "Đã áp dụng";
+$Definition["Applied as default"] = "Được áp dụng làm mặc định";
+$Definition["View Category"] = "Xem danh mục";
+$Definition["Apply to specific subcommunities."] =
+    "Áp dụng cho các cộng đồng cụ thể.";
+$Definition["Unable to re-assign default template"] =
+    "Không thể gán lại mẫu mặc định";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Bố cục này là một mẫu và được chỉ định làm mặc định cho tất cả các trang thuộc loại này. Để xóa nó làm mặc định hoặc chỉ định nó cho các trang cụ thể, bạn phải chỉ định một bố cục khác làm mặc định.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Không thể xóa bố cục này vì nó hiện đang được áp dụng.";
+$Definition["Set as default layout for all <0 />."] =
+    "Đặt làm bố cục mặc định cho tất cả <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Bố cục cơ sở tri thức cũ";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Chọn Bố cục Cơ sở tri thức Legacy ưa thích.";
+$Definition["Knowledge Base Layout Version"] = "Phiên bản Bố cục Cơ sở Kiến thức";
+$Definition["Legacy Knowledge Base Layouts"] = "Bố cục cơ sở tri thức cũ";
+$Definition["Custom Knowledge Base Layouts"] = "Bố cục cơ sở kiến thức tùy chỉnh";
+$Definition["Article Count"] = "Số lượng bài viết";
+$Definition["Legacy Layouts enabled"] = "Bố cục cũ được bật";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Lưu ý rằng thay đổi bố cục này sẽ không hiển thị cho đến khi bạn chuyển sang bố cục tùy chỉnh.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Thay đổi bố cục này sẽ không hiển thị cho đến khi bạn chuyển cộng đồng của mình sang <0/> tùy chỉnh trong trang <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Đặt làm bố cục mặc định cho các cơ sở kiến thức cụ thể.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Trang web không cho phép bạn kết nối với người dùng hiện tại.";
+$Definition["The username you entered has already been taken."] =
+    "Tên người dùng bạn nhập đã có người sử dụng.";
+$Definition["There was an error fetching the connection data."] =
+    "Đã xảy ra lỗi khi lấy dữ liệu kết nối.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Không xác thực được yêu cầu đặt lại mật khẩu của bạn. Hãy thử sử dụng lại biểu mẫu yêu cầu đặt lại mật khẩu.";
+$Definition["Invitation not found."] = "Không tìm thấy lời mời.";
+
+$Definition['# of automation rules'] = '# quy tắc tự động hóa';
+$Definition['Add Template'] = 'Thêm mẫu';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Chọn người sẽ nhận email này khi quy tắc tự động hóa này được chạy.';
+$Definition['Delete an email template.'] = 'Xóa mẫu email.';
+$Definition['Email Audience'] = 'Đối tượng email';
+$Definition['Email Template'] = 'Mẫu email';
+$Definition['Email Templates'] = 'Mẫu email';
+$Definition['Email Template successfully deleted.'] = 'Mẫu email đã được xóa thành công.';
+$Definition['Email Template not enabled.'] = 'Tính năng mẫu email chưa được kích hoạt.';
+$Definition['Email template not found.'] = 'Không tìm thấy mẫu email.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Tên mẫu email đã tồn tại. Vui lòng nhập tên khác để tiếp tục.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Các mẫu email có thể được sử dụng kết hợp với <0/> để liên lạc với người dùng dựa trên hoạt động của thành viên hoặc các yếu tố kích hoạt cộng đồng khác.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Kích hoạt tùy chọn này để gửi email theo dõi khi quy tắc được kích hoạt.';
+$Definition['Impacted User'] = 'Người dùng bị ảnh hưởng';
+$Definition['Search and select one or more roles to receive this email'] = 'Tìm kiếm và chọn một hoặc nhiều vai trò để nhận email này.';
+$Definition['Search and select one or more users to receive this email.'] = 'Tìm kiếm và chọn một hoặc nhiều người dùng để nhận email này.';
+$Definition['Select Roles'] = 'Chọn vai trò';
+$Definition['Select User'] = 'Chọn người dùng';
+$Definition['Select the email template to send.'] = 'Chọn mẫu email bạn muốn gửi.';
+$Definition['Send an Email After This Rule Runs'] = 'Gửi email sau khi quy tắc này được thực thi';
+$Definition['Send email'] = 'Gửi email';
+$Definition['Send the email'] = 'Gửi email';
+$Definition['Send email to user'] = 'Gửi email cho người dùng';
+$Definition['Specific Roles'] = 'Vai trò cụ thể';
+$Definition['Specific Users'] = 'Người dùng cụ thể';
+$Definition['System email templates cannot be deleted.'] = 'Không thể xóa các mẫu email hệ thống.';
+$Definition['template name'] = 'tên mẫu';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Sử dụng trang này để tạo và quản lý các mẫu email của bạn, sau đó cấu hình <0/> để kiểm soát thời điểm gửi và người nhận của mỗi email.';
+$Definition['View the full list of available placeholders.'] = 'Xem danh sách đầy đủ các vị trí giữ chỗ khả dụng.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Bạn cũng có thể chèn các chỗ giữ chỗ vào nội dung email của mình—những chỗ giữ chỗ này sẽ tự động được thay thế bằng thông tin người dùng hoặc bài đăng phù hợp khi email được gửi đi. Ví dụ: Xin chào {user.name}! hoặc Hãy xem {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Bạn không thể xóa email hệ thống.';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Bạn không thể xóa mẫu được sử dụng trong các quy tắc tự động hóa.';
+$Definition['You will no longer receive community engagement emails.'] = 'Bạn sẽ không còn nhận được email về hoạt động tương tác cộng đồng nữa.';
+$Definition['Delete Email Template'] = 'Xóa mẫu email';
+$Definition["Template Styles"] = "Kiểu mẫu";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Hãy để trống bất kỳ trường nào để sử dụng kiểu email mặc định như đã cấu hình trong <0>Cài đặt Email</0> trang.";

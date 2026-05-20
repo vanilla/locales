@@ -1654,3 +1654,650 @@ $Definition['Zendesk Knowledge Bases'] = 'قواعد المعرفة الخاصة
 $Definition['Zoom Meeting ID or URL'] = 'معرف اجتماع Zoom أو عنوان URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} قبل إجابة {NotifyUserID,your} على السؤال: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "شعار الجوال";
+$Definition["Banner Image"] = "صورة الإعلان";
+$Definition["Disable Forum Pages"] = "تعطيل صفحات المنتدى";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "حدد التنسيق الافتراضي لمحرر المنشورات الموجود في المجتمع. ";
+$Definition["InputFormatter.Notes2"] =
+    "سيقوم المحرر بالكشف التلقائي عن تنسيق المنشورات القديمة عند تحريرها وتحميل قواعد التنسيق الأصلية. بصرف النظر عن هذا الاستثناء، فإن تنسيق المنشور المحدد أدناه سيكون له الأسبقية. ";
+$Definition["Formatting Posts"] = "تنسيق المنشورات";
+$Definition["MobileInputFormatter.Notes1"] =
+    "حدد تنسيق تحرير للأجهزة المحمولة";
+$Definition["MobileInputFormatter.Notes2"] =
+    "إذا كان يجب أن تتمتع الأجهزة المحمولة بنفس التجربة ، فحدد نفس التجربة المذكورة أعلاه. إذا أبلغ المستخدمون عن مشكلات في تحرير الأجهزة المحمولة، فسيكون هذا بمثابة خيار جيد للتغيير. ";
+$Definition["Note:"] = "ملحوظة:";
+$Definition["Post Format"] = "تنسيق المنشور ";
+$Definition["Posting"] = "النشر";
+$Definition["Reinterpret All Posts As %s"] = "إعادة تفسير كافة المنشورات كـ%s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "اطلب من المحرر إعادة تفسير كافة المنشورات القديمة على أنها%s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "لن يسري هذا الإعداد إلا إذا تم اختيار%s كتنسيق النشر أعلاه.";
+$Definition["This option is to normalize the editor format"] =
+    "هذا الخيار هو تطبيع تنسيق المحرر ، إذا تم تحرير المنشورات القديمة بتنسيق آخر ، مثل تخفيض السعر أو BBCode ، فإن هذا الخيار سيفرض%s.";
+
+$Definition["Mobile Format"] = "تنسيق الهاتف المحمول ";
+$Definition["Enable Rich Quotes"] = "تمكين \"Rich Quotes\" ";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'استخدم الخيار التالي لتمكين علامات الاقتباس لـ "Rich Editor". سيتم تطبيق هذا فقط إذا كان المنسق الافتراضي هو "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "العنصر النائب الافتراضي";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "قم بتحميل صورة عنصر نائب سيتم عرضها عندما لا يكون لدى المستخدمين صورة في مشاركتهم.";
+$Definition["Additional classes"] = "فئات إضافية";
+$Definition["Apply additional classes on catalogue image."] =
+    "تطبيق فئات إضافية على صورة الكتالوج. استخدم مساحة لفصل كل فئة.";
+$Definition["Category only"] = "الفئة فقط";
+$Definition["Display on category page only."] =
+    "عرض على صفحة الفئة فقط. لن تتأثر قائمة المناقشات الأخيرة.";
+$Definition["Use Masonry display"] = "استخدم عرض البناء";
+$Definition["Show an uploaded image on the Category page."] =
+    'ستعرض كل مناقشة صورة تم تحميلها على صفحة الفئة. ينطبق هذا فقط على الفئات التي تحتوي على "مناقشات" مثل "عرض باسم".';
+$Definition["Upload Placeholder Image"] = "تحميل صورة عنصر نائب";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "كان هناك خطأ في حفظ التغييرات الخاصة بك. حاول مرة اخرى.";
+$Definition["<0/> has been <1/>"] = "<0 /> كان <1 />";
+$Definition["enabled"] = "ممكن";
+$Definition["disabled"] = "عاجز";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "سيتم عرض هذه المعلومات فقط للمستخدمين الذين لديهم إذن لعرض المعلومات الداخلية";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "هذه معلومات خاصة ولن يتم مشاركتها مع الأعضاء الآخرين.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "سيؤدي هذا إلى إنشاء اجتماع Zoom نيابة عن مالك تكامل Zoom، وإذا كنت مستخدمًا مسجلاً، فسيتم إضافتك كمضيف مشارك. إذا لم تكن مستخدمًا مسجلاً في Zoom أو لم تكن جزءًا من المؤسسة التي أعدت التكامل، فقد يكون لهذا الحدث وظائف Zoom محدودة بدون المضيف.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'لا يمكنك تحديث عنوان URL أو معرف Zoom لهذا الحدث.';
+
+$Definition["Zoom Meeting ID or URL"] = "معرف اجتماع Zoom أو عنوان URL";
+
+// Automation Rules
+$Definition["Add tag"] = "إضافة علامة";
+$Definition["A post"] = "منشور";
+$Definition["A post has been added to a collection"] =
+    "تمت إضافة منشور إلى المجموعة";
+$Definition["A post has not had any activity"] =
+    "لم يكن للمنشور أي نشاط";
+$Definition["A question"] = "سؤال";
+$Definition["A user has been registered"] = "لقد تم تسجيل المستخدم";
+$Definition["A post has received"] = "لقد تم استلام منشور";
+$Definition["Date field reached"] = "تاريخ الوصول إلى الحقل";
+$Definition["A user registers or logs in with email domain:"] =
+    "يقوم المستخدم بالتسجيل أو تسجيل الدخول باستخدام نطاق البريد الإلكتروني:";
+$Definition["A user registers or updates a profile field:"] =
+    "يقوم المستخدم بتسجيل أو تحديث حقل الملف الشخصي:";
+$Definition["Add tags:"] = "أضف العلامات:";
+$Definition["Add to collection:"] = "أضف إلى المجموعة:";
+$Definition["An idea has received"] = "لقد تلقيت فكرة";
+$Definition["and"] = "و";
+$Definition["and assign to"] = "وتعيين إلى";
+$Definition["and remove role"] = "وإزالة الدور";
+$Definition["and remove from community"] = "وإزالتها من المجتمع";
+$Definition["Assign role:"] = "تعيين الدور:";
+$Definition["Assign/Remove role"] = "تعيين/إزالة الدور";
+$Definition["Auto-run disabled."] = "تم تعطيل التشغيل التلقائي.";
+$Definition["Auto-run enabled."] = "تم تمكين التشغيل التلقائي.";
+$Definition["Automation rule successfully created."] =
+    "تم إنشاء قاعدة الأتمتة بنجاح.";
+$Definition["Automation rule successfully updated."] =
+    "تم تحديث قاعدة الأتمتة بنجاح.";
+$Definition["Bump post"] = "عمود النتوء";
+$Definition["Change the status of the idea to"] =
+    "تغيير حالة الفكرة إلى";
+$Definition["Change status"] = "تغيير الحالة";
+$Definition["Close post"] = "اغلاق المنشور";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "التعليقات المطابقة للمعايير الآن: <0 />";
+$Definition["created by"] = "تم إنشاؤه بواسطة";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "إنشاء وإدارة الأتمتة لإدارة المنشورات والمستخدمين بسهولة.";
+$Definition["Create/Edit Automation Rule"] = "إنشاء/تحرير قاعدة الأتمتة";
+$Definition["Delete Rule"] = "حذف القاعدة";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "المناقشات المطابقة للمعايير الآن: <0 />";
+$Definition["Edit Rule"] = "تعديل القاعدة";
+$Definition["Edit Variables"] = "تحرير المتغيرات";
+$Definition["Escalate it"] = "تصعيد الأمر";
+$Definition["Escalate to GitHub"] = "تصعيد إلى GitHub";
+$Definition["Escalate to Zendesk"] = "تصعيد إلى Zendesk";
+$Definition["Expand"] = "يوسع";
+$Definition["Failed to disable the rule"] = "فشل في تعطيل القاعدة";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "فشل تحميل بيانات المعاينة. يرجى التحقق من قيم المشغل والإجراء.";
+$Definition["Follow categories:"] = "تابع الفئات:";
+$Definition["Follow category"] = "متابعة الفئة";
+$Definition["for"] = "ل";
+$Definition["has been unanswered"] = "لم يتم الرد عليه";
+$Definition["has not received any comments"] = "لم يتلقى أي تعليقات";
+$Definition["Last reported"] = "آخر تقرير";
+$Definition["Maximum Limit Reached"] = "تم الوصول إلى الحد الأقصى";
+$Definition["Move post"] = "نقل المنشور";
+$Definition["Move to category:"] = "الانتقال إلى الفئة:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "سيتم تشغيل حقول الاختيار المتعدد إذا استوفى المستخدم أيًا من المعايير.";
+$Definition["New/Updated Email domain"] = "نطاق البريد الإلكتروني الجديد/المحدث";
+$Definition["New/Updated Profile field"] = "حقل الملف الشخصي الجديد/المحدث";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "ملاحظة: لن تؤثر الإجراءات على <0 /> التي تم تطبيق الإجراء المرتبط بها بالفعل.";
+$Definition["Post Management"] = "إدارة البريد";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "المشاركات المطابقة للمعايير الآن: <0 />";
+$Definition["Remove from collection"] = "إزالة من المجموعة";
+$Definition["Remove from collection:"] = "إزالة من المجموعة:";
+$Definition["Remove from default follow list"] =
+    "إزالة من قائمة المتابعة الافتراضية";
+$Definition["Remove from trigger collection"] =
+    "إزالة من مجموعة المشغلات";
+$Definition["report"] = "تقرير";
+$Definition["reports"] = "التقارير";
+$Definition["Rule Action"] = "قاعدة العمل";
+$Definition["Rule may not be deleted while it is running"] =
+    "لا يمكن حذف القاعدة أثناء تشغيلها";
+$Definition["Rule may not be edited while it is running"] =
+    "لا يمكن تحرير القاعدة أثناء تشغيلها";
+$Definition["Rule Name"] = "اسم القاعدة";
+$Definition["Rule status will apply once current run completes"] =
+    "سيتم تطبيق حالة القاعدة بمجرد اكتمال التشغيل الحالي";
+$Definition["Rule Trigger"] = "تشغيل القاعدة";
+$Definition["Running"] = "جري";
+$Definition["See documentation for more information."] =
+    "راجع الوثائق للحصول على مزيد من المعلومات.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "حدد الإجراء الذي سيحدث عند تشغيل هذه القاعدة.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "حدد المشغل الذي سيؤدي إلى تشغيل هذه القاعدة.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "قم بتعيين متغير التشغيل ومتغير الإجراء لتوليد ملخص القاعدة.";
+$Definition["sentiment"] = "مشاعر";
+$Definition["since"] = "منذ";
+$Definition["Summary"] = "ملخص";
+$Definition["The action will be applied to only them if you proceed."] =
+    "سيتم تطبيق الإجراء عليهم فقط إذا قمت بالمتابعة.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "سيتم تطبيق الإجراء عليهم عند تمكين القاعدة. في المستقبل، سيتم تطبيق الإجراء على <0 /> الآخرين الذين يستوفون معايير التشغيل أيضًا.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "لن يؤثر هذا على أي <0 /> في الوقت الحالي. وسوف يؤثر على أولئك الذين يستوفون المعايير في المستقبل.";
+$Definition["Time since added to collection"] =
+    "الوقت منذ الإضافة إلى المجموعة";
+$Definition["Time since post has had no comments"] =
+    "لم يتم نشر أي تعليقات منذ نشر المنشور";
+$Definition["Time since Registration"] = "الوقت منذ التسجيل";
+$Definition["Time since post has had no activity"] =
+    "الوقت منذ أن تم نشر المنشور لم يكن له أي نشاط";
+$Definition["Time since question has been unanswered"] =
+    "الوقت منذ أن لم تتم الإجابة على السؤال";
+$Definition["Trigger"] = "مشغل";
+$Definition["Unsaved Changes"] = "التغييرات غير المحفوظة";
+$Definition["Up to <0 /> ago."] = "حتى <0 /> مضت.";
+$Definition["upvote"] = "تصويت إيجابي";
+$Definition["upvotes"] = "تصويتات إيجابية";
+$Definition["User Management"] = "إدارة المستخدمين";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "المستخدمون الذين يطابقون المعايير الآن: <0 />";
+$Definition["Value is not a valid integer."] = "القيمة ليست عددًا صحيحًا صالحًا.";
+$Definition["View History"] = "عرض التاريخ";
+$Definition["Votes on an idea"] = "التصويت على فكرة";
+$Definition["with"] = "مع";
+$Definition["with reason"] = "مع العقل";
+$Definition["with tag"] = "مع العلامة";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "لا يمكنك إضافة أكثر من 150 قاعدة أتمتة. احذف بعض القواعد وحاول مرة أخرى.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "لا توجد أيقونات تتطابق مع تلك المرشحات.";
+$Definition["Manage Icon"] = "إدارة الأيقونة";
+$Definition["Manage Icons"] = "إدارة الأيقونات";
+$Definition["Manage Icon helptext"] =
+    "يمكنك إدارة أيقونات النظام والأيقونات التاريخية هنا. عند التحميل، تأكد من أن الأيقونة بتنسيق SVG، وتتضمن سمة viewBox، وتستخدم اللون #000000 لضمان إمكانية تلوينها ديناميكيًا استنادًا إلى إعدادات السمة وتفاعلات المستخدم. لا يمكن تنشيط سوى أيقونة واحدة من كل نوع في كل مرة.";
+$Definition["Upload New Icon"] = "تحميّل أيقونة جديدة";
+$Definition["Active Icon"] = "الأيقونة النشطة";
+$Definition["New Icon"] = "أيقونة جديدة";
+$Definition["Icon Type"] = "نوع الرمز";
+$Definition["Previous Icons"] = "الأيقونات السابقة";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "يمكنك العثور على الإصدارات السابقة من أيقوناتك هنا واستعادتها في أي وقت.";
+$Definition["Set as Active"] = "تعيين كنشط";
+$Definition["Uploaded <0/> by <1/>"] = "تم تحميله <0/> بواسطة <1/>";
+$Definition["Icon Packs"] = "حزم الأيقونات";
+$Definition["Download Active Icon Pack"] = "تنزيل حزمة الأيقونات النشطة";
+$Definition["Download System Icon Pack"] = "تنزيل حزمة أيقونات النظام";
+$Definition["Upload Icon Pack"] = "تحميل حزمة الأيقونات";
+$Definition["Preview Icon Pack"] = "معاينة حزمة الأيقونات";
+$Definition["Changed Icons"] = "الأيقونات المتغيرة";
+$Definition["Icon Name"] = "اسم الأيقونة";
+$Definition["All icons in this icon pack are currently active."] =
+    "جميع الأيقونات الموجودة في مجموعة الأيقونات هذه نشطة حاليًا.";
+$Definition["Activate Icon Pack"] = "تفعيل حزمة الأيقونات";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "إظهار الرموز التي تم استبدالها برموز مخصصة فقط.";
+$Definition["System Icon"] = "أيقونة النظام";
+$Definition["Custom Icon"] = "أيقونة مخصصة";
+$Definition["Only show icons that are default system icons."] =
+    "إظهار الأيقونات التي تعتبر أيقونات النظام الافتراضية فقط.";
+$Definition["Previews"] = "معاينات";
+$Definition["Icon Size"] = "حجم الأيقونة";
+$Definition["This is the actual size most icons render at."] =
+    "هذا هو الحجم الفعلي الذي يتم عرض معظم الرموز به.";
+$Definition["Preview Color"] = "معاينة اللون";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "سيتم استخدام هذا اللون لمعاينة لون الرمز. وسيحل محل أي استخدام لـ #000000 في الرموز التي قمت بتحميلها. في التطبيق الفعلي، ستكون الألوان ديناميكية.";
+$Definition["Escalation Name"] = "اسم التصعيد";
+$Definition["Status on Creation"] = "الحالة عند الإنشاء";
+$Definition["Assignee"] = "المُحَال إليه";
+$Definition["Internal Comment"] = "تعليق داخلي";
+$Definition["Set Post Visibility to Hidden"] = "تعيين ظهور المنشور إلى مخفي";
+$Definition["Remove Method"] = "إزالة الطريقة";
+$Definition["Wipe"] = "يمسح";
+$Definition["Newest Post"] = "أحدث مشاركة";
+$Definition["Oldest Post"] = "أقدم منشور";
+$Definition["Triage"] = "الفرز";
+$Definition["Triage Dashboard"] = "لوحة معلومات الفرز";
+$Definition["Message Post Author"] = "مؤلف الرسالة";
+$Definition["Add Filter"] = "إضافة مرشح";
+$Definition["Customer Support"] = "دعم العملاء";
+$Definition["My Profile"] = "ملفي الشخصي";
+$Definition["Resolve post"] = "حل المنشور";
+$Definition["View post in community"] = "عرض المنشور في المجتمع";
+$Definition["View Details"] = "عرض التفاصيل";
+$Definition["Escalate"] = "تصعيد";
+$Definition["Posted by <0/> in <1/>"] = "تم نشره بواسطة <0/> في <1/>";
+$Definition["Show"] = "يعرض";
+$Definition["View Escalation"] = "عرض التصعيد";
+$Definition["# Reports"] = "# التقارير";
+$Definition["Last Reported"] = "آخر تقرير";
+$Definition["Report Reasons"] = "أسباب التقرير";
+$Definition["Last Modified"] = "آخر تعديل";
+$Definition["Last refreshed <0/> by <1/>."] = "تم التحديث آخر مرة <0/> بواسطة <1/>.";
+
+$Definition["Moderation Content"] = "محتوى الإشراف";
+$Definition["AI Settings"] = "إعدادات الذكاء الاصطناعي";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "نشر VIP";
+$Definition["Activity & Registration"] = "النشاط والتسجيل";
+$Definition["Content Settings"] = "إعدادات المحتوى";
+$Definition["Premoderation Settings"] = "إعدادات ما قبل التعديل";
+$Definition["Escalation Rules"] = "قواعد التصعيد";
+$Definition["Automation"] = "الأتمتة";
+$Definition["Audit Log"] = "سجل التدقيق";
+$Definition["Community Management"] = "إدارة المجتمع";
+$Definition["Visualize Your Community"] = "تصور مجتمعك";
+$Definition["Customize your community"] = "تخصيص مجتمعك";
+$Definition["Configuration & Addons"] = "التكوين والإضافات";
+$Definition["Are you sure you want to delete your %s?"] =
+    "هل أنت متأكد أنك تريد حذف %s الخاص بك؟";
+$Definition["Newest Report"] = "أحدث تقرير";
+$Definition["Oldest Report"] = "أقدم تقرير";
+$Definition["Report Dismissed"] = "تم رفض التقرير";
+$Definition["Post Rejected"] = "تم رفض المنشور";
+$Definition["Escalated"] = "تصاعد";
+$Definition["Reported by <0/>"] = "تم الإبلاغ بواسطة <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "لم يتم تقديم ملاحظات التقرير بواسطة <0/>";
+$Definition["Create"] = "خلق";
+$Definition["Edited"] = "تم التعديل";
+$Definition["Newest Escalation"] = "أحدث تصعيد";
+$Definition["Oldest Escalation"] = "أقدم تصعيد";
+$Definition["Escalations Dashboard"] = "لوحة معلومات التصعيد";
+$Definition["On Hold"] = "قيد الانتظار";
+$Definition["Done"] = "منتهي";
+$Definition["In Jira"] = "في جيرا";
+$Definition["In Zendesk"] = "في زينديسك";
+$Definition["Integrations"] = "التكاملات";
+$Definition["Remove Post"] = "إزالة المنشور";
+$Definition["Escalated by <0/>"] = "تم التصعيد بواسطة <0/>";
+$Definition["Enter a title for this escalation"] =
+    "أدخل عنوانًا لهذا التصعيد";
+$Definition["Escalated by <0/>"] = "تم التصعيد بواسطة <0/>";
+$Definition["Post Revision"] = "مراجعة لاحقة";
+$Definition["Loader"] = "محمل";
+$Definition["a month"] = "شهر";
+$Definition["%s ago"] = "منذ %s";
+$Definition["Live"] = "يعيش";
+$Definition["Live Post"] = "البث المباشر";
+$Definition["Remove Post"] = "إزالة المنشور";
+$Definition["Internal Comments"] = "التعليقات الداخلية";
+$Definition["Add a comment"] = "أضف تعليقًا";
+$Definition["Live"] = "يعيش";
+$Definition["There are currently no comments on this post"] =
+    "لا توجد تعليقات على هذه التدوينة حاليا";
+$Definition["All comments on this post will appear here"] =
+    "ستظهر جميع التعليقات على هذه التدوينة هنا";
+$Definition["Reports for <0/>"] = "التقارير لـ <0/>";
+$Definition["Live Post"] = "البث المباشر";
+$Definition["There are currently no reports for this post."] =
+    "لا توجد تقارير حاليًا لهذه المشاركة.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "ستظهر هنا قائمة التقارير المرتبطة بهذا المنشور.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "قم بتكوين المكان الذي سيتم إرسال التقارير إليه وإدارة أسباب التقارير الخاصة بمجتمعك.";
+$Definition["New Community Management System"] =
+    "نظام إدارة المجتمع الجديد";
+$Definition["Enable Triage Dashboard"] = "تمكين لوحة معلومات الفرز";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "سيتمكن جميع المستخدمين الحاصلين على إذن من فريق العمل من رؤية المناقشات وتحديد ما إذا كانت قد حُلّت أم لا. كما سيتمكن هؤلاء المستخدمون من الوصول إلى لوحة معلومات الفرز لإدارة فئاتهم.";
+$Definition["Resolve All Discussions"] = "حل جميع المناقشات";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "سيؤدي حل جميع المنشورات إلى حل جميع المنشورات الموجودة في المجتمع. لن يؤدي هذا الإجراء الجماعي إلى تشغيل خطافات الويب أو التحليلات.";
+$Definition["Resolve All"] = "حل الكل";
+$Definition["Required field"] = "حقل مطلوب";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "يتيح نظام إدارة المجتمع الجديد إمكانية تخصيص أسباب الإبلاغ، وتصعيد المشكلات، وتحديد المهام، وقواعد الأتمتة. يؤدي تفعيل هذا إلى تغيير طريقة تلقي التقارير لاستخدام النظام الجديد. <0>اقرأ المزيد</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "سيؤدي هذا إلى حل جميع المنشورات الموجودة في المجتمع. لن يؤدي هذا الإجراء المُجمّع إلى تفعيل خطافات الويب أو تحليلات السجلات. هل تريد المتابعة؟";
+$Definition["Reorder"] = "إعادة ترتيب";
+$Definition["Add Reason"] = "أضف سببًا";
+$Definition["Delete?"] = "يمسح؟";
+$Definition["Are you sure you want to delete this reason?"] =
+    "هل أنت متأكد أنك تريد حذف هذا السبب؟";
+$Definition["A concise name for the report reason."] =
+    "اسم مختصر لسبب التقرير.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "تسمية فريدة لسبب التقرير. لا يمكن تغيير هذه التسمية بعد حفظها.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "توضيح سبب التقرير لتمكين المراسلين الأفضل من اتخاذ الاختيار الصحيح عند الإبلاغ عن منشور.";
+$Definition["The roles which can see this report reason."] =
+    "الأدوار التي يمكنها رؤية هذا التقرير السبب.";
+$Definition["Add Report Reason"] = "إضافة سبب التقرير";
+$Definition["Discard Changes?"] = "تجاهل التغييرات؟";
+$Definition["Are you sure you want to exit without saving?"] =
+    "هل أنت متأكد أنك تريد الخروج دون الحفظ؟";
+$Definition["Reorder Report Reasons"] = "أسباب إعادة ترتيب التقرير";
+$Definition["Edit Report Reason"] = "تعديل سبب التقرير";
+$Definition["Delete Report Reason"] = "حذف سبب التقرير";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "يجب تمكين هذا الإعداد لاستخدام مواضيع المناقشة المخصصة.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "قم بضبط الإعدادات المُستخدمة لإدارة محتوى المجتمع تلقائيًا قبل إنشائه. تشمل الخيارات الكشف التلقائي عن الرسائل غير المرغوب فيها، وطلب الموافقة على النشر في فئات مُحددة، وطلب الموافقة على النشر باستخدام كلمات أو عبارات رئيسية مُحددة.";
+$Definition["Spam Detection"] = "اكتشاف البريد العشوائي";
+$Definition["Learn more."] = "يتعلم أكثر.";
+$Definition["documentation."] = "التوثيق.";
+$Definition["Verify browsers of new members"] =
+    "التحقق من متصفحات الأعضاء الجدد";
+$Definition["Challenge Cutoff Age"] = "الحد الأقصى لسن التحدي";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "عدد الأيام منذ التسجيل لتجاوز تحدي Cloudflare";
+$Definition["Save challenge cutoff age"] = "حفظ الحد الأدنى لسن التحدي";
+$Definition["Premoderated Roles"] = "الأدوار المُدارة مسبقًا";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "سيحتاج المستخدمون الذين لديهم إذن \"موافقة.طلب\" إلى موافقة المشرف على جميع المشاركات.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "المستخدمون الذين تم التحقق منهم سيتجاوزون هذا الشرط. هذه هي الأدوار التي تتطلب \"موافقة\".";
+$Definition["No roles are currently set to require premoderation."] =
+    "لم يتم تعيين أي أدوار تتطلب الإشراف المسبق حاليًا.";
+$Definition["Edit Roles"] = "تحرير الأدوار";
+$Definition["Premoderated Categories"] = "الفئات المُعتدلة مسبقًا";
+$Definition["No categories are currently set to require premoderation."] =
+    "لم يتم تعيين الفئات حاليًا لتتطلب المراجعة المسبقة.";
+$Definition["Edit Categories"] = "تحرير الفئات";
+$Definition["Premoderated Keywords"] = "الكلمات الرئيسية المُعتدلة مسبقًا";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "تتطلب المشاركات التي تحتوي على أي من الكلمات أو العبارات الرئيسية التالية موافقة المشرف.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "لم يتم تعيين أي كلمات رئيسية حاليًا لتتطلب المراجعة المسبقة.";
+$Definition["Edit Keywords"] = "تعديل الكلمات الرئيسية";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "قم بتمكين Akismet لتصفية البريد العشوائي في جميع المنشورات حسب تسجيلات المتقدمين والمستخدمين غير الموثوق بهم. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "فعّل خاصية Stopforumspam للتحقق من مستخدمي المجتمع من خلال قائمة مرسلي البريد العشوائي المُبلّغ عنهم، والإبلاغ عن المنشور كبريد عشوائي أو رفضه نهائيًا. يتم التحكم في حدود الإبلاغ والرفض في <0>إعدادات الإضافة.</0> . تعرف على المزيد في <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "سيتم مطالبة الأعضاء غير الموثقين الذين كانوا في المجتمع لمدة أقل من العدد المحدد من الأيام بإكمال تحدي Cloudflare (Captcha أو Checkbox) لمنع البريد العشوائي. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "سوف تتطلب %s في الفئات التالية موافقة المشرف.";
+$Definition["Default Sort Order"] = "ترتيب الفرز الافتراضي";
+$Definition["Choose the order records are sorted by default."] =
+    "اختر ترتيب السجلات ليتم فرزها بشكل افتراضي.";
+$Definition["Show OP Indicator"] = "إظهار مؤشر OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "إذا تم تمكين هذا الخيار، فستحتوي الردود من صاحب المنشور الأصلي على مؤشر OP.";
+$Definition["Show Badges"] = "عرض الشارات";
+$Definition["Badges Limit"] = "حد الشارات";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "اعرض شارات المستخدمين في كل منشور. يُسمح بعرض ما يصل إلى خمس شارات كحد أقصى، مرتبةً حسب أعلى تصنيف.";
+$Definition["event"] = "حدث";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> المزيد من التعليقات";
+$Definition["Export"] = "يصدّر";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "لا يمكن أن يتجاوز طول عناوين الصفحة الرئيسية 1 إلى 500 حرف";
+$Definition["Address Bar Color"] = "لون شريط العنوان";
+$Definition["Meta Tags"] = "العلامات الوصفية";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "تُستخدم علامات التعريف الوصفية للتحقق من النطاق في Google Search Console وخدمات أخرى. انسخ علامات التعريف الوصفية المطلوبة من مصدرك والصقها في سطر جديد.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "خذ بضع دقائق من وقتك في التفكير في كيفية وصف موقعك هنا. يمكن أن يساعدك إعطاء عنوان ذي مغزى ووصف موجز لموقعك في محركات البحث.";
+$Definition["Style Guides"] = "أدلة الأسلوب";
+$Definition["Branding & Assets"] = "العلامات التجارية والأصول";
+$Definition["Home Pages"] = "الصفحات الرئيسية";
+$Definition["Home Layout Settings"] = "إعدادات تخطيط الصفحة الرئيسية";
+$Definition["Category Pages"] = "صفحات الفئات";
+$Definition["Category Layout Settings"] = "إعدادات تخطيط الفئة";
+$Definition["Category List Pages"] = "صفحات قائمة الفئات";
+$Definition["Posting Category Pages"] = "نشر صفحات الفئات";
+$Definition["Nested Category Pages"] = "صفحات الفئات المتداخلة";
+$Definition["Discussion Pages"] = "صفحات المناقشة";
+$Definition["Idea Pages"] = "صفحات الأفكار";
+$Definition["Question Pages"] = "صفحات الأسئلة";
+$Definition["Post Pages"] = "صفحات المنشورات";
+$Definition["Post Layout Settings"] = "إعدادات تخطيط المنشور";
+$Definition["Create Post Pages"] = "إنشاء صفحات المشاركات";
+$Definition["Create Post Layout Settings"] = "إنشاء إعدادات تخطيط المنشور";
+$Definition["Event Pages"] = "صفحات الأحداث";
+$Definition["Event Layout Settings"] = "إعدادات تخطيط الحدث";
+$Definition["Knowledge Base Pages"] = "صفحات قاعدة المعرفة";
+$Definition["Knowledge Base Layout Settings"] =
+    "إعدادات تخطيط قاعدة المعرفة";
+$Definition["Knowledge Base Home Pages"] = "الصفحات الرئيسية لقاعدة المعرفة";
+$Definition["Help Center Home Pages"] = "الصفحات الرئيسية لمركز المساعدة";
+$Definition["Help Center Category Pages"] = "صفحات فئات مركز المساعدة";
+$Definition["Help Center Article Pages"] = "صفحات مقالات مركز المساعدة";
+$Definition["Guide Article Pages"] = "صفحات المقالات الإرشادية";
+$Definition["Layouts"] = "التخطيطات";
+$Definition["Add Custom Layout"] = "إضافة تخطيط مخصص";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "اختر تخطيط المشاركات الأخيرة المفضل لديك.";
+$Definition["Legacy Recent Posts Layouts"] = "تخطيطات المنشورات الحديثة";
+$Definition["Change layout versions for the <0/>."] =
+    "تغيير إصدارات التخطيط لـ <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "لمعرفة المزيد، <0>راجع الوثائق</0> .";
+$Definition["Change %s"] = "تغيير %s";
+$Definition["Are you sure you want to use %s?"] =
+    "هل أنت متأكد أنك تريد استخدام %s؟";
+$Definition["Legacy Home Layouts"] = "تخطيطات المنازل القديمة";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "اختر تخطيط Legacy Home المفضل.";
+$Definition["Home Layout Version"] = "إصدار تخطيط الصفحة الرئيسية";
+$Definition["Custom Home Layouts"] = "تخطيطات المنازل المخصصة";
+$Definition["Legacy Category Layout"] = "تخطيط الفئة القديمة";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "اختر تخطيط الفئة القديمة المفضل.";
+$Definition["Category Layout Version"] = "إصدار تخطيط الفئة";
+$Definition["Legacy Category Layouts"] = "تخطيطات الفئات القديمة";
+$Definition["Custom Category Layouts"] = "تخطيطات الفئات المخصصة";
+$Definition["Legacy Post Layout"] = "تخطيط المنشور القديم";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "اختر تخطيط المنشور القديم المفضل.";
+$Definition["Post Layout Version"] = "إصدار تخطيط المنشور";
+$Definition["Legacy Post Layouts"] = "تخطيطات المنشورات القديمة";
+$Definition["Custom Post Layouts"] = "تخطيطات المنشورات المخصصة";
+$Definition["Legacy Create Post Layout"] = "تخطيط إنشاء المنشور القديم";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "اختر تخطيط إنشاء المنشور القديم المفضل.";
+$Definition["Create Post Layout Version"] = "إنشاء إصدار تخطيط المنشور";
+$Definition["Legacy Create Post Layouts"] = "تخطيطات إنشاء المنشورات القديمة";
+$Definition["Custom Create Post Layouts"] = "إنشاء تخطيطات منشورات مخصصة";
+$Definition["Legacy Event Layout"] = "تخطيط الحدث القديم";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "اختر تخطيط الحدث القديم المفضل.";
+$Definition["Event Layout Version"] = "إصدار تخطيط الحدث";
+$Definition["Legacy Event Layouts"] = "تخطيطات الأحداث القديمة";
+$Definition["Custom Event Layouts"] = "تخطيطات الأحداث المخصصة";
+$Definition["Created <0/> by <1/>."] = "تم إنشاء <0/> بواسطة <1/>.";
+$Definition["Layout Options"] = "خيارات التخطيط";
+$Definition["Contextual Description"] = "الوصف السياقي";
+$Definition["Skip to end of Carousel"] = "انتقل إلى نهاية الكاروسيل";
+$Definition["Previous Slides"] = "الشرائح السابقة";
+$Definition["Next Slides"] = "الشرائح التالية";
+$Definition["indicator navigation"] = "مؤشر الملاحة";
+$Definition["<0/> new"] = "<0/> جديد";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d شرائح معروضة الشريحة الأولية %d من %d";
+$Definition["Unassigned"] = "غير مخصص";
+$Definition["Apply Layout to Site Home Page"] =
+    "تطبيق التخطيط على الصفحة الرئيسية للموقع";
+$Definition["Set as default layout for specific subcommunities."] =
+    "تعيين كتخطيط افتراضي لمجتمعات فرعية محددة.";
+$Definition["Apply to specific categories."] = "تطبيق على فئات محددة.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "لا يمكن حذف هذا التخطيط لأنه عبارة عن قالب تخطيط.";
+$Definition["Delete Layout"] = "حذف التخطيط";
+$Definition["Are you sure you want to delete?"] =
+    "هل أنت متأكد أنك تريد الحذف؟";
+$Definition["Applied"] = "مُطبَّق";
+$Definition["Applied as default"] = "تم تطبيقه كإعداد افتراضي";
+$Definition["View Category"] = "عرض الفئة";
+$Definition["Apply to specific subcommunities."] =
+    "تنطبق على مجتمعات فرعية محددة.";
+$Definition["Unable to re-assign default template"] =
+    "غير قادر على إعادة تعيين القالب الافتراضي";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "هذا التخطيط قالب، وهو مُعيَّن افتراضيًا لجميع صفحات هذا النوع. لإزالته من الإعداد الافتراضي أو تعيينه لصفحات محددة، يجب تعيين تخطيط مختلف افتراضيًا.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "لا يمكن حذف هذا التخطيط لأنه مطبق حاليًا.";
+$Definition["Set as default layout for all <0 />."] =
+    "تعيين كتخطيط افتراضي لجميع <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "تخطيط قاعدة المعرفة القديمة";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "اختر تخطيط قاعدة المعرفة القديمة المفضل.";
+$Definition["Knowledge Base Layout Version"] = "إصدار تخطيط قاعدة المعرفة";
+$Definition["Legacy Knowledge Base Layouts"] = "تخطيطات قاعدة المعرفة القديمة";
+$Definition["Custom Knowledge Base Layouts"] = "تخطيطات قاعدة المعرفة المخصصة";
+$Definition["Article Count"] = "عدد المقالات";
+$Definition["Legacy Layouts enabled"] = "تم تمكين التخطيطات القديمة";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "لاحظ أن تغيير التخطيط هذا لن يكون مرئيًا إلا عند التبديل إلى التخطيطات المخصصة.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "لن يكون تغيير التخطيط هذا مرئيًا إلا بعد تحويل مجتمعك إلى <0/> مخصص في الصفحة <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "تعيين كتخطيط افتراضي لقواعد المعرفة المحددة.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "الموقع لا يسمح لك بالاتصال بمستخدم موجود.";
+$Definition["The username you entered has already been taken."] =
+    "اسم المستخدم الذي أدخلته قد تم أخذه بالفعل.";
+$Definition["There was an error fetching the connection data."] =
+    "حدث خطأ أثناء جلب بيانات الاتصال.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "تعذّرت مصادقة طلب إعادة تعيين كلمة المرور. حاول استخدام نموذج طلب إعادة التعيين مرة أخرى.";
+$Definition["Invitation not found."] = "لم يتم العثور على الدعوة.";
+
+$Definition['# of automation rules'] = 'عدد قواعد الأتمتة';
+$Definition['Add Template'] = 'إضافة قالب';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'حدد من يجب أن يتلقى هذه الرسالة الإلكترونية عند تشغيل قاعدة التشغيل الآلي هذه';
+$Definition['Delete an email template.'] = 'حذف نموذج بريد إلكتروني.';
+$Definition['Email Audience'] = 'جمهور البريد الإلكتروني';
+$Definition['Email Template'] = 'نموذج بريد إلكتروني';
+$Definition['Email Templates'] = 'قوالب البريد الإلكتروني';
+$Definition['Email Template successfully deleted.'] = 'تم حذف نموذج البريد الإلكتروني بنجاح.';
+$Definition['Email Template not enabled.'] = 'قالب البريد الإلكتروني غير مُفعّل.';
+$Definition['Email template not found.'] = 'لم يتم العثور على نموذج البريد الإلكتروني.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'اسم قالب البريد الإلكتروني موجود بالفعل. أدخل اسمًا فريدًا للمتابعة.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'يمكن استخدام قوالب البريد الإلكتروني بالتزامن مع <0/> للتواصل مع المستخدمين بناءً على نشاط الأعضاء أو محفزات المجتمع الأخرى.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'قم بتمكين هذا الخيار لإرسال بريد إلكتروني للمتابعة عند تفعيل القاعدة.';
+$Definition['Impacted User'] = 'المستخدم المتأثر';
+$Definition['Search and select one or more roles to receive this email'] = 'ابحث عن دور واحد أو أكثر وحدده لتلقي هذه الرسالة الإلكترونية';
+$Definition['Search and select one or more users to receive this email.'] = 'ابحث عن مستخدم واحد أو أكثر وحددهم لتلقي هذه الرسالة الإلكترونية.';
+$Definition['Select Roles'] = 'تحديد الأدوار';
+$Definition['Select User'] = 'حدد المستخدم';
+$Definition['Select the email template to send.'] = 'اختر قالب البريد الإلكتروني الذي تريد إرساله.';
+$Definition['Send an Email After This Rule Runs'] = 'أرسل بريدًا إلكترونيًا بعد انتهاء هذه القاعدة';
+$Definition['Send email'] = 'أرسل بريدًا إلكترونيًا';
+$Definition['Send the email'] = 'أرسل البريد الإلكتروني';
+$Definition['Send email to user'] = 'إرسال بريد إلكتروني إلى المستخدم';
+$Definition['Specific Roles'] = 'أدوار محددة';
+$Definition['Specific Users'] = 'مستخدمون محددون';
+$Definition['System email templates cannot be deleted.'] = 'لا يمكن حذف قوالب البريد الإلكتروني الخاصة بالنظام.';
+$Definition['template name'] = 'أسماء القوالب';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'استخدم هذه الصفحة لإنشاء وإدارة قوالبك، ثم قم بتكوين <0/> للتحكم في وقت إرسال كل بريد إلكتروني ولمن يتم إرساله.';
+$Definition['View the full list of available placeholders.'] = 'اطلع على القائمة الكاملة للعناصر النائبة المتاحة.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'يمكنك أيضًا تضمين عناصر نائبة في محتوى بريدك الإلكتروني، وسيتم استبدالها تلقائيًا بمعلومات المستخدم أو المنشور ذات الصلة عند إرسال البريد الإلكتروني. على سبيل المثال، مرحبًا {user.name}! أو تفضل بزيارة {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'لا يمكنك حذف رسائل البريد الإلكتروني الخاصة بالنظام';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'لا يمكنك حذف قالب مستخدم في قواعد التشغيل الآلي.';
+$Definition['You will no longer receive community engagement emails.'] = 'لن تتلقى بعد الآن رسائل بريد إلكتروني تتعلق بمشاركة المجتمع.';
+$Definition['Delete Email Template'] = 'حذف قالب البريد الإلكتروني';
+$Definition["Template Styles"] = "أنماط القوالب";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "اترك أي حقل فارغًا لاستخدام أنماط البريد الإلكتروني الافتراضية كما تم تكوينها في <0>إعدادات البريد الإلكتروني</0> صفحة.";

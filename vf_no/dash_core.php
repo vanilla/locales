@@ -1224,3 +1224,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendesk kunnskapsbaser';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom møte-ID eller URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Du} godtok {NotifyUserID,ditt} svar på et spørsmål: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Mobillogo";
+$Definition["Banner Image"] = "Bannerbilde";
+$Definition["Disable Forum Pages"] = "Deaktiver forumsider";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Velg standard tekstbehandler for innlegg i dette samfunnet.";
+$Definition["InputFormatter.Notes2"] =
+    "Tekstbehandleren vil automatisk detektere formatet til gamle innlegg når de blir redigert, og vil laste de originale formaterings reglene. Bortsett fra dette unntaket så vil det valgte innleggsformatet ta presedens. ";
+$Definition["Formatting Posts"] = "Formaterer innlegg";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Spesifiser en tekstbehandler for mobile enheter.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Om mobile enheter skal ha den samme opplevelsen, spesifiser den samme som over. Om brukere rapporterer feil ved redigering på mobil så kan dette være et lurt alternativ å endre.";
+$Definition["Note:"] = "Notat:";
+$Definition["Post Format"] = "Publiseringsformat";
+$Definition["Posting"] = "Innlegging";
+$Definition["Reinterpret All Posts As %s"] = "Omtolk alle innlegg som %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Be redaktøren om å tolke alle gamle innlegg som %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Denne innstillingen vil bare tre i kraft hvis %s ble valgt som postformat ovenfor.";
+$Definition["This option is to normalize the editor format"] =
+    "Dette alternativet er for å normalisere redigeringsformatet, hvis eldre innlegg som er redigert med et annet format, slik som markdown eller BBCode, lastes inn, vil dette alternativet tvinge %s.";
+
+$Definition["Mobile Format"] = "Mobilformat";
+$Definition["Enable Rich Quotes"] = "Aktiver rike sitater";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Bruk følgende alternativ for å aktivere sitater for den rike tekstbehandleren. Dette vil kun gjelde hvis standard tekstbehandler er "Rik"';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Standard plassholder";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Last opp et plassholder-bilde som vises når brukere ikke har et bilde i innlegget sitt.";
+$Definition["Additional classes"] = "Flere klasser";
+$Definition["Apply additional classes on catalogue image."] =
+    "Anvend flere klasser på katalogbildet. Bruk mellomrom for å skille hver klasse.";
+$Definition["Category only"] = "Kun kategori";
+$Definition["Display on category page only."] =
+    "Vis kun på kategorisiden. Nylige diskusjonslister blir ikke påvirket.";
+$Definition["Use Masonry display"] = "Bruk Masonry-skjerm";
+$Definition["Show an uploaded image on the Category page."] =
+    'Hver diskusjon viser et opplastet bilde på kategorisiden. Dette gjelder kun kategorier med "Diskusjoner", som "Vis som".';
+$Definition["Upload Placeholder Image"] = "Last opp plassholder-bilde";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Det oppsto en feil da endringene dine skulle lagres. Vær så snill, prøv på nytt.";
+$Definition["<0/> has been <1/>"] = "<0/> har vært <1/>";
+$Definition["enabled"] = "aktivert";
+$Definition["disabled"] = "funksjonshemmet";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Denne informasjonen vil kun vises til brukere med tillatelse til å se intern informasjon";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Dette er privat informasjon og vil ikke bli delt med andre medlemmer.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Dette vil opprette et Zoom-møte på vegne av Zoom-integrasjonseieren, og hvis du er en registrert bruker, legg deg til som cohost. Hvis du ikke er en registrert Zoom-bruker eller ikke er en del av organisasjonen som satte opp integrasjonen, kan denne hendelsen ha begrenset Zoom-funksjonalitet uten verten.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Du kan ikke oppdatere denne hendelsens Zoom URL eller ID.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom møte-ID eller URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Legg til tag";
+$Definition["A post"] = "Et innlegg";
+$Definition["A post has been added to a collection"] =
+    "Et innlegg er lagt til en samling";
+$Definition["A post has not had any activity"] =
+    "Et innlegg har ikke hatt noen aktivitet";
+$Definition["A question"] = "Et spørsmål";
+$Definition["A user has been registered"] = "En bruker er registrert";
+$Definition["A post has received"] = "Et innlegg har mottatt";
+$Definition["Date field reached"] = "Datofelt nådd";
+$Definition["A user registers or logs in with email domain:"] =
+    "En bruker registrerer eller logger på med e-postdomene:";
+$Definition["A user registers or updates a profile field:"] =
+    "En bruker registrerer eller oppdaterer et profilfelt:";
+$Definition["Add tags:"] = "Legg til tagger:";
+$Definition["Add to collection:"] = "Legg til samlingen:";
+$Definition["An idea has received"] = "En idé har mottatt";
+$Definition["and"] = "og";
+$Definition["and assign to"] = "og tilordne til";
+$Definition["and remove role"] = "og fjern rollen";
+$Definition["and remove from community"] = "og fjerne fra fellesskapet";
+$Definition["Assign role:"] = "Tilordne rolle:";
+$Definition["Assign/Remove role"] = "Tildel/fjern rolle";
+$Definition["Auto-run disabled."] = "Auto-run deaktivert.";
+$Definition["Auto-run enabled."] = "Auto-run aktivert.";
+$Definition["Automation rule successfully created."] =
+    "Automatiseringsregel er opprettet.";
+$Definition["Automation rule successfully updated."] =
+    "Automatiseringsregelen ble oppdatert.";
+$Definition["Bump post"] = "Bump innlegg";
+$Definition["Change the status of the idea to"] =
+    "Endre statusen til ideen til";
+$Definition["Change status"] = "Endre status";
+$Definition["Close post"] = "Lukk innlegg";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Kommentarer som samsvarer med kriterier nå: <0 />";
+$Definition["created by"] = "opprettet av";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Opprett og administrer automatiseringer for enkelt å administrere innlegg og brukere.";
+$Definition["Create/Edit Automation Rule"] = "Opprett/rediger automatiseringsregel";
+$Definition["Delete Rule"] = "Slett regel";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Samsvarskriterier for diskusjoner nå: <0 />";
+$Definition["Edit Rule"] = "Rediger regel";
+$Definition["Edit Variables"] = "Rediger variabler";
+$Definition["Escalate it"] = "Eskalere det";
+$Definition["Escalate to GitHub"] = "Eskaler til GitHub";
+$Definition["Escalate to Zendesk"] = "Eskalere til Zendesk";
+$Definition["Expand"] = "Utvide";
+$Definition["Failed to disable the rule"] = "Kunne ikke deaktivere regelen";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Kunne ikke laste inn forhåndsvisningsdataene. Sjekk utløser- og handlingsverdiene dine.";
+$Definition["Follow categories:"] = "Følg kategorier:";
+$Definition["Follow category"] = "Følg kategori";
+$Definition["for"] = "til";
+$Definition["has been unanswered"] = "har vært ubesvart";
+$Definition["has not received any comments"] = "har ikke mottatt merknader";
+$Definition["Last reported"] = "Sist rapportert";
+$Definition["Maximum Limit Reached"] = "Maksimal grense nådd";
+$Definition["Move post"] = "Flytt innlegget";
+$Definition["Move to category:"] = "Flytt til kategori:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Flervalgsfelt utløses hvis brukeren oppfyller NOEN av kriteriene.";
+$Definition["New/Updated Email domain"] = "Nytt/oppdatert e-postdomene";
+$Definition["New/Updated Profile field"] = "Ny/oppdatert profilfelt";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Merk: Handlinger vil ikke påvirke <0 /> som allerede har den tilknyttede handlingen iverksatt.";
+$Definition["Post Management"] = "Postledelse";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Innlegg samsvarende kriterier nå: <0 />";
+$Definition["Remove from collection"] = "Fjern fra samlingen";
+$Definition["Remove from collection:"] = "Fjern fra samlingen:";
+$Definition["Remove from default follow list"] =
+    "Fjern fra standard følgeliste";
+$Definition["Remove from trigger collection"] =
+    "Fjern fra utløsersamling";
+$Definition["report"] = "rapportere";
+$Definition["reports"] = "rapporter";
+$Definition["Rule Action"] = "Regel handling";
+$Definition["Rule may not be deleted while it is running"] =
+    "Regelen kan ikke slettes mens den kjører";
+$Definition["Rule may not be edited while it is running"] =
+    "Regelen kan ikke redigeres mens den kjører";
+$Definition["Rule Name"] = "Regelnavn";
+$Definition["Rule status will apply once current run completes"] =
+    "Regelstatus vil gjelde når gjeldende kjøring er fullført";
+$Definition["Rule Trigger"] = "Regelutløser";
+$Definition["Running"] = "Løper";
+$Definition["See documentation for more information."] =
+    "Se dokumentasjon for mer informasjon.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Velg handlingen som skal skje når denne regelen utløses.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Velg utløseren som får denne regelen til å kjøre.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Angi utløservariabel og handlingsvariabel for å generere et regelsammendrag.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "siden";
+$Definition["Summary"] = "Sammendrag";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Handlingen vil bare bli brukt på dem hvis du fortsetter.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Handlingen vil gjelde for dem når regelen er aktivert. I fremtiden vil andre <0 /> som oppfyller utløserkriteriene også få handlingen brukt på dem.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Dette vil ikke påvirke noen <0 /> akkurat nå. Det vil påvirke de som oppfyller kriteriene i fremtiden.";
+$Definition["Time since added to collection"] =
+    "Tid siden lagt til samlingen";
+$Definition["Time since post has had no comments"] =
+    "Tiden siden innlegget har ikke hatt noen kommentarer";
+$Definition["Time since Registration"] = "Tid siden registrering";
+$Definition["Time since post has had no activity"] =
+    "Tiden siden innlegget har ikke hatt noen aktivitet";
+$Definition["Time since question has been unanswered"] =
+    "Tiden siden spørsmålet har vært ubesvart";
+$Definition["Trigger"] = "Avtrekker";
+$Definition["Unsaved Changes"] = "Ulagrede endringer";
+$Definition["Up to <0 /> ago."] = "Inntil <0 /> siden.";
+$Definition["upvote"] = "stemme opp";
+$Definition["upvotes"] = "oppstemmer";
+$Definition["User Management"] = "Brukeradministrasjon";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Brukere som samsvarer med kriterier nå: <0 />";
+$Definition["Value is not a valid integer."] = "Verdien er ikke et gyldig heltall.";
+$Definition["View History"] = "Vis historikk";
+$Definition["Votes on an idea"] = "Stemmer på en idé";
+$Definition["with"] = "med";
+$Definition["with reason"] = "med grunn";
+$Definition["with tag"] = "med tag";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Du kan ikke legge til mer enn 150 automatiseringsregler. Slett noen regler og prøv igjen.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Ingen ikoner samsvarer med disse filtrene.";
+$Definition["Manage Icon"] = "Administrer ikon";
+$Definition["Manage Icons"] = "Administrer ikoner";
+$Definition["Manage Icon helptext"] =
+    "Du kan administrere system- og historiske ikoner her. Når du laster opp, sørg for at ikonet er i SVG-format, inkluderer et viewBox-attributt og bruker farge #000000 for å sikre at det kan farges dynamisk basert på temainnstillinger og brukerinteraksjoner. Bare ett ikon av hver type kan være aktivt om gangen.";
+$Definition["Upload New Icon"] = "Last opp nytt ikon";
+$Definition["Active Icon"] = "Aktivt ikon";
+$Definition["New Icon"] = "Nytt Ikon";
+$Definition["Icon Type"] = "Ikontype";
+$Definition["Previous Icons"] = "Tidligere ikoner";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Tidligere versjoner av ikonene dine kan bli funnet her og gjenopprettes når som helst.";
+$Definition["Set as Active"] = "Sett som aktiv";
+$Definition["Uploaded <0/> by <1/>"] = "Lastet opp <0/> av <1/>";
+$Definition["Icon Packs"] = "Ikonpakker";
+$Definition["Download Active Icon Pack"] = "Last ned Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Last ned System Icon Pack";
+$Definition["Upload Icon Pack"] = "Last opp ikonpakke";
+$Definition["Preview Icon Pack"] = "Forhåndsvisningsikonpakke";
+$Definition["Changed Icons"] = "Endret ikoner";
+$Definition["Icon Name"] = "Ikon Navn";
+$Definition["All icons in this icon pack are currently active."] =
+    "Alle ikonene i denne ikonpakken er aktive for øyeblikket.";
+$Definition["Activate Icon Pack"] = "Aktiver Icon Pack";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Vis bare ikoner som har blitt overstyrt med egendefinerte ikoner.";
+$Definition["System Icon"] = "Systemikon";
+$Definition["Custom Icon"] = "Egendefinert ikon";
+$Definition["Only show icons that are default system icons."] =
+    "Vis bare ikoner som er standard systemikoner.";
+$Definition["Previews"] = "Forhåndsvisninger";
+$Definition["Icon Size"] = "Ikonstørrelse";
+$Definition["This is the actual size most icons render at."] =
+    "Dette er den faktiske størrelsen de fleste ikoner gjengir med.";
+$Definition["Preview Color"] = "Forhåndsvisningsfarge";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Denne fargen vil bli brukt til å forhåndsvise ikonfargen. Det vil erstatte all bruk av #000000 i de opplastede ikonene dine. I selve applikasjonen vil farger være dynamiske.";
+$Definition["Escalation Name"] = "Navn på eskalering";
+$Definition["Status on Creation"] = "Status ved opprettelse";
+$Definition["Assignee"] = "Oppdragstaker";
+$Definition["Internal Comment"] = "Intern kommentar";
+$Definition["Set Post Visibility to Hidden"] = "Sett innleggssynlighet til skjult";
+$Definition["Remove Method"] = "Fjern metode";
+$Definition["Wipe"] = "Tørke";
+$Definition["Newest Post"] = "Nyeste innlegg";
+$Definition["Oldest Post"] = "Eldste innlegg";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Triage Dashboard";
+$Definition["Message Post Author"] = "Melding Innlegg forfatter";
+$Definition["Add Filter"] = "Legg til filter";
+$Definition["Customer Support"] = "Kundestøtte";
+$Definition["My Profile"] = "Min profil";
+$Definition["Resolve post"] = "Løs innlegg";
+$Definition["View post in community"] = "Se innlegg i fellesskapet";
+$Definition["View Details"] = "Se detaljer";
+$Definition["Escalate"] = "Eskalere";
+$Definition["Posted by <0/> in <1/>"] = "Skrevet av <0/> i <1/>";
+$Definition["Show"] = "Vis";
+$Definition["View Escalation"] = "Se Eskalering";
+$Definition["# Reports"] = "# Rapporter";
+$Definition["Last Reported"] = "Sist rapportert";
+$Definition["Report Reasons"] = "Rapporter årsaker";
+$Definition["Last Modified"] = "Sist endret";
+$Definition["Last refreshed <0/> by <1/>."] = "Sist oppdatert <0/> av <1/>.";
+
+$Definition["Moderation Content"] = "Moderasjonsinnhold";
+$Definition["AI Settings"] = "AI-innstillinger";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP-utplassering";
+$Definition["Activity & Registration"] = "Aktivitet og påmelding";
+$Definition["Content Settings"] = "Innholdsinnstillinger";
+$Definition["Premoderation Settings"] = "Innstillinger for forhåndsmoderering";
+$Definition["Escalation Rules"] = "Eskaleringsregler";
+$Definition["Automation"] = "Automasjon";
+$Definition["Audit Log"] = "Revisjonslogg";
+$Definition["Community Management"] = "Fellesskapsledelse";
+$Definition["Visualize Your Community"] = "Visualiser fellesskapet ditt";
+$Definition["Customize your community"] = "Tilpass fellesskapet ditt";
+$Definition["Configuration & Addons"] = "Konfigurasjon og tillegg";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Er du sikker på at du vil slette %s?";
+$Definition["Newest Report"] = "Nyeste rapport";
+$Definition["Oldest Report"] = "Eldste rapport";
+$Definition["Report Dismissed"] = "Rapport avvist";
+$Definition["Post Rejected"] = "Innlegg avvist";
+$Definition["Escalated"] = "Eskalert";
+$Definition["Reported by <0/>"] = "Rapportert av <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Ingen rapportnotater ble levert av <0/>";
+$Definition["Create"] = "Create";
+$Definition["Edited"] = "Redigert";
+$Definition["Newest Escalation"] = "Nyeste eskalering";
+$Definition["Oldest Escalation"] = "Eldste eskalering";
+$Definition["Escalations Dashboard"] = "Eskaleringer Dashboard";
+$Definition["On Hold"] = "På vent";
+$Definition["Done"] = "Ferdig";
+$Definition["In Jira"] = "I Jira";
+$Definition["In Zendesk"] = "I Zendesk";
+$Definition["Integrations"] = "Integrasjoner";
+$Definition["Remove Post"] = "Fjern innlegg";
+$Definition["Escalated by <0/>"] = "Eskalert av <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Skriv inn en tittel for denne eskaleringen";
+$Definition["Escalated by <0/>"] = "Eskalert av <0/>";
+$Definition["Post Revision"] = "Post revisjon";
+$Definition["Loader"] = "Laster";
+$Definition["a month"] = "en måned";
+$Definition["%s ago"] = "%s siden";
+$Definition["Live"] = "Bo";
+$Definition["Live Post"] = "Live Post";
+$Definition["Remove Post"] = "Fjern innlegg";
+$Definition["Internal Comments"] = "Interne kommentarer";
+$Definition["Add a comment"] = "Legg til en kommentar";
+$Definition["Live"] = "Bo";
+$Definition["There are currently no comments on this post"] =
+    "Det er for øyeblikket ingen kommentarer til dette innlegget";
+$Definition["All comments on this post will appear here"] =
+    "Alle kommentarer til dette innlegget vil vises her";
+$Definition["Reports for <0/>"] = "Rapporter for <0/>";
+$Definition["Live Post"] = "Live Post";
+$Definition["There are currently no reports for this post."] =
+    "Det er for øyeblikket ingen rapporter for dette innlegget.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "En liste over rapporter knyttet til dette innlegget vil vises her.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Konfigurer hvor rapportene sendes og administrer fellesskapets rapportårsaker.";
+$Definition["New Community Management System"] =
+    "Nytt Community Management System";
+$Definition["Enable Triage Dashboard"] = "Aktiver Triage Dashboard";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Alle brukere med personaltillatelse vil kunne se og merke diskusjoner som løst eller uløst. Disse brukerne vil også kunne få tilgang til triage-dashbordet for å moderere kategoriene deres.";
+$Definition["Resolve All Discussions"] = "Løs alle diskusjoner";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Løs alle innlegg vil løse alle eksisterende innlegg i fellesskapet. Denne massehandlingen vil ikke utløse webhooks eller analyser.";
+$Definition["Resolve All"] = "Løs alle";
+$Definition["Required field"] = "Obligatorisk felt";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Det nye fellesskapsstyringssystemet tillater tilpassede rapporteringsårsaker, eskaleringer, tildelinger og automatiseringsregler. Aktivering av dette endrer rapporteringsinntaket for å bruke det nye systemet. <0>Les mer</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Dette vil løse alle eksisterende innlegg i fellesskapet. Denne massehandlingen vil ikke utløse webhooks eller logganalyse. Fortsette?";
+$Definition["Reorder"] = "Bestill på nytt";
+$Definition["Add Reason"] = "Legg til grunn";
+$Definition["Delete?"] = "Vil du slette?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Er du sikker på at du vil slette denne grunnen?";
+$Definition["A concise name for the report reason."] =
+    "Et kortfattet navn av rapportens grunn.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "En unik etikett for rapportens grunn. Denne etiketten kan ikke endres når den er lagret.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "En forklaring av rapporteringsgrunnen til bedre reportere gjør det riktige valget når de rapporterer et innlegg.";
+$Definition["The roles which can see this report reason."] =
+    "Rollene som kan se denne rapporten grunn.";
+$Definition["Add Report Reason"] = "Legg til rapportårsak";
+$Definition["Discard Changes?"] = "Vil du forkaste endringer?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Er du sikker på at du vil avslutte uten å lagre?";
+$Definition["Reorder Report Reasons"] = "Bestill rapportårsaker på nytt";
+$Definition["Edit Report Reason"] = "Rediger rapportårsak";
+$Definition["Delete Report Reason"] = "Slett rapportårsak";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Denne innstillingen må være aktivert for å bruke egendefinerte diskusjonstråder.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Konfigurer innstillinger som brukes til å automatisk moderere fellesskapsinnhold før det i det hele tatt opprettes. Alternativer inkluderer automatisert spam-deteksjon, krever godkjenning for innlegg i visse kategorier, og krever godkjenning for innlegg med bestemte søkeord eller fraser.";
+$Definition["Spam Detection"] = "Spam Deteksjon";
+$Definition["Learn more."] = "Lær mer.";
+$Definition["documentation."] = "dokumentasjon.";
+$Definition["Verify browsers of new members"] =
+    "Bekreft nettlesere til nye medlemmer";
+$Definition["Challenge Cutoff Age"] = "Utfordringsgrensealder";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Antall dager siden registrering for å omgå Cloudflare-utfordringen";
+$Definition["Save challenge cutoff age"] = "Lagre grensealder for utfordring";
+$Definition["Premoderated Roles"] = "Forhåndsmodererte roller";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Brukere med tillatelsen \"Godkjenning. Krev\" vil kreve moderatorgodkjenning for alle innlegg.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Brukere merket som \"Verifisert\" vil omgå dette kravet. Dette er rollene med \"Godkjenning. Krev\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Ingen roller er for øyeblikket satt til å kreve forhåndsmoderering.";
+$Definition["Edit Roles"] = "Rediger roller";
+$Definition["Premoderated Categories"] = "Forhåndsmodererte kategorier";
+$Definition["No categories are currently set to require premoderation."] =
+    "Ingen kategorier er for øyeblikket satt til å kreve forhåndsmoderering.";
+$Definition["Edit Categories"] = "Rediger kategorier";
+$Definition["Premoderated Keywords"] = "Forhåndsmodererte søkeord";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Innlegg med noen av følgende søkeord eller fraser vil kreve moderatorgodkjenning.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Ingen søkeord er for øyeblikket satt til å kreve forhåndsmoderering.";
+$Definition["Edit Keywords"] = "Rediger søkeord";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Aktiver Akismet for å filtrere spam i alle innlegg etter søkerregistreringer og ubekreftede brukere. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Aktiver Stopforumspam for å sjekke fellesskapsbrukere mot en liste over rapporterte spammere, og enten rapporterer innlegget som spam eller avviser dem direkte. Rapporterings- og avvisningsgrensene administreres i <0>tilleggets innstillinger</0> . Finn ut mer i <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Ubekreftede medlemmer som har vært i fellesskapet i mindre enn det angitte antall dager vil bli bedt om å fullføre en Cloudflare (Captcha eller Checkbox)-utfordring for å forhindre spam. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s i følgende kategorier krever moderatorgodkjenning.";
+$Definition["Default Sort Order"] = "Standard sorteringsrekkefølge";
+$Definition["Choose the order records are sorted by default."] =
+    "Velg ordrepostene er sortert som standard.";
+$Definition["Show OP Indicator"] = "Vis OP-indikator";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Hvis dette alternativet er aktivert, vil svar fra originalplakaten ha en OP-indikator.";
+$Definition["Show Badges"] = "Vis merker";
+$Definition["Badges Limit"] = "Merkegrense";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Vis brukernes merker på hvert innlegg. Opptil maksimalt 5 merker kan vises i rekkefølge med høyest rangering.";
+$Definition["event"] = "hendelse";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> flere kommentarer";
+$Definition["Export"] = "Eksport";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Hjemmesidetitler kan bare være mellom 1 og 500 tegn";
+$Definition["Address Bar Color"] = "Farge på adresselinjen";
+$Definition["Meta Tags"] = "Meta-tagger";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Metakoder brukes til domeneverifisering for Google Search Console og andre tjenester. Kopier de nødvendige metakodene fra kilden og lim inn på en ny linje.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Bruk litt tid på å tenke på hvordan du vil beskrive nettstedet ditt. Å gi nettstedet ditt en meningsfull tittel og konsis beskrivelse, kan hjelpe plasseringen det gis hos søkemotorer.";
+$Definition["Style Guides"] = "Stilguider";
+$Definition["Branding & Assets"] = "Merkevarebygging og eiendeler";
+$Definition["Home Pages"] = "Hjemmesider";
+$Definition["Home Layout Settings"] = "Innstillinger for hjemmeoppsett";
+$Definition["Category Pages"] = "Kategorisider";
+$Definition["Category Layout Settings"] = "Innstillinger for kategorioppsett";
+$Definition["Category List Pages"] = "Kategorilistesider";
+$Definition["Posting Category Pages"] = "Legge ut kategorisider";
+$Definition["Nested Category Pages"] = "Nestede kategorisider";
+$Definition["Discussion Pages"] = "Diskusjonssider";
+$Definition["Idea Pages"] = "Idésider";
+$Definition["Question Pages"] = "Spørsmålssider";
+$Definition["Post Pages"] = "Innleggssider";
+$Definition["Post Layout Settings"] = "Innstillinger for innleggsoppsett";
+$Definition["Create Post Pages"] = "Opprett innleggssider";
+$Definition["Create Post Layout Settings"] = "Opprett innstillinger for innleggslayout";
+$Definition["Event Pages"] = "Begivenhetssider";
+$Definition["Event Layout Settings"] = "Innstillinger for arrangementsoppsett";
+$Definition["Knowledge Base Pages"] = "Kunnskapsbasesider";
+$Definition["Knowledge Base Layout Settings"] =
+    "Innstillinger for kunnskapsbaseoppsett";
+$Definition["Knowledge Base Home Pages"] = "Kunnskapsbasens hjemmesider";
+$Definition["Help Center Home Pages"] = "Hjemmesider for hjelpesenteret";
+$Definition["Help Center Category Pages"] = "Hjelpesenter-kategorisider";
+$Definition["Help Center Article Pages"] = "Artikkelsider i hjelpesenteret";
+$Definition["Guide Article Pages"] = "Guideartikkelsider";
+$Definition["Layouts"] = "Oppsett";
+$Definition["Add Custom Layout"] = "Legg til egendefinert layout";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Velg ønsket layout for eldre nylige innlegg.";
+$Definition["Legacy Recent Posts Layouts"] = "Eldre layouter for siste innlegg";
+$Definition["Change layout versions for the <0/>."] =
+    "Endre layoutversjoner for <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "For å lære mer, <0>se dokumentasjonen</0> .";
+$Definition["Change %s"] = "Endre %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Er du sikker på at du vil bruke %s?";
+$Definition["Legacy Home Layouts"] = "Eldre hjemmeoppsett";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Velg foretrukket eldre hjemmeoppsett.";
+$Definition["Home Layout Version"] = "Hjemmelayoutversjon";
+$Definition["Custom Home Layouts"] = "Egendefinerte hjemmeoppsett";
+$Definition["Legacy Category Layout"] = "Eldre kategorioppsett";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Velg ønsket layout for eldre kategori.";
+$Definition["Category Layout Version"] = "Kategorioppsettversjon";
+$Definition["Legacy Category Layouts"] = "Eldre kategorioppsett";
+$Definition["Custom Category Layouts"] = "Egendefinerte kategorioppsett";
+$Definition["Legacy Post Layout"] = "Eldre innleggsoppsett";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Velg foretrukket oppsett for eldre innlegg.";
+$Definition["Post Layout Version"] = "Postlayoutversjon";
+$Definition["Legacy Post Layouts"] = "Eldre innleggsoppsett";
+$Definition["Custom Post Layouts"] = "Egendefinerte innleggsoppsett";
+$Definition["Legacy Create Post Layout"] = "Legacy Lag innleggsoppsett";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Velg foretrukket Laget Post-oppsett.";
+$Definition["Create Post Layout Version"] = "Opprett postlayoutversjon";
+$Definition["Legacy Create Post Layouts"] = "Legacy Lag innleggsoppsett";
+$Definition["Custom Create Post Layouts"] = "Egendefinerte opprette innleggsoppsett";
+$Definition["Legacy Event Layout"] = "Eldre arrangementsoppsett";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Velg ønsket layout for eldre hendelser.";
+$Definition["Event Layout Version"] = "Event Layout Versjon";
+$Definition["Legacy Event Layouts"] = "Eldre arrangementsoppsett";
+$Definition["Custom Event Layouts"] = "Egendefinerte arrangementsoppsett";
+$Definition["Created <0/> by <1/>."] = "Opprettet <0/> av <1/>.";
+$Definition["Layout Options"] = "Oppsettalternativer";
+$Definition["Contextual Description"] = "Kontekstuell beskrivelse";
+$Definition["Skip to end of Carousel"] = "Hopp til slutten av karusellen";
+$Definition["Previous Slides"] = "Tidligere lysbilder";
+$Definition["Next Slides"] = "Neste lysbilder";
+$Definition["indicator navigation"] = "indikatornavigasjon";
+$Definition["<0/> new"] = "<0/> ny";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d lysbilder på skjermen første lysbilde %d av %d";
+$Definition["Unassigned"] = "Ikke tilordnet";
+$Definition["Apply Layout to Site Home Page"] =
+    "Bruk layout på nettstedets hjemmeside";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Angi som standardoppsett for spesifikke underfellesskap.";
+$Definition["Apply to specific categories."] = "Bruk på spesifikke kategorier.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Denne layouten kan ikke slettes fordi den er en layoutmal.";
+$Definition["Delete Layout"] = "Slett layout";
+$Definition["Are you sure you want to delete?"] =
+    "Er du sikker på at du vil slette?";
+$Definition["Applied"] = "Påført";
+$Definition["Applied as default"] = "Brukes som standard";
+$Definition["View Category"] = "Vis kategori";
+$Definition["Apply to specific subcommunities."] =
+    "Bruk på spesifikke underfellesskap.";
+$Definition["Unable to re-assign default template"] =
+    "Kan ikke tilordne standardmalen på nytt";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Denne layouten er en mal og er tilordnet som standard for alle sider av denne typen. For å fjerne den som standard eller tilordne den til bestemte sider, må du tilordne en annen layout som standard.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Dette oppsettet kan ikke slettes fordi det brukes for øyeblikket.";
+$Definition["Set as default layout for all <0 />."] =
+    "Angi som standardoppsett for alle <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Legacy Knowledge Base Layout";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Velg foretrukket oppsett for Legacy Knowledge Base.";
+$Definition["Knowledge Base Layout Version"] = "Knowledge Base Layout Versjon";
+$Definition["Legacy Knowledge Base Layouts"] = "Eldre kunnskapsbaseoppsett";
+$Definition["Custom Knowledge Base Layouts"] = "Egendefinerte oppsett for kunnskapsbase";
+$Definition["Article Count"] = "Antall artikler";
+$Definition["Legacy Layouts enabled"] = "Eldre layouter aktivert";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Merk at denne layoutendringen ikke vil være synlig før du bytter til egendefinerte oppsett.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Denne layoutendringen vil ikke være synlig før du bytter fellesskapet til egendefinert <0/> på <1/>-siden.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Angi som standardoppsett for spesifikke kunnskapsbaser.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Nettstedet tillater ikke at du kobler deg til en eksisterende bruker.";
+$Definition["The username you entered has already been taken."] =
+    "Brukernavnet du skrev inn er allerede tatt.";
+$Definition["There was an error fetching the connection data."] =
+    "Det oppsto en feil under henting av tilkoblingsdataene.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Kunne ikke autentisere forespørselen din om tilbakestilling av passord. Prøv å bruke skjemaet for tilbakestillingsforespørsel på nytt.";
+$Definition["Invitation not found."] = "Invitasjonen ble ikke funnet.";
+
+$Definition['# of automation rules'] = 'Antall automatiseringsregler';
+$Definition['Add Template'] = 'Legg til mal';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Velg hvem som skal motta denne e-posten når denne automatiseringsregelen kjøres';
+$Definition['Delete an email template.'] = 'Slett en e-postmal.';
+$Definition['Email Audience'] = 'E-postmålgruppe';
+$Definition['Email Template'] = 'E-postmal';
+$Definition['Email Templates'] = 'E-postmaler';
+$Definition['Email Template successfully deleted.'] = 'E-postmalen er slettet.';
+$Definition['Email Template not enabled.'] = 'E-postmalen er ikke aktivert.';
+$Definition['Email template not found.'] = 'E-postmalen ble ikke funnet.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Navnet på e-postmalen finnes allerede. Skriv inn et unikt navn for å fortsette.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'E-postmaler kan brukes sammen med <0/> for å kommunisere med brukere basert på medlemsaktivitet eller andre fellesskapsutløsere.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Aktiver dette alternativet for å sende en oppfølgings-e-post når regelen utløses.';
+$Definition['Impacted User'] = 'Berørt bruker';
+$Definition['Search and select one or more roles to receive this email'] = 'Søk etter og velg én eller flere roller for å motta denne e-posten';
+$Definition['Search and select one or more users to receive this email.'] = 'Søk etter og velg én eller flere brukere som skal motta denne e-posten.';
+$Definition['Select Roles'] = 'Velg roller';
+$Definition['Select User'] = 'Velg bruker';
+$Definition['Select the email template to send.'] = 'Velg e-postmalen som skal sendes.';
+$Definition['Send an Email After This Rule Runs'] = 'Send en e-post etter at denne regelen kjører';
+$Definition['Send email'] = 'Send e-post';
+$Definition['Send the email'] = 'Send e-posten';
+$Definition['Send email to user'] = 'Send e-post til bruker';
+$Definition['Specific Roles'] = 'Spesifikke roller';
+$Definition['Specific Users'] = 'Spesifikke brukere';
+$Definition['System email templates cannot be deleted.'] = 'System-e-postmaler kan ikke slettes.';
+$Definition['template name'] = 'malnavn';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Bruk denne siden til å opprette og administrere malene dine, og konfigurer deretter <0/> til å kontrollere når hver e-post sendes og til hvem.';
+$Definition['View the full list of available placeholders.'] = 'Se hele listen over tilgjengelige plassholdere.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Du kan også inkludere plassholdere i e-postinnholdet ditt – disse vil automatisk bli erstattet med relevant bruker- eller innleggsinformasjon når e-posten sendes. For eksempel Hallo {user.name}! eller Sjekk ut {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Du kan ikke slette system-e-poster';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Du kan ikke slette en mal som brukes i automatiseringsregler.';
+$Definition['You will no longer receive community engagement emails.'] = 'Du vil ikke lenger motta e-poster om engasjement i lokalsamfunnet.';
+$Definition['Delete Email Template'] = 'Slett e-postmal';
+$Definition["Template Styles"] = "Malstiler";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "La et hvilket som helst felt stå tomt for å bruke standard e-poststiler som konfigurert i <0>E-postinnstillinger</0> side.";

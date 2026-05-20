@@ -1707,3 +1707,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Metheo ya Tsebo ya Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom ID ya Kopano goba URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Wena} o amogetše {NotifyUserID,ya gago} karabo ya potšišo: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Logo ya Sellathekeng";
+$Definition["Banner Image"] = "Setšoantšo sa Banner";
+$Definition["Disable Forum Pages"] = "Thibela Matlakala a Foramo";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Kgetha sebopego sa go se fetoge sa morulaganyi bakeng sa dipolelo setšhabeng.";
+$Definition["InputFormatter.Notes2"] =
+    "Morulaganyi o tla lemoga ka go itiragalela sebopego sa dipolelo tša kgale ge a di rulaganya gomme a laetša melawana ya tšona ya mathomo ya go fometa. Ka thoko ga mokgekolo wo, sebopego sa poso seo se kgethilwego ka mo tlase se tla tla pele.";
+$Definition["Formatting Posts"] = "Go fometa Diposo";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Laetša sebopego sa go rulaganya sa didirišwa tša sellathekeng.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Ge e ba didirišwa tša sellathekeng di swanetše go ba le phihlelo e swanago, bolela e swanago le yeo e lego ka mo godimo. Ge e ba badiriši ba bega ditaba ka go rulaganya sellathekeng, ye ke kgetho e botse ya go fetoša.";
+$Definition["Note:"] = "Temošo:";
+$Definition["Post Format"] = "Sebopego sa Poso";
+$Definition["Posting"] = "Go phatlalatša";
+$Definition["Reinterpret All Posts As %s"] = "Hlatholla gape Dipolelo ka Moka Bjalo ka %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Botša morulaganyi gore a hlatholle gape dipolelo ka moka tša kgale bjalo ka %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Peakanyo ye e tla thoma go šoma fela ge %s e kgethilwe bjalo ka Fomete ya Poso ka godimo.";
+$Definition["This option is to normalize the editor format"] =
+    "Kgetho ye ke go tlwaetša sebopego sa morulaganyi, ge e le gore dipolelo tša kgale tšeo di rulagantšwego ka sebopego se sengwe, go swana le markdown goba BBCode, di laeditšwe, kgetho ye e tla gapeletša %s.";
+
+$Definition["Mobile Format"] = "Sebopego sa Sellathekeng";
+$Definition["Enable Rich Quotes"] = "Kgontšha Ditsopolwa tše di Humilego";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Šomiša kgetho ye e latelago go kgontšha ditsopolwa tša Morulaganyi wa Mohumi. Se se tla šoma fela ge e le gore sebopego sa go se fetoge ke "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Seswari sa lefelo sa tlwaelo";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Laetša seswantšho sa seswaro sa lefelo seo se tlago bontšha ge badiriši ba se na seswantšho posong ya bona.";
+$Definition["Additional classes"] = "Diklase tša tlaleletšo";
+$Definition["Apply additional classes on catalogue image."] =
+    "Diriša diklase tša tlaleletšo go seswantšho sa lelokelelo. Diriša sekgoba go aroganya sehlopha se sengwe le se sengwe.";
+$Definition["Category only"] = "Legoro fela";
+$Definition["Display on category page only."] =
+    "Pontšo letlakaleng la legoro fela. Lenaneo la dipoledišano tša morago bjale le ka se amege.";
+$Definition["Use Masonry display"] = "Diriša pontšho ya Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Poledišano ye nngwe le ye nngwe e tla bontšha seswantšho seo se tsentšwego letlakaleng la Legoro. Se se šoma fela go magoro ao a nago le "Dipoledišano" bjalo ka "Pontšho Bjalo ka."';
+$Definition["Upload Placeholder Image"] = "Laetša Seswantšho sa Seswari sa Lefelo";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Go bile le phošo ya go boloka diphetogo tša gago. Hle leka gape.";
+$Definition["<0/> has been <1/>"] = "<0/> e bile <1/>";
+$Definition["enabled"] = "e kgontšhitšwe";
+$Definition["disabled"] = "šitišitšwe";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Tshedimošo ye e tla bontšhwa fela go badiriši bao ba nago le tumelelo ya go lebelela info ya ka gare";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Ye ke tshedimošo ya poraebete gomme e ka se abelanwa le maloko a mangwe.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Se se tla hlola kopano ya Zoom legatong la mong wa kopanyo ya Zoom gomme ge e le gore o modiriši yo a ngwadišitšwego, o tla go oketša bjalo ka moamogedi mmogo. Ge e le gore ga o modiriši wa Zoom yo a ngwadišitšwego goba ga o karolo ya mokgatlo wo o hlomilego kopanyo, tiragalo ye e ka ba le mošomo wa Zoom wo o lekanyeditšwego ntle le moamogedi.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'O ka se mpshafatše URL goba ID ya Zoom ya tiragalo ye.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom ID ya Kopano goba URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Add tag";
+$Definition["A post"] = "A poso";
+$Definition["A post has been added to a collection"] =
+    "Poso e okeditšwe go kgoboketšo";
+$Definition["A post has not had any activity"] =
+    "Poso ga se ya ba le mošomo ofe goba ofe";
+$Definition["A question"] = "Potšišo";
+$Definition["A user has been registered"] = "Modiriši o ngwadišitšwe";
+$Definition["A post has received"] = "Poso e amogetšwe";
+$Definition["Date field reached"] = "Letšatšikgwedi tšhemo fihlellwa";
+$Definition["A user registers or logs in with email domain:"] =
+    "Modiriši o ingwadiša goba o tsena ka domain ya imeile:";
+$Definition["A user registers or updates a profile field:"] =
+    "Modiriši o ngwadiša goba o mpshafatša tšhemo ya profaele:";
+$Definition["Add tags:"] = "Oketša dithegi:";
+$Definition["Add to collection:"] = "Oketša go kgoboketšo:";
+$Definition["An idea has received"] = "Kgopolo e amogetše";
+$Definition["and"] = "le";
+$Definition["and assign to"] = "gomme o abela go";
+$Definition["and remove role"] = "le go tloša tema";
+$Definition["and remove from community"] = "le go tloša setšhabeng";
+$Definition["Assign role:"] = "Abela tema: .";
+$Definition["Assign/Remove role"] = "Abela/Tloša tema";
+$Definition["Auto-run disabled."] = "Auto-matha golofaditšwe.";
+$Definition["Auto-run enabled."] = "Auto-matha kgontšhitšwe.";
+$Definition["Automation rule successfully created."] =
+    "Molao wa go itiriša o hlotšwe ka katlego.";
+$Definition["Automation rule successfully updated."] =
+    "Molao wa go itiriša o ile wa mpshafatšwa ka katlego.";
+$Definition["Bump post"] = "Bump poso";
+$Definition["Change the status of the idea to"] =
+    "Fetola maemo a kgopolo go";
+$Definition["Change status"] = "Fetola maemo";
+$Definition["Close post"] = "Tswala poso";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Ditshwayotshwayo Ditekanyetšo tša go Nyalelanya Bjale: <0 />";
+$Definition["created by"] = "e hlotšwe ke";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Hlama le go laola di-automation go laola diposo le badiriši gabonolo.";
+$Definition["Create/Edit Automation Rule"] = "Hlama/Edita Molao wa Boithomelo";
+$Definition["Delete Rule"] = "Phimola Molao";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Dipoledišano Ditekanyetšo tša go Nyalantšha Bjale: <0 />";
+$Definition["Edit Rule"] = "Molao wa Edita";
+$Definition["Edit Variables"] = "Edita Diphetogophetogo";
+$Definition["Escalate it"] = "E godišetše";
+$Definition["Escalate to GitHub"] = "Escalate go ya go GitHub";
+$Definition["Escalate to Zendesk"] = "Escalate go ya go Zendesk";
+$Definition["Expand"] = "Katološa";
+$Definition["Failed to disable the rule"] = "E paletšwe ke go šitiša molao";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "E paletšwe ke go laetša datha ya ponelopele. Hle hlahloba dikelo tša gago tša go hlohleletša le tša tiro.";
+$Definition["Follow categories:"] = "Latela magoro:";
+$Definition["Follow category"] = "Latela legoro";
+$Definition["for"] = "ya";
+$Definition["has been unanswered"] = "e bile yeo e sa arabjago";
+$Definition["has not received any comments"] = "ga se a hwetša ditshwayotshwayo le ge e le dife";
+$Definition["Last reported"] = "Last e begilwe";
+$Definition["Maximum Limit Reached"] = "Palo e kahodimodimo Moedi o Fihlellwa";
+$Definition["Move post"] = "Suthiša poso";
+$Definition["Move to category:"] = "Hudugela go legoro: .";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Mabala a go kgetha gantši a tla hlohleletša ge e le gore modiriši a fihlelela LE GE E LE EFE ya ditekanyetšo.";
+$Definition["New/Updated Email domain"] = "Domain ya Imeile ye Mpsha/E Mpshafaditšwego";
+$Definition["New/Updated Profile field"] = "Tšhemo ya Profaele ye Mpsha/E Mpshafaditšwego";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Ela hloko: Ditiro di ka se ame <0 /> tšeo di šetšego di na le tiro ye e amanago ye e dirišitšwego.";
+$Definition["Post Management"] = "Taolo ya Poso";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Ditekanyetšo tša go Nyalantšha Diposo Bjale: <0 />";
+$Definition["Remove from collection"] = "Tloša go tšwa kgoboketšong";
+$Definition["Remove from collection:"] = "Tloša go tšwa kgoboketšong:";
+$Definition["Remove from default follow list"] =
+    "Tloša go tšwa lenaneong la go latela la go se fetoge";
+$Definition["Remove from trigger collection"] =
+    "Tlosa go tšwa go kgoboketšo ya dihlohleletši";
+$Definition["report"] = "pego";
+$Definition["reports"] = "dipego di bega";
+$Definition["Rule Action"] = "Molao Kgato";
+$Definition["Rule may not be deleted while it is running"] =
+    "Molao o ka no se phumolwe ge o dutše o šoma";
+$Definition["Rule may not be edited while it is running"] =
+    "Molao o ka no se rulaganywe ge o dutše o šoma";
+$Definition["Rule Name"] = "Leina la Molao";
+$Definition["Rule status will apply once current run completes"] =
+    "Boemo bja molao bo tla šoma ge go kitima ga bjale go phethilwe";
+$Definition["Rule Trigger"] = "Molao wa Sehlohleletši";
+$Definition["Running"] = "Go kitima";
+$Definition["See documentation for more information."] =
+    "Bona ditokomane bakeng sa tshedimošo e oketšegilego.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Kgetha tiro yeo e tlago direga ge molao wo o hlohleletšwa.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Kgetha sešušumeletši seo se tlago dira gore molao wo o šome.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Beakanya phetogo ya go hlohleletša le phetogo ya tiro go tšweletša kakaretšo ya molao.";
+$Definition["sentiment"] = "maikutlo";
+$Definition["since"] = "go tloga";
+$Definition["Summary"] = "Kakaretšo";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Tiro e tla dirišwa go bona fela ge o ka tšwela pele.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Tiro e tla šoma go bona ge molao o kgontšhitšwe. Nakong e tlago, ba bangwe <0 /> bao ba fihlelelago ditekanyetšo tša go hlohleletša ba tla ba le tiro yeo e dirišitšwego go bona le bona.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Se se ka se ame <0 /> efe goba efe gona bjale. E tla ama tšeo di fihlelelago ditekanyetšo nakong ye e tlago.";
+$Definition["Time since added to collection"] =
+    "Nako ga e sa le go tloga ka nako yeo e okeditšwe go kgoboketšo";
+$Definition["Time since post has had no comments"] =
+    "Nako ga e sa le post ga se ya ba le ditshwayotshwayo";
+$Definition["Time since Registration"] = "Nako ga e sa le go tloga ka Boingwadišo";
+$Definition["Time since post has had no activity"] =
+    "Nako ga e sa le poso ga se ya ba le mošomo";
+$Definition["Time since question has been unanswered"] =
+    "Nako ga e sa le go tloga potšišong ga se ya arabja";
+$Definition["Trigger"] = "Šušumetša";
+$Definition["Unsaved Changes"] = "Diphetogo tše di sa bolokwago";
+$Definition["Up to <0 /> ago."] = "Go fihla go <0 /> e fetilego.";
+$Definition["upvote"] = "upvote ya godimo";
+$Definition["upvotes"] = "dibouto tša godimo";
+$Definition["User Management"] = "Taolo ya Modiriši";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Badiriši ba go Nyalelanya Ditekanyetšo Bjale: <0 />";
+$Definition["Value is not a valid integer."] = "Boleng ga se palomoka ye e šomago.";
+$Definition["View History"] = "Lebelela Histori";
+$Definition["Votes on an idea"] = "Dikgetho ka kgopolo";
+$Definition["with"] = "ka";
+$Definition["with reason"] = "ka lebaka";
+$Definition["with tag"] = "ka tag";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "O ka se oketše melao ya go feta 150 ya go itirela. Phimola melao e mengwe gomme o leke gape.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Ga go na diaekhone tšeo di swanago le difiltara tšeo.";
+$Definition["Manage Icon"] = "Laola Letshwao";
+$Definition["Manage Icons"] = "Laola Diaekhone";
+$Definition["Manage Icon helptext"] =
+    "O ka laola tsamaiso le diaekhone histori mona. Ge o tsenya, netefatša gore leswao le ka sebopego sa SVG, le akaretša seka sa viewBox, gomme le šomiša mmala #000000 go netefatša gore le ka ba le mebala ya go fetoga go ya ka dipeakanyo tša sehlogo le ditirišano tša modiriši. Ke leswao le tee feela la mohuta o mongwe le o mongwe leo le ka šomago ka nako e tee.";
+$Definition["Upload New Icon"] = "Tsenya Leswao le Lefsa";
+$Definition["Active Icon"] = "Letshwao le le Šomago";
+$Definition["New Icon"] = "Leswao le Lefsa";
+$Definition["Icon Type"] = "Mohuta wa Letshwao";
+$Definition["Previous Icons"] = "Diaekhone tša Peleng";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Diphetolelo tša peleng tša diaekhone tša gago di ka hwetšwa mo gomme tša tsošološwa nako efe goba efe.";
+$Definition["Set as Active"] = "Beakanya bjalo ka Mafolofolo";
+$Definition["Uploaded <0/> by <1/>"] = "E tsentšwe <0/> ke <1/>";
+$Definition["Icon Packs"] = "Diphuthelwana tša Letshwao";
+$Definition["Download Active Icon Pack"] = "Download Sephuthelwana sa Letshwao le Sebetsang";
+$Definition["Download System Icon Pack"] = "Download Sephuthelwana sa Letshwao la Tshepedišo";
+$Definition["Upload Icon Pack"] = "Laetša Sephuthelwana sa Letshwao";
+$Definition["Preview Icon Pack"] = "Sephuthelwana sa Letshwao la Tebelelopele";
+$Definition["Changed Icons"] = "Diaekhone tše di Fetotšwego";
+$Definition["Icon Name"] = "Leina la Letshwao";
+$Definition["All icons in this icon pack are currently active."] =
+    "Diaekhone ka moka ka gare ga sephuthelwana se sa maswao ga bjale di a šoma.";
+$Definition["Activate Icon Pack"] = "Dira gore Sephuthelwana sa Letshwao e šome";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Bontšha fela diaekhone tšeo di tlošitšwego ka diaekhone tša tlwaelo.";
+$Definition["System Icon"] = "Letshwao la Tshepedišo";
+$Definition["Custom Icon"] = "Letshwao la Tlwaelo";
+$Definition["Only show icons that are default system icons."] =
+    "Bontšha fela diaekhone tšeo e lego diaekhone tša tshepedišo ya go se fetoge.";
+$Definition["Previews"] = "Dipono tša pele";
+$Definition["Icon Size"] = "Bogolo bja Letshwao";
+$Definition["This is the actual size most icons render at."] =
+    "Ye ke bogolo bja kgonthe bjo bontši bja diaekhone di bo tšweletšago ka bjona.";
+$Definition["Preview Color"] = "Tebelelopele Mmala";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Mmala wo o tla šomišwa go lebelela pele mmala wa leswao. E tla tšea sebaka sa tšhomišo efe goba efe ya #000000 ka go diaekhone tša gago tše di tsentšwego. Ka kopo ya sebele, mebala e tla ba mafolofolo.";
+$Definition["Escalation Name"] = "Leina la Escalation";
+$Definition["Status on Creation"] = "Boemo bja Tlholo";
+$Definition["Assignee"] = "Moabi";
+$Definition["Internal Comment"] = "Tlhaloso ya ka Gare";
+$Definition["Set Post Visibility to Hidden"] = "Beakanya Ponagalo ya Poso go E Patetšwego";
+$Definition["Remove Method"] = "Tlosa Mokgwa wa";
+$Definition["Wipe"] = "Phumola";
+$Definition["Newest Post"] = "Poso e Mpsha kudu";
+$Definition["Oldest Post"] = "Poso ya Kgale kudu";
+$Definition["Triage"] = "Triage ya go hlaola";
+$Definition["Triage Dashboard"] = "Dashboard ya go Hlaola";
+$Definition["Message Post Author"] = "Mongwadi wa Poso ya Molaetša";
+$Definition["Add Filter"] = "Oketša Sefa";
+$Definition["Customer Support"] = "Thekgo ya Badiriši";
+$Definition["My Profile"] = "Profaele ya ka";
+$Definition["Resolve post"] = "Rarolla poso";
+$Definition["View post in community"] = "Lebelela poso setšhabeng";
+$Definition["View Details"] = "Lebelela Dintlha";
+$Definition["Escalate"] = "Escalate";
+$Definition["Posted by <0/> in <1/>"] = "E rometšwe ke <0/> ka go <1/>";
+$Definition["Show"] = "Bontšha";
+$Definition["View Escalation"] = "Tebelelego ya go oketšega";
+$Definition["# Reports"] = "# Dipego";
+$Definition["Last Reported"] = "E Begilwe La mafelelo";
+$Definition["Report Reasons"] = "Mabaka a Bega";
+$Definition["Last Modified"] = "Last Fetotšwe";
+$Definition["Last refreshed <0/> by <1/>."] = "Last hlabolla <0/> ke <1/>.";
+
+$Definition["Moderation Content"] = "Diteng tša Tekanyetšo";
+$Definition["AI Settings"] = "Dipeakanyo tša AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP Deploy";
+$Definition["Activity & Registration"] = "Mošomo & Boingwadišo";
+$Definition["Content Settings"] = "Dipeakanyo tša Diteng";
+$Definition["Premoderation Settings"] = "Dipeakanyo tša Pele ga Tekanyetšo";
+$Definition["Escalation Rules"] = "Melawana ya Escalation";
+$Definition["Automation"] = "Go itiriša";
+$Definition["Audit Log"] = "Log ya Bohlahlobi";
+$Definition["Community Management"] = "Taolo ya Setšhaba";
+$Definition["Visualize Your Community"] = "Bona ka leihlo la kgopolo Setšhaba sa Gago";
+$Definition["Customize your community"] = "Dira setšhaba sa gago ka mokgwa wa gago";
+$Definition["Configuration & Addons"] = "Peakanyo & Di-Addon";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Na o na le bonnete bja gore o nyaka go phumola %s ya gago?";
+$Definition["Newest Report"] = "Pego e Mpsha kudu";
+$Definition["Oldest Report"] = "Pego ya Kgale kudu";
+$Definition["Report Dismissed"] = "Pego e Rakwa";
+$Definition["Post Rejected"] = "Poso e Gannwe";
+$Definition["Escalated"] = "E ile ya oketšega";
+$Definition["Reported by <0/>"] = "E begilwe ke <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Ga go na dintlha tša pego tšeo di filwego ke <0/>";
+$Definition["Create"] = "Hlama";
+$Definition["Edited"] = "E rulagantšwe";
+$Definition["Newest Escalation"] = "Go oketšega mo go Mpsha kudu";
+$Definition["Oldest Escalation"] = "Escalation ya Kgale kudu";
+$Definition["Escalations Dashboard"] = "Dashboard ya Diescalations";
+$Definition["On Hold"] = "Ka go Swara";
+$Definition["Done"] = "Phethilwe";
+$Definition["In Jira"] = "Ka Jira";
+$Definition["In Zendesk"] = "Ka Zendesk";
+$Definition["Integrations"] = "Dikopanyo tša go kopanywa";
+$Definition["Remove Post"] = "Tloša Poso";
+$Definition["Escalated by <0/>"] = "E oketšegile ka <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Tsenya thaetlele ya go oketšega mo";
+$Definition["Escalated by <0/>"] = "E oketšegile ka <0/>";
+$Definition["Post Revision"] = "Poso ya Poso";
+$Definition["Loader"] = "Loader ya go rwala";
+$Definition["a month"] = "ka kgwedi";
+$Definition["%s ago"] = "%s e fetilego";
+$Definition["Live"] = "Phela";
+$Definition["Live Post"] = "Live Post";
+$Definition["Remove Post"] = "Tloša Poso";
+$Definition["Internal Comments"] = "Ditshwayotshwayo tša ka Gare";
+$Definition["Add a comment"] = "Oketša tshwaelo";
+$Definition["Live"] = "Phela";
+$Definition["There are currently no comments on this post"] =
+    "Ga bjale ga go na ditshwayotshwayo ka poso ye";
+$Definition["All comments on this post will appear here"] =
+    "Ditshwayotshwayo ka moka tša poso ye di tla tšwelela mo";
+$Definition["Reports for <0/>"] = "Dipego tša <0/>";
+$Definition["Live Post"] = "Live Post";
+$Definition["There are currently no reports for this post."] =
+    "Ga bjale ga go na dipego tša poso ye.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Lenaneo la dipego tšeo di amanago le poso ye le tla tšwelela mo.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Beakanya moo dipego di romelwago gona gomme o laole mabaka a pego ya setšhaba sa gago.";
+$Definition["New Community Management System"] =
+    "Tshepedišo ye Mpsha ya Taolo ya Setšhaba";
+$Definition["Enable Triage Dashboard"] = "Kgontšha Dashboard ya Triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Badiriši ka moka bao ba nago le tumelelo ya bašomi ba tla kgona go bona le go swaya dipoledišano bjalo ka tšeo di rarolotšwego goba tšeo di sa rarollwago. Badiriši ba ba tla kgona gape go fihlelela dashboard ya triage go lekanetša magoro a bona.";
+$Definition["Resolve All Discussions"] = "Rarolla Dipoledišano ka Moka";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Rarolla Diposo ka Moka e tla rarolla diposo ka moka tše di lego gona setšhabeng. Kgato ye ya bontši e ka se hlohleletše di-webhook goba ditshekatsheko.";
+$Definition["Resolve All"] = "Rarolla Tsohle";
+$Definition["Required field"] = "Tšhemo ye e nyakegago";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Tshepedišo ye mpsha ya taolo ya setšhaba e dumelela mabaka a go bega ka mokgwa wa tlwaelo, go oketšega, dikabelo, le melao ya go itirela. Go kgontšha se go fetoša go bega go amogelwa go šomiša tshepedišo ye mpsha. <0>Bala ka botlalo</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Se se tla rarolla diposo ka moka tše di lego gona setšhabeng. Kgato ye ya bontši e ka se hlohleletše di-webhook goba ditshekatsheko tša dilog. Tšwela pele?";
+$Definition["Reorder"] = "Laela gape";
+$Definition["Add Reason"] = "Oketša Lebaka";
+$Definition["Delete?"] = "Phumola?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Na o na le bonnete bja gore o nyaka go phumola lebaka le?";
+$Definition["A concise name for the report reason."] =
+    "Leina le le kopana ka lebaka la pego.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Leina la moswananoši ka lebaka la pego. Leibole ye e ka se fetošwe ge e šetše e bolokilwe.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Tlhaloso ya lebaka la pego go babegi ba ditaba ba kaone ba dira kgetho ye e nepagetšego ge ba bega poso.";
+$Definition["The roles which can see this report reason."] =
+    "Dikarolo tšeo di ka bonago pego ye lebaka.";
+$Definition["Add Report Reason"] = "Oketša Lebaka la Pego";
+$Definition["Discard Changes?"] = "Lahla Diphetogo?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Na o na le bonnete bja gore o nyaka go tšwa ntle le go boloka?";
+$Definition["Reorder Report Reasons"] = "Laela gape Mabaka a Pego";
+$Definition["Edit Report Reason"] = "Edita Pego Lebaka";
+$Definition["Delete Report Reason"] = "Phimola Lebaka la Pego";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Peakanyo ye e swanetše go kgontšhwa go šomiša Ditlhale tša Poledišano ya Tlwaelo.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Beakanya dipeakanyo tšeo di šomišwago go lekanetša diteng tša setšhaba ka go iketla pele ga ge di ka hlolwa le gatee. Dikgetho di akaretša go utolla spam ka go itiriša, go nyaka tumelelo ya go phatlalatša ka magoro a itšego, le go nyaka tumelelo ya go phatlalatša ka go šomiša mantšu a bohlokwa goba dipolelwana tše itšego.";
+$Definition["Spam Detection"] = "Go Lemogwa ga Spam";
+$Definition["Learn more."] = "Ithute ka botlalo.";
+$Definition["documentation."] = "ditokomane.";
+$Definition["Verify browsers of new members"] =
+    "Netefatša diphensele tša maloko a mafsa";
+$Definition["Challenge Cutoff Age"] = "Mengwaga ya go Kgaola ya Tlhohlo";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Palo ya matšatši go tloga ge o ingwadiša go tlola tlhohlo ya Cloudflare";
+$Definition["Save challenge cutoff age"] = "Boloka tlhohlo cutoff lilemo";
+$Definition["Premoderated Roles"] = "Dikarolo tše di Rulagantšwego Pele";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Badiriši bao ba nago le tumelelo ya \"Approval.Require\" ba tla nyaka tumelelo ya mohlahli bakeng sa diposo ka moka.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Badiriši bao ba swailwego bjalo ka \"E netefaditšwego\" ba tla tlola tlhokego ye. Tsena ke dikarolo tse nang le \"Approval.Require\".";
+$Definition["No roles are currently set to require premoderation."] =
+    "Ga go dikarolo tšeo ga bjale di beakantšwego go nyaka go lekanyetša pele.";
+$Definition["Edit Roles"] = "Edita Dikarolo";
+$Definition["Premoderated Categories"] = "Dihlopha tše di rulagantšwego pele";
+$Definition["No categories are currently set to require premoderation."] =
+    "Ga go magoro ao ga bjale a beakantšwego go nyaka go lekanyetša pele.";
+$Definition["Edit Categories"] = "Edita Dihlopha";
+$Definition["Premoderated Keywords"] = "Mantšu a Bohlokwa ao a Rulagantšwego Pele";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Diposo tšeo di nago le mantšu afe goba afe a bohlokwa goba dipolelwana tše di latelago di tla nyaka tumelelo ya mohlahli.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Ga go mantšu a bohlokwa ao ga bjale a beakantšwego go nyaka go lekanyetša pele.";
+$Definition["Edit Keywords"] = "Edita Mantšu a Bohlokwa";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Kgontšha Akismet go sefa spam ka diposong ka moka ka dingwadišo tša bakgopedi le badiriši bao ba sa netefatšwago. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Kgontšha Stopforumspam go lekola badiriši ba setšhaba kgahlanong le lenaneo la di-spammer tšeo di begilwego, gomme e bega poso bjalo ka spam goba e ba gana ka go lebanya. Meelo ya go bega le ya go gana e laolwa ka go dipeakanyo tša <0>addon</0> . Ithute ka botlalo mo go <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Maloko ao a sa netefatšwago ao a bilego setšhabeng ka fase ga palo ya matšatši ao a laeditšwego a tla hlohleletšwa go phetha tlhohlo ya Cloudflare (Captcha goba Checkbox) go thibela spam. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s ka magoro a a latelago e tla nyaka tumelelo ya mohlahli.";
+$Definition["Default Sort Order"] = "Tatelano ya go Hlopha ya Tlwaelo";
+$Definition["Choose the order records are sorted by default."] =
+    "Kgetha taelo direkoto di hlophisoa ka default.";
+$Definition["Show OP Indicator"] = "Bontšha Sešupo sa OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Ge kgetho ye e kgontšhitšwe, dikarabo go tšwa go Phoustara ya Mathomo di tla ba le sešupo sa OP.";
+$Definition["Show Badges"] = "Bontšha Dibetšhe";
+$Definition["Badges Limit"] = "Moedi wa Dibetšhe";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Bontšha dipetšhe tša badiriši go poso ye nngwe le ye nngwe. Go fihla go palomoka ya dipetšhe tše 5 di ka bontšhwa ka tatelano ya maemo a godimodimo.";
+$Definition["event"] = "tiragalo";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> ditshwayotshwayo tše dingwe";
+$Definition["Export"] = "Romela ntle";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Dithaetlele tša letlakala la gae di ka ba fela magareng ga ditlhaka tše 1 le tše 500";
+$Definition["Address Bar Color"] = "Mmala wa Bar ya Aterese";
+$Definition["Meta Tags"] = "Dithegi tša Meta";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta Tags di šomišwa bakeng sa netefatšo ya domain ya Google Search Console le ditirelo tše dingwe. Khopiša Dithegi tša Meta tše di nyakegago go tšwa mothopong wa gago gomme o kgomaretše mothalong wo mofsa.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Go fetša nakwana re nagana mabapi le kamoo re ka hlalosago wepesaete ya gago mo. Go nea wepesaete ya gago sehlogo seo se nago le morero le tlhaloso e botse go ka thuša boemo bja gago dikarolong tša go tsoma.";
+$Definition["Style Guides"] = "Dihlahli tša Setaele";
+$Definition["Branding & Assets"] = "Branding & Matlotlo";
+$Definition["Home Pages"] = "Matlakala a Gae";
+$Definition["Home Layout Settings"] = "Dipeakanyo tša Peakanyo ya Gae";
+$Definition["Category Pages"] = "Matlakala a Legoro";
+$Definition["Category Layout Settings"] = "Dipeakanyo tša Peakanyo ya Legoro";
+$Definition["Category List Pages"] = "Matlakala a Lenaneo la Legoro";
+$Definition["Posting Category Pages"] = "Matlakala a Legoro la go Romela";
+$Definition["Nested Category Pages"] = "Matlakala a Legoro la Nested";
+$Definition["Discussion Pages"] = "Matlakala a Poledišano";
+$Definition["Idea Pages"] = "Matlakala a Dikgopolo";
+$Definition["Question Pages"] = "Matlakala a Dipotšišo";
+$Definition["Post Pages"] = "Matlakala a Poso";
+$Definition["Post Layout Settings"] = "Dipeakanyo tša Peakanyo ya Poso";
+$Definition["Create Post Pages"] = "Hlama Matlakala a Poso";
+$Definition["Create Post Layout Settings"] = "Hlama Dipeakanyo tša Peakanyo ya Poso";
+$Definition["Event Pages"] = "Matlakala a Ditiragalo";
+$Definition["Event Layout Settings"] = "Dipeakanyo tša Peakanyo ya Tiragalo";
+$Definition["Knowledge Base Pages"] = "Matlakala a Motheo wa Tsebo";
+$Definition["Knowledge Base Layout Settings"] =
+    "Dipeakanyo tša Peakanyo ya Motheo wa Tsebo";
+$Definition["Knowledge Base Home Pages"] = "Matlakala a Gae a Motheo wa Tsebo";
+$Definition["Help Center Home Pages"] = "Matlakala a Gae a Setsi sa Thušo";
+$Definition["Help Center Category Pages"] = "Matlakala a Legoro la Setsi sa Thušo";
+$Definition["Help Center Article Pages"] = "Matlakala a Sehlogo sa Setsi sa Thušo";
+$Definition["Guide Article Pages"] = "Matlakala a Sehlogo sa Tlhahlo";
+$Definition["Layouts"] = "Dipeakanyo tša go dira dilo";
+$Definition["Add Custom Layout"] = "Oketša Peakanyo ya Tlwaelo";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Kgetha Peakanyo ya Diposo tša Morago bjale tša Legacy ye o kgethilwego.";
+$Definition["Legacy Recent Posts Layouts"] = "Legacy Dipeakanyo tša Dipolelo tša Morago bjale";
+$Definition["Change layout versions for the <0/>."] =
+    "Fetoša diphetolelo tša peakanyo ya <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Go ithuta ka botlalo, <0>bona ditokomane</0> .";
+$Definition["Change %s"] = "Fetola %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Na o na le bonnete bja gore o nyaka go šomiša %s?";
+$Definition["Legacy Home Layouts"] = "Dipeakanyo tša Legae tša Lefa";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Kgetha Peakanyo ya Gae ya Lefa ye e kgethilwego.";
+$Definition["Home Layout Version"] = "Phetolelo ya Peakanyo ya Gae";
+$Definition["Custom Home Layouts"] = "Dipeakanyo tša Gae tša Tlwaelo";
+$Definition["Legacy Category Layout"] = "Peakanyo ya Legoro la Lefa";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Kgetha Peakanyo ya Legoro la Lefa ye o kgethilwego.";
+$Definition["Category Layout Version"] = "Phetolelo ya Peakanyo ya Legoro";
+$Definition["Legacy Category Layouts"] = "Dipeakanyo tša Legoro la Lefa";
+$Definition["Custom Category Layouts"] = "Dipeakanyo tša Legoro la Tlwaelo";
+$Definition["Legacy Post Layout"] = "Peakanyo ya Poso ya Lefa";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Kgetha Peakanyo ya Poso ya Lefa ye o kgethilwego.";
+$Definition["Post Layout Version"] = "Phetolelo ya Peakanyo ya Poso";
+$Definition["Legacy Post Layouts"] = "Dipeakanyo tša Poso ya Lefa";
+$Definition["Custom Post Layouts"] = "Dipeakanyo tša Poso tša Tlwaelo";
+$Definition["Legacy Create Post Layout"] = "Legacy Hlama Peakanyo ya Poso";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Kgetha Peakanyo ya Poso ya Hlama ya Lefa ye e kgethilwego.";
+$Definition["Create Post Layout Version"] = "Hlama Phetolelo ya Peakanyo ya Poso";
+$Definition["Legacy Create Post Layouts"] = "Legacy Hlama Dipeakanyo tša Poso";
+$Definition["Custom Create Post Layouts"] = "Tlwaelo Hlama Dipeakanyo tša Poso";
+$Definition["Legacy Event Layout"] = "Peakanyo ya Tiragalo ya Lefa";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Kgetha Peakanyo ya Tiragalo ya Lefa ye e kgethilwego.";
+$Definition["Event Layout Version"] = "Phetolelo ya Peakanyo ya Tiragalo";
+$Definition["Legacy Event Layouts"] = "Dipeakanyo tša Ditiragalo tša Lefa";
+$Definition["Custom Event Layouts"] = "Dipeakanyo tša Ditiragalo tša Tlwaelo";
+$Definition["Created <0/> by <1/>."] = "E hlotšwe <0/> ke <1/>.";
+$Definition["Layout Options"] = "Dikgetho tša Peakanyo";
+$Definition["Contextual Description"] = "Tlhaloso ya Sebopego";
+$Definition["Skip to end of Carousel"] = "Tlolela go fihla mafelelong a Carousel";
+$Definition["Previous Slides"] = "Dilaete tša Peleng";
+$Definition["Next Slides"] = "Dilaete tše di Latelago";
+$Definition["indicator navigation"] = "go sepelasepela ga sešupo";
+$Definition["<0/> new"] = "<0/> e mpsha";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d dilaete pontšhong selaete sa mathomo %d ya %d";
+$Definition["Unassigned"] = "E sa abelwa";
+$Definition["Apply Layout to Site Home Page"] =
+    "Dira Peakanyo go Letlakala la Gae la Sebaka";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Beakanya bjalo ka peakanyo ya go se fetoge ya ditšhaba tše nnyane tše itšego.";
+$Definition["Apply to specific categories."] = "Dira kgopelo go magoro a itšego.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Peakanyo ye e ka se phumolwe ka gobane ke thempleite ya peakanyo.";
+$Definition["Delete Layout"] = "Phimola Peakanyo";
+$Definition["Are you sure you want to delete?"] =
+    "Na o na le bonnete bja gore o nyaka go phumola?";
+$Definition["Applied"] = "E dirišitšwe";
+$Definition["Applied as default"] = "E dirišitšwe bjalo ka default";
+$Definition["View Category"] = "Lebelela Legoro";
+$Definition["Apply to specific subcommunities."] =
+    "Dira kgopelo go ditšhaba tše nnyane tše itšego.";
+$Definition["Unable to re-assign default template"] =
+    "Ga e kgone go abela gape thempleite ya go se fetoge";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Peakanyo ye ke thempleite gomme e abetšwe bjalo ka ya go se fetoge ya matlakala ka moka a mohuta wo. Go e tloša bjalo ka ya go se fetoge goba go e abela matlakala a itšego, o swanetše go abela peakanyo ye e fapanego bjalo ka ya go se fetoge.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Peakanyo ye e ka se phumolwe ka gobane e dirišwa gabjale.";
+$Definition["Set as default layout for all <0 />."] =
+    "Beakanya bjalo ka peakanyo ya go se fetoge ya <0 /> ka moka.";
+$Definition["Legacy Knowledge Base Layout"] = "Peakanyo ya Motheo wa Tsebo ya Lefa";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Kgetha Peakanyo ya Motheo wa Tsebo ya Lefa ye e kgethilwego.";
+$Definition["Knowledge Base Layout Version"] = "Phetolelo ya Peakanyo ya Motheo wa Tsebo";
+$Definition["Legacy Knowledge Base Layouts"] = "Dipeakanyo tša Motheo wa Tsebo ya Lefa";
+$Definition["Custom Knowledge Base Layouts"] = "Dipeakanyo tša Motheo wa Tsebo ya Tlwaelo";
+$Definition["Article Count"] = "Palo ya Athikele";
+$Definition["Legacy Layouts enabled"] = "Dipeakanyo tša Lefa di kgontšhitšwe";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Hlokomela phetogo ye ya peakanyo e ka se bonagale go fihlela o fetogela go dipeakanyo tša tlwaelo.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Phetogo ye ya peakanyo e ka se bonagale go fihlela o fetolela setšhaba sa gago go <0/> ya tlwaelo letlakaleng la <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Beakanya bjalo ka peakanyo ya go se fetoge ya metheo ya tsebo ye e itšego.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Sebaka ga se go dumelele go kgokagana le le modiriši yo a lego gona.";
+$Definition["The username you entered has already been taken."] =
+    "Leina la mosediriši leo o le tsentšego le šetše le tšerwe.";
+$Definition["There was an error fetching the connection data."] =
+    "Go bile le phošo ya go lata ya data ya kgokagano.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "E paletšwe ke go netefatša kgopelo ya gago ya go seta phasewete gape. Leka go šomiša foromo ya kgopelo ya go seta gape gape.";
+$Definition["Invitation not found."] = "Taletšo ga se ya hwetšwa.";
+
+$Definition['# of automation rules'] = '# ya melao ya go itiriša';
+$Definition['Add Template'] = 'Oketša Thempleite';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Kgetha gore ke mang yo a swanetšego go amogela imeile ye ge molao wo wa go itirela o sepedišwa';
+$Definition['Delete an email template.'] = 'Phimola thempleite ya imeile.';
+$Definition['Email Audience'] = 'Batheeletši ba Imeile';
+$Definition['Email Template'] = 'Thempleite ya Imeile';
+$Definition['Email Templates'] = 'Dithempleite tša Imeile';
+$Definition['Email Template successfully deleted.'] = 'Template ya Imeile e phumotšwe ka katlego.';
+$Definition['Email Template not enabled.'] = 'Thempleite ya Imeile ga se ya kgontšhwa.';
+$Definition['Email template not found.'] = 'Thempleite ya imeile ga se ya hwetšwa.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Leina la thempleite ya imeile le šetše le le gona. Tsenya leina la moswananoši go tšwela pele.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Dithempleite tša imeile di ka šomišwa mmogo le <0/> go boledišana le badiriši go ya ka mošomo wa maloko goba dihlohleletši tše dingwe tša setšhaba.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Kgontšha kgetho ye go romela imeile ya go latela ge molao o hlohleletšwa.';
+$Definition['Impacted User'] = 'Modiriši yo a amegilego';
+$Definition['Search and select one or more roles to receive this email'] = 'Nyaka gomme o kgethe tema e tee goba tše ntši go amogela imeile ye';
+$Definition['Search and select one or more users to receive this email.'] = 'Batla gomme o kgethe modiriši o tee goba ba bantši go amogela imeile ye.';
+$Definition['Select Roles'] = 'Kgetha Dikarolo';
+$Definition['Select User'] = 'Kgetha Modiriši';
+$Definition['Select the email template to send.'] = 'Kgetha thempleite ya imeile yeo o tlago go e romela.';
+$Definition['Send an Email After This Rule Runs'] = 'Romela Imeile Ka Morago ga ge Molao wo o Matha';
+$Definition['Send email'] = 'Romela imeile';
+$Definition['Send the email'] = 'Romela imeile';
+$Definition['Send email to user'] = 'Romela imeile go mosebedisi';
+$Definition['Specific Roles'] = 'Dikarolo tše di Itšego';
+$Definition['Specific Users'] = 'Badiriši ba ba Itšego';
+$Definition['System email templates cannot be deleted.'] = 'Dithempleite tša imeile ya tshepedišo di ka se phumolwe.';
+$Definition['template name'] = 'leina la thempleite';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Šomiša letlakala le go hlama le go laola dithempleite tša gago, ke moka o beakanye <0/> ya gago go laola gore imeile ye nngwe le ye nngwe e romelwa neng le gore go mang.';
+$Definition['View the full list of available placeholders.'] = 'Lebelela lenaneo ka botlalo la di-placeholder tše di lego gona.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'O ka akaretša gape le di-placeholder diteng tša gago tša imeile—tše di tla tšeelwa legato ka go iketla ke tshedimošo ya maleba ya modiriši goba ya poso ge imeile e romelwa. Ka mohlala, Thobela {user.name}! goba Lekola {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'O ka se phumole di-imeile tša tshepedišo';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'O ka se phumole thempleite yeo e šomišwago ka melaong ya go itirela.';
+$Definition['You will no longer receive community engagement emails.'] = 'O ka se sa amogela di-imeile tša go tsenela setšhaba.';
+$Definition['Delete Email Template'] = 'Phimola Thempleite ya Imeile';
+$Definition["Template Styles"] = "Ditaele tša Thempleite";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Tlogela tšhemo efe goba efe e se na selo go šomiša ditaele tša gago tša imeile tša maitirelo bjalo ka ge di beakantšwe go <0>Dipeakanyo tša Imeile</0> letlakala.";

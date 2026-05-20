@@ -1275,3 +1275,646 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendesk znalostní báze';
 $Definition['Zoom Meeting ID or URL'] = 'Přiblížit ID nebo URL schůzky';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Vy} jste přijali odpověď uživatele {NotifyUserID,Vaše} na otázku: <a href="{Url,html}">{Data.Name,text}</a>';
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Vyberte výchozí formát editoru pro příspěvky v komunitě.";
+$Definition["InputFormatter.Notes2"] =
+    "Editor automaticky upraví formát starých příspěvků a načte jejich původní pravidla pro formátování. Kromě této výjimky dostane přednost vybraný formát příspěvku níže.";
+$Definition["Formatting Posts"] = "Formátování příspěvků";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Zadejte formát úprav pro mobilní zařízení.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Pokud chcete, aby mobilní zařízení měla stejnou zkušenost, určete pro ně výše stejné nastavení. Pokud uživatelé nahlásí problémy s úpravami na mobilních zařízeních, toto je dobrá možnost, kterou můžete změnit.";
+$Definition["Note:"] = "Poznámka: ";
+$Definition["Post Format"] = "Formát příspěvku";
+$Definition["Posting"] = "Zveřejňování";
+$Definition["Reinterpret All Posts As %s"] = "Znovu interpretovat všechny příspěvky jako %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Řekněte editorovi, aby přehodnotil všechny staré příspěvky jako %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Toto nastavení se projeví pouze v případě, že byl jako formát příspěvku výše vybrán %s.";
+$Definition["This option is to normalize the editor format"] =
+    "Tato možnost slouží k normalizaci formátu editoru, pokud jsou načteny starší příspěvky upravené v jiném formátu, jako je markdown nebo BBCode, tato možnost vynutí %s.";
+
+$Definition["Mobile Format"] = "Mobilní formát";
+$Definition["Enable Rich Quotes"] = "Povolit nabídky Rich";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Pomocí následující možnosti povolíte uvozovky pro editor Rich. To platí pouze v případě, že je výchozí formátovač nastaven na „Rich“.';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Výchozí zástupce";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Nahrát zástupný obrázek, který se zobrazí v případě, že uživatelé nebudou mít fotku u svého příspěvku.";
+$Definition["Additional classes"] = "Další třídy ";
+$Definition["Apply additional classes on catalogue image."] =
+    "Aplikovat na jednotlivé třídy obrázku v katalogu. Použijte mezerník k oddělení jednotlivých tříd.";
+$Definition["Category only"] = "Pouze kategorie";
+$Definition["Display on category page only."] =
+    "Zobrazit pouze na stránce kategorií. Seznam nedávných diskuzí nebude ovliněn. ";
+$Definition["Use Masonry display"] = "Použít Cihlové zobrazení";
+$Definition["Show an uploaded image on the Category page."] =
+    'Každá diskuze se ukáže jako obrázek nahraný na stránce Kategorie. Toto platí jen pro kategorie s "Diskuze" a "Zobrazit jako". ';
+$Definition["Upload Placeholder Image"] = "Nahrát zástupný obrázek";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Při ukládání změn došlo k chybě. Prosím zkuste to znovu.";
+$Definition["<0/> has been <1/>"] = "<0/> bylo <1/>";
+$Definition["enabled"] = "povoleno";
+$Definition["disabled"] = "zakázáno";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Tyto informace se zobrazí pouze uživatelům s oprávněním zobrazit interní informace";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Toto jsou soukromé informace a nebudou sdíleny s ostatními členy.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Tím vytvoříte schůzku Zoom jménem vlastníka integrace Zoom a pokud jste registrovaný uživatel, přidejte vás jako cohost. Pokud nejste registrovaný uživatel Zoom nebo nejste součástí organizace, která integraci nastavila, může mít tato událost omezenou funkčnost Zoom bez hostitele.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Adresu URL nebo ID přiblížení této události nelze aktualizovat.';
+
+$Definition["Zoom Meeting ID or URL"] = "Přiblížit ID nebo URL schůzky";
+
+// Automation Rules
+$Definition["Add tag"] = "Přidat značku";
+$Definition["A post"] = "Příspěvek";
+$Definition["A post has been added to a collection"] =
+    "Do sbírky byl přidán příspěvek";
+$Definition["A post has not had any activity"] =
+    "Příspěvek nevykazoval žádnou aktivitu";
+$Definition["A question"] = "Otázka";
+$Definition["A user has been registered"] = "Uživatel byl zaregistrován";
+$Definition["A post has received"] = "Byl přijat příspěvek";
+$Definition["Date field reached"] = "Dosaženo pole s datem";
+$Definition["A user registers or logs in with email domain:"] =
+    "Uživatel se zaregistruje nebo přihlásí pomocí e-mailové domény:";
+$Definition["A user registers or updates a profile field:"] =
+    "Uživatel zaregistruje nebo aktualizuje pole profilu:";
+$Definition["Add tags:"] = "Přidat značky:";
+$Definition["Add to collection:"] = "Přidat do sbírky:";
+$Definition["An idea has received"] = "Byl přijat nápad";
+$Definition["and"] = "a";
+$Definition["and assign to"] = "a přiřadit k";
+$Definition["and remove role"] = "a odebrat roli";
+$Definition["and remove from community"] = "a odstranit z komunity";
+$Definition["Assign role:"] = "Přiřadit roli:";
+$Definition["Assign/Remove role"] = "Přiřadit/odebrat roli";
+$Definition["Auto-run disabled."] = "Automatické spuštění zakázáno.";
+$Definition["Auto-run enabled."] = "Automatické spouštění povoleno.";
+$Definition["Automation rule successfully created."] =
+    "Pravidlo automatizace bylo úspěšně vytvořeno.";
+$Definition["Automation rule successfully updated."] =
+    "Pravidlo automatizace bylo úspěšně aktualizováno.";
+$Definition["Bump post"] = "Bump post";
+$Definition["Change the status of the idea to"] =
+    "Změňte stav nápadu na";
+$Definition["Change status"] = "Změnit stav";
+$Definition["Close post"] = "Zavřít příspěvek";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Kritéria shody komentářů nyní: <0 />";
+$Definition["created by"] = "vytvořil";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Vytvářejte a spravujte automatizace pro snadnou správu příspěvků a uživatelů.";
+$Definition["Create/Edit Automation Rule"] = "Vytvořit/upravit pravidlo automatizace";
+$Definition["Delete Rule"] = "Smazat pravidlo";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Diskuse vyhovující kritériím nyní: <0 />";
+$Definition["Edit Rule"] = "Upravit pravidlo";
+$Definition["Edit Variables"] = "Upravit proměnné";
+$Definition["Escalate it"] = "Eskalujte to";
+$Definition["Escalate to GitHub"] = "Eskalujte na GitHub";
+$Definition["Escalate to Zendesk"] = "Eskalujte na Zendesk";
+$Definition["Expand"] = "Rozšířit";
+$Definition["Failed to disable the rule"] = "Pravidlo se nepodařilo deaktivovat";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Nepodařilo se načíst data náhledu. Zkontrolujte prosím hodnoty spouštěčů a akcí.";
+$Definition["Follow categories:"] = "Sledujte kategorie:";
+$Definition["Follow category"] = "Sledovat kategorii";
+$Definition["for"] = "pro";
+$Definition["has been unanswered"] = "byla nezodpovězena";
+$Definition["has not received any comments"] = "neobdržel žádné komentáře";
+$Definition["Last reported"] = "Naposledy hlášeno";
+$Definition["Maximum Limit Reached"] = "Maximální limit dosažen";
+$Definition["Move post"] = "Přesunout příspěvek";
+$Definition["Move to category:"] = "Přesunout do kategorie:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Vícenásobný výběr polí se spustí, pokud uživatel splní JAKÉKOLI z kritérií.";
+$Definition["New/Updated Email domain"] = "Nová/aktualizovaná emailová doména";
+$Definition["New/Updated Profile field"] = "Pole Nový/aktualizovaný profil";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Poznámka: Akce neovlivní <0 />, které již mají přiřazenou akci použitou.";
+$Definition["Post Management"] = "Správa pošty";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Příspěvky vyhovující kritériím nyní: <0 />";
+$Definition["Remove from collection"] = "Odebrat ze sbírky";
+$Definition["Remove from collection:"] = "Odebrat ze sbírky:";
+$Definition["Remove from default follow list"] =
+    "Odebrat z výchozího seznamu sledování";
+$Definition["Remove from trigger collection"] =
+    "Odebrat ze sbírky spouštěčů";
+$Definition["report"] = "zpráva";
+$Definition["reports"] = "zprávy";
+$Definition["Rule Action"] = "Pravidlo Akce";
+$Definition["Rule may not be deleted while it is running"] =
+    "Pravidlo nelze odstranit, pokud je spuštěno";
+$Definition["Rule may not be edited while it is running"] =
+    "Pravidlo nelze upravovat, když je spuštěno";
+$Definition["Rule Name"] = "Název pravidla";
+$Definition["Rule status will apply once current run completes"] =
+    "Stav pravidla se uplatní po dokončení aktuálního běhu";
+$Definition["Rule Trigger"] = "Spouštěč pravidla";
+$Definition["Running"] = "Běh";
+$Definition["See documentation for more information."] =
+    "Další informace naleznete v dokumentaci.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Vyberte akci, která se stane, když se toto pravidlo spustí.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Vyberte spouštěč, který způsobí spuštění tohoto pravidla.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Chcete-li vygenerovat souhrn pravidel, nastavte spouštěcí proměnnou a proměnnou akce.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "od";
+$Definition["Summary"] = "Shrnutí";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Pokud budete pokračovat, akce se použije pouze na ně.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Akce se na ně vztahuje, když je pravidlo povoleno. V budoucnu se na ostatní <0 />, kteří splňují spouštěcí kritéria, bude akce vztahovat také.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Toto teď neovlivní žádné <0 />. V budoucnu to ovlivní ty, kteří splňují kritéria.";
+$Definition["Time since added to collection"] =
+    "Čas od přidání do sbírky";
+$Definition["Time since post has had no comments"] =
+    "Čas od příspěvku neměl žádné komentáře";
+$Definition["Time since Registration"] = "Čas od registrace";
+$Definition["Time since post has had no activity"] =
+    "Čas od příspěvku nevykazoval žádnou aktivitu";
+$Definition["Time since question has been unanswered"] =
+    "Čas od otázky zůstal nezodpovězený";
+$Definition["Trigger"] = "Spoušť";
+$Definition["Unsaved Changes"] = "Neuložené změny";
+$Definition["Up to <0 /> ago."] = "Před <0 />.";
+$Definition["upvote"] = "hlasovat pro";
+$Definition["upvotes"] = "hlasy pro";
+$Definition["User Management"] = "Správa uživatelů";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Uživatelé nyní splňující kritéria: <0 />";
+$Definition["Value is not a valid integer."] = "Hodnota není platné celé číslo.";
+$Definition["View History"] = "Zobrazit historii";
+$Definition["Votes on an idea"] = "Hlasování o nápadu";
+$Definition["with"] = "s";
+$Definition["with reason"] = "s rozumem";
+$Definition["with tag"] = "se štítkem";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Nemůžete přidat více než 150 pravidel automatizace. Smažte některá pravidla a zkuste to znovu.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Těmto filtrům neodpovídají žádné ikony.";
+$Definition["Manage Icon"] = "Ikona Správa";
+$Definition["Manage Icons"] = "Správa ikon";
+$Definition["Manage Icon helptext"] =
+    "Zde můžete spravovat systémové a historické ikony. Při nahrávání se ujistěte, že je ikona ve formátu SVG, obsahuje atribut viewBox a používá barvu #000000, aby bylo možné ji dynamicky vybarvit na základě nastavení motivu a uživatelských interakcí. V jednu chvíli může být aktivní pouze jedna ikona každého typu.";
+$Definition["Upload New Icon"] = "Nahrát novou ikonu";
+$Definition["Active Icon"] = "Aktivní ikona";
+$Definition["New Icon"] = "Nová ikona";
+$Definition["Icon Type"] = "Typ ikony";
+$Definition["Previous Icons"] = "Předchozí ikony";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Předchozí verze vašich ikon naleznete zde a můžete je kdykoli obnovit.";
+$Definition["Set as Active"] = "Nastavit jako Aktivní";
+$Definition["Uploaded <0/> by <1/>"] = "Nahráno <0/> uživatelem <1/>";
+$Definition["Icon Packs"] = "Sady ikon";
+$Definition["Download Active Icon Pack"] = "Stáhněte si Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Stáhněte si System Icon Pack";
+$Definition["Upload Icon Pack"] = "Nahrát balíček ikon";
+$Definition["Preview Icon Pack"] = "Náhled sady ikon";
+$Definition["Changed Icons"] = "Změněné ikony";
+$Definition["Icon Name"] = "Název ikony";
+$Definition["All icons in this icon pack are currently active."] =
+    "Všechny ikony v tomto balíčku ikon jsou aktuálně aktivní.";
+$Definition["Activate Icon Pack"] = "Aktivujte sadu ikon";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Zobrazovat pouze ikony, které byly přepsány vlastními ikonami.";
+$Definition["System Icon"] = "Systémová ikona";
+$Definition["Custom Icon"] = "Vlastní ikona";
+$Definition["Only show icons that are default system icons."] =
+    "Zobrazovat pouze ikony, které jsou výchozími systémovými ikonami.";
+$Definition["Previews"] = "Náhledy";
+$Definition["Icon Size"] = "Velikost ikony";
+$Definition["This is the actual size most icons render at."] =
+    "Toto je skutečná velikost, ve které se většina ikon vykresluje.";
+$Definition["Preview Color"] = "Barva náhledu";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Tato barva bude použita pro náhled barvy ikony. Nahradí jakékoli použití #000000 ve vašich nahraných ikonách. Ve skutečné aplikaci budou barvy dynamické.";
+$Definition["Escalation Name"] = "Název eskalace";
+$Definition["Status on Creation"] = "Stav při stvoření";
+$Definition["Assignee"] = "Zmocněnec";
+$Definition["Internal Comment"] = "Interní komentář";
+$Definition["Set Post Visibility to Hidden"] = "Nastavte Viditelnost příspěvku na Skrytý";
+$Definition["Remove Method"] = "Odebrat metodu";
+$Definition["Wipe"] = "Otřete";
+$Definition["Newest Post"] = "Nejnovější příspěvek";
+$Definition["Oldest Post"] = "Nejstarší příspěvek";
+$Definition["Triage"] = "Třídění";
+$Definition["Triage Dashboard"] = "Třídění Dashboard";
+$Definition["Message Post Author"] = "Zpráva Autor příspěvku";
+$Definition["Add Filter"] = "Přidat filtr";
+$Definition["Customer Support"] = "Zákaznická podpora";
+$Definition["My Profile"] = "Můj profil";
+$Definition["Resolve post"] = "Vyřešit příspěvek";
+$Definition["View post in community"] = "Zobrazit příspěvek v komunitě";
+$Definition["View Details"] = "Zobrazit podrobnosti";
+$Definition["Escalate"] = "Eskalovat";
+$Definition["Posted by <0/> in <1/>"] = "Přidal <0/> v <1/>";
+$Definition["Show"] = "Zobrazit";
+$Definition["View Escalation"] = "Zobrazit eskalaci";
+$Definition["# Reports"] = "# hlášení";
+$Definition["Last Reported"] = "Naposledy hlášeno";
+$Definition["Report Reasons"] = "Důvody zprávy";
+$Definition["Last Modified"] = "Naposledy změněno";
+$Definition["Last refreshed <0/> by <1/>."] = "Naposledy aktualizováno <0/> uživatelem <1/>.";
+
+$Definition["Moderation Content"] = "Obsah moderování";
+$Definition["AI Settings"] = "Nastavení AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP nasazení";
+$Definition["Activity & Registration"] = "Aktivita a registrace";
+$Definition["Content Settings"] = "Nastavení obsahu";
+$Definition["Premoderation Settings"] = "Nastavení předmoderování";
+$Definition["Escalation Rules"] = "Pravidla eskalace";
+$Definition["Automation"] = "Automatizace";
+$Definition["Audit Log"] = "Protokol auditu";
+$Definition["Community Management"] = "Správa komunity";
+$Definition["Visualize Your Community"] = "Vizualizujte svou komunitu";
+$Definition["Customize your community"] = "Přizpůsobte svou komunitu";
+$Definition["Configuration & Addons"] = "Konfigurace a doplňky";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Opravdu chcete smazat svůj %s?";
+$Definition["Newest Report"] = "Nejnovější zpráva";
+$Definition["Oldest Report"] = "Nejstarší zpráva";
+$Definition["Report Dismissed"] = "Zpráva zamítnuta";
+$Definition["Post Rejected"] = "Příspěvek zamítnut";
+$Definition["Escalated"] = "Eskalováno";
+$Definition["Reported by <0/>"] = "Nahlášeno uživatelem <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Uživatel <0/> neposkytl žádné poznámky k přehledu";
+$Definition["Create"] = "Create";
+$Definition["Edited"] = "Upraveno";
+$Definition["Newest Escalation"] = "Nejnovější eskalace";
+$Definition["Oldest Escalation"] = "Nejstarší eskalace";
+$Definition["Escalations Dashboard"] = "Panel eskalace";
+$Definition["On Hold"] = "Podrženo";
+$Definition["Done"] = "Hotovo";
+$Definition["In Jira"] = "V Jíře";
+$Definition["In Zendesk"] = "V Zendesku";
+$Definition["Integrations"] = "Integrace";
+$Definition["Remove Post"] = "Odebrat příspěvek";
+$Definition["Escalated by <0/>"] = "Eskalováno uživatelem <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Zadejte název této eskalace";
+$Definition["Escalated by <0/>"] = "Eskalováno uživatelem <0/>";
+$Definition["Post Revision"] = "Po revizi";
+$Definition["Loader"] = "Nakladač";
+$Definition["a month"] = "měsíc";
+$Definition["%s ago"] = "před %s";
+$Definition["Live"] = "Žít";
+$Definition["Live Post"] = "Živý příspěvek";
+$Definition["Remove Post"] = "Odebrat příspěvek";
+$Definition["Internal Comments"] = "Interní komentáře";
+$Definition["Add a comment"] = "Přidejte komentář";
+$Definition["Live"] = "Žít";
+$Definition["There are currently no comments on this post"] =
+    "Momentálně nejsou k tomuto příspěvku žádné komentáře";
+$Definition["All comments on this post will appear here"] =
+    "Zde se zobrazí všechny komentáře k tomuto příspěvku";
+$Definition["Reports for <0/>"] = "Přehledy pro <0/>";
+$Definition["Live Post"] = "Živý příspěvek";
+$Definition["There are currently no reports for this post."] =
+    "Pro tento příspěvek momentálně nejsou žádné zprávy.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Zde se zobrazí seznam zpráv spojených s tímto příspěvkem.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Nakonfigurujte, kam se budou odesílat hlášení, a spravujte důvody hlášení vaší komunity.";
+$Definition["New Community Management System"] =
+    "Nový systém správy komunity";
+$Definition["Enable Triage Dashboard"] = "Povolit Triage Dashboard";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Všichni uživatelé s oprávněním personálu budou moci vidět a označit diskuse jako vyřešené nebo nevyřešené. Tito uživatelé budou mít také přístup k řídicímu panelu třídění, aby mohli moderovat své kategorie.";
+$Definition["Resolve All Discussions"] = "Vyřešit všechny diskuse";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Vyřešit všechny příspěvky vyřeší všechny existující příspěvky v komunitě. Tato hromadná akce nespustí webhooky ani analýzy.";
+$Definition["Resolve All"] = "Vyřešit vše";
+$Definition["Required field"] = "Povinné pole";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Nový systém správy komunity umožňuje vlastní hlášení důvodů, eskalace, přiřazení a automatizační pravidla. Povolení této změny změní příjem hlášení, aby bylo možné používat nový systém. <0>Přečtěte si více</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Tím se vyřeší všechny existující příspěvky v komunitě. Tato hromadná akce nespustí webhooky ani analýzu protokolů. Pokračovat?";
+$Definition["Reorder"] = "Změnit pořadí";
+$Definition["Add Reason"] = "Přidat důvod";
+$Definition["Delete?"] = "Vymazat?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Opravdu chcete tento důvod smazat?";
+$Definition["A concise name for the report reason."] =
+    "Výstižný název pro důvod hlášení.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Jedinečný štítek z důvodu hlášení. Tento štítek nelze po uložení změnit.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Vysvětlení důvodu nahlášení, aby lepší reportéři provedli správný výběr při nahlašování příspěvku.";
+$Definition["The roles which can see this report reason."] =
+    "Role, které vidí tuto zprávu, zdůvodňují.";
+$Definition["Add Report Reason"] = "Přidat důvod hlášení";
+$Definition["Discard Changes?"] = "Zahodit změny?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Opravdu chcete skončit bez uložení?";
+$Definition["Reorder Report Reasons"] = "Důvody hlášení změny pořadí";
+$Definition["Edit Report Reason"] = "Upravit důvod hlášení";
+$Definition["Delete Report Reason"] = "Smazat důvod hlášení";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Chcete-li používat vlastní diskusní vlákna, musí být toto nastavení povoleno.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Nakonfigurujte nastavení používaná k automatickému moderování komunitního obsahu ještě před jeho vytvořením. Možnosti zahrnují automatickou detekci spamu, která vyžaduje schválení pro odesílání v určitých kategoriích a vyžaduje schválení pro odesílání pomocí určitých klíčových slov nebo frází.";
+$Definition["Spam Detection"] = "Detekce spamu";
+$Definition["Learn more."] = "Zjistěte více.";
+$Definition["documentation."] = "dokumentace.";
+$Definition["Verify browsers of new members"] =
+    "Ověřte prohlížeče nových členů";
+$Definition["Challenge Cutoff Age"] = "Hraní věk výzvy";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Počet dní od registrace k vynechání výzvy Cloudflare";
+$Definition["Save challenge cutoff age"] = "Uložte věk pro ukončení výzvy";
+$Definition["Premoderated Roles"] = "Předmoderované role";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Uživatelé s oprávněním \"Approval.Require\" budou vyžadovat souhlas moderátora pro všechny příspěvky.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Uživatelé označení jako „Ověřeno“ tento požadavek vynechají. Toto jsou role se „Schválení.Vyžadovat“";
+$Definition["No roles are currently set to require premoderation."] =
+    "Aktuálně nejsou nastaveny žádné role, které by vyžadovaly předmoderování.";
+$Definition["Edit Roles"] = "Upravit role";
+$Definition["Premoderated Categories"] = "Předmoderované kategorie";
+$Definition["No categories are currently set to require premoderation."] =
+    "Aktuálně nejsou nastaveny žádné kategorie, které by vyžadovaly předmoderování.";
+$Definition["Edit Categories"] = "Upravit kategorie";
+$Definition["Premoderated Keywords"] = "Předmoderovaná klíčová slova";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Příspěvky s některým z následujících klíčových slov nebo frází budou vyžadovat souhlas moderátora.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Momentálně nejsou nastavena žádná klíčová slova, která by vyžadovala předmoderování.";
+$Definition["Edit Keywords"] = "Upravit klíčová slova";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Povolte Akismetu filtrovat spam ve všech příspěvcích podle registrací žadatelů a neověřených uživatelů. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Povolte Stopforumspam, abyste porovnali uživatele komunity se seznamem nahlášených spammerů a buď nahlásili příspěvek jako spam, nebo je rovnou odmítli. Mezní hodnoty pro hlášení a odmítnutí se spravují v <0>nastavení doplňku</0> . Více se dozvíte v <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Neověření členové, kteří jsou v komunitě méně než zadaný počet dní, budou vyzváni k dokončení výzvy Cloudflare (Captcha nebo Checkbox), aby se zabránilo spamu. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s v následujících kategoriích bude vyžadovat souhlas moderátora.";
+$Definition["Default Sort Order"] = "Výchozí pořadí řazení";
+$Definition["Choose the order records are sorted by default."] =
+    "Vyberte, že záznamy objednávek jsou standardně seřazeny.";
+$Definition["Show OP Indicator"] = "Zobrazit indikátor OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Pokud je tato možnost povolena, odpovědi z originálního plakátu budou mít indikátor OP.";
+$Definition["Show Badges"] = "Zobrazit odznaky";
+$Definition["Badges Limit"] = "Limit odznaků";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Zobrazit odznaky uživatelů u každého příspěvku. V pořadí podle nejvyššího hodnocení může být zobrazeno maximálně 5 odznaků.";
+$Definition["event"] = "událost";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> dalších komentářů";
+$Definition["Export"] = "Vývozní";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Názvy domovských stránek mohou mít pouze 1 až 500 znaků";
+$Definition["Address Bar Color"] = "Barva adresního řádku";
+$Definition["Meta Tags"] = "Meta tagy";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta tagy se používají k ověření domény pro Google Search Console a další služby. Zkopírujte požadované meta tagy ze svého zdroje a vložte je na nový řádek.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Zkuste tu trochu popřemýšlet o tom, jak byste svoji stránku popsali. Smysluplný název a stručný popis může posílit vaši pozici ve výsledcích vyhledávání. ";
+$Definition["Style Guides"] = "Stylové průvodce";
+$Definition["Branding & Assets"] = "Značka a aktiva";
+$Definition["Home Pages"] = "domovské stránky";
+$Definition["Home Layout Settings"] = "Nastavení rozvržení domova";
+$Definition["Category Pages"] = "Stránky kategorií";
+$Definition["Category Layout Settings"] = "Nastavení rozvržení kategorií";
+$Definition["Category List Pages"] = "Stránky seznamu kategorií";
+$Definition["Posting Category Pages"] = "Zveřejňování stránek kategorií";
+$Definition["Nested Category Pages"] = "Stránky vnořených kategorií";
+$Definition["Discussion Pages"] = "Diskuzní stránky";
+$Definition["Idea Pages"] = "Stránky nápadů";
+$Definition["Question Pages"] = "Stránky otázek";
+$Definition["Post Pages"] = "Stránky příspěvků";
+$Definition["Post Layout Settings"] = "Nastavení rozložení příspěvku";
+$Definition["Create Post Pages"] = "Vytvořit stránky příspěvků";
+$Definition["Create Post Layout Settings"] = "Vytvořte nastavení rozložení příspěvku";
+$Definition["Event Pages"] = "Stránky událostí";
+$Definition["Event Layout Settings"] = "Nastavení rozvržení události";
+$Definition["Knowledge Base Pages"] = "Stránky znalostní báze";
+$Definition["Knowledge Base Layout Settings"] =
+    "Nastavení rozvržení znalostní báze";
+$Definition["Knowledge Base Home Pages"] = "Domovské stránky znalostní báze";
+$Definition["Help Center Home Pages"] = "Domovské stránky centra nápovědy";
+$Definition["Help Center Category Pages"] = "Stránky kategorií centra nápovědy";
+$Definition["Help Center Article Pages"] = "Stránky s články centra nápovědy";
+$Definition["Guide Article Pages"] = "Stránky s články s průvodcem";
+$Definition["Layouts"] = "Rozvržení";
+$Definition["Add Custom Layout"] = "Přidat vlastní rozvržení";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Vyberte preferované rozvržení starších příspěvků.";
+$Definition["Legacy Recent Posts Layouts"] = "Rozvržení starších příspěvků";
+$Definition["Change layout versions for the <0/>."] =
+    "Změnit verze rozvržení pro <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Další informace <0>najdete v dokumentaci</0> .";
+$Definition["Change %s"] = "Změnit %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Opravdu chcete použít %s?";
+$Definition["Legacy Home Layouts"] = "Původní rozvržení domů";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Vyberte preferované rozvržení původního domova.";
+$Definition["Home Layout Version"] = "Verze rozvržení domů";
+$Definition["Custom Home Layouts"] = "Vlastní rozvržení domů";
+$Definition["Legacy Category Layout"] = "Rozvržení starší kategorie";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Vyberte preferované rozvržení starší kategorie.";
+$Definition["Category Layout Version"] = "Verze rozvržení kategorie";
+$Definition["Legacy Category Layouts"] = "Rozvržení starších kategorií";
+$Definition["Custom Category Layouts"] = "Vlastní rozložení kategorií";
+$Definition["Legacy Post Layout"] = "Rozvržení staršího příspěvku";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Vyberte preferované rozvržení staršího příspěvku.";
+$Definition["Post Layout Version"] = "Verze rozvržení příspěvku";
+$Definition["Legacy Post Layouts"] = "Starší rozložení příspěvků";
+$Definition["Custom Post Layouts"] = "Vlastní rozložení příspěvků";
+$Definition["Legacy Create Post Layout"] = "Starší vytvoření rozložení příspěvku";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Vyberte preferované rozvržení Legacy Create Post.";
+$Definition["Create Post Layout Version"] = "Vytvořit verzi rozložení příspěvku";
+$Definition["Legacy Create Post Layouts"] = "Starší vytváření rozložení příspěvků";
+$Definition["Custom Create Post Layouts"] = "Vlastní vytvoření rozložení příspěvků";
+$Definition["Legacy Event Layout"] = "Rozvržení starší události";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Vyberte preferované rozvržení starší události.";
+$Definition["Event Layout Version"] = "Verze rozvržení události";
+$Definition["Legacy Event Layouts"] = "Rozvržení starších událostí";
+$Definition["Custom Event Layouts"] = "Vlastní rozvržení událostí";
+$Definition["Created <0/> by <1/>."] = "Vytvořeno <0/> uživatelem <1/>.";
+$Definition["Layout Options"] = "Možnosti rozložení";
+$Definition["Contextual Description"] = "Kontextový popis";
+$Definition["Skip to end of Carousel"] = "Přejít na konec kolotoče";
+$Definition["Previous Slides"] = "Předchozí snímky";
+$Definition["Next Slides"] = "Další snímky";
+$Definition["indicator navigation"] = "indikační navigace";
+$Definition["<0/> new"] = "<0/> nové";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d snímků na displeji úvodní snímek %d z %d";
+$Definition["Unassigned"] = "Nepřiřazeno";
+$Definition["Apply Layout to Site Home Page"] =
+    "Použít rozložení na domovskou stránku webu";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Nastavit jako výchozí rozvržení pro konkrétní podkomunity.";
+$Definition["Apply to specific categories."] = "Použít na konkrétní kategorie.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Toto rozvržení nelze smazat, protože se jedná o šablonu rozvržení.";
+$Definition["Delete Layout"] = "Smazat rozvržení";
+$Definition["Are you sure you want to delete?"] =
+    "Opravdu chcete smazat?";
+$Definition["Applied"] = "Aplikovaný";
+$Definition["Applied as default"] = "Použito jako výchozí";
+$Definition["View Category"] = "Zobrazit kategorii";
+$Definition["Apply to specific subcommunities."] =
+    "Použít na konkrétní podkomunity.";
+$Definition["Unable to re-assign default template"] =
+    "Nelze znovu přiřadit výchozí šablonu";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Toto rozvržení je šablona a je přiřazeno jako výchozí pro všechny stránky tohoto typu. Chcete-li jej odebrat jako výchozí nebo jej přiřadit ke konkrétním stránkám, musíte jako výchozí přiřadit jiné rozvržení.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Toto rozvržení nelze smazat, protože je aktuálně použito.";
+$Definition["Set as default layout for all <0 />."] =
+    "Nastavit jako výchozí rozložení pro všechny <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Rozvržení starší znalostní báze";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Vyberte preferované rozvržení Legacy Knowledge Base.";
+$Definition["Knowledge Base Layout Version"] = "Verze rozvržení znalostní báze";
+$Definition["Legacy Knowledge Base Layouts"] = "Legacy Knowledge Base Layouts";
+$Definition["Custom Knowledge Base Layouts"] = "Vlastní rozložení znalostní báze";
+$Definition["Article Count"] = "Počet článků";
+$Definition["Legacy Layouts enabled"] = "Starší rozvržení povoleno";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Tato změna rozvržení nebude viditelná, dokud nepřepnete na vlastní rozvržení.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Tato změna rozvržení nebude viditelná, dokud svou komunitu nepřepnete na vlastní <0/> na stránce <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Nastavit jako výchozí rozložení pro konkrétní znalostní báze.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Stránka neumožňuje spojení se stávajícím uživatelem.";
+$Definition["The username you entered has already been taken."] =
+    "Zadané uživatelské jméno již je obsazené.";
+$Definition["There was an error fetching the connection data."] =
+    "Při načítání dat připojení došlo k chybě.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Ověření vaší žádosti o resetování hesla se nezdařilo. Zkuste znovu použít formulář žádosti o resetování.";
+$Definition["Invitation not found."] = "Pozvánka nenalezena.";
+
+$Definition['# of automation rules'] = '# pravidel automatizace';
+$Definition['Add Template'] = 'Přidat šablonu';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Vyberte, kdo má obdržet tento e-mail po spuštění tohoto automatizačního pravidla';
+$Definition['Delete an email template.'] = 'Smazat šablonu e-mailu.';
+$Definition['Email Audience'] = 'Publikum e-mailů';
+$Definition['Email Template'] = 'Šablona e-mailu';
+$Definition['Email Templates'] = 'Šablony e-mailů';
+$Definition['Email Template successfully deleted.'] = 'Šablona e-mailu byla úspěšně smazána.';
+$Definition['Email Template not enabled.'] = 'Šablona e-mailu není povolena.';
+$Definition['Email template not found.'] = 'Šablona e-mailu nenalezena.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Název šablony e-mailu již existuje. Zadejte jedinečný název pro pokračování.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Šablony e-mailů lze použít ve spojení s <0/> pro komunikaci s uživateli na základě aktivity členů nebo jiných podnětů komunity.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Povolte tuto možnost, chcete-li odeslat následný e-mail, když je pravidlo aktivováno.';
+$Definition['Impacted User'] = 'Dotčený uživatel';
+$Definition['Search and select one or more roles to receive this email'] = 'Vyhledejte a vyberte jednu nebo více rolí, pro které chcete tento e-mail obdržet.';
+$Definition['Search and select one or more users to receive this email.'] = 'Vyhledejte a vyberte jednoho nebo více uživatelů, kterým chcete tento e-mail obdržet.';
+$Definition['Select Roles'] = 'Vyberte role';
+$Definition['Select User'] = 'Vyberte uživatele';
+$Definition['Select the email template to send.'] = 'Vyberte šablonu e-mailu, kterou chcete odeslat.';
+$Definition['Send an Email After This Rule Runs'] = 'Odeslat e-mail po spuštění tohoto pravidla';
+$Definition['Send email'] = 'Odeslat e-mail';
+$Definition['Send the email'] = 'Odeslat e-mail';
+$Definition['Send email to user'] = 'Odeslat e-mail uživateli';
+$Definition['Specific Roles'] = 'Specifické role';
+$Definition['Specific Users'] = 'Konkrétní uživatelé';
+$Definition['System email templates cannot be deleted.'] = 'Šablony systémových e-mailů nelze smazat.';
+$Definition['template name'] = 'název šablony';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Na této stránce můžete vytvářet a spravovat šablony a poté nakonfigurovat <0/> pro kontrolu, kdy a komu se jednotlivé e-maily odesílají.';
+$Definition['View the full list of available placeholders.'] = 'Zobrazit úplný seznam dostupných zástupných symbolů.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Do obsahu e-mailu můžete také zahrnout zástupné symboly – ty budou při odeslání e-mailu automaticky nahrazeny relevantními informacemi o uživateli nebo příspěvku. Například Dobrý den, {user.name}! nebo Podívejte se na {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Systémové e-maily nelze smazat';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Šablonu, která se používá v pravidlech automatizace, nelze odstranit.';
+$Definition['You will no longer receive community engagement emails.'] = 'Již nebudete dostávat e-maily s informacemi o zapojení komunity.';
+$Definition['Delete Email Template'] = 'Smazat šablonu e-mailu';
+$Definition["Template Styles"] = "Styly šablon";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Nechte libovolné pole prázdné, chcete-li použít výchozí styly e-mailů nakonfigurované v <0>Nastavení e-mailu</0> strana.";

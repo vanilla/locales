@@ -1701,3 +1701,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Baze de cunoștințe Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID sau URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,Ați acceptat răspunsul {NotifyUserID,al dvs.} la întrebarea: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Logo mobil";
+$Definition["Banner Image"] = "Imagine banner";
+$Definition["Disable Forum Pages"] = "Dezactivați paginile de forum";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Selectați formatul implicit al editorului pentru postările de pe comunitate.";
+$Definition["InputFormatter.Notes2"] =
+    "Editorul va detecta automat formatul postărilor vechi atunci când le editați și va încărca regulile de formatare originale. Pe lângă această excepție, formatul de postare selectat mai jos va primi întâietate.";
+$Definition["Formatting Posts"] = "Se formatează postările";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Specificați un format de editare pentru dispozitivele mobile.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Dacă dispozitivele mobile ar trebui să aibe aceeași experiență, specificați pe aceeași ca și mai sus. Dacă utilizatorii raportează probleme cu editarea pe mobil, această opțiune este bună de schimbat.";
+$Definition["Note:"] = "Notă:";
+$Definition["Post Format"] = "Format Postare";
+$Definition["Posting"] = "Se postează";
+$Definition["Reinterpret All Posts As %s"] = "Reinterpretează toate postările ca %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Spune-i editorului să reinterpreteze toate postările vechi ca %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Această setare va avea efect numai dacă %s a fost ales ca format de postare de mai sus.";
+$Definition["This option is to normalize the editor format"] =
+    "Această opțiune este de a normaliza formatul editorului, dacă postările mai vechi editate cu alt format, cum ar fi markdown sau BBCode, sunt încărcate, această opțiune va forța %s.";
+
+$Definition["Mobile Format"] = "Format Mobil";
+$Definition["Enable Rich Quotes"] = "Activați Citate Îmbunătățite";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Folosiți următoarea opțiune pentru a activa citate pentru Editorul Îmbunătățit. Acest lucru se va aplica numai dacă formatarea implicită este  cea "Îmbunătățită".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Substitut implicit";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Încarcă o imagine substitut care va apărea când utilizatorii nu au o imagine în postare.";
+$Definition["Additional classes"] = "Clase suplimentare";
+$Definition["Apply additional classes on catalogue image."] =
+    "Aplică clase suplimentare pe imaginea catalogului. Folosește spațiu pentru despărțirea fiecărei clase.";
+$Definition["Category only"] = "Doar categorie";
+$Definition["Display on category page only."] =
+    "Afișează doar pe pagina categoriei. Lista cu discuțiile recente nu va fi afectată.";
+$Definition["Use Masonry display"] = "Folosește afișajul Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Fiecare discuție va afișa o imagine încărcată pe pagina categoriei. Aceasta se aplică doar categoriilor cu "Discuții" precum "Afișează ca".';
+$Definition["Upload Placeholder Image"] = "Încarcă imaginea substitut";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "A apărut o eroare la salvarea modificărilor dvs. Vă rugăm să încercați din nou.";
+$Definition["<0/> has been <1/>"] = "<0/> a fost <1/>";
+$Definition["enabled"] = "activat";
+$Definition["disabled"] = "dezactivat";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Aceste informații vor fi afișate numai utilizatorilor cu permisiunea de a vedea informațiile interne";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Acestea sunt informații private și nu vor fi partajate altor membri.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Aceasta va crea o întâlnire Zoom în numele proprietarului integrării Zoom și, dacă sunteți un utilizator înregistrat, vă adăugați ca cogazdă. Dacă nu sunteți un utilizator Zoom înregistrat sau nu faceți parte din organizația care a configurat integrarea, acest eveniment poate avea funcționalitate Zoom limitată fără gazdă.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Nu puteți actualiza adresa URL sau ID-ul de zoom al acestui eveniment.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom Meeting ID sau URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Adăugați etichetă";
+$Definition["A post"] = "O postare";
+$Definition["A post has been added to a collection"] =
+    "O postare a fost adăugată la o colecție";
+$Definition["A post has not had any activity"] =
+    "O postare nu a avut nicio activitate";
+$Definition["A question"] = "O întrebare";
+$Definition["A user has been registered"] = "Un utilizator a fost înregistrat";
+$Definition["A post has received"] = "A primit o postare";
+$Definition["Date field reached"] = "Câmpul datei a fost atins";
+$Definition["A user registers or logs in with email domain:"] =
+    "Un utilizator se înregistrează sau se conectează cu un domeniu de e-mail:";
+$Definition["A user registers or updates a profile field:"] =
+    "Un utilizator înregistrează sau actualizează un câmp de profil:";
+$Definition["Add tags:"] = "Adăugați etichete:";
+$Definition["Add to collection:"] = "Adăugați la colecție:";
+$Definition["An idea has received"] = "O idee a primit";
+$Definition["and"] = "şi";
+$Definition["and assign to"] = "și atribuiți la";
+$Definition["and remove role"] = "și eliminați rolul";
+$Definition["and remove from community"] = "și scoateți din comunitate";
+$Definition["Assign role:"] = "Atribuiți rol:";
+$Definition["Assign/Remove role"] = "Atribuiți/Eliminați rol";
+$Definition["Auto-run disabled."] = "Rularea automată este dezactivată.";
+$Definition["Auto-run enabled."] = "Rularea automată este activată.";
+$Definition["Automation rule successfully created."] =
+    "Regula de automatizare a fost creată.";
+$Definition["Automation rule successfully updated."] =
+    "Regula de automatizare a fost actualizată cu succes.";
+$Definition["Bump post"] = "Bump post";
+$Definition["Change the status of the idea to"] =
+    "Schimbați statutul ideii în";
+$Definition["Change status"] = "Schimbați starea";
+$Definition["Close post"] = "Închide postarea";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Comentarii care corespund criteriilor acum: <0 />";
+$Definition["created by"] = "creat de";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Creați și gestionați automatizări pentru a gestiona cu ușurință postările și utilizatorii.";
+$Definition["Create/Edit Automation Rule"] = "Creați/Editați o regulă de automatizare";
+$Definition["Delete Rule"] = "Ștergeți regula";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Discuții care corespund criteriilor acum: <0 />";
+$Definition["Edit Rule"] = "Editați regula";
+$Definition["Edit Variables"] = "Editați variabile";
+$Definition["Escalate it"] = "Creșteți-l";
+$Definition["Escalate to GitHub"] = "Treceți la GitHub";
+$Definition["Escalate to Zendesk"] = "Treceți la Zendesk";
+$Definition["Expand"] = "Extinde";
+$Definition["Failed to disable the rule"] = "Nu s-a putut dezactiva regula";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Nu s-au încărcat datele de previzualizare. Vă rugăm să verificați valorile de declanșare și acțiuni.";
+$Definition["Follow categories:"] = "Urmărește categorii:";
+$Definition["Follow category"] = "Urmăriți categoria";
+$Definition["for"] = "pentru";
+$Definition["has been unanswered"] = "a fost fără răspuns";
+$Definition["has not received any comments"] = "nu a primit niciun comentariu";
+$Definition["Last reported"] = "Ultima raportare";
+$Definition["Maximum Limit Reached"] = "Limita maximă atinsă";
+$Definition["Move post"] = "Mutați postarea";
+$Definition["Move to category:"] = "Mutați la categorie:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Câmpurile cu selecție multiplă se vor declanșa dacă utilizatorul îndeplinește ORICE dintre criterii.";
+$Definition["New/Updated Email domain"] = "Domeniu de e-mail nou/actualizat";
+$Definition["New/Updated Profile field"] = "Câmp Profil nou/Actualizat";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Notă: Acțiunile nu vor afecta <0 /> care au deja aplicată acțiunea asociată.";
+$Definition["Post Management"] = "Post Management";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Postări care corespund criteriilor acum: <0 />";
+$Definition["Remove from collection"] = "Scoateți din colecție";
+$Definition["Remove from collection:"] = "Eliminați din colecție:";
+$Definition["Remove from default follow list"] =
+    "Eliminați din lista de urmărire implicită";
+$Definition["Remove from trigger collection"] =
+    "Eliminați din colecția declanșatoare";
+$Definition["report"] = "raport";
+$Definition["reports"] = "rapoarte";
+$Definition["Rule Action"] = "Acțiunea regulilor";
+$Definition["Rule may not be deleted while it is running"] =
+    "Este posibil ca regula să nu fie ștearsă în timp ce rulează";
+$Definition["Rule may not be edited while it is running"] =
+    "Regula nu poate fi editată în timp ce rulează";
+$Definition["Rule Name"] = "Numele regulii";
+$Definition["Rule status will apply once current run completes"] =
+    "Starea regulii se va aplica după finalizarea executării curente";
+$Definition["Rule Trigger"] = "Rule Trigger";
+$Definition["Running"] = "Funcţionare";
+$Definition["See documentation for more information."] =
+    "Consultați documentația pentru mai multe informații.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Selectați acțiunea care va avea loc atunci când această regulă este declanșată.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Selectați declanșatorul care va determina rularea acestei reguli.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Setați variabila de declanșare și variabila de acțiune pentru a genera un rezumat al regulilor.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "din moment ce";
+$Definition["Summary"] = "Rezumat";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Acțiunea se va aplica numai acestora dacă continuați.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Acțiunea li se va aplica atunci când regula este activată. În viitor, altor <0 /> care îndeplinesc criteriile de declanșare li se va aplica și acțiunea.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Acest lucru nu va afecta niciun <0 /> în acest moment. Îi va afecta pe cei care îndeplinesc criteriile în viitor.";
+$Definition["Time since added to collection"] =
+    "Timp de când a fost adăugat la colecție";
+$Definition["Time since post has had no comments"] =
+    "Timpul de la postare nu a avut comentarii";
+$Definition["Time since Registration"] = "Timp de la înregistrare";
+$Definition["Time since post has had no activity"] =
+    "Timpul de la postare nu a avut activitate";
+$Definition["Time since question has been unanswered"] =
+    "Timpul de când întrebarea a rămas fără răspuns";
+$Definition["Trigger"] = "Trigger";
+$Definition["Unsaved Changes"] = "Modificări nesalvate";
+$Definition["Up to <0 /> ago."] = "Până acum <0 />.";
+$Definition["upvote"] = "vot favorabil";
+$Definition["upvotes"] = "voturi pozitive";
+$Definition["User Management"] = "Managementul utilizatorilor";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Utilizatori care corespund criteriilor acum: <0 />";
+$Definition["Value is not a valid integer."] = "Valoarea nu este un număr întreg valid.";
+$Definition["View History"] = "Vedeți istoricul";
+$Definition["Votes on an idea"] = "Voturi pentru o idee";
+$Definition["with"] = "cu";
+$Definition["with reason"] = "cu rațiune";
+$Definition["with tag"] = "cu eticheta";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Nu puteți adăuga mai mult de 150 de reguli de automatizare. Ștergeți câteva reguli și încercați din nou.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Nicio pictogramă nu se potrivește cu acele filtre.";
+$Definition["Manage Icon"] = "Gestionați pictograma";
+$Definition["Manage Icons"] = "Gestionați pictogramele";
+$Definition["Manage Icon helptext"] =
+    "Puteți gestiona pictogramele de sistem și istorice aici. Când încărcați, asigurați-vă că pictograma este în format SVG, include un atribut viewBox și folosește culoarea #000000 pentru a vă asigura că poate fi colorată dinamic pe baza setărilor temei și a interacțiunilor utilizatorului. Doar o pictogramă de fiecare tip poate fi activă la un moment dat.";
+$Definition["Upload New Icon"] = "Încărcați o pictogramă noua";
+$Definition["Active Icon"] = "Pictogramă activă";
+$Definition["New Icon"] = "Pictogramă Noua";
+$Definition["Icon Type"] = "Tip de pictogramă";
+$Definition["Previous Icons"] = "Pictogramele anterioare";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Versiunile anterioare ale pictogramelor dvs. pot fi găsite aici și restaurate în orice moment.";
+$Definition["Set as Active"] = "Setați ca activ";
+$Definition["Uploaded <0/> by <1/>"] = "Încărcat <0/> de <1/>";
+$Definition["Icon Packs"] = "Pachete de icoane";
+$Definition["Download Active Icon Pack"] = "Descărcați pachetul de pictograme active";
+$Definition["Download System Icon Pack"] = "Descărcați pachetul de pictograme de sistem";
+$Definition["Upload Icon Pack"] = "Încărcați pachetul de pictograme";
+$Definition["Preview Icon Pack"] = "Previzualizează pachetul de pictograme";
+$Definition["Changed Icons"] = "Pictograme schimbate";
+$Definition["Icon Name"] = "Numele pictogramei";
+$Definition["All icons in this icon pack are currently active."] =
+    "Toate pictogramele din acest pachet de pictograme sunt active în prezent.";
+$Definition["Activate Icon Pack"] = "Activați pachetul de pictograme";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Afișați numai pictogramele care au fost înlocuite cu pictograme personalizate.";
+$Definition["System Icon"] = "Pictograma sistemului";
+$Definition["Custom Icon"] = "Pictogramă personalizată";
+$Definition["Only show icons that are default system icons."] =
+    "Afișați doar pictogramele care sunt pictograme implicite de sistem.";
+$Definition["Previews"] = "Previzualizări";
+$Definition["Icon Size"] = "Dimensiunea pictogramei";
+$Definition["This is the actual size most icons render at."] =
+    "Aceasta este dimensiunea reală la care se redă majoritatea pictogramelor.";
+$Definition["Preview Color"] = "Previzualizare Culoare";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Această culoare va fi folosită pentru a previzualiza culoarea pictogramei. Acesta va înlocui orice utilizare a #000000 în pictogramele încărcate. În aplicația actuală, culorile vor fi dinamice.";
+$Definition["Escalation Name"] = "Nume escaladare";
+$Definition["Status on Creation"] = "Starea la Creație";
+$Definition["Assignee"] = "Cesionar";
+$Definition["Internal Comment"] = "Comentariu intern";
+$Definition["Set Post Visibility to Hidden"] = "Setați Vizibilitatea postării la Ascuns";
+$Definition["Remove Method"] = "Eliminare metoda";
+$Definition["Wipe"] = "Şterge";
+$Definition["Newest Post"] = "Cea mai nouă postare";
+$Definition["Oldest Post"] = "Postarea cea mai veche";
+$Definition["Triage"] = "Triajul";
+$Definition["Triage Dashboard"] = "Tabloul de bord Triage";
+$Definition["Message Post Author"] = "Autorul mesajului";
+$Definition["Add Filter"] = "Adăugați filtru";
+$Definition["Customer Support"] = "Asistență pentru clienți";
+$Definition["My Profile"] = "Profilul meu";
+$Definition["Resolve post"] = "Rezolvați postarea";
+$Definition["View post in community"] = "Vizualizați postarea în comunitate";
+$Definition["View Details"] = "Vezi detalii";
+$Definition["Escalate"] = "Escalada";
+$Definition["Posted by <0/> in <1/>"] = "Postat de <0/> în <1/>";
+$Definition["Show"] = "Spectacol";
+$Definition["View Escalation"] = "Vizualizați escaladare";
+$Definition["# Reports"] = "# Rapoarte";
+$Definition["Last Reported"] = "Ultimul raportat";
+$Definition["Report Reasons"] = "Raportați Motivele";
+$Definition["Last Modified"] = "Ultima modificare";
+$Definition["Last refreshed <0/> by <1/>."] = "Ultima actualizare <0/> de <1/>.";
+
+$Definition["Moderation Content"] = "Moderare Conținut";
+$Definition["AI Settings"] = "Setări AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "Desfăşurare VIP";
+$Definition["Activity & Registration"] = "Activitate și înregistrare";
+$Definition["Content Settings"] = "Setări de conținut";
+$Definition["Premoderation Settings"] = "Setări de premoderare";
+$Definition["Escalation Rules"] = "Reguli de escaladare";
+$Definition["Automation"] = "Automatizare";
+$Definition["Audit Log"] = "Jurnal de audit";
+$Definition["Community Management"] = "Management comunitar";
+$Definition["Visualize Your Community"] = "Vizualizați-vă comunitatea";
+$Definition["Customize your community"] = "Personalizează-ți comunitatea";
+$Definition["Configuration & Addons"] = "Configurare și suplimente";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Sigur doriți să ștergeți %s-ul dvs.?";
+$Definition["Newest Report"] = "Cel mai nou raport";
+$Definition["Oldest Report"] = "Cel mai vechi raport";
+$Definition["Report Dismissed"] = "Raport respins";
+$Definition["Post Rejected"] = "Postare respinsă";
+$Definition["Escalated"] = "A escaladat";
+$Definition["Reported by <0/>"] = "Raportat de <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Nu au fost furnizate note de raport de <0/>";
+$Definition["Create"] = "Creați";
+$Definition["Edited"] = "Editat";
+$Definition["Newest Escalation"] = "Cea mai nouă escaladare";
+$Definition["Oldest Escalation"] = "Cea mai veche escaladare";
+$Definition["Escalations Dashboard"] = "Tabloul de bord pentru escalade";
+$Definition["On Hold"] = "În așteptare";
+$Definition["Done"] = "Făcut";
+$Definition["In Jira"] = "În Jira";
+$Definition["In Zendesk"] = "În Zendesk";
+$Definition["Integrations"] = "Integrari";
+$Definition["Remove Post"] = "Eliminați postarea";
+$Definition["Escalated by <0/>"] = "Creștet de <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Introduceți un titlu pentru această escaladare";
+$Definition["Escalated by <0/>"] = "Creștet de <0/>";
+$Definition["Post Revision"] = "După revizuire";
+$Definition["Loader"] = "Încărcător";
+$Definition["a month"] = "o lună";
+$Definition["%s ago"] = "acum %s";
+$Definition["Live"] = "Trăi";
+$Definition["Live Post"] = "Postare live";
+$Definition["Remove Post"] = "Eliminați postarea";
+$Definition["Internal Comments"] = "Comentarii interne";
+$Definition["Add a comment"] = "Adaugă un comentariu";
+$Definition["Live"] = "Trăi";
+$Definition["There are currently no comments on this post"] =
+    "Momentan nu există comentarii la această postare";
+$Definition["All comments on this post will appear here"] =
+    "Toate comentariile la această postare vor apărea aici";
+$Definition["Reports for <0/>"] = "Rapoarte pentru <0/>";
+$Definition["Live Post"] = "Postare live";
+$Definition["There are currently no reports for this post."] =
+    "În prezent, nu există rapoarte pentru această postare.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "O listă de rapoarte asociate cu această postare va apărea aici.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Configurați unde sunt trimise rapoartele și gestionați motivele raportului comunității dvs.";
+$Definition["New Community Management System"] =
+    "Noul sistem de management comunitar";
+$Definition["Enable Triage Dashboard"] = "Activați Tabloul de bord Triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Toți utilizatorii cu permisiunea personalului vor putea să vadă și să marcheze discuțiile ca rezolvate sau nerezolvate. Acești utilizatori vor putea accesa, de asemenea, tabloul de bord de triaj pentru a-și modera categoriile.";
+$Definition["Resolve All Discussions"] = "Rezolvați toate discuțiile";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Rezolvați toate postările va rezolva toate postările existente în comunitate. Această acțiune în bloc nu va declanșa webhook-uri sau analize.";
+$Definition["Resolve All"] = "Rezolvați totul";
+$Definition["Required field"] = "Câmp obligatoriu";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Noul sistem de management al comunității permite motive de raportare personalizate, escalade, atribuiri și reguli de automatizare. Activarea acestei modificări aportul de raportare pentru a utiliza noul sistem. <0>Citiți mai multe</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Acest lucru va rezolva toate postările existente în comunitate. Această acțiune în bloc nu va declanșa webhook-uri sau analize de jurnal. Continua?";
+$Definition["Reorder"] = "Reordonați";
+$Definition["Add Reason"] = "Adaugă motiv";
+$Definition["Delete?"] = "Şterge?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Sigur doriți să ștergeți acest motiv?";
+$Definition["A concise name for the report reason."] =
+    "Un nume concis pentru motivul raportului.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "O etichetă unică pentru motivul raportului. Această etichetă nu poate fi schimbată odată salvată.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "O explicație a motivului raportului pentru ca reporterii să facă selecția corectă atunci când raportează o postare.";
+$Definition["The roles which can see this report reason."] =
+    "Rolurile care pot vedea acest raport motivează.";
+$Definition["Add Report Reason"] = "Adăugați motivul raportului";
+$Definition["Discard Changes?"] = "Renunțați la modificări?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Sigur vrei să ieși fără a salva?";
+$Definition["Reorder Report Reasons"] = "Motivele raportului de reordonare";
+$Definition["Edit Report Reason"] = "Editați motivul raportului";
+$Definition["Delete Report Reason"] = "Ștergeți motivul raportului";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Această setare trebuie să fie activată pentru a utiliza fire de discuții personalizate.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Configurați setările folosite pentru a modera automat conținutul comunității chiar înainte de a fi creat. Opțiunile includ detectarea automată a spam-ului, necesitatea aprobării pentru postarea în anumite categorii și necesitatea aprobării pentru postarea folosind anumite cuvinte cheie sau expresii.";
+$Definition["Spam Detection"] = "Detectarea spamului";
+$Definition["Learn more."] = "Află mai multe.";
+$Definition["documentation."] = "documentare.";
+$Definition["Verify browsers of new members"] =
+    "Verificați browserele noilor membri";
+$Definition["Challenge Cutoff Age"] = "Provocare Cutoff Age";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Numărul de zile de la înregistrare pentru a ocoli provocarea Cloudflare";
+$Definition["Save challenge cutoff age"] = "Salvați vârsta limită pentru provocare";
+$Definition["Premoderated Roles"] = "Roluri premoderate";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Utilizatorii cu permisiunea „Approval.Require” vor avea nevoie de aprobarea moderatorului pentru toate postările.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Utilizatorii marcați ca „Verificati” vor ocoli această cerință. Acestea sunt rolurile cu „Approval.Require”";
+$Definition["No roles are currently set to require premoderation."] =
+    "În prezent, niciun rol nu este setat să necesite premoderare.";
+$Definition["Edit Roles"] = "Editați roluri";
+$Definition["Premoderated Categories"] = "Categorii premoderate";
+$Definition["No categories are currently set to require premoderation."] =
+    "În prezent, nicio categorie nu este setată să necesite premoderare.";
+$Definition["Edit Categories"] = "Editați categorii";
+$Definition["Premoderated Keywords"] = "Cuvinte cheie premoderate";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Postările cu oricare dintre următoarele cuvinte cheie sau expresii vor necesita aprobarea moderatorului.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "În prezent, niciun cuvânt cheie nu este setat să necesite premoderare.";
+$Definition["Edit Keywords"] = "Editați cuvintele cheie";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Activați Akismet să filtreze spam-ul în toate postările de la înregistrările solicitanților și utilizatorii neverificați. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Activați Stopforumspam pentru a verifica utilizatorii comunității cu o listă de spammeri raportați și fie raportează postarea ca spam, fie îi respinge definitiv. Pragurile de raportare și respingere sunt gestionate în setările suplimentului <0></0> . Aflați mai multe în <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Membrii neverificați care au fost în comunitate pentru mai puțin de numărul specificat de zile vor fi solicitați să finalizeze o provocare Cloudflare (Captcha sau Checkbox) pentru a preveni spamul. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s din următoarele categorii va necesita aprobarea moderatorului.";
+$Definition["Default Sort Order"] = "Ordine de sortare implicită";
+$Definition["Choose the order records are sorted by default."] =
+    "Alegeți înregistrările comenzii sunt sortate implicit.";
+$Definition["Show OP Indicator"] = "Afișați indicatorul OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Dacă această opțiune este activată, răspunsurile din posterul original vor avea un indicator OP.";
+$Definition["Show Badges"] = "Afișați insigne";
+$Definition["Badges Limit"] = "Limită de insigne";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Afișați insignele utilizatorilor pe fiecare postare. Pot fi afișate până la maximum 5 insigne în ordinea celei mai înalte poziții.";
+$Definition["event"] = "eveniment";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> mai multe comentarii";
+$Definition["Export"] = "Export";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Titlurile paginii de pornire pot avea doar între 1 și 500 de caractere";
+$Definition["Address Bar Color"] = "Culoarea barei de adrese";
+$Definition["Meta Tags"] = "Meta tag-uri";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Meta-etichetele sunt folosite pentru verificarea domeniului pentru Google Search Console și alte servicii. Copiați metaetichetele necesare din sursă și inserați-le pe o linie nouă.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Petreceți puțin timp pentru a formula descriere site-ului. Oferind site-ului un ume semnificativ și o descriere concisă, ar putea ajuta la poziţia dumneavoastră în motoarele de căutare";
+$Definition["Style Guides"] = "Ghiduri de stil";
+$Definition["Branding & Assets"] = "Branding și active";
+$Definition["Home Pages"] = "Pagini de pornire";
+$Definition["Home Layout Settings"] = "Setări de aspect de acasă";
+$Definition["Category Pages"] = "Pagini de categorie";
+$Definition["Category Layout Settings"] = "Setări de aspect al categoriei";
+$Definition["Category List Pages"] = "Pagini cu listă de categorii";
+$Definition["Posting Category Pages"] = "Postarea paginilor de categorii";
+$Definition["Nested Category Pages"] = "Pagini de categorii imbricate";
+$Definition["Discussion Pages"] = "Pagini de discuții";
+$Definition["Idea Pages"] = "Pagini de idei";
+$Definition["Question Pages"] = "Pagini de întrebări";
+$Definition["Post Pages"] = "Pagini de postare";
+$Definition["Post Layout Settings"] = "Setări de aspect post";
+$Definition["Create Post Pages"] = "Creați pagini de postare";
+$Definition["Create Post Layout Settings"] = "Creați setări pentru aspectul postării";
+$Definition["Event Pages"] = "Pagini de evenimente";
+$Definition["Event Layout Settings"] = "Setări de aspect al evenimentului";
+$Definition["Knowledge Base Pages"] = "Pagini din baza de cunoștințe";
+$Definition["Knowledge Base Layout Settings"] =
+    "Setări de aspect al bazei de cunoștințe";
+$Definition["Knowledge Base Home Pages"] = "Paginile de pornire ale bazei de cunoștințe";
+$Definition["Help Center Home Pages"] = "Paginile de pornire ale Centrului de ajutor";
+$Definition["Help Center Category Pages"] = "Pagini de categorii ale Centrului de ajutor";
+$Definition["Help Center Article Pages"] = "Pagini cu articole din Centrul de ajutor";
+$Definition["Guide Article Pages"] = "Pagini cu articole de ghid";
+$Definition["Layouts"] = "Aspecte";
+$Definition["Add Custom Layout"] = "Adăugați un aspect personalizat";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Alegeți aspectul de postări recente Legacy preferat.";
+$Definition["Legacy Recent Posts Layouts"] = "Aspecte vechi ale postărilor recente";
+$Definition["Change layout versions for the <0/>."] =
+    "Schimbați versiunile de aspect pentru <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Pentru a afla mai multe, <0>consultați documentația</0> .";
+$Definition["Change %s"] = "Schimbați %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Sigur doriți să utilizați %s?";
+$Definition["Legacy Home Layouts"] = "Aspecte de acasă vechi";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Alegeți aspectul de acasă Legacy preferat.";
+$Definition["Home Layout Version"] = "Versiune de aspect de acasă";
+$Definition["Custom Home Layouts"] = "Aspecte personalizate de acasă";
+$Definition["Legacy Category Layout"] = "Aspectul categoriei vechi";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Alegeți aspectul preferat pentru categoria Legacy.";
+$Definition["Category Layout Version"] = "Versiunea aspectului categoriei";
+$Definition["Legacy Category Layouts"] = "Aspecte de categorii vechi";
+$Definition["Custom Category Layouts"] = "Aspecte personalizate pentru categorii";
+$Definition["Legacy Post Layout"] = "Aspect post moștenit";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Alegeți aspectul de postare Legacy preferat.";
+$Definition["Post Layout Version"] = "Versiune post layout";
+$Definition["Legacy Post Layouts"] = "Aspecte vechi ale postărilor";
+$Definition["Custom Post Layouts"] = "Aspecte personalizate ale postărilor";
+$Definition["Legacy Create Post Layout"] = "Creați un aspect de postare moștenire";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Alegeți aspectul de postare Legacy Create preferat.";
+$Definition["Create Post Layout Version"] = "Creați versiunea post layout";
+$Definition["Legacy Create Post Layouts"] = "Moștenire Creați layout-uri de postare";
+$Definition["Custom Create Post Layouts"] = "Creați aspect personalizat pentru postări";
+$Definition["Legacy Event Layout"] = "Aspect de eveniment moștenit";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Alegeți aspectul preferat al evenimentului Legacy.";
+$Definition["Event Layout Version"] = "Versiunea aspectului evenimentului";
+$Definition["Legacy Event Layouts"] = "Aspecte de evenimente vechi";
+$Definition["Custom Event Layouts"] = "Aspecte personalizate pentru evenimente";
+$Definition["Created <0/> by <1/>."] = "Creat <0/> de <1/>.";
+$Definition["Layout Options"] = "Opțiuni de aspect";
+$Definition["Contextual Description"] = "Descriere contextuală";
+$Definition["Skip to end of Carousel"] = "Treci la sfârșitul Caruselului";
+$Definition["Previous Slides"] = "Slide-urile anterioare";
+$Definition["Next Slides"] = "Următoarele diapozitive";
+$Definition["indicator navigation"] = "indicator de navigare";
+$Definition["<0/> new"] = "<0/> nou";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d diapozitive afișate diapozitivul inițial %d din %d";
+$Definition["Unassigned"] = "Nealocat";
+$Definition["Apply Layout to Site Home Page"] =
+    "Aplicați aspectul paginii de pornire a site-ului";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Setați ca aspect implicit pentru anumite subcomunități.";
+$Definition["Apply to specific categories."] = "Aplicați la anumite categorii.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Acest aspect nu poate fi șters deoarece este un șablon de aspect.";
+$Definition["Delete Layout"] = "Ștergeți aspectul";
+$Definition["Are you sure you want to delete?"] =
+    "Sigur doriți să ștergeți?";
+$Definition["Applied"] = "Aplicat";
+$Definition["Applied as default"] = "Aplicat implicit";
+$Definition["View Category"] = "Vedeți categoria";
+$Definition["Apply to specific subcommunities."] =
+    "Aplicați la anumite subcomunități.";
+$Definition["Unable to re-assign default template"] =
+    "Nu se poate reatribui șablonul implicit";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Acest aspect este un șablon și este atribuit ca implicit pentru toate paginile de acest tip. Pentru a-l elimina ca implicit sau pentru a-l atribui unor anumite pagini, trebuie să atribuiți un aspect diferit ca implicit.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Acest aspect nu poate fi șters deoarece este aplicat în prezent.";
+$Definition["Set as default layout for all <0 />."] =
+    "Setați ca aspect implicit pentru toate <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Aspectul bazei de cunoștințe vechi";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Alegeți aspectul preferat al bazei de cunoștințe Legacy.";
+$Definition["Knowledge Base Layout Version"] = "Versiunea aspectului bazei de cunoștințe";
+$Definition["Legacy Knowledge Base Layouts"] = "Aspecte vechi ale bazei de cunoștințe";
+$Definition["Custom Knowledge Base Layouts"] = "Aspecte personalizate ale bazei de cunoștințe";
+$Definition["Article Count"] = "Număr de articole";
+$Definition["Legacy Layouts enabled"] = "Aspectele vechi sunt activate";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Rețineți că această modificare a aspectului nu va fi vizibilă până când nu treceți la aspecte personalizate.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Această modificare de aspect nu va fi vizibilă până când nu treceți comunitatea la <0/> personalizat în pagina <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Setați ca aspect implicit pentru anumite baze de cunoștințe.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Site-ul nu vă permite să vă conectați cu un utilizator existent.";
+$Definition["The username you entered has already been taken."] =
+    "Numele de utilizator introdus este deja utilizat.";
+$Definition["There was an error fetching the connection data."] =
+    "A apărut o eroare la preluarea datelor de conexiune.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Nu s-a putut autentifica solicitarea de resetare a parolei. Încercați să utilizați din nou formularul de solicitare de resetare.";
+$Definition["Invitation not found."] = "Invitația nu a fost găsită.";
+
+$Definition['# of automation rules'] = 'Numărul de reguli de automatizare';
+$Definition['Add Template'] = 'Adăugați un șablon';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Alegeți cine ar trebui să primească acest e-mail atunci când se execută această regulă de automatizare';
+$Definition['Delete an email template.'] = 'Ștergeți un șablon de e-mail.';
+$Definition['Email Audience'] = 'Publicul de e-mailuri';
+$Definition['Email Template'] = 'Șablon de e-mail';
+$Definition['Email Templates'] = 'Șabloane de e-mail';
+$Definition['Email Template successfully deleted.'] = 'Șablonul de e-mail a fost șters cu succes.';
+$Definition['Email Template not enabled.'] = 'Șablonul de e-mail nu este activat.';
+$Definition['Email template not found.'] = 'Șablon de e-mail negăsit.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Numele șablonului de e-mail există deja. Introduceți un nume unic pentru a continua.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Șabloanele de e-mail pot fi utilizate împreună cu <0/> pentru a comunica cu utilizatorii pe baza activității membrilor sau a altor factori declanșatori ai comunității.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Activați această opțiune pentru a trimite un e-mail de urmărire atunci când regula este declanșată.';
+$Definition['Impacted User'] = 'Utilizator afectat';
+$Definition['Search and select one or more roles to receive this email'] = 'Căutați și selectați unul sau mai multe roluri pentru a primi acest e-mail';
+$Definition['Search and select one or more users to receive this email.'] = 'Căutați și selectați unul sau mai mulți utilizatori care vor primi acest e-mail.';
+$Definition['Select Roles'] = 'Selectați roluri';
+$Definition['Select User'] = 'Selectați utilizatorul';
+$Definition['Select the email template to send.'] = 'Selectați șablonul de e-mail de trimis.';
+$Definition['Send an Email After This Rule Runs'] = 'Trimiteți un e-mail după executarea acestei reguli';
+$Definition['Send email'] = 'Trimiteți e-mail';
+$Definition['Send the email'] = 'Trimiteți e-mailul';
+$Definition['Send email to user'] = 'Trimiteți un e-mail utilizatorului';
+$Definition['Specific Roles'] = 'Roluri specifice';
+$Definition['Specific Users'] = 'Utilizatori specifici';
+$Definition['System email templates cannot be deleted.'] = 'Șabloanele de e-mail de sistem nu pot fi șterse.';
+$Definition['template name'] = 'nume șablon';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Folosește această pagină pentru a crea și gestiona șabloanele, apoi configurează <0/> pentru a controla când și cui este trimis fiecare e-mail.';
+$Definition['View the full list of available placeholders.'] = 'Vizualizați lista completă de substituenți disponibili.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'De asemenea, puteți include provizorii în conținutul e-mailului; aceștia vor fi înlocuiți automat cu informații relevante despre utilizator sau postare atunci când e-mailul este trimis. De exemplu, Bună ziua {user.name}! sau Vizitați {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Nu puteți șterge e-mailurile de sistem';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Nu puteți șterge un șablon utilizat în regulile de automatizare.';
+$Definition['You will no longer receive community engagement emails.'] = 'Nu veți mai primi e-mailuri despre implicarea comunității.';
+$Definition['Delete Email Template'] = 'Ștergeți șablonul de e-mail';
+$Definition["Template Styles"] = "Stiluri de șabloane";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Lăsați orice câmp necompletat pentru a utiliza stilurile de e-mail implicite, așa cum sunt configurate în <0>Setări e-mail</0> pagină.";

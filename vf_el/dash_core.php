@@ -1705,3 +1705,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Γνωσιακές Βάσεις Zendes
 $Definition['Zoom Meeting ID or URL'] = 'Αναγνωριστικό ή URL συνάντησης ζουμ';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} αποδέχτηκε την απάντηση {NotifyUserID,your} σε μια ερώτηση: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Λογότυπο κινητού";
+$Definition["Banner Image"] = "Εικόνα Πανό";
+$Definition["Disable Forum Pages"] = "Απενεργοποίηση σελίδων φόρουμ";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Επίλεξε την προεπιλεγμένη μορφοποίηση του επεξεργαστή για αναρτήσεις στην κοινότητα.";
+$Definition["InputFormatter.Notes2"] =
+    "Ο επεξεργαστής θα εντοπίζει αυτόματα τη μορφοποίηση των παλαιότερων αναρτήσεων όταν τους επεξεργάζεσαι και θα φορτώνει τους αρχικούς κανόνες μορφοποίησης. Πέρα από την εξαίρεση αυτή, η επιλεγμένη μορφοποίηση αναρτήσεων παρακάτω θα είναι η προεπιλογή.";
+$Definition["Formatting Posts"] = "Μορφοποίηση Αναρτήσεων";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Επίλεξε μία μορφοποίηση επεξεργαστή για κινητά τηλέφωνα.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Εάν συμβαίνει το ίδιο με τα κινητές τηλέφωνα, επίλεξε το ίδιο όπως και παραπάνω. Εάν οι χρήστες αναφέρουν προβλήματα με την επεξεργασία σε κινητά, αυτή είναι μία καλή επιλογή να αλλάξεις.";
+$Definition["Note:"] = "Σημείωση:";
+$Definition["Post Format"] = "Μορφοποίηση Αναρτήσεων";
+$Definition["Posting"] = "Ανάρτηση";
+$Definition["Reinterpret All Posts As %s"] = "Επανερμηνεία όλων των αναρτήσεων ως %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Πείτε στον συντάκτη να ερμηνεύσει ξανά όλες τις παλιές αναρτήσεις ως %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Αυτή η ρύθμιση θα τεθεί σε ισχύ μόνο εάν το %s έχει επιλεγεί ως Μορφή ανάρτησης παραπάνω.";
+$Definition["This option is to normalize the editor format"] =
+    "Αυτή η επιλογή είναι για την κανονικοποίηση της μορφής του προγράμματος επεξεργασίας, εάν φορτωθούν παλαιότερες αναρτήσεις που έχουν υποστεί επεξεργασία με άλλη μορφή, όπως markdown ή BBCode, αυτή η επιλογή θα αναγκάσει το %s.";
+
+$Definition["Mobile Format"] = "Μορφοποίηση Κινητών";
+$Definition["Enable Rich Quotes"] = "Αποδοχή Παραθέσεων Rich";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Χρησιμοποιήστε την παρακάτω επιλογή για να ενεργοποιήσετε τις προσφορές για τον Εμπλουτισμένο επεξεργαστή. Αυτό θα ισχύει μόνο εάν ο προεπιλεγμένος μορφοποιητής είναι "Πλούσιος".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Προεπιλεγμένο ενδεικτικό θέσης";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Ανεβάστε μία ενδεικτική εικόνα που θα εμφανίζεται όταν οι χρήστες δεν έχουν εικόνα στην ανάρτησή τους.";
+$Definition["Additional classes"] = "Επιπλέον τάξεις";
+$Definition["Apply additional classes on catalogue image."] =
+    "Εφάρμοσε επιπλέον τάξεις στην εικόνα καταλόγου. Χρησιμοποίησε κενό για να διαχωρίσεις κάθε τάξη.";
+$Definition["Category only"] = "Μόνο κατηγορία";
+$Definition["Display on category page only."] =
+    "Εμφάνιση στη σελίδα κατηγοριών μόνο. Δεν επηρεάζει τη λίστα πρόσφατων συζητήσεων.";
+$Definition["Use Masonry display"] = "Χρήση διάταξης Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Για κάθε συζήτηση θα εμφανίζεται μία αναρτημένη εικόνα στη σελίδα Κατηγορίες. Αυτό ισχύει μόνο για τις κατηγορίες με το «Συζητήσεις» στο «Εμφάνιση ως».';
+$Definition["Upload Placeholder Image"] = "Ανεβάστε Ενδεικτική Εικόνα";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Παρουσιάστηκε σφάλμα κατά την αποθήκευση των αλλαγών σας. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.";
+$Definition["<0/> has been <1/>"] = "Το <0/> ήταν <1/>";
+$Definition["enabled"] = "ενεργοποιημένη";
+$Definition["disabled"] = "άτομα με ειδικές ανάγκες";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Αυτές οι πληροφορίες θα εμφανίζονται μόνο σε χρήστες με άδεια προβολής εσωτερικών πληροφοριών";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Αυτές είναι ιδιωτικές πληροφορίες και δεν θα κοινοποιηθούν σε άλλα μέλη.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Αυτό θα δημιουργήσει μια σύσκεψη Zoom εκ μέρους του κατόχου της ενσωμάτωσης του Zoom και εάν είστε εγγεγραμμένος χρήστης, θα σας προσθέσει ως cohost. Εάν δεν είστε εγγεγραμμένος χρήστης του Zoom ή δεν είστε μέλος του οργανισμού που δημιούργησε την ενσωμάτωση, αυτό το συμβάν μπορεί να έχει περιορισμένη λειτουργικότητα Zoom χωρίς τον κεντρικό υπολογιστή.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Δεν μπορείτε να ενημερώσετε τη διεύθυνση URL ή το αναγνωριστικό ζουμ αυτού του συμβάντος.';
+
+$Definition["Zoom Meeting ID or URL"] = "Αναγνωριστικό ή URL συνάντησης ζουμ";
+
+// Automation Rules
+$Definition["Add tag"] = "Προσθήκη ετικέτας";
+$Definition["A post"] = "Μια ανάρτηση";
+$Definition["A post has been added to a collection"] =
+    "Μια ανάρτηση προστέθηκε σε μια συλλογή";
+$Definition["A post has not had any activity"] =
+    "Μια ανάρτηση δεν είχε καμία δραστηριότητα";
+$Definition["A question"] = "Μια ερώτηση";
+$Definition["A user has been registered"] = "Ένας χρήστης έχει εγγραφεί";
+$Definition["A post has received"] = "Έχει ληφθεί μια ανάρτηση";
+$Definition["Date field reached"] = "Πεδίο ημερομηνίας επίτευξης";
+$Definition["A user registers or logs in with email domain:"] =
+    "Ένας χρήστης εγγράφεται ή συνδέεται με τον τομέα email:";
+$Definition["A user registers or updates a profile field:"] =
+    "Ένας χρήστης εγγράφει ή ενημερώνει ένα πεδίο προφίλ:";
+$Definition["Add tags:"] = "Προσθήκη ετικετών:";
+$Definition["Add to collection:"] = "Προσθήκη στη συλλογή:";
+$Definition["An idea has received"] = "Έλαβε μια ιδέα";
+$Definition["and"] = "και";
+$Definition["and assign to"] = "και αναθέστε σε";
+$Definition["and remove role"] = "και αφαιρέστε ρόλο";
+$Definition["and remove from community"] = "και αφαιρέστε από την κοινότητα";
+$Definition["Assign role:"] = "Αναθέστε ρόλο:";
+$Definition["Assign/Remove role"] = "Εκχώρηση/Αφαίρεση ρόλου";
+$Definition["Auto-run disabled."] = "Η αυτόματη εκτέλεση είναι απενεργοποιημένη.";
+$Definition["Auto-run enabled."] = "Ενεργοποιήθηκε η αυτόματη εκτέλεση.";
+$Definition["Automation rule successfully created."] =
+    "Ο κανόνας αυτοματισμού δημιουργήθηκε με επιτυχία.";
+$Definition["Automation rule successfully updated."] =
+    "Ο κανόνας αυτοματισμού ενημερώθηκε με επιτυχία.";
+$Definition["Bump post"] = "Ανάρτηση πρόσκρουσης";
+$Definition["Change the status of the idea to"] =
+    "Αλλάξτε την κατάσταση της ιδέας σε";
+$Definition["Change status"] = "Αλλαγή κατάστασης";
+$Definition["Close post"] = "Κλείσιμο ανάρτησης";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Κριτήρια αντιστοίχισης σχολίων τώρα: <0 />";
+$Definition["created by"] = "δημιουργήθηκε από";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Δημιουργήστε και διαχειριστείτε αυτοματισμούς για εύκολη διαχείριση αναρτήσεων και χρηστών.";
+$Definition["Create/Edit Automation Rule"] = "Δημιουργία/Επεξεργασία κανόνα αυτοματισμού";
+$Definition["Delete Rule"] = "Διαγραφή κανόνα";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Συζητήσεις που ταιριάζουν με τα κριτήρια τώρα: <0 />";
+$Definition["Edit Rule"] = "Επεξεργασία κανόνα";
+$Definition["Edit Variables"] = "Επεξεργασία μεταβλητών";
+$Definition["Escalate it"] = "Κλιμακώστε το";
+$Definition["Escalate to GitHub"] = "Κλιμακώστε στο GitHub";
+$Definition["Escalate to Zendesk"] = "Κλιμακώστε στο Zendesk";
+$Definition["Expand"] = "Διαστέλλω";
+$Definition["Failed to disable the rule"] = "Η απενεργοποίηση του κανόνα απέτυχε";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Αποτυχία φόρτωσης των δεδομένων προεπισκόπησης. Ελέγξτε τις τιμές ενεργοποίησης και ενέργειας.";
+$Definition["Follow categories:"] = "Ακολουθήστε τις κατηγορίες:";
+$Definition["Follow category"] = "Ακολουθήστε την κατηγορία";
+$Definition["for"] = "για";
+$Definition["has been unanswered"] = "έχει μείνει αναπάντητη";
+$Definition["has not received any comments"] = "δεν έχει λάβει κανένα σχόλιο";
+$Definition["Last reported"] = "Τελευταία αναφορά";
+$Definition["Maximum Limit Reached"] = "Συμπληρώθηκε το μέγιστο όριο";
+$Definition["Move post"] = "Μετακίνηση ανάρτησης";
+$Definition["Move to category:"] = "Μετακίνηση στην κατηγορία:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Τα πεδία πολλαπλής επιλογής θα ενεργοποιηθούν εάν ο χρήστης πληροί ΟΠΟΙΟΔΗΠΟΤΕ από τα κριτήρια.";
+$Definition["New/Updated Email domain"] = "Νέος/Ενημερωμένος τομέας email";
+$Definition["New/Updated Profile field"] = "Πεδίο Νέο/Ενημερωμένο προφίλ";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Σημείωση: Οι ενέργειες δεν θα επηρεάσουν το <0 /> που έχει ήδη εφαρμοστεί η σχετική ενέργεια.";
+$Definition["Post Management"] = "Διαχείριση Ταχυδρομείων";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Αναρτήσεις που ταιριάζουν με κριτήρια τώρα: <0 />";
+$Definition["Remove from collection"] = "Αφαίρεση από τη συλλογή";
+$Definition["Remove from collection:"] = "Αφαίρεση από τη συλλογή:";
+$Definition["Remove from default follow list"] =
+    "Αφαίρεση από την προεπιλεγμένη λίστα παρακολούθησης";
+$Definition["Remove from trigger collection"] =
+    "Αφαίρεση από τη συλλογή σκανδάλης";
+$Definition["report"] = "έκθεση";
+$Definition["reports"] = "εκθέσεις";
+$Definition["Rule Action"] = "Κανόνας Δράση";
+$Definition["Rule may not be deleted while it is running"] =
+    "Ο κανόνας δεν μπορεί να διαγραφεί ενώ εκτελείται";
+$Definition["Rule may not be edited while it is running"] =
+    "Δεν επιτρέπεται η επεξεργασία του κανόνα ενώ εκτελείται";
+$Definition["Rule Name"] = "Όνομα κανόνα";
+$Definition["Rule status will apply once current run completes"] =
+    "Η κατάσταση κανόνα θα εφαρμοστεί μόλις ολοκληρωθεί η τρέχουσα εκτέλεση";
+$Definition["Rule Trigger"] = "Σκανδάλη κανόνα";
+$Definition["Running"] = "Τρέξιμο";
+$Definition["See documentation for more information."] =
+    "Δείτε την τεκμηρίωση για περισσότερες πληροφορίες.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Επιλέξτε την ενέργεια που θα συμβεί όταν ενεργοποιηθεί αυτός ο κανόνας.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Επιλέξτε το έναυσμα που θα προκαλέσει την εκτέλεση αυτού του κανόνα.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Ορίστε τη μεταβλητή ενεργοποίησης και τη μεταβλητή ενέργειας για να δημιουργήσετε μια σύνοψη κανόνων.";
+$Definition["sentiment"] = "συναίσθημα";
+$Definition["since"] = "από";
+$Definition["Summary"] = "Περίληψη";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Η ενέργεια θα εφαρμοστεί μόνο σε αυτούς εάν συνεχίσετε.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Η ενέργεια θα ισχύει για αυτούς όταν ενεργοποιηθεί ο κανόνας. Στο μέλλον, η ενέργεια θα εφαρμόζεται και σε άλλους <0 /> που πληρούν τα κριτήρια ενεργοποίησης.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Αυτό δεν θα επηρεάσει κανένα <0 /> αυτήν τη στιγμή. Θα επηρεάσει όσους πληρούν τα κριτήρια στο μέλλον.";
+$Definition["Time since added to collection"] =
+    "Χρόνος από τότε που προστέθηκε στη συλλογή";
+$Definition["Time since post has had no comments"] =
+    "Ο χρόνος από την ανάρτηση δεν είχε σχόλια";
+$Definition["Time since Registration"] = "Χρόνος από την εγγραφή";
+$Definition["Time since post has had no activity"] =
+    "Ο χρόνος από την ανάρτηση δεν είχε καμία δραστηριότητα";
+$Definition["Time since question has been unanswered"] =
+    "Ο χρόνος από τότε που η ερώτηση είναι αναπάντητη";
+$Definition["Trigger"] = "Σκανδάλη";
+$Definition["Unsaved Changes"] = "Μη αποθηκευμένες αλλαγές";
+$Definition["Up to <0 /> ago."] = "Έως και <0 /> πριν.";
+$Definition["upvote"] = "υπερψήφιση";
+$Definition["upvotes"] = "υπέρ ψήφους";
+$Definition["User Management"] = "Διαχείριση χρηστών";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Χρήστες που ταιριάζουν τώρα με κριτήρια: <0 />";
+$Definition["Value is not a valid integer."] = "Η τιμή δεν είναι έγκυρος ακέραιος αριθμός.";
+$Definition["View History"] = "Προβολή Ιστορικού";
+$Definition["Votes on an idea"] = "Ψηφοφορία για μια ιδέα";
+$Definition["with"] = "με";
+$Definition["with reason"] = "με λόγο";
+$Definition["with tag"] = "με ετικέτα";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Δεν μπορείτε να προσθέσετε περισσότερους από 150 κανόνες αυτοματισμού. Διαγράψτε ορισμένους κανόνες και δοκιμάστε ξανά.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Κανένα εικονίδιο δεν ταιριάζει με αυτά τα φίλτρα.";
+$Definition["Manage Icon"] = "Διαχείριση εικονιδίου";
+$Definition["Manage Icons"] = "Διαχείριση εικονιδίων";
+$Definition["Manage Icon helptext"] =
+    "Μπορείτε να διαχειριστείτε τα εικονίδια συστήματος και ιστορικών εδώ. Κατά τη μεταφόρτωση, βεβαιωθείτε ότι το εικονίδιο είναι σε μορφή SVG, περιλαμβάνει ένα χαρακτηριστικό viewBox και χρησιμοποιεί το χρώμα #000000 για να διασφαλιστεί ότι μπορεί να χρωματιστεί δυναμικά με βάση τις ρυθμίσεις θέματος και τις αλληλεπιδράσεις των χρηστών. Μόνο ένα εικονίδιο από κάθε τύπο μπορεί να είναι ενεργό κάθε φορά.";
+$Definition["Upload New Icon"] = "Φόρτωση νέου εικονιδίου";
+$Definition["Active Icon"] = "Ενεργό εικονίδιο";
+$Definition["New Icon"] = "Νέο εικονίδιο";
+$Definition["Icon Type"] = "Τύπος εικονιδίου";
+$Definition["Previous Icons"] = "Προηγούμενα εικονίδια";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Οι προηγούμενες εκδόσεις των εικονιδίων σας μπορούν να βρεθούν εδώ και να αποκατασταθούν ανά πάσα στιγμή.";
+$Definition["Set as Active"] = "Ορίστε ως Ενεργό";
+$Definition["Uploaded <0/> by <1/>"] = "Μεταφορτώθηκε <0/> από <1/>";
+$Definition["Icon Packs"] = "Πακέτα εικονιδίων";
+$Definition["Download Active Icon Pack"] = "Κατεβάστε το Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Κατεβάστε το πακέτο εικονιδίων συστήματος";
+$Definition["Upload Icon Pack"] = "Μεταφορτώστε το πακέτο εικονιδίων";
+$Definition["Preview Icon Pack"] = "Προεπισκόπηση πακέτου εικονιδίων";
+$Definition["Changed Icons"] = "Αλλαγμένα εικονίδια";
+$Definition["Icon Name"] = "Όνομα εικονιδίου";
+$Definition["All icons in this icon pack are currently active."] =
+    "Όλα τα εικονίδια σε αυτό το πακέτο εικονιδίων είναι ενεργά αυτήν τη στιγμή.";
+$Definition["Activate Icon Pack"] = "Ενεργοποιήστε το Icon Pack";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Εμφάνιση μόνο εικονιδίων που έχουν παρακαμφθεί με προσαρμοσμένα εικονίδια.";
+$Definition["System Icon"] = "Εικονίδιο συστήματος";
+$Definition["Custom Icon"] = "Προσαρμοσμένο εικονίδιο";
+$Definition["Only show icons that are default system icons."] =
+    "Εμφάνιση μόνο εικονιδίων που είναι προεπιλεγμένα εικονίδια συστήματος.";
+$Definition["Previews"] = "Προεπισκοπήσεις";
+$Definition["Icon Size"] = "Μέγεθος εικονιδίου";
+$Definition["This is the actual size most icons render at."] =
+    "Αυτό είναι το πραγματικό μέγεθος στο οποίο αποδίδονται τα περισσότερα εικονίδια.";
+$Definition["Preview Color"] = "Χρώμα προεπισκόπησης";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Αυτό το χρώμα θα χρησιμοποιηθεί για την προεπισκόπηση του χρώματος του εικονιδίου. Θα αντικαταστήσει οποιαδήποτε χρήση του #000000 στα εικονίδια που ανεβάσατε. Στην πραγματική εφαρμογή, τα χρώματα θα είναι δυναμικά.";
+$Definition["Escalation Name"] = "Όνομα κλιμάκωσης";
+$Definition["Status on Creation"] = "Κατάσταση δημιουργίας";
+$Definition["Assignee"] = "Εντολοδόχος";
+$Definition["Internal Comment"] = "Εσωτερικό σχόλιο";
+$Definition["Set Post Visibility to Hidden"] = "Ορίστε την ορατότητα ανάρτησης σε Κρυφή";
+$Definition["Remove Method"] = "Μέθοδος κατάργησης";
+$Definition["Wipe"] = "Σκουπίζω";
+$Definition["Newest Post"] = "Νεότερη ανάρτηση";
+$Definition["Oldest Post"] = "Παλαιότερη ανάρτηση";
+$Definition["Triage"] = "Διαλογή";
+$Definition["Triage Dashboard"] = "Triage Dashboard";
+$Definition["Message Post Author"] = "Συντάκτης ανάρτησης μηνύματος";
+$Definition["Add Filter"] = "Προσθήκη φίλτρου";
+$Definition["Customer Support"] = "Υποστήριξη Πελατών";
+$Definition["My Profile"] = "Το προφίλ μου";
+$Definition["Resolve post"] = "Επίλυση ανάρτησης";
+$Definition["View post in community"] = "Προβολή ανάρτησης στην κοινότητα";
+$Definition["View Details"] = "Προβολή λεπτομερειών";
+$Definition["Escalate"] = "Κλιμακώνω";
+$Definition["Posted by <0/> in <1/>"] = "Δημοσιεύτηκε από <0/> σε <1/>";
+$Definition["Show"] = "Εμφάνιση";
+$Definition["View Escalation"] = "Προβολή κλιμάκωσης";
+$Definition["# Reports"] = "# Αναφορές";
+$Definition["Last Reported"] = "Τελευταία αναφορά";
+$Definition["Report Reasons"] = "Αναφορά Λόγοι";
+$Definition["Last Modified"] = "Τελευταία Τροποποίηση";
+$Definition["Last refreshed <0/> by <1/>."] = "Τελευταία ανανέωση <0/> από <1/>.";
+
+$Definition["Moderation Content"] = "Περιεχόμενο Συντονισμού";
+$Definition["AI Settings"] = "Ρυθμίσεις AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "Ανάπτυξη VIP";
+$Definition["Activity & Registration"] = "Δραστηριότητα & Εγγραφή";
+$Definition["Content Settings"] = "Ρυθμίσεις περιεχομένου";
+$Definition["Premoderation Settings"] = "Ρυθμίσεις Premoderation";
+$Definition["Escalation Rules"] = "Κανόνες κλιμάκωσης";
+$Definition["Automation"] = "Αυτοματοποίηση";
+$Definition["Audit Log"] = "Μητρώο ελέγχου";
+$Definition["Community Management"] = "Κοινοτική Διοίκηση";
+$Definition["Visualize Your Community"] = "Οπτικοποιήστε την κοινότητά σας";
+$Definition["Customize your community"] = "Προσαρμόστε την κοινότητά σας";
+$Definition["Configuration & Addons"] = "Διαμόρφωση και πρόσθετα";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε το %s σας;";
+$Definition["Newest Report"] = "Νεότερη Έκθεση";
+$Definition["Oldest Report"] = "Παλαιότερη Έκθεση";
+$Definition["Report Dismissed"] = "Η αναφορά απορρίφθηκε";
+$Definition["Post Rejected"] = "Η ανάρτηση απορρίφθηκε";
+$Definition["Escalated"] = "Κλιμακώθηκε";
+$Definition["Reported by <0/>"] = "Αναφέρθηκε από <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Δεν παρασχέθηκαν σημειώσεις αναφοράς από το <0/>";
+$Definition["Create"] = "Δημιουργία";
+$Definition["Edited"] = "Επεξεργάστηκε";
+$Definition["Newest Escalation"] = "Νεότερη κλιμάκωση";
+$Definition["Oldest Escalation"] = "Παλαιότερη κλιμάκωση";
+$Definition["Escalations Dashboard"] = "Κλιμακώσεις Ταμπλό";
+$Definition["On Hold"] = "Σε αναμονή";
+$Definition["Done"] = "Γινώμενος";
+$Definition["In Jira"] = "Στη Τζίρα";
+$Definition["In Zendesk"] = "Στο Zendesk";
+$Definition["Integrations"] = "Ενσωματώσεις";
+$Definition["Remove Post"] = "Κατάργηση ανάρτησης";
+$Definition["Escalated by <0/>"] = "Κλιμακώθηκε κατά <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Εισαγάγετε έναν τίτλο για αυτήν την κλιμάκωση";
+$Definition["Escalated by <0/>"] = "Κλιμακώθηκε κατά <0/>";
+$Definition["Post Revision"] = "Δημοσίευση αναθεώρησης";
+$Definition["Loader"] = "Φορτωτής";
+$Definition["a month"] = "ένα μήνα";
+$Definition["%s ago"] = "πριν από %s";
+$Definition["Live"] = "Ζω";
+$Definition["Live Post"] = "Ζωντανή ανάρτηση";
+$Definition["Remove Post"] = "Κατάργηση ανάρτησης";
+$Definition["Internal Comments"] = "Εσωτερικά σχόλια";
+$Definition["Add a comment"] = "Προσθέστε ένα σχόλιο";
+$Definition["Live"] = "Ζω";
+$Definition["There are currently no comments on this post"] =
+    "Προς το παρόν δεν υπάρχουν σχόλια σε αυτήν την ανάρτηση";
+$Definition["All comments on this post will appear here"] =
+    "Όλα τα σχόλια σε αυτήν την ανάρτηση θα εμφανίζονται εδώ";
+$Definition["Reports for <0/>"] = "Αναφορές για <0/>";
+$Definition["Live Post"] = "Ζωντανή ανάρτηση";
+$Definition["There are currently no reports for this post."] =
+    "Δεν υπάρχουν προς το παρόν αναφορές για αυτήν την ανάρτηση.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Εδώ θα εμφανιστεί μια λίστα με αναφορές που σχετίζονται με αυτήν την ανάρτηση.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Διαμορφώστε πού αποστέλλονται οι αναφορές και διαχειριστείτε τους λόγους αναφοράς της κοινότητάς σας.";
+$Definition["New Community Management System"] =
+    "Νέο Σύστημα Διαχείρισης Κοινότητας";
+$Definition["Enable Triage Dashboard"] = "Ενεργοποίηση Triage Dashboard";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Όλοι οι χρήστες με άδεια προσωπικού θα μπορούν να βλέπουν και να επισημαίνουν συζητήσεις ως επιλυμένες ή μη. Αυτοί οι χρήστες θα μπορούν επίσης να έχουν πρόσβαση στον πίνακα ελέγχου διαλογής για να εποπτεύουν τις κατηγορίες τους.";
+$Definition["Resolve All Discussions"] = "Επίλυση όλων των συζητήσεων";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Η επίλυση όλων των αναρτήσεων θα επιλύσει όλες τις υπάρχουσες αναρτήσεις στην κοινότητα. Αυτή η μαζική ενέργεια δεν θα ενεργοποιήσει webhook ή αναλυτικά στοιχεία.";
+$Definition["Resolve All"] = "Επίλυση όλων";
+$Definition["Required field"] = "Υποχρεωτικό πεδίο";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Το νέο σύστημα διαχείρισης κοινότητας επιτρέπει προσαρμοσμένους λόγους αναφοράς, κλιμακώσεις, αναθέσεις και κανόνες αυτοματισμού. Ενεργοποίηση αυτής της αλλαγής στην αναφορά πρόσληψης για χρήση του νέου συστήματος. <0>Διαβάστε περισσότερα</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Αυτό θα επιλύσει όλες τις υπάρχουσες αναρτήσεις στην κοινότητα. Αυτή η μαζική ενέργεια δεν θα ενεργοποιήσει webhook ή αναλυτικά στοιχεία καταγραφής. Συνεχίζω;";
+$Definition["Reorder"] = "Παραγγέλλω πάλι";
+$Definition["Add Reason"] = "Προσθήκη Λόγου";
+$Definition["Delete?"] = "Διαγράφω;";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λόγο;";
+$Definition["A concise name for the report reason."] =
+    "Ένα συνοπτικό όνομα για τον λόγο αναφοράς.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Μια μοναδική ετικέτα για τον λόγο αναφοράς. Αυτή η ετικέτα δεν μπορεί να αλλάξει αφού αποθηκευτεί.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Μια επεξήγηση του λόγου αναφοράς για τους καλύτερους ρεπόρτερ να κάνουν τη σωστή επιλογή όταν αναφέρουν μια ανάρτηση.";
+$Definition["The roles which can see this report reason."] =
+    "Αιτία είναι οι ρόλοι που μπορούν να δουν αυτήν την αναφορά.";
+$Definition["Add Report Reason"] = "Προσθήκη αιτίας αναφοράς";
+$Definition["Discard Changes?"] = "Απόρριψη αλλαγών;";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Είστε βέβαιοι ότι θέλετε να βγείτε χωρίς αποθήκευση;";
+$Definition["Reorder Report Reasons"] = "Αναπαραγγελία Λόγοι αναφοράς";
+$Definition["Edit Report Reason"] = "Επεξεργασία αναφοράς Αιτία";
+$Definition["Delete Report Reason"] = "Αιτία διαγραφής αναφοράς";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Αυτή η ρύθμιση πρέπει να είναι ενεργοποιημένη για τη χρήση προσαρμοσμένων νημάτων συζήτησης.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Διαμορφώστε τις ρυθμίσεις που χρησιμοποιούνται για την αυτόματη εποπτεία του περιεχομένου της κοινότητας πριν καν δημιουργηθεί. Οι επιλογές περιλαμβάνουν αυτοματοποιημένες ανιχνεύσεις ανεπιθύμητων μηνυμάτων, απαίτηση έγκρισης για δημοσίευση σε ορισμένες κατηγορίες και απαίτηση έγκρισης για δημοσίευση με χρήση συγκεκριμένων λέξεων-κλειδιών ή φράσεων.";
+$Definition["Spam Detection"] = "Ανίχνευση ανεπιθύμητων μηνυμάτων";
+$Definition["Learn more."] = "Μάθετε περισσότερα.";
+$Definition["documentation."] = "απόδειξη με έγγραφα.";
+$Definition["Verify browsers of new members"] =
+    "Επαληθεύστε τα προγράμματα περιήγησης νέων μελών";
+$Definition["Challenge Cutoff Age"] = "Challenge Cutoff Age";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Αριθμός ημερών από την εγγραφή για παράκαμψη της πρόκλησης Cloudflare";
+$Definition["Save challenge cutoff age"] = "Εξοικονόμηση ηλικίας αποκοπής πρόκλησης";
+$Definition["Premoderated Roles"] = "Προσυντονισμένοι Ρόλοι";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Οι χρήστες με το δικαίωμα \"Approval.Require\" θα απαιτούν την έγκριση του επόπτη για όλες τις αναρτήσεις.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Οι χρήστες που έχουν επισημανθεί ως \"Επαληθευμένος\" θα παρακάμψουν αυτήν την απαίτηση. Αυτοί είναι οι ρόλοι με \"Approval.Require\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Προς το παρόν, κανένας ρόλος δεν έχει οριστεί να απαιτεί εκ των προτέρων συντονισμό.";
+$Definition["Edit Roles"] = "Επεξεργασία ρόλων";
+$Definition["Premoderated Categories"] = "Προσυντονισμένες Κατηγορίες";
+$Definition["No categories are currently set to require premoderation."] =
+    "Προς το παρόν, καμία κατηγορία δεν έχει οριστεί να απαιτεί εκ των προτέρων συντονισμό.";
+$Definition["Edit Categories"] = "Επεξεργασία Κατηγοριών";
+$Definition["Premoderated Keywords"] = "Προσυντονισμένες λέξεις-κλειδιά";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Οι αναρτήσεις με οποιαδήποτε από τις ακόλουθες λέξεις-κλειδιά ή φράσεις θα απαιτούν έγκριση από τον συντονιστή.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Προς το παρόν, καμία λέξη-κλειδί δεν έχει οριστεί να απαιτεί εκ των προτέρων συντονισμό.";
+$Definition["Edit Keywords"] = "Επεξεργασία λέξεων-κλειδιών";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Ενεργοποιήστε το Akismet να φιλτράρει ανεπιθύμητα μηνύματα σε όλες τις αναρτήσεις από εγγραφές αιτούντων και μη επαληθευμένους χρήστες. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Ενεργοποιήστε το Stopforumspam για να ελέγχει τους χρήστες της κοινότητας σε σχέση με μια λίστα αναφερόμενων ανεπιθύμητων μηνυμάτων και είτε αναφέρει την ανάρτηση ως ανεπιθύμητη είτε τους απορρίπτει εντελώς. Η διαχείριση των ορίων αναφοράς και απόρριψης γίνεται στις ρυθμίσεις του <0>πρόσθετου</0> . Μάθετε περισσότερα στο <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Τα μη επαληθευμένα μέλη που βρίσκονται στην κοινότητα για λιγότερο από τον καθορισμένο αριθμό ημερών θα κληθούν να ολοκληρώσουν μια πρόκληση Cloudflare (Captcha ή Checkbox) για να αποτρέψουν τα ανεπιθύμητα μηνύματα. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "Το %s στις ακόλουθες κατηγορίες θα απαιτήσει την έγκριση του επόπτη.";
+$Definition["Default Sort Order"] = "Προεπιλεγμένη σειρά ταξινόμησης";
+$Definition["Choose the order records are sorted by default."] =
+    "Επιλέξτε τις εγγραφές παραγγελίας να ταξινομούνται από προεπιλογή.";
+$Definition["Show OP Indicator"] = "Εμφάνιση ένδειξης OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Εάν αυτή η επιλογή είναι ενεργοποιημένη, οι απαντήσεις από την αρχική αφίσα θα έχουν ένδειξη OP.";
+$Definition["Show Badges"] = "Εμφάνιση σημάτων";
+$Definition["Badges Limit"] = "Όριο σημάτων";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Εμφάνιση των σημάτων των χρηστών σε κάθε ανάρτηση. Μπορούν να εμφανίζονται έως και 5 σήματα κατά σειρά υψηλότερης κατάταξης.";
+$Definition["event"] = "συμβάν";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> περισσότερα σχόλια";
+$Definition["Export"] = "Εξαγωγή";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Οι τίτλοι της αρχικής σελίδας μπορούν να είναι μόνο από 1 έως 500 χαρακτήρες";
+$Definition["Address Bar Color"] = "Χρώμα γραμμής διευθύνσεων";
+$Definition["Meta Tags"] = "Μετα-ετικέτες";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Οι μετα-ετικέτες χρησιμοποιούνται για επαλήθευση τομέα για το Google Search Console και άλλες υπηρεσίες. Αντιγράψτε τις απαιτούμενες Meta Tags από την πηγή σας και επικολλήστε σε μια νέα γραμμή.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Ξοδέψτε λίγο χρόνο για να σκεφτείτε το πως θα περιγράψετε εδώ την ιστοσελίδα σας. Δίνοντας στην ιστοσελίδα σας έναν ουσιώδη τίτλο και μία σύντομη περιγραφή θα μπορούσε να βοηθήσει τη θέση σας στις μηχανές αναζήτησης.";
+$Definition["Style Guides"] = "Οδηγοί στυλ";
+$Definition["Branding & Assets"] = "Branding & Assets";
+$Definition["Home Pages"] = "Αρχικές Σελίδες";
+$Definition["Home Layout Settings"] = "Ρυθμίσεις διάταξης σπιτιού";
+$Definition["Category Pages"] = "Σελίδες κατηγορίας";
+$Definition["Category Layout Settings"] = "Ρυθμίσεις διάταξης κατηγορίας";
+$Definition["Category List Pages"] = "Σελίδες λίστας κατηγοριών";
+$Definition["Posting Category Pages"] = "Ανάρτηση σελίδων κατηγορίας";
+$Definition["Nested Category Pages"] = "Ένθετες σελίδες κατηγορίας";
+$Definition["Discussion Pages"] = "Σελίδες συζήτησης";
+$Definition["Idea Pages"] = "Σελίδες ιδεών";
+$Definition["Question Pages"] = "Σελίδες ερωτήσεων";
+$Definition["Post Pages"] = "Σελίδες ανάρτησης";
+$Definition["Post Layout Settings"] = "Ρυθμίσεις διάταξης ανάρτησης";
+$Definition["Create Post Pages"] = "Δημιουργία σελίδων ανάρτησης";
+$Definition["Create Post Layout Settings"] = "Δημιουργία ρυθμίσεων διάταξης ανάρτησης";
+$Definition["Event Pages"] = "Σελίδες εκδηλώσεων";
+$Definition["Event Layout Settings"] = "Ρυθμίσεις διάταξης συμβάντος";
+$Definition["Knowledge Base Pages"] = "Σελίδες Γνωσιακής Βάσης";
+$Definition["Knowledge Base Layout Settings"] =
+    "Ρυθμίσεις διάταξης γνωσιακής βάσης";
+$Definition["Knowledge Base Home Pages"] = "Αρχικές σελίδες της Γνωσιακής Βάσης";
+$Definition["Help Center Home Pages"] = "Αρχικές σελίδες του Κέντρου Βοήθειας";
+$Definition["Help Center Category Pages"] = "Σελίδες κατηγορίας Κέντρου βοήθειας";
+$Definition["Help Center Article Pages"] = "Σελίδες άρθρων του Κέντρου βοήθειας";
+$Definition["Guide Article Pages"] = "Σελίδες Οδηγών άρθρων";
+$Definition["Layouts"] = "Διατάξεις";
+$Definition["Add Custom Layout"] = "Προσθήκη προσαρμοσμένης διάταξης";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Επιλέξτε την προτιμώμενη διάταξη πρόσφατων αναρτήσεων παλαιού τύπου.";
+$Definition["Legacy Recent Posts Layouts"] = "Διατάξεις πρόσφατων αναρτήσεων παλαιού τύπου";
+$Definition["Change layout versions for the <0/>."] =
+    "Αλλάξτε τις εκδόσεις διάταξης για το <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Για να μάθετε περισσότερα, <0>δείτε την τεκμηρίωση</0> .";
+$Definition["Change %s"] = "Αλλαγή %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε το %s;";
+$Definition["Legacy Home Layouts"] = "Διατάξεις σπιτιού παλαιού τύπου";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Επιλέξτε την προτιμώμενη διάταξη σπιτιού παλαιού τύπου.";
+$Definition["Home Layout Version"] = "Έκδοση αρχικής διάταξης";
+$Definition["Custom Home Layouts"] = "Προσαρμοσμένες διατάξεις σπιτιού";
+$Definition["Legacy Category Layout"] = "Διάταξη κατηγορίας παλαιού τύπου";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Επιλέξτε την προτιμώμενη διάταξη κατηγορίας παλαιού τύπου.";
+$Definition["Category Layout Version"] = "Έκδοση διάταξης κατηγορίας";
+$Definition["Legacy Category Layouts"] = "Διατάξεις κατηγορίας παλαιού τύπου";
+$Definition["Custom Category Layouts"] = "Προσαρμοσμένες διατάξεις κατηγορίας";
+$Definition["Legacy Post Layout"] = "Διάταξη αναρτήσεων παλαιού τύπου";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Επιλέξτε την προτιμώμενη διάταξη ανάρτησης παλαιού τύπου.";
+$Definition["Post Layout Version"] = "Έκδοση διάταξης ανάρτησης";
+$Definition["Legacy Post Layouts"] = "Διατάξεις αναρτήσεων παλαιού τύπου";
+$Definition["Custom Post Layouts"] = "Προσαρμοσμένες διατάξεις αναρτήσεων";
+$Definition["Legacy Create Post Layout"] = "Legacy Δημιουργία διάταξης ανάρτησης";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Επιλέξτε την προτιμώμενη Διάταξη δημιουργίας ανάρτησης παλαιού τύπου.";
+$Definition["Create Post Layout Version"] = "Δημιουργία έκδοσης διάταξης ανάρτησης";
+$Definition["Legacy Create Post Layouts"] = "Παλαιού τύπου Δημιουργία διατάξεων αναρτήσεων";
+$Definition["Custom Create Post Layouts"] = "Προσαρμοσμένη δημιουργία διατάξεων αναρτήσεων";
+$Definition["Legacy Event Layout"] = "Διάταξη συμβάντων παλαιού τύπου";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Επιλέξτε την προτιμώμενη διάταξη συμβάντων παλαιού τύπου.";
+$Definition["Event Layout Version"] = "Έκδοση διάταξης συμβάντος";
+$Definition["Legacy Event Layouts"] = "Διατάξεις συμβάντων παλαιού τύπου";
+$Definition["Custom Event Layouts"] = "Προσαρμοσμένες διατάξεις συμβάντων";
+$Definition["Created <0/> by <1/>."] = "Δημιουργήθηκε <0/> από <1/>.";
+$Definition["Layout Options"] = "Επιλογές διάταξης";
+$Definition["Contextual Description"] = "Περιγραφή με βάση τα συμφραζόμενα";
+$Definition["Skip to end of Carousel"] = "Μετάβαση στο τέλος του Carousel";
+$Definition["Previous Slides"] = "Προηγούμενες Διαφάνειες";
+$Definition["Next Slides"] = "Επόμενες Διαφάνειες";
+$Definition["indicator navigation"] = "ενδεικτική πλοήγηση";
+$Definition["<0/> new"] = "<0/> νέο";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d διαφάνειες στην οθόνη αρχική διαφάνεια %d από %d";
+$Definition["Unassigned"] = "Χωρίς ανάθεση";
+$Definition["Apply Layout to Site Home Page"] =
+    "Εφαρμογή διάταξης στην αρχική σελίδα του ιστότοπου";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Ορισμός ως προεπιλεγμένη διάταξη για συγκεκριμένες υποκοινότητες.";
+$Definition["Apply to specific categories."] = "Εφαρμογή σε συγκεκριμένες κατηγορίες.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Αυτή η διάταξη δεν μπορεί να διαγραφεί επειδή είναι πρότυπο διάταξης.";
+$Definition["Delete Layout"] = "Διαγραφή διάταξης";
+$Definition["Are you sure you want to delete?"] =
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε;";
+$Definition["Applied"] = "Εφαρμοσμένος";
+$Definition["Applied as default"] = "Εφαρμόζεται ως προεπιλογή";
+$Definition["View Category"] = "Προβολή Κατηγορίας";
+$Definition["Apply to specific subcommunities."] =
+    "Εφαρμογή σε συγκεκριμένες υποκοινότητες.";
+$Definition["Unable to re-assign default template"] =
+    "Δεν είναι δυνατή η εκ νέου εκχώρηση προεπιλεγμένου προτύπου";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Αυτή η διάταξη είναι ένα πρότυπο και έχει εκχωρηθεί ως προεπιλογή για όλες τις σελίδες αυτού του τύπου. Για να το καταργήσετε ως προεπιλογή ή για να το αντιστοιχίσετε σε συγκεκριμένες σελίδες, πρέπει να ορίσετε μια διαφορετική διάταξη ως προεπιλογή.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Αυτή η διάταξη δεν μπορεί να διαγραφεί επειδή εφαρμόζεται αυτήν τη στιγμή.";
+$Definition["Set as default layout for all <0 />."] =
+    "Ορισμός ως προεπιλεγμένη διάταξη για όλα τα <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Διάταξη βάσης γνώσεων παλαιού τύπου";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Επιλέξτε την προτιμώμενη Διάταξη Γνωσιακής Βάσης παλαιού τύπου.";
+$Definition["Knowledge Base Layout Version"] = "Έκδοση διάταξης γνωσιακής βάσης";
+$Definition["Legacy Knowledge Base Layouts"] = "Διατάξεις γνωστικής βάσης παλαιού τύπου";
+$Definition["Custom Knowledge Base Layouts"] = "Προσαρμοσμένες διατάξεις γνωσιακής βάσης";
+$Definition["Article Count"] = "Αρίθμηση άρθρων";
+$Definition["Legacy Layouts enabled"] = "Οι Layouts παλαιού τύπου ενεργοποιήθηκαν";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Σημειώστε ότι αυτή η αλλαγή διάταξης δεν θα είναι ορατή μέχρι να μεταβείτε σε προσαρμοσμένες διατάξεις.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Αυτή η αλλαγή διάταξης δεν θα είναι ορατή μέχρι να αλλάξετε την κοινότητά σας σε προσαρμοσμένο <0/> στη σελίδα <1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Ορισμός ως προεπιλεγμένη διάταξη για συγκεκριμένες βάσεις γνώσεων.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Ο ιστότοπος δεν σας επιτρέπει να συνδεθείτε με έναν υπάρχοντα χρήστη.";
+$Definition["The username you entered has already been taken."] =
+    "Το όνομα χρήστη που εισαγάγατε έχει ήδη χρησιμοποιηθεί.";
+$Definition["There was an error fetching the connection data."] =
+    "Παρουσιάστηκε σφάλμα κατά την ανάκτηση των δεδομένων σύνδεσης.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Αποτυχία ελέγχου ταυτότητας του αιτήματος επαναφοράς κωδικού πρόσβασης. Δοκιμάστε ξανά να χρησιμοποιήσετε τη φόρμα αιτήματος επαναφοράς.";
+$Definition["Invitation not found."] = "Η πρόσκληση δεν βρέθηκε.";
+
+$Definition['# of automation rules'] = 'Αριθμός κανόνων αυτοματισμού';
+$Definition['Add Template'] = 'Προσθήκη προτύπου';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Επιλέξτε ποιος θα πρέπει να λαμβάνει αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου όταν εκτελείται αυτός ο κανόνας αυτοματοποίησης';
+$Definition['Delete an email template.'] = 'Διαγραφή ενός προτύπου email.';
+$Definition['Email Audience'] = 'Κοινό ηλεκτρονικού ταχυδρομείου';
+$Definition['Email Template'] = 'Πρότυπο ηλεκτρονικού ταχυδρομείου';
+$Definition['Email Templates'] = 'Πρότυπα ηλεκτρονικού ταχυδρομείου';
+$Definition['Email Template successfully deleted.'] = 'Το πρότυπο ηλεκτρονικού ταχυδρομείου διαγράφηκε με επιτυχία.';
+$Definition['Email Template not enabled.'] = 'Το πρότυπο ηλεκτρονικού ταχυδρομείου δεν είναι ενεργοποιημένο.';
+$Definition['Email template not found.'] = 'Το πρότυπο ηλεκτρονικού ταχυδρομείου δεν βρέθηκε.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Το όνομα του προτύπου email υπάρχει ήδη. Εισαγάγετε ένα μοναδικό όνομα για να συνεχίσετε.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Τα πρότυπα ηλεκτρονικού ταχυδρομείου μπορούν να χρησιμοποιηθούν σε συνδυασμό με το <0/> για την επικοινωνία με τους χρήστες με βάση τη δραστηριότητα των μελών ή άλλα ενεργοποιητικά στοιχεία της κοινότητας.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Ενεργοποιήστε αυτήν την επιλογή για να στείλετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου παρακολούθησης όταν ενεργοποιηθεί ο κανόνας.';
+$Definition['Impacted User'] = 'Επηρεαζόμενος χρήστης';
+$Definition['Search and select one or more roles to receive this email'] = 'Αναζητήστε και επιλέξτε έναν ή περισσότερους ρόλους για να λάβετε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου';
+$Definition['Search and select one or more users to receive this email.'] = 'Αναζητήστε και επιλέξτε έναν ή περισσότερους χρήστες για να λάβετε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.';
+$Definition['Select Roles'] = 'Επιλογή Ρόλων';
+$Definition['Select User'] = 'Επιλογή χρήστη';
+$Definition['Select the email template to send.'] = 'Επιλέξτε το πρότυπο email για αποστολή.';
+$Definition['Send an Email After This Rule Runs'] = 'Αποστολή email μετά την εκτέλεση αυτού του κανόνα';
+$Definition['Send email'] = 'Αποστολή email';
+$Definition['Send the email'] = 'Στείλτε το email';
+$Definition['Send email to user'] = 'Αποστολή email στον χρήστη';
+$Definition['Specific Roles'] = 'Συγκεκριμένοι Ρόλοι';
+$Definition['Specific Users'] = 'Συγκεκριμένοι χρήστες';
+$Definition['System email templates cannot be deleted.'] = 'Δεν είναι δυνατή η διαγραφή των προτύπων email συστήματος.';
+$Definition['template name'] = 'όνομα προτύπου';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Χρησιμοποιήστε αυτήν τη σελίδα για να δημιουργήσετε και να διαχειριστείτε τα πρότυπά σας και, στη συνέχεια, διαμορφώστε το <0/> σας ώστε να ελέγχετε πότε αποστέλλεται κάθε email και σε ποιον.';
+$Definition['View the full list of available placeholders.'] = 'Δείτε την πλήρη λίστα με τα διαθέσιμα placeholder.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Μπορείτε επίσης να συμπεριλάβετε placeholders στο περιεχόμενο του email σας—αυτά θα αντικαθίστανται αυτόματα με σχετικές πληροφορίες χρήστη ή ανάρτησης κατά την αποστολή του email. Για παράδειγμα, Γεια σας {user.name}! ή Δείτε το {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Δεν μπορείτε να διαγράψετε τα email του συστήματος';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Δεν μπορείτε να διαγράψετε ένα πρότυπο που χρησιμοποιείται σε κανόνες αυτοματισμού.';
+$Definition['You will no longer receive community engagement emails.'] = 'Δεν θα λαμβάνετε πλέον μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με την αλληλεπίδραση με την κοινότητα.';
+$Definition['Delete Email Template'] = 'Διαγραφή προτύπου ηλεκτρονικού ταχυδρομείου';
+$Definition["Template Styles"] = "Στυλ προτύπων";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Αφήστε οποιοδήποτε πεδίο κενό για να χρησιμοποιήσετε τα προεπιλεγμένα στυλ email, όπως έχουν διαμορφωθεί στις <0>Ρυθμίσεις email</0> σελίδα.";

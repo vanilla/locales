@@ -1686,3 +1686,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendesk-kennisbanken';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom-vergaderings-ID of URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} heeft het antwoord van {NotifyUserID,your} op een vraag geaccepteerd: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Mobiel logo";
+$Definition["Banner Image"] = "Bannerafbeelding";
+$Definition["Disable Forum Pages"] = "Forumpagina's uitschakelen";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Kies het standaardformaat voor de editor voor berichten in de gemeenschap.";
+$Definition["InputFormatter.Notes2"] =
+    "De editor zal bij het bewerken van oude berichten automatisch het formaat detecteren en hun oorspronkelijke opmaakregels laden. Deze uitzondering daargelaten, zal het gekozen formaat voor berichten voorrang krijgen.";
+$Definition["Formatting Posts"] = "Posts Formatteren";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Specificeer een bewerkingsformaat voor mobiele apparaten.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Kies dezelfde optie als hierboven als mobiele apparaten hetzelfde zouden moeten doen als andere apparaten. Als gebruikers problemen melden met mobiel bewerken, is dit een goede optie om aan te passen.";
+$Definition["Note:"] = "Merk op:";
+$Definition["Post Format"] = "Berichtformaat";
+$Definition["Posting"] = "Posten";
+$Definition["Reinterpret All Posts As %s"] = "Herinterpreteer alle berichten als %s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Vertel de redacteur om alle oude berichten te herinterpreteren als %s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Deze instelling wordt alleen van kracht als %s is gekozen als het postformaat hierboven.";
+$Definition["This option is to normalize the editor format"] =
+    "Deze optie is om het editorformaat te normaliseren. Als oudere berichten die met een ander formaat zijn bewerkt, zoals markdown of BBCode, worden geladen, zal deze optie %s forceren.";
+
+$Definition["Mobile Format"] = "Mobiel formaat";
+$Definition["Enable Rich Quotes"] = "Schakel verrijkte citaten in";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Gebruik de volgende optie om citaten in te schakelen voor de verrijkte editor. Dit zal alleen van toepassing zijn als de standaardopmaak \'verrijkt\' is.';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Standaard tijdelijke aanduiding";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Upload een tijdelijke aanduidingsafbeelding die wordt getoond als gebruikers geen afbeelding in hun bericht hebben.";
+$Definition["Additional classes"] = "Aanvullende klasses";
+$Definition["Apply additional classes on catalogue image."] =
+    "Pas aanvullende klasses toe op de catalogusafbeelding. Gebruik een spatie om elke klasse te scheiden.";
+$Definition["Category only"] = "Alleen categorie";
+$Definition["Display on category page only."] =
+    "Wordt alleen op categoriepagina getoond. De lijst met recente discussies zal niet worden beïnvloed.";
+$Definition["Use Masonry display"] = "Gebruik Masonry-display";
+$Definition["Show an uploaded image on the Category page."] =
+    'Elke discussie toont een geüploade afbeelding op de Categoriepagina. Dit geldt alleen voor categorieën met \'Discussies\' als de \'Tonen als\'.';
+$Definition["Upload Placeholder Image"] = "Upload tijdelijke aanduidingsafbeelding";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Er is een fout opgetreden bij het opslaan van uw wijzigingen. Probeer het opnieuw.";
+$Definition["<0/> has been <1/>"] = "<0/> is <1/> geweest";
+$Definition["enabled"] = "ingeschakeld";
+$Definition["disabled"] = "gehandicapt";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Deze informatie wordt alleen getoond aan gebruikers met toestemming om interne informatie te bekijken";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Dit is privé informatie en zal niet gedeeld worden met andere leden.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Hiermee wordt een Zoom-vergadering gemaakt namens de eigenaar van de Zoom-integratie en als u een geregistreerde gebruiker bent, wordt u toegevoegd als cohost. Als u geen geregistreerde Zoom-gebruiker bent of geen deel uitmaakt van de organisatie die de integratie heeft ingesteld, heeft dit evenement mogelijk beperkte Zoom-functionaliteit zonder de host.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'U kunt de Zoom-URL of -ID van dit evenement niet bijwerken.';
+
+$Definition["Zoom Meeting ID or URL"] = "Zoom-vergaderings-ID of URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Tag toevoegen";
+$Definition["A post"] = "Een bericht";
+$Definition["A post has been added to a collection"] =
+    "Er is een bericht toegevoegd aan een verzameling";
+$Definition["A post has not had any activity"] =
+    "Een bericht heeft geen activiteit gehad";
+$Definition["A question"] = "Een vraag";
+$Definition["A user has been registered"] = "Er is een gebruiker geregistreerd";
+$Definition["A post has received"] = "Er is een bericht ontvangen";
+$Definition["Date field reached"] = "Datumveld bereikt";
+$Definition["A user registers or logs in with email domain:"] =
+    "Een gebruiker registreert of logt in met het e-maildomein:";
+$Definition["A user registers or updates a profile field:"] =
+    "Een gebruiker registreert of werkt een profielveld bij:";
+$Definition["Add tags:"] = "Tags toevoegen:";
+$Definition["Add to collection:"] = "Toevoegen aan collectie:";
+$Definition["An idea has received"] = "Een idee is ontvangen";
+$Definition["and"] = "en";
+$Definition["and assign to"] = "en toewijzen aan";
+$Definition["and remove role"] = "en rol verwijderen";
+$Definition["and remove from community"] = "en uit de gemeenschap verwijderen";
+$Definition["Assign role:"] = "Rol toewijzen:";
+$Definition["Assign/Remove role"] = "Rol toewijzen/verwijderen";
+$Definition["Auto-run disabled."] = "Automatisch uitvoeren uitgeschakeld.";
+$Definition["Auto-run enabled."] = "Automatisch uitvoeren ingeschakeld.";
+$Definition["Automation rule successfully created."] =
+    "Automatiseringsregel succesvol aangemaakt.";
+$Definition["Automation rule successfully updated."] =
+    "Automatiseringsregel succesvol bijgewerkt.";
+$Definition["Bump post"] = "Stootpaal";
+$Definition["Change the status of the idea to"] =
+    "Wijzig de status van het idee naar";
+$Definition["Change status"] = "Status wijzigen";
+$Definition["Close post"] = "Bericht sluiten";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Opmerkingen die nu aan de criteria voldoen: <0 />";
+$Definition["created by"] = "gemaakt door";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Maak en beheer automatiseringen om eenvoudig berichten en gebruikers te beheren.";
+$Definition["Create/Edit Automation Rule"] = "Automatiseringsregel maken/bewerken";
+$Definition["Delete Rule"] = "Regel verwijderen";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Discussies die nu voldoen aan de criteria: <0 />";
+$Definition["Edit Rule"] = "Regel bewerken";
+$Definition["Edit Variables"] = "Variabelen bewerken";
+$Definition["Escalate it"] = "Het escaleren";
+$Definition["Escalate to GitHub"] = "Escaleren naar GitHub";
+$Definition["Escalate to Zendesk"] = "Escaleren naar Zendesk";
+$Definition["Expand"] = "Uitbreiden";
+$Definition["Failed to disable the rule"] = "Het is niet gelukt om de regel uit te schakelen";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Het laden van de preview-gegevens is mislukt. Controleer uw trigger- en actiewaarden.";
+$Definition["Follow categories:"] = "Volg categorieën:";
+$Definition["Follow category"] = "Categorie volgen";
+$Definition["for"] = "voor";
+$Definition["has been unanswered"] = "is onbeantwoord gebleven";
+$Definition["has not received any comments"] = "heeft geen reacties ontvangen";
+$Definition["Last reported"] = "Laatst gerapporteerd";
+$Definition["Maximum Limit Reached"] = "Maximale limiet bereikt";
+$Definition["Move post"] = "Bericht verplaatsen";
+$Definition["Move to category:"] = "Ga naar categorie:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Velden met meerdere selectiemogelijkheden worden geactiveerd als de gebruiker aan ÉÉN van de criteria voldoet.";
+$Definition["New/Updated Email domain"] = "Nieuw/bijgewerkt e-maildomein";
+$Definition["New/Updated Profile field"] = "Nieuw/bijgewerkt profielveld";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Let op: Acties hebben geen invloed op <0 /> waarop de bijbehorende actie al is toegepast.";
+$Definition["Post Management"] = "Postbeheer";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Berichten die nu voldoen aan de criteria: <0 />";
+$Definition["Remove from collection"] = "Verwijderen uit collectie";
+$Definition["Remove from collection:"] = "Verwijderen uit collectie:";
+$Definition["Remove from default follow list"] =
+    "Verwijderen uit standaard volglijst";
+$Definition["Remove from trigger collection"] =
+    "Verwijderen uit triggercollectie";
+$Definition["report"] = "rapport";
+$Definition["reports"] = "rapporten";
+$Definition["Rule Action"] = "Regel Actie";
+$Definition["Rule may not be deleted while it is running"] =
+    "Regel kan niet worden verwijderd terwijl deze wordt uitgevoerd";
+$Definition["Rule may not be edited while it is running"] =
+    "Regel kan niet worden bewerkt terwijl deze wordt uitgevoerd";
+$Definition["Rule Name"] = "Regelnaam";
+$Definition["Rule status will apply once current run completes"] =
+    "De regelstatus wordt toegepast zodra de huidige run is voltooid";
+$Definition["Rule Trigger"] = "Regel Trigger";
+$Definition["Running"] = "Rennen";
+$Definition["See documentation for more information."] =
+    "Zie de documentatie voor meer informatie.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Selecteer de actie die moet worden uitgevoerd wanneer deze regel wordt geactiveerd.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Selecteer de trigger die ervoor zorgt dat deze regel wordt uitgevoerd.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Stel de triggervariabele en actievariabele in om een regelsamenvatting te genereren.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "sinds";
+$Definition["Summary"] = "Samenvatting";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Als u doorgaat, wordt de actie alleen op hen toegepast.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "De actie wordt op hen toegepast wanneer de regel is ingeschakeld. In de toekomst wordt de actie ook op andere <0 /> toegepast die voldoen aan de triggercriteria.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Dit heeft op dit moment geen invloed op <0 />. Het heeft wel invloed op degenen die in de toekomst aan de criteria voldoen.";
+$Definition["Time since added to collection"] =
+    "Tijd sinds toegevoegd aan collectie";
+$Definition["Time since post has had no comments"] =
+    "Tijd sinds bericht geen reacties heeft gehad";
+$Definition["Time since Registration"] = "Tijd sinds registratie";
+$Definition["Time since post has had no activity"] =
+    "Tijd sinds bericht geen activiteit heeft gehad";
+$Definition["Time since question has been unanswered"] =
+    "Tijd sinds de vraag onbeantwoord is gebleven";
+$Definition["Trigger"] = "Trekker";
+$Definition["Unsaved Changes"] = "Niet-opgeslagen wijzigingen";
+$Definition["Up to <0 /> ago."] = "Tot <0 /> geleden.";
+$Definition["upvote"] = "omhoog stemmen";
+$Definition["upvotes"] = "stemmen omhoog";
+$Definition["User Management"] = "Gebruikersbeheer";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Gebruikers die nu voldoen aan de criteria: <0 />";
+$Definition["Value is not a valid integer."] = "Waarde is geen geldig geheel getal.";
+$Definition["View History"] = "Geschiedenis bekijken";
+$Definition["Votes on an idea"] = "Stemmen op een idee";
+$Definition["with"] = "met";
+$Definition["with reason"] = "met reden";
+$Definition["with tag"] = "met label";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "U kunt niet meer dan 150 automatiseringsregels toevoegen. Verwijder enkele regels en probeer het opnieuw.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Er zijn geen pictogrammen die overeenkomen met deze filters.";
+$Definition["Manage Icon"] = "Beheer pictogram";
+$Definition["Manage Icons"] = "Pictogrammen beheren";
+$Definition["Manage Icon helptext"] =
+    "U kunt hier systeem- en historische iconen beheren. Zorg er bij het uploaden voor dat het icoon in SVG-formaat is, een viewBox-attribuut bevat en kleur #000000 gebruikt om ervoor te zorgen dat het dynamisch kan worden gekleurd op basis van thema-instellingen en gebruikersinteracties. Er kan slechts één icoon van elk type tegelijk actief zijn.";
+$Definition["Upload New Icon"] = "Upload nieuw icoon";
+$Definition["Active Icon"] = "Actief pictogram";
+$Definition["New Icon"] = "Nieuw icoon";
+$Definition["Icon Type"] = "Icoontype";
+$Definition["Previous Icons"] = "Vorige iconen";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Eerdere versies van uw pictogrammen kunt u hier vinden en op elk gewenst moment herstellen.";
+$Definition["Set as Active"] = "Instellen als actief";
+$Definition["Uploaded <0/> by <1/>"] = "Geüpload <0/> door <1/>";
+$Definition["Icon Packs"] = "Icoonpakketten";
+$Definition["Download Active Icon Pack"] = "Download Actief Iconenpakket";
+$Definition["Download System Icon Pack"] = "Systeempictogrampakket downloaden";
+$Definition["Upload Icon Pack"] = "Upload-icoonpakket";
+$Definition["Preview Icon Pack"] = "Voorbeeldpictogrampakket";
+$Definition["Changed Icons"] = "Gewijzigde pictogrammen";
+$Definition["Icon Name"] = "Icoon Naam";
+$Definition["All icons in this icon pack are currently active."] =
+    "Alle pictogrammen in dit pictogrampakket zijn momenteel actief.";
+$Definition["Activate Icon Pack"] = "Activeer Icoonpakket";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Alleen pictogrammen weergeven die zijn overschreven door aangepaste pictogrammen.";
+$Definition["System Icon"] = "Systeempictogram";
+$Definition["Custom Icon"] = "Aangepast pictogram";
+$Definition["Only show icons that are default system icons."] =
+    "Alleen pictogrammen weergeven die standaard systeempictogrammen zijn.";
+$Definition["Previews"] = "Voorvertoningen";
+$Definition["Icon Size"] = "Icoongrootte";
+$Definition["This is the actual size most icons render at."] =
+    "Dit is de werkelijke grootte waarin de meeste pictogrammen worden weergegeven.";
+$Definition["Preview Color"] = "Voorbeeld Kleur";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Deze kleur wordt gebruikt om de kleur van het pictogram te bekijken. Het vervangt elk gebruik van #000000 in uw geüploade pictogrammen. In de daadwerkelijke toepassing zijn kleuren dynamisch.";
+$Definition["Escalation Name"] = "Escalatienaam";
+$Definition["Status on Creation"] = "Status van de Schepping";
+$Definition["Assignee"] = "Cessionaris";
+$Definition["Internal Comment"] = "Intern commentaar";
+$Definition["Set Post Visibility to Hidden"] = "Stel de zichtbaarheid van berichten in op Verborgen";
+$Definition["Remove Method"] = "Verwijdermethode";
+$Definition["Wipe"] = "Veeg";
+$Definition["Newest Post"] = "Nieuwste bericht";
+$Definition["Oldest Post"] = "Oudste bericht";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Triage-dashboard";
+$Definition["Message Post Author"] = "Bericht Auteur van bericht";
+$Definition["Add Filter"] = "Filter toevoegen";
+$Definition["Customer Support"] = "Klantenservice";
+$Definition["My Profile"] = "Mijn profiel";
+$Definition["Resolve post"] = "Bericht oplossen";
+$Definition["View post in community"] = "Bericht bekijken in community";
+$Definition["View Details"] = "Bekijk details";
+$Definition["Escalate"] = "Escaleren";
+$Definition["Posted by <0/> in <1/>"] = "Geplaatst door <0/> in <1/>";
+$Definition["Show"] = "Tonen";
+$Definition["View Escalation"] = "Bekijk escalatie";
+$Definition["# Reports"] = "# Rapporten";
+$Definition["Last Reported"] = "Laatst gerapporteerd";
+$Definition["Report Reasons"] = "Redenen voor het melden";
+$Definition["Last Modified"] = "Laatst gewijzigd";
+$Definition["Last refreshed <0/> by <1/>."] = "Laatst vernieuwd <0/> door <1/>.";
+
+$Definition["Moderation Content"] = "Moderatie-inhoud";
+$Definition["AI Settings"] = "AI-instellingen";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP-implementatie";
+$Definition["Activity & Registration"] = "Activiteit & Registratie";
+$Definition["Content Settings"] = "Inhoudsinstellingen";
+$Definition["Premoderation Settings"] = "Premoderatie-instellingen";
+$Definition["Escalation Rules"] = "Escalatieregels";
+$Definition["Automation"] = "Automatisering";
+$Definition["Audit Log"] = "Auditlogboek";
+$Definition["Community Management"] = "Gemeenschapsbeheer";
+$Definition["Visualize Your Community"] = "Visualiseer uw gemeenschap";
+$Definition["Customize your community"] = "Pas uw community aan";
+$Definition["Configuration & Addons"] = "Configuratie en add-ons";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Weet u zeker dat u uw %s wilt verwijderen?";
+$Definition["Newest Report"] = "Nieuwste rapport";
+$Definition["Oldest Report"] = "Oudste rapport";
+$Definition["Report Dismissed"] = "Rapport afgewezen";
+$Definition["Post Rejected"] = "Bericht afgewezen";
+$Definition["Escalated"] = "Geëscaleerd";
+$Definition["Reported by <0/>"] = "Gerapporteerd door <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Er zijn geen rapportnotities verstrekt door <0/>";
+$Definition["Create"] = "Creëer";
+$Definition["Edited"] = "Bewerkt";
+$Definition["Newest Escalation"] = "Nieuwste escalatie";
+$Definition["Oldest Escalation"] = "Oudste escalatie";
+$Definition["Escalations Dashboard"] = "Escalaties Dashboard";
+$Definition["On Hold"] = "In de wacht";
+$Definition["Done"] = "Klaar";
+$Definition["In Jira"] = "In Jira";
+$Definition["In Zendesk"] = "In Zendesk";
+$Definition["Integrations"] = "Integraties";
+$Definition["Remove Post"] = "Bericht verwijderen";
+$Definition["Escalated by <0/>"] = "Vergroot door <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Voer een titel in voor deze escalatie";
+$Definition["Escalated by <0/>"] = "Vergroot door <0/>";
+$Definition["Post Revision"] = "Post-revisie";
+$Definition["Loader"] = "Lader";
+$Definition["a month"] = "een maand";
+$Definition["%s ago"] = "%s geleden";
+$Definition["Live"] = "Live";
+$Definition["Live Post"] = "Live bericht";
+$Definition["Remove Post"] = "Bericht verwijderen";
+$Definition["Internal Comments"] = "Interne opmerkingen";
+$Definition["Add a comment"] = "Voeg een opmerking toe";
+$Definition["Live"] = "Live";
+$Definition["There are currently no comments on this post"] =
+    "Er zijn momenteel geen reacties op dit bericht";
+$Definition["All comments on this post will appear here"] =
+    "Alle reacties op dit bericht verschijnen hier";
+$Definition["Reports for <0/>"] = "Rapporten voor <0/>";
+$Definition["Live Post"] = "Live bericht";
+$Definition["There are currently no reports for this post."] =
+    "Er zijn momenteel geen rapporten voor dit bericht.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Hier verschijnt een lijst met rapporten die aan dit bericht zijn gekoppeld.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Configureer waar rapporten naartoe worden verzonden en beheer de rapportredenen van uw community.";
+$Definition["New Community Management System"] =
+    "Nieuw communitymanagementsysteem";
+$Definition["Enable Triage Dashboard"] = "Triage Dashboard inschakelen";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Alle gebruikers met de rechten van de medewerker kunnen discussies zien en markeren als opgelost of onopgelost. Deze gebruikers hebben ook toegang tot het triage-dashboard om hun categorieën te modereren.";
+$Definition["Resolve All Discussions"] = "Los alle discussies op";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Met 'Alle berichten oplossen' worden alle bestaande berichten in de community opgelost. Deze bulkactie activeert geen webhooks of analyses.";
+$Definition["Resolve All"] = "Alles oplossen";
+$Definition["Required field"] = "Verplicht veld";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Het nieuwe communitymanagementsysteem maakt aangepaste rapportageredenen, escalaties, toewijzingen en automatiseringsregels mogelijk. Door dit in te schakelen, wordt de rapportage-invoer aangepast om het nieuwe systeem te gebruiken. <0>Lees meer</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Hiermee worden alle bestaande berichten in de community verwijderd. Deze bulkactie activeert geen webhooks of loganalyses. Doorgaan?";
+$Definition["Reorder"] = "Opnieuw bestellen";
+$Definition["Add Reason"] = "Reden toevoegen";
+$Definition["Delete?"] = "Verwijderen?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Weet u zeker dat u deze reden wilt verwijderen?";
+$Definition["A concise name for the report reason."] =
+    "Een beknopte naam voor de reden van het rapport.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Een uniek label voor de reden van het rapport. Dit label kan niet meer worden gewijzigd nadat het is opgeslagen.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Een uitleg van de reden van het rapport, zodat verslaggevers de juiste selectie kunnen maken bij het rapporteren van een bericht.";
+$Definition["The roles which can see this report reason."] =
+    "De rollen die dit rapport kunnen zien, zijn de reden.";
+$Definition["Add Report Reason"] = "Rapportreden toevoegen";
+$Definition["Discard Changes?"] = "Wijzigingen negeren?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Weet u zeker dat u wilt afsluiten zonder op te slaan?";
+$Definition["Reorder Report Reasons"] = "Redenen voor het opnieuw bestellen van rapporten";
+$Definition["Edit Report Reason"] = "Reden voor bewerken rapport";
+$Definition["Delete Report Reason"] = "Rapport verwijderen Reden";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Deze instelling moet ingeschakeld zijn om aangepaste discussiethreads te kunnen gebruiken.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Configureer instellingen om communitycontent automatisch te modereren voordat deze überhaupt wordt aangemaakt. Opties zijn onder andere automatische spamdetectie, het vereisen van goedkeuring voor berichten in bepaalde categorieën en het vereisen van goedkeuring voor berichten met bepaalde trefwoorden of zinnen.";
+$Definition["Spam Detection"] = "Spamdetectie";
+$Definition["Learn more."] = "Meer informatie.";
+$Definition["documentation."] = "documentatie.";
+$Definition["Verify browsers of new members"] =
+    "Browsers van nieuwe leden verifiëren";
+$Definition["Challenge Cutoff Age"] = "Uitdaging Cutoff-leeftijd";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Aantal dagen sinds registratie om de Cloudflare-uitdaging te omzeilen";
+$Definition["Save challenge cutoff age"] = "Uitdaging voor de leeftijdsgrens opslaan";
+$Definition["Premoderated Roles"] = "Voorgemodereerde rollen";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Gebruikers met de machtiging 'Goedkeuring.Vereist' hebben voor alle berichten goedkeuring van de moderator nodig.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Gebruikers met de aanduiding 'Geverifieerd' omzeilen deze vereiste. Dit zijn de rollen met 'Approval.Require'.";
+$Definition["No roles are currently set to require premoderation."] =
+    "Er zijn momenteel geen rollen ingesteld waarvoor premoderatie vereist is.";
+$Definition["Edit Roles"] = "Rollen bewerken";
+$Definition["Premoderated Categories"] = "Vooraf gemodereerde categorieën";
+$Definition["No categories are currently set to require premoderation."] =
+    "Er zijn momenteel geen categorieën ingesteld waarvoor premoderatie vereist is.";
+$Definition["Edit Categories"] = "Categorieën bewerken";
+$Definition["Premoderated Keywords"] = "Vooraf gemodereerde zoekwoorden";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Berichten met een van de volgende trefwoorden of zinnen vereisen goedkeuring van de moderator.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Er zijn momenteel geen trefwoorden ingesteld waarvoor premoderatie vereist is.";
+$Definition["Edit Keywords"] = "Trefwoorden bewerken";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Schakel Akismet in om spam te filteren in alle berichten van sollicitanten en ongeverifieerde gebruikers. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Schakel Stopforumspam in om communitygebruikers te vergelijken met een lijst met gerapporteerde spammers en de berichten als spam te rapporteren of direct af te wijzen. De drempels voor rapporteren en afwijzen worden beheerd in de instellingen van de <0>add-on.</0> . Lees meer in de <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Niet-geverifieerde leden die korter dan het opgegeven aantal dagen lid zijn van de community, worden gevraagd een Cloudflare-opdracht (Captcha of selectievakje) te voltooien om spam te voorkomen. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s in de volgende categorieën hebben goedkeuring van de moderator nodig.";
+$Definition["Default Sort Order"] = "Standaard sorteervolgorde";
+$Definition["Choose the order records are sorted by default."] =
+    "Kies de volgorde waarin records standaard worden gesorteerd.";
+$Definition["Show OP Indicator"] = "Toon OP-indicator";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Als deze optie is ingeschakeld, wordt in de antwoorden van de oorspronkelijke poster een OP-indicator weergegeven.";
+$Definition["Show Badges"] = "Badges weergeven";
+$Definition["Badges Limit"] = "Badges limiet";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Toon de badges van gebruikers bij elk bericht. Er kunnen maximaal 5 badges worden weergegeven, gerangschikt op hoogste rang.";
+$Definition["event"] = "evenement";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> meer reacties";
+$Definition["Export"] = "Exporteren";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "De titels van de homepage mogen maximaal 1 tot 500 tekens lang zijn";
+$Definition["Address Bar Color"] = "Adresbalkkleur";
+$Definition["Meta Tags"] = "Metatags";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Metatags worden gebruikt voor domeinverificatie voor Google Search Console en andere services. Kopieer de vereiste metatags uit uw bron en plak ze op een nieuwe regel.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Neem je tijd om een beschrijving te bedenken voor je site. Het geven van een betekenisvolle naam en correcte beschrijving zou je positie in zoekmachines kunnen helpen.";
+$Definition["Style Guides"] = "Stijlgidsen";
+$Definition["Branding & Assets"] = "Branding & middelen";
+$Definition["Home Pages"] = "Startpagina's";
+$Definition["Home Layout Settings"] = "Instellingen voor startpagina-indeling";
+$Definition["Category Pages"] = "Categoriepagina's";
+$Definition["Category Layout Settings"] = "Categorie-indelingsinstellingen";
+$Definition["Category List Pages"] = "Categorielijstpagina's";
+$Definition["Posting Category Pages"] = "Categoriepagina's plaatsen";
+$Definition["Nested Category Pages"] = "Geneste categoriepagina's";
+$Definition["Discussion Pages"] = "Discussiepagina's";
+$Definition["Idea Pages"] = "Ideeënpagina's";
+$Definition["Question Pages"] = "Vraagpagina's";
+$Definition["Post Pages"] = "Postpagina's";
+$Definition["Post Layout Settings"] = "Post-layoutinstellingen";
+$Definition["Create Post Pages"] = "Berichtpagina's maken";
+$Definition["Create Post Layout Settings"] = "Postlayoutinstellingen maken";
+$Definition["Event Pages"] = "Evenementenpagina's";
+$Definition["Event Layout Settings"] = "Instellingen voor gebeurtenislay-out";
+$Definition["Knowledge Base Pages"] = "Kennisbankpagina's";
+$Definition["Knowledge Base Layout Settings"] =
+    "Kennisbank lay-out instellingen";
+$Definition["Knowledge Base Home Pages"] = "Startpagina's van de kennisbank";
+$Definition["Help Center Home Pages"] = "Helpcentrum-homepages";
+$Definition["Help Center Category Pages"] = "Helpcentrum Categoriepagina's";
+$Definition["Help Center Article Pages"] = "Help Center-artikelpagina's";
+$Definition["Guide Article Pages"] = "Gids Artikelpagina's";
+$Definition["Layouts"] = "Lay-outs";
+$Definition["Add Custom Layout"] = "Aangepaste lay-out toevoegen";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Kies de gewenste lay-out voor oude recente berichten.";
+$Definition["Legacy Recent Posts Layouts"] = "Legacy Recente Berichten Lay-outs";
+$Definition["Change layout versions for the <0/>."] =
+    "Wijzig de lay-outversies voor de <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Voor meer informatie, <0>zie de documentatie</0> .";
+$Definition["Change %s"] = "Wijzig %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Weet u zeker dat u %s wilt gebruiken?";
+$Definition["Legacy Home Layouts"] = "Legacy Home-indelingen";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Kies de gewenste Legacy Home Layout.";
+$Definition["Home Layout Version"] = "Home Layout-versie";
+$Definition["Custom Home Layouts"] = "Aangepaste woningindelingen";
+$Definition["Legacy Category Layout"] = "Legacy categorie-indeling";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Kies de gewenste Legacy Category Layout.";
+$Definition["Category Layout Version"] = "Categorie Lay-out Versie";
+$Definition["Legacy Category Layouts"] = "Legacy categorie-indelingen";
+$Definition["Custom Category Layouts"] = "Aangepaste categorie-indelingen";
+$Definition["Legacy Post Layout"] = "Legacy Post-indeling";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Kies de gewenste Legacy Post Layout.";
+$Definition["Post Layout Version"] = "Post-layoutversie";
+$Definition["Legacy Post Layouts"] = "Legacy Post-indelingen";
+$Definition["Custom Post Layouts"] = "Aangepaste berichtindelingen";
+$Definition["Legacy Create Post Layout"] = "Legacy Create Post Layout";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Kies de gewenste Legacy Create Post Layout.";
+$Definition["Create Post Layout Version"] = "Maak een post-layoutversie";
+$Definition["Legacy Create Post Layouts"] = "Legacy Create Post Layouts";
+$Definition["Custom Create Post Layouts"] = "Aangepaste berichtlay-outs maken";
+$Definition["Legacy Event Layout"] = "Legacy Event Layout";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Kies de gewenste Legacy Event Layout.";
+$Definition["Event Layout Version"] = "Gebeurtenis lay-out versie";
+$Definition["Legacy Event Layouts"] = "Legacy Event Layouts";
+$Definition["Custom Event Layouts"] = "Aangepaste evenementlay-outs";
+$Definition["Created <0/> by <1/>."] = "Gemaakt <0/> door <1/>.";
+$Definition["Layout Options"] = "Lay-outopties";
+$Definition["Contextual Description"] = "Contextuele beschrijving";
+$Definition["Skip to end of Carousel"] = "Ga naar het einde van de carrousel";
+$Definition["Previous Slides"] = "Vorige dia's";
+$Definition["Next Slides"] = "Volgende dia's";
+$Definition["indicator navigation"] = "indicator navigatie";
+$Definition["<0/> new"] = "<0/> nieuw";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d dia's op het scherm, eerste dia %d van %d";
+$Definition["Unassigned"] = "Niet toegewezen";
+$Definition["Apply Layout to Site Home Page"] =
+    "Lay-out toepassen op de startpagina van de site";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Instellen als standaardlayout voor specifieke subgemeenschappen.";
+$Definition["Apply to specific categories."] = "Toepassen op specifieke categorieën.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Deze lay-out kan niet worden verwijderd omdat het een lay-outsjabloon is.";
+$Definition["Delete Layout"] = "Lay-out verwijderen";
+$Definition["Are you sure you want to delete?"] =
+    "Weet u zeker dat u wilt verwijderen?";
+$Definition["Applied"] = "Toegepast";
+$Definition["Applied as default"] = "Toegepast als standaard";
+$Definition["View Category"] = "Bekijk categorie";
+$Definition["Apply to specific subcommunities."] =
+    "Toepassen op specifieke subgemeenschappen.";
+$Definition["Unable to re-assign default template"] =
+    "Standaardsjabloon kan niet opnieuw worden toegewezen";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Deze lay-out is een sjabloon en wordt toegewezen als standaard voor alle pagina's van dit type. Om deze als standaard te verwijderen of aan specifieke pagina's toe te wijzen, moet u een andere lay-out als standaard instellen.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Deze lay-out kan niet worden verwijderd omdat deze momenteel is toegepast.";
+$Definition["Set as default layout for all <0 />."] =
+    "Instellen als standaardlayout voor alle <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Legacy Knowledge Base-indeling";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Kies de gewenste Legacy Knowledge Base-indeling.";
+$Definition["Knowledge Base Layout Version"] = "Kennisbank lay-outversie";
+$Definition["Legacy Knowledge Base Layouts"] = "Legacy Knowledge Base-indelingen";
+$Definition["Custom Knowledge Base Layouts"] = "Aangepaste kennisbankindelingen";
+$Definition["Article Count"] = "Aantal artikelen";
+$Definition["Legacy Layouts enabled"] = "Legacy-indelingen ingeschakeld";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Houd er rekening mee dat deze wijziging in de lay-out pas zichtbaar wordt wanneer u overschakelt naar aangepaste lay-outs.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Deze lay-outwijziging wordt pas zichtbaar nadat u uw community op de pagina <1/> hebt gewijzigd naar aangepast <0/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Instellen als standaardlayout voor specifieke kennisbanken.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "De site staat niet toe dat u verbinding maakt met een bestaande gebruiker.";
+$Definition["The username you entered has already been taken."] =
+    "De gebruikersnaam die u hebt ingevoerd, is al in gebruik.";
+$Definition["There was an error fetching the connection data."] =
+    "Er is een fout opgetreden bij het ophalen van de verbindingsgegevens.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Het is niet gelukt om uw wachtwoordherstelverzoek te verifiëren. Probeer het resetformulier opnieuw te gebruiken.";
+$Definition["Invitation not found."] = "Uitnodiging niet gevonden.";
+
+$Definition['# of automation rules'] = '# aantal automatiseringsregels';
+$Definition['Add Template'] = 'Sjabloon toevoegen';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Kies wie deze e-mail moet ontvangen wanneer deze automatiseringsregel wordt uitgevoerd.';
+$Definition['Delete an email template.'] = 'Een e-mailsjabloon verwijderen.';
+$Definition['Email Audience'] = 'E-maildoelgroep';
+$Definition['Email Template'] = 'E-mailsjabloon';
+$Definition['Email Templates'] = 'E-mailtemplates';
+$Definition['Email Template successfully deleted.'] = 'E-mailsjabloon succesvol verwijderd.';
+$Definition['Email Template not enabled.'] = 'E-mailsjabloon niet ingeschakeld.';
+$Definition['Email template not found.'] = 'E-mailsjabloon niet gevonden.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'De naam van de e-mailsjabloon bestaat al. Voer een unieke naam in om verder te gaan.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'E-mailtemplates kunnen in combinatie met <0/> worden gebruikt om met gebruikers te communiceren op basis van ledenactiviteit of andere triggers binnen de community.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Schakel deze optie in om een vervolg-e-mail te verzenden wanneer de regel wordt geactiveerd.';
+$Definition['Impacted User'] = 'Betrokken gebruiker';
+$Definition['Search and select one or more roles to receive this email'] = 'Zoek en selecteer een of meer rollen om deze e-mail te ontvangen.';
+$Definition['Search and select one or more users to receive this email.'] = 'Zoek en selecteer een of meer gebruikers die deze e-mail moeten ontvangen.';
+$Definition['Select Roles'] = 'Selecteer rollen';
+$Definition['Select User'] = 'Gebruiker selecteren';
+$Definition['Select the email template to send.'] = 'Selecteer de e-mailsjabloon die u wilt verzenden.';
+$Definition['Send an Email After This Rule Runs'] = 'Stuur een e-mail nadat deze regel is uitgevoerd.';
+$Definition['Send email'] = 'E-mail verzenden';
+$Definition['Send the email'] = 'E-mail verzenden';
+$Definition['Send email to user'] = 'E-mail verzenden naar gebruiker';
+$Definition['Specific Roles'] = 'Specifieke rollen';
+$Definition['Specific Users'] = 'Specifieke gebruikers';
+$Definition['System email templates cannot be deleted.'] = 'E-mailtemplates van het systeem kunnen niet worden verwijderd.';
+$Definition['template name'] = 'sjabloonnaam';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Gebruik deze pagina om uw sjablonen te maken en te beheren, en configureer vervolgens uw instellingen om te bepalen wanneer en naar wie elke e-mail wordt verzonden.';
+$Definition['View the full list of available placeholders.'] = 'Bekijk de volledige lijst met beschikbare placeholders.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Je kunt ook plaatsaanduidingen in je e-mailtekst opnemen. Deze worden automatisch vervangen door relevante gebruikers- of berichtinformatie wanneer de e-mail wordt verzonden. Bijvoorbeeld: Hallo {user.name}! of Bekijk {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Je kunt systeemmails niet verwijderen.';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Je kunt een sjabloon dat in automatiseringsregels wordt gebruikt niet verwijderen.';
+$Definition['You will no longer receive community engagement emails.'] = 'U ontvangt geen e-mails meer over betrokkenheid van de community.';
+$Definition['Delete Email Template'] = 'E-mailsjabloon verwijderen';
+$Definition["Template Styles"] = "Sjabloonstijlen";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Laat alle velden leeg om de standaard e-mailstijlen te gebruiken zoals geconfigureerd in de <0>E-mailinstellingen</0> pagina.";

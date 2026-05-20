@@ -1707,3 +1707,650 @@ $Definition['Zendesk Knowledge Bases'] = 'Izisekelo Zolwazi Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Sondeza I-ID Yomhlangano noma i-URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} wamukele impendulo ethi {NotifyUserID,your} yombuzo: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "Ilogo yeselula";
+$Definition["Banner Image"] = "Isithombe sesibhengezo";
+$Definition["Disable Forum Pages"] = "Khubaza Amakhasi Enkundla";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "Khetha ifomethi emisiwe yomhleli wokuthunyelwe emphakathini.";
+$Definition["InputFormatter.Notes2"] =
+    "Umhleli uzobona ngokuzenzakalela ukwakheka kokuthunyelwe okudala lapho ekuhlela futhi alayishe imithetho yawo yokufomatha yoqobo. Ngaphandle kwalokhu ngaphandle, ifomethi ekhethiwe engezansi izohamba phambili.";
+$Definition["Formatting Posts"] = "Ukufaka Okuthunyelwe";
+$Definition["MobileInputFormatter.Notes1"] =
+    "Cacisa ifomethi yokuhlela yamadivayisi eselula.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "Uma amadivayisi eselula kufanele abe nesipiliyoni esifanayo, chaza okufana nalokhu okungenhla. Uma abasebenzisi bebika izindaba ngokuhlelwa kweselula, le inketho enhle ongayishintsha.";
+$Definition["Note:"] = "Qaphela:";
+$Definition["Post Format"] = "Thumela Ngendlela";
+$Definition["Posting"] = "Iyathumela";
+$Definition["Reinterpret All Posts As %s"] = "Humusha kabusha Konke Okuthunyelwe Njenge-%s";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "Tshela umhleli ukuthi achaze kabusha wonke amaposi amadala njengo-%s.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "Lesi silungiselelo sizoqala ukusebenza kuphela uma i-%s ikhethwe njengefomethi yokuthunyelwe ngenhla.";
+$Definition["This option is to normalize the editor format"] =
+    "Le nketho iwukuba wenze ifomethi yomhleli ibe ngokwejwayelekile, uma amaposi amadala ahlelwe ngenye ifomethi, efana nokumaka noma i-BBCode, elayishwa, le nketho izophoqa %s.";
+
+$Definition["Mobile Format"] = "Isakhiwo Seselula";
+$Definition["Enable Rich Quotes"] = "Nika amandla Izilinganiso Zesicebi";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'Sebenzisa inketho elandelayo ukunika amandla izingcaphuno zomhleli ocebile. Lokhu kuzosebenza kuphela uma ifomathi ezenzakalelayo engu- "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "Isimeli esizenzakalelayo";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "Faka isithombe sokubeka esizobonisa lapho abasebenzisi bangenawo umfanekiso kokuthunyelwe kwabo.";
+$Definition["Additional classes"] = "Amakilasi angeziwe";
+$Definition["Apply additional classes on catalogue image."] =
+    "Faka isicelo samakilasi angeziwe kwisithombe sekhathalogu. Sebenzisa isikhala ukwahlukanisa iklasi ngalinye.";
+$Definition["Category only"] = "Isigaba kuphela";
+$Definition["Display on category page only."] =
+    "Veza ekhasini lesigaba kuphela. Uhlu lwengxoxo lwakamuva ngeke luthinteke.";
+$Definition["Use Masonry display"] = "Sebenzisa isibuko se-Masonry";
+$Definition["Show an uploaded image on the Category page."] =
+    'Ingxoxo ngayinye izokhombisa isithombe esilayishiwe ekhasini Lesigaba. Lokhu kusebenza kuphela kwizigaba ezine- "Izingxoxo" njenge- "Display As."';
+$Definition["Upload Placeholder Image"] = "Faka isithombe sesindawo";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "Kube nephutha ekulondolozeni izinguquko zakho. Ngicela uzame futhi.";
+$Definition["<0/> has been <1/>"] = "<0/> kube <1/>";
+$Definition["enabled"] = "inikwe amandla";
+$Definition["disabled"] = "kukhutshaziwe";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "Lolu lwazi luzoboniswa kuphela kubasebenzisi abanemvume yokubuka ulwazi lwangaphakathi";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "Lolu ulwazi oluyimfihlo futhi ngeke kwabelwane ngalo namanye amalungu.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "Lokhu kuzodala umhlangano we-Zoom egameni lomnikazi wokuhlanganiswa kwe-Zoom futhi uma ungumsebenzisi obhalisiwe, engeze njengomsingathi. Uma ungeyena umsebenzisi we-Zoom obhalisiwe noma ungeyona ingxenye yenhlangano emisa ukuhlanganiswa, lo mcimbi ungase ube nokusebenza okulinganiselwe kwe-Zoom ngaphandle komsingathi.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'Awukwazi ukubuyekeza i-URL ye-Zoom noma i-ID yalo mcimbi.';
+
+$Definition["Zoom Meeting ID or URL"] = "Sondeza I-ID Yomhlangano noma i-URL";
+
+// Automation Rules
+$Definition["Add tag"] = "Engeza ithegi";
+$Definition["A post"] = "Okuthunyelwe";
+$Definition["A post has been added to a collection"] =
+    "Okuthunyelwe kungeziwe eqoqweni";
+$Definition["A post has not had any activity"] =
+    "Okuthunyelwe akukaze kube nomsebenzi";
+$Definition["A question"] = "Umbuzo";
+$Definition["A user has been registered"] = "Umsebenzisi ubhalisiwe";
+$Definition["A post has received"] = "Kutholwe okuthunyelwe";
+$Definition["Date field reached"] = "Inkambu yedethi efinyelelwe kuyo";
+$Definition["A user registers or logs in with email domain:"] =
+    "Umsebenzisi ubhalisa noma ungena ngesizinda se-imeyili:";
+$Definition["A user registers or updates a profile field:"] =
+    "Umsebenzisi ubhalisa noma ubuyekeze inkambu yephrofayela:";
+$Definition["Add tags:"] = "Engeza omaka:";
+$Definition["Add to collection:"] = "Engeza eqoqweni:";
+$Definition["An idea has received"] = "Kutholwe umbono";
+$Definition["and"] = "futhi";
+$Definition["and assign to"] = "futhi abele";
+$Definition["and remove role"] = "futhi ususe indima";
+$Definition["and remove from community"] = "futhi ususe emphakathini";
+$Definition["Assign role:"] = "Yabela indima:";
+$Definition["Assign/Remove role"] = "Yabela/Susa indima";
+$Definition["Auto-run disabled."] = "Ukuziqhuba kukhutshaziwe.";
+$Definition["Auto-run enabled."] = "Ukugijima ngokuzenzakalela kunikwe amandla.";
+$Definition["Automation rule successfully created."] =
+    "Umthetho wokuzenzakalela udalwe ngempumelelo.";
+$Definition["Automation rule successfully updated."] =
+    "Umthetho wokuzenzakalela ubuyekezwe ngempumelelo.";
+$Definition["Bump post"] = "Bump okuthunyelwe";
+$Definition["Change the status of the idea to"] =
+    "Shintsha isimo sombono sibe";
+$Definition["Change status"] = "Shintsha isimo";
+$Definition["Close post"] = "Vala okuthunyelwe";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Amazwana Amesha Imibandela Manje: <0 />";
+$Definition["created by"] = "idalwe ngu";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Dala futhi uphathe okuzenzakalelayo ukuze uphathe kalula okuthunyelwe nabasebenzisi.";
+$Definition["Create/Edit Automation Rule"] = "Dala/Hlela Umthetho Wokuzenzakalela";
+$Definition["Delete Rule"] = "Susa Umthetho";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Izingxoxo Ezihambisana Nemibandela Manje: <0 />";
+$Definition["Edit Rule"] = "Hlela Umthetho";
+$Definition["Edit Variables"] = "Hlela Okuguquguqukayo";
+$Definition["Escalate it"] = "Kukhuphule";
+$Definition["Escalate to GitHub"] = "Khuphukela ku-GitHub";
+$Definition["Escalate to Zendesk"] = "Khuphukela eZendesk";
+$Definition["Expand"] = "Nweba";
+$Definition["Failed to disable the rule"] = "Yehlulekile ukukhubaza umthetho";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Yehlulekile ukulayisha idatha yokubuka kuqala. Sicela uhlole isibangeli sakho namanani esenzo.";
+$Definition["Follow categories:"] = "Landela izigaba:";
+$Definition["Follow category"] = "Landela isigaba";
+$Definition["for"] = "okwe";
+$Definition["has been unanswered"] = "akaphendulwanga";
+$Definition["has not received any comments"] = "akatholanga noma yikuphi ukuphawula";
+$Definition["Last reported"] = "Kugcine ukubikwa";
+$Definition["Maximum Limit Reached"] = "Umkhawulo Omkhulu Ufinyelelwe";
+$Definition["Move post"] = "Hambisa okuthunyelwe";
+$Definition["Move to category:"] = "Hambisa esigabeni:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Izinkambu zokukhetha okuningi zizocupha uma umsebenzisi ehlangabezana neNOMA IYIPHI indlela yokunquma.";
+$Definition["New/Updated Email domain"] = "Isizinda se-imeyili esisha/esibuyekeziwe";
+$Definition["New/Updated Profile field"] = "Inkambu Yephrofayela Entsha/Ebuyekeziwe";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Qaphela: Izenzo ngeke zithinte i-<0 /> esenesenzo esihlobene esisetshenzisiwe.";
+$Definition["Post Management"] = "Ukuphathwa Kweposi";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Okuthunyelwe Okufaniswa Nemibandela Manje: <0 />";
+$Definition["Remove from collection"] = "Susa eqoqweni";
+$Definition["Remove from collection:"] = "Susa eqoqweni:";
+$Definition["Remove from default follow list"] =
+    "Susa ohlwini lokulandela oluzenzakalelayo";
+$Definition["Remove from trigger collection"] =
+    "Susa eqoqweni le-trigger";
+$Definition["report"] = "umbiko";
+$Definition["reports"] = "imibiko";
+$Definition["Rule Action"] = "Isenzo sokubusa";
+$Definition["Rule may not be deleted while it is running"] =
+    "Umthetho angeke ususwe ngenkathi usebenza";
+$Definition["Rule may not be edited while it is running"] =
+    "Isimiso singahle singahlelwa ngenkathi sisebenza";
+$Definition["Rule Name"] = "Igama Lomthetho";
+$Definition["Rule status will apply once current run completes"] =
+    "Isimo somthetho sizosebenza uma ukusebenzisa kwamanje sekuqediwe";
+$Definition["Rule Trigger"] = "I-Rule Trigger";
+$Definition["Running"] = "Ukugijima";
+$Definition["See documentation for more information."] =
+    "Bona amadokhumenti ukuze uthole ulwazi olwengeziwe.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Khetha isenzo esizokwenzeka uma lo mthetho uqaliswa.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Khetha i-trigger ezobangela ukuthi lo mthetho usebenze.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Setha i-trigger variable kanye nesenzo esiguquguqukayo ukuze ukhiqize isifinyezo somthetho.";
+$Definition["sentiment"] = "umuzwa";
+$Definition["since"] = "kusukela";
+$Definition["Summary"] = "Isifinyezo";
+$Definition["The action will be applied to only them if you proceed."] =
+    "Isenzo sizosetshenziswa kubo kuphela uma uqhubeka.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "Isenzo sizosebenza kubo uma umthetho usunikwe amandla. Ngokuzayo, abanye abangu-<0 /> abahlangabezana nemibandela yokuqalisa bazoba nesenzo esisetshenziswa kubo futhi.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Lokhu ngeke kuthinte noma iyiphi i-<0 /> okwamanje. Kuzothinta labo abahlangabezana nemibandela esikhathini esizayo.";
+$Definition["Time since added to collection"] =
+    "Isikhathi selokhu sengezwe eqoqweni";
+$Definition["Time since post has had no comments"] =
+    "Isikhathi selokhu okuthunyelwe akubanga namazwana";
+$Definition["Time since Registration"] = "Isikhathi selokhu kwabhaliswa";
+$Definition["Time since post has had no activity"] =
+    "Isikhathi selokhu okuthunyelwe asinawo umsebenzi";
+$Definition["Time since question has been unanswered"] =
+    "Isikhathi selokhu umbuzo awuphendulwanga";
+$Definition["Trigger"] = "Qalisa";
+$Definition["Unsaved Changes"] = "Izinguquko ezingalondoloziwe";
+$Definition["Up to <0 /> ago."] = "Kuze kube <0 /> edlule.";
+$Definition["upvote"] = "ukuvota phezulu";
+$Definition["upvotes"] = "amavoti aphezulu";
+$Definition["User Management"] = "Ukuphathwa komsebenzisi";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Abasebenzisi Abafanisa Imibandela Manje: <0 />";
+$Definition["Value is not a valid integer."] = "Inani aliyona inombolo ephelele.";
+$Definition["View History"] = "Buka umlando";
+$Definition["Votes on an idea"] = "Amavoti ngombono";
+$Definition["with"] = "nge";
+$Definition["with reason"] = "ngesizathu";
+$Definition["with tag"] = "ngethegi";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Awukwazi ukwengeza imithetho ye-automation engaphezu kuka-150. Susa imithetho ethile bese uzama futhi.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Azikho izithonjana ezifana nalezo zihlungi.";
+$Definition["Manage Icon"] = "Phatha Isithonjana";
+$Definition["Manage Icons"] = "Phatha Izithonjana";
+$Definition["Manage Icon helptext"] =
+    "Ungaphatha izithonjana zesistimu nezomlando lapha. Lapho ulayisha, qiniseka ukuthi isithonjana sikufomethi ye-SVG, sihlanganisa isibaluli seBhokisi lokubuka, futhi sisebenzisa umbala ongu-#000000 ukuze kuqinisekiswe ukuthi singashintshwa ngokushintshashintshayo ngokusekelwe kuzilungiselelo zetimu nokusebenzisana komsebenzisi. Isithonjana esisodwa kuphela sohlobo ngalunye singasebenza ngesikhathi.";
+$Definition["Upload New Icon"] = "Faka isithonjana esisha";
+$Definition["Active Icon"] = "Isithonjana Esisebenzayo";
+$Definition["New Icon"] = "Isithonjana esisha";
+$Definition["Icon Type"] = "Uhlobo Lwesithonjana";
+$Definition["Previous Icons"] = "Izithonjana Zangaphambilini";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Izinguqulo zangaphambilini zezithonjana zakho zingatholakala lapha futhi zibuyiselwe noma nini.";
+$Definition["Set as Active"] = "Setha Njengesebenzayo";
+$Definition["Uploaded <0/> by <1/>"] = "Kulayishwe <0/> ngu-<1/>";
+$Definition["Icon Packs"] = "Amaphakethe wesithonjana";
+$Definition["Download Active Icon Pack"] = "Landa Iphakethe Lesithonjana Esisebenzayo";
+$Definition["Download System Icon Pack"] = "Landa Iphakethe Lesithonjana Sesistimu";
+$Definition["Upload Icon Pack"] = "Layisha Iphakethe Lesithonjana";
+$Definition["Preview Icon Pack"] = "Buka kuqala Iphakethe lesithonjana";
+$Definition["Changed Icons"] = "Izithonjana ezishintshiwe";
+$Definition["Icon Name"] = "Igama lesithonjana";
+$Definition["All icons in this icon pack are currently active."] =
+    "Zonke izithonjana ezikule phakethe lesithonjana ziyasebenza okwamanje.";
+$Definition["Activate Icon Pack"] = "Vula Iphakethe Lesithonjana";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Bonisa kuphela izithonjana ezibhalwe ngaphezulu ngezithonjana ezingokwezifiso.";
+$Definition["System Icon"] = "Isithonjana Sesistimu";
+$Definition["Custom Icon"] = "Isithonjana Ngokwezifiso";
+$Definition["Only show icons that are default system icons."] =
+    "Bonisa kuphela izithonjana eziyizithonjana zesistimu ezizenzakalelayo.";
+$Definition["Previews"] = "Ukuhlola kuqala";
+$Definition["Icon Size"] = "Usayizi Wesithonjana";
+$Definition["This is the actual size most icons render at."] =
+    "Lona usayizi wangempela izithonjana eziningi ezinikezwa kuwo.";
+$Definition["Preview Color"] = "Buka Kuqala Umbala";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Lo mbala uzosetshenziselwa ukubuka kuqala umbala wesithonjana. Izongena esikhundleni sanoma yikuphi ukusetshenziswa kuka-#000000 ezithonjaneni zakho ozilayishile. Kuhlelo lokusebenza lwangempela, imibala izoshintshashintsha.";
+$Definition["Escalation Name"] = "Igama Lokukhuphuka";
+$Definition["Status on Creation"] = "Isimo Ekudalweni";
+$Definition["Assignee"] = "Onikezwayo";
+$Definition["Internal Comment"] = "Ukuphawula Kwangaphakathi";
+$Definition["Set Post Visibility to Hidden"] = "Setha Ukubonakala Kokuthunyelwe Kufihlwe";
+$Definition["Remove Method"] = "Susa Indlela";
+$Definition["Wipe"] = "Sula";
+$Definition["Newest Post"] = "Okuthunyelwe Okusha";
+$Definition["Oldest Post"] = "Okuthunyelwe Okudala";
+$Definition["Triage"] = "I-Triage";
+$Definition["Triage Dashboard"] = "Ideshibhodi ye-Triage";
+$Definition["Message Post Author"] = "Umlayezo Wokuthunyelwe Umbhali";
+$Definition["Add Filter"] = "Engeza Isihlungi";
+$Definition["Customer Support"] = "Ukwesekwa Kwamakhasimende";
+$Definition["My Profile"] = "Iphrofayela Yami";
+$Definition["Resolve post"] = "Xazulula okuthunyelwe";
+$Definition["View post in community"] = "Buka okuthunyelwe emphakathini";
+$Definition["View Details"] = "Buka Imininingwane";
+$Definition["Escalate"] = "Khuphuka";
+$Definition["Posted by <0/> in <1/>"] = "Kuthunyelwe ngu-<0/> ku-<1/>";
+$Definition["Show"] = "Bonisa";
+$Definition["View Escalation"] = "Buka Ukunyuka";
+$Definition["# Reports"] = "# Imibiko";
+$Definition["Last Reported"] = "Kugcine ukubikwa";
+$Definition["Report Reasons"] = "Bika Izizathu";
+$Definition["Last Modified"] = "Igcine Ukushintshwa";
+$Definition["Last refreshed <0/> by <1/>."] = "Igcine ukuvuselelwa <0/> ngu-<1/>.";
+
+$Definition["Moderation Content"] = "Okuqukethwe Okulinganiselwe";
+$Definition["AI Settings"] = "Izilungiselelo ze-AI";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "I-VIP Deploy";
+$Definition["Activity & Registration"] = "Umsebenzi Nokubhalisa";
+$Definition["Content Settings"] = "Izilungiselelo zokuqukethwe";
+$Definition["Premoderation Settings"] = "Izilungiselelo Zokuhlola Ngaphambili";
+$Definition["Escalation Rules"] = "Imithetho Yokukhuphuka";
+$Definition["Automation"] = "Okuzenzakalelayo";
+$Definition["Audit Log"] = "Ilogi yokuhlola";
+$Definition["Community Management"] = "Ukuphathwa Komphakathi";
+$Definition["Visualize Your Community"] = "Bona ngeso lengqondo Umphakathi Wakho";
+$Definition["Customize your community"] = "Enza ngendlela oyifisayo umphakathi wakho";
+$Definition["Configuration & Addons"] = "Ukucushwa & Addons";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Uqinisekile ukuthi ufuna ukususa i-%s yakho?";
+$Definition["Newest Report"] = "Umbiko Omusha";
+$Definition["Oldest Report"] = "Umbiko omdala kunayo yonke";
+$Definition["Report Dismissed"] = "Umbiko Uchithiwe";
+$Definition["Post Rejected"] = "Okuthunyelwe Kunqatshiwe";
+$Definition["Escalated"] = "Kwenyukile";
+$Definition["Reported by <0/>"] = "Kubikwe ngu-<0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Awekho amanothi ombiko anikezwe ngu-<0/>";
+$Definition["Create"] = "Dala";
+$Definition["Edited"] = "Kuhleliwe";
+$Definition["Newest Escalation"] = "Ukunyuka Okusha Kakhulu";
+$Definition["Oldest Escalation"] = "Ukwenyuka Okudala Kakhulu";
+$Definition["Escalations Dashboard"] = "Ideshibhodi yokwenyuka";
+$Definition["On Hold"] = "Kubanjiwe";
+$Definition["Done"] = "Kwenziwe";
+$Definition["In Jira"] = "KwaJira";
+$Definition["In Zendesk"] = "E-Zendesk";
+$Definition["Integrations"] = "Ukuhlanganiswa";
+$Definition["Remove Post"] = "Susa Okuthunyelwe";
+$Definition["Escalated by <0/>"] = "Kunyuke ngo-<0/>";
+$Definition["Enter a title for this escalation"] =
+    "Faka isihloko salokhu kunyuka";
+$Definition["Escalated by <0/>"] = "Kunyuke ngo-<0/>";
+$Definition["Post Revision"] = "Thumela Ukubuyekezwa";
+$Definition["Loader"] = "Isilayishi";
+$Definition["a month"] = "inyanga";
+$Definition["%s ago"] = "%s edlule";
+$Definition["Live"] = "Phila";
+$Definition["Live Post"] = "Okuthunyelwe Okubukhoma";
+$Definition["Remove Post"] = "Susa Okuthunyelwe";
+$Definition["Internal Comments"] = "Amazwana Angaphakathi";
+$Definition["Add a comment"] = "Engeza amazwana";
+$Definition["Live"] = "Phila";
+$Definition["There are currently no comments on this post"] =
+    "Okwamanje awekho amazwana kulokhu okuthunyelwe";
+$Definition["All comments on this post will appear here"] =
+    "Wonke amazwana kulokhu okuthunyelwe azovela lapha";
+$Definition["Reports for <0/>"] = "Imibiko ye-<0/>";
+$Definition["Live Post"] = "Okuthunyelwe Okubukhoma";
+$Definition["There are currently no reports for this post."] =
+    "Okwamanje ayikho imibiko yalokhu okuthunyelwe.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Uhlu lwemibiko ehlotshaniswa nalokhu okuthunyelwe luzovela lapha.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Lungiselela lapho kuthunyelwa khona imibiko futhi uphathe izizathu zombiko womphakathi wakho.";
+$Definition["New Community Management System"] =
+    "Uhlelo Olusha Lokuphathwa Komphakathi";
+$Definition["Enable Triage Dashboard"] = "Nika amandla Ideshibhodi ye-Triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Bonke abasebenzisi abanemvume yabasebenzi bazokwazi ukubona nokumaka izingxoxo njengezixazululiwe noma ezingaxazululiwe. Laba basebenzisi bazokwazi futhi ukufinyelela ideshibhodi yokuthathu ukuze bengamele izigaba zabo.";
+$Definition["Resolve All Discussions"] = "Xazulula Zonke Izingxoxo";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Xazulula Konke Okuthunyelwe kuzoxazulula konke okuthunyelwe okukhona emphakathini. Lesi senzo senqwaba ngeke sicuphe ama-webhooks noma izibalo.";
+$Definition["Resolve All"] = "Xazulula Konke";
+$Definition["Required field"] = "Inkambu edingekayo";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Uhlelo olusha lokuphatha umphakathi luvumela izizathu zokubika ngokwezifiso, ukukhuphuka, imisebenzi ezokwenziwa, kanye nemithetho yokuzenzakalela. Ukunika amandla lezi zinguquko zokubika ukuthatha ukuze usebenzise isistimu entsha. <0>Funda Kabanzi</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Lokhu kuzoxazulula konke okuthunyelwe okukhona emphakathini. Lesi senzo senqwaba ngeke sicuphe ama-webhook noma izibalo zokungena. Qhubeka?";
+$Definition["Reorder"] = "Hlela kabusha";
+$Definition["Add Reason"] = "Engeza Isizathu";
+$Definition["Delete?"] = "Susa?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Uqinisekile ukuthi ufuna ukususa lesi sizathu?";
+$Definition["A concise name for the report reason."] =
+    "Igama elifushane lesizathu sombiko.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Ilebula ehlukile yesizathu sombiko. Le lebula ayikwazi ukushintshwa uma isilondoloziwe.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Incazelo yesizathu sombiko ukuze izintatheli ezingcono zikhethe okulungile lapho zibika okuthunyelwe.";
+$Definition["The roles which can see this report reason."] =
+    "Izindima ezingabona isizathu sombiko.";
+$Definition["Add Report Reason"] = "Engeza Isizathu Sombiko";
+$Definition["Discard Changes?"] = "Lahla Izinguquko?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Uqinisekile ukuthi ufuna ukuphuma ngaphandle kokulondoloza?";
+$Definition["Reorder Report Reasons"] = "Hlela kabusha Izizathu Zombiko";
+$Definition["Edit Report Reason"] = "Hlela Isizathu Sombiko";
+$Definition["Delete Report Reason"] = "Susa Isizathu Sombiko";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Lesi silungiselelo kufanele sinikwe amandla ukuze usebenzise Imicu Yengxoxo Ngokwezifiso.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Lungiselela izilungiselelo ezisetshenziselwa ukulinganisa ngokuzenzakalelayo okuqukethwe komphakathi ngaphambi kokuthi kudalwe. Izinketho zifaka phakathi ukutholwa kogaxekile okuzenzakalelayo, okudinga imvume yokuthumela ezigabeni ezithile, nokudinga imvume yokuthumela kusetshenziswa amagama athile angukhiye noma imishwana.";
+$Definition["Spam Detection"] = "Ukutholwa kogaxekile";
+$Definition["Learn more."] = "Funda kabanzi.";
+$Definition["documentation."] = "imibhalo.";
+$Definition["Verify browsers of new members"] =
+    "Qinisekisa iziphequluli zamalungu amasha";
+$Definition["Challenge Cutoff Age"] = "Inselele ye-Cutoff Age";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Inombolo yezinsuku kusukela ekubhaliseni ukuze kudlule inselele ye-Cloudflare";
+$Definition["Save challenge cutoff age"] = "Londoloza iminyaka yokunqamula inselele";
+$Definition["Premoderated Roles"] = "Izindima Ezilinganiselwe";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Abasebenzisi abanemvume \"Yokuvunyelwa.Idinga\" bazodinga imvume yomongameli kukho konke okuthunyelwe.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Abasebenzisi abamakwe ngokuthi \"Kuqinisekisiwe\" bazoyidlula le mfuneko. Lezi izindima ezithi \"Imvume.Idinga\"";
+$Definition["No roles are currently set to require premoderation."] =
+    "Azikho izindima ezisethelwe ukuthi zidinga ukuhlolwa kusengaphambili.";
+$Definition["Edit Roles"] = "Hlela Izindima";
+$Definition["Premoderated Categories"] = "Izigaba ezilinganiswe ngaphambilini";
+$Definition["No categories are currently set to require premoderation."] =
+    "Azikho izigaba ezihlelelwe ukuthi zidinga ukuhlolwa kusengaphambili.";
+$Definition["Edit Categories"] = "Hlela Izigaba";
+$Definition["Premoderated Keywords"] = "Amagama angukhiye asetshenziswe ngaphambilini";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Okuthunyelwe okunanoma yimaphi amagama angukhiye alandelayo noma imisho kuzodinga imvume yomongameli.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Awekho amagama angukhiye okwamanje asethwe ukuthi adinge ukuhlolwa kusengaphambili.";
+$Definition["Edit Keywords"] = "Hlela amagama angukhiye";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Nika amandla i-Akismet ukuthi ihlunge ugaxekile kukho konke okuthunyelwe ngokubhaliswa kwabafake izicelo nabasebenzisi abangaqinisekisiwe. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Nika amandla i-Stopforumspam ukuze uhlole abasebenzisi bomphakathi ubaqhathanise nohlu logaxekile ababikiwe, futhi ubike okuthunyelwe njengogaxekile noma ukwanqabe ngokuqondile. Imikhawulo yokubika nokwenqaba iphethwe <0>kuzilungiselelo ze-addon</0> . Funda kabanzi ku-<1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Amalungu angaqinisekisiwe abe semphakathini isikhathi esingaphansi kwenani lezinsuku elishiwo azotshelwa ukuthi aqedele inselele ye-Cloudflare (Captcha noma Checkbox) ukuze avimbele ugaxekile. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "I-%s ezigabeni ezilandelayo izodinga imvume yomongameli.";
+$Definition["Default Sort Order"] = "I-oda Lokuhlunga Okuzenzakalelayo";
+$Definition["Choose the order records are sorted by default."] =
+    "Khetha amarekhodi e-oda ahlelwa ngokuzenzakalelayo.";
+$Definition["Show OP Indicator"] = "Bonisa i-OP Inkomba";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Uma le nketho inikwe amandla, izimpendulo ezisuka Kuphosta Yangempela zizoba nenkomba ye-OP.";
+$Definition["Show Badges"] = "Bonisa Amabheji";
+$Definition["Badges Limit"] = "Umkhawulo wamabheji";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Bonisa amabheji abasebenzisi kokuthunyelwe ngakunye. Amabheji afinyelela kwayi-5 angase aboniswe ngokwezinga eliphezulu kakhulu.";
+$Definition["event"] = "umcimbi";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> amazwana amaningi";
+$Definition["Export"] = "Thekelisa";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Izihloko zekhasi eliyisiqalo zingaba phakathi kwezinhlamvu ezi-1 nezingu-500 kuphela";
+$Definition["Address Bar Color"] = "Umbala Webha Yekheli";
+$Definition["Meta Tags"] = "I-Meta Tags";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Ama-Meta Tags asetshenziselwa ukuqinisekiswa kwesizinda se-Google Search Console nezinye izinsiza. Kopisha omaka be-Meta abadingekayo emthonjeni wakho bese unamathisele emugqeni omusha.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Chitha isikhathi esincane ucabanga ukuthi usichaza kanjani isiza sakho lapha. Ukunikeza isiza sakho isihloko esinenjongo nencazelo emfushane kungasiza isikhundla sakho ezinjini zokusesha.";
+$Definition["Style Guides"] = "Iziqondiso Zesitayela";
+$Definition["Branding & Assets"] = "Amabhrendi namafa";
+$Definition["Home Pages"] = "Amakhasi Asekhaya";
+$Definition["Home Layout Settings"] = "Izilungiselelo Zesakhiwo Sekhaya";
+$Definition["Category Pages"] = "Amakhasi Esigaba";
+$Definition["Category Layout Settings"] = "Izilungiselelo Zesakhiwo Sesigaba";
+$Definition["Category List Pages"] = "Amakhasi Ohlu Lwesigaba";
+$Definition["Posting Category Pages"] = "Ithumela Amakhasi Esigaba";
+$Definition["Nested Category Pages"] = "Amakhasi Esigaba Esifakiwe";
+$Definition["Discussion Pages"] = "Amakhasi Engxoxo";
+$Definition["Idea Pages"] = "Amakhasi Wombono";
+$Definition["Question Pages"] = "Amakhasi Emibuzo";
+$Definition["Post Pages"] = "Thumela Amakhasi";
+$Definition["Post Layout Settings"] = "Izilungiselelo zesakhiwo sokuthunyelwe";
+$Definition["Create Post Pages"] = "Dala Amakhasi Okuthunyelwe";
+$Definition["Create Post Layout Settings"] = "Dala Izilungiselelo Zesakhiwo Sokuthunyelwe";
+$Definition["Event Pages"] = "Amakhasi Omcimbi";
+$Definition["Event Layout Settings"] = "Izilungiselelo Zesakhiwo Somcimbi";
+$Definition["Knowledge Base Pages"] = "Amakhasi Ayisisekelo Solwazi";
+$Definition["Knowledge Base Layout Settings"] =
+    "Izilungiselelo Zesakhiwo Sesisekelo Solwazi";
+$Definition["Knowledge Base Home Pages"] = "Amakhasi Asekhaya Esisekelo Solwazi";
+$Definition["Help Center Home Pages"] = "Amakhasi Asekhaya Esikhungo Sosizo";
+$Definition["Help Center Category Pages"] = "Amakhasi Esigaba Sesikhungo Sosizo";
+$Definition["Help Center Article Pages"] = "Amakhasi E-athikili Yesikhungo Sosizo";
+$Definition["Guide Article Pages"] = "Amakhasi we-athikili yomhlahlandlela";
+$Definition["Layouts"] = "Izakhiwo";
+$Definition["Add Custom Layout"] = "Engeza Isakhiwo Ngokwezifiso";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Khetha Isakhiwo Sokuthunyelwe Kwakamuva Kwefa.";
+$Definition["Legacy Recent Posts Layouts"] = "Izakhiwo Zakamuva Zokuthunyelwe Okufa";
+$Definition["Change layout versions for the <0/>."] =
+    "Shintsha izinguqulo zesakhiwo se-<0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Ukuze ufunde kabanzi, <0>bona amadokhumenti</0> .";
+$Definition["Change %s"] = "Shintsha %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Uqinisekile ukuthi ufuna ukusebenzisa i-%s?";
+$Definition["Legacy Home Layouts"] = "Izakhiwo Zekhaya Lefa";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Khetha Isakhiwo Sekhaya Lefa osithandayo.";
+$Definition["Home Layout Version"] = "Inguqulo Yesakhiwo Sekhaya";
+$Definition["Custom Home Layouts"] = "Izakhiwo Zekhaya Ngokwezifiso";
+$Definition["Legacy Category Layout"] = "Isakhiwo Sesigaba Sefa";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Khetha Isakhiwo Sesigaba Sefa esithandwayo.";
+$Definition["Category Layout Version"] = "Inguqulo Yesakhiwo Sesigaba";
+$Definition["Legacy Category Layouts"] = "Izakhiwo Zesigaba Sefa";
+$Definition["Custom Category Layouts"] = "Izakhiwo Zesigaba Ngokwezifiso";
+$Definition["Legacy Post Layout"] = "Isakhiwo Sokuthunyelwe Kwefa";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Khetha Isakhiwo Sokuthunyelwe Kwefa osithandayo.";
+$Definition["Post Layout Version"] = "Inguqulo Yesakhiwo Sokuthunyelwe";
+$Definition["Legacy Post Layouts"] = "Izakhiwo Zokuthunyelwe Kwefa";
+$Definition["Custom Post Layouts"] = "Izakhiwo Zokuthunyelwe Ngokwezifiso";
+$Definition["Legacy Create Post Layout"] = "Ifa Lakha Isakhiwo Sokuthunyelwe";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Khetha Ifa Elikhethwayo Lokudala Isakhiwo Sokuthunyelwe.";
+$Definition["Create Post Layout Version"] = "Dala Inguqulo Yesakhiwo Sokuthunyelwe";
+$Definition["Legacy Create Post Layouts"] = "Ifa Lakha Izakhiwo Zeposi";
+$Definition["Custom Create Post Layouts"] = "Yenza ngokwezifiso Izakhiwo Zokuthunyelwe";
+$Definition["Legacy Event Layout"] = "Isakhiwo Somcimbi Wefa";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Khetha Isakhiwo Somcimbi Wefa osithandayo.";
+$Definition["Event Layout Version"] = "Inguqulo Yesakhiwo Somcimbi";
+$Definition["Legacy Event Layouts"] = "Izakhiwo Zomcimbi Wefa";
+$Definition["Custom Event Layouts"] = "Izakhiwo Zomcimbi Ngokwezifiso";
+$Definition["Created <0/> by <1/>."] = "Kudalwe <0/> ngu-<1/>.";
+$Definition["Layout Options"] = "Izinketho zesakhiwo";
+$Definition["Contextual Description"] = "Incazelo Yokuqukethwe";
+$Definition["Skip to end of Carousel"] = "Yeqela ekupheleni kwe-Carousel";
+$Definition["Previous Slides"] = "Amaslayidi Adlule";
+$Definition["Next Slides"] = "Amaslayidi Alandelayo";
+$Definition["indicator navigation"] = "inkomba navigation";
+$Definition["<0/> new"] = "<0/> okusha";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d amaslayidi ekubonisweni kwesilayidi sokuqala %d kwezingu-%d";
+$Definition["Unassigned"] = "Akunikeziwe";
+$Definition["Apply Layout to Site Home Page"] =
+    "Sebenzisa Isakhiwo Ekhasini Lasekhaya Lesayithi";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Setha njengesakhiwo esimisiwe semiphakathi ethile emincane.";
+$Definition["Apply to specific categories."] = "Sebenzisa ezigabeni ezithile.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Lesi sakhiwo asikwazi ukususwa ngoba siyisifanekiso sesakhiwo.";
+$Definition["Delete Layout"] = "Susa Isakhiwo";
+$Definition["Are you sure you want to delete?"] =
+    "Uqinisekile ukuthi ufuna ukususa?";
+$Definition["Applied"] = "Kusetshenzisiwe";
+$Definition["Applied as default"] = "Kusetshenziswe njengokuzenzakalelayo";
+$Definition["View Category"] = "Buka Isigaba";
+$Definition["Apply to specific subcommunities."] =
+    "Faka isicelo emiphakathini ethile engaphansi ethile.";
+$Definition["Unable to re-assign default template"] =
+    "Ayikwazi ukunikeza kabusha isifanekiso esizenzakalelayo";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Lesi sakhiwo siyisifanekiso futhi sabelwe njengokuzenzakalelayo kwawo wonke amakhasi alolu hlobo. Ukuze uyisuse njengemisiwe noma uyinikeze amakhasi athile, kufanele unikeze isakhiwo esihlukile njengesimisiwe.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Lesi sakhiwo asikwazi ukususwa ngoba sisetshenziswa njengamanje.";
+$Definition["Set as default layout for all <0 />."] =
+    "Setha njengesakhiwo esimisiwe sabo bonke <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Isakhiwo Sesisekelo Solwazi Lwefa";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Khetha Isakhiwo Sesisekelo Solwazi Lwefa osithandayo.";
+$Definition["Knowledge Base Layout Version"] = "Inguqulo ye-Knowledge Base Layout";
+$Definition["Legacy Knowledge Base Layouts"] = "Izakhiwo Zesisekelo Solwazi Lwefa";
+$Definition["Custom Knowledge Base Layouts"] = "Izakhiwo Zesisekelo Solwazi Ngokwezifiso";
+$Definition["Article Count"] = "Ukubalwa kwe-athikili";
+$Definition["Legacy Layouts enabled"] = "Izakhiwo Zefa zinikwe amandla";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Qaphela ukuthi lolu shintsho lwesakhiwo ngeke lubonakale uze ushintshele ezakhiweni ezingokwezifiso.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Lolu shintsho lwesakhiwo ngeke lubonakale uze ushintshele umphakathi wakho wenze ngokwezifiso <0/> ekhasini le-<1/>.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Setha njengesakhiwo esimisiwe sezisekelo zolwazi oluthile.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Isayithi alikuvumeli ukuthi uxhumane nomsebenzisi okhona.";
+$Definition["The username you entered has already been taken."] =
+    "Igama lomsebenzisi olifakile selithathiwe.";
+$Definition["There was an error fetching the connection data."] =
+    "Kube nephutha ekulandeni idatha yokuxhumana.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Yehlulekile ukugunyaza isicelo sakho sokusetha kabusha iphasiwedi. Zama ukusebenzisa ifomu lesicelo sokusetha kabusha futhi.";
+$Definition["Invitation not found."] = "Isimemo asitholakali.";
+
+$Definition['# of automation rules'] = 'Inombolo yemithetho yokuzenzakalela';
+$Definition['Add Template'] = 'Engeza Isifanekiso';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Khetha ukuthi ubani okufanele athole le imeyili uma lo mthetho wokuzenzakalela usebenza';
+$Definition['Delete an email template.'] = 'Susa ithempulethi ye-imeyili.';
+$Definition['Email Audience'] = 'I-imeyili Yezithameli';
+$Definition['Email Template'] = 'Isifanekiso se-imeyili';
+$Definition['Email Templates'] = 'Amathempulethi e-imeyili';
+$Definition['Email Template successfully deleted.'] = 'Isifanekiso se-imeyili sisusiwe ngempumelelo.';
+$Definition['Email Template not enabled.'] = 'Isifanekiso se-imeyili asivunyelwe.';
+$Definition['Email template not found.'] = 'Ithempulethi ye-imeyili ayitholakalanga.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Igama lesifanekiso se-imeyili selivele likhona. Faka igama elihlukile ukuze uqhubeke.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Amathempulethi e-imeyili angasetshenziswa kanye ne-<0/> ukuxhumana nabasebenzisi ngokusekelwe emisebenzini yamalungu noma ezinye izimbangela zomphakathi.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Nika amandla le nketho yokuthumela i-imeyili yokulandelela uma umthetho usuqalisiwe.';
+$Definition['Impacted User'] = 'Umsebenzisi Othintekile';
+$Definition['Search and select one or more roles to receive this email'] = 'Sesha bese ukhetha indima eyodwa noma ngaphezulu ukuze uthole le imeyili';
+$Definition['Search and select one or more users to receive this email.'] = 'Sesha bese ukhetha umsebenzisi oyedwa noma ngaphezulu ukuze uthole le imeyili.';
+$Definition['Select Roles'] = 'Khetha Izindima';
+$Definition['Select User'] = 'Khetha Umsebenzisi';
+$Definition['Select the email template to send.'] = 'Khetha ithempulethi ye-imeyili ozoyithumela.';
+$Definition['Send an Email After This Rule Runs'] = 'Thumela i-imeyili Ngemva kokuthi Lo Mthetho Usebenze';
+$Definition['Send email'] = 'Thumela i-imeyili';
+$Definition['Send the email'] = 'Thumela i-imeyili';
+$Definition['Send email to user'] = 'Thumela i-imeyili kumsebenzisi';
+$Definition['Specific Roles'] = 'Izindima Ezithile';
+$Definition['Specific Users'] = 'Abasebenzisi Abathile';
+$Definition['System email templates cannot be deleted.'] = 'Amathempulethi e-imeyili yesistimu awakwazi ukususwa.';
+$Definition['template name'] = 'igama lesifanekiso';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Sebenzisa leli khasi ukudala nokuphatha izifanekiso zakho, bese ulungiselela i-<0/> yakho ukulawula ukuthi i-imeyili ngayinye ithunyelwa nini nokuthi kubani.';
+$Definition['View the full list of available placeholders.'] = 'Buka uhlu oluphelele lwezibambi-ndawo ezitholakalayo.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Ungafaka futhi izibambi-ndawo kokuqukethwe kwe-imeyili yakho—lezi zizothathelwa indawo ngokuzenzakalelayo ngolwazi lomsebenzisi noma lokuposa olufanele uma i-imeyili ithunyelwa. Isibonelo, Sawubona {user.name}! noma Hlola {discussion.name}.';
+$Definition['You cannot delete system emails'] = 'Awukwazi ukususa ama-imeyili esistimu';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Awukwazi ukususa ithempulethi esetshenziswa emithethweni yokuzenzakalela.';
+$Definition['You will no longer receive community engagement emails.'] = 'Ngeke usathola ama-imeyili okuxhumana nomphakathi.';
+$Definition['Delete Email Template'] = 'Susa Isifanekiso Se-imeyili';
+$Definition["Template Styles"] = "Izitayela Zethempulethi";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Shiya noma iyiphi insimu ingenalutho ukuze usebenzise izitayela zakho ze-imeyili ezizenzakalelayo njengoba zilungiselelwe ku-<0>Izilungiselelo ze-imeyili</0> ikhasi.";

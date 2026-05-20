@@ -1761,3 +1761,184 @@ $Definition['Zendesk Knowledge Bases'] = 'Zendesk-Wissensbasen';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom-Meeting-ID oder -URL';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} hat die Antwort von {NotifyUserID,your} auf eine Frage angenommen: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Die Homepage-Titel können nur zwischen 1 und 500 Zeichen lang sein";
+$Definition["Address Bar Color"] = "Farbe der Adressleiste";
+$Definition["Meta Tags"] = "Metatags";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Metatags werden zur Domainverifizierung für die Google-Suchkonsole und andere Dienstleistungen verwendet. Kopieren Sie die erforderlichen Metatags aus Ihrer Quelle und fügen Sie sie in einer neuen Zeile ein.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Nimm dir einen Moment, um dir zu überlegen, wie du deine Seite beschreiben kannst. Ein guter Name und eine treffende Beschreibung kann deine Position in Suchmaschinenrankings beeinflussen.";
+$Definition["Style Guides"] = "Stilrichtlinien";
+$Definition["Branding & Assets"] = "Markenbildung und Assets";
+$Definition["Home Pages"] = "Homepages";
+$Definition["Home Layout Settings"] = "Einstellungen für das Startseiten-Layout";
+$Definition["Category Pages"] = "Kategorie";
+$Definition["Category Layout Settings"] = "Einstellungen für das Kategorien-Layout";
+$Definition["Category List Pages"] = "Kategorielisten-Seiten";
+$Definition["Posting Category Pages"] = "Kategorieseiten veröffentlichen";
+$Definition["Nested Category Pages"] = "Verschachtelte Kategorienseiten";
+$Definition["Discussion Pages"] = "Diskussionsseiten";
+$Definition["Idea Pages"] = "Ideenseiten";
+$Definition["Question Pages"] = "Frageseiten";
+$Definition["Post Pages"] = "Veröffentlichungsseiten";
+$Definition["Post Layout Settings"] = "Einstellungen für das Veröffentlichungs-Layout";
+$Definition["Create Post Pages"] = "Veröffentlichungsseiten erstellen";
+$Definition["Create Post Layout Settings"] = "Veröffentlichungs-Layouteinstellungen erstellen";
+$Definition["Event Pages"] = "Ereignisseiten";
+$Definition["Event Layout Settings"] = "Ereignis-Layouteinstellungen";
+$Definition["Knowledge Base Pages"] = "Wissensbasis-Seiten";
+$Definition["Knowledge Base Layout Settings"] =
+    "Wissensbasis-Layouteinstellungen";
+$Definition["Knowledge Base Home Pages"] = "Wissensbasis-Startseiten";
+$Definition["Help Center Home Pages"] = "Hilfecenter-Startseiten";
+$Definition["Help Center Category Pages"] = "Hilfecenter-Kategorienseiten";
+$Definition["Help Center Article Pages"] = "Hilfecenter-Artikelseiten";
+$Definition["Guide Article Pages"] = "Anleitungsartikel-Seiten";
+$Definition["Layouts"] = "Layouts";
+$Definition["Add Custom Layout"] = "Individuelles Layout hinzufügen";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Wählen Sie das bevorzugte tradierte Layout für kürzliche Beiträge aus.";
+$Definition["Legacy Recent Posts Layouts"] = "Tradierte Layouts für kürzliche Beiträge";
+$Definition["Change layout versions for the <0/>."] =
+    "Layoutversionen für die <0/> ändern.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Um mehr zu erfahren, <0>sehen Sie sich die Dokumentation an</0>.";
+$Definition["Change %s"] = "%s ändern";
+$Definition["Are you sure you want to use %s?"] =
+    "Wollen Sie wirklich %s verwenden?";
+$Definition["Legacy Home Layouts"] = "Tradierte Startseiten-Layouts";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Wählen Sie das bevorzugte tradierte Layout für die Startseite aus.";
+$Definition["Home Layout Version"] = "Startseiten-Layoutversion";
+$Definition["Custom Home Layouts"] = "Individuelle Startseiten-Layouts";
+$Definition["Legacy Category Layout"] = "Tradiertes Kategorienlayout";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Wählen Sie das bevorzugte tradierte Kategorien-Layout aus.";
+$Definition["Category Layout Version"] = "Kategorien-Layoutversion";
+$Definition["Legacy Category Layouts"] = "Tradierte Kategorien-Layouts";
+$Definition["Custom Category Layouts"] = "Individuelle Kategorien-Layouts";
+$Definition["Legacy Post Layout"] = "Tradiertes Beitrags-Layout";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Wählen Sie das bevorzugte tradierte Beitrags-Layout aus.";
+$Definition["Post Layout Version"] = "Beitrags-Layoutversion";
+$Definition["Legacy Post Layouts"] = "Tradierte Beitrags-Layouts";
+$Definition["Custom Post Layouts"] = "Individuelle Beitrags-Layouts";
+$Definition["Legacy Create Post Layout"] = "Tradiertes Layout zur Beitragserstellung";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Wählen Sie das bevorzugte tradierte Layout zur Beitragserstellung aus.";
+$Definition["Create Post Layout Version"] = "Eine Beitrags-Layoutversion erstellen";
+$Definition["Legacy Create Post Layouts"] = "Tradierte Layouts zur Beitragserstellung";
+$Definition["Custom Create Post Layouts"] = "Individuelle Layouts zur Erstellung von Beiträgen";
+$Definition["Legacy Event Layout"] = "Tradiertes Ereignis-Layout";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Wählen Sie das bevorzugte tradierte Ereignis-Layout aus.";
+$Definition["Event Layout Version"] = "Ereignis-Layoutversion";
+$Definition["Legacy Event Layouts"] = "Tradierte Ereignis-Layouts";
+$Definition["Custom Event Layouts"] = "Individuelle Ereignis-Layouts";
+$Definition["Created <0/> by <1/>."] = "Erstellt <0/> von <1/>.";
+$Definition["Layout Options"] = "Layout-Optionen";
+$Definition["Contextual Description"] = "Kontextbeschreibung";
+$Definition["Skip to end of Carousel"] = "Ans Ende des Karussells springen";
+$Definition["Previous Slides"] = "Vorige Folien";
+$Definition["Next Slides"] = "Nächste Folien";
+$Definition["indicator navigation"] = "Indikator-Navigation";
+$Definition["<0/> new"] = "<0/> neu";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d Folien werden angezeigt, erste Folie %d von %d";
+$Definition["Unassigned"] = "Nicht zugewiesen";
+$Definition["Apply Layout to Site Home Page"] =
+    "Layout auf die Startseite der Website anwenden";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Als Standard-Layout für bestimmte Untergruppen von Gemeinschaften einstellen.";
+$Definition["Apply to specific categories."] = "Auf bestimmte Kategorien anwenden.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Dieses Layout kann nicht gelöscht werden, weil es eine Layout-Vorlage ist.";
+$Definition["Delete Layout"] = "Layout löschen";
+$Definition["Are you sure you want to delete?"] =
+    "Wollen Sie wirklich löschen?";
+$Definition["Applied"] = "Angewendet";
+$Definition["Applied as default"] = "Als Standard angewendet";
+$Definition["View Category"] = "Kategorie ansehen";
+$Definition["Apply to specific subcommunities."] =
+    "Auf bestimmte Untergruppen von Gemeinschaften anwenden.";
+$Definition["Unable to re-assign default template"] =
+    "Die Standard-Vorlage kann nicht erneut zugewiesen werden";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Dieses Layout ist eine Vorlage und wird als Standard für alle Seiten dieses Typs zugewiesen. Um es als Standard zu löschen oder es für bestimmte Seiten zuzuweisen, müssen Sie ein anderes Layout als Standard festlegen.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Dieses Layout kann nicht gelöscht werden, weil es aktuell angewendet wird.";
+$Definition["Set as default layout for all <0 />."] =
+    "Als Standard-Layout für alle <0 /> einstellen.";
+$Definition["Legacy Knowledge Base Layout"] = "Tradiertes Layout für die Wissensbasis";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Wählen Sie das bevorzugte tradierte Layout für die Wissensbasis aus.";
+$Definition["Knowledge Base Layout Version"] = "Wissensbasis-Layoutversion";
+$Definition["Legacy Knowledge Base Layouts"] = "Tradierte Layouts für die Wissensbasis";
+$Definition["Custom Knowledge Base Layouts"] = "Individuelle Wissensbasis-Layouts";
+$Definition["Article Count"] = "Artikelanzahl";
+$Definition["Legacy Layouts enabled"] = "Die tradierte Layouts sind aktiviert";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Beachten Sie bitte, das diese Layoutveränderung nicht sichtbar wird, wenn Sie nicht auf individuelle Layouts umschalten.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Diese Layoutveränderung wird nicht sichtbar, bis Sie Ihre Gemeinschaft auf den Standard <0/> in der <1/>-Seite umstellen";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Als Standardlayout für bestimmte Wissensbasen einstellen.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Diese Seite erlaubt keine Verbindung zu einem bestehenden Benutzer.";
+$Definition["The username you entered has already been taken."] =
+    "Der eingegebene Benutzername ist bereits vergeben.";
+$Definition["There was an error fetching the connection data."] =
+    "Beim Abrufen der Verbindungsdaten ist ein Fehler aufgetreten.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Die Authentifizierung Ihrer Anfrage zum Zurücksetzen des Passworts ist fehlgeschlagen. Versuchen Sie es noch einmal über das Formular zum Zurücksetzen.";
+$Definition["Invitation not found."] = "Einladung nicht gefunden.";
+
+$Definition['# of automation rules'] = 'Anzahl der Automatisierungsregeln';
+$Definition['Add Template'] = 'Vorlage hinzufügen';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Wählen Sie aus, wer diese E-Mail erhalten soll, wenn diese Automatisierungsregel ausgeführt wird';
+$Definition['Delete an email template.'] = 'E-Mail-Vorlage löschen.';
+$Definition['Email Audience'] = 'E-Mail-Empfänger';
+$Definition['Email Template'] = 'E-Mail-Vorlage';
+$Definition['Email Templates'] = 'E-Mail-Vorlagen';
+$Definition['Email Template successfully deleted.'] = 'E-Mail-Vorlage erfolgreich gelöscht.';
+$Definition['Email Template not enabled.'] = 'E-Mail-Vorlage nicht aktiviert.';
+$Definition['Email template not found.'] = 'E-Mail-Vorlage nicht gefunden.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Der Name der E-Mail-Vorlage existiert bereits. Geben Sie einen eindeutigen Namen ein, um fortzufahren.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'E-Mail-Vorlagen können in Verbindung mit <0/> verwendet werden, um mit Benutzern auf der Grundlage von Mitgliederaktivitäten oder anderen Community-Auslösern zu kommunizieren.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Aktivieren Sie diese Option, um eine Folge-E-Mail zu senden, wenn die Regel ausgelöst wird.';
+$Definition['Impacted User'] = 'Betroffener Benutzer';
+$Definition['Search and select one or more roles to receive this email'] = 'Suchen und wählen Sie eine oder mehrere Rollen aus, die diese E-Mail erhalten sollen';
+$Definition['Search and select one or more users to receive this email.'] = 'Suchen und wählen Sie einen oder mehrere Benutzer aus, die diese E-Mail erhalten sollen.';
+$Definition['Select Roles'] = 'Rollen auswählen';
+$Definition['Select User'] = 'Benutzer auswählen';
+$Definition['Select the email template to send.'] = 'Wählen Sie die zu versendende E-Mail-Vorlage aus.';
+$Definition['Send an Email After This Rule Runs'] = 'E-Mail senden, nachdem diese Regel ausgeführt wurde';
+$Definition['Send email'] = 'E-Mail senden';
+$Definition['Send the email'] = 'E-Mail senden';
+$Definition['Send email to user'] = 'E-Mail an Benutzer senden';
+$Definition['Specific Roles'] = 'Bestimmte Rollen';
+$Definition['Specific Users'] = 'Bestimmte Benutzer';
+$Definition['System email templates cannot be deleted.'] = 'System-E-Mail-Vorlagen können nicht gelöscht werden.';
+$Definition['template name'] = 'Vorlagenname';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Verwenden Sie diese Seite, um Ihre Vorlagen zu erstellen und zu verwalten, und konfigurieren Sie anschließend Ihr <0/>, um zu steuern, wann und an wen jede E-Mail gesendet wird.';
+$Definition['View the full list of available placeholders.'] = 'Zeigen Sie die vollständige Liste der verfügbaren Platzhalter an.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Sie können auch Platzhalter in Ihren E-Mail-Inhalten einfügen – diese werden beim Versand der E-Mail automatisch durch relevante Benutzer- oder Beitragsinformationen ersetzt. Zum Beispiel: Hallo {user.name}! oder Schauen Sie sich {discussion.name} an.';
+$Definition['You cannot delete system emails'] = 'Sie können keine System-E-Mails löschen';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Sie können keine Vorlage löschen, die in Automatisierungsregeln verwendet wird.';
+$Definition['You will no longer receive community engagement emails.'] = 'Sie erhalten keine E-Mails zur Community-Interaktion mehr.';
+$Definition['Delete Email Template'] = 'E-Mail-Vorlage löschen';
+$Definition["Template Styles"] = "Vorlagenstile";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Lassen Sie ein Feld leer, um Ihre Standard-E-Mail-Stile zu verwenden, wie sie auf der Seite <0>E-Mail-Einstellungen</0> konfiguriert sind.";

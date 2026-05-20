@@ -1708,3 +1708,650 @@ $Definition['Zendesk Knowledge Bases'] = 'پایگاه های دانش Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'شناسه یا نشانی وب جلسه بزرگنمایی';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} پاسخ {NotifyUserID,your} به یک سوال را پذیرفت: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition["Mobile Logo"] = "لوگوی موبایل";
+$Definition["Banner Image"] = "تصویر بنر";
+$Definition["Disable Forum Pages"] = "غیرفعال کردن صفحات انجمن";
+
+// Posting settings
+$Definition["InputFormatter.Notes1"] =
+    "قالب پیشفرض ویرایشگر را برای مطالب انجمن انتخاب کنید.";
+$Definition["InputFormatter.Notes2"] =
+    "ویرایشگر قالب های پست های قدیمی را هنگام ویرایش آنها تشخیص می دهد و قوانین قالب بندی اولیه خود را بارگذاری می کنند. بجز این استثنا، فرمت مطلب انتخاب شده در زیر مقدم است.";
+$Definition["Formatting Posts"] = "قالب بندی پست ها";
+$Definition["MobileInputFormatter.Notes1"] =
+    "یک فرمت ویرایش برای دستگاه های تلفن همراه مشخص کنید.";
+$Definition["MobileInputFormatter.Notes2"] =
+    "اگر دستگاه های تلفن همراه باید تجربه یکسان را داشته باشند، موارد بالا را مشخص کنید. اگر کاربران مشکلات مربوط به ویرایش در موبایل را گزارش کنند، اینجا امکانات خوبی برای تغییر موجود است.";
+$Definition["Note:"] = "توجه:";
+$Definition["Post Format"] = "فرمت مطلب";
+$Definition["Posting"] = "ارسال";
+$Definition["Reinterpret All Posts As %s"] = "همه پست ها را به %s تفسیر مجدد کنید";
+$Definition["Tell the editor to reinterpret all old posts as %s."] =
+    "به ویرایشگر بگویید همه پست‌های قدیمی را مجدداً به عنوان %s تفسیر کند.";
+$Definition[
+    "This setting will only take effect if %s was chosen as the Post Format above."
+] =
+    "این تنظیم تنها در صورتی اعمال می‌شود که %s به‌عنوان قالب پست بالا انتخاب شده باشد.";
+$Definition["This option is to normalize the editor format"] =
+    "این گزینه برای عادی سازی فرمت ویرایشگر است، اگر پست های قدیمی تر ویرایش شده با فرمت دیگری مانند markdown یا BBCode بارگذاری شوند، این گزینه %s را مجبور می کند.";
+
+$Definition["Mobile Format"] = "فرمت موبایل";
+$Definition["Enable Rich Quotes"] = "فعال کردن نقل قول های تو در تو";
+$Definition["RichEditor.QuoteEnable.Notes"] =
+    'از گزینه زیر برای فعال کردن نقل قول ها برای ویرایشگر غنی استفاده کنید. فقط در صورتی اعمال خواهد شد که قالب بندی پیش فرض "غنی" باشد.';
+
+// Catalogue Display Plugin/Formats
+$Definition["Default placeholder"] = "مکان یاب پیش فرض";
+$Definition["Upload a placeholder image for catalogue post."] =
+    "تصویری مکان نگهدارنده را بارگذاری کنید که وقتی کاربران فاقد تصویری در پست خود هستند ، نمایش داده شود.";
+$Definition["Additional classes"] = "کلاسهای اضافی";
+$Definition["Apply additional classes on catalogue image."] =
+    "کلاسهای اضافی را روی تصویر کاتالوگ اعمال کنید. برای جدا کردن هر کلاس از فضا استفاده کنید.";
+$Definition["Category only"] = "فقط رده";
+$Definition["Display on category page only."] =
+    "فقط در صفحه رده نمایش داده شود لیست مباحث اخیر تحت تأثیر قرار نمی گیرد.";
+$Definition["Use Masonry display"] = "از صفحه نمایش سنگ تراشی استفاده کنید";
+$Definition["Show an uploaded image on the Category page."] =
+    'هر بحث تصویری بارگذاری شده را در صفحه رده نشان می دهد. این فقط در مورد دسته هایی با "بحث" به عنوان "نمایش به عنوان" اعمال می شود.';
+$Definition["Upload Placeholder Image"] = "تصویر مکان نگهدار را بارگذاری کنید";
+
+// Profile Fields
+$Definition["There was an error saving your changes. Please try again."] =
+    "هنگام ذخیره تغییرات شما خطایی روی داد. لطفا دوباره تلاش کنید.";
+$Definition["<0/> has been <1/>"] = "<0/> <1/> بوده است";
+$Definition["enabled"] = "فعال شد";
+$Definition["disabled"] = "معلول";
+
+$Definition[
+    "This information will only be shown to users with permission to view internal info"
+] =
+    "این اطلاعات فقط به کاربرانی که اجازه مشاهده اطلاعات داخلی را دارند نشان داده می شود";
+$Definition[
+    "This is private information and will not be shared with other members."
+] = "این اطلاعات خصوصی است و با سایر اعضا به اشتراک گذاشته نخواهد شد.";
+
+$Definition[
+    "This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host."
+] =
+    "این یک جلسه Zoom از طرف مالک ادغام Zoom ایجاد می کند و اگر کاربر ثبت شده هستید، شما را به عنوان cohost اضافه می کند. اگر کاربر ثبت‌شده Zoom نیستید یا بخشی از سازمانی نیستید که ادغام را راه‌اندازی کرده است، این رویداد ممکن است عملکرد Zoom را بدون میزبان محدود کند.";
+$Definition['You cannot update this event\'s Zoom URL or ID.'] =
+    'شما نمی توانید نشانی وب یا شناسه بزرگنمایی این رویداد را به روز کنید.';
+
+$Definition["Zoom Meeting ID or URL"] = "شناسه یا نشانی وب جلسه بزرگنمایی";
+
+// Automation Rules
+$Definition["Add tag"] = "برچسب اضافه کنید";
+$Definition["A post"] = "یک پست";
+$Definition["A post has been added to a collection"] =
+    "یک پست به مجموعه اضافه شد";
+$Definition["A post has not had any activity"] =
+    "یک پست هیچ فعالیتی نداشته است";
+$Definition["A question"] = "یه سوال";
+$Definition["A user has been registered"] = "یک کاربر ثبت شده است";
+$Definition["A post has received"] = "یک پست دریافت شده است";
+$Definition["Date field reached"] = "فیلد تاریخ رسیده شده";
+$Definition["A user registers or logs in with email domain:"] =
+    "کاربر با دامنه ایمیل ثبت یا وارد می شود:";
+$Definition["A user registers or updates a profile field:"] =
+    "کاربر یک فیلد نمایه را ثبت یا به روز می کند:";
+$Definition["Add tags:"] = "اضافه کردن برچسب ها:";
+$Definition["Add to collection:"] = "افزودن به مجموعه:";
+$Definition["An idea has received"] = "ایده ای دریافت شده است";
+$Definition["and"] = "و";
+$Definition["and assign to"] = "و اختصاص به";
+$Definition["and remove role"] = "و نقش را حذف کنید";
+$Definition["and remove from community"] = "و از جامعه حذف شود";
+$Definition["Assign role:"] = "اختصاص نقش:";
+$Definition["Assign/Remove role"] = "اختصاص/حذف نقش";
+$Definition["Auto-run disabled."] = "اجرای خودکار غیرفعال است.";
+$Definition["Auto-run enabled."] = "اجرای خودکار فعال شد.";
+$Definition["Automation rule successfully created."] =
+    "قانون اتوماسیون با موفقیت ایجاد شد.";
+$Definition["Automation rule successfully updated."] =
+    "قانون اتوماسیون با موفقیت به روز شد.";
+$Definition["Bump post"] = "پست دست انداز";
+$Definition["Change the status of the idea to"] =
+    "تغییر وضعیت ایده به";
+$Definition["Change status"] = "تغییر وضعیت";
+$Definition["Close post"] = "بستن پست";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "نظرات مطابق با معیارها در حال حاضر: <0 />";
+$Definition["created by"] = "ایجاد شده توسط";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "برای مدیریت آسان پست ها و کاربران، اتوماسیون هایی ایجاد و مدیریت کنید.";
+$Definition["Create/Edit Automation Rule"] = "ایجاد/ویرایش قانون اتوماسیون";
+$Definition["Delete Rule"] = "حذف قانون";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "اکنون معیارهای تطبیق بحث ها: <0 />";
+$Definition["Edit Rule"] = "ویرایش قانون";
+$Definition["Edit Variables"] = "ویرایش متغیرها";
+$Definition["Escalate it"] = "آن را تشدید کنید";
+$Definition["Escalate to GitHub"] = "به GitHub ارتقا دهید";
+$Definition["Escalate to Zendesk"] = "افزایش به Zendesk";
+$Definition["Expand"] = "گسترش دهید";
+$Definition["Failed to disable the rule"] = "این قانون غیرفعال نشد";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "داده های پیش نمایش بارگیری نشد. لطفاً مقادیر محرک و عمل خود را بررسی کنید.";
+$Definition["Follow categories:"] = "دسته بندی ها را دنبال کنید:";
+$Definition["Follow category"] = "دنبال کردن دسته";
+$Definition["for"] = "برای";
+$Definition["has been unanswered"] = "بی پاسخ مانده است";
+$Definition["has not received any comments"] = "هیچ نظری دریافت نکرده است";
+$Definition["Last reported"] = "آخرین گزارش شده";
+$Definition["Maximum Limit Reached"] = "به حداکثر حد رسیده است";
+$Definition["Move post"] = "انتقال پست";
+$Definition["Move to category:"] = "انتقال به دسته:";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "اگر کاربر هر یک از معیارها را داشته باشد، فیلدهای چند انتخابی فعال می شوند.";
+$Definition["New/Updated Email domain"] = "دامنه ایمیل جدید/به روز شده";
+$Definition["New/Updated Profile field"] = "فیلد نمایه جدید/به روز شده";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "توجه: اقداماتی که قبلاً عملکرد مرتبط را اعمال کرده اند، بر <0 /> تأثیر نمی گذارد.";
+$Definition["Post Management"] = "مدیریت پست";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "پست ها با معیارهای منطبق در حال حاضر: <0 />";
+$Definition["Remove from collection"] = "حذف از مجموعه";
+$Definition["Remove from collection:"] = "حذف از مجموعه:";
+$Definition["Remove from default follow list"] =
+    "حذف از لیست فالو پیش فرض";
+$Definition["Remove from trigger collection"] =
+    "حذف از مجموعه ماشه";
+$Definition["report"] = "گزارش دهید";
+$Definition["reports"] = "گزارش می دهد";
+$Definition["Rule Action"] = "اقدام قانون";
+$Definition["Rule may not be deleted while it is running"] =
+    "قانون ممکن است در حین اجرا حذف نشود";
+$Definition["Rule may not be edited while it is running"] =
+    "قانون ممکن است در حین اجرا ویرایش نشود";
+$Definition["Rule Name"] = "نام قانون";
+$Definition["Rule status will apply once current run completes"] =
+    "وضعیت قانون پس از اتمام اجرای فعلی اعمال می شود";
+$Definition["Rule Trigger"] = "ماشه قانون";
+$Definition["Running"] = "در حال دویدن";
+$Definition["See documentation for more information."] =
+    "برای اطلاعات بیشتر به مستندات مراجعه کنید.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "اقدامی را که هنگام اجرای این قانون رخ می دهد، انتخاب کنید.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "ماشه ای را انتخاب کنید که باعث اجرای این قانون می شود.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "متغیر ماشه و متغیر اقدام را برای ایجاد خلاصه قانون تنظیم کنید.";
+$Definition["sentiment"] = "احساس";
+$Definition["since"] = "از آنجایی که";
+$Definition["Summary"] = "خلاصه";
+$Definition["The action will be applied to only them if you proceed."] =
+    "اگر ادامه دهید، این اقدام فقط برای آنها اعمال خواهد شد.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "زمانی که قانون فعال شود، این عمل برای آنها اعمال می شود. در آینده، سایر <0 /> که معیارهای ماشه را برآورده می کنند، این عمل برای آنها نیز اعمال خواهد شد.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "این در حال حاضر روی هیچ <0 /> تأثیر نمی گذارد. در آینده بر کسانی که معیارها را برآورده می کنند تأثیر می گذارد.";
+$Definition["Time since added to collection"] =
+    "زمان از زمان اضافه شدن به مجموعه";
+$Definition["Time since post has had no comments"] =
+    "زمان از زمان ارسال هیچ نظری نداشته است";
+$Definition["Time since Registration"] = "زمان از زمان ثبت نام";
+$Definition["Time since post has had no activity"] =
+    "زمان از زمان ارسال هیچ فعالیتی نداشته است";
+$Definition["Time since question has been unanswered"] =
+    "مدتی است که سوال بی پاسخ مانده است";
+$Definition["Trigger"] = "ماشه";
+$Definition["Unsaved Changes"] = "تغییرات ذخیره نشده";
+$Definition["Up to <0 /> ago."] = "تا <0 /> قبل.";
+$Definition["upvote"] = "رای موافق";
+$Definition["upvotes"] = "رای موافق";
+$Definition["User Management"] = "مدیریت کاربر";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "کاربران اکنون با معیارهای مطابقت دارند: <0 />";
+$Definition["Value is not a valid integer."] = "مقدار یک عدد صحیح معتبر نیست.";
+$Definition["View History"] = "مشاهده تاریخچه";
+$Definition["Votes on an idea"] = "رای دادن به یک ایده";
+$Definition["with"] = "با";
+$Definition["with reason"] = "با دلیل";
+$Definition["with tag"] = "با برچسب";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "شما نمی توانید بیش از 150 قانون اتوماسیون اضافه کنید. برخی از قوانین را حذف کنید و دوباره امتحان کنید.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "هیچ نمادی با آن فیلترها مطابقت ندارد.";
+$Definition["Manage Icon"] = "نماد مدیریت";
+$Definition["Manage Icons"] = "مدیریت آیکون ها";
+$Definition["Manage Icon helptext"] =
+    "در اینجا می توانید نمادهای سیستم و تاریخی را مدیریت کنید. هنگام آپلود، مطمئن شوید که نماد در قالب SVG است، دارای ویژگی viewBox است و از رنگ #000000 استفاده می کند تا اطمینان حاصل شود که می توان آن را به صورت پویا بر اساس تنظیمات تم و تعاملات کاربر رنگ آمیزی کرد. فقط یک نماد از هر نوع می تواند در یک زمان فعال باشد.";
+$Definition["Upload New Icon"] = "آپلود آيكن جديد";
+$Definition["Active Icon"] = "نماد فعال";
+$Definition["New Icon"] = "آيكن جديد";
+$Definition["Icon Type"] = "نوع آیکون";
+$Definition["Previous Icons"] = "نمادهای قبلی";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "نسخه‌های قبلی نمادهای شما را می‌توانید در اینجا پیدا کنید و در هر زمانی بازیابی کنید.";
+$Definition["Set as Active"] = "به عنوان Active تنظیم کنید";
+$Definition["Uploaded <0/> by <1/>"] = "<0/> توسط <1/> آپلود شد";
+$Definition["Icon Packs"] = "بسته های آیکون";
+$Definition["Download Active Icon Pack"] = "بسته آیکون فعال را دانلود کنید";
+$Definition["Download System Icon Pack"] = "بسته آیکون سیستم را دانلود کنید";
+$Definition["Upload Icon Pack"] = "بسته آیکون را آپلود کنید";
+$Definition["Preview Icon Pack"] = "بسته آیکون پیش نمایش";
+$Definition["Changed Icons"] = "آیکون های تغییر یافته";
+$Definition["Icon Name"] = "نام نماد";
+$Definition["All icons in this icon pack are currently active."] =
+    "تمام نمادهای این بسته آیکون در حال حاضر فعال هستند.";
+$Definition["Activate Icon Pack"] = "بسته آیکون را فعال کنید";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "فقط نمادهایی را نشان دهید که با نمادهای سفارشی لغو شده اند.";
+$Definition["System Icon"] = "نماد سیستم";
+$Definition["Custom Icon"] = "نماد سفارشی";
+$Definition["Only show icons that are default system icons."] =
+    "فقط نمادهایی را نشان دهید که نمادهای پیش فرض سیستم هستند.";
+$Definition["Previews"] = "پیش نمایش ها";
+$Definition["Icon Size"] = "اندازه آیکون";
+$Definition["This is the actual size most icons render at."] =
+    "این اندازه واقعی است که اکثر آیکون ها در آن ارائه می شوند.";
+$Definition["Preview Color"] = "پیش نمایش رنگ";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "این رنگ برای پیش نمایش رنگ نماد استفاده می شود. جایگزین هر گونه استفاده از #000000 در نمادهای آپلود شده شما خواهد شد. در برنامه واقعی، رنگ ها پویا خواهند بود.";
+$Definition["Escalation Name"] = "نام تشدید";
+$Definition["Status on Creation"] = "وضعیت ایجاد";
+$Definition["Assignee"] = "مأمور";
+$Definition["Internal Comment"] = "نظر داخلی";
+$Definition["Set Post Visibility to Hidden"] = "مشاهده پست را روی Hidden قرار دهید";
+$Definition["Remove Method"] = "روش حذف";
+$Definition["Wipe"] = "پاک کن";
+$Definition["Newest Post"] = "جدیدترین پست";
+$Definition["Oldest Post"] = "قدیمی ترین پست";
+$Definition["Triage"] = "تریاژ";
+$Definition["Triage Dashboard"] = "داشبورد تریاژ";
+$Definition["Message Post Author"] = "پیام نویسنده پست";
+$Definition["Add Filter"] = "افزودن فیلتر";
+$Definition["Customer Support"] = "پشتیبانی مشتری";
+$Definition["My Profile"] = "نمایه من";
+$Definition["Resolve post"] = "حل کردن پست";
+$Definition["View post in community"] = "مشاهده پست در انجمن";
+$Definition["View Details"] = "مشاهده جزئیات";
+$Definition["Escalate"] = "تشدید شود";
+$Definition["Posted by <0/> in <1/>"] = "ارسال شده توسط <0/> در <1/>";
+$Definition["Show"] = "نمایش دهید";
+$Definition["View Escalation"] = "مشاهده افزایش";
+$Definition["# Reports"] = "#گزارش ها";
+$Definition["Last Reported"] = "آخرین گزارش شده";
+$Definition["Report Reasons"] = "گزارش دلایل";
+$Definition["Last Modified"] = "آخرین اصلاح";
+$Definition["Last refreshed <0/> by <1/>."] = "آخرین بازنگری <0/> توسط <1/>.";
+
+$Definition["Moderation Content"] = "محتوای اعتدال";
+$Definition["AI Settings"] = "تنظیمات هوش مصنوعی";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "VIP استقرار";
+$Definition["Activity & Registration"] = "فعالیت و ثبت نام";
+$Definition["Content Settings"] = "تنظیمات محتوا";
+$Definition["Premoderation Settings"] = "تنظیمات Premoderation";
+$Definition["Escalation Rules"] = "قوانین تشدید";
+$Definition["Automation"] = "اتوماسیون";
+$Definition["Audit Log"] = "گزارش حسابرسی";
+$Definition["Community Management"] = "مدیریت جامعه";
+$Definition["Visualize Your Community"] = "انجمن خود را تجسم کنید";
+$Definition["Customize your community"] = "انجمن خود را سفارشی کنید";
+$Definition["Configuration & Addons"] = "پیکربندی و افزونه ها";
+$Definition["Are you sure you want to delete your %s?"] =
+    "آیا مطمئن هستید که می خواهید %s خود را حذف کنید؟";
+$Definition["Newest Report"] = "جدیدترین گزارش";
+$Definition["Oldest Report"] = "قدیمی ترین گزارش";
+$Definition["Report Dismissed"] = "گزارش رد شد";
+$Definition["Post Rejected"] = "پست رد شد";
+$Definition["Escalated"] = "تشدید شد";
+$Definition["Reported by <0/>"] = "گزارش شده توسط <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "هیچ یادداشت گزارشی توسط <0/> ارائه نشد";
+$Definition["Create"] = "ايجاد";
+$Definition["Edited"] = "ویرایش شد";
+$Definition["Newest Escalation"] = "جدیدترین تشدید";
+$Definition["Oldest Escalation"] = "قدیمی ترین تشدید";
+$Definition["Escalations Dashboard"] = "داشبورد تشدید";
+$Definition["On Hold"] = "در انتظار";
+$Definition["Done"] = "انجام شد";
+$Definition["In Jira"] = "در جیرا";
+$Definition["In Zendesk"] = "در Zendesk";
+$Definition["Integrations"] = "ادغام ها";
+$Definition["Remove Post"] = "حذف پست";
+$Definition["Escalated by <0/>"] = "افزایش یافته توسط <0/>";
+$Definition["Enter a title for this escalation"] =
+    "عنوانی برای این تشدید وارد کنید";
+$Definition["Escalated by <0/>"] = "افزایش یافته توسط <0/>";
+$Definition["Post Revision"] = "پست تجدید نظر";
+$Definition["Loader"] = "لودر";
+$Definition["a month"] = "یک ماه";
+$Definition["%s ago"] = "%s پیش";
+$Definition["Live"] = "زندگی کنید";
+$Definition["Live Post"] = "پست زنده";
+$Definition["Remove Post"] = "حذف پست";
+$Definition["Internal Comments"] = "نظرات داخلی";
+$Definition["Add a comment"] = "یک نظر اضافه کنید";
+$Definition["Live"] = "زندگی کنید";
+$Definition["There are currently no comments on this post"] =
+    "در حال حاضر هیچ نظری برای این پست وجود ندارد";
+$Definition["All comments on this post will appear here"] =
+    "تمام نظرات در مورد این پست در اینجا نمایش داده می شود";
+$Definition["Reports for <0/>"] = "گزارش برای <0/>";
+$Definition["Live Post"] = "پست زنده";
+$Definition["There are currently no reports for this post."] =
+    "در حال حاضر هیچ گزارشی برای این پست وجود ندارد.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "لیستی از گزارش های مرتبط با این پست در اینجا ظاهر می شود.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "محل ارسال گزارش ها را پیکربندی کنید و دلایل گزارش انجمن خود را مدیریت کنید.";
+$Definition["New Community Management System"] =
+    "سیستم مدیریت جامعه جدید";
+$Definition["Enable Triage Dashboard"] = "داشبورد تریاژ را فعال کنید";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "همه کاربران با مجوز کارکنان می توانند بحث ها را به عنوان حل شده یا حل نشده ببینند و علامت گذاری کنند. این کاربران همچنین می توانند برای تعدیل دسته های خود به داشبورد تریاژ دسترسی داشته باشند.";
+$Definition["Resolve All Discussions"] = "حل همه بحث ها";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "حل همه پست ها همه پست های موجود در انجمن را حل می کند. این اقدام انبوه باعث ایجاد وب هوک یا تجزیه و تحلیل نمی شود.";
+$Definition["Resolve All"] = "حل همه";
+$Definition["Required field"] = "فیلد الزامی";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "سیستم جدید مدیریت جامعه اجازه می دهد تا دلایل سفارشی گزارش دهی، تشدید، تکالیف و قوانین اتوماسیون را ارائه دهد. فعال کردن این تغییر میزان دریافت گزارش برای استفاده از سیستم جدید. <0>بیشتر بخوانید</0> .";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "با این کار تمام پست های موجود در انجمن حل می شود. این اقدام انبوه باعث ایجاد وب هوک یا تجزیه و تحلیل گزارش نمی شود. ادامه دهید؟";
+$Definition["Reorder"] = "دوباره سفارش دهید";
+$Definition["Add Reason"] = "دلیل اضافه کنید";
+$Definition["Delete?"] = "حذف شود؟";
+$Definition["Are you sure you want to delete this reason?"] =
+    "آیا مطمئنید که می خواهید این دلیل را حذف کنید؟";
+$Definition["A concise name for the report reason."] =
+    "یک نام مختصر برای دلیل گزارش.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "یک برچسب منحصر به فرد به دلیل گزارش. این برچسب پس از ذخیره قابل تغییر نیست.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "توضیح دلیل گزارش برای خبرنگاران بهتر که هنگام گزارش یک پست انتخاب صحیح را انجام دهند.";
+$Definition["The roles which can see this report reason."] =
+    "نقش هایی که می توانند این گزارش را ببینند دلیل می شوند.";
+$Definition["Add Report Reason"] = "اضافه کردن دلیل گزارش";
+$Definition["Discard Changes?"] = "از تغییرات صرفنظر شود؟";
+$Definition["Are you sure you want to exit without saving?"] =
+    "آیا مطمئن هستید که می خواهید بدون ذخیره کردن خارج شوید؟";
+$Definition["Reorder Report Reasons"] = "دلایل گزارش سفارش مجدد";
+$Definition["Edit Report Reason"] = "دلیل ویرایش گزارش";
+$Definition["Delete Report Reason"] = "حذف دلیل گزارش";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "برای استفاده از موضوعات بحث سفارشی، این تنظیم باید فعال باشد.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "تنظیمات مورد استفاده برای تعدیل خودکار محتوای انجمن قبل از ایجاد آن را پیکربندی کنید. گزینه‌ها شامل تشخیص خودکار هرزنامه، نیاز به تأیید برای ارسال در دسته‌های خاص، و نیاز به تأیید برای ارسال با استفاده از کلمات کلیدی یا عبارات خاص است.";
+$Definition["Spam Detection"] = "تشخیص هرزنامه";
+$Definition["Learn more."] = "بیشتر بدانید.";
+$Definition["documentation."] = "مستندات";
+$Definition["Verify browsers of new members"] =
+    "مرورگرهای اعضای جدید را تأیید کنید";
+$Definition["Challenge Cutoff Age"] = "سن قطع چالش";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "تعداد روزهای پس از ثبت نام برای دور زدن چالش Cloudflare";
+$Definition["Save challenge cutoff age"] = "صرفه جویی در سن قطع چالش";
+$Definition["Premoderated Roles"] = "نقش های پیش تعدیل شده";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "کاربرانی که مجوز «Approval.Require» دارند برای همه پست‌ها به تأیید ناظر نیاز دارند.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "کاربرانی که به عنوان \"تأیید شده\" علامت گذاری شده اند، این الزام را دور خواهند زد. اینها نقش‌هایی با \"Approval.Require\" هستند";
+$Definition["No roles are currently set to require premoderation."] =
+    "در حال حاضر هیچ نقشی برای نیاز به تعدیل پیش تنظیم نشده است.";
+$Definition["Edit Roles"] = "ویرایش نقش ها";
+$Definition["Premoderated Categories"] = "مقوله های پیش تعدیل شده";
+$Definition["No categories are currently set to require premoderation."] =
+    "در حال حاضر هیچ دسته ای تنظیم نشده است که نیاز به تعدیل اولیه داشته باشد.";
+$Definition["Edit Categories"] = "ویرایش دسته ها";
+$Definition["Premoderated Keywords"] = "کلمات کلیدی پیش تعدیل شده";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "پست هایی با هر یک از کلمات یا عبارات کلیدی زیر به تایید ناظر نیاز دارند.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "در حال حاضر هیچ کلمه کلیدی برای نیاز به تعدیل پیش تنظیم نشده است.";
+$Definition["Edit Keywords"] = "ویرایش کلمات کلیدی";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Akismet را فعال کنید تا هرزنامه ها را در همه پست ها توسط ثبت نام متقاضی و کاربران تایید نشده فیلتر کند. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Stopforumspam را فعال کنید تا کاربران انجمن را در برابر فهرستی از هرزنامه‌های گزارش‌شده بررسی کند و یا پست را به‌عنوان هرزنامه گزارش کند یا آن‌ها را کاملاً رد کند. آستانه های گزارش و رد در تنظیمات <0>افزونه مدیریت می شوند</0> . در <1/> بیشتر بیاموزید";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "از اعضای تأییدنشده‌ای که کمتر از تعداد روزهای مشخص شده در انجمن بوده‌اند، خواسته می‌شود برای جلوگیری از هرزنامه، یک چالش Cloudflare (Captcha یا Checkbox) را تکمیل کنند. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s در دسته‌های زیر به تأیید ناظر نیاز دارد.";
+$Definition["Default Sort Order"] = "ترتیب مرتب سازی پیش فرض";
+$Definition["Choose the order records are sorted by default."] =
+    "سوابق سفارش به طور پیش فرض مرتب شده اند را انتخاب کنید.";
+$Definition["Show OP Indicator"] = "نشانگر OP را نشان دهید";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "اگر این گزینه فعال باشد، پاسخ‌های پوستر اصلی دارای نشانگر OP خواهند بود.";
+$Definition["Show Badges"] = "نشان ها را نشان دهید";
+$Definition["Badges Limit"] = "محدودیت نشان ها";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "نشان های کاربران را در هر پست نشان دهید. حداکثر تا 5 نشان ممکن است به ترتیب بالاترین رتبه نمایش داده شود.";
+$Definition["event"] = "رویداد";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> نظرات بیشتر";
+$Definition["Export"] = "صادرات";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "عنوان صفحه اصلی فقط می تواند بین 1 تا 500 کاراکتر باشد";
+$Definition["Address Bar Color"] = "رنگ نوار آدرس";
+$Definition["Meta Tags"] = "متا تگ ها";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "متا تگ ها برای تأیید دامنه برای کنسول جستجوی گوگل و سایر خدمات استفاده می شود. متا تگ های مورد نیاز را از منبع خود کپی کرده و در یک خط جدید قرار دهید.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "كمي وقت گذاشته و فكر كنيد كه در اينجا چه توضيحاتي براي سايت خود ميخواهيد بنويسيد. با نوشتن يك عنوان معني دار و توضيحات مختصر ميتواند به موقعيت بهتري در موتورهاي جستجو كمك كند.";
+$Definition["Style Guides"] = "راهنمای سبک";
+$Definition["Branding & Assets"] = "نام تجاری و دارایی ها";
+$Definition["Home Pages"] = "صفحات اصلی";
+$Definition["Home Layout Settings"] = "تنظیمات چیدمان خانه";
+$Definition["Category Pages"] = "صفحات دسته بندی";
+$Definition["Category Layout Settings"] = "تنظیمات چیدمان دسته";
+$Definition["Category List Pages"] = "صفحات فهرست دسته";
+$Definition["Posting Category Pages"] = "ارسال صفحات دسته بندی";
+$Definition["Nested Category Pages"] = "صفحات دسته بندی تو در تو";
+$Definition["Discussion Pages"] = "صفحات بحث";
+$Definition["Idea Pages"] = "صفحات ایده";
+$Definition["Question Pages"] = "صفحات سوال";
+$Definition["Post Pages"] = "صفحات پست";
+$Definition["Post Layout Settings"] = "تنظیمات طرح بندی پست";
+$Definition["Create Post Pages"] = "ایجاد صفحات پست";
+$Definition["Create Post Layout Settings"] = "تنظیمات طرح بندی پست را ایجاد کنید";
+$Definition["Event Pages"] = "صفحات رویداد";
+$Definition["Event Layout Settings"] = "تنظیمات چیدمان رویداد";
+$Definition["Knowledge Base Pages"] = "صفحات پایگاه دانش";
+$Definition["Knowledge Base Layout Settings"] =
+    "تنظیمات چیدمان پایگاه دانش";
+$Definition["Knowledge Base Home Pages"] = "صفحات اصلی پایگاه دانش";
+$Definition["Help Center Home Pages"] = "صفحات اصلی مرکز راهنمایی";
+$Definition["Help Center Category Pages"] = "صفحات دسته بندی مرکز راهنمایی";
+$Definition["Help Center Article Pages"] = "صفحات مقاله مرکز راهنمایی";
+$Definition["Guide Article Pages"] = "راهنمای صفحات مقاله";
+$Definition["Layouts"] = "طرح بندی ها";
+$Definition["Add Custom Layout"] = "طرح بندی سفارشی را اضافه کنید";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "طرح‌بندی پست‌های اخیر قدیمی ترجیحی را انتخاب کنید.";
+$Definition["Legacy Recent Posts Layouts"] = "طرح‌بندی پست‌های اخیر قدیمی";
+$Definition["Change layout versions for the <0/>."] =
+    "نسخه های طرح بندی را برای <0/> تغییر دهید.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "برای کسب اطلاعات بیشتر، <0>به مستندات مراجعه کنید</0> .";
+$Definition["Change %s"] = "%s را تغییر دهید";
+$Definition["Are you sure you want to use %s?"] =
+    "آیا مطمئن هستید که می خواهید از %s استفاده کنید؟";
+$Definition["Legacy Home Layouts"] = "چیدمان خانه قدیمی";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "چیدمان خانه قدیمی ترجیحی را انتخاب کنید.";
+$Definition["Home Layout Version"] = "نسخه چیدمان خانه";
+$Definition["Custom Home Layouts"] = "چیدمان های سفارشی خانه";
+$Definition["Legacy Category Layout"] = "طرح بندی دسته بندی میراث";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "طرح بندی دسته بندی میراث ترجیحی را انتخاب کنید.";
+$Definition["Category Layout Version"] = "نسخه طرح بندی دسته";
+$Definition["Legacy Category Layouts"] = "طرح‌بندی دسته‌بندی قدیمی";
+$Definition["Custom Category Layouts"] = "طرح بندی دسته بندی سفارشی";
+$Definition["Legacy Post Layout"] = "طرح بندی پست قدیمی";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "طرح بندی پست قدیمی ترجیحی را انتخاب کنید.";
+$Definition["Post Layout Version"] = "نسخه چیدمان پست";
+$Definition["Legacy Post Layouts"] = "طرح بندی پست های قدیمی";
+$Definition["Custom Post Layouts"] = "طرح بندی پست سفارشی";
+$Definition["Legacy Create Post Layout"] = "Legacy Create Post Layout";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "طرح ترجیحی Legacy Create Post Layout را انتخاب کنید.";
+$Definition["Create Post Layout Version"] = "ایجاد نسخه طرح بندی پست";
+$Definition["Legacy Create Post Layouts"] = "Legacy ایجاد طرح‌بندی پست";
+$Definition["Custom Create Post Layouts"] = "ایجاد طرح بندی پست سفارشی";
+$Definition["Legacy Event Layout"] = "طرح‌بندی رویداد میراث";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "طرح‌بندی رویداد قدیمی ترجیحی را انتخاب کنید.";
+$Definition["Event Layout Version"] = "نسخه چیدمان رویداد";
+$Definition["Legacy Event Layouts"] = "طرح‌بندی رویدادهای قدیمی";
+$Definition["Custom Event Layouts"] = "طرح‌بندی رویداد سفارشی";
+$Definition["Created <0/> by <1/>."] = "<0/> توسط <1/> ایجاد شد.";
+$Definition["Layout Options"] = "گزینه های طرح بندی";
+$Definition["Contextual Description"] = "توصیف متنی";
+$Definition["Skip to end of Carousel"] = "پرش به انتهای چرخ فلک";
+$Definition["Previous Slides"] = "اسلایدهای قبلی";
+$Definition["Next Slides"] = "اسلایدهای بعدی";
+$Definition["indicator navigation"] = "ناوبری نشانگر";
+$Definition["<0/> new"] = "<0/> جدید";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d اسلاید روی اسلاید اولیه %d از %d نمایش داده می‌شود";
+$Definition["Unassigned"] = "واگذار نشده است";
+$Definition["Apply Layout to Site Home Page"] =
+    "طرح بندی را در صفحه اصلی سایت اعمال کنید";
+$Definition["Set as default layout for specific subcommunities."] =
+    "به عنوان طرح‌بندی پیش‌فرض برای جوامع فرعی خاص تنظیم کنید.";
+$Definition["Apply to specific categories."] = "برای دسته های خاص اعمال شود.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "این طرح بندی را نمی توان حذف کرد زیرا یک الگوی طرح بندی است.";
+$Definition["Delete Layout"] = "حذف Layout";
+$Definition["Are you sure you want to delete?"] =
+    "آیا مطمئن هستید که می خواهید حذف کنید؟";
+$Definition["Applied"] = "اعمال شد";
+$Definition["Applied as default"] = "به عنوان پیش فرض اعمال شد";
+$Definition["View Category"] = "مشاهده دسته";
+$Definition["Apply to specific subcommunities."] =
+    "برای جوامع فرعی خاص اعمال شود.";
+$Definition["Unable to re-assign default template"] =
+    "امکان تخصیص مجدد الگوی پیش فرض وجود ندارد";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "این طرح یک قالب است و به عنوان پیش فرض برای همه صفحات از این نوع اختصاص داده شده است. برای حذف آن به عنوان پیش‌فرض یا اختصاص آن به صفحات خاص، باید طرح‌بندی دیگری را به‌عنوان پیش‌فرض اختصاص دهید.";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "این طرح بندی را نمی توان حذف کرد زیرا در حال حاضر اعمال می شود.";
+$Definition["Set as default layout for all <0 />."] =
+    "به عنوان طرح‌بندی پیش‌فرض برای همه <0 /> تنظیم کنید.";
+$Definition["Legacy Knowledge Base Layout"] = "چیدمان پایگاه دانش میراث";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "طرح‌بندی پایگاه دانش میراث ترجیحی را انتخاب کنید.";
+$Definition["Knowledge Base Layout Version"] = "نسخه چیدمان پایگاه دانش";
+$Definition["Legacy Knowledge Base Layouts"] = "چیدمان های پایگاه دانش میراث";
+$Definition["Custom Knowledge Base Layouts"] = "چیدمان های پایگاه دانش سفارشی";
+$Definition["Article Count"] = "تعداد مقاله";
+$Definition["Legacy Layouts enabled"] = "طرح‌بندی قدیمی فعال شد";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "توجه داشته باشید که این تغییر طرح تا زمانی که به طرح‌بندی‌های سفارشی تغییر دهید قابل مشاهده نخواهد بود.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "تا زمانی که انجمن خود را در صفحه <1/> به <0/> سفارشی تغییر ندهید، این تغییر طرح قابل مشاهده نخواهد بود.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "به عنوان طرح‌بندی پیش‌فرض برای پایگاه‌های دانش خاص تنظیم کنید.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "این سایت به شما اجازه اتصال به یک کاربر موجود را نمی‌دهد.";
+$Definition["The username you entered has already been taken."] =
+    "نام کاربری که وارد کردید قبلاً گرفته شده است.";
+$Definition["There was an error fetching the connection data."] =
+    "خطایی در دریافت داده‌های اتصال رخ داده است.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "درخواست بازنشانی رمز عبور شما تأیید نشد. دوباره از فرم درخواست بازنشانی استفاده کنید.";
+$Definition["Invitation not found."] = "دعوتنامه پیدا نشد.";
+
+$Definition['# of automation rules'] = 'تعداد قوانین اتوماسیون';
+$Definition['Add Template'] = 'اضافه کردن الگو';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'انتخاب کنید چه کسی باید هنگام اجرای این قانون اتوماسیون، این ایمیل را دریافت کند.';
+$Definition['Delete an email template.'] = 'حذف قالب ایمیل.';
+$Definition['Email Audience'] = 'مخاطبان ایمیل';
+$Definition['Email Template'] = 'الگوی ایمیل';
+$Definition['Email Templates'] = 'قالب‌های ایمیل';
+$Definition['Email Template successfully deleted.'] = 'قالب ایمیل با موفقیت حذف شد.';
+$Definition['Email Template not enabled.'] = 'قالب ایمیل فعال نیست.';
+$Definition['Email template not found.'] = 'قالب ایمیل یافت نشد.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'نام قالب ایمیل از قبل وجود دارد. برای ادامه، یک نام منحصر به فرد وارد کنید.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'قالب‌های ایمیل می‌توانند همراه با <0/> برای ارتباط با کاربران بر اساس فعالیت اعضا یا سایر محرک‌های انجمن استفاده شوند.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'این گزینه را فعال کنید تا هنگام فعال شدن قانون، یک ایمیل پیگیری ارسال شود.';
+$Definition['Impacted User'] = 'کاربر آسیب‌دیده';
+$Definition['Search and select one or more roles to receive this email'] = 'جستجو کنید و یک یا چند نقش را برای دریافت این ایمیل انتخاب کنید';
+$Definition['Search and select one or more users to receive this email.'] = 'جستجو کنید و یک یا چند کاربر را برای دریافت این ایمیل انتخاب کنید.';
+$Definition['Select Roles'] = 'نقش‌ها را انتخاب کنید';
+$Definition['Select User'] = 'انتخاب کاربر';
+$Definition['Select the email template to send.'] = 'قالب ایمیل را برای ارسال انتخاب کنید.';
+$Definition['Send an Email After This Rule Runs'] = 'ارسال ایمیل پس از اجرای این قانون';
+$Definition['Send email'] = 'ارسال ایمیل';
+$Definition['Send the email'] = 'ایمیل را ارسال کنید';
+$Definition['Send email to user'] = 'ارسال ایمیل به کاربر';
+$Definition['Specific Roles'] = 'نقش‌های خاص';
+$Definition['Specific Users'] = 'کاربران خاص';
+$Definition['System email templates cannot be deleted.'] = 'قالب‌های ایمیل سیستم قابل حذف نیستند.';
+$Definition['template name'] = 'نام الگو';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'از این صفحه برای ایجاد و مدیریت قالب‌های خود استفاده کنید، سپس <0/> خود را پیکربندی کنید تا کنترل کنید هر ایمیل چه زمانی و به چه کسی ارسال شود.';
+$Definition['View the full list of available placeholders.'] = 'لیست کامل متغیرهای موجود را مشاهده کنید.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'شما همچنین می‌توانید در محتوای ایمیل خود از متغیرهایی استفاده کنید - این متغیرها هنگام ارسال ایمیل به طور خودکار با اطلاعات مربوط به کاربر یا پست جایگزین می‌شوند. برای مثال، سلام {user.name}! یا به {discussion.name} مراجعه کنید.';
+$Definition['You cannot delete system emails'] = 'شما نمی‌توانید ایمیل‌های سیستم را حذف کنید';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'شما نمی‌توانید الگویی را که در قوانین اتوماسیون استفاده می‌شود، حذف کنید.';
+$Definition['You will no longer receive community engagement emails.'] = 'دیگر ایمیل‌های مربوط به تعاملات اجتماعی دریافت نخواهید کرد.';
+$Definition['Delete Email Template'] = 'حذف قالب ایمیل';
+$Definition["Template Styles"] = "سبک‌های قالب";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "برای استفاده از سبک‌های ایمیل پیش‌فرض خود که در <0>تنظیمات ایمیل پیکربندی شده‌اند، هر فیلدی را خالی بگذارید</0> صفحه";

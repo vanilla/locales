@@ -1682,3 +1682,580 @@ $Definition['Zendesk Knowledge Bases'] = 'Bases de connaissances Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Identifiant ou URL de la réunion Zoom';
 
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} a accepté la réponse de {NotifyUserID,your} à une question : <a href="{Url,html}">{Data.Name,text}</a>';
+// Automation Rules
+$Definition["Add tag"] = "Ajouter une balise";
+$Definition["A post"] = "Une publication";
+$Definition["A post has been added to a collection"] =
+    "Une publication a été ajoutée à une collection";
+$Definition["A post has not had any activity"] =
+    "Une publication n'a eu aucune activité";
+$Definition["A question"] = "Une question";
+$Definition["A user has been registered"] = "Un utilisateur a été enregistré";
+$Definition["A post has received"] = "Une publication a été reçue";
+$Definition["Date field reached"] = "Champ de date atteint";
+$Definition["A user registers or logs in with email domain:"] =
+    "Un utilisateur s'inscrit ou se connecte avec son domaine e-mail :";
+$Definition["A user registers or updates a profile field:"] =
+    "Un utilisateur s'inscrit ou met à jour un champ de son profil :";
+$Definition["Add tags:"] = "Ajouter des balises :";
+$Definition["Add to collection:"] = "Ajouter à la collection :";
+$Definition["An idea has received"] = "Une idée a reçu";
+$Definition["and"] = "et";
+$Definition["and assign to"] = "et attribuer à";
+$Definition["and remove role"] = "et supprimer le rôle";
+$Definition["and remove from community"] = "et retirer de la communauté";
+$Definition["Assign role:"] = "Attribuer un rôle :";
+$Definition["Assign/Remove role"] = "Attribuer/supprimer un rôle";
+$Definition["Auto-run disabled."] = "Exécution automatique désactivée.";
+$Definition["Auto-run enabled."] = "Exécution automatique activée.";
+$Definition["Automation rule successfully created."] =
+    "Règle d'automatisation créée avec succès.";
+$Definition["Automation rule successfully updated."] =
+    "Règle d'automatisation mise à jour avec succès.";
+$Definition["Bump post"] = "Renouveler la publication";
+$Definition["Change the status of the idea to"] =
+    "Modifier le statut de l'idée en";
+$Definition["Change status"] = "Modifier le statut";
+$Definition["Close post"] = "Fermer la publication";
+$Definition["Comments Matching Criteria Now: <0 />"] =
+    "Commentaires correspondant aux critères actuels : <0 />";
+$Definition["created by"] = "créé par";
+$Definition["Create and manage automations to easily manage posts and users."] =
+    "Créer et gérer des automatismes pour gérer facilement les messages et les utilisateurs.";
+$Definition["Create/Edit Automation Rule"] = "Créer/Modifier une règle d'automatisation";
+$Definition["Delete Rule"] = "Supprimer la règle";
+$Definition["Discussions Matching Criteria Now: <0 />"] =
+    "Discussions correspondant aux critères actuels : <0 />";
+$Definition["Edit Rule"] = "Modifier la règle";
+$Definition["Edit Variables"] = "Modifier les variables";
+$Definition["Escalate it"] = "La faire remonter";
+$Definition["Escalate to GitHub"] = "Faire remonter vers GitHub";
+$Definition["Escalate to Zendesk"] = "Faire remonter vers Zendesk";
+$Definition["Expand"] = "Élargir ";
+$Definition["Failed to disable the rule"] = "Échec de la désactivation de la règle";
+$Definition[
+    "Failed to load the preview data. Please check your trigger and action values."
+] =
+    "Échec du chargement des données d'aperçu. Merci de vérifier les valeurs de votre déclencheur et de votre action.";
+$Definition["Follow categories:"] = "Suivre les catégories :";
+$Definition["Follow category"] = "Suivre la catégorie";
+$Definition["for"] = "pour";
+$Definition["has been unanswered"] = "reste sans réponse";
+$Definition["has not received any comments"] = "n'a reçu aucun commentaire";
+$Definition["Last reported"] = "Dernier rapport";
+$Definition["Maximum Limit Reached"] = "Limite maximale atteinte";
+$Definition["Move post"] = "Déplacer la publication";
+$Definition["Move to category:"] = "Passer à la catégorie :";
+$Definition[
+    "Multi-select fields will trigger if the user meets ANY of the criteria."
+] = "Les champs à sélection multiple se déclenchent si l'utilisateur répond à N'IMPORTE LEQUEL des critères.";
+$Definition["New/Updated Email domain"] = "Domaine e-mail nouveau/mise à jour";
+$Definition["New/Updated Profile field"] = "Champ du profil nouveau/mis à jour";
+$Definition[
+    "Note: Actions will not affect <0 /> that already have the associated action applied."
+] =
+    "Note : les actions n'affecteront pas les <0 /> qui ont déjà appliqué l'action associée.";
+$Definition["Post Management"] = "Gestion des publications";
+$Definition["Posts Matching Criteria Now: <0 />"] =
+    "Publications correspondant aux critères maintenant : <0 />";
+$Definition["Remove from collection"] = "Supprimer de la collection";
+$Definition["Remove from collection:"] = "Supprimer de la collection :";
+$Definition["Remove from default follow list"] =
+    "Supprimer de la liste de suivi par défaut";
+$Definition["Remove from trigger collection"] =
+    "Supprimer de la collection de déclencheurs";
+$Definition["report"] = "rapport";
+$Definition["reports"] = "rapports";
+$Definition["Rule Action"] = "Action de la règle";
+$Definition["Rule may not be deleted while it is running"] =
+    "La règle ne peut pas être supprimée en cours d'exécution";
+$Definition["Rule may not be edited while it is running"] =
+    "La règle ne peut pas être modifiée en cours d'exécution";
+$Definition["Rule Name"] = "Nom de la règle";
+$Definition["Rule status will apply once current run completes"] =
+    "L'état de la règle s'appliquera une fois l'exécution en cours terminée";
+$Definition["Rule Trigger"] = "Déclencheur de la règle";
+$Definition["Running"] = "Exécution";
+$Definition["See documentation for more information."] =
+    "Voir la documentation pour plus d'informations.";
+$Definition["Select the action that will occur when this rule is triggered."] =
+    "Sélectionner l'action qui se produira si cette règle est déclenchée.";
+$Definition["Select the trigger that will cause this rule to run."] =
+    "Sélectionner le déclencheur qui entraînera l'exécution de cette règle.";
+$Definition[
+    "Set trigger variable and action variable to generate a rule summary."
+] = "Définir la variable de déclenchement et la variable d'action pour générer un résumé de la règle.";
+$Definition["sentiment"] = "sentiment";
+$Definition["since"] = "depuis";
+$Definition["Summary"] = "Résumé";
+$Definition["The action will be applied to only them if you proceed."] =
+    "L'action ne s'appliquera qu'à celles-ci si vous poursuivez.";
+$Definition[
+    "The action will apply to them when the rule is enabled. In future, other <0 /> who meet the trigger criteria will have the action applied to them as well."
+] =
+    "L'action s'appliquera à celles-ci lorsque la règle sera activée. À l'avenir, l'action s'appliquera également aux autres <0 /> qui répondront aux critères de déclenchement.";
+$Definition[
+    "This will not affect any <0 /> right now. It will affect those that meet the criteria in future."
+] =
+    "Cela n'affectera pas les <0 /> pour l'instant. Elle affectera celles qui répondront aux critères à l'avenir.";
+$Definition["Time since added to collection"] =
+    "Temps écoulé depuis l'ajout à la collection";
+$Definition["Time since post has had no comments"] =
+    "Temps écoulé depuis le dernier commentaire sur la publication";
+$Definition["Time since Registration"] = "Temps écoulé depuis l'enregistrement";
+$Definition["Time since post has had no activity"] =
+    "Temps écoulé depuis la dernière activité sur la publication";
+$Definition["Time since question has been unanswered"] =
+    "Temps écoulé depuis la dernière réponse fournie à la question";
+$Definition["Trigger"] = "Déclencheur";
+$Definition["Unsaved Changes"] = "Changements non enregistrés";
+$Definition["Up to <0 /> ago."] = "Il y a jusqu'à <0 />.";
+$Definition["upvote"] = "vote positif";
+$Definition["upvotes"] = "votes positifs";
+$Definition["User Management"] = "Gestion des utilisateurs";
+$Definition["Users Matching Criteria Now: <0 />"] =
+    "Utilisateurs correspondant aux critères maintenant : <0 />";
+$Definition["Value is not a valid integer."] = "La valeur n'est pas un entier valide.";
+$Definition["View History"] = "Voir l'historique";
+$Definition["Votes on an idea"] = "Votes sur une idée";
+$Definition["with"] = "avec";
+$Definition["with reason"] = "avec motif";
+$Definition["with tag"] = "avec la balise";
+$Definition[
+    "You cannot add more than 150 automation rules. Delete some rules and try again."
+] =
+    "Vous ne pouvez pas ajouter plus de 150 règles d'automatisation. Supprimez quelques règles et réessayez.";
+
+// Icon Management
+$Definition["No icons match those filters."] = "Aucune icône ne correspond à ces filtres.";
+$Definition["Manage Icon"] = "Gérer l'icône";
+$Definition["Manage Icons"] = "Gérer les icônes";
+$Definition["Manage Icon helptext"] =
+    "Vous pouvez gérer les icônes système et historiques ici. Lors du téléchargement, assurez-vous que l'icône est au format SVG, qu'elle contient un attribut viewBox et qu'elle utilise la couleur #000000 afin qu'elle puisse être colorée dynamiquement en fonction des paramètres du thème et des interactions de l'utilisateur. Vous ne pouvez activer qu'une seule icône de chaque type à la fois.";
+$Definition["Upload New Icon"] = "Télécharger une nouvelle icône";
+$Definition["Active Icon"] = "Icône active";
+$Definition["New Icon"] = "Nouvelle icône";
+$Definition["Icon Type"] = "Type d'icône";
+$Definition["Previous Icons"] = "Icônes précédentes";
+$Definition[
+    "Previous versions of your icons can be found here and restored at any time."
+] =
+    "Vous pouvez retrouver ici les versions précédentes de vos icônes et les restaurer à tout moment.";
+$Definition["Set as Active"] = "Définir comme Active";
+$Definition["Uploaded <0/> by <1/>"] = "Importée <0/> par <1/>";
+$Definition["Icon Packs"] = "Packs d'icônes";
+$Definition["Download Active Icon Pack"] = "Télécharger le pack d'icônes actif";
+$Definition["Download System Icon Pack"] = "Télécharger le pack d'icônes système";
+$Definition["Upload Icon Pack"] = "Importer le pack d'icônes";
+$Definition["Preview Icon Pack"] = "Prévisualiser le pack d'icônes";
+$Definition["Changed Icons"] = "Icônes changées";
+$Definition["Icon Name"] = "Nom de l'icône";
+$Definition["All icons in this icon pack are currently active."] =
+    "Toutes les icônes dans ce pack d'icônes sont actuellement actives.";
+$Definition["Activate Icon Pack"] = "Activer le pack d'icônes";
+$Definition["Only show icons that have been overridden with custom icons."] =
+    "Afficher uniquement les icônes qui ont été remplacées par des icônes personnalisées.";
+$Definition["System Icon"] = "Icône système";
+$Definition["Custom Icon"] = "Icône personnalisée";
+$Definition["Only show icons that are default system icons."] =
+    "Afficher uniquement les icônes qui sont des icônes  système par défaut.";
+$Definition["Previews"] = "Aperçus";
+$Definition["Icon Size"] = "Taille de l'icône";
+$Definition["This is the actual size most icons render at."] =
+    "Il s'agit de la taille réelle à laquelle la plupart des icônes sont affichées.";
+$Definition["Preview Color"] = "Prévisualiser la couleur";
+$Definition[
+    "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."
+] =
+    "Cette couleur sera utilisée pour prévisualiser la couleur de l'icône. Elle remplacera l'utilisation de #000000 dans les icônes téléchargées. Dans l'application réelle, les couleurs seront dynamiques.";
+$Definition["Escalation Name"] = "Nom de l'escalade";
+$Definition["Status on Creation"] = "Statut à la création";
+$Definition["Assignee"] = "Assigné";
+$Definition["Internal Comment"] = "Commentaire interne";
+$Definition["Set Post Visibility to Hidden"] = "Définir la visibilité du message sur caché";
+$Definition["Remove Method"] = "Supprimer la méthode";
+$Definition["Wipe"] = "Effacer";
+$Definition["Newest Post"] = "Dernier message";
+$Definition["Oldest Post"] = "Message le plus ancien";
+$Definition["Triage"] = "Triage";
+$Definition["Triage Dashboard"] = "Tableau de bord du triage";
+$Definition["Message Post Author"] = "Auteur de la publication du message";
+$Definition["Add Filter"] = "Ajouter un filtre";
+$Definition["Customer Support"] = "Assistance aux clients";
+$Definition["My Profile"] = "Mon profil";
+$Definition["Resolve post"] = "Résoudre le message";
+$Definition["View post in community"] = "Voir le message dans la communauté";
+$Definition["View Details"] = "Voir les détails";
+$Definition["Escalate"] = "Escalader";
+$Definition["Posted by <0/> in <1/>"] = "Publié par <0/> dans <1/>";
+$Definition["Show"] = "Montrer";
+$Definition["View Escalation"] = "Voir l'escalade";
+$Definition["# Reports"] = "Nombre de rapports";
+$Definition["Last Reported"] = "Dernier rapport";
+$Definition["Report Reasons"] = "Raisons du rapport";
+$Definition["Last Modified"] = "Dernière modification";
+$Definition["Last refreshed <0/> by <1/>."] = "Dernière mise à jour <0/> effectuée par <1/>.";
+
+$Definition["Moderation Content"] = "Contenu de la modération";
+$Definition["AI Settings"] = "Paramètres d'IA";
+$Definition["OAuth2"] = "OAuth2";
+$Definition["VIP Deploy"] = "Déploiement VIP";
+$Definition["Activity & Registration"] = "Activité et enregistrement";
+$Definition["Content Settings"] = "Paramètres de contenu";
+$Definition["Premoderation Settings"] = "Paramètres de prémodération";
+$Definition["Escalation Rules"] = "Règles d'escalade";
+$Definition["Automation"] = "Automatisation";
+$Definition["Audit Log"] = "Journal d'audit";
+$Definition["Community Management"] = "Gestion de la communauté";
+$Definition["Visualize Your Community"] = "Visualisez votre communauté";
+$Definition["Customize your community"] = "Personnalisez votre communauté";
+$Definition["Configuration & Addons"] = "Configuration et modules complémentaires";
+$Definition["Are you sure you want to delete your %s?"] =
+    "Êtes-vous sûr de vouloir supprimer votre %s ?";
+$Definition["Newest Report"] = "Rapport le plus récent";
+$Definition["Oldest Report"] = "Rapport le plus ancien";
+$Definition["Report Dismissed"] = "Rapport rejeté";
+$Definition["Post Rejected"] = "Message rejeté";
+$Definition["Escalated"] = "Escaladé";
+$Definition["Reported by <0/>"] = "Rapporté par <0/>";
+$Definition["No report notes were provided by <0/>"] =
+    "Aucune note de rapport n'a été fournie par <0/>";
+$Definition["Create"] = "Créer";
+$Definition["Edited"] = "Modifié";
+$Definition["Newest Escalation"] = "Dernière escalade";
+$Definition["Oldest Escalation"] = "Escalade la plus ancienne";
+$Definition["Escalations Dashboard"] = "Tableau de bord des escalades";
+$Definition["On Hold"] = "En attente";
+$Definition["Done"] = "Terminé";
+$Definition["In Jira"] = "Dans Jira";
+$Definition["In Zendesk"] = "Dans Zendesk";
+$Definition["Integrations"] = "Intégrations";
+$Definition["Remove Post"] = "Supprimer le message";
+$Definition["Escalated by <0/>"] = "Escaladé par <0/>";
+$Definition["Enter a title for this escalation"] =
+    "Entrez un titre pour cette escalade";
+$Definition["Escalated by <0/>"] = "Escaladé par <0/>";
+$Definition["Post Revision"] = "Révision du message";
+$Definition["Loader"] = "Chargeur";
+$Definition["a month"] = "un mois";
+$Definition["%s ago"] = "Il y a %s";
+$Definition["Live"] = "En direct";
+$Definition["Live Post"] = "Message en direct";
+$Definition["Remove Post"] = "Supprimer le message";
+$Definition["Internal Comments"] = "Commentaires internes";
+$Definition["Add a comment"] = "Ajouter un commentaire";
+$Definition["Live"] = "En direct";
+$Definition["There are currently no comments on this post"] =
+    "Il n'y a actuellement aucun commentaire sur cette publication";
+$Definition["All comments on this post will appear here"] =
+    "Tous les commentaires sur cet article apparaîtront ici";
+$Definition["Reports for <0/>"] = "Rapports pour <0/>";
+$Definition["Live Post"] = "Message en direct";
+$Definition["There are currently no reports for this post."] =
+    "Il n'y a actuellement aucun rapport pour cet article.";
+$Definition["A list of reports associated with this post will appear here."] =
+    "Une liste des rapports associés à ce message apparaîtra ici.";
+$Definition[
+    "Configure where reports are sent and manage your community's report reasons."
+] =
+    "Configurez l'envoi des rapports et gérez les raisons des rapports de votre communauté.";
+$Definition["New Community Management System"] =
+    "Nouveau système de gestion des communautés";
+$Definition["Enable Triage Dashboard"] = "Activer le tableau de bord de triage";
+$Definition[
+    "All users with the staff permission will be able to see and mark discussions as resolved or unresolved. These users will also be able to access the triage dashboard to moderate their categories."
+] =
+    "Tous les utilisateurs disposant d'un droit d'accès au personnel pourront voir et marquer les discussions comme résolues ou non résolues. Ces utilisateurs pourront également accéder au tableau de bord de triage pour modérer leurs catégories.";
+$Definition["Resolve All Discussions"] = "Résoudre toutes les discussions";
+$Definition[
+    "Resolve All Posts will resolve all existing posts in the community. This bulk action will not trigger webhooks or analytics."
+] =
+    "Résoudre tous les messages résoudra tous les messages existants dans la communauté. Cette action de masse ne déclenchera pas de liens de rappel ou d'analyses.";
+$Definition["Resolve All"] = "Résoudre tout";
+$Definition["Required field"] = "Champ obligatoire";
+$Definition[
+    "The new community management system allows for custom reporting reasons, escalations, assignments, and automation rules. Enabling this changes reporting intake to use the new system. <0>Read More</0>."
+] =
+    "Le nouveau système de gestion de la communauté permet de personnaliser les motifs de signalement, les escalades, les affectations et les règles d'automatisation. L'activation de ce champ modifie l'apport de rapports afin d'utiliser le nouveau système. <0>Lire la suite</0>.";
+$Definition[
+    "This will resolve all existing posts in the community. This bulk action will not trigger webhooks or log analytics. Continue?"
+] =
+    "Cette action résoudra tous les messages existants dans la communauté. Cette action en bloc ne déclenchera pas de liens de rappel ou d'analyses de journaux. Continuer ?";
+$Definition["Reorder"] = "Réorganiser";
+$Definition["Add Reason"] = "Ajouter un motif";
+$Definition["Delete?"] = "Supprimer ?";
+$Definition["Are you sure you want to delete this reason?"] =
+    "Êtes-vous sûr de vouloir supprimer ce motif ?";
+$Definition["A concise name for the report reason."] =
+    "Un nom concis pour le motif du rapport.";
+$Definition[
+    "A unique label for the report reason. This label cannot be changed once saved."
+] =
+    "Une étiquette unique pour le motif du rapport. Cette étiquette ne peut pas être modifiée une fois enregistrée.";
+$Definition[
+    "An explanation of the report reason to better reporters make the correct selection when reporting a post."
+] =
+    "Une explication du motif de signalement afin d'aider les déclarants à faire la bonne sélection lorsqu'ils signalent un message.";
+$Definition["The roles which can see this report reason."] =
+    "Les rôles qui peuvent voir ce motif de rapport.";
+$Definition["Add Report Reason"] = "Ajouter un motif de rapport";
+$Definition["Discard Changes?"] = "Annuler les modifications ?";
+$Definition["Are you sure you want to exit without saving?"] =
+    "Êtes-vous sûr de vouloir quitter sans sauvegarder ?";
+$Definition["Reorder Report Reasons"] = "Raisons de la réorganisation du rapport";
+$Definition["Edit Report Reason"] = "Modifier le motif du rapport";
+$Definition["Delete Report Reason"] = "Supprimer le motif du rapport";
+$Definition["This setting must be enabled to use Custom Discussion Threads."] =
+    "Ce paramètre doit être activé pour utiliser les fils de discussion personnalisés.";
+$Definition[
+    "Configure settings used to automatically moderate community content before it is even created. Options include automated spam detections, requiring approval for posting in certain categories, and requiring approval for posting using certain keywords or phrases."
+] =
+    "Configurez les paramètres utilisés pour modérer automatiquement le contenu de la communauté avant même qu'il ne soit créé. Les options comprennent la détection automatique du contenu indésirable, l'obligation d'approuver la publication dans certaines catégories et l'obligation d'approuver la publication à l'aide de certains mots-clés ou phrases.";
+$Definition["Spam Detection"] = "Détection du contenu indésirable";
+$Definition["Learn more."] = "En savoir plus.";
+$Definition["documentation."] = "documentation.";
+$Definition["Verify browsers of new members"] =
+    "Vérifier les navigateurs des nouveaux membres";
+$Definition["Challenge Cutoff Age"] = "Âge limite du défi";
+$Definition[
+    "Number of days since registration to bypass Cloudflare challenge"
+] = "Nombre de jours depuis l'inscription pour contourner le défi de Cloudflare.";
+$Definition["Save challenge cutoff age"] = "Sauvegarder l'âge limite du défi";
+$Definition["Premoderated Roles"] = "Rôles pré-modérés";
+$Definition[
+    "Users with the \"Approval.Require\" permission will require moderator approval for all posts."
+] =
+    "Les utilisateurs disposant de l'autorisation « Approbation.Exiger » doivent obtenir l'approbation d'un modérateur pour tous leurs messages.";
+$Definition[
+    "Users marked as \"Verified\" will bypass this requirement. These are are the roles with \"Approval.Require\""
+] =
+    "Les utilisateurs marqués comme « vérifiés » ne sont pas soumis à cette exigence. Voici les rôles avec « Approbation.Exiger »";
+$Definition["No roles are currently set to require premoderation."] =
+    "Aucun rôle n'est actuellement paramétré pour nécessiter une prémodération.";
+$Definition["Edit Roles"] = "Modifier les rôles";
+$Definition["Premoderated Categories"] = "Catégories pré-modérées";
+$Definition["No categories are currently set to require premoderation."] =
+    "Aucune catégorie n'est actuellement soumise à la prémodération.";
+$Definition["Edit Categories"] = "Modifier les catégories";
+$Definition["Premoderated Keywords"] = "Mots clés pré-modérés";
+$Definition[
+    "Posts with any of the following keywords or phrases will required moderator approval."
+] =
+    "Les messages contenant l'un des mots-clés ou l'une des phrases suivants devront être approuvés par un modérateur.";
+$Definition["No keywords are currently set to require premoderation."] =
+    "Aucun mot-clé n'est actuellement défini comme nécessitant une prémodération.";
+$Definition["Edit Keywords"] = "Modifier les mots-clés";
+$Definition[
+    "Enable Akismet to filter spam in all posts by applicant registrations and unverified users. <0/>"
+] =
+    "Activez Akismet pour filtrer le contenu indésirable de tous les messages des candidats à l'inscription et des utilisateurs non vérifiés. <0/>";
+$Definition[
+    "Enable Stopforumspam to check community users against a list of reported spammers, and either reports the post as spam or rejects them outright. The reporting and rejecting thresholds are managed in the <0>addon's settings</0>. Learn more in the <1/>"
+] =
+    "Activez Stopforumspam pour comparer les utilisateurs de la communauté à une liste d'expéditeurs de contenu indésirable signalés, et signale le message comme étant indésirable ou le rejette d'emblée. Les seuils de signalement et de rejet sont gérés dans les paramètres du <0>module d'extension</0>. Pour en savoir plus, consultez le <1/>";
+$Definition[
+    "Unverified members who have been in the community for less than the specified number of days will be prompted to complete a Cloudflare (Captcha or Checkbox) challenge to prevent spam. <0/>"
+] =
+    "Les membres non vérifiés qui sont dans la communauté depuis moins du nombre de jours spécifié seront invités à relever un défi Cloudflare (Captcha ou case à cocher) afin d'éviter le contenu indésirable. <0/>";
+$Definition["%s in the following categories will require moderator approval."] =
+    "%s dans les catégories suivantes nécessitent l'approbation d'un modérateur.";
+$Definition["Default Sort Order"] = "Ordre de tri par défaut";
+$Definition["Choose the order records are sorted by default."] =
+    "Choisissez l'ordre dans lequel les enregistrements sont triés par défaut.";
+$Definition["Show OP Indicator"] = "Afficher l'indication OP";
+$Definition[
+    "If this option is enabled, replies from the Original Poster will have an OP indicator."
+] =
+    "Si cette option est activée, les réponses provenant de l'auteur initial de la publication seront marquées de l'indication OP (Original Poster).";
+$Definition["Show Badges"] = "Afficher les badges";
+$Definition["Badges Limit"] = "Limite des badges";
+$Definition[
+    "Show users' badges on each post. Up to a maximum of 5 badges may be displayed by order of highest ranking."
+] =
+    "Afficher les badges des utilisateurs sur chaque publication. Jusqu'à cinq badges peuvent être affichés dans l'ordre du rang le plus élevé au moins élevé.";
+$Definition["event"] = "événement";
+$Definition["<0/> <1/> more comments"] = "<0/> <1/> autres commentaires";
+$Definition["Export"] = "Exporter";
+
+$Definition["Homepage titles can only be between 1 and 500 characters"] =
+    "Les titres de la page d'accueil doivent avoir entre 1 et 500 caractères";
+$Definition["Address Bar Color"] = "Couleur de la barre d'adresse";
+$Definition["Meta Tags"] = "Balises meta";
+$Definition[
+    "Meta Tags are used for domain verification for Google Search Console and other services. Copy the required Meta Tags from your source and paste onto a new line."
+] =
+    "Les balises meta sont utilisées pour la vérification du domaine pour Google Search Console et d'autres services. Copiez les balises meta requises depuis votre source et collez-les dans une nouvelle ligne.";
+$Definition[
+    "Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines."
+] =
+    "Réfléchissez à la façon dont vous pensez décrire votre site ici. Donner à votre site une description brève et significative peut vous aider à être positionné correctement dans les moteurs de recherche.";
+$Definition["Style Guides"] = "Guides de style";
+$Definition["Branding & Assets"] = "Image de marque et Attributs de marque";
+$Definition["Home Pages"] = "Pages d'accueil";
+$Definition["Home Layout Settings"] = "Paramètres de mise en page de la page d'accueil";
+$Definition["Category Pages"] = "Pages de catégories";
+$Definition["Category Layout Settings"] = "Paramètres de mise en page des catégories";
+$Definition["Category List Pages"] = "Pages de liste des catégories";
+$Definition["Posting Category Pages"] = "Pages des catégories de publications";
+$Definition["Nested Category Pages"] = "Pages des catégories imbriquées";
+$Definition["Discussion Pages"] = "Pages de discussion";
+$Definition["Idea Pages"] = "Pages d'idées";
+$Definition["Question Pages"] = "Pages de questions";
+$Definition["Post Pages"] = "Pages de publications";
+$Definition["Post Layout Settings"] = "Paramètres de mise en page des publications";
+$Definition["Create Post Pages"] = "Pages de création de publications";
+$Definition["Create Post Layout Settings"] = "Paramètres de mise en page de la création de publications";
+$Definition["Event Pages"] = "Pages des événements";
+$Definition["Event Layout Settings"] = "Paramètres de mise en page des événements";
+$Definition["Knowledge Base Pages"] = "Pages de la base de connaissances";
+$Definition["Knowledge Base Layout Settings"] =
+    "Paramètres de mise en page de la base de connaissances";
+$Definition["Knowledge Base Home Pages"] = "Pages d'accueil de la base de connaissances";
+$Definition["Help Center Home Pages"] = "Pages d'accueil du centre d'aide";
+$Definition["Help Center Category Pages"] = "Pages de catégories du centre d'aide";
+$Definition["Help Center Article Pages"] = "Pages d'articles du centre d'aide";
+$Definition["Guide Article Pages"] = "Pages d'articles des guides";
+$Definition["Layouts"] = "Mises en page";
+$Definition["Add Custom Layout"] = "Ajouter une mise en page personnalisée";
+$Definition["Choose the preferred Legacy Recent Posts Layout."] =
+    "Sélectionnez le modèle de mise en page souhaité pour les publications récentes.";
+$Definition["Legacy Recent Posts Layouts"] = "Modèles de mise en page pour les publications récentes";
+$Definition["Change layout versions for the <0/>."] =
+    "Modifier les versions de mise en page pour les <0/>.";
+$Definition["To learn more, <0>see the documentation</0>."] =
+    "Pour en savoir plus, <0>voir la documentation</0>.";
+$Definition["Change %s"] = "Modifier %s";
+$Definition["Are you sure you want to use %s?"] =
+    "Voulez-vous vraiment utiliser %s ?";
+$Definition["Legacy Home Layouts"] = "Modèles de mise en page pour la page d'accueil";
+$Definition["Choose the preferred Legacy Home Layout."] =
+    "Sélectionnez le modèle de mise en page désiré pour la page d'accueil.";
+$Definition["Home Layout Version"] = "Version de la mise en page d'accueil";
+$Definition["Custom Home Layouts"] = "Mises en page personnalisées pour la page d'accueil";
+$Definition["Legacy Category Layout"] = "Modèle de mise en page pour les catégories";
+$Definition["Choose the preferred Legacy Category Layout."] =
+    "Sélectionnez le modèle de mise en page désiré pour les catégories.";
+$Definition["Category Layout Version"] = "Version de la mise en page des catégories";
+$Definition["Legacy Category Layouts"] = "Modèles de mise en page pour les catégories";
+$Definition["Custom Category Layouts"] = "Mises en page personnalisées pour les catégories";
+$Definition["Legacy Post Layout"] = "Modèle de mise en page pour les publications";
+$Definition["Choose the preferred Legacy Post Layout."] =
+    "Sélectionnez le modèle de mise en page désiré pour les publications.";
+$Definition["Post Layout Version"] = "Version de la mise en page des publications";
+$Definition["Legacy Post Layouts"] = "Modèles de mises en page pour les publications";
+$Definition["Custom Post Layouts"] = "Mises en page personnalisées pour les publications";
+$Definition["Legacy Create Post Layout"] = "Modèle de mise en page pour la création de publications";
+$Definition["Choose the preferred Legacy Create Post Layout."] =
+    "Sélectionnez le modèle de mise en page désiré pour la création de publications.";
+$Definition["Create Post Layout Version"] = "Version de la mise en page de création de publications";
+$Definition["Legacy Create Post Layouts"] = "Modèles de mise en page pour la création de publications";
+$Definition["Custom Create Post Layouts"] = "Mises en page personnalisées pour la création de publications";
+$Definition["Legacy Event Layout"] = "Modèle de mise en page pour les événements";
+$Definition["Choose the preferred Legacy Event Layout."] =
+    "Sélectionnez le modèle de mise en page pour les événements.";
+$Definition["Event Layout Version"] = "Version de la mise en page des événements";
+$Definition["Legacy Event Layouts"] = "Modèles de mise en page pour les événements";
+$Definition["Custom Event Layouts"] = "Mises en pages personnalisées pour les événements";
+$Definition["Created <0/> by <1/>."] = "Créée <0/> par <1/>.";
+$Definition["Layout Options"] = "Options de mise en page";
+$Definition["Contextual Description"] = "Description contextuelle";
+$Definition["Skip to end of Carousel"] = "Passer à la fin du carrousel";
+$Definition["Previous Slides"] = "Slides précédents";
+$Definition["Next Slides"] = "Slides suivants";
+$Definition["indicator navigation"] = "indicateur de navigation";
+$Definition["<0/> new"] = "<0/> nouvelles";
+$Definition["%d slides on display initial slide %d of %d"] =
+    "%d slides affichés slide initial %d sur %d";
+$Definition["Unassigned"] = "Non attribué";
+$Definition["Apply Layout to Site Home Page"] =
+    "Appliquer la mise en page à la page d'accueil du site";
+$Definition["Set as default layout for specific subcommunities."] =
+    "Définir comme mise en page par défaut pour certaines sous-communautés spécifiques.";
+$Definition["Apply to specific categories."] = "Appliquer à certaines catégories spécifiques.";
+$Definition["This layout cannot be deleted because it is a layout template."] =
+    "Cette mise en page ne peut pas être supprimée car il s'agit d'un modèle de mise en page.";
+$Definition["Delete Layout"] = "Supprimer la mise en page";
+$Definition["Are you sure you want to delete?"] =
+    "Voulez-vous vraiment la supprimer ?";
+$Definition["Applied"] = "Appliquée";
+$Definition["Applied as default"] = "Appliquée par défaut";
+$Definition["View Category"] = "Voir la catégorie";
+$Definition["Apply to specific subcommunities."] =
+    "Appliquer à certaines sous-communautés spécifiques.";
+$Definition["Unable to re-assign default template"] =
+    "Impossible de réattribuer le modèle par défaut";
+$Definition[
+    "This layout is a template and is assigned as the default for all pages of this type. To remove it as the default or to assign it to specific pages, you must assign a different layout as the default."
+] =
+    "Cette mise en page est un modèle et est attribuée par défaut à toutes les pages de ce type. Pour la supprimer comme mise en page par défaut ou l'attribuer à des pages spécifiques, vous devez sélectionner une autre mise en page par défaut.
+";
+$Definition["This layout cannot be deleted because it is currently applied."] =
+    "Cette mise en page ne peut pas être supprimée car elle est actuellement appliquée.";
+$Definition["Set as default layout for all <0 />."] =
+    "Définir comme mise en page par défaut pour tous les <0 />.";
+$Definition["Legacy Knowledge Base Layout"] = "Modèle de mise en page pour la base de connaissances";
+$Definition["Choose the preferred Legacy Knowledge Base Layout."] =
+    "Sélectionnez le modèle de mise en page désiré pour la base de connaissances.";
+$Definition["Knowledge Base Layout Version"] = "Version de la mise en page de la base de connaissances";
+$Definition["Legacy Knowledge Base Layouts"] = "Modèles de mise en page pour la base de connaissances";
+$Definition["Custom Knowledge Base Layouts"] = "Mises en pages personnalisées pour la base de connaissances";
+$Definition["Article Count"] = "Nombre d'articles";
+$Definition["Legacy Layouts enabled"] = "Modèles de mise en page activés";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Ce changement de mise en page ne sera pas visible tant que vous n'aurez pas activé les mises en page personnalisées.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "Ce changement de mise en page ne sera pas visible tant que vous n'aurez pas activé les mises en pages personnalisées pour votre communauté <0/> sur la <1/> page.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Définir comme mise en page par défaut pour certaines bases de connaissances spécifiques.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "Le site ne vous autorise pas à vous connecter avec un utilisateur existant.";
+$Definition["The username you entered has already been taken."] =
+    "Le nom d'utilisateur que vous avez saisi a déjà été pris.";
+$Definition["There was an error fetching the connection data."] =
+    "Une erreur s'est produite lors de l'extraction des données de connexion.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "L'authentification de votre demande de réinitialisation de mot de passe a échoué. Essayez à nouveau d'utiliser le formulaire de demande de réinitialisation.";
+$Definition["Invitation not found."] = "Invitation non trouvée.";
+
+$Definition['# of automation rules'] = 'Nombre de règles d\'automatisation';
+$Definition['Add Template'] = 'Ajouter un modèle';
+$Definition['Choose who should receive this email when this automation rule is run'] = 'Choisissez les destinataires de ce courriel lorsque cette règle d\'automatisation est exécutée';
+$Definition['Delete an email template.'] = 'Supprimer un modèle de courriel.';
+$Definition['Email Audience'] = 'Destinataires des courriels';
+$Definition['Email Template'] = 'Modèle de courriel';
+$Definition['Email Templates'] = 'Modèles de courriel';
+$Definition['Email Template successfully deleted.'] = 'Le modèle de courriel a été supprimé avec succès.';
+$Definition['Email Template not enabled.'] = 'Le modèle de courriel n\'est pas activé.';
+$Definition['Email template not found.'] = 'Modèle de courriel introuvable.';
+$Definition['Email template name already exists. Enter a unique name to proceed.'] = 'Le nom du modèle de courriel existe déjà. Veuillez saisir un nom unique pour continuer.';
+$Definition['Email templates can be used in conjunction with <0/> to communicate with users based on member activity or other community triggers.'] = 'Les modèles de courriel peuvent être utilisés conjointement avec <0/> pour communiquer avec les utilisateurs en fonction de l\'activité des membres ou d\'autres déclencheurs de la communauté.';
+$Definition['Enable this option to send a follow-up email when the rule is triggered.'] = 'Activez cette option pour envoyer un courriel de suivi lorsque la règle est déclenchée.';
+$Definition['Impacted User'] = 'Utilisateur concerné';
+$Definition['Search and select one or more roles to receive this email'] = 'Recherchez et sélectionnez un ou plusieurs rôles pour recevoir ce courriel';
+$Definition['Search and select one or more users to receive this email.'] = 'Recherchez et sélectionnez un ou plusieurs utilisateurs pour recevoir ce courriel.';
+$Definition['Select Roles'] = 'Sélectionner les rôles';
+$Definition['Select User'] = 'Sélectionner l\'utilisateur';
+$Definition['Select the email template to send.'] = 'Sélectionnez le modèle de courriel à envoyer.';
+$Definition['Send an Email After This Rule Runs'] = 'Envoyer un courriel après l\'exécution de cette règle';
+$Definition['Send email'] = 'Envoyer un courriel';
+$Definition['Send the email'] = 'Envoyer le courriel';
+$Definition['Send email to user'] = 'Envoyer un courriel à un utilisateur';
+$Definition['Specific Roles'] = 'Rôles spécifiques';
+$Definition['Specific Users'] = 'Utilisateurs spécifiques';
+$Definition['System email templates cannot be deleted.'] = 'Les modèles de courriel système ne peuvent pas être supprimés.';
+$Definition['template name'] = 'Nom du modèle';
+$Definition['Use this page to create and manage your templates, then configure your <0/> to control when each email is sent and to whom.'] = 'Utilisez cette page pour créer et gérer vos modèles, puis configurez votre <0/> afin de contrôler quand chaque courriel est envoyé et à qui.';
+$Definition['View the full list of available placeholders.'] = 'Consultez la liste complète des variables de remplacement disponibles.';
+$Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Vous pouvez également inclure des variables dans le contenu de votre courriel : celles-ci seront automatiquement remplacées par les informations pertinentes concernant l\'utilisateur ou la publication au moment de l\'envoi du courriel. Par exemple : « Bonjour {user.name} ! » ou « Découvrez {discussion.name} ».';
+$Definition['You cannot delete system emails'] = 'Vous ne pouvez pas supprimer les courriels système';
+$Definition['You cannot delete a template that is used in automation rules.'] = 'Vous ne pouvez pas supprimer un modèle utilisé dans les règles d\'automatisation.';
+$Definition['You will no longer receive community engagement emails.'] = 'Vous ne recevrez plus de courriels relatifs à l\'engagement communautaire.';
+$Definition['Delete Email Template'] = 'Supprimer un modèle de courriel';
+$Definition["Template Styles"] = "Styles des modèles";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Laissez les champs vides pour utiliser vos styles de courriel par défaut tels qu'ils sont configurés sur la page <0>Paramètres des courriels</0>.";
