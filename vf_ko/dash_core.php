@@ -845,7 +845,6 @@ $Definition['InvitationMessage'] = '안녕 친구!
  제가 새로 만든 커뮤니티 포럼을 확인해 보세요. 온라인에서 서로 소통할 수 있는 좋은 공간입니다.
 
  아래 링크를 따라 로그인하세요.';
-Follow the link below to log in.';
 $Definition['Invitation not found.'] = '초대장을 찾을 수 없습니다.';
 $Definition['Invitations per month'] = '월별 초대 횟수';
 $Definition['Invitations will expire'] = '초대 기간 만료';

@@ -753,6 +753,7 @@ $Definition['Guest Sign In'] = 'Вход для гостей';
 $Definition['Guide Article Pages'] = 'Страницы статей руководства';
 $Definition['Guide Overview'] = 'Обзор руководства';
 $Definition['Guide Pager'] = 'Пейджер-гид';
+
 $Definition['has been unanswered'] = 'остался без ответа';
 $Definition['Hash Algorithm'] = 'Алгоритм хеширования';
 $Definition['has not received any comments'] = 'не получил никаких комментариев';
