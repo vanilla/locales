@@ -2471,3 +2471,4 @@ $Definition["User Spotlight"] = "User Spotlight";
 $Definition["Who's Online"] = "Who's Online";
 $Definition["Widgets"] = "Widgets";
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>';
