@@ -525,6 +525,7 @@ $Definition['Browse Discussions'] = 'Разгледайте дискусиите
 $Definition['Browse Groups'] = 'Разглеждане на групи';
 $Definition['Browse our discussions and join the conversation'] = 'Разгледайте нашите дискусии и се присъединете към разговора';
 $Definition['Browse popular groups.'] = 'Прегледайте популярните групи.';
+$Definition['browser preference'] = 'предпочитания на браузъра';
 $Definition['Built with IBM watsonx'] = 'Създаден с IBM Watsonx';
 $Definition['Bulk User Import'] = 'Групово импортиране на потребители';
 $Definition['Bulleted List'] = 'Списък с маркери';
@@ -616,6 +617,7 @@ $Definition['Choose a tag...'] = 'Изберете етикет...';
 $Definition['Choose language'] = 'Изберете език';
 $Definition['Choose Preview Styleguide'] = 'Изберете Преглед на ръководството за стилове';
 $Definition['Choose tags...'] = 'Изберете етикети...';
+$Definition['Choose the language you want to use across the community. This setting controls the language used for navigation, translated content, and all emails and notifications you receive.'] = 'Изберете езика, който искате да използвате в общността. Тази настройка контролира езика, използван за навигация, преведено съдържание и всички имейли и известия, които получавате.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Изберете главната дискусия, в която ще бъдат обединени всички коментари:';
 $Definition['Choose the Type of Section'] = 'Изберете типа на секцията';
 $Definition['Choose to be notified by notification popup or email.'] = 'Изберете да бъдете уведомявани чрез изскачащ прозорец или имейл.';
@@ -1049,10 +1051,10 @@ $Definition['EmailMembershipApproved'] = 'Здравейте %1$s,
 Приятен ден!';
 $Definition['EmailNotification'] = '%1$s
 
-Follow the link below to check it out:
-%2$s
+ Следвайте връзката по-долу, за да го проверите:
+ %2$s
 
-Приятен ден!';
+ Приятен ден!';
 $Definition['Email Notifications'] = 'Email уведомления';
 $Definition['Email Or Username'] = 'Имейл или потребителско име';
 $Definition['EmailPassword'] = '%2$s възстанови паролата ви в %3$s. Сега Вашите детайли за вход са:
@@ -1074,13 +1076,13 @@ $Definition['EmailStory.RoleRequest.Approved'] = 'Вашето заявлени�
 $Definition['EmailStory.RoleRequest.Denied'] = 'Вашето заявление е отхвърлено.';
 $Definition['EmailStoryNotification'] = '%1$s
 
-%3$s
+ %3$s
 
----
-Follow the link below to check it out:
-%2$s
+ ---
+ Следвайте връзката по-долу, за да го проверите:
+ %2$s
 
-Приятен ден!';
+ Приятен ден!';
 $Definition['Email Styles Options'] = 'Опции за стилове на имейли';
 $Definition['Email Template'] = 'Шаблон за имейл';
 $Definition['Email Template Name'] = 'Име на шаблона за имейл';
@@ -3144,7 +3146,6 @@ $Definition['Trending Posts'] = 'Набиращи популярност пуб�
 $Definition['Triage'] = 'Триаж';
 $Definition['Trigger Delay'] = 'Закъснение на задействането';
 $Definition['Troll.Content'] = '<b>Сянка Забранена</b><ul><li> Този потребител е скрит и е баннат. Скритата банна ограничава видимостта на съдържанието на този потребител (публикации, коментари и др.) за други, без да ги уведомява. Потребителят все още може да взаимодейства с платформата, но неговите приноси са скрити от другите потребители.</li></ul>';
-$Definition['Troll'] = 'Трол';
 $Definition['Try adjusting your filters.'] = 'Опитайте да коригирате филтрите си.';
 $Definition['Try Again'] = 'Опитайте отново';
 $Definition['Turn ON'] = 'Включи';
@@ -3274,6 +3275,7 @@ $Definition['Usernames'] = 'Потребителски имена';
 $Definition['User Not Found'] = 'Потребителят не е намерен';
 $Definition['User not found.'] = 'Съжаляваме, не може да се открие акаунт, свързан с въведения имейл/потребителско име.';
 $Definition['Use Routes with Caution'] = 'Използвайте маршрутите с повишено внимание';
+$Definition['user preference'] = 'предпочитание на потребителя';
 $Definition['Users'] = 'Потребители';
 $Definition['users apply for membership.'] = 'потребители кандидатстват за членство.';
 $Definition['Users Count'] = 'Брой потребители';
@@ -3389,6 +3391,7 @@ $Definition['Warning Type'] = 'Тип предупреждение';
 $Definition['was'] = 'беше';
 $Definition['We\'re having trouble connecting to the AI.'] = 'Имаме проблеми с свързването с изкуствения интелект.';
 $Definition['We\'re having trouble logging you in with the provided credentials.'] = 'Имаме проблеми с влизането ви с предоставените идентификационни данни.';
+$Definition['We\'ve automatically redirected this page because your %s is set to %s.'] = 'Автоматично пренасочихме тази страница, защото вашият %s е зададен на %s.';
 $Definition['We\'ve received a request to change your password.'] = 'Получихме запитване да променим вашата парола в %s. Ако не сте изпратили това запитване, моля, игнорирайте този имейл.';
 $Definition['Website'] = 'Уеб сайт';
 $Definition['weekday.letter.1'] = 'M';
@@ -3519,8 +3522,6 @@ $Definition['You are not allowed to ban a user with the same permission level as
 $Definition['You are not allowed to post in categories with a display type of %s.'] = 'Нямате право да публикувате в категории с тип на показване %s.';
 $Definition['You are not allowed to shadow ban a user that has higher permissions than you.'] = 'Нямате право да забраните потребител с по-високи разрешения от вас.';
 $Definition['You are not allowed to shadow ban a user with the same permission level as you.'] = 'Нямате право да забраните достъпа на потребител със същото ниво на достъп като вас.';
-$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] = 'Нямате право да маркирате потребител, който има по-високи разрешения от вас като трол.';
-$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] = 'Нямате право да маркирате потребител със същото ниво на разрешение като вас като трол.';
 $Definition['You are not allowed to warn a user with higher permissions than you.'] = 'Нямате право да предупреждавате потребител с по-високи разрешения от вас.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] = 'Нямате право да предупреждавате потребител със същото ниво на разрешение като вас.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Напускате %1$s. Последвайте линка, за да продължите към %2$s.';

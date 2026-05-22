@@ -999,16 +999,19 @@ $Definition['Never display on mobile browsers.'] = 'Mai visualizzare sul browser
 $Definition['New/Updated Email domain'] = 'Dominio email nuovo/aggiornato';
 $Definition['New/Updated Profile field'] = 'Campo profilo nuovo/aggiornato';
 $Definition['NewApplicantEmail'] = 'Nuovo candidato:';
+$Definition['New comments by users I\'m following'] = 'Nuovi commenti degli utenti che segui';
 $Definition['New comments in the last day'] = 'Nuovi commenti nell\'ultimo giorno';
 $Definition['New comments in the last week'] = 'Nuovi commenti nella scorsa settimana';
 $Definition['New Community Management System'] = 'Nuovo sistema di gestione della community';
 $Definition['New conversations in the last day'] = 'Nuove conversazioni di ieri';
 $Definition['New conversations in the last week'] = 'Nuove conversazioni nella scorsa settimana';
+$Definition['New discussions by users I\'m following'] = 'Nuove discussioni degli utenti che segui';
 $Definition['New discussions in the last day'] = 'Nuove discussioni di ieri';
 $Definition['New discussions in the last week'] = 'Nuove discussioni nella scorsa settimana';
 $Definition['Newest Escalation'] = 'Escalation più recente';
 $Definition['Newest Post'] = 'Post più recente';
 $Definition['Newest Report'] = 'Segnalazione più recente';
+$Definition['New events by users I\'m following'] = 'Nuovi eventi degli utenti che segui';
 $Definition['New Group Button'] = 'Pulsante Nuovo gruppo';
 $Definition['New Icon'] = 'Nuova icona';
 $Definition['New messages in the last day'] = 'Nuovi messaggi di ieri';
@@ -1044,6 +1047,7 @@ $Definition['Notify me when my questions have AI Suggested Answers'] = 'Avvisami
 $Definition['Notify me when people comment on a discussion.'] = 'Inviami notifiche quando gli utenti commentano una discussione.';
 $Definition['Notify me when people start new discussions.'] = 'Inviami notifiche quando gli utenti iniziano una nuova discussione.';
 $Definition['Not Spam'] = 'No Spam';
+$Definition['No users followed'] = 'Nessun utente seguito';
 $Definition['Number input must be between'] = 'Il numero immesso deve essere compreso tra';
 $Definition['Number input must be between 1 and 100.'] = 'L\'input numerico deve essere compreso tra 1 e 100.';
 $Definition['Number of %s listed per page.'] = 'Numero di %s elencati/e per pagina.';
@@ -1531,6 +1535,7 @@ $Definition['Unassigned'] = 'Non assegnato';
 $Definition['unconfirmed'] = 'non confermato';
 $Definition['Undo Accept Answer'] = 'Annulla Accetta R
 risposta';
+$Definition['Unfollow user'] = 'Smetti di seguire l’utente';
 $Definition['Uninvite'] = 'Annulla Invito';
 $Definition['Universal Code'] = 'Codice Universale';
 $Definition['Universal Forum Embed Code'] = 'Codice Forum Universale da includere';
@@ -1603,6 +1608,7 @@ $Definition['Version'] = 'Versione';
 $Definition['Version %s'] = 'Versione %s';
 $Definition['version %s'] = 'versione %s';
 $Definition['Version %s Installer'] = 'Versione del Programma d\'Installazione %s';
+$Definition['View all followed users'] = 'Visualizza tutti gli utenti seguiti';
 $Definition['View browser compatibility chart'] = 'Visualizza la tabella di compatibilità del browser';
 $Definition['View Category'] = 'Mostra categoria';
 $Definition['View Count'] = 'Conteggio Visualizzazioni';
@@ -1613,6 +1619,7 @@ $Definition['View in context '] = 'Visualizza nel contesto';
 $Definition['View Page'] = 'Visualizza Pagina';
 $Definition['View post in community'] = 'Visualizza il post nella community';
 $Definition['View the full list of available placeholders.'] = 'Visualizza l\'elenco completo dei segnaposto disponibili.';
+$Definition['View User'] = 'Visualizza utente';
 $Definition['VIP Deploy'] = 'Distribuzione VIP';
 $Definition['Visit Site'] = 'Visita Sito';
 $Definition['Visualize Your Community'] = 'Visualizza la tua community';
@@ -1654,6 +1661,7 @@ $Definition['You are leaving the Email Settings page without saving your changes
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Stai lasciando l\'editor di temi senza aver salvato i tuoi cambiamenti. Assicurati che i tuoi aggiornamenti siano stati salvati prima di uscire.';
 $Definition['You are not allowed to use suggestions'] = 'Non ti è consentito utilizzare suggerimenti';
 $Definition['You are previewing the %s theme.'] = 'Stai visualizzando in anteprima il tema %s.';
+$Definition['You are receiving this email because you are following this user.'] = 'Ricevi questa email perché segui questo utente.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Seleziona la casella accanto all\'utente che ha pubblicato lo spam  per bandirlo e cancellare tutti i suoi posti. <b>Farlo solo se siete sicuri che si tratti di spammers.</b>';
 $Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Puoi includere segnaposti anche nel contenuto dell\'email. Questi verranno automaticamente sostituiti con informazioni relative all\'utente o al post al momento dell\'invio. Ad esempio: "Ciao, {user.name}!" oppure "Dai un\'occhiata a {discussion.name}".';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Se ti capita di rimanere fuori dal tuo forum, puoi sempre accedere utilizzando email e password Vanilla originali su <a href="%1$s">%1$s</a>';
@@ -1691,4 +1699,5 @@ $Definition['You will no longer receive community engagement emails.'] = 'Non ri
 $Definition['Zendesk Knowledge Bases'] = 'Basi di conoscenza di Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'ID o URL della riunione Zoom';
 
+$Definition['{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,user} ha avviato un nuovo evento: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} ha accettato la risposta di {NotifyUserID,your} a una domanda: <a href="{Url,html}">{Data.Name,text}</a>';
