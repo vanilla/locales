@@ -1006,16 +1006,19 @@ $Definition['Never display on mobile browsers.'] = 'Visa aldrig i mobila webblä
 $Definition['New/Updated Email domain'] = 'Ny/Uppdaterad e-postdomän';
 $Definition['New/Updated Profile field'] = 'Ny/Uppdaterad profilfält';
 $Definition['NewApplicantEmail'] = 'Ny ansökan:';
+$Definition['New comments by users I\'m following'] = 'Nya kommentarer från användare jag följer';
 $Definition['New comments in the last day'] = 'Nya kommentarer senaste dygnet';
 $Definition['New comments in the last week'] = 'Nya kommentarer senaste veckan';
 $Definition['New Community Management System'] = 'Nytt Community Management System';
 $Definition['New conversations in the last day'] = 'Nya konversationer senaste dygnet';
 $Definition['New conversations in the last week'] = 'Nya konversationer senaste veckan';
+$Definition['New discussions by users I\'m following'] = 'Nya diskussioner av användare jag följer';
 $Definition['New discussions in the last day'] = 'Nya diskussioner senaste dygnet';
 $Definition['New discussions in the last week'] = 'Nya diskussioner senaste veckan';
 $Definition['Newest Escalation'] = 'Nyaste eskaleringen';
 $Definition['Newest Post'] = 'Nyaste inlägget';
 $Definition['Newest Report'] = 'Nyaste rapporten';
+$Definition['New events by users I\'m following'] = 'Nya händelser av användare jag följer';
 $Definition['New Group Button'] = 'Ny gruppknapp';
 $Definition['New Icon'] = 'Ny Ikon';
 $Definition['New messages in the last day'] = 'Nya meddelanden senaste dygnet';
@@ -1051,6 +1054,7 @@ $Definition['Notify me when my questions have AI Suggested Answers'] = 'Meddela 
 $Definition['Notify me when people comment on a discussion.'] = 'Meddela mig när någon kommenterar en diskussion.';
 $Definition['Notify me when people start new discussions.'] = 'Meddela mig när någon startar en ny diskussion.';
 $Definition['Not Spam'] = 'Ej spam';
+$Definition['No users followed'] = 'Inga användare följde';
 $Definition['Number input must be between'] = 'Sifferinmatning måste vara mellan';
 $Definition['Number input must be between 1 and 100.'] = 'Sifferinmatning måste vara mellan 1 och 100.';
 $Definition['Number of %s listed per page.'] = 'Antal %s listade per sida.';
@@ -1539,6 +1543,7 @@ $Definition['Unable to re-assign default template'] = 'Det gick inte att tilldel
 $Definition['Unassigned'] = 'Otilldelad';
 $Definition['unconfirmed'] = 'obekräftat';
 $Definition['Undo Accept Answer'] = 'Ångra Acceptera svar';
+$Definition['Unfollow user'] = 'Sluta följa användaren';
 $Definition['Uninvite'] = 'Avbryt inbjudan';
 $Definition['Universal Code'] = 'Universell kod';
 $Definition['Universal Forum Embed Code'] = 'Universell inbäddad kod för forum';
@@ -1609,6 +1614,7 @@ $Definition['Vanilla is installed!'] = 'Vanilla är installerat!';
 $Definition['Verified!'] = 'Bekräftad!';
 $Definition['Verify browsers of new members'] = 'Verifiera webbläsare för nya medlemmar';
 $Definition['Version %s Installer'] = 'Installering för version %s';
+$Definition['View all followed users'] = 'Visa alla följade användare';
 $Definition['View browser compatibility chart'] = 'Visa webbläsarkompatibilitetsdiagram';
 $Definition['View Category'] = 'Visa kategori';
 $Definition['View Count'] = 'Antal visningar';
@@ -1619,6 +1625,7 @@ $Definition['View in context '] = 'Se i sammanhang';
 $Definition['View Page'] = 'Visa sida';
 $Definition['View post in community'] = 'Visa inlägg i communityn';
 $Definition['View the full list of available placeholders.'] = 'Se hela listan över tillgängliga platshållare.';
+$Definition['View User'] = 'Visa användare';
 $Definition['VIP Deploy'] = 'VIP-utplacering';
 $Definition['Visit Site'] = '← Besök sidan';
 $Definition['Visualize Your Community'] = 'Visualisera din grupp';
@@ -1660,6 +1667,7 @@ $Definition['You are leaving the theme editor without saving your changes. Make 
 Se till att dina uppdateringar sparas innan du lämnar.';
 $Definition['You are not allowed to use suggestions'] = 'Du får inte använda förslag';
 $Definition['You are previewing the %s theme.'] = 'Du förhandsvisar temat %s.';
+$Definition['You are receiving this email because you are following this user.'] = 'Du får det här e-postmeddelandet eftersom du följer den här användaren.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Bocka för rutan bredvid den användare som postade skräpmeddelandet för att även banna användaren och radera alla dennes inlägg.  <b>Gör detta endast om du är säker på att det är spammaren.</b>';
 $Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Du kan också inkludera platsmarkörer i ditt e-postmeddelande – dessa ersätts automatiskt med relevant användar- eller inläggsinformation när e-postmeddelandet skickas. Till exempel Hej {user.name}! eller Kolla in {discussion.name}.';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Om du någon gång blir utlåst från ditt forum kan du alltid logga in genom att använda din ordinarie Vanilla e-post och lösenord på <a href="%1$s">%1$s</a>';
@@ -1696,4 +1704,5 @@ $Definition['You will no longer receive community engagement emails.'] = 'Du kom
 $Definition['Zendesk Knowledge Bases'] = 'Zendesk kunskapsbaser';
 $Definition['Zoom Meeting ID or URL'] = 'Zoom mötes-ID eller URL';
 
+$Definition['{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,user} startade en ny händelse: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} accepterade {NotifyUserID,your} svar på en fråga: <a href="{Url,html}">{Data.Name,text}</a>';

@@ -768,16 +768,19 @@ $Definition['never'] = 'nigdy';
 $Definition['New/Updated Email domain'] = 'Nowa/Zaktualizowana domena e-mail';
 $Definition['New/Updated Profile field'] = 'Nowe/zaktualizowane pole profilu';
 $Definition['NewApplicantEmail'] = 'New applicant:';
+$Definition['New comments by users I\'m following'] = 'Nowe komentarze użytkowników, których obserwuję';
 $Definition['New comments in the last day'] = 'Nowe komentarze w ciągu ostatniego dnia';
 $Definition['New comments in the last week'] = 'Nowe komentarze w ciągu ostatniego tygodnia';
 $Definition['New Community Management System'] = 'Nowy system zarządzania społecznością';
 $Definition['New conversations in the last day'] = 'Nowe konwersacje w ciągu ostatniego dnia';
 $Definition['New conversations in the last week'] = 'Nowe konwersacje w ciągu ostatniego tygodnia';
+$Definition['New discussions by users I\'m following'] = 'Nowe dyskusje użytkowników, których obserwuję';
 $Definition['New discussions in the last day'] = 'Nowe dyskusje w ciągu ostatniego dnia';
 $Definition['New discussions in the last week'] = 'Nowe dyskusje w ciągu ostatniego tygodnia';
 $Definition['Newest Escalation'] = 'Najnowsza eskalacja';
 $Definition['Newest Post'] = 'Najnowszy post';
 $Definition['Newest Report'] = 'Najnowszy raport';
+$Definition['New events by users I\'m following'] = 'Nowe wydarzenia od obserwowanych przeze mnie użytkowników';
 $Definition['New Group Button'] = 'Nowy przycisk grupy';
 $Definition['New Icon'] = 'Nowa ikona';
 $Definition['New messages in the last day'] = 'Nowe wiadomości w ciągu ostatniego dnia';
@@ -807,6 +810,7 @@ $Definition['Note this layout change will not be visible until you switch to cus
 $Definition['Notifications will appear here.'] = 'Powiadomienia pojawią się tutaj.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['Notify me when my questions have AI Suggested Answers'] = 'Powiadom mnie, gdy moje pytania będą miały sugerowane odpowiedzi AI';
+$Definition['No users followed'] = 'Brak obserwowanych użytkowników';
 $Definition['Number input must be between'] = 'Wprowadzona liczba musi mieścić się pomiędzy';
 $Definition['Number input must be between 1 and 100.'] = 'Wprowadzona liczba musi mieścić się w przedziale od 1 do 100.';
 $Definition['Number of %s listed per page.'] = 'Liczba %s wymienionych na stronie.';
@@ -1197,6 +1201,7 @@ $Definition['Unable to re-assign default template'] = 'Nie można ponownie przyp
 $Definition['Unassigned'] = 'Nieprzypisane';
 $Definition['unconfirmed'] = 'niepotwierdzone';
 $Definition['Undo Accept Answer'] = 'Cofnij Akceptuj odpowiedź';
+$Definition['Unfollow user'] = 'Przestań obserwować użytkownika';
 $Definition['Universal Forum Embed Code'] = 'Kod osadzania dla forum ogólnego';
 $Definition['Unlimited'] = 'Nielimitowane';
 $Definition['Unsaved Changes'] = 'Niezapisane zmiany';
@@ -1255,6 +1260,7 @@ $Definition['Verify browsers of new members'] = 'Zweryfikuj przeglądarki nowych
 $Definition['Version'] = 'Wersja';
 $Definition['Version %s'] = 'Wersja %s';
 $Definition['version %s'] = 'wersja %s';
+$Definition['View all followed users'] = 'Wyświetl wszystkich obserwowanych użytkowników';
 $Definition['View browser compatibility chart'] = 'Zobacz tabelę kompatybilności przeglądarek';
 $Definition['View Category'] = 'Zobacz kategorię';
 $Definition['View Count'] = 'Licznik wyświetleń';
@@ -1264,6 +1270,7 @@ $Definition['View History'] = 'Zobacz historię';
 $Definition['View in context '] = 'Zobacz w kontekście';
 $Definition['View post in community'] = 'Zobacz post w społeczności';
 $Definition['View the full list of available placeholders.'] = 'Zobacz pełną listę dostępnych symboli zastępczych.';
+$Definition['View User'] = 'Wyświetl użytkownika';
 $Definition['VIP Deploy'] = 'Wdrażanie VIP';
 $Definition['Visit Site'] = 'Odwiedź stronę';
 $Definition['Visualize Your Community'] = 'Wizualizuj swoją społeczność';
@@ -1296,6 +1303,7 @@ $Definition['You\'ve reached the maximum login attempts. Please wait %s and try 
 $Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'Opuszczasz stronę Ustawienia e-mail bez zapisywania zmian. Przed wyjściem upewnij się, że aktualizacje zostały zapisane.';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Wychodzisz z edytora bez zapisania zmian. Przed wyjściem upewnij się, że zmiany zostały zapisane.';
 $Definition['You are not allowed to use suggestions'] = 'Nie masz uprawnień do korzystania z sugestii';
+$Definition['You are receiving this email because you are following this user.'] = 'Otrzymujesz tę wiadomość e-mail, ponieważ obserwujesz tego użytkownika.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'Możesz również dodać symbole zastępcze do treści e-maila – zostaną one automatycznie zastąpione odpowiednimi informacjami o użytkowniku lub wpisie po wysłaniu wiadomości. Na przykład: Witaj {user.name}! lub Sprawdź {discussion.name}.';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Jeśli masz zablokowane wejście na swoje forum możesz się zalogować używając adresu e-mail i hasła podanego przy rejestracji <a href="%1$s">%1$s</a>';
@@ -1320,4 +1328,5 @@ $Definition['You will no longer receive community engagement emails.'] = 'Nie b�
 $Definition['Zendesk Knowledge Bases'] = 'Bazy wiedzy Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'Identyfikator lub adres URL spotkania Zoom';
 
+$Definition['{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,user} rozpoczął nowe wydarzenie: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You} zaakceptował(a) odpowiedź {NotifyUserID,your} na pytanie: <a href="{Url,html}">{Data.Name,text}</a>';

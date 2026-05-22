@@ -800,16 +800,19 @@ $Definition['Nested Category Pages'] = 'ネストされたカテゴリページ'
 $Definition['never'] = 'なし (無期限)';
 $Definition['New/Updated Email domain'] = '新規/更新された電子メールドメイン';
 $Definition['New/Updated Profile field'] = '新規/更新されたプロフィールフィールド';
+$Definition['New comments by users I\'m following'] = 'フォロー中のユーザーによる新しいコメント';
 $Definition['New comments in the last day'] = '過去一日間の新規コメント数';
 $Definition['New comments in the last week'] = '過去一週間の新規コメント数';
 $Definition['New Community Management System'] = '新しいコミュニティー管理システム';
 $Definition['New conversations in the last day'] = '過去一日間の新規会話数';
 $Definition['New conversations in the last week'] = '過去一週間の新規会話数';
+$Definition['New discussions by users I\'m following'] = 'フォロー中のユーザーによる新しいディスカッション';
 $Definition['New discussions in the last day'] = '過去一日間の新規ディスカッション数';
 $Definition['New discussions in the last week'] = '過去一週間の新規ディスカッション数';
 $Definition['Newest Escalation'] = '最も新しいエスカレーション';
 $Definition['Newest Post'] = '最も新しい投稿';
 $Definition['Newest Report'] = '最も新しい報告';
+$Definition['New events by users I\'m following'] = 'フォロー中のユーザーによる新しいイベント';
 $Definition['New Group Button'] = '新規グループボタン';
 $Definition['New Icon'] = '新しいアイコン';
 $Definition['New messages in the last day'] = '過去一日間の新規メッセージ数';
@@ -837,6 +840,7 @@ $Definition['Notes'] = 'ノート';
 $Definition['Note this layout change will not be visible until you switch to custom layouts.'] = 'このレイアウトの変更は、カスタム レイアウトに切り替えるまで表示されないことに注意してください。';
 $Definition['Notifications will appear here.'] = '通知がここに表示されます。';
 $Definition['Notify me when my questions have AI Suggested Answers'] = '質問にAI提案された回答がある場合に通知を受ける';
+$Definition['No users followed'] = 'フォローしているユーザーはいません';
 $Definition['Number input must be between'] = '数字入力は次の範囲とする必要があります：';
 $Definition['Number input must be between 1 and 100.'] = '入力できる数字は1から100までです。';
 $Definition['Number of %s listed per page.'] = 'ページ当たりの%s表示数。';
@@ -1238,6 +1242,7 @@ $Definition['Unable to re-assign default template'] = 'デフォルトテンプ�
 $Definition['Unassigned'] = '未割り当て';
 $Definition['unconfirmed'] = '未確認';
 $Definition['Undo Accept Answer'] = '「回答を承認する」を元に戻す';
+$Definition['Unfollow user'] = 'ユーザーのフォローを解除';
 $Definition['Universal Forum Embed Code'] = '全般的フォーラム埋め込みコード';
 $Definition['Unlimited'] = '無制限';
 $Definition['Unsaved Changes'] = '未保存の変更';
@@ -1292,6 +1297,7 @@ $Definition['Verify browsers of new members'] = '新規メンバーのブラウ�
 $Definition['Version'] = 'バージョン';
 $Definition['Version %s'] = 'バージョン %s';
 $Definition['version %s'] = 'バージョン %s';
+$Definition['View all followed users'] = 'フォロー中のすべてのユーザーを表示';
 $Definition['View browser compatibility chart'] = 'ブラウザの互換性チャートを表示する';
 $Definition['View Category'] = 'カテゴリを表示';
 $Definition['View Count'] = 'ビュー数';
@@ -1302,6 +1308,7 @@ $Definition['View in context '] = 'コンテキストで見る';
 $Definition['View Page'] = 'ページを表示';
 $Definition['View post in community'] = 'コミュニティーの投稿を見る';
 $Definition['View the full list of available placeholders.'] = '利用可能なプレースホルダーの一覧を表示します。';
+$Definition['View User'] = 'ユーザーを表示';
 $Definition['VIP Deploy'] = 'VIPデプロイ';
 $Definition['Visit Site'] = 'サイトへ移動';
 $Definition['Visualize Your Community'] = 'コミュニティーを視覚化';
@@ -1335,6 +1342,7 @@ $Definition['You\'ve reached the maximum login attempts. Please wait %s and try 
 $Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = '変更を保存せずに電子メールの設定ページを離れようとしています。終了する前に、更新が保存されていることを確認してください。';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '変更を保存せずにテーマエディターを終了しようとしています。 終了する前に、更新内容が保存されていることを確認してください。';
 $Definition['You are not allowed to use suggestions'] = '提案の使用が許可されていません';
+$Definition['You are receiving this email because you are following this user.'] = 'このユーザーをフォローしているため、このメールを受信しています。';
 $Definition['You can also include placeholders in your email content—these will be automatically replaced with relevant user or post information when the email is sent. For example, Hello {user.name}! or Check out {discussion.name}.'] = 'メール本文にもプレースホルダーを使用できます。メール送信時に、関連ユーザーや投稿情報に自動的に置き換えられます。例：こんにちは {user.name}! または {discussion.name} をチェックしてください。';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'メールアドレスとパスワードを使って、いつでも <a href="%1$s">%1$s</a> からログインできます。';
 $Definition['You can make the categories page your homepage.'] = 'カテゴリ一覧のページを<a href="%s">こちら</a>でホーム画面として設定できます。';
@@ -1361,4 +1369,5 @@ $Definition['You will no longer receive community engagement emails.'] = 'コミ
 $Definition['Zendesk Knowledge Bases'] = 'Zendeskナレッジベース';
 $Definition['Zoom Meeting ID or URL'] = 'ZoomミーティングIDまたはURL';
 
+$Definition['{ActivityUserID,user} started a new event: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,user}が新しいイベントを開始しました： <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['{ActivityUserID,You} accepted {NotifyUserID,your} answer to a question: <a href="{Url,html}">{Data.Name,text}</a>'] = '{ActivityUserID,You}が質問に対する{NotifyUserID,your}の回答を採用しました：<a href="{Url,html}">{Data.Name,text}</a>';
