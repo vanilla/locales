@@ -2480,3 +2480,18 @@ $Definition['Unfollow user'] = 'Unfollow user';
 $Definition['View User'] = 'View User';
 $Definition['View all followed users'] = 'View all followed users';
 $Definition['You are receiving this email because you are following this user.'] = 'You are receiving this email because you are following this user.';
+
+// DSA moderation dashboard
+$Definition['Banned User'] = 'Banned User';
+$Definition['Change Status'] = 'Change Status';
+$Definition['Closed - Approved'] = 'Closed - Approved';
+$Definition['Closed - Rejected'] = 'Closed - Rejected';
+$Definition['Explain why you are approving or rejecting this appeal.'] = 'Explain why you are approving or rejecting this appeal.';
+$Definition['Has Appeal'] = 'Has Appeal';
+$Definition['No Appeal'] = 'No Appeal';
+$Definition['Restricted User'] = 'Restricted User';
+$Definition['The current appeal must be resolved before you can restore this post.'] = 'The current appeal must be resolved before you can restore this post.';
+$Definition['The current appeal must be resolved before you can reverse this warning.'] = 'The current appeal must be resolved before you can reverse this warning.';
+$Definition['The current appeal must be resolved before you can unban this user.'] = 'The current appeal must be resolved before you can unban this user.';
+$Definition['Update Appeal Status'] = 'Update Appeal Status';
+$Definition['Update status to'] = 'Update status to';
