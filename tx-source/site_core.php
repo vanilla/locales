@@ -3880,6 +3880,7 @@ $Definition['We received your report and have determined that the content has no
 $Definition['We received your report and we\'ll review it under our moderation process. You will receive a follow-up once a decision is made.'] = 'We received your report and we\'ll review it under our moderation process. You will receive a follow-up once a decision is made.';
 $Definition['We review all appeals carefully. Please include any context or clarifications you\'d like us to consider.'] = 'We review all appeals carefully. Please include any context or clarifications you\'d like us to consider.';
 $Definition['We\'re writing to let you know that your post titled %s was reviewed by a moderator and has been removed on %s.'] = 'We\'re writing to let you know that your post titled %s was reviewed by a moderator and has been removed on %s.';
+$Definition['when your post is removed by the moderation team'] = 'when your post is removed by the moderation team';
 $Definition['You can view the full appeal details below.'] = 'You can view the full appeal details below.';
 $Definition['You do not have permission to message this user.'] = 'You do not have permission to message this user.';
 $Definition['You have been banned'] = 'You have been banned';
@@ -3906,4 +3907,3 @@ $Definition['Your appeal was successful. The post {post.name} has been restored.
 $Definition['Your appeal was successful. Your account has been reinstated.'] = 'Your appeal was successful. Your account has been reinstated.';
 $Definition['Your post <b>%1$s</b> has been removed by moderators.'] = 'Your post <b>%1$s</b> has been removed by moderators.';
 $Definition['Your post has been removed by a moderator'] = 'Your post has been removed by a moderator';
-$Definition['Your post was removed by the moderation team.'] = 'Your post was removed by the moderation team.';
